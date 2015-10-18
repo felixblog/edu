@@ -1,3 +1,12 @@
+Title: Problemi sugli insiemi
+Date: 2015-10-18 23:20
+Modified: 2015-10-18 23:20
+Category: Edu
+Tags: Problemi sugli insiemi
+Slug: problemi-di-insiemi-e-logica
+Authors: Felice Del Mauro
+Summary: Problemi svolti sugli insiemi
+
 **PROBLEMA**
 
 In una classe di 32 alunni, 18 giocano a calcio e 20 a pallavolo. Di
