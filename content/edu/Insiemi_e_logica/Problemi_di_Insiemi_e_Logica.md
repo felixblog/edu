@@ -22,7 +22,7 @@ $$C = \{ x \in U:x\ gioca\ a\ calcio\}$$
 
 $$P = \{ x \in U:x\ gioca\ a\ pallavolo\}$$
 
-e |C| = 18, |P| = 20, $\left| C \cap P \right| = 16.$ Il numero degli
+e $\left| C \right| = 18$, $\left| P \right| = 20$, $\left| C \cap P \right| = 16.$ Il numero degli
 alunni che praticano sport è allora:
 
 $$\left| C \cup P \right| = \left| C \right| + \left| P \right| - \left| C \cap P \right|$$
@@ -31,7 +31,7 @@ Per cui $\left| C \cup P \right| = 18 + 20 - 16 = 22$ ed il numero di
 chi non pratica sport è $\left| U - C - P \right| = 32 - 22 = 10$. La
 situazione è riassunta nella figura seguente, in cui si è indicato con
 ‘\#’ il numero degli elementi del sottoinsieme in cui è posizionato il
-simbolo.
+simbolo ‘\#’ stesso.
 
 ![](media/image1.png)
 
@@ -89,11 +89,11 @@ numero degli inglesi.
 Detto U l’insieme delle persone della sala, e, considerando che
 $x \in U$,
 
-$S = \{ x \in U:\text{x\ }\overset{\grave{}}{e}\ studente\}$;
+$S = \{ x \in U:x\ \overset{\grave{}}{e}\ studente\}$;
 
-$I = \{ x \in U:\text{x\ }\overset{\grave{}}{e}\ inglese\}$;
+$I = \{ x \in U:x\ \overset{\grave{}}{e}\ inglese\}$;
 
-$E = \{ x \in U:\text{x\ }\overset{\grave{}}{e}\ europeo\}$;
+$E = \{ x \in U:x\ \overset{\grave{}}{e}\ europeo\}$;
 
 L’affermazione per cui ogni persona della sala o è europea o è studente
 si traduce in:
@@ -104,15 +104,15 @@ Inoltre
 
 $I \subset U$.
 
-$$\{ x \in U:\text{x\ }\overset{\grave{}}{e}\ studente\ non\ europeo\} = S - E$$
+$$\{ x \in U:x\ \overset{\grave{}}{e}\ studente\ non\ europeo\} = S - E$$
 
-$$\{ x \in U:\text{x\ }\overset{\grave{}}{e}\ inglese\ non\ studente\} = I - S$$
+$$\{ x \in U:x\ \overset{\grave{}}{e}\ inglese\ non\ studente\} = I - S$$
 
-$$\{ x \in U:\text{x\ }\overset{\grave{}}{e}\ studente\ europeo\ non\ inglese\} = (E \cap S) - I$$
+$$\{ x \in U:x\ \overset{\grave{}}{e}\ studente\ europeo\ non\ inglese\} = (E \cap S) - I$$
 
-$$\{ x \in U:\text{x\ }\overset{\grave{}}{e}\ europeo\ non\ inglese\ e\ non\ studente\} = E - I - S$$
+$$\{ x \in U:x\ \overset{\grave{}}{e}\ europeo\ non\ inglese\ e\ non\ studente\} = E - I - S$$
 
-$$\{ x \in U:\text{x\ }\overset{\grave{}}{e}\ studente\ inglese\} = S \cap I$$
+$$\{ x \in U:x\ \overset{\grave{}}{e}\ studente\ inglese\} = S \cap I$$
 
 La figura seguente riepiloga le informazioni sulla cardinalità degli
 insiemi (le cardinalità non note sono indicate con “x”):
@@ -125,7 +125,7 @@ $$12 + 22 + x + 8 + x = 62$$
 
 Semplificando
 
-$$2 \bullet x = 20$$
+$$2 \cdot x = 20$$
 
 Da cui
 
