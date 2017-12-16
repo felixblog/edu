@@ -1,0 +1,14 @@
+## Esempio di albero di espressione -21Â·3:9 + (-1)^2
+
+digraph e {
+ node [fontsize="20"] 
+e -> {e1; e2}; e [label="+"]
+
+e1  -> {e11; 9}; e1 [label=":"]
+
+e2  -> {"-1"; 2}; e2 [label="^"]
+
+e11 -> {"-21"; 3}  e11 [label="·"];
+## label="Struttura dell'espressione 15 + 2:(4-2)"
+}
+
