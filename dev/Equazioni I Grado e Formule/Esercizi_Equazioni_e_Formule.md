@@ -1,7 +1,7 @@
 
 # Esercizi su Equazioni e Formule
 
-### ESERCIZIO - Verifica Soluzione
+### ESERCIZIO 1 - Verifica Soluzione
 
 Controlla se il numero dato è soluzione della equazione.
 
@@ -23,7 +23,7 @@ i) $1,\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$
 
 l) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
 
-### ESERCIZIO - Proprietà dell'uguaglianza
+### ESERCIZIO 2 - Proprietà dell'uguaglianza
 
 Individua quale proprietà dell'uguaglianza è necessaria per risolvere ciascuna delle seguenti equazioni.
 
@@ -45,7 +45,7 @@ h) $\dfrac{3}{2}c = 10;$
 
 i) $-\dfrac{5}{4}h = -5;$
 
-### ESERCIZIO - Risoluzione di equazioni
+### ESERCIZIO 3 - Risoluzione di equazioni
 
 Risolvi le seguenti equazioni scrivendo a fianco di ogni passaggio la proprietà dell'uguaglianza utilizzata.
 
@@ -68,7 +68,7 @@ h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$
 
 
 
-### ESERCIZIO - Soluzione di formule
+### ESERCIZIO 4 - Soluzione di formule
 
 Risolvi ciascuna formula per la variabile indicata.
 
@@ -80,7 +80,7 @@ a) $3x + y = 9 ~~~ per ~~ y \enspace\enspace\enspace 5y - x = 25 ~~~ per ~~ y$
 
 d) $-x + 3y = 9 ~~~ per ~~ y;\enspace\enspace\enspace \dfrac{7}{8}c + w = 9 ~~~ per ~~ c$
 
-### ESERCIZIO - Applicazione di formule
+### ESERCIZIO 5 - Applicazione di formule
 
 Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico. 
 
