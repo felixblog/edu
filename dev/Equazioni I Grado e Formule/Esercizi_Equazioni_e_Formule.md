@@ -74,7 +74,7 @@ Risolvi ciascuna formula per la variabile indicata.
 
 a) $r = c + m ~~~ per ~~ c;\enspace\enspace\enspace a + b + c = 180 ~~~ per ~~ a$
 
-a) $E = I\cdotp R ~~~ per ~~ R \enspace\enspace\enspace I = c\cdotp i\cdotp t ~~~ per ~~ i$
+a) $E = I\cdotp R ~~~ per ~~ R \enspace\enspace\enspace I = C\cdotp i\cdotp t ~~~ per ~~ i$
 
 a) $3x + y = 9 ~~~ per ~~ y \enspace\enspace\enspace 5y - x = 25 ~~~ per ~~ y$
 
@@ -92,7 +92,3 @@ c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà 
 
 d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 2100 Km quale è la velocità media dell'aereo?
 
-
-```python
-
-```

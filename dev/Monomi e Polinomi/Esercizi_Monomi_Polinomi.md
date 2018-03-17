@@ -95,7 +95,7 @@ g) L'IBM è stata fondata 80 anni prima della Apple. La Dell è stata fondata 9 
 1. Indica con una lettera gli anni d'età di una delle aziende e scrivi le espressioni che indicano l'età delle altre.
 2. Il primo Aprile 2008 la Apple ha compiuto 32 anni. Quanti anni avevano le altre due?  
 
-h) Lincoln è stato eletto presidente degli USA 60 anni dopo Jefferson. Trump è stato eletto 215 anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente.
+h) Lincoln è stato eletto presidente degli USA 60 anni dopo Jefferson. Trump è stato eletto 215 anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno n.
 
 ### ESERCIZIO 7 - Espressioni con monomi
 
