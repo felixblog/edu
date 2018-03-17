@@ -208,4 +208,4 @@ a) Una botte contiene 80 litri di vino che vengono versati in 44 bottiglie, part
 
 b) Un treno parte completo dalla stazione A; alla stazione B scendono 42 passeggeri e ne salgono 1/24 di quelli rimasti; nella successiva stazione C scendono 75 passeggeri e ne salgono 3/5 di quelli rimasti più altri 2. Sapendo che alla partenza da C il treno e di nuovo completo, determina quanti passeggeri stanno sul treno. [R. 282]  
 
-c) Per l’ingresso a uno spettacolo, ogni adulto paga 5 euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che 20 bambini e 30 adulti pagano 15 euro di meno di quello che pagano 40 bambini e 15 adulti. [R. 12 euro]
+c) Per l’ingresso a uno spettacolo, ogni adulto paga 5 euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che 20 bambini e 30 adulti pagano 15 euro di meno di quello che pagano 40 bambini e 15 adulti. [R. 18 euro]

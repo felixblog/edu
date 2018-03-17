@@ -70,7 +70,7 @@ h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$
 
 ### ESERCIZIO 4 - Soluzione di formule
 
-Risolvi ciascuna formula per la variabile indicata.
+Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
 
 a) $r = c + m ~~~ per ~~ c;\enspace\enspace\enspace a + b + c = 180 ~~~ per ~~ a$
 
