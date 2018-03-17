@@ -23,6 +23,8 @@ i) $1,\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$
 
 l) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
 
+
+
 ### ESERCIZIO 2 - Proprietà dell'uguaglianza
 
 Individua quale proprietà dell'uguaglianza è necessaria per risolvere ciascuna delle seguenti equazioni.
@@ -44,6 +46,8 @@ g) $9.4 + h = 0.81;$
 h) $\dfrac{3}{2}c = 10;$
 
 i) $-\dfrac{5}{4}h = -5;$
+
+
 
 ### ESERCIZIO 3 - Risoluzione di equazioni
 
@@ -79,6 +83,8 @@ a) $E = I\cdotp R ~~~ per ~~ R \enspace\enspace\enspace I = C\cdotp i\cdotp t ~~
 a) $3x + y = 9 ~~~ per ~~ y \enspace\enspace\enspace 5y - x = 25 ~~~ per ~~ y$
 
 d) $-x + 3y = 9 ~~~ per ~~ y;\enspace\enspace\enspace \dfrac{7}{8}c + w = 9 ~~~ per ~~ c$
+
+
 
 ### ESERCIZIO 5 - Applicazione di formule
 

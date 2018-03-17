@@ -21,6 +21,8 @@ h) Il doppio del valore atteso;
 
 i) 25.000 euro in più del costo c.  
 
+
+
 ### ESERCIZIO 2 - Dalle espressioni alle parole
 
 Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri a e b, scrivi ...”.
@@ -34,9 +36,14 @@ c) $\left(a+b\right)^{2}\left(-a-b\right)^{2}.$
 d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\right)\right]^{2}$:
 
 1. la differenza tra un numero e il suo reciproco al quadrato;  
+
 2. la differenza tra un numero e l'opposto del suo reciproco al quadrato;  
+
 3. il quadrato della differenza tra un numero e l'opposto del suo reciproco;  
+
 4. il quadrato di un numero meno l'opposto del suo reciproco.
+
+   ​
 
 ### ESERCIZIO 3 - Forma normale dei monomi
 
@@ -51,6 +58,8 @@ c) $\dfrac{5}{3}b\left(-4\right)a;$
 d) $a^{2}b\left(-\dfrac{1}{2}\right)a\dfrac{5}{3}b^{3}\left(-4\right)a;$   
 
 
+
+
 ### ESERCIZIO 4 - Somme di monomi
 
 Indica la somma dei seguenti monomi e semplifica il risultato se possibile.
@@ -62,6 +71,8 @@ b) $\dfrac{1}{2}xy; -3xy; 7xy$
 c) $-3a^{2}x; 7ax;$
 
 d) $\dfrac{1}{2}x^{3}y; -x^{3}y$
+
+
 
 ### ESERCIZIO 5 - Prodotti di monomi
 
@@ -97,6 +108,8 @@ g) L'IBM è stata fondata 80 anni prima della Apple. La Dell è stata fondata 9 
 
 h) Lincoln è stato eletto presidente degli USA 60 anni dopo Jefferson. Trump è stato eletto 215 anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno n.
 
+
+
 ### ESERCIZIO 7 - Espressioni con monomi
 
 Semplifica le seguenti espressioni.
@@ -107,6 +120,8 @@ b) $\left(-2x\right)\left(-\dfrac{1}{2}y\right)+\left(-2y\right)x+xy+y\left(-x\r
 
 c) $x^{2}+7x^{2}-2\left(-x^{2}\right)+2\left(-4\right)x^{2}+2x^{2}-2x^{2}+x^{2}-x\left(2x\right)+4x^{2}-2\left(2x^{2}\right)$  
 
+
+
 ### ESERCIZIO 8 - Polinomi in forma normale
 
 Riduci i seguenti polinomi in forma normale. pag. 330, 290
@@ -116,6 +131,8 @@ a) $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2};$
 b) $5ab - 2a^{2} + ab -a^{2}; xy - 3x^{2}y +2xy + x^{2}y;$  
 
 c) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$  
+
+
 
 
 ### ESERCIZIO 9 - Somma di polinomi
@@ -140,6 +157,8 @@ Dati i polinomi seguenti:
 a) sottrai al primo la somma del secondo e del terzo;  
 b) aggiungi al terzo la differenza tra il secondo e il primo.
 
+
+
 ### ESERCIZIO 11 - Prodotto di monomi per polinomi
 
 Semplifica le seguenti espressioni.  
@@ -152,7 +171,9 @@ c) $\left(-4x^{2}y\right)\,\cdotp\left(-x^{3}+2xy-y\right)$
 
 d) $-4x\left(2x+3y\right)-3y\left(-4x+y\right)-2\left(4x^{2}+3y^{2}\right)$  
 
-### ESERCIZIO - Prodotto di polinomi
+
+
+### ESERCIZIO - 12 Prodotto di polinomi
 
 Semplifica le seguenti espressioni.  
 
