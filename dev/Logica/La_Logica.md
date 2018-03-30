@@ -2,7 +2,6 @@
 # La Logica
 
 ### ESERCIZIO 1 - Le proposizioni
-
 a) Indica quali fra le seguenti frasi sono proposizioni (logiche):
 1. "Per favore, mi passi l'acqua?";
 2. "Gli insegnanti della mia classe sono maschi";
@@ -20,18 +19,12 @@ a) Indica quali fra le seguenti frasi sono proposizioni (logiche):
 
 b) Attribuisci il valore di verità alle seguenti proposizioni:
 1. "Il numero 2 è l’unico divisore di 6";
-
 2. "Ogni trapezio è isoscele oppure rettangolo";
-
 3. "La Terra è un pianeta";
-
 4. "Marte non è un pianeta";
-
 5. "L’uguaglianza x + 2 = 0 è sempre verificata in N";
-
 6. "L’uguaglianza 2x = 0 non è mai verificata in N".
 
-   ​
 
 ### ESERCIZIO 2 - Proposizioni semplici e composte
 a) Nelle seguenti proposizioni composte indica quali sono le proposizioni elementari e quali i connettivi che le legano.
@@ -54,22 +47,14 @@ b) Dire in quali delle seguenti proposizioni la congiunzione “e” si può for
 
 c) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni.
 1. "Giovanna è bella, ma Claudia è intelligente"; 
-
 2. "Marcello è in campo, benché abbia la febbre";
-
 3. "John è in Italia senza avere il passaporto"; 
-
 4. "Giorgio è italiano dato che è nato a Imperia";
-
 5. "David è spagnolo perché è nato a Barcellona"; 
-
 6. "Oggi è bello e quindi vado in barca";
-
 7. "Carlo gioca a meno che piova";
-
 8. "A meno che Carlo intervenga, lo scontro è inevitabile".
 
-   ​
 
 ### ESERCIZIO 3 - Connettivi proposizionali
 a) Scrivi la negazione delle seguenti proposizioni.
@@ -120,22 +105,14 @@ e) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni:
 1. "Giovanna è bella, ma Claudia è intelligente";
-
 2. "Marcello è in campo, benché abbia la febbre”
-
 3. "John è in Italia senza avere il passaporto";
-
 4. "Giorgio è italiano dato che è nato a Imperia";
-
 5. "David è spagnolo perché è nato a Barcellona";
-
 6. "Oggi è bello e quindi vado in barca";
-
 7. "Carlo gioca a meno che piova";
-
 8. "A meno che Carlo intervenga, lo scontro è inevitabile".
 
-   ​
 
 ### ESERCIZIO 4 - Forme Simboliche
 a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  
@@ -161,9 +138,7 @@ b) Posto: A = "Carlo è ligure" e B = "Diego è piemontese", scrivere in forma s
 10. "O Carlo è ligure e Diego è piemontese, o né Carlo è ligure, né Diego è piemontese".
 
 
-
 ### ESERCIZIO 5 - Tabelle di verità, tautologie e contraddizioni
-
 
 
 ### ESERCIZIO 6 - Forme di ragionamento
@@ -172,10 +147,9 @@ a) Individuando premesse e conclusione, tradurre nel linguaggio della logica pro
 2. Se piove non esco di casa. Piove o tira vento. Esco di casa. Quindi tira vento.
 3. Arturo rimane in casa se e solo se la televisione trasmette un film comico. La televisione trasmette un film comico e Arturo si diverte, quindi Arturo si diverte.
 4. Se la pioggia cade copiosa allora il raccolto è abbondante. Se il concime è appropriato, allora il raccolto è abbondante. Se la pioggia cade copiosa allora il concime è appropriato.
-5. Se Carlo ha vinto la gara, allora, se Mario è arrivato secondo, allora Sergio è arrivato terzo. Mario non è arrivato secondo.
-  Quindi, o Carlo ha vinto o Sergio è arrivato terzo.
+5. Se Carlo ha vinto la gara, allora, se Mario è arrivato secondo, allora Sergio è arrivato terzo. Mario non è arrivato secondo. Quindi, o Carlo ha vinto o Sergio è arrivato terzo.
 6. Se giochi e studi supererai gli esami, ma se giochi e non studi non supererai gli esami. Pertanto, se giochi, allora o studi e supererai gli esami o non studi e non supererai gli esami.
 7. Il Parma vince il campionato oppure il Chievo retrocede. D’altra parte, non si dà il caso che, se il Parma vince il campionato, allora il Chievo non retrocede. Inoltre, il Chievo non retrocede e il Sassuolo si qualifica in Europa League. Dunque, il Sassuolo non si qualifica in Europa League.  
-  (Indicare con: p: "Il Parma vince il campionato", c: "Il Chievo retrocede", s: "Il Sassuolo si qualifica in Europa League").
+(Indicare con: p: "Il Parma vince il campionato", c: "Il Chievo retrocede", s: "Il Sassuolo si qualifica in Europa League").
 
 b) Analizzare la validità dei ragionamenti del punto a).
