@@ -98,3 +98,18 @@ c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà 
 
 d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 2100 Km quale è la velocità media dell'aereo?
 
+
+
+### ESERCIZIO 6 - Scrittura di equazioni
+
+Scrivi le equazioni con le caratteristiche richieste da ciascuno degli punti seguenti:
+
+a) ha come (unica) soluzione il numero -3; ha come soluzione un numero che ha il doppio uguale a 6;
+
+b) ha come soluzione il numero -3 e ha l'incognita in entrambi i membri;
+
+c) ha come soluzione il numero il cui doppio meno 5 è uguale al numero stesso;
+
+d) ha come soluzione il numero che sommato al suo successivo è uguale a 3;
+
+e) consiste nell'uguaglianza tra un numero ed il suo opposto.
