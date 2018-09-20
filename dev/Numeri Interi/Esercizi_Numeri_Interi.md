@@ -114,8 +114,17 @@ b) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};\enspace \:-[(2^{3})^{4}:4
 c) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$  
 d) $\left\{ [(2^{4}-7\text{·}3)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$
 
-### ESERCIZIO 13 - Espressioni algebriche e sostituzioni
-Negli esercizi seguenti, calcola (quando esiste) il valore delle espressioni per i valori delle lettere scritti di fianco
+### ESERCIZIO 13 - Espressioni algebriche e sostituzioni (I)
+
+Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
+
+a) $-2x + x^2 + 1,\ [x=2]$  
+b) $y(1 - y) + 3,\ [y=-5]$  
+c) $y(1 - y) + 3,\ [y=1], [y=4], [y=0]$ [Sostituisci prima il primo valore, poi il secondo e quindi il terzo].
+
+### ESERCIZIO 14 - Espressioni algebriche e sostituzioni (II)
+
+Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
 a) $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ [a=2,\ b=-2]$  
 b) $3ab-5a^{2}+3a-1,\ [a=2,\ b=8]$  
@@ -125,7 +134,7 @@ d) $(x^{2}+a)x-a(x-1):(x+1)+4a,\ [x=1,a=-9]$
 [Verifica con Maxima. Sostituisci con: simp: false; e1: 3-a^3 -
 2*b^2 + a^2*(a-b); e2: subst([a=2, b=-2], e1). Calcola il valore con ratsimp(e2).]
 
-### ESERCIZIO 14 - Sequenze e Tabelle
+### ESERCIZIO 15 - Sequenze e Tabelle
 Un abbonato paga per un contratto telefonico 16 euro al mese. Se una rata non è pagata entro la scadenza dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito accumulato mese per mese nei casi elencati di seguito e riportalo (con segno negativo) in una tabella di 2 colonne con, in ogni riga, il mese nella prima cella e l'importo nella seconda:
 
 Es. 
