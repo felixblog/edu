@@ -96,7 +96,9 @@ d) $15 + 20 : (4 − 2)$
 ### ESERCIZIO 10 - Dai diagrammi ad albero alle espressioni
 Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero:  
 
-<center> a)![Albero](img/Albero1.png)    b) ![Albero](img/Albero2.png)    c) ![Albero](img/Albero3.png)  </center>
+1. ![Albero](img\Albero1.png)
+2. ![Albero](img\Albero2.png)
+3. ![Albero](img\Albero3.png)
 
 ### ESERCIZIO 11 - m.c.m e M.C.D.
 
