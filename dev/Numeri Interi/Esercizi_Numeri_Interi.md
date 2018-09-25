@@ -128,7 +128,7 @@ c) $y(1 - y) + 3,\ [y=1], [y=4], [y=0]$ [Sostituisci prima il primo valore, poi 
 Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
 a) $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ [a=2,\ b=-2]$  
-b) $3ab-5a^{2}+3a-1,\ [a=2,\ b=8]$  
+b) $3ab-5a^{2}+3a-1,\ [a=-2,\ b=-8]$  
 c) $(a+b)(a-b)+ab-a^{2},\ [a=6,\ b=-3]$  
 d) $(x^{2}+a)x-a(x-1):(x+1)+4a,\ [x=1,a=-9]$
 
@@ -136,19 +136,20 @@ d) $(x^{2}+a)x-a(x-1):(x+1)+4a,\ [x=1,a=-9]$
 2*b^2 + a^2*(a-b); e2: subst([a=2, b=-2], e1). Calcola il valore con ratsimp(e2).]
 
 ### ESERCIZIO 15 - Sequenze e Tabelle
-Un abbonato paga per un contratto telefonico 16 euro al mese. Se una rata non è pagata entro la scadenza dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito accumulato mese per mese nei casi elencati di seguito e riportalo (con segno negativo) in una tabella di 2 colonne con, in ogni riga, il mese nella prima cella e l'importo nella seconda:
+Un abbonato paga per un contratto telefonico 16 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato mese per mese (al 15 di ogni mese) nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 2 colonne con, in ogni riga, il mese nella prima cella e l'importo nella seconda:
 
 Es. 
 $$
-\begin{array}{c|c}
-        Mese & Debito \\
+\begin{array}{c|c|c}
+        Data & Mese & Debito \\
         \hline
-        1 & -20  \\
-        2 & -40  \\
-        ... & ...  \\
+        15/02 & 1 & -18  \\
+        15/03 & 2 & -40  \\
+        ... & ... & ...  \\
         \end{array}
 $$
 
 a) l'abbonato non paga per 2 mesi e poi salda il debito;  
-b) l'abbonato non paga per 3 mesi, salda le prime 2 rate, paga regolarmente e dopo 3 mesi salda il debito;  c) l'abbonato non paga per 3 mesi, poi salda il debito e paga un mese in anticipo;  
-d) l'abbonato arriva ad accumulare un debito di poco inferiore a 100 euro; quante righe ha la tabella?
+b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate, paga regolarmente per altri 3 mesi e quindi salda il debito;  
+c) l'abbonato non paga per 3 mesi, poi salda il debito e paga un mese in anticipo;  
+d) l'abbonato arriva ad accumulare un debito di poco inferiore a 100 euro; in questo caso quante righe ha la tabella?
