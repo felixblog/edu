@@ -65,11 +65,11 @@ c) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si produ
 
 Calcola il valore delle seguenti espressioni eseguendo, in ciascun passaggio, solo operazioni indipendenti tra di loro.  
 
-a) $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]$    
-b) $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10]$    
-c) $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10]$      
-d) $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1)) · 2^{3} − ((7 : (2·3 + 1) + 2^{2} + 10^{0} ) \enspace\enspace\enspace[R. 16]$  
-e) $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21]$  
+a) $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]​$    
+b) $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10]​$    
+c) $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10]​$      
+d) $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} ) \enspace\enspace\enspace[R. 16]​$  
+e) $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21]​$  
 f) $ ((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))\enspace\enspace\enspace[R. 12]​$  
 
 [Verifica con Maxima. Inserisci le espressioni e calcola il risultato] 
