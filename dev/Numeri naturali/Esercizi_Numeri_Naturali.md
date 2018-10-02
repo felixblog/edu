@@ -83,7 +83,7 @@ c) $a − b, \enspace a = 10, b = 7$
 d) $a^{2} − b^{2}, \enspace a = 1, b = 1; \enspace a = 3, b = 2; \enspace a = 6, b = 5$  
 e) $2a(b + 1) - 6ab , \enspace a = 3, b = 0$  
 f ) $((2a)b)^{3}, \enspace a = 2, b = 3$
-[Verifica con Maxima. simp: false; c1: a - b, a=10, b=7; c1, simp] 
+[Verifica con Maxima. simp: false; c: a - b, a=10, b=7; c, simp] 
 
 ### ESERCIZIO 9 - Dalle espressioni ai diagrammi ad albero
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
@@ -114,7 +114,7 @@ a) Applica, quando è possibile, le proprietà delle potenze e indica la proprie
 1. $2^{4} · 2^{2}·2; \enspace (3^{4})^{2} · 3^{7}; \enspace  2^{3} · 5^{3}; \enspace 2^{4} · 3^{4};$   
 2. $(7^{2} · 2^{2}) · 7^{2}; \enspace (4^{3})^{2} · 2^{6}; \enspace 6^{5} · 2^{5}; \enspace  (4^{5})^{2};$  
 
-[Verifica con Maxima. simp: false; e1: (4^3)^2 · 2^6; factor(e1)] 
+[Verifica con Maxima. simp: false; e: (4^3)^2 · 2^6; factor(e)] 
 
 b) Quali delle uguaglianze seguenti sono vere? Quali false?  
 

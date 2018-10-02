@@ -75,15 +75,13 @@ c) Moltiplica un numero per 4 e sottrai la sua terza parte sommata a 22. [x=9];
 d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e
 somma al risultato 12. [x=-9].
 e) Somma alla metà di un numero la sua quinta parte e sottrai il
-numero stesso diminuito di 6. [x=-2];  
+numero stesso diminuito di 6. [x=-20];  
 f) Scrivi il doppio di un numero diminuito di uno sommato al
 triplo dello stesso numero al quadrato. [x=0].     [R. -2];  
 g) Scrivi due numeri consecutivi. [x=3].      [R. 3,4]
 
 ### ESERCIZIO 10 - Dalle parole alle espressioni (III)
-Essendo a e b due numeri interi, traduci in espressioni le
-seguenti frasi e calcola il valore delle espressioni per i valori
-indicati.
+Essendo a e b due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni per i valori indicati.
 
 a) Sottrai b al triplo di a. [a = 3, b = 2];  
 b) Aggiungi il quadruplo di b alla differenza tra il triplo di a e b. [a = 3, b = 2];  
