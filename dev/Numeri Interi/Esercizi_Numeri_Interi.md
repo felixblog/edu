@@ -25,8 +25,7 @@ problemi e calcolane i valori.
 a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro.   
 Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione con il creditore, considerando positivamente i crediti e negativamente i debiti?
 
-b) Giocando a carte con tre avversari, effettuo due partite che
-terminano nel modo seguente:
+b) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
 1. vincita di 40 punti con il primo giocatore; perdita di 170 punti con il secondo giocatore; vincita di 10 punti con il terzo giocatore;
 2. vincita di 60 punti con ciascun giocatore.
 
@@ -130,7 +129,27 @@ d) $(x^{2}+a)x-a(x-1):(x+1)+4a,\ [x=1,a=-9]$
 [Verifica con Maxima. Sostituisci con: simp: false; e1: 3-a^3 -
 2*b^2 + a^2*(a-b); e2: subst([a=2, b=-2], e1). Calcola il valore con ratsimp(e2).]
 
-### ESERCIZIO 15 - Sequenze e Tabelle
+### ESERCIZIO 15 - Espressioni algebriche e sostituzioni (III)
+
+Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostituite ordinatamente alle lettere a e b rendono l'uguaglianza vera.
+
+a) $a+b=5;$  
+b) $a-b=5$  
+c) $a+b=2$  
+d) $a+b=0$  
+e) $b=a+1$  
+f) $a=-b+2​$  
+
+### ESERCIZIO 16 - Dalle parole alle espressioni (IV)
+
+Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
+
+a) Se una azienda produce N unità di prodotto ad un costo medio di C euro ciascuna e le vende ad un prezzo di P euro l'una, quale è il suo profitto? [N = 600, C = 76, P = 99] 
+d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono T metri di tela. La tela viene suddivisa in pezze da N metri ciascuna. Quante pezze vengono prodotte giornalmente? [T = 26.304, N = 32] 
+e) Un idraulico ha un costo fisso a chiamata di F euro ed un ulteriore costo di O euro l'ora. Se fa un intervento che dura D ore, quanto pagherà il cliente? [F = 40, O = 35, D = 4]
+
+### ESERCIZIO 17 - Sequenze e Tabelle
+
 Un abbonato paga per un contratto telefonico 16 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato mese per mese (al 15 di ogni mese) nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 2 colonne con, in ogni riga, il mese nella prima cella e l'importo nella seconda:
 
 Es. 
