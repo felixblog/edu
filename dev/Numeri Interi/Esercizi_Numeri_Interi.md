@@ -144,8 +144,8 @@ f) $a=-b+2​$
 
 Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
 
-a) Se una azienda produce N unità di prodotto ad un costo medio di C euro ciascuna e le vende ad un prezzo di P euro l'una, quale è il suo profitto? [N = 600, C = 76, P = 99]  
-d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono T metri di tela. La tela viene suddivisa in pezze da N metri ciascuna. Quante pezze vengono prodotte giornalmente? [T = 26.304, N = 32]  
+a) Se una azienda produce N unità di prodotto ad un costo medio di C euro ciascuna e le vende ad un prezzo di P euro l'una, quale è il suo profitto? [N = 600, C = 76, P = 99]   
+d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono T metri di tela. La tela viene suddivisa in pezze da N metri ciascuna. Quante pezze vengono prodotte giornalmente? [T = 26.304, N = 32]   
 e) Un idraulico ha un costo fisso a chiamata di F euro ed un ulteriore costo di O euro l'ora. Se fa un intervento che dura D ore, quanto pagherà il cliente? [F = 40, O = 35, D = 4]
 
 ### ESERCIZIO 17 - Sequenze e Tabelle
