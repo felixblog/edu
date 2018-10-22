@@ -152,7 +152,7 @@ b) Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio d
 
 c) Un negozio di bricolage acquista un grande quantitativo di chodi da vendere in confezioni di 9/16 di Kg. Quante confezioni di chiodi si otterranno da 2.871 Kg di chiodi?     [R. 5104]  
 
-d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia €123 e lo sconto è uguale ai 5/90 del prezzo iniziale, quanto costavano le valigie?     [R. € 150]  
+d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia €123 e lo sconto è uguale ai 5/90 del prezzo iniziale, quanto costavano le valigie?     [R. € 2.214]  
 
 e) Un camion può trasportare con sicurezza carichi fino ad una tonnellata. Sarebbe in grado di trasportare mezza tonnellata di sabbia, un terzo di ghiaia, ed un quinto di cemento in un solo viaggio?      [R. No]  
 
@@ -214,12 +214,14 @@ b) $\left(1-\dfrac{1}{2}\right)^{2},\left(2-\dfrac{5}{4}\right)^{0},\left(\dfrac
 
 Calcola il valore delle seguenti espressioni contenenti potenze.
 
-a) $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2},\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $ [R.$\dfrac{12}{5};7]$
+a) $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \dfrac{12}{5}]$
+
+b) $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. 7]$
 ​            
 
-b) $\dfrac{2}{5}:\left\{ \left[\dfrac{1}{2}+\left(1+\dfrac{1}{5}\right)^{2}\left(1-\dfrac{1}{6}\right)-\left(\dfrac{1}{2}\right)^{2}\right]^{2}\left(1+\dfrac{3}{5}\right)^{2}\right\};$ [R. $\dfrac{1}{10}]$
+c) $\dfrac{2}{5}:\left\{ \left[\dfrac{1}{2}+\left(1+\dfrac{1}{5}\right)^{2}\left(1-\dfrac{1}{6}\right)-\left(\dfrac{1}{2}\right)^{2}\right]^{2}\left(1+\dfrac{3}{5}\right)^{2}\right\};$     $[R.  \dfrac{1}{10}]$
 
-c) $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\left(\dfrac{11}{20}+\dfrac{7}{4}\right)\right\} ^{2}\text{·}\left[\left(\dfrac{10}{7}\right)^{2}\text{·}\left(\dfrac{10}{7}\right)\right]^{0}:\left(\dfrac{10}{7}\right)^{2};$  [R. 1]
+d) $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\left(\dfrac{11}{20}+\dfrac{7}{4}\right)\right\} ^{2}\text{·}\left[\left(\dfrac{10}{7}\right)^{2}\text{·}\left(\dfrac{10}{7}\right)\right]^{0}:\left(\dfrac{10}{7}\right)^{2};$    $ [R. 1]$
 
 ### ESERCIZIO 20 - Problemi con percentuali
 
@@ -247,9 +249,13 @@ c) A quante ore corrispondono x minuti ?
 
 Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
 
-a) $\left[\left(-\dfrac{1}{4}\right)^{3}:\left(-\dfrac{1}{4}\right)\right]^{2};\:\left(-\dfrac{1}{5}\right)^{10}:\left(-\dfrac{1}{5}\right)^{6}\text{·}10^{4};$     $[R. \dfrac{1}{256};16]$
+a) $\left[\left(-\dfrac{1}{4}\right)^{3}:\left(-\dfrac{1}{4}\right)\right]^{2};$   $[R. \dfrac{1}{256}]$
 
-b) $\left[-\left(\dfrac{1}{25}\right)^{2}\cdot\left(\dfrac{1}{25}\right)^{3}\right]\text{·}\left(\dfrac{25}{3}\right)^{5};\:\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\right)^{6}\text{·}\left(-\dfrac{1}{2}\right)^{6};$     $[R. \dfrac{1}{243}.1]$
+b) $\left(-\dfrac{1}{5}\right)^{10}:\left(-\dfrac{1}{5}\right)^{6}\text{·}10^{4};$     $[R. 16]$
+
+c) $\left[-\left(\dfrac{1}{25}\right)^{2}\cdot\left(\dfrac{1}{25}\right)^{3}\right]\text{·}\left(\dfrac{25}{3}\right)^{5};$   $[R. \dfrac{1}{243}]$
+
+d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\right)^{6}\text{·}\left(-\dfrac{1}{2}\right)^{6};$     $[R. 1]$
 
 ### ESERCIZIO 23 - Sostituzioni e valore delle espressioni
 
