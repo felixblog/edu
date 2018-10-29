@@ -1,25 +1,59 @@
 
 # Grafici e funzioni
 
-### ESERCIZIO 1 - Le funzioni
+### ESERCIZIO 1 - Posizione dei Punti
 
-a) Considera le seguenti relazioni e stabilisci se sono funzioni oppure non lo sono, motivando le risposte.  
-&emsp;  R1: «associa agli studenti della tua classe il voto dell’ultimo compito di matematica» (È importante sapere se il giorno del compito c’erano assenti?)  
-&emsp;  R2: «associa a ogni materia i testi in adozione nella tua classe»  
-&emsp;  R3: «associa ai fiumi di una nazione le città che essi bagnano»  
-&emsp;  R4: «associa alle città italiane le regioni a cui appartengono»  
-&emsp;  R5: «associa ai laghi italiani la loro superficie»
+Posiziona i punti degli insiemi seguenti su di un piano cartesiano  
 
-b) Utilizza i tre modi diversi (sagittale, con grafico cartesiano, con tabella a doppia entrata) per rappresentare le funzioni indicate fra i due insiemi A e B  
-&emsp;  A = {Luca, Gianni, Eva}, B= {I, II, III, IV, V}  
-&emsp;  f(Luca) = III, f(Gianni) = IV, f(Eva) = I
+a) Q = {(1;1), (-1;1), (-1;-1), (1;-1)}   
+b) T = {(-1;0), (1;0), (0;1)}  
+c) R = {(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)}
 
-c) Come l'esercizio del punto b) ma con gli insiemi A e B riportati di seguito:  
-&emsp;  A = {Van Gogh, Renoir, Picasso, Rembrandt}, B = {Olanda, Francia, Italia, Spagna};  
-&emsp;  f (Van Gogh) = Olanda, f (Renoir) = Francia, f (Picasso) = Spagna, f (Rembrandt) = Olanda.
+### ESERCIZIO 2 - Coordinate dei punti
+
+Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
+![Punti](H:/Didattica/scuola/Argomenti%20Programma++++/edu/dev/Geometria%20Analitica%20Retta%20e%20Parabola/img/Fig1.png)
+
+### ESERCIZIO 3 - Punti allineati
+
+Disegna la retta che passa per ciascuno dei seguenti insiemi dei punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
+
+a) A = {(-5;3), (1; 3), (6; 3)}  
+b) B = {(0; 0), (0; -4)}  
+c) D = {(-4; 4), (-2; 2), (3; -3)}
+
+### ESERCIZIO 4 - Campione di punti
+
+Per ciascuno degli insiemi riportati di seguito trova un campione di 4 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
+a) A = {(x; y): y = -1}  
+b) B = {(x; y): x = 3}  
+c) C = {(x; y): y = -x}  
+d) D = {(x; y): y = x + 1}  
+e) E = {(x; y): x + y = 1}
+
+### ESERCIZIO 5 - Coefficiente angolare di una retta
+
+Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
+a) {(4; -5), (2; 3)}  
+b) {(-3; 1), (-1; -2)}  
+c) {(4; 1/2), (2/3; -2)}  
+
+### ESERCIZIO 6 - Appartenenza di un punto ad una retta
+
+Scrivi l’equazione della retta, passante per l’origine e per il punto A. Verifica se il punto B appartiene alla retta trovata  
+a) A(1/2; 1), B(-1;-2)  
+b) A(-2; 0), B(-2; 10)   
+c) A(1;-1), B(-1/2;1/2)    
+
+### ESERCIZIO 7 - Grafico della retta
+
+Disegna le rette rappresentate dalle seguenti equazioni:  
+a) $y = \dfrac{1}{2}x$, $y = \dfrac{-1}{3}x$  
+b) $y = \dfrac{-1}{3}x$, $y = 3x$  
+c) $y = \dfrac{11}{8}x$, $y = 11 x$  ESERCIZIO 1 - Le funzioni
 
 
-### ESERCIZIO 2 - Modelli e funzioni, la proporzionalità diretta ed inversa
+### ESERCIZIO 8 - Modelli e funzioni, la proporzionalità diretta ed inversa
 a) Esprimere le relazioni seguenti con una equazione dopo aver scelto le lettere che rappresentano le quantità:
 1. I litri di vernice necessari per reimbiancare una stanza variano direttamente con il numero di metri quadri delle pareti
 2. L'ammontare dell'IVA da pagare varia direttamente con il prezzo di acquisto di una macchina
@@ -40,7 +74,7 @@ Un editore valuta che il costo per stampare un numero variabile tra 1.000 e 10.0
 
 
 
-### ESERCIZIO 3 Funzioni suriettive, iniettive, biiettive, inverse e composte
+### ESERCIZIO 9 Funzioni suriettive, iniettive, biiettive, inverse e composte
 a) Indica quali delle seguenti funzioni da A a B sono suriettive:  
 1. A = {-2, -1, 0, 1}, B = {-2, 1, 1, 2}, f(-2) = 2, f(-1) = 1, f(0) = -1, f(1) = 2;
 2. A = {-1, 0, 1, 2}, B = {-1, 0, 1}, f(-1) = 0, f(0) = 1, f(1) = 0, f(2) =-1;
@@ -54,7 +88,7 @@ b) Indica quali delle seguenti funzioni da A a B sono iniettive.
 c) Consideriamo gli insiemi A = {0, 1, 2, 3, 4} e B = {a, b, c, d, e} e la funzione che associa 0 -> b; 1 -> c; 2 -> a; 3 -> e.  
 Quale elemento di B va associato a 4 affinché la funzione risulti invertibile?
 
-### ESERCIZIO 4 - Le funzioni numeriche e la proporzionalità diretta ed inversa
+### ESERCIZIO 10 - Le funzioni numeriche
 a) Costruire una tabella assegnando cinque valori (positivi e negativi) a x per ciascuna delle funzioni riportate di seguito:
 1. y = x;
 2. y = -x;
@@ -70,21 +104,25 @@ b) In riferimento all'esercizio "Stampa Libri di Testo":
 1. Scrivere due espressioni algebriche (con la sola variabile x che indica il N. di copie) che calcolano il costo effettivo analogamente ai dati nella tabella del punto 2;
 2. Disegna il grafico della funzione ottenuta dalla espressione.
 
-### ESERCIZIO 5 - La funzione lineare
+### ESERCIZIO 11 - La funzione lineare
 a) Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 ![Funzione](img/f1.png)  
 ![Funzione](img/f2.png)  
 ![Funzione](img/f3.png)
 
 
-### ESERCIZIO 6 - La funzione valore assoluto e le funzioni definite a tratti
+### ESERCIZIO 12 - La funzione valore assoluto
 a) Per ogni funzione costruisci una tabella con cinque valori di x (positivi, negativi o nulli) e rappresenta il grafico
 1. y = 2|x|;
 2. y = 1 + |x|;
 3. y = -2|x|
 
+### ESERCIZIO 13 - Le funzioni definite a tratti
 
-### ESERCIZIO 7 - Funzioni Rilevanti
+
+
+
+### ESERCIZIO 14 - Caratteristiche delle funzioni
 a) Per ciascuno dei grafici seguenti indica se:
 * E' simmetrico rispetto all'asse x o all'asse y;
 * E' simmetrico rispetto all'origine.
