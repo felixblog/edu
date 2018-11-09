@@ -3,15 +3,15 @@
 
 ### ESERCIZIO 1 - Dalle parole alle espressioni (I)
 
-Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una lettera per indicare la quantità sconosciuta.
+Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una  o più lettere per indicare le quantità sconosciute.
 
 a) La somma della lunghezza di a e 15;  
 
-b) La differenza di un numero e 10;  
+b) La differenza tra un numero e 10;  
 
-c) I tre quarti della popolazione p;  
+c) I tre quarti della popolazione europea;  
 
-e) Il rapporto tra chi ha vinto v e chi perso p;   
+e) Il rapporto tra gli abitanti dell'Italia e quelli della Cina;   
 
 f) 500 ridotto di j;  
 
@@ -19,7 +19,9 @@ g) 21 kg in meno del peso totale;
 
 h) Il doppio del valore atteso;  
 
-i) 25.000 euro in più del costo c.  
+i) La metà del dovuto;  
+
+l)  Un acconto del vento per cento.  
 
 
 
@@ -88,11 +90,11 @@ b) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$
 
 ### ESERCIZIO 6 - Dalle parole alle espressioni
 
-Risolvi i problemi seguenti.
+Scrivi l'espressione corrispondente alla quantità richiesta in ogni problema. Se non sono già indicate, introduci una lettera per le quantità sconosciute.
 
 a) Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si apettano p persone, scrivi il numero di pasti che il servizio preparerà.  
 
-b) L'ultimo anno un organizzazione caritatevole ha venduto x torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'epressione che indica il numero di torte che ci si aspetta di vendere.  
+b) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.  
 
 c) Uno studente deve scrivere un documento che contiene 60 parole al PC. Se lo studente scrive 60 parole al minuto, scrivi un'espresione che indica il numero di minuti necessari a scrivere il documento.
 

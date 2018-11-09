@@ -1,21 +1,8 @@
 
 # Problemi di I grado
 
-### ESERCIZIO 1 - Equivalenze I
-Esegui le seguenti operazioni facendo prima le equivalenze.
 
-a) 7 Km + 14 m + 12 dam = ............ dam &emsp;  [R. 713,4]  
-
-b) 15 dm + 70 cm - 100 mm = ............ m  &emsp;  [R. 2,1]  
-
-c) 27 dam + 3 200 cm + 2 hm = ............ m  &emsp;  [R. 502]  
-
-d) 0,5 dam + 5 m + 6 cm + 1,6 m = ............ dm  &emsp;  [R. 116,6]  
-
-
-
-
-### ESERCIZIO 2 - Problemi sui numeri
+### ESERCIZIO 1 - Problemi sui numeri
 Risolvi i problemi seguenti.
 
 a) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?  
@@ -29,7 +16,7 @@ d) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.
 
 
 
-### ESERCIZIO 3 - Problemi sui rapporti
+### ESERCIZIO 2 - Problemi sui rapporti
 Risolvi i problemi seguenti.
 
 a) Nel suo testamento, una donna ha lasciato a suo marito 20.000 ed a suo figlio 12.000 euro. Dopo la sua morte, le sue proprietà ammontavano a sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
@@ -48,7 +35,7 @@ d)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 
 
 
 
-### ESERCIZIO 4 - Problemi su sconti e percentuali
+### ESERCIZIO 3 - Problemi su sconti e percentuali
 Risolvi i seguenti problemi
 
 a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?  
@@ -62,7 +49,7 @@ d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al
 
 
 
-### ESERCIZIO 5 - Problemi sulla rappresentazione dell'età I
+### ESERCIZIO 4 - Problemi sulla rappresentazione dell'età I
 Rappresenta l’età indicata sulla base dell’età attuale.
 
 a) Tra 10 anni se adesso ha x anni;  &emsp;  [R. x + 10]  
@@ -78,7 +65,7 @@ e) y anni fa se ora ha p anni.  &emsp;  [R. p-y].
 
 
 
-### ESERCIZIO 6 - Problemi sulla rappresentazione dell'età II
+### ESERCIZIO 5 - Problemi sulla rappresentazione dell'età II
 Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni.
 
 a) Tra 5 anni se aveva 20 anni 10 anni fa.  
@@ -90,7 +77,7 @@ c) 5 anni fa se avrà venti anni tra y anni.
 
 
 
-### ESERCIZIO 7 - Problemi sull'età
+### ESERCIZIO 6 - Problemi sull'età
 Risolvi i seguenti problemi.
 
 a) Luca ha 53 anni e sua figlia ne ha 21. Fra quanti anni l’età di Luca sarà i 5/3 dell’età di sua figlia?  
@@ -102,7 +89,7 @@ c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre 
 
 
 
-### ESERCIZIO 8 - Problemi sul lavoro, caso di lavoro insieme
+### ESERCIZIO 7 - Problemi sul lavoro, caso di lavoro insieme
 Risolvi i seguenti problemi.
 
 a) Giacomo dipinge una parete in 3 ore. Giovanni fa lo stesso lavoro in 5 ore. Quanto impiegherebbero se lavorassero insieme?  
@@ -115,7 +102,7 @@ d) Sei operaie confezionano 120 paia di guanti in 20 giorni. Quanti giorni occor
 
 
 
-### ESERCIZIO 9 - Problemi sul lavoro, caso di più unità
+### ESERCIZIO 8 - Problemi sul lavoro, caso di più unità
 Risolvi i seguenti problemi.
 
 a) In una fabbrica ci sono 2 macchine, la prima produce 10 pezzi all’ora, la seconda 7 pezzi all’ora.
@@ -126,7 +113,7 @@ b) I dipendenti di una azienda ricevono uno stipendio medio mensile di € 1300.
 
 
 
-### ESERCIZIO 10 - Problemi sul moto e sulla velocità
+### ESERCIZIO 9 - Problemi sul moto e sulla velocità
 Risolvi i seguenti problemi.
 
 a) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di 100 Km/h superiore a quella del più lento. Dopo 5 ore di volo i due distano 2000 Km. Trova la velocità di ciascun aereo.  
@@ -141,7 +128,7 @@ e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore vie
 
 
 
-### ESERCIZIO 11 - Problemi su interesse ed investimenti I
+### ESERCIZIO 10 - Problemi su interesse ed investimenti I
 Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplifica.
 
 a) 2000€ al 5%; &emsp; [R. 200€]     
@@ -156,7 +143,7 @@ e) C€ al 7%, 2C€ al 5% e  0.07C al 3%;
 
 &emsp;
 
-### ESERCIZIO 12 - Problemi su interesse ed investimenti II
+### ESERCIZIO 11 - Problemi su interesse ed investimenti II
 Risolvi i seguenti problemi.
 
 a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di 5 a 3. La prima somma è stata investita al tasso del 4% e la seconda al tasso del 2%. L’interesse annuale della prima eccede quello della seconda di 112 euro. Quali sono stati i due investimenti? [R. 16.800, 28-000]  
@@ -167,7 +154,7 @@ c) Il signor Black ha investito 3000 euro al tasso del 3% e 1000 euro al tasso d
 
 
 
-### ESERCIZIO 13 - Problemi su monete e miscele, caso delle monete
+### ESERCIZIO 12 - Problemi su monete e miscele, caso delle monete
 Trova il valore complessivo di monete e francobolli nei casi seguenti:
 
 a) 3 centesimi e 5 pezzi da 10 centesimi (in centesimi);  
@@ -178,7 +165,7 @@ c) q monete da 25 centesimi 7 centesimi (in centesimi).
 
 
 
-### ESERCIZIO 14 - Problemi su monete e miscele, caso delle miscele I
+### ESERCIZIO 13- Problemi su monete e miscele, caso delle miscele I
 Scrivi l’espressione del valore totale della merce in centesimi e semplifica (ricorda di trasformare tutte le grandezze nella stessa unità di misura).
 
 a) n Kg di caffè del costo di ¢ 90 l’etto e (n + 3) Kg di caffè del costo di € 1,05 il Kg;  
@@ -191,7 +178,7 @@ d) x dozzine di matite del valore di ¢ 20 l’una e 3 dozzine a ¢ 60 la dozzin
 
 
 
-### ESERCIZIO 15 - Problemi su monete e miscele, caso delle miscele II
+### ESERCIZIO 14 - Problemi su monete e miscele, caso delle miscele II
 Risolvi i seguenti problemi.
 
 a) Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di 0,23 e 1,20 euro al Kg.  
@@ -201,11 +188,13 @@ b) In una fattoria vi sono tra maiali e galline 45 animali. Quanti sono i maiali
 
 
 
-### ESERCIZIO 16 - Problemi vari
+### ESERCIZIO 15 - Problemi vari
 Risolvi i seguenti problemi.
 
-a) Una botte contiene 80 litri di vino che vengono versati in 44 bottiglie, parte da 2 litri e parte da 1 litro e mezzo. Quante sono le bottiglie da 1 litro e mezzo e quante quelle da 2 litri? [R. 16 e 28]  
+a) Un mattone pesa un chilo più mezzo mattone: quanto pesa il mattone?  
 
-b) Un treno parte completo dalla stazione A; alla stazione B scendono 42 passeggeri e ne salgono 1/24 di quelli rimasti; nella successiva stazione C scendono 75 passeggeri e ne salgono 3/5 di quelli rimasti più altri 2. Sapendo che alla partenza da C il treno e di nuovo completo, determina quanti passeggeri stanno sul treno. [R. 282]  
+b) Una botte contiene 80 litri di vino che vengono versati in 44 bottiglie, parte da 2 litri e parte da 1 litro e mezzo. Quante sono le bottiglie da 1 litro e mezzo e quante quelle da 2 litri? [R. 16 e 28]  
 
-c) Per l’ingresso a uno spettacolo, ogni adulto paga 5 euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che 20 bambini e 30 adulti pagano 15 euro di meno di quello che pagano 40 bambini e 15 adulti. [R. 18 euro]
+c) Un treno parte completo dalla stazione A; alla stazione B scendono 42 passeggeri e ne salgono 1/24 di quelli rimasti; nella successiva stazione C scendono 75 passeggeri e ne salgono 3/5 di quelli rimasti più altri 2. Sapendo che alla partenza da C il treno e di nuovo completo, determina quanti passeggeri stanno sul treno. [R. 282]  
+
+d) Per l’ingresso a uno spettacolo, ogni adulto paga 5 euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che 20 bambini e 30 adulti pagano 15 euro di meno di quello che pagano 40 bambini e 15 adulti. [R. 18 euro]

@@ -233,7 +233,7 @@ b) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quant
 
 c) Sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso, calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di latte.      [R. 3.7125 kg] 
 
-### ESERCIZIO 21 - Equivalenze
+### ESERCIZIO 21 - Equivalenze I
 
 a) Quanti secondi ci sono in due ore e mezzo? Quanto pesano due etti e mezzo di salame in Kg ?
 
@@ -245,7 +245,19 @@ d) Un periodo di un anno 5 mesi e 22 giorni quanto dura in mesi? ed in trimestri
 
 c) A quante ore corrispondono x minuti ?
 
-### ESERCIZIO 22 - Proprietà delle potenze
+### ESERCIZIO 22 - Equivalenze II
+
+Esegui le seguenti operazioni facendo prima le equivalenze.
+
+a) 7 Km + 14 m + 12 dam = ............ dam &emsp;  [R. 713,4]  
+
+b) 15 dm + 70 cm - 100 mm = ............ m  &emsp;  [R. 2,1]  
+
+c) 27 dam + 3 200 cm + 2 hm = ............ m  &emsp;  [R. 502]  
+
+d) 0,5 dam + 5 m + 6 cm + 1,6 m = ............ dm  &emsp;  [R. 116,6]  
+
+### ESERCIZIO 23 - Proprietà delle potenze
 
 Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
 
@@ -257,7 +269,7 @@ c) $\left[-\left(\dfrac{1}{25}\right)^{2}\cdot\left(\dfrac{1}{25}\right)^{3}\rig
 
 d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\right)^{6}\text{·}\left(-\dfrac{1}{2}\right)^{6};$     $[R. 1]$
 
-### ESERCIZIO 23 - Sostituzioni e valore delle espressioni
+### ESERCIZIO 24 - Sostituzioni e valore delle espressioni
 
 Di ognuna delle seguenti espressioni stabilisci se è intera o frazionaria e calcolane il valore dopo aver sostituito i numeri alle variabili.
 
