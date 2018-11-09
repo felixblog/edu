@@ -21,7 +21,7 @@ h) Il doppio del valore atteso;
 
 i) La metà del dovuto;  
 
-l)  Un acconto del vento per cento.  
+l)  Un acconto del venti per cento.  
 
 
 
