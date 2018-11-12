@@ -135,12 +135,19 @@ $y = x^2$;
   ![Parabola](img/par.png)  
 
 $y = x^3$;
+
   ![Cubica](img/cub.png)  
 
+
+
 $\displaystyle y = \frac{1}{x}$
+
   ![Iperbole](img/iper.png)  
 
-$\displaystyle y = \frac{3}{x^2}​$
+
+
+$\displaystyle y = \frac{3}{x^2}$
+
   ![Iperbole quadrata](img/ip_quad.png)  
 
 b) Per ciascuno dei grafici seguenti individua:  
@@ -150,8 +157,12 @@ b) Per ciascuno dei grafici seguenti individua:
 * Quali sono i punti di massimo o minimo relativo ed i rispettivi valori.  
 
 $\displaystyle y = (x - 3)x^2$  
+
   ![Cubica](img/cub_2.PNG)   
 
+
+
 $\displaystyle y = (x-1)(x+1)x^2$  
+
   ![Iperbole quadrata](img/quad.png)
 
