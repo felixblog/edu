@@ -1,4 +1,6 @@
 
+
+
 # Esercizi sui Numeri Razionali
 
 ### ESERCIZIO 1 - Il Concetto di Frazione
@@ -11,16 +13,19 @@ b) Quanti euro costa un giocattolo se lo pago con 5 monete da mezzo euro?
 
 c) Per ognuna delle seguenti figure, quale frazione di ora è trascorsa?  
 
-<center>![Orologi](img/Orologi.png)</center>
+![Orologi](img\Orologi.png)
 
 d) Considerando il carburante indicato nella figura seguente, quale è la frazione di serbatoio piena, quale quella vuota?  
 
-<center>![Indicatore](img/Serbatoio.png)</center>
+![Indicatore](img/Serbatoio.png)
 
 e) Nella figura seguente sono riportati il numero dei nuovi iscritti al Corso Serale nel biennio 2015-2016.  
 
 Individua la frazione dei nuovi iscritti di ciascun anno rispetto al totale.
-<center>![Istogramma](img/Istogramma.png)</center>
+
+![Istogramma](img/Istogramma.png)
+
+
 
 ### ESERCIZIO 2 - Frazioni equivalenti
 
