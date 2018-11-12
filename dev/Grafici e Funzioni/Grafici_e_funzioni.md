@@ -12,7 +12,8 @@ c) R = {(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)}
 ### ESERCIZIO 2 - Coordinate dei punti
 
 Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
-![Punti](H:/Didattica/scuola/Argomenti%20Programma++++/edu/dev/Geometria%20Analitica%20Retta%20e%20Parabola/img/Fig1.png)
+
+![Fig1](img\Fig1.png)
 
 ### ESERCIZIO 3 - Punti allineati
 
@@ -50,7 +51,7 @@ c) A(1;-1), B(-1/2;1/2)
 Disegna le rette rappresentate dalle seguenti equazioni:  
 a) $y = \dfrac{1}{2}x$, $y = \dfrac{-1}{3}x$  
 b) $y = \dfrac{-1}{3}x$, $y = 3x$  
-c) $y = \dfrac{11}{8}x$, $y = 11 x$  ESERCIZIO 1 - Le funzioni
+c) $y = \dfrac{11}{8}x$, $y = 11 x$  
 
 
 ### ESERCIZIO 8 - Modelli e funzioni, la proporzionalità diretta ed inversa
@@ -106,6 +107,7 @@ b) In riferimento all'esercizio "Stampa Libri di Testo":
 
 ### ESERCIZIO 11 - La funzione lineare
 a) Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
+
 ![Funzione](img/f1.png)  
 ![Funzione](img/f2.png)  
 ![Funzione](img/f3.png)
@@ -125,20 +127,31 @@ a) Per ogni funzione costruisci una tabella con cinque valori di x (positivi, ne
 ### ESERCIZIO 14 - Caratteristiche delle funzioni
 a) Per ciascuno dei grafici seguenti indica se:
 * E' simmetrico rispetto all'asse x o all'asse y;
+
 * E' simmetrico rispetto all'origine.
+
 $y = x^2$;
-![Parabola](img/par.png)  
+
+  ![Parabola](img/par.png)  
+
 $y = x^3$;
-![Cubica](img/cub.png)  
+  ![Cubica](img/cub.png)  
+
 $\displaystyle y = \frac{1}{x}$
-![Iperbole](img/iper.png)  
-$\displaystyle y = \frac{3}{x^2}$
-![Iperbole quadrata](img/ip_quad.png)  
+  ![Iperbole](img/iper.png)  
+
+$\displaystyle y = \frac{3}{x^2}​$
+  ![Iperbole quadrata](img/ip_quad.png)  
+
 b) Per ciascuno dei grafici seguenti individua:  
+
 * I tratti dell'asse x in cui la funzione è crescente o decrescente;
+
 * Quali sono i punti di massimo o minimo relativo ed i rispettivi valori.  
+
 $\displaystyle y = (x - 3)x^2$  
-![Cubica](img/cub_2.PNG)   
+  ![Cubica](img/cub_2.PNG)   
+
 $\displaystyle y = (x-1)(x+1)x^2$  
-![Iperbole quadrata](img/quad.png)
+  ![Iperbole quadrata](img/quad.png)
 
