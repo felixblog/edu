@@ -19,11 +19,14 @@ d) Considerando il carburante indicato nella figura seguente, quale è la frazio
 
 ![Indicatore](img/Serbatoio.png)
 
-e) Nella figura seguente sono riportati il numero dei nuovi iscritti al Corso Serale nel biennio 2015-2016.  
-
-Individua la frazione dei nuovi iscritti di ciascun anno rispetto al totale.
+e) Nella figura seguente sono riportati il numero dei nuovi iscritti al Corso Serale nel biennio 2015-2016.  Individua la frazione dei nuovi iscritti di ciascun anno rispetto al totale.
 
 ![Istogramma](img/Istogramma.png)
+
+f) Franca compra in pasticceria 2 fette di una crostata tagliata in 12 fette uguali. Il peso delle due fette è di 220 grammi. Quanto pesa tutta la crostata?   
+
+g) Antonio dopo aver percorso 3 Km, pari ai due terzi della strada per andare a scuola, si ferma par comprare la merenda. Quanto è lunga la strada?
+
 
 
 
