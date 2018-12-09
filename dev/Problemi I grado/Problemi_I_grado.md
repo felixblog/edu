@@ -42,7 +42,7 @@ a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentua
 
 b) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?  
 
-c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è lo sconto unitario per i clienti che usufruiscono di questa promozione?  
+c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del 40%, quale dei due è più conveniente?
 
 d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?          [R. € 80 000]
 
@@ -131,7 +131,7 @@ e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore vie
 ### ESERCIZIO 10 - Problemi su interesse ed investimenti I
 Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplifica.
 
-a) 2000€ al 5%; &emsp; [R. 200€]     
+a) 2000€ al 5%; &emsp; [R. 100€]     
 
 b) (C + 200)€  al 6%;   &emsp;   [R. 12€ + 0,06C€]  
 

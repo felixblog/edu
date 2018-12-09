@@ -108,9 +108,9 @@ d) $-\dfrac{8}{3}+5-\dfrac{2}{5};\:12-\dfrac{1}{3}-\dfrac{1}{9}.$
 
 Calcola il valore delle seguenti espressioni, eseguendo, in ciascun passaggio, solo operazioni indipendenti tra di loro.  
 
-a) $3-\dfrac{1}{2}+\left[\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right]-1;\:,\dfrac{1}{10}-\dfrac{3}{5}+\left[\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right]-\left(\dfrac{6}{5}+3\right);$    $[R. \dfrac{37}{20};-1]$  
+a) $3-\dfrac{1}{2}+\left[\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right]-1;\:\dfrac{1}{10}-\dfrac{3}{5}+\left[\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right]-\left(\dfrac{6}{5}+3\right);$    $[R. \dfrac{37}{20};-1]$  
 
-b) $-\left(1+2\right)-\left(\dfrac{1}{12}+\dfrac{1}{2}\right)+\left(\dfrac{5}{2}+\dfrac{4}{3}\right)-\left[\dfrac{1}{6}+\left(-\dfrac{5}{4}-\dfrac{1}{3}\right)-1\right];$     $[R. 0]$  
+b) $-\left(1+2\right)-\left(\dfrac{1}{12}+\dfrac{1}{2}\right)+\left(\dfrac{5}{2}+\dfrac{4}{3}\right)-\left[\dfrac{1}{6}+\left(-\dfrac{5}{4}-\dfrac{1}{3}\right)-1\right];$  
 
 c) $7-\left[\left(3+\dfrac{1}{5}-\dfrac{3}{4}-2\right)-\left(\dfrac{2}{5}-6+\dfrac{3}{4}-\dfrac{1}{2}\right)\right]+\dfrac{6}{5}-\left(\dfrac{7}{20}+\dfrac{1}{20}\right).$     $[R. 2]$  
 
@@ -222,7 +222,7 @@ b) $\left(1-\dfrac{1}{2}\right)^{2},\left(2-\dfrac{5}{4}\right)^{0},\left(\dfrac
 
 Calcola il valore delle seguenti espressioni contenenti potenze.
 
-a) $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \dfrac{12}{5}]$
+a) $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \left(\dfrac{23}{5}\right)^2]$
 
 b) $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. 7]$
 ​            
