@@ -88,8 +88,9 @@ c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre 
 
 
 
+### ESERCIZIO 7 - Problemi sul lavoro I
+La produttività (di periodo) di una unità è data dal rapporto tra i beni/servizi prodotti dall'unità q e la durata t del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di n unità uguali è data dalla somma delle singole produttività. Se le unità sono n tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
-### ESERCIZIO 7 - Problemi sul lavoro, caso di lavoro insieme
 Risolvi i seguenti problemi.
 
 a) Giacomo dipinge una parete in 3 ore. Giovanni fa lo stesso lavoro in 5 ore. Quanto impiegherebbero se lavorassero insieme?  
@@ -102,7 +103,7 @@ d) Sei operaie confezionano 120 paia di guanti in 20 giorni. Quanti giorni occor
 
 
 
-### ESERCIZIO 8 - Problemi sul lavoro, caso di più unità
+### ESERCIZIO 8 - Problemi sul lavoro II
 Risolvi i seguenti problemi.
 
 a) In una fabbrica ci sono 2 macchine, la prima produce 10 pezzi all’ora, la seconda 7 pezzi all’ora.
