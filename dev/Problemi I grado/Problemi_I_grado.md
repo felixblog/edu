@@ -121,7 +121,7 @@ a) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in d
 
 b) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di 40 Km/h mentre l’altra a 20 Km/h. Se la distanza tra le due città è di 150 Km quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso?  
 
-c) Un viaggiatore impiega 12 ore per un tragitto di andata e ritorno, con una velocità di 20 Km/h per l’andata e 30 Km/h per il ritorno. Trova la durata (in ore) del viaggio.  
+c) Un viaggiatore impiega 12 ore per un tragitto di andata e ritorno, con una velocità di 20 Km/h per l’andata e 30 Km/h per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
 
 d) Un postino che viaggia a 30 Km/h è in viaggio da 3 ore. Un altro postino, inviato per raggiungerlo, viaggia a 50 Km/h. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
 
