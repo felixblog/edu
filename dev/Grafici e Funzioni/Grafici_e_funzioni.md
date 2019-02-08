@@ -53,8 +53,17 @@ a) $y = \dfrac{1}{2}x$, $y = \dfrac{-1}{3}x$
 b) $y = \dfrac{-1}{3}x$, $y = 3x$  
 c) $y = \dfrac{11}{8}x$, $y = 11 x$  
 
+### ESERCIZIO 8 - Forma implicita ed esplicita
+a) Scrivi in forma implicita le seguenti equazioni di rette
+1. $y = \dfrac{1}{2}x$, $y = \dfrac{-1}{3}x - 4$  
+2. $y = \dfrac{11}{8}x$, $y = 11$  
+
+b) Scrivi in forma esplicita le seguenti equazioni
+1. $y - \dfrac{1}{2}x = 5$, $y +\dfrac{-1}{3}x - 4 = 0$  
+2. $y - x +2 = 0$, $y - 4 = x + 9$  
 
 ### ESERCIZIO 8 - Modelli e funzioni, la proporzionalità diretta ed inversa
+
 a) Esprimere le relazioni seguenti con una equazione dopo aver scelto le lettere che rappresentano le quantità:
 1. I litri di vernice necessari per reimbiancare una stanza variano direttamente con il numero di metri quadri delle pareti
 2. L'ammontare dell'IVA da pagare varia direttamente con il prezzo di acquisto di una macchina
