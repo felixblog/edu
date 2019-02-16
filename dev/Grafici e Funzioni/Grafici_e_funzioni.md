@@ -62,25 +62,54 @@ b) Scrivi in forma esplicita le seguenti equazioni
 1. $y - \dfrac{1}{2}x = 5$, $y +\dfrac{-1}{3}x - 4 = 0$  
 2. $y - x +2 = 0$, $y - 4 = x + 9$  
 
-### ESERCIZIO 8 - Modelli e funzioni, la proporzionalità diretta ed inversa
+### ESERCIZIO 9 - Interpretazione geometrica dei sistemi
 
-a) Esprimere le relazioni seguenti con una equazione dopo aver scelto le lettere che rappresentano le quantità:
-1. I litri di vernice necessari per reimbiancare una stanza variano direttamente con il numero di metri quadri delle pareti
+Dati i sistemi seguenti, per ciascuno di essi disegna le due rette, controlla se la coppia fornita è il loro punto di intersezione e, nel caso non lo fosse, trovalo. 
+
+a)  $$ (3;1) \enspace \enspace \left\{  
+\begin{array}{c} 
+5x-3y=12 \\  
+x-2y=1 \\   
+\end{array} 
+\right.$$
+
+b)  $$ (5;-2) \enspace \left\{  
+\begin{array}{c} 
+3x+2y=-1 \\  
+6x-9y=2 \\   
+\end{array} 
+\right.$$
+
+c)  $$ (9;2) \enspace \enspace \left\{  
+\begin{array}{c} 
+x+3y=-1 \\  
+x-y=7 \\  
+\end{array} 
+\right.$$
+
+### 
+
+### ESERCIZIO 8 - Proporzionalità diretta ed inversa
+
+a) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere che rappresentano le quantità:
+1. I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti
 2. L'ammontare dell'IVA da pagare varia direttamente con il prezzo di acquisto di una macchina
-3. Le ore impiegate da un pendolare per recarsi da casa al posto di lavoro variano inversamente alla velocità media di percorrenza del tragitto  
+3. Le ore impiegate da un pendolare per recarsi da casa al posto di lavoro variano inversamente alla velocità (media) di percorrenza del tragitto  
 
 b) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente com il peso (in Kg) del paziente. Se la dose per un paziente di 30 Kg è di 18 mg, quale è la dose per un bambino di 45 Kg?  
 
 a) *QUOTA DI ISCRIZIONE*  
 L'iscrizione ad una piscina costa 250 euro per le 12 settimane della stagione estiva. Se qualcuno si iscrive dopo l'inizio della stagione, una parte della della quota (proporzionale al ritardo) si può recuperare dalla quota dell'anno successivo.
-1. Calcolare quanto consuma effettivamente chi si iscrive 5 settimane dopo l'inizio della stagione;  
-2. Calcolare il consumo dopo 2 settimane;  
-3. Compilare una tabella (2 colonne, 12 righe, I colonna: Numero settimane di ritardo, II colonna: Costo effettivo) che riporta quanto viene consumato da chi si iscrive in ritardo;  
+
+1. Calcolare quanto spende nell'anno chi si iscrive in ritardo di 5 settimane;  
+2. Calcolare la spesa se il ritardo è di 2 settimane;  
+3. Compilare una tabella (2 colonne, Prima colonna: Numero settimane di ritardo, Seconda colonna: Spesa nell'Anno) che riporta la spesa per ogni settimana di ritardo.  
 
 b) *STAMPA LIBRI DI TESTO*  
 Un editore valuta che il costo per stampare un numero variabile tra 1.000 e 10.000 copie di un certo libro di testo è 50 euro a copia; tra 10.001 e 20.000 copie il costo è 40 euro a copia e tra 20.001 e 50.000 il costo è 35 euro per copia.  
+
 1. Trova quanto costa stampare 5.500 copie e 23.000 copie;
-2. Compila una tabella (2 colonne, 5 righe, I colonna: Numero di copie, II colonna: Costo) che riporta i casi del punto a più quelli di 2.000, 7.000, 45.000 copie.  
+2. Compila una tabella (2 colonne,  prima colonna: Numero di copie, seconda colonna: Costo) che riporta i casi del punto 1 più quelli relativi a 2.000, 7.000, 45.000 copie.  
 
 
 
@@ -131,6 +160,13 @@ a) Per ogni funzione costruisci una tabella con cinque valori di x (positivi, ne
 ### ESERCIZIO 13 - Le funzioni definite a tratti
 
 
+
+### ESERCIZIO 14 - Esempio di funzione definita a tratti
+
+Un editore valuta che il costo per stampare un numero variabile tra 1.000 e 10.000 copie di un certo libro di testo è 50 euro a copia; tra 10.001 e 20.000 copie il costo è 40 euro a copia e tra 20.001 e 50.000 il costo è 35 euro per copia.  
+
+1. Trova quanto costa stampare 5.500 copie e 23.000 copie;
+2. Compila una tabella (2 colonne,  prima colonna: Numero di Copie, seconda colonna: Costo) che riporta i casi del punto 1 più quelli relativi a 2.000, 7.000, 45.000 copie.  
 
 
 ### ESERCIZIO 14 - Caratteristiche delle funzioni
