@@ -13,7 +13,7 @@ c) R = {(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)}
 
 Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
 
-![Fig1](/img/Fig1.png)
+![Fig1](img/Fig1.png)
 
 ### ESERCIZIO 3 - Punti allineati
 
@@ -54,7 +54,7 @@ a) Scrivi l'equazione della retta passante per i punti A e B dati.
 
 b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti.
 
-![rette1](/img/rette1.png)  
+![rette1](img/rette1.png)  
 
 ### ESERCIZIO 7 - Forma implicita ed esplicita
 
@@ -101,7 +101,7 @@ b) Scrivi l'equazione della retta che passa per il punto (0,-2) ed ha pendenza 1
 
 c) Nella figura seguente la salita ha una pendenza del 17%. Se in un minuto l'autocarro percorre 500 metri in orizzontale, di quanti metri sarà salito in verticale?
 
-![pendenza](/img/pendenza.png)
+![pendenza](img/pendenza.png)
 
 d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minuti con una velocità costante. Indicando con t il tempo in ore trascorso dall'inizio del viaggio e con s lo spazio in Km percorso:
 
