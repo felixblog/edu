@@ -55,21 +55,21 @@ Risolvi le seguenti equazioni scrivendo a fianco di ogni passaggio la proprietà
 
 a) $2x + 5 = 17;\enspace 5q - 2 = 23$   
 
-b) $-55 = 3w + 5;\enspace \dfrac{5}{6}k - 5 = 10;$   
+b) $-55 = 3w + 5;\enspace \dfrac{5}{6}k - 5 = 10$   
 
-c) $\dfrac{x}{5} - 5 = -12;\enspace -5 - 2d = 0;$   
+c) $\dfrac{x}{5} - 5 = -12;\enspace -5 - 2d = 0​$   
 
-d) $0.7 - 4y = 1.7;\enspace 0.3 - 2x = -0.9;$  
+d) $0.7 - 4y = 1.7;\enspace 0.3 - 2x = -0.9$  
 
-e) $3\left(2y - 2\right) - y = 5;\enspace -\left(4 -m\right) = -10;$   
+e) $3\left(2y - 2\right) - y = 5;\enspace -\left(4 -m\right) = -10$   
 
-f) $5x = 4x + 7;\enspace 7 + 3w = 4 + 9w$   
+f) $5x = 4x + 7;\enspace 7 + 3w = 4 + 9w​$   
 
 g) $\dfrac{1}{8}y - \dfrac{1}{2} = \dfrac{1}{4};\enspace \dfrac{2}{3} = -\dfrac{2}{3}x + \dfrac{3}{4}$   
 
-h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$   
+h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1​$   
 
-
+i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
 
 
 ### ESERCIZIO 4 - Soluzione di formule
@@ -78,9 +78,9 @@ Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'inc
 
 a) $r = c + m ~~~ per ~~ c;\enspace\enspace\enspace a + b + c = 180 ~~~ per ~~ a$
 
-a) $E = I\cdotp R ~~~ per ~~ R \enspace\enspace\enspace I = C\cdotp i\cdotp t ~~~ per ~~ i$
+b) $E = I\cdotp R ~~~ per ~~ R \enspace\enspace\enspace I = C\cdotp i\cdotp t ~~~ per ~~ i$
 
-a) $3x + y = 9 ~~~ per ~~ y \enspace\enspace\enspace 5y - x = 25 ~~~ per ~~ y$
+c) $3x + y = 9 ~~~ per ~~ y \enspace\enspace\enspace 5y - x = 25 ~~~ per ~~ y$
 
 d) $-x + 3y = 9 ~~~ per ~~ y;\enspace\enspace\enspace \dfrac{7}{8}c + w = 9 ~~~ per ~~ c$
 
