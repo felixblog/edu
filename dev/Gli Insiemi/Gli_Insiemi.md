@@ -12,7 +12,7 @@ b) Rappresenta per elencazione i seguenti insiemi:
 5. I divisori primi di 42:  
 6. I giorni della settimana che iniziano per «b»;  
 7. Le vocali della parola «farfalla»
-  
+
 c) Rappresenta per elencazione i seguenti insiemi:  
 1. L’insieme A dei numeri del tipo $3n$, con n ∈ {0, 2, 4, 6};  
 2. L’insieme B dei numeri del tipo $2n + 1$, con n ∈ {0, 1, 2, 3, 4};  
@@ -97,7 +97,21 @@ d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispe
 1. U = {x: x è una lettera dell’alfabeto}, A = {x: x è una vocale}.  
 2. U = {x: x è un punto della superficie terrestre}, A = {x: x è un punto delle terre emerse}.
 
-### ESERCIZIO 8 - Le relazioni binarie
+### ESERCIZIO 8 - Prodotto Cartesiano
+
+a) Dati gli insiemi A e B, rappresenta il prodotto A x B per elencazione e con un diagramma cartesiano nei casi seguenti.
+
+1. $A = \{a, b\}​$ e $B = \{4, 6\}​$
+2. $A = \{x ∈ N: 1 \lt x \;e \; x \le 4 \}​$ e $B = \{x ∈ N: 5 \lt x \;e \; x \lt 10 \}​$
+3. $A = \{Milan, Inter, Sampdoria\}$ e $B = \{Roma, Lazio, Juventus\}​$
+
+b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e quelli dell’insieme B.
+
+1. $A \times B = \{(r; t), (e; r), (r; e), (e; t), (r; r), (e; e)\}​$
+2. $B \times A =  \{(1; a), (2; a), (1; b), (2; b)\}$
+3. $A \times B = \{(+; a), (+ ; b), (+; c), (+ ; a), (- ; b),  (-; c)\}​$
+
+### ESERCIZIO 9 - Le relazioni binarie
 
 a) Dati gli insiemi A = {Po, Adige, Arno, Tevere} e B = {x: x è una regione italiana}, determina il sottoinsieme di A X B relativo alla relazione «a scorre in b»  
 b) Dati gli insiemi A = {1, 2, 3, 4, 5} e B = {-1, 0, 1, 2}, scrivi le coppie di ognuna delle seguenti relazioni da A a B  
@@ -105,50 +119,9 @@ b) Dati gli insiemi A = {1, 2, 3, 4, 5} e B = {-1, 0, 1, 2}, scrivi le coppie di
 &emsp;  R2: «x = 2y»  
 &emsp;  R3: «x è minore o uguale a y»
 
-### ESERCIZIO 9 - Rappresentazione delle relazioni
+### ESERCIZIO 10 - Rappresentazione delle relazioni
 
-a) Dati gli insiemi A = {x in N: x < 4} e B = {2, 4, 5}, rappresenta la relazione da A a B: «La somma di x e y è dispari»:  
-&emsp;  1. In forma sagittale;  
-&emsp;  2. Con tabella a doppia entrata;  
-&emsp;  3. Con diagramma cartesiano
+a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}​$ e $B = \{2, 4, 5\}​$, rappresenta la relazione da A a B: «La somma di x e y è dispari» in forma sagittale, cartesiana, tabellare, tabellare a doppia entrata.
 
-b) Considerato l’insieme A = {x in Z: -3 <= x < 4}, rappresenta le seguenti relazioni in A X A per elencazione e mediante una tabella a doppia entrata  
-&emsp;  1. «Il prodotto tra x e y è positivo»  
-&emsp;  2. «Il prodotto fra x e y è 0»  
-&emsp;  3. «La somma di x e y è 0»
+b) Data la relazione $R = \{(Franco;3), (Anna;6), (Luigi;8), (Ester;7), (Marco; 6)\}$ che riporta i voti di Italiano in un compito in classe, rappresenta R in forma sagittale, cartesiana e tabellare. 
 
-c) Dato l’insieme A = {x in N: x <= 10}, rappresenta mediante grafici cartesiani le seguenti relazioni in A X A  
-&emsp;  1. x = y    
-&emsp;  2. x <= y  
-&emsp;  3. «La somma di x e y è pari»  
-
-### ESERCIZIO 10 - Relazione Inversa
-
-Dati gli insiemi A = {x in N: 1 < x < 7}, B = {x in N: 8 < x < 14}, per ognuna delle seguenti relazioni in A X B rappresenta per elencazione le coppie della relazione e della sua inversa.  
-&emsp;  1. {(x;y): x è divisore di y}  
-&emsp;  2. {(x;y): x = y - 4}  
-&emsp;  3. {(x;y): x + y = 18}
-
-### ESERCIZIO 11 - Relazioni definite in un insieme in se e loro proprietà
-
-Rappresenta le relazioni seguenti in forma sagittale, con una tabella a doppia entrata e con un grafico cartesiano  
-&emsp;  R1: «x è il triplo di y», A = {1, 3, 6, 9, 12}  
-&emsp;  R2: «xy > 0», A = {x in Z: -2 < x < 2}  
-&emsp;  R3: «x è divisore di y», A = {2, 4, 5, 7, 14, 30}. 
-
-### ESERCIZIO 12 - Proprietà riflessiva, antiriflessiva, simmetrica, antisimmetrica e transitiva
-
-a) Dato l’insieme A = {a, b, c, d}, stabilisci di quali proprietà gode ognuna delle seguenti relazioni definite in A.  
-&emsp;  R1 = {(a;a),(a;b),(b;a),(c;d),(b;d),(d;b), (d;c)}  
-&emsp;  R2 = {(a;a), (b;b), (c;c), (b;c)}  
-&emsp;  R3 = {(a;b), (a;c), (a;d), (b;c), (b;d), (c;d)}
-
-b) Scrivi le proprietà delle seguenti relazioni definite in un insieme A di persone:  
-&emsp;  1. «x abita in un quartiere diverso da quello di y»;  
-&emsp;  2. «x è nipote di y»;  
-&emsp;  3. «x frequenta la stessa scuola di y»
-
-c) Scrivi le proprietà delle seguenti relazioni definite in un insieme A di nazioni:  
-&emsp;  1. «x confina con y»;  
-&emsp;  2. «x ha una densità di popolazione non inferiore a y»;  
-&emsp;  3. «x è in pace con y».
