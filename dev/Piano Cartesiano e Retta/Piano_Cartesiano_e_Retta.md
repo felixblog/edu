@@ -37,14 +37,16 @@ e) E = {(x; y): x + y = 1}
 Disegna le rette rappresentate dalle seguenti equazioni:  
 a) $y = \dfrac{1}{2}x$, $y = \dfrac{-1}{3}x$  
 b) $y = \dfrac{-1}{3}x$, $y = 3x$  
-c) $y = \dfrac{11}{8}x$, $y = 11 x$  ESERCIZIO 5 - Coefficiente angolare di una retta
+c) $y = \dfrac{11}{8}x$, $y = 11 x$  
+
+### ESERCIZIO 6 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
 a) {(4; -5), (2; 3)}  
 b) {(-3; 1), (-1; -2)}  
 c) {(4; 1/2), (2/3; -2)}  
 
-### ESERCIZIO 6 - Equazione della retta passante per due punti
+### ESERCIZIO 7 - Equazione della retta passante per due punti
 
 a) Scrivi l'equazione della retta passante per i punti A e B dati.  
 
@@ -56,7 +58,7 @@ b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti.
 
 ![rette1](img/rette1.png)  
 
-### ESERCIZIO 7 - Forma implicita ed esplicita
+### ESERCIZIO 8 - Forma implicita ed esplicita
 
 a) Scrivi in forma implicita le seguenti equazioni di rette
 
@@ -65,10 +67,10 @@ a) Scrivi in forma implicita le seguenti equazioni di rette
 
 b) Scrivi in forma esplicita le seguenti equazioni
 
-1. $y - \dfrac{1}{2}x = 5$, $y +\dfrac{-1}{3}x - 4 = 0$  
+1. $y - \dfrac{1}{2}x = 5​$, $y +\dfrac{-1}{3}x - 4 = 0​$  
 2. $y - x +2 = 0$, $y - 4 = x + 9$  
 
-### ESERCIZIO 8 - Interpretazione geometrica dei sistemi
+### ESERCIZIO 9 - Interpretazione geometrica dei sistemi
 
 Dati i sistemi seguenti, per ciascuno di essi disegna le due rette, controlla se la coppia fornita è il loro punto di intersezione e, nel caso non lo fosse, trovalo. 
 
@@ -91,13 +93,24 @@ c)  $$ (9;2) \enspace \enspace \left\{
 x+3y=-1 \\  
 x-y=7 \\  
 \end{array} 
-\right.$$
+\right.​$$
 
-### ESERCIZIO 9 - Pendenza di una linea
+### ESERCIZIO 10 - Problemi sulla retta
+
+a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
+
+1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0​$  
+2. $x+3y=-1; \> x-y=7$;
+
+b) Scrivi l'equazione di una retta di coefficiente -1 e passante per il punto (0; 3).
+
+c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
+
+### ESERCIZIO 11 - Pendenza di una linea
 
 a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione 3x + 4y = 12.
 
-b) Scrivi l'equazione della retta che passa per il punto (0,-2) ed ha pendenza 1/3.
+b) Scrivi l'equazione della retta che passa per il punto (0;-2) ed ha pendenza 1/3.
 
 c) Nella figura seguente la salita ha una pendenza del 17%. Se in un minuto l'autocarro percorre 500 metri in orizzontale, di quanti metri sarà salito in verticale?
 
@@ -108,7 +121,7 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 1. scrivi la formula che calcola lo spazio s percorso dopo t ore nei tre tratti 
 2. riporta in un piano cartesiano con il tempo sull'asse orizzontale e lo spazio su quello verticale, il grafico dell'equazione trovata. Quale è il significato fisico del coefficiente angolare?
 
-### ESERCIZIO 10 - Applicazioni
+### ESERCIZIO 12 - Applicazioni
 
 a) Un grande magazzino annuncia sconti del 30% su tutta la merce. Costruisci una tabella con il nuovo prezzo di un paio di scarpe da 65 euro, una cintura da 15 euro ed un paio di pantaloni da 48 euro. Scrivi la formula che calcola il nuovo prezzo a partire dal vecchio e dallo sconto. 
 
