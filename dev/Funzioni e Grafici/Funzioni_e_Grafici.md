@@ -44,9 +44,9 @@ a) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere c
 
 b) QUOTA ISCRIZIONE. L'iscrizione ad una piscina costa 250 euro per le 12 settimane della stagione estiva. Se qualcuno si iscrive dopo l'inizio della stagione, una parte della della quota (proporzionale al ritardo) si può recuperare dalla quota dell'anno successivo.
 
-1. Calcolare quanto spende nell'anno chi si iscrive in ritardo di 5 settimane;  
+1. Calcolare quanto spende nell'anno successivo chi si iscrive in ritardo di 5 settimane;  
 2. Calcolare la spesa se il ritardo è di 2 settimane;  
-3. Compilare una tabella (2 colonne, Prima colonna: Numero settimane di ritardo, Seconda colonna: Spesa nell'Anno) che riporta la spesa per ogni settimana di ritardo.  
+3. Compilare una tabella (2 colonne, Prima colonna: Numero settimane di ritardo, Seconda colonna: Spesa nell'Anno Successivo) che riporta la spesa nell'anno successivo per ogni settimana di ritardo della prima iscrizione.  
 
 c) STAMPA LIBRI DI TESTO. Un editore valuta che il costo per stampare un numero variabile tra 1.000 e 10.000 copie di un certo libro di testo è 50 euro a copia; tra 10.001 e 20.000 copie il costo è 40 euro a copia e tra 20.001 e 50.000 il costo è 35 euro per copia.  
 
@@ -87,8 +87,8 @@ a) Calcola il valore della funzione seguente per $n \in \{1, -1, 2, -2, 3, -3, 4
 $$
 f(n) = 
 \begin{cases} 
-1  & se\; n\; minore\; di\; zero \\ 
-3n+1 & se\; n\; maggiore\; o\; uguale\; a\; zero 
+1  & se\; n\; \lt 0 \\ 
+3n+1 & se\; n\; \ge 0 
 \end{cases}
 $$
 
