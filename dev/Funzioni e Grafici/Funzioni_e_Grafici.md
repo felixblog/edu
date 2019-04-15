@@ -96,8 +96,8 @@ b) Disegna un grafico della funzione seguente.
 $$
 f(x) = \begin{cases} 
 -x-1  & se \; x \le -1 \\ 
-0 & se \; -1 \leq x \le 1 \\
-x -1 & se \; 1 \le x
+0 & se \; -1 \lt x \le 1 \\
+x -1 & se \; 1 \lt x
 \end{cases}
 $$
 c) Un editore valuta che il costo per stampare un numero variabile tra 1.000 e 10.000 copie di un certo libro di testo è 50 euro a copia; tra 10.001 e 20.000 copie il costo è 40 euro a copia e tra 20.001 e 50.000 il costo è 35 euro per copia.  
