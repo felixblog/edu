@@ -67,7 +67,7 @@ a) Scrivi in forma implicita le seguenti equazioni di rette
 
 b) Scrivi in forma esplicita le seguenti equazioni
 
-1. $y - \dfrac{1}{2}x = 5​$, $y +\dfrac{-1}{3}x - 4 = 0​$  
+1. $y - \dfrac{1}{2}x = 5$, $y +\dfrac{-1}{3}x - 4 = 0$  
 2. $y - x +2 = 0$, $y - 4 = x + 9$  
 
 ### ESERCIZIO 9 - Interpretazione geometrica dei sistemi
@@ -93,13 +93,13 @@ c)  $$ (9;2) \enspace \enspace \left\{
 x+3y=-1 \\  
 x-y=7 \\  
 \end{array} 
-\right.​$$
+\right.$$
 
 ### ESERCIZIO 10 - Problemi sulla retta
 
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
-1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0​$  
+1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0$  
 2. $x+3y=-1; \> x-y=7$;
 
 b) Scrivi l'equazione di una retta di coefficiente -1 e passante per il punto (0; 3).
@@ -118,16 +118,20 @@ c) Nella figura seguente la salita ha una pendenza del 17%. Se in un minuto l'au
 
 d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minuti con una velocità costante. Indicando con t il tempo in ore trascorso dall'inizio del viaggio e con s lo spazio in Km percorso:
 
-1. scrivi la formula che calcola lo spazio s percorso dopo t ore nei tre tratti 
+1. scrivi la formula che calcola lo spazio s percorso dopo t ore 
 2. riporta in un piano cartesiano con il tempo sull'asse orizzontale e lo spazio su quello verticale, il grafico dell'equazione trovata. Quale è il significato fisico del coefficiente angolare?
 
 ### ESERCIZIO 12 - Applicazioni
 
+Negli esercizi che seguono, indicando con $y$ il costo totale sostenuto e con $x$ la durata delle operazioni, utilizzare la formula seguente per legare il costo totale alla somma dei costi fissi $q$ e quelli variabili $mx$:
+$$
+y = mx+q
+$$
 a) Un grande magazzino annuncia sconti del 30% su tutta la merce. Costruisci una tabella con il nuovo prezzo di un paio di scarpe da 65 euro, una cintura da 15 euro ed un paio di pantaloni da 48 euro. Scrivi la formula che calcola il nuovo prezzo a partire dal vecchio e dallo sconto. 
 
 b)  Una sala chirurgica ambulatoriale prevede il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato 250 euro per un intervento di 30 minuti ed un altro 450 euro per uno di 90 minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di 45 minuti.
 
-c) L'azenzia di noleggio auto EZ ha un costo che prevede, per il noleggio di auto, una quota fissa al giorno più una quota variabile secondo il numero di chilometri. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
+c) L'agenzia di noleggio auto EZ ha un costo che prevede, per il noleggio di auto, una quota fissa al giorno più una quota variabile secondo il numero di chilometri. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
 
 1. Scrivi la formula che calcola il costo di noleggio.
 2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Il noleggio conviene di più con EZ oppure A-OK? 
