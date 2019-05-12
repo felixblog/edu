@@ -19,7 +19,8 @@ a) Determinare i capitali che, nel regime dell’interesse semplice, hanno prodo
 3. 861,42 in 102 giorni al tasso del 3% quadrimestrale
 
 b) Calcolare quale capitale impiegato al tasso annuo del 10% da in 8 mesi l’interesse semplice di 34 euro.  
-c) Calcolare quale capitale impiegato al tasso annuo del 9% da in 3 mesi e 10 giomi un interesse semplice di 115 euro.
+
+c) Calcolare quale capitale impiegato al tasso annuo del 9% da in 3 mesi e 10 giorni un interesse semplice di 115 euro.
 d) Il capitale di 6.000 euro ha prodotto l’interesse semplice di 480 euro. Calcolare i tassi annui se la durata dell’impiego e stata di:   
 &emsp;  1. un anno;  
 &emsp;  2. 10 mesi; 
@@ -39,7 +40,7 @@ b) Per quanto tempo e necessario lasciare depositato il capitale di 540 euro, al
 
 ### ESERCIZIO 4 - Interesse semplice: sconto
 
-a) Una cambiale del valore nominale di 510 euro viene scontata, in regime di capitalizzazione semplice, 3 mesi prima della scadenza, al tasso. dell’8% annuo. Calcolare la somma scontata e lo sconto.   
+a) Una cambiale del valore nominale di 510 euro viene scontata, in regime di capitalizzazione semplice, 3 mesi prima della scadenza, al tasso dell’8% annuo. Calcolare la somma scontata e lo sconto.   
 b) Con il pagamento di 840 euro si salda anticipatamente un debito del valore nominale di 863 euro fruendo dello sconto razionale, al tasso dell’8,50% annuo. Determinare il tempo di anticipazione.  
 c) Un debito viene saldato prima della scadenza, fruendo dello sconto razionale al tasso del 16%. Calcolare la scadenza del debito se la somma scontata è pari ai 9/10 del valore nominale.  
 d) Un commerciante per 1'acquisto di una merce deve fare tre pagamenti uguali, di 300 euro ciascuno, scadenti il primo oggi, il secondo fra 2 mesi, il terzo fra 6 mesi. Pagando tutto oggi può fruire dello sconto razionale al tasso del 9% annuo. Calcolare il valore complessivo da pagare oggi.
@@ -91,7 +92,7 @@ d) 3.012 euro per 2 anni e 5 mesi al tasso dell’1,50% mensile.
 
 ### ESERCIZIO 8 - Interesse composto: valore attuale II
 
-a) Scontiamo una cambiale del valore di 20.000 euro scadente fra 5 anni con sconto composto al tasso del 12%. Investiamo subito la somma riscossa al lasso del 16%. Quale guadagnorealizzeremo fra 5 anni?
+a) Scontiamo una cambiale del valore di 20.000 euro scadente fra 5 anni con sconto composto al tasso del 12%. Investiamo subito la somma riscossa al lasso del 16%. Quale guadagno realizzeremo fra 5 anni?
 
 b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: L. 30.000.000 alla stipulazione del contralto e tre somme di euro 10.000 ciascuna scadenti fra 2, 4 e 6 anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del 9%. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? 
 
