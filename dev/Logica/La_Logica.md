@@ -46,14 +46,14 @@ b) Dire in quali delle seguenti proposizioni la congiunzione “e” si può for
 6. "Carlo ha superato l’esame ed è andato in ferie".
 
 c) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni.
-1. "Giovanna è bella, ma Claudia è intelligente";   
-2. "Marcello è in campo, benché abbia la febbre";  
-3. "John è in Italia senza avere il passaporto";   
-4. "Giorgio è italiano dato che è nato a Imperia";  
-5. "David è spagnolo perché è nato a Barcellona";   
-6. "Oggi è bello e quindi vado in barca";  
-7. "Carlo gioca a meno che piova";  
-8. "A meno che Carlo intervenga, lo scontro è inevitabile".
+1. "Giovanna è bella, <u>ma</u> Claudia è intelligente";   
+2. "Marcello è in campo, <u>benché</u> abbia la febbre";  
+3. "John è in Italia <u>senza</u> avere il passaporto";   
+4. "Giorgio è italiano <u>dato che</u> è nato a Imperia";  
+5. "David è spagnolo <u>perché</u> è nato a Barcellona";   
+6. "Oggi è bello <u>e quindi</u> vado in barca";  
+7. "Carlo gioca <u>a meno che</u> piova";  
+8. "<u>A meno che</u> Carlo intervenga, lo scontro è inevitabile".
 
 
 ### ESERCIZIO 3 - Connettivi proposizionali
@@ -141,7 +141,7 @@ b) Posto: A = "Carlo è ligure" e B = "Diego è piemontese", scrivere in forma s
 ### ESERCIZIO 5 - Tabelle di verità, tautologie e contraddizioni
 a) Costruisci le tabelle di verità delle proposizioni seguenti.
 1. $ \lnot p \to q;  \lnot q \to \lnot p; p \lor (p \land q); $  
-2. $ \lnot ( \lnot p \land \lnot q);  \lnot (\lnot p \lor \lnot q); (p \to q) \land p; ​$
+2. $ \lnot ( \lnot p \land \lnot q);  \lnot (\lnot p \lor \lnot q); (p \to q) \land p; $
 
 b) Individua tra le proposizioni seguenti le tatutologie e le contraddizioni.
 1. $p \to ( q \to p);$  
