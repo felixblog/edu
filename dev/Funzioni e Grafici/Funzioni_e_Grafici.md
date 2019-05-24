@@ -39,8 +39,9 @@ d) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio
 
 a) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere che rappresentano le quantità:
 
-1. L'ammontare dell'IVA da pagare varia direttamente con il prezzo di acquisto di una macchina.
+1. L'ammontare dell'IVA da pagare (aliquota 22%) varia direttamente con il costo (imponibile) di acquisto di una macchina.
 2. Le ore impiegate da un pendolare per recarsi da casa al posto di lavoro variano inversamente alla velocità (media) di percorrenza del tragitto.
+3. L'ammontare dell'IVA (al 22%) ed il prezzo (IVA inclusa) di acquisto di una macchina.
 
 b) QUOTA ISCRIZIONE. L'iscrizione ad una piscina costa 250 euro per le 12 settimane della stagione estiva. Se qualcuno si iscrive dopo l'inizio della stagione, una parte della della quota (proporzionale al ritardo) si può recuperare dalla quota dell'anno successivo.
 
@@ -111,7 +112,7 @@ a) Per ciascuno dei grafici seguenti individua:
 1. I tratti dell'asse x in cui la funzione è crescente o decrescente;
 2. i punti di massimo o minimo relativo ed i rispettivi valori. 
 
-$y = x^2​$;
+$y = x^2$;
 
   ![Parabola](img/par.png)  
 
