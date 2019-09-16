@@ -10,7 +10,7 @@ ii. Calcola il risultato.
 
 a) $6 - 3; 6 : 3; 6 + 3; 6 · 3$  
 b) $15 + 10 + 3; 8 + 5 + 2 + 4; 17 - 9 - 1 - 1$  
-c) $8 · 12 + 5; 22 + 8 · 12; 1 - 2 · 3 + 4 · 5$    
+c) $8 · 12 + 5; 22 + 8 · 12; 10 - 2 · 3 + 4 · 5$    
 d) $6 − 10 : 2 + 3$;  
 e) $15 + 30 : 3 : 2 + 1$  
 f) $15 : 4 · 8$  
@@ -67,12 +67,12 @@ e) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di
 
 Calcola il valore delle seguenti espressioni eseguendo, in ciascun passaggio, solo operazioni indipendenti tra di loro.  
 
-a) $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]​$    
-b) $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10]​$    
-c) $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10]​$      
-d) $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} ) \enspace\enspace\enspace[R. 16]​$  
-e) $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21]​$  
-f) $ ((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))\enspace\enspace\enspace[R. 12]​$  
+a) $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]$    
+b) $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10]$    
+c) $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10]$      
+d) $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} ) \enspace\enspace\enspace[R. 16]$  
+e) $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21]$  
+f) $ ((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))\enspace\enspace\enspace[R. 12]$  
 
 [Verifica con Maxima. Inserisci le espressioni e calcola il risultato] 
 
@@ -93,7 +93,9 @@ Rappresenta con diagrammi ad albero le seguenti espressioni:
 a) $4 + 6·9$  
 b) $(4 + 6)·9$  
 c) $15 + 20 : 4 − 2$  
-d) $15 + 20 : (4 − 2)$
+d) $15 + 20 : (4 − 2)$  
+e) $((27 + 2) - 4 : (3 + 1)) - 20 $
+f) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $
 
 ### ESERCIZIO 10 - Dai diagrammi ad albero alle espressioni
 Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero:  
