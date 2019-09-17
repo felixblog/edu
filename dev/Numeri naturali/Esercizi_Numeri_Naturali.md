@@ -13,7 +13,7 @@ b) $15 + 10 + 3; 8 + 5 + 2 + 4; 17 - 9 - 1 - 1$
 c) $8 · 12 + 5; 22 + 8 · 12; 10 - 2 · 3 + 4 · 5$    
 d) $6 − 10 : 2 + 3$;  
 e) $15 + 30 : 3 : 2 + 1$  
-f) $15 : 4 · 8$  
+f) $16 : 4 · 8$  
 [Verifica con Maxima. Inserisci le espressioni e calcola il risultato] 
 
 
