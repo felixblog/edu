@@ -120,6 +120,12 @@ a) Applica, quando è possibile, le proprietà delle potenze e indica la proprie
 
 [Verifica con Maxima. simp: false; e: (4^3)^2 · 2^6; factor(e)] 
 
+b) Un numero è in notazione scientifica quando è scritto come prodotto di un numero compreso tra 1 (incluso) e 10 e una potenza di 10. Ad esempio 900 si scrive $9\cdot 10^2$. 
+
+1. Scrivi ciascuno dei numeri che seguono in notazione scientifica: $80, 2000000, 5, 6000, 3000000000;$
+2. Scrivi ciascuno dei numeri che seguono come numero intero:  $9\cdot 10^4$, $0\cdot 10^2$, $1\cdot 10^8$, $9\cdot 10^0$, $10\cdot 10^1;$
+3. Calcola il valore delle seguenti espressioni in notazione scientifica: $2 \cdot 10^2 \cdot 2 \cdot 10^3; 3 \cdot 10^1 \cdot 2 \cdot 10^3; 8 \cdot 10^9 : 2 \cdot 10^3.$
+
 b) Quali delle uguaglianze seguenti sono vere? Quali false?  
 
 1. $6^{2} · 6^{4}=6^{8}; \enspace$  
