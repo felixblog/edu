@@ -137,11 +137,3 @@ a) Scomponi in fattori primi i numeri 25, 40, 33, 6.
 b) Trova il Minimo Comune Multiplo ed il Massimo Comune Divisore delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione.  
 c) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi. 
 [Verifica con Maxima. load("functs"); factor(40); factor(gcd(6,15)); factor(lcm(6,15))] 
-
-### ESERCIZIO 13 - Dalle parole alle espressioni
-
-Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcolane i valori.  
-
-a) Se una azienda produce 600 unità di prodotto ad un costo di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale è il suo ricavo totale, il costo totale ed il profitto?   
-d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 metri di tela. La tela viene suddivisa in pezze da 32 metri ciascuna. Quante pezze vengono prodotte giornalmente?   
-e) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
