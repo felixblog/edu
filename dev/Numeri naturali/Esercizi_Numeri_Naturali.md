@@ -104,14 +104,7 @@ Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero:
 2. ![Albero](img\Albero2.png)
 3. ![Albero](img\Albero3.png)
 
-### ESERCIZIO 11 - m.c.m e M.C.D.
-
-a) Scomponi in fattori primi i numeri 25, 40, 33, 6.  
-b) Trova il Minimo Comune Multiplo ed il Massimo Comune Divisore delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione.  
-c) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi. 
-[Verifica con Maxima. load("functs"); factor(40); factor(gcd(6,15)); factor(lcm(6,15))] 
-
-### ESERCIZIO 12 - Proprietà delle potenze
+### ESERCIZIO 11 - Proprietà delle potenze
 
 a) Applica, quando è possibile, le proprietà delle potenze e indica la proprietà applicata.  
 
@@ -137,6 +130,13 @@ c) Applicando le proprietà delle potenze, calcola il valore delle seguenti espr
 1. $2^{5}:2^{4} + 2·2^{2} - 2^{0}$;  
 2. $(3^{4} · 3^{3})^{4} · 3^{5} · (3^{2} )^{4}$;  
 3. $2^{6} · 3^{6} · (18^{4} · 3^{4});$  
+
+### ESERCIZIO 12 - m.c.m e M.C.D.
+
+a) Scomponi in fattori primi i numeri 25, 40, 33, 6.  
+b) Trova il Minimo Comune Multiplo ed il Massimo Comune Divisore delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione.  
+c) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi. 
+[Verifica con Maxima. load("functs"); factor(40); factor(gcd(6,15)); factor(lcm(6,15))] 
 
 ### ESERCIZIO 13 - Dalle parole alle espressioni
 
