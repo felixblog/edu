@@ -119,13 +119,13 @@ b) Un numero è in notazione scientifica quando è scritto come prodotto di un n
 2. Scrivi ciascuno dei numeri che seguono come numero intero:  $9\cdot 10^4$, $0\cdot 10^2$, $1\cdot 10^8$, $9\cdot 10^0$, $10\cdot 10^1;$
 3. Calcola il valore delle seguenti espressioni in notazione scientifica: $2 \cdot 10^2 \cdot 2 \cdot 10^3; 3 \cdot 10^1 \cdot 2 \cdot 10^3; 8 \cdot 10^9 : 2 \cdot 10^3.$
 
-b) Quali delle uguaglianze seguenti sono vere? Quali false?  
+c) Quali delle uguaglianze seguenti sono vere? Quali false?  
 
 1. $6^{2} · 6^{4}=6^{8}; \enspace$  
 2. $5^{3} + 5^{4} = 5^{7};$
 3. $(10^{2})^{3} = 1.000.000;$  
 
-c) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
+d) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
 
 1. $2^{5}:2^{4} + 2·2^{2} - 2^{0}$;  
 2. $(3^{4} · 3^{3})^{4} · 3^{5} · (3^{2} )^{4}$;  
