@@ -117,7 +117,7 @@ b) Un numero è in notazione scientifica quando è scritto come prodotto di un n
 
 1. Scrivi ciascuno dei numeri che seguono in notazione scientifica: $80, 2000000, 5, 6000, 3000000000;$
 2. Scrivi ciascuno dei numeri che seguono come numero intero:  $9\cdot 10^4$, $0\cdot 10^2$, $1\cdot 10^8$, $9\cdot 10^0$, $10\cdot 10^1;$
-3. Calcola il valore delle seguenti espressioni in notazione scientifica: $2 \cdot 10^2 \cdot 2 \cdot 10^3; 3 \cdot 10^1 \cdot 2 \cdot 10^3; 8 \cdot 10^9 : 2 \cdot 10^3.$
+3. Calcola il valore delle seguenti espressioni in notazione scientifica: $2 \cdot 10^2 \cdot 2 \cdot 10^3; 3 \cdot 10^1 \cdot 2 \cdot 10^3; 8 \cdot 10^9 : (2 \cdot 10^3).$
 
 c) Quali delle uguaglianze seguenti sono vere? Quali false?  
 
