@@ -286,3 +286,11 @@ Di ognuna delle seguenti espressioni stabilisci se è intera o frazionaria e cal
 a)  $a-\left(b+c\right),\left[a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right]$;$a-\left(b-c\right),\left[a=\dfrac{2}{3},b=\dfrac{1}{6},c=\dfrac{2}{9}\right]$;$a+\left(-b\right)-c,\left[a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right]$
 
 b) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left[a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right]$;$\left(a+b\right)^{2}\left(-a-b\right)^{2},\left[a=-\dfrac{2}{3},b=1\right]$;$\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left[x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right]$
+
+### ESERCIZIO 25 - Numeri decimali e frazioni
+
+a) Scrivi le seguenti frazioni in forma decimale (arrotonda alla terza cifra decimale):  $\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
+
+b) Scrivi i seguenti numeri decimali in frazioni: 
+
+$\enspace 0,5;\enspace 0,005;\enspace 4,458;1000,1;\enspace 10,5;\enspace 9,69.$ 
