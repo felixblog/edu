@@ -57,17 +57,17 @@ a) $2x + 5 = 17;\enspace 5q - 2 = 23$
 
 b) $-55 = 3w + 5;\enspace \dfrac{5}{6}k - 5 = 10$   
 
-c) $\dfrac{x}{5} - 5 = -12;\enspace -5 - 2d = 0​$   
+c) $\dfrac{x}{5} - 5 = -12;\enspace -5 - 2d = 0$   
 
 d) $0.7 - 4y = 1.7;\enspace 0.3 - 2x = -0.9$  
 
 e) $3\left(2y - 2\right) - y = 5;\enspace -\left(4 -m\right) = -10$   
 
-f) $5x = 4x + 7;\enspace 7 + 3w = 4 + 9w​$   
+f) $5x = 4x + 7;\enspace 7 + 3w = 4 + 9w$   
 
 g) $\dfrac{1}{8}y - \dfrac{1}{2} = \dfrac{1}{4};\enspace \dfrac{2}{3} = -\dfrac{2}{3}x + \dfrac{3}{4}$   
 
-h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1​$   
+h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$   
 
 i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
 
@@ -113,3 +113,22 @@ c) ha come soluzione il numero il cui doppio meno 5 è uguale al numero stesso;
 d) ha come soluzione il numero che sommato al suo successivo è uguale a 3;
 
 e) consiste nell'uguaglianza tra un numero ed il suo opposto.
+
+
+
+### ESERCIZIO 7 - Equazioni Letterali
+
+Risolvi le seguenti equazioni considerando la lettera x come (unica) incognita.
+
+a) $ax = 2a;\enspace bx - 2 = 0;\enspace 2x = y;$
+
+b) $2a - 3x = 7a - 5x;\enspace b(x - 2) + b + 1 = 0;\enspace 2y = -\dfrac{1}{3}x;$
+
+c) $2bx = 2b - 1;\enspace ax = ab;\enspace x + y = 1;$
+
+d) $6x - 3(x + 2a) = a + 4(x - 2a) ;\enspace b(x - 2) + b + 1 = 0;\enspace \dfrac{-2}{3}(x - y) + 3y = -x + 4;$
+
+
+
+
+
