@@ -72,35 +72,8 @@ h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$
 i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
 
 
-### ESERCIZIO 4 - Soluzione di formule
 
-Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
-
-a) $r = c + m ~~~ per ~~ c;\enspace\enspace\enspace a + b + c = 180 ~~~ per ~~ a$
-
-b) $E = I\cdotp R ~~~ per ~~ R \enspace\enspace\enspace I = C\cdotp i\cdotp t ~~~ per ~~ i$
-
-c) $3x + y = 9 ~~~ per ~~ y \enspace\enspace\enspace 5y - x = 25 ~~~ per ~~ y$
-
-d) $-x + 3y = 9 ~~~ per ~~ y;\enspace\enspace\enspace \dfrac{7}{8}c + w = 9 ~~~ per ~~ c$
-
-
-
-### ESERCIZIO 5 - Applicazione di formule
-
-Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico. 
-
-a) Nel 2006 il film Titanic ha avuto un incasso mondiale di 1835 milioni di dollari con un profitto di 1595 milioni. Quanto è costato il film?
-
-b) Trova il profitto di un fioraio che nel giorno di San Valentino compra una dozzina di rose a 12.95 euro e le rivende a 47.50.  
-
-c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà a percorrere 166 Km?  
-
-d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 2100 Km quale è la velocità media dell'aereo?
-
-
-
-### ESERCIZIO 6 - Scrittura di equazioni
+### ESERCIZIO 4 - Scrittura di equazioni
 
 Scrivi le equazioni con le caratteristiche richieste da ciascuno degli punti seguenti:
 
@@ -116,7 +89,7 @@ e) consiste nell'uguaglianza tra un numero ed il suo opposto.
 
 
 
-### ESERCIZIO 7 - Equazioni Letterali
+### ESERCIZIO 5 - Equazioni Letterali
 
 Risolvi le seguenti equazioni considerando la lettera x come (unica) incognita.
 
@@ -127,6 +100,38 @@ b) $2a - 3x = 7a - 5x;\enspace b(x - 2) + b + 1 = 0;\enspace 2y = -\dfrac{1}{3}x
 c) $2bx = 2b - 1;\enspace ax = ab;\enspace x + y = 1;$
 
 d) $6x - 3(x + 2a) = a + 4(x - 2a) ;\enspace b(x - 2) + b + 1 = 0;\enspace \dfrac{-2}{3}(x - y) + 3y = -x + 4;$
+
+
+
+### ESERCIZIO 6 - Soluzione di formule
+
+Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
+
+a) $r = c + m, ~~~ incognita ~~ c;\enspace\enspace a + b + c = 180, ~~~ incognita ~~ a$
+
+b) $E = I\cdotp R, ~~~ incognita ~~ R; \enspace\enspace I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$
+
+c) $3x + y = 9, ~~~ incognita ~~ y; \enspace\enspace 5y - x = 25, ~~~ incognita ~~ y$
+
+d) $-x + 3y = 9. ~~~ incognita ~~ y; \enspace\enspace \dfrac{7}{8}c + w = 9, ~~~ incognita ~~ c$
+
+
+
+### ESERCIZIO 7 - Applicazione di formule
+
+Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico. 
+
+a) Nel 2006 il film Titanic ha avuto un incasso mondiale di 1835 milioni di dollari con un profitto di 1595 milioni. Quanto è costato il film?
+
+b) Trova il profitto di un fioraio che nel giorno di San Valentino compra una dozzina di rose a 12.95 euro e le rivende a 47.50.  
+
+c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà a percorrere 166 Km?  
+
+d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 2100 Km quale è la velocità media dell'aereo?
+
+
+
+
 
 
 
