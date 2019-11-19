@@ -202,21 +202,25 @@ c) Al quadrato della somma del cubo di un numero x e del suo doppio togli il cub
 
 Scrivi a parole le seguenti espressioni.
 
-a) $\dfrac{1}{3}-\left(-\dfrac{2}{3}+\dfrac{1}{3}\right);$
+a) $\dfrac{1}{3}-\left(-\dfrac{2}{3}+\dfrac{1}{3}\right).$
 
-b) $\left(-\dfrac{2}{3}+\dfrac{1}{3}\right)\cdot\dfrac{1}{3}-1;$
+b) $\left(-\dfrac{2}{3}+\dfrac{1}{3}\right)\cdot\dfrac{1}{3}-1.$
 
-c) $\dfrac{a}{2}-\left(\dfrac{1}{3}-a\right);$
+c) $\dfrac{a}{2}-\left(\dfrac{1}{3}-a\right).$
 
 d) $\dfrac{1}{3}\dfrac{a}{2}-\left(-\dfrac{1}{3}-a\right).$
 
 ### ESERCIZIO 18 - Potenze con le frazioni
 
-Calcola il valore delle seguenti potenze.
+i) Calcola il valore delle seguenti potenze.
 
-a) $\left(\dfrac{3}{4}\right)^{2},\left(\dfrac{2}{3}\right)^{4},\left(\dfrac{1}{2}\right)^{5},\left(\dfrac{3}{2}\right)^{0};$
+a) $\left(\dfrac{3}{4}\right)^{2};\left(\dfrac{2}{3}\right)^{4};\left(\dfrac{1}{2}\right)^{5};\left(\dfrac{3}{2}\right)^{0}.$
 
-b) $\left(1-\dfrac{1}{2}\right)^{2},\left(2-\dfrac{5}{4}\right)^{0},\left(\dfrac{3}{2}-\dfrac{6}{4}\right)^{2}.$
+b) $\left(1-\dfrac{1}{2}\right)^{2};\left(2-\dfrac{5}{4}\right)^{0};\left(\dfrac{3}{2}-\dfrac{6}{4}\right)^{2}.$
+
+ii) Calcola il valore delle seguenti espressioni applicando le proprietà delle potenze
+
+a) $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2;\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6; \left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$
 
 ### ESERCIZIO 19 - Espressioni con le frazioni
 
@@ -224,7 +228,7 @@ Calcola il valore delle seguenti espressioni contenenti potenze.
 
 a) $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \left(\dfrac{23}{5}\right)^2]$
 
-b) $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. 7]$
+b) $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. \dfrac{7}{9}]$
 ​            
 
 c) $\dfrac{2}{5}:\left\{ \left[\dfrac{1}{2}+\left(1+\dfrac{1}{5}\right)^{2}\left(1-\dfrac{1}{6}\right)-\left(\dfrac{1}{2}\right)^{2}\right]^{2}\left(1+\dfrac{3}{5}\right)^{2}\right\};$     $[R.  \dfrac{1}{10}]$
