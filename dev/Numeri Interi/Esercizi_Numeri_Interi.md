@@ -91,7 +91,7 @@ i. Calcola il valore delle seguenti espressioni
 a) $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\}.$  
 b) $80+[(4+3\text{·}5):(3+2\text{·}8)].$  
 c) $\left\{ -(+5)-[-(-1)]\right\}.$  
-d) $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]. \enspace\enspace\enspace [R. 5];​$  
+d) $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]. \enspace\enspace\enspace [R. 5];$  
 e) $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1). \enspace\enspace\enspace\enspace\enspace\enspace\enspace [R. 21];$  
 f) $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
 g) $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
@@ -138,7 +138,7 @@ b) $a-b=5$
 c) $a+b=2$  
 d) $a+b=0$  
 e) $b=a+1$  
-f) $a=-b+2​$  
+f) $a=-b+2$  
 
 ### ESERCIZIO 16 - Dalle parole alle espressioni (IV)
 
@@ -167,3 +167,17 @@ a) l'abbonato non paga per 2 mesi e poi salda il debito;
 b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate, paga regolarmente per altri 3 mesi e quindi salda il debito;  
 c) l'abbonato non paga per 3 mesi, poi salda il debito e paga un mese in anticipo;  
 d) l'abbonato arriva ad accumulare un debito di poco inferiore a 100 euro; in questo caso quante righe ha la tabella?
+
+### ESERCIZIO 18 - Potenze
+
+i) Calcolare le seguenti potenze di numeri interi.
+
+a) $(-2)^3; (-2)^4; (+2)^5; (-1)^4; (-5)^0$
+
+b) $-1^7; -1^6; (-1)^6; (-1)^7$
+
+ii) Calcola il valore delle seguenti espressioni, applicando le proprietà delle potenze.
+
+a) $(-6)^9:(-6)^3; (-2)^2\cdot(-2)\cdot(-2)^4;[(-6)^3]^2:(6)^5$
+
+b)  $[(-5)^4\cdot(4)^4]\cdot(-20)^3; [(2)^3\cdot(5)^3]^2:(-10)^3$
