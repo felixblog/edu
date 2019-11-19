@@ -297,4 +297,16 @@ a) Scrivi le seguenti frazioni in forma decimale (arrotonda alla terza cifra dec
 
 b) Scrivi i seguenti numeri decimali in frazioni: 
 
-$\enspace 0,5;\enspace 0,005;\enspace 4,458;1000,1;\enspace 10,5;\enspace 9,69.$ 
+$\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspace 9.69.$ 
+
+### ESERCIZIO 26 - Potenze con esponente negativo
+
+i) Semplifica le seguenti espressioni usando la definizione di esponente negativo
+
+a) $12^{-2}; \enspace 11^{-2}; \enspace (-4)^{-1}; \enspace (-8)^{-2}; 3\cdot 4^{-1} + 2\cdot 4^{-2}$
+
+b) $\dfrac{1}{5^{-3}}; \enspace \dfrac{1}{3^{-3}}; \enspace \dfrac{2^{-4}}{3^{-1}}; \enspace \dfrac{7^{-2}}{2^{-3}}$ 
+
+ii) Scrivi i numeri seguenti in notazione decimale
+
+a) $0.51\cdot 10^{-3}; 0.07\cdot 10^3; 2.37\cdot 10^{-4}; 0.012\cdot 10^4;$
