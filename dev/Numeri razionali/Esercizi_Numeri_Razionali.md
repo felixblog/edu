@@ -176,7 +176,7 @@ c) La metà di x; il quadrato di x; l’opposto di x; l’opposto del reciproco 
 
 Per ciascuno dei seguenti problemi:
 
-1) elenca le quantità di cui si parla nel testo specificando un nome significativo, l'unità di misura ed il valore;
+1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
 
 2) risolvi il problema rispondendo alla domanda.
 

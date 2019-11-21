@@ -17,7 +17,15 @@ d) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.
 
 
 ### ESERCIZIO 2 - Problemi sui rapporti
-Risolvi i problemi seguenti.
+Per ciascuno dei seguenti problemi:
+
+1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
+
+2) individua le dipendenze tra le quantità;
+
+2) risolvi il problema rispondendo alla domanda.
+
+
 
 a) Nel suo testamento, una donna ha lasciato a suo marito 20.000 ed a suo figlio 12.000 euro. Dopo la sua morte, le sue proprietà ammontavano a sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
 
@@ -91,7 +99,15 @@ c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre 
 ### ESERCIZIO 7 - Problemi sul lavoro I
 La produttività (di periodo) di una unità è data dal rapporto tra i beni/servizi prodotti dall'unità q e la durata t del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di n unità uguali è data dalla somma delle singole produttività. Se le unità sono n tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
-Risolvi i seguenti problemi.
+Per ciascuno dei seguenti problemi:
+
+1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
+
+2) individua le dipendenze tra le quantità;
+
+2) risolvi il problema rispondendo alla domanda.
+
+
 
 a) Giacomo dipinge una parete in 3 ore. Giovanni fa lo stesso lavoro in 5 ore. Quanto impiegherebbero se lavorassero insieme?  
 
@@ -190,7 +206,15 @@ b) In una fattoria vi sono tra maiali e galline 45 animali. Quanti sono i maiali
 
 
 ### ESERCIZIO 15 - Problemi vari
-Risolvi i seguenti problemi.
+Per ciascuno dei seguenti problemi:
+
+1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
+
+2) individua le dipendenze tra le quantità;
+
+3) risolvi il problema rispondendo alla domanda.
+
+
 
 a) Un mattone pesa un chilo più mezzo mattone: quanto pesa il mattone?  
 
