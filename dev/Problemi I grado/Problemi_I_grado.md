@@ -23,7 +23,7 @@ Per ciascuno dei seguenti problemi:
 
 2) individua le dipendenze tra le quantità;
 
-2) risolvi il problema rispondendo alla domanda.
+3) risolvi il problema rispondendo alla domanda.
 
 
 
@@ -99,13 +99,15 @@ c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre 
 ### ESERCIZIO 7 - Problemi sul lavoro I
 La produttività (di periodo) di una unità è data dal rapporto tra i beni/servizi prodotti dall'unità q e la durata t del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di n unità uguali è data dalla somma delle singole produttività. Se le unità sono n tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
+
+
 Per ciascuno dei seguenti problemi:
 
 1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
 
 2) individua le dipendenze tra le quantità;
 
-2) risolvi il problema rispondendo alla domanda.
+3) risolvi il problema rispondendo alla domanda.
 
 
 

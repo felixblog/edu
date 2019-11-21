@@ -45,7 +45,7 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 4. il quadrato di un numero meno l'opposto del suo reciproco.
 
-   ​
+   
 
 ### ESERCIZIO 3 - Forma normale dei monomi
 
@@ -90,17 +90,25 @@ b) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$
 
 ### ESERCIZIO 6 - Dalle parole alle espressioni
 
-Scrivi l'espressione corrispondente alla quantità richiesta in ogni problema. Se non sono già indicate, introduci una lettera per le quantità sconosciute.
+Per ciascuno dei seguenti problemi:
 
-a) Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si apettano p persone, scrivi il numero di pasti che il servizio preparerà.  
+1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
+
+2) individua le dipendenze tra le quantità;
+
+3) Scrivi l'espressione corrispondente alla quantità richiesta in ogni problema. Se non sono già indicate, introduci una lettera per le quantità sconosciute.
+
+
+
+a) Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si aspettano p persone, scrivi il numero di pasti che il servizio preparerà.  
 
 b) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.  
 
-c) Uno studente deve scrivere un documento che contiene 60 parole al PC. Se lo studente scrive 60 parole al minuto, scrivi un'espresione che indica il numero di minuti necessari a scrivere il documento.
+c) Uno studente deve scrivere un documento che contiene 60 parole al PC. Se lo studente scrive 60 parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
 
-d) Un corteo di b automobili, ciascuna con 5 persone a bordo, sta viaggiando verso la capitale per una manifestazione politica. Scrivi quante persone stanno andando alla menifestazione in corteo.  
+d) Un corteo di b automobili, ciascuna con 5 persone a bordo, sta viaggiando verso la capitale per una manifestazione politica. Scrivi quante persone stanno andando alla manifestazione in corteo.  
 
-e) Una barca di 12 metri deve essere divisa in due parti. Indica con una lettera la lunghezza di una delle parti e scrivi l'espressione letterale per la lunghezza del'altra parte.  
+e) Una barca di 12 metri deve essere divisa in due parti. Indica con una lettera la lunghezza di una delle parti e scrivi l'espressione letterale per la lunghezza dell'altra parte.  
 
 f) Il numero dei partecipanti ad una maratona quest'anno è superiore di 25 unità al doppio di quello dell'ultimo anno. Scrivi una espressione che indica il numero dei partecipanti di quest'anno.   
 
