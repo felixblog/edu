@@ -67,7 +67,7 @@ f) $5x = 4x + 7;\enspace 7 + 3w = 4 + 9w$
 
 g) $\dfrac{1}{8}y - \dfrac{1}{2} = \dfrac{1}{4};\enspace \dfrac{2}{3} = -\dfrac{2}{3}x + \dfrac{3}{4}$   
 
-h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$   
+h) $\dfrac{10 - 5s}{3} = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$   
 
 i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
 
