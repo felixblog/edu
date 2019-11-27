@@ -21,9 +21,9 @@ Per ciascuno dei seguenti problemi:
 
 1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
 
-2) individua le dipendenze tra le quantità;
+2) individua le dipendenze tra le quantità ed i vincoli che le determinano;
 
-3) risolvi il problema rispondendo alla domanda.
+4) risolvi il problema rispondendo alla domanda.
 
 
 
@@ -105,7 +105,7 @@ Per ciascuno dei seguenti problemi:
 
 1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
 
-2) individua le dipendenze tra le quantità;
+2) individua le dipendenze tra le quantità ed i vincoli che le determinano;
 
 3) risolvi il problema rispondendo alla domanda.
 
@@ -212,7 +212,7 @@ Per ciascuno dei seguenti problemi:
 
 1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
 
-2) individua le dipendenze tra le quantità;
+2) individua le dipendenze tra le quantità ed i vincoli che le determinano;
 
 3) risolvi il problema rispondendo alla domanda.
 
