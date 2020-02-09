@@ -123,7 +123,7 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 
 ### ESERCIZIO 12 - Applicazioni
 
-Negli esercizi che seguono, indicando con $y$ il costo totale sostenuto e con $x$ la durata delle operazioni, utilizzare la formula seguente per legare il costo totale alla somma dei costi fissi $q$ e quelli variabili $mx$:
+Negli esercizi che seguono $y$ indica il costo totale sostenuto ed $x$ di volta in volta il numero di oggetti prodotti o di operazioni effettuate. La formula seguente lega il costo totale con i costi fissi $q$ e quelli variabili $mx$:
 $$
 y = mx+q
 $$
