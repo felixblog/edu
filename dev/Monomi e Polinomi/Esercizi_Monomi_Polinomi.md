@@ -90,17 +90,20 @@ b) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$
 
 ### ESERCIZIO 6 - Dalle parole alle espressioni
 
-Per ciascuno dei seguenti problemi:
+Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale richiesta in ogni problema. L'espressione richiesta deve dipendere da una quantità iniziale, in modo che, scegliendo per questa un numero e calcolando l'espressione sostituendo il numero si ha il valore corretto.
 
-1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
+ESEMPIO: "Quest'anno i ricavi saranno il doppio di quelli dell'anno scorso".
 
-2) individua le dipendenze tra le quantità;
-
-3) Scrivi l'espressione corrispondente alla quantità richiesta in ogni problema. Se non sono già indicate, introduci una lettera per le quantità sconosciute.
-
+1. Quantità iniziale: $x$, Ricavi dell'anno scorso
+2. Espressione Letterale: $2x$, Ricavi di quest'anno
 
 
-a) Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si aspettano p persone, scrivi il numero di pasti che il servizio preparerà.  
+
+a) Scrivi una espressione letterale che risolve i seguenti problemi
+
+1. Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si aspettano p persone, quanti pasti saranno preparati? 
+2. Una piscina viene suddivisa in 8 corsie della stessa larghezza con dei galleggianti. Se la piscina è larga $l$ metri, quanto è larga ogni corsia?
+3. Quale è il valore, in euro, di $x$ monete da 20 centesimi ciascuna? e se aggiungiamo 10 monete da 5 centesimi?
 
 b) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.  
 
@@ -117,6 +120,10 @@ g) L'IBM è stata fondata 80 anni prima della Apple. La Dell è stata fondata 9 
 2. Il primo Aprile 2008 la Apple ha compiuto 32 anni. Quanti anni avevano le altre due?  
 
 h) Lincoln è stato eletto presidente degli USA 60 anni dopo Jefferson. Trump è stato eletto 215 anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno n.
+
+i) Una persona deposita in banca un capitale C su un conto che rende il 5% di interesse annuo il primo anno, il 7% il secondo ed il 10% il terzo. Quanto avrà reso il deposito se sul conto per tutti e tre gli anni c'è sempre la stessa cifra iniziale?
+
+
 
 
 
