@@ -58,10 +58,20 @@ e) $15 − (17 − (15 + 1) : 8)$.
 Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcolane i valori.  
 
 a) Anna riceve dalla madre 8 euro e va ad acquistare 2 scatole di colori del costo di 3 euro l'una. Al ritorno si ferma dalla nonna che le regala 5 euro. Con quanto denaro arriva a casa Anna? [R. 7 euro]  
+
 b) Una cuoca possiede 4 sacchetti di farina del peso di 1 kg ciascuno. Deve fare 7 dolci: nei primi 3 occorrono 350 g di farina per ciascuno e negli altri, 600 g di farina per ciascuno. Alla fine quanta farina rimane alla cuoca? [R. 550 g]  
+
 c) Se una azienda produce 600 unità di prodotto ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale è il suo profitto?  
+
 d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 m di tela. La tela viene suddivisa in pezze da 32 m ciascuna. Quante pezze vengono prodotte giornalmente?  
+
 e) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
+
+f) Una famiglia sta imbottigliando della conserva di pomodoro. I barattoli sono tutti uguali ed hanno una capienza 750 grammi. Quanti barattoli serviranno per 18 Kg di conserva?
+
+g) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 minuti?   
+
+
 
 ### ESERCIZIO 7 - Operazioni ed espressioni (III)
 
