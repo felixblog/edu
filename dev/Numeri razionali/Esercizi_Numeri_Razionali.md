@@ -268,7 +268,7 @@ a) $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}
 
 b) $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. \dfrac{7}{9}]$
 
-c) $\dfrac{2}{5}:\left\{ \left[\dfrac{1}{2}+\left(1+\dfrac{1}{5}\right)^{2}\left(1-\dfrac{1}{6}\right)-\left(\dfrac{1}{2}\right)^{2}\right]^{2}\left(1+\dfrac{3}{5}\right)^{2}\right\};$     $[R.  \dfrac{1}{10}]$
+c) $\dfrac{29}{25}:\left\{ \left[\dfrac{1}{2}+\left(1+\dfrac{1}{5}\right)^{2}\left(1-\dfrac{1}{6}\right)-\left(\dfrac{1}{2}\right)^{2}\right]^{2}\left(1+\dfrac{3}{5}\right)^{2}\right\};$     $[R.  \dfrac{25}{116}]$
 
 d) $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\left(\dfrac{11}{20}+\dfrac{7}{4}\right)\right\} ^{2}\text{·}\left[\left(\dfrac{10}{7}\right)^{2}\text{·}\left(\dfrac{10}{7}\right)\right]^{0}:\left(\dfrac{10}{7}\right)^{2};$    $ [R. 1]$
 
