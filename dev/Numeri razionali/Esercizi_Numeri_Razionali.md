@@ -361,3 +361,17 @@ b) $\dfrac{1}{5^{-3}}; \enspace \dfrac{1}{3^{-3}}; \enspace \dfrac{2^{-4}}{3^{-1
 ii) Scrivi i numeri seguenti in notazione decimale
 
 a) $0.51\cdot 10^{-3}; 0.07\cdot 10^3; 2.37\cdot 10^{-4}; 0.012\cdot 10^4;$
+
+
+
+### ESERCIZIO 27 - Equivalenze III
+
+Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuhan cinesi:
+
+a) Quanti dollari posso avere scambiando 10 euro? Quanti yuhan con 10 dollari?
+
+b) 100 dollari a quanti euro equivalgono? ed a quanti yuhan?
+
+c)  Quanti euro occorrono per comprare un'automobile cinese da 210.000 yuhan?
+
+d) Quanto costerebbe in Italia una Tesla Model S che negli USA costa 70.000 dollari?     
