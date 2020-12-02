@@ -138,7 +138,7 @@ c) $7-\left[\left(3+\dfrac{1}{5}-\dfrac{3}{4}-2\right)-\left(\dfrac{2}{5}-6+\dfr
 
 Calcola il valore delle seguenti espressioni.
 
-a) $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right);\:\dfrac{2}{5}\cdot\left(-\dfrac{15}{4}\right)\cdot\left(-\dfrac{2}{3}\right);\:\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right);$     $[R. \dfrac{2}{9};-\dfrac{9}{2};3]$  
+a) $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right);\:\dfrac{2}{5}\cdot\left(-\dfrac{15}{4}\right)\cdot\left(-\dfrac{2}{3}\right);\:\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right);$     $[R. \dfrac{2}{9};1;3]$  
 
 b) $\dfrac{2}{4}:\dfrac{1}{2};\:\dfrac{4}{5}:\left(-\dfrac{12}{25}\right);\:\dfrac{2}{5}:4;\:\left(-1\right):\left(-5\right);$   
 
