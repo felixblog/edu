@@ -366,12 +366,18 @@ a) $0.51\cdot 10^{-3}; 0.07\cdot 10^3; 2.37\cdot 10^{-4}; 0.012\cdot 10^4;$
 
 ### ESERCIZIO 27 - Equivalenze III
 
-Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuhan cinesi:
+a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuhan cinesi:
 
-a) Quanti dollari posso avere scambiando 10 euro? Quanti yuhan con 10 dollari?
+1. Quanti dollari posso avere scambiando 10 euro? Quanti yuhan con 10 dollari?
 
-b) 100 dollari a quanti euro equivalgono? ed a quanti yuhan?
+2. 100 dollari a quanti euro equivalgono? ed a quanti yuhan?
 
-c)  Quanti euro occorrono per comprare un'automobile cinese da 210.000 yuhan?
+3. Quanti euro occorrono per comprare un'automobile cinese da 210.000 yuhan?
 
-d) Quanto costerebbe in Italia una Tesla Model S che negli USA costa 70.000 dollari?     
+4. Quanto costerebbe in Italia una Tesla Model S che negli USA costa 70.000 dollari? 
+
+b) I pellerossa americani non usavano monete ma barattavano tra di loro gli oggetti che producevano. Una pelle di bisonte valeva 7 coltelli da caccia, una collana valeva 2 coperte ed una coperta 2 coltelli.
+
+1. Quanti coltelli da caccia sono necessari per comprare due coperte?
+2. Quante coperte posso comprare con due pelli di bisonte?
+3. Una pelle di bisonte tagliata a metà vale il 30% in meno che se la pelle è intera. Mezza pelle di bisonte vale almeno mezza collana?  
