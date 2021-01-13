@@ -107,7 +107,7 @@ a) Scrivi una espressione letterale che risolve i seguenti problemi
 
 b) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.  
 
-c) Uno studente deve scrivere un documento che contiene 60 parole al PC. Se lo studente scrive 60 parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
+c) Uno studente deve scrivere un documento che contiene $x$ parole al PC. Se lo studente scrive 60 parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
 
 d) Un corteo di b automobili, ciascuna con 5 persone a bordo, sta viaggiando verso la capitale per una manifestazione politica. Scrivi quante persone stanno andando alla manifestazione in corteo.  
 
