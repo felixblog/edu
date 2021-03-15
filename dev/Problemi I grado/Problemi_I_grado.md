@@ -38,7 +38,7 @@ c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell�
 
 d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
 
-d)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
+e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
 
 
 
