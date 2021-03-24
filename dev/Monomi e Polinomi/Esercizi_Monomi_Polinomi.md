@@ -84,7 +84,7 @@ a) $2ab\,\cdotp\left(-3a^{2}b\right);\,-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$
 
 b) $2a^{2}\,\cdotp\left(-4a^{5}b^{3}\right);\,-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$  
 
-b) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
+c) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
 
 
 
