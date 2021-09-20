@@ -90,7 +90,7 @@ g) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi a
 
 Traduci in espressioni le seguenti frasi indicando con la lettera ‘x’ il numero generico citato e calcola poi il loro valore, sostituendo alla lettera i dati assegnati.
 
-a) Aggiungi a un numero il suo triplo. [x=1];  
+a) Aggiungi ad un numero il suo triplo. [x=1];  
 b) Sottrai da un numero la sua metà. [x=6];  
 c) Moltiplica un numero per 4 e sottrai la sua terza parte sommata a 22. [x=9];  
 d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e somma al risultato 12. [x=-9].  
