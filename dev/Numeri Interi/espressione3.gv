@@ -1,17 +1,17 @@
-## Esempio di albero di espressione -2Â·(-(-3 + 5) -(-(-9)))
+## Esempio di albero di espressione -2\·(-(-3 + 5) -(-(-9)))
 
 digraph e {
 node [fontsize="20"] 
-e -> {"-2"; e2}; e [label="·"]
+e -> {"-2"; e2}; e [label="\·"]
 
 e2  -> {e21; e22}; e2 [label="+"]
 
-e21 -> {e211}  e21 [label="-"];
+e21 -> {" - "; e211}  e21 [label="\·"];
 e211 -> {"-3"; "5"} e211 [label="+"];
 
-e22 -> {e221} e22  [label="-"];
-e221 -> {"-9"}; e221 [label="-"]
+e22 -> {"- "; e221} e22  [label="\·"];
+e221 -> {"-"; "-9"}; e221 [label="\·"]
 
-## label="Struttura dell'espressione -2Â·(-(-3 + 5) -(-(-9)))"
+## label="Struttura dell'espressione -2\·(-(-3 + 5) -(-(-9)))"
 }
 

@@ -1,30 +1,16 @@
-## Esempio di albero di espressione ((4 + 3^2 -1):2^2 + 45:3^2):2^2 + (21Â·3):9 + 1^2
+## Esempio di albero di espressione -2·(-(-3 + 5) -(-(-9)))
 
 digraph e {
 node [fontsize="20"] 
-e -> {e1; e2; e3}; e [label="+"] e3 [label=<1<SUP>2</SUP>>]
+e -> {"-2"; e2}; e [label="·"]
 
-e1  -> {e11; e12}; e1 [label=":"] e12 [label=<2<SUP>2</SUP>>]
+e2  -> {e21; e22}; e2 [label="+"]
 
-e2  -> {e21; 9}; e2 [label=":"]
+e21 -> {" - "; e211}  e21 [label="·"];
+e211 -> {"-3"; "5"} e211 [label="+"];
 
-e21 -> {21; e212} e21 [label="·"]; e212 [label="3"]
+e22 -> {"- "; e221} e22  [label="·"];
+e221 -> {"-"; "-9"}; e221 [label="·"]
 
-## e11: (4 + 3^2 -1):2^2 + 45:3^2
-e11 -> {e111; e112}  e11 [label="+"];
-
-## e111: (4 + 3^2 -1):2^2
-e111 -> {e1111; e1112} e111 [label=":"];  e1112 [label=<2<SUP>2</SUP>>]
-
-## e1111: (4 + 3^2 -1)
-e1111 -> {e11111; e11112} e1111 [label="-"]; e11112 [label="1"]
-
-## e11111: 4 + 3^2
-e11111 -> {4; e111111} e11111 [label="+"]; e111111 [label=<3<SUP>2</SUP>>]
-
-## e112: 45:3^2
-e112 -> {45; e1121} e112 [label=":"]; e1121 [label=<3<SUP>2</SUP>>]
-
-## label="Struttura dell'espressione 15 + 2:(4-2)"
+## label="Struttura dell'espressione -2·(-(-3 + 5) -(-(-9)))"
 }
-

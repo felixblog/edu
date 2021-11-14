@@ -65,9 +65,9 @@ b) $2+3\text{·}(-1)=11-5-7;\enspace 3^{2}-2\text{·}3-1=\left(3-2\right)^{2}$
 
 Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
-1. ![Albero](img\expint1.png)
-2. ![Albero](img\expint2.png)
-3. ![Albero](img\expint3.png)
+1. ![Albero](img\expint1a.png)
+2. ![Albero](img\expint2a.png)
+3. ![Albero](img\expint3a.png)
 
 
 
