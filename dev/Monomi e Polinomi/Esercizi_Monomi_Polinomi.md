@@ -151,8 +151,35 @@ c) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$
 
 
 
+### ESERCIZIO 9 - Rappresentazione delle espressioni letterali
 
-### ESERCIZIO 9 - Somma di polinomi
+a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
+
+1. ![Albero](img\expr1p.png)
+
+   
+
+   
+
+2. ![Albero](img\expr2p.png)
+
+   
+
+   
+
+3. ![Albero](img\expr3p.png)
+
+   
+
+b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
+
+1. $6\left(x^{2}-2y\right);$
+2. $\left(-2\right)\cdotp\left(-3xy+2\right);$ 
+4. $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right).$
+
+
+
+### ESERCIZIO 10 - Somma di polinomi
 
 Esegui le seguenti addizioni e sottrazioni tra polinomi.
 
@@ -163,7 +190,7 @@ b) $\left(3a^{3}+5a^{2}-2a+1\right)-\left(3a^{3}-2a^{2}+5a-7\right)$
 
 
 
-### ESERCIZIO 10 - Dalle parole alle espressioni
+### ESERCIZIO 11 - Dalle parole alle espressioni
 
 Dati i polinomi seguenti:
 
@@ -176,7 +203,7 @@ b) aggiungi al terzo la differenza tra il secondo e il primo.
 
 
 
-### ESERCIZIO 11 - Prodotto di monomi per polinomi
+### ESERCIZIO 12 - Prodotto di monomi per polinomi
 
 Semplifica le seguenti espressioni.  
 
@@ -190,7 +217,7 @@ d) $-4x\left(2x+3y\right)-3y\left(-4x+y\right)-2\left(4x^{2}+3y^{2}\right)$
 
 
 
-### ESERCIZIO - 12 Prodotto di polinomi
+### ESERCIZIO - 13 Prodotto di polinomi
 
 Semplifica le seguenti espressioni.  
 
