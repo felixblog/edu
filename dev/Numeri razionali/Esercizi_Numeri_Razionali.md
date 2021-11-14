@@ -36,8 +36,6 @@ Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fr
 
 $[\dfrac{4}{5},\dfrac{8}{10}];\:[\dfrac{6}{2},\dfrac{10}{4}];\:[\dfrac{0}{15},\dfrac{2}{30}];\:[\dfrac{1}{8},\dfrac{2}{9}];\:[\dfrac{0}{20},\dfrac{0}{40}];$  
 
-[Verifica con Maxima. is($\dfrac{4}{5},\dfrac{8}{10}$)] 
-
 
 
 ### ESERCIZIO 3 - Prodotto di frazioni (I)
@@ -88,9 +86,7 @@ a) $[\dfrac{7}{2},\dfrac{3}{5}];\:[\dfrac{1}{2},\dfrac{3}{5}];\:[\dfrac{1}{6},\d
 
 b) $[\dfrac{7}{15},\dfrac{1}{30},\dfrac{3}{10}];\:[\dfrac{4}{6},\dfrac{9}{10},\dfrac{11}{30}];\:[\dfrac{3}{7},2,\dfrac{31}{49}];$  
 
-[Verifica con Maxima. lnum: map(num, [$\dfrac{7}{2},\dfrac{3}{5}$]); lden: map(denom,[$\dfrac{7}{2},\dfrac{3}{5}$]); mcm: lcm(lden);  l: makelist(mcm/x,x,lden);  
 
-La lista dei nuovi numeratori è allora  makelist(lnum[i]*l[i], i, 2) ]
 
 
 
@@ -102,7 +98,7 @@ a) $\dfrac{3}{2},\dfrac{4}{8},\dfrac{8}{3},\dfrac{7}{7},\dfrac{15}{4};$
 
 b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfrac{4}{3}.$  
 
-[Verifica con Maxima. sort([$\dfrac{3}{2},\dfrac{4}{8},\dfrac{8}{3},\dfrac{7}{7},\dfrac{15}{4}$]"<")
+
 
 
 
@@ -130,7 +126,7 @@ b) $-\left(1+2\right)-\left(\dfrac{1}{12}+\dfrac{1}{2}\right)+\left(\dfrac{5}{2}
 
 c) $7-\left[\left(3+\dfrac{1}{5}-\dfrac{3}{4}-2\right)-\left(\dfrac{2}{5}-6+\dfrac{3}{4}-\dfrac{1}{2}\right)\right]+\dfrac{6}{5}-\left(\dfrac{7}{20}+\dfrac{1}{20}\right).$     $[R. 2]$  
 
-[Verifica con Maxima. Inserisci le espressioni e calcola il risultato] 
+
 
 
 
@@ -197,7 +193,9 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 1) $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right);$
-2) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right);$  
+
+2) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right);$
+
 3) $\:\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$
 
 
