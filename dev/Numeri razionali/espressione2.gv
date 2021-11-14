@@ -1,0 +1,12 @@
+## Esempio di albero di espressione
+
+digraph e {
+node [fontsize="20"] 
+e0 -> {e01; "2"}; e0 [label="+"]
+
+e01  -> {e011; "3/4"}; e01 [label="·"]
+
+e011 -> {" - "; e0112}  e011 [label="·"];
+
+e0112 -> {"-1/2"; "-1/3"} e0112 [label="+"];
+}

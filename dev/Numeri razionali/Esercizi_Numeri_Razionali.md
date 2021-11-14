@@ -160,6 +160,8 @@ b) Sottrai 1/2 dalla somma di 3 e 1/4; Aggiungi 1 alla somma di 1/5 e -1; Togli 
 
  c) Raddoppia il prodotto fra 4/7 e 7/2; Scrivi il Triplo del prodotto fra 5/6 e 3/10; Aggiungi 1/4 a tre volte il quoziente di 3/2 e 9/4;  
 
+ 
+
 ### ESERCIZIO 13 - Dalle parole alle espressioni (II)
 
 Indicando con x un numero qualsiasi, scrivi le espressioni relative alle frasi seguenti.  
@@ -172,7 +174,35 @@ c) La metà di x; il quadrato di x; l’opposto di x; l’opposto del reciproco 
 
 
 
-### ESERCIZIO 14 - Problemi con le frazioni (II)
+### ESERCIZIO 14 - Rappresentazione delle espressioni
+
+a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
+
+1. ![Albero](img\expr1.png)
+
+   
+
+   
+
+2. ![Albero](img\expr2.png)
+
+   
+
+   
+
+3. ![Albero](img\expr3.png)
+
+   
+
+b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
+
+1) $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right);$
+2) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right);$  
+3) $\:\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$
+
+
+
+### ESERCIZIO 15 - Problemi con le frazioni (II)
 
 Per ciascuno dei seguenti problemi:
 
@@ -198,7 +228,7 @@ g) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quant
 
 
 
-### ESERCIZIO 15 - Dalle parole alle espressioni (III)
+### ESERCIZIO 16 - Dalle parole alle espressioni (III)
 
 Traduci in espressioni le seguenti frasi e calcola poi il loro valore, sostituendo alle lettere i dati assegnati.  
 
@@ -220,7 +250,7 @@ g) Moltiplica la differenza tra i 2/5 di a e la metà di b per il doppio di c, s
 
 
 
-### ESERCIZIO 16 - Dalle parole alle espressioni (IV)
+### ESERCIZIO 17 - Dalle parole alle espressioni (IV)
 
 Scrivi le espressioni relative alle seguenti frasi.
 
@@ -232,7 +262,7 @@ c) Al quadrato della somma del cubo di un numero x e del suo doppio togli il cub
 
 
 
-### ESERCIZIO 17 - Dalle espressioni alle parole
+### ESERCIZIO 18 - Dalle espressioni alle parole
 
 Scrivi a parole le seguenti espressioni.
 
@@ -246,7 +276,7 @@ d) $\dfrac{1}{3}\dfrac{a}{2}-\left(-\dfrac{1}{3}-a\right).$
 
 
 
-### ESERCIZIO 18 - Potenze con le frazioni
+### ESERCIZIO 19 - Potenze con le frazioni
 
 i) Calcola il valore delle seguenti potenze.
 
@@ -260,7 +290,7 @@ a) $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2;\left
 
 
 
-### ESERCIZIO 19 - Espressioni con le frazioni
+### ESERCIZIO 20 - Espressioni con le frazioni
 
 Calcola il valore delle seguenti espressioni contenenti potenze.
 
@@ -274,7 +304,7 @@ d) $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\
 
 
 
-### ESERCIZIO 20 - Problemi con percentuali
+### ESERCIZIO 21 - Problemi con percentuali
 
 a) Trasforma in percentuale i numeri seguenti: $2;\enspace 0,02;\enspace -1,465;\enspace 5;\enspace 10.$
 
@@ -288,7 +318,7 @@ e) Sapendo che il latte contiene panna per circa l’11% del suo peso e che la p
 
 
 
-### ESERCIZIO 21 - Equivalenze I
+### ESERCIZIO 22 - Equivalenze I
 
 a) Quanti secondi ci sono in due ore e mezzo? Quanto pesano due etti e mezzo di salame in Kg ?
 
@@ -302,7 +332,7 @@ c) A quante ore corrispondono x minuti ?
 
 
 
-### ESERCIZIO 22 - Equivalenze II
+### ESERCIZIO 23 - Equivalenze II
 
 Esegui le seguenti operazioni facendo prima le equivalenze.
 
@@ -316,7 +346,7 @@ d) 0,5 dam + 5 m + 6 cm + 1,6 m = ............ dm  &emsp;  [R. 116,6]
 
 
 
-### ESERCIZIO 23 - Proprietà delle potenze
+### ESERCIZIO 24 - Proprietà delle potenze
 
 Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
 
@@ -330,7 +360,7 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 
 
-### ESERCIZIO 24 - Sostituzioni e valore delle espressioni
+### ESERCIZIO 25 - Sostituzioni e valore delle espressioni
 
 Di ognuna delle seguenti espressioni stabilisci se è intera o frazionaria e calcolane il valore dopo aver sostituito i numeri alle variabili.
 
@@ -340,7 +370,7 @@ b) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left[a=2,b=\dfrac{4}{5},c=
 
 
 
-### ESERCIZIO 25 - Numeri decimali e frazioni
+### ESERCIZIO 26 - Numeri decimali e frazioni
 
 a) Scrivi le seguenti frazioni in forma decimale (arrotonda alla terza cifra decimale):  $\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
 
@@ -350,7 +380,7 @@ $\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspa
 
 
 
-### ESERCIZIO 26 - Potenze con esponente negativo
+### ESERCIZIO 27 - Potenze con esponente negativo
 
 i) Semplifica le seguenti espressioni usando la definizione di esponente negativo
 
@@ -364,7 +394,7 @@ a) $0.51\cdot 10^{-3}; 0.07\cdot 10^3; 2.37\cdot 10^{-4}; 0.012\cdot 10^4;$
 
 
 
-### ESERCIZIO 27 - Equivalenze III
+### ESERCIZIO 28 - Equivalenze III
 
 a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuhan cinesi:
 
