@@ -19,14 +19,12 @@ Rappresenta su una retta orientata i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6
 
 ### ESERCIZIO 3 - Espressioni con somme algebriche
 
-i. Calcola il valore delle seguenti espressioni:
+a) Calcola il valore delle seguenti espressioni:
 
-a) $+5-9; -2+6;\enspace 12-19+6;\enspace -5-9-10;$  
-b) $(+4)+(+5-9);\enspace (+4)+(+5-9)+(-2+6)+(+12-19);\enspace -(-1+6-2);$  
-c) $[+15-(+7+3-2)]-[-15-(-6+7-1)];$  
-d) $(-28+37)+{(-25+11)+[1+(36-44)]-(+9)}+1.$
-
-ii. Scrivi le espressioni dei punti a) e b) esplicitando tutte le operazioni.  
+1. $+5-9; -2+6;\enspace 12-19+6;\enspace -5-9-10;$  
+2. $(+4)+(+5-9);\enspace (+4)+(+5-9)+(-2+6)+(+12-19);\enspace -(-1+6-2);$  
+3. $[+15-(+7+3-2)]-[-15-(-6+7-1)];$  
+4. $(-28+37)+{(-25+11)+[1+(36-44)]-(+9)}+1.$
 
 
 
@@ -185,15 +183,14 @@ c) $y(1 - y) + 3,\ [y=1], [y=4], [y=0]$ [Sostituisci prima il primo valore, poi 
 
 ### ESERCIZIO 14 - Espressioni algebriche e sostituzioni (II)
 
-Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
+a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
-a) $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ [a=2,\ b=-2]$  
-b) $3ab-5a^{2}+3a-1,\ [a=-2,\ b=-8]$  
-c) $(a+b)(a-b)+ab-a^{2},\ [a=6,\ b=-3]$  
-d) $(x^{2}+a)x-a(x-1):(x+1)+4a,\ [x=1,a=-9]$
+1. $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ [a=2,\ b=-2]$  
+2. $3ab-5a^{2}+3a-1,\ [a=-2,\ b=-8]$  
+3. $(a+b)(a-b)+ab-a^{2},\ [a=6,\ b=-3]$  
+4. $(x^{2}+a)x-a(x-1):(x+1)+4a,\ [x=1,a=-9]$
 
-[Verifica con Maxima. Sostituisci con: simp: false; e1: 3-a^3 -
-2*b^2 + a^2*(a-b); e2: subst([a=2, b=-2], e1). Calcola il valore con ratsimp(e2).]
+b) Scrivere gli alberi relativi alle espressioni letterali dei punti precedenti.
 
 
 
@@ -244,14 +241,12 @@ d) l'abbonato arriva ad accumulare un debito di poco inferiore a 100 euro; in qu
 
 ### ESERCIZIO 18 - Potenze
 
-i) Calcolare le seguenti potenze di numeri interi.
+a) Calcolare le seguenti potenze di numeri interi.
 
-a) $(-2)^3; (-2)^4; (+2)^5; (-1)^4; (-5)^0$
+1. $(-2)^3; (-2)^4; (+2)^5; (-1)^4; (-5)^0$
+2. $-1^7; -1^6; (-1)^6; (-1)^7$
 
-b) $-1^7; -1^6; (-1)^6; (-1)^7$
+b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle potenze.
 
-ii) Calcola il valore delle seguenti espressioni, applicando le proprietà delle potenze.
-
-a) $(-6)^9:(-6)^3; (-2)^2\cdot(-2)\cdot(-2)^4;[(-6)^3]^2:(6)^5$
-
-b)  $[(-5)^4\cdot(4)^4]\cdot(-20)^3; [(2)^3\cdot(5)^3]^2:(-10)^3$
+1. $(-6)^9:(-6)^3; (-2)^2\cdot(-2)\cdot(-2)^4;[(-6)^3]^2:(6)^5$
+2. $[(-5)^4\cdot(4)^4]\cdot(-20)^3; [(2)^3\cdot(5)^3]^2:(-10)^3$
