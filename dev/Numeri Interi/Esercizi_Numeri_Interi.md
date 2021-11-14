@@ -1,3 +1,7 @@
+
+
+
+
 # Esercizi sui Numeri Interi
 
 ### ESERCIZIO 1 - Ordinamento dei numeri interi
@@ -63,11 +67,29 @@ b) $2+3\text{·}(-1)=11-5-7;\enspace 3^{2}-2\text{·}3-1=\left(3-2\right)^{2}$
 
 ### ESERCIZIO 7 - Rappresentazione delle espressioni
 
-Scrivi le espressioni relative ai seguenti diagrammi ad albero:
+a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
 1. ![Albero](img\expint1a.png)
+
+   
+
+   
+
 2. ![Albero](img\expint2a.png)
+
+   
+
+   
+
 3. ![Albero](img\expint3a.png)
+
+   
+
+b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
+
+1) $-4(-3)^2-(-2);$
+2) $67-5[-1+(2-8)^2];$  
+4) $ (-20+3(-5)):(21-(-4)^2).$
 
 
 
@@ -139,7 +161,7 @@ m) $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\c
 
 n) $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
 
-### 
+
 
 ### ESERCIZIO 12 - Proprietà delle potenze
 Calcola il valore delle seguenti espressioni applicando le proprietà delle potenze.  
