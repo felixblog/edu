@@ -2,12 +2,9 @@
 
 digraph e {
  node [fontsize="20"] 
-e0 -> {e01;e02}; e0 [label="·"]
 
-e01  -> {"2"; "a"; "b"}; e01 [label="·"]
+e0 -> {e01; "-9"}; e0 [label="+"]
 
-e02  -> {"-3"; e022; " b"}; e02 [label="·"]
-
-e022 -> {" a"; " 2"}  e022 [label="^"];
+e01 -> {"2ab"; "-3ab^2"}; e01 [label="·"]
 }
 
