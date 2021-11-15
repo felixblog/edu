@@ -174,20 +174,32 @@ c) La metà di x; il quadrato di x; l’opposto di x; l’opposto del reciproco 
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
-1. ![Albero](img\expr1.png)
+1.    
+
+   
+
+   ![Albero](img\expr1.png)
 
    
 
    
 
-2. ![Albero](img\expr2.png)
+2.    
+
+   
+
+   ![Albero](img\expr2.png)
 
    
 
    
 
-3. ![Albero](img\expr3.png)
+3.    
 
+   
+   
+   ![Albero](img\expr3.png)
+   
    
 
 b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
