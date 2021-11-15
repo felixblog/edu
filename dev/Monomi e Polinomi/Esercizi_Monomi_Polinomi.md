@@ -155,20 +155,30 @@ c) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$
 
 a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
 
-1. ![Albero](img\expr1p.png)
+1.    
+
+   ![Albero](img\expr1p.png)
 
    
 
    
 
-2. ![Albero](img\expr2p.png)
+2.    
+
+   
+
+   ![Albero](img\expr2p.png)
 
    
 
    
 
-3. ![Albero](img\expr3p.png)
+3.    
 
+   
+   
+   ![Albero](img\expr3p.png)
+   
    
 
 b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
