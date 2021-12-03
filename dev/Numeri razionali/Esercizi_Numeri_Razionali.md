@@ -197,9 +197,9 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 3.    
 
    
-   
+
    ![Albero](img\expr3.png)
-   
+
    
 
 b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
@@ -288,15 +288,15 @@ d) $\dfrac{1}{3}\dfrac{a}{2}-\left(-\dfrac{1}{3}-a\right).$
 
 ### ESERCIZIO 19 - Potenze con le frazioni
 
-i) Calcola il valore delle seguenti potenze.
+a) Calcola il valore delle seguenti potenze.
 
-a) $\left(\dfrac{3}{4}\right)^{2};\left(\dfrac{2}{3}\right)^{4};\left(\dfrac{1}{2}\right)^{5};\left(\dfrac{3}{2}\right)^{0}.$
+1) $\left(\dfrac{3}{4}\right)^{2};\left(\dfrac{2}{3}\right)^{4};\left(\dfrac{1}{2}\right)^{5};\left(\dfrac{3}{2}\right)^{0}.$
 
-b) $\left(1-\dfrac{1}{2}\right)^{2};\left(2-\dfrac{5}{4}\right)^{0};\left(\dfrac{3}{2}-\dfrac{6}{4}\right)^{2}.$
+2. $\left(1-\dfrac{1}{2}\right)^{2};\left(2-\dfrac{5}{4}\right)^{0};\left(\dfrac{3}{2}-\dfrac{6}{4}\right)^{2}.$
 
-ii) Calcola il valore delle seguenti espressioni applicando le proprietà delle potenze
+a) Calcola il valore delle seguenti espressioni applicando le proprietà delle potenze
 
-a) $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2;\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6; \left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$
+1. $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2;\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6; \left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$
 
 
 
@@ -338,7 +338,7 @@ c) Una moneta da 1 centesimo pesa 2,30 grammi. Quanto peserebbero cinque euro e 
 
 d) Un periodo di un anno 5 mesi e 22 giorni quanto dura in mesi? ed in trimestri?
 
-c) A quante ore corrispondono x minuti ?
+e) A quante ore corrispondono x minuti ?
 
 
 
