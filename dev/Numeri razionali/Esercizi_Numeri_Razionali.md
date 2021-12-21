@@ -226,7 +226,7 @@ a) Paolo deve acquistare uno scooter che costa € 2760, ma possiede solo i 2/3 
 
 b) Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di 20 Km?     [R. 50]  
 
-c) Un negozio di bricolage acquista un grande quantitativo di chodi da vendere in confezioni di 9/16 di Kg. Quante confezioni di chiodi si otterranno da 2.871 Kg di chiodi?     [R. 5104]  
+c) Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di 9/16 di Kg. Quante confezioni di chiodi si otterranno da 2.871 Kg di chiodi?     [R. 5104]  
 
 d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia €123 e lo sconto è uguale ai 5/90 del prezzo iniziale, quanto costavano le valigie?     [R. € 2.214]  
 
@@ -392,15 +392,15 @@ $\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspa
 
 ### ESERCIZIO 27 - Potenze con esponente negativo
 
-i) Semplifica le seguenti espressioni usando la definizione di esponente negativo
+a) Semplifica le seguenti espressioni usando la definizione di esponente negativo
 
-a) $12^{-2}; \enspace 11^{-2}; \enspace (-4)^{-1}; \enspace (-8)^{-2}; 3\cdot 4^{-1} + 2\cdot 4^{-2}$
+1. $12^{-2}; \enspace 11^{-2}; \enspace (-4)^{-1}; \enspace (-8)^{-2}; 3\cdot 4^{-1} + 2\cdot 4^{-2}$
 
-b) $\dfrac{1}{5^{-3}}; \enspace \dfrac{1}{3^{-3}}; \enspace \dfrac{2^{-4}}{3^{-1}}; \enspace \dfrac{7^{-2}}{2^{-3}}$ 
+2. $\dfrac{1}{5^{-3}}; \enspace \dfrac{1}{3^{-3}}; \enspace \dfrac{2^{-4}}{3^{-1}}; \enspace \dfrac{7^{-2}}{2^{-3}}$ 
 
-ii) Scrivi i numeri seguenti in notazione decimale
+b) Scrivi i numeri seguenti in notazione decimale
 
-a) $0.51\cdot 10^{-3}; 0.07\cdot 10^3; 2.37\cdot 10^{-4}; 0.012\cdot 10^4;$
+1. $0.51\cdot 10^{-3}; 0.07\cdot 10^3; 2.37\cdot 10^{-4}; 0.012\cdot 10^4;$
 
 
 
