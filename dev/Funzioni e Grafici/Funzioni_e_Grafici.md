@@ -71,16 +71,19 @@ b) In riferimento all'esercizio "STAMPA LIBRI DI TESTO":
 2. Disegna il grafico della funzione ottenuta dalla espressione.
 
 ### ESERCIZIO 5 - La funzione lineare
-a) Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
+Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 
 ![F](img/f1.png)    ![F](img/f2.png)   ![F](img/f3.png) 
 
 ### ESERCIZIO 6 - La funzione valore assoluto
 
-a) Per ogni funzione costruisci una tabella con cinque valori di x (positivi, negativi o nulli) e rappresenta il grafico
-1. y = 2|x|;
-2. y = 1 + |x|;
-3. y = -2|x|
+Per ogni funzione costruisci una tabella con cinque valori di x (positivi, negativi o nulli) e rappresenta il grafico
+
+a) y = 2|x|;
+
+b) y = 1 + |x|;
+
+c) y = -2|x|
 
 ### ESERCIZIO 7 - Le funzioni definite a tratti
 

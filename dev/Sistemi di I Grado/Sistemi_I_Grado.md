@@ -10,21 +10,22 @@ a)  $$ (3;1) \enspace \enspace \left\{
 5x-3y=12 \\  
 x-2y=1 \\   
 \end{array} 
-\right.​$$
+\right.$$
 
 b)  $$ (5;-2) \enspace \left\{  
 \begin{array}{c} 
 3x+2y=-1 \\  
 6x-9y=2 \\   
 \end{array} 
-\right.​$$
+\right.$$
 
 c)  $$ (9;2) \enspace \enspace \left\{  
 \begin{array}{c} 
 x+3y=-1 \\  
 x-y=7 \\  
 \end{array} 
-\right.​$$
+\right.$$
+
 
 
 ### ESERCIZIO 2 - Esplicitazione di incognita
@@ -33,6 +34,8 @@ Risolvere le equazioni seguenti come se la lettera y fosse l'unica incognita.
 
 a) $2x-y=0$; $x+3y=-1$; $7x-\dfrac{1}{3}y+1=y$  
 b) $3x+y=1-2y$; $4x-3y = 2y+2-5x$; $4(y - 2x) + 10x - 3 = -2$  
+
+
 
 ### ESERCIZIO 3 - Metodo di sostituzione
 
@@ -57,7 +60,7 @@ c)  $$ \left\{
 x-2=\dfrac{y}{3}-1+\dfrac{x}{2} \\  
 \dfrac{5x+3y}{6}-3=\dfrac{2x-y}{4}+\dfrac{7}{12} \\  
 \end{array} 
-\right.​$$
+\right.$$
 
 d)  $$ \left\{  
 \begin{array}{c} 
@@ -65,6 +68,8 @@ d)  $$ \left\{
 4x+2y=0 \\ 
 \end{array} 
 \right.$$
+
+
 
 ### ESERCIZIO 4 - Problemi di I grado risolubili con un sistema
 
