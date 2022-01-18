@@ -314,7 +314,7 @@ d) $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\
 
 
 
-### ESERCIZIO 21 - Problemi con percentuali
+### ESERCIZIO 21 - Problemi con le percentuali
 
 a) Trasforma in percentuale i numeri seguenti: $2;\enspace 0,02;\enspace -1,465;\enspace 5;\enspace 10.$
 
@@ -324,7 +324,9 @@ c) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’ere
 
 d) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quanto costerà dopo l’aumento?     [R. € 12,88]
 
-e) Sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso, calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di latte.      [R. 3.7125 kg] 
+e) Calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di latte, sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso, .      [R. 3.7125 kg] 
+
+f) In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito in percentuale? [R. 18,52%] 
 
 
 
