@@ -5,11 +5,13 @@
 
 Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una  o più lettere per indicare le quantità sconosciute.
 
-a) La somma della lunghezza di a e 15;  
+a) La somma della lunghezza x di un tavolo e 15;  
 
 b) La differenza tra un numero e 10;  
 
 c) I tre quarti della popolazione europea;  
+
+d) La metà della metà di quello che ho preso ieri;
 
 e) Il rapporto tra gli abitanti dell'Italia e quelli della Cina;   
 
@@ -176,9 +178,9 @@ a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
 3.    
 
    
-   
+
    ![Albero](img\expr3p.png)
-   
+
    
 
 b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:

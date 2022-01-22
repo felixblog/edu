@@ -11,17 +11,17 @@ b) $110,\enspace x - 50 = 60;$
 
 c) $-8,\enspace 2b + 3 = -15;$ 
 
-e) $-2,\enspace 5t - 3 = -16;$    
+d) $-2,\enspace 5t - 3 = -16;$    
 
-f) $5,\enspace 0.5x = 2.9$ 
+e) $5,\enspace 0.5x = 2.9$ 
 
-g) $-6,\enspace 33 - \dfrac{x}{2} = 30$  
+f) $-6,\enspace 33 - \dfrac{x}{2} = 30$  
 
-h) $5,\enspace 0.5x = 2.9$
+g) $5,\enspace 0.5x = 2.9$
 
-i) $1,\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$
+h) $1,\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$
 
-l) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
+i) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
 
 
 
@@ -75,7 +75,7 @@ i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2
 
 ### ESERCIZIO 4 - Scrittura di equazioni
 
-Scrivi le equazioni con le caratteristiche richieste da ciascuno degli punti seguenti:
+Scrivi le equazioni con le caratteristiche richieste da ciascuno dei punti seguenti:
 
 a) ha come (unica) soluzione il numero -3; ha come soluzione un numero che ha il doppio uguale a 6;
 
