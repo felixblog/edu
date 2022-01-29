@@ -1,19 +1,35 @@
 
 # Problemi di I grado
 
+### ESERCIZIO 0 - Problemi risolubili senza l'uso di equazioni
 
-### ESERCIZIO 1 - Problemi sui numeri
 Risolvi i problemi seguenti.
 
-a) Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro. Antonio ha 12 euro in più di Maria. Quanti euro ha  Maria?
+a) Un padre ha il doppio dell'età del figlio. Sapendo che il padre ha 32 anni più del figlio, calcola l'età di entrambi.
 
-b) Trova un numero che aumentato di 5 è uguale alla propria metà.   
+b) Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro. Antonio ha 12 euro in più di Maria. Quanti euro ha  Maria?
 
-c) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?
+c) Con 20 kg di frutta si confeziona della marmellata. Aggiungendo lo zucchero e facendo bollire si ottiene 1 kg di marmellata ogni 2 kg di frutta. Si sistema la marmellata ottenuta in barattoli che contengono 5 hg di marmellata ognuno. Quanti barattoli sono necessari?
 
-d) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.    
+d) In una industria ci sono operai ed impiegati; gli operai superano di 1000 il numero degli impiegati; sapendo che gli operai sono il quintuplo degli impiegati, calcola il numero degli impiegati e degli operai.
 
-e) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.  
+e) La somma di quattro numeri è di 190; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo. Calcola i quattro numeri.
+
+f) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i soggetti clienti da più di un anno?
+
+
+
+### ESERCIZIO 1 - Problemi sui numeri
+
+Risolvi i problemi seguenti.
+
+a) Trova un numero che aumentato di 5 è uguale alla propria metà.   
+
+b) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?
+
+c) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.    
+
+d) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.  
 
 
 
@@ -227,3 +243,5 @@ b) Una botte contiene 80 litri di vino che vengono versati in 44 bottiglie, part
 c) Un treno parte completo dalla stazione A; alla stazione B scendono 42 passeggeri e ne salgono 1/24 di quelli rimasti; nella successiva stazione C scendono 75 passeggeri e ne salgono 3/5 di quelli rimasti più altri 2. Sapendo che alla partenza da C il treno e di nuovo completo, determina quanti passeggeri stanno sul treno. [R. 282]  
 
 d) Per l’ingresso a uno spettacolo, ogni adulto paga 5 euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che 20 bambini e 30 adulti pagano 15 euro di meno di quello che pagano 40 bambini e 15 adulti. [R. 18 euro]
+
+e) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i soggetti clienti da più di un anno?
