@@ -5,13 +5,15 @@
 ### ESERCIZIO 1 - Problemi sui numeri
 Risolvi i problemi seguenti.
 
-a) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?  
+a) Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro. Antonio ha 12 euro in più di Maria. Quanti euro ha  Maria?
 
 b) Trova un numero che aumentato di 5 è uguale alla propria metà.   
 
-c) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.    
+c) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?
 
-d) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.  
+d) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.    
+
+e) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.  
 
 
 
