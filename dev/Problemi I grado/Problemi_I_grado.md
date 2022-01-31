@@ -15,7 +15,7 @@ d) In una industria ci sono operai ed impiegati; gli operai superano di 1000 il 
 
 e) La somma di quattro numeri è di 190; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo. Calcola i quattro numeri.
 
-f) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i soggetti clienti da più di un anno?
+f) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i regali per i clienti da più di un anno?
 
 
 
