@@ -91,29 +91,47 @@ e) consiste nell'uguaglianza tra un numero ed il suo opposto.
 
 ### ESERCIZIO 5 - Equazioni Letterali
 
-Risolvi le seguenti equazioni considerando la lettera x come (unica) incognita.
+a) Risolvi le seguenti equazioni considerando la lettera x come (unica) incognita.
 
-a) $ax = 2a;\enspace bx - 2 = 0;\enspace 2x = y;$
+1. $ax = 2a;\enspace bx - 2 = 0;\enspace 2x = y;$
 
-b) $2a - 3x = 7a - 5x;\enspace b(x - 2) + b + 1 = 0;\enspace 2y = -\dfrac{1}{3}x;$
+2. $2a - 3x = 7a - 5x;\enspace b(x - 2) + b + 1 = 0;\enspace 2y = -\dfrac{1}{3}x;$
 
-c) $2bx = 2b - 1;\enspace ax = ab;\enspace x + y = 1;$
+3. $2bx = 2b - 1;\enspace ax = ab;\enspace x + y = 1;$
 
-d) $6x - 3(x + 2a) = a + 4(x - 2a) ;\enspace b(x - 2) + b + 1 = 0;\enspace \dfrac{-2}{3}(x - y) + 3y = -x + 4;$
+4. $6x - 3(x + 2a) = a + 4(x - 2a) ;\enspace b(x - 2) + b + 1 = 0;\enspace \dfrac{-2}{3}(x - y) + 3y = -x + 4;$
+
+b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata e dimostrando che è la soluzione.
 
 
 
-### ESERCIZIO 6 - Soluzione di formule
+### ESERCIZIO 6 - Formule e formule inverse
 
-Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
+Di seguito sono presentate alcune formule famose provenienti da discipline varie:
 
-a) $r = c + m, ~~~ incognita ~~ c;\enspace\enspace a + b + c = 180, ~~~ incognita ~~ a$
+1) Area di un rettangolo: $A = b \cdot h$; Area di un triangolo: $A = \dfrac{b \cdot h}{2}$;
 
-b) $E = I\cdotp R, ~~~ incognita ~~ R; \enspace\enspace I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$
+2. Interesse semplice: $I = C\cdotp i\cdotp t$; Montante: $M = C + I$;
+3. Sconto: $S_{sconto} = P_{listino} - P_{scontato}$; Percentuale di Sconto: $s = \dfrac{S_{sconto}}{P_{listino}}$;
+4. Profitto (Utile): $U = R - C$; Utile (in percentuale) sulle vendite: $m = \dfrac{U}{R}$:
+5. Mark-Up (Assoluto): $M = P_{vendita} - C_{costo}$, Mark-Up (percentuale) $q$: $P_{vendita} = C_{costo} \cdotp (1 + q)$.
+6. Velocità: $v = \dfrac{s}{t}$.
 
-c) $3x + y = 9, ~~~ incognita ~~ y; \enspace\enspace 5y - x = 25, ~~~ incognita ~~ y$
+a) Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
 
-d) $-x + 3y = 9. ~~~ incognita ~~ y; \enspace\enspace \dfrac{7}{8}c + w = 9, ~~~ incognita ~~ c$
+1. $M = C + I, ~~~ incognita ~~ C;\enspace\enspace A = b \cdot h, ~~~ incognita ~~ b$;
+2. $A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ b;\enspace\enspace A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ h$;
+
+2. $S_{sconto} = P_{listino} - P_{scontato}, ~~~ incognita ~~ P_{scontato}; \enspace\enspace I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;
+3. $\dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{scontato}; \dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{listino} $;
+4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ C_{costo}; P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ q $;
+5. Dal punto 4., dimostra che la formula del mark-up si può scrivere $q =\dfrac{P_{vendita} - C_{costo}}{C_{costo}}$. 
+
+b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
+
+1. $3x + y = 9, ~~~ incognita ~~ y; \enspace\enspace 5y - x = 25, ~~~ incognita ~~ y$
+
+2. $-x + 3y = 9. ~~~ incognita ~~ y; \enspace\enspace \dfrac{7}{8}c + w = 9, ~~~ incognita ~~ c$
 
 
 
@@ -123,7 +141,7 @@ Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola,
 
 a) Nel 2006 il film Titanic ha avuto un incasso mondiale di 1835 milioni di dollari con un profitto di 1595 milioni. Quanto è costato il film?
 
-b) Trova il profitto di un fioraio che nel giorno di San Valentino compra una dozzina di rose a 12.95 euro e le rivende a 47.50.  
+b) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a 12.95 euro e le rivende a 47.50.  
 
 c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà a percorrere 166 Km?  
 
