@@ -328,6 +328,14 @@ e) Calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di l
 
 f) In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito in percentuale? [R. 18,52%] 
 
+g) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di bocconcino è questa dose?
+
+h) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio?
+
+i) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+
+l) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
+
 
 
 ### ESERCIZIO 22 - Equivalenze I
