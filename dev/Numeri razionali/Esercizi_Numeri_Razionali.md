@@ -3,13 +3,13 @@
 
 # Esercizi sui Numeri Razionali
 
-### ESERCIZIO 1 - Il Concetto di Frazione
+### ESERCIZIO 1 - Il Concetto di Frazione e di Divisione
 
 Rispondi alle seguenti domande scrivendo la frazione richiesta. 
 
-a) Da quante ore sto aspettando un treno se lo aspetto da 45 minuti?  
+a) Quanti quarti d'ora ci sono in 45 minuti? Da quante ore sto aspettando un treno se lo aspetto da 45 minuti?  Perchè?
 
-b) Quanti euro costa un giocattolo se lo pago con 5 monete da mezzo euro?  
+b) Quanti euro costa un giocattolo se lo pago con 5 monete da mezzo euro?  E quanti centesimi?
 
 c) Per ognuna delle seguenti figure, quale frazione di ora è trascorsa?  
 
@@ -25,7 +25,7 @@ e) Nella figura seguente sono riportati il numero dei nuovi iscritti al Corso Se
 
 f) Franca compra in pasticceria 2 fette di una crostata tagliata in 12 fette uguali. Il peso delle due fette è di 220 grammi. Quanto pesa tutta la crostata?   
 
-g) Antonio dopo aver percorso 3 Km, pari ai due terzi della strada per andare a scuola, si ferma par comprare la merenda. Quanto è lunga la strada?
+g) Se parcheggio un'auto dove ogni tre quarti d'ora devo azzerare il disco orario, quante volte dovrò azzerare il disco se la macchina resta parcheggiata 3 ore? Se una "sosta" misura 45 minuti, a quante "soste" corrisponde una fermata di 4 ore?
 
 
 
