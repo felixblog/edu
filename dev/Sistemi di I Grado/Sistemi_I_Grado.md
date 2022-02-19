@@ -1,7 +1,7 @@
 
 # Esercizi sui Sistemi di I Grado
 
-### ESERCIZIO 1 - Soluzioni di Sistemi
+### ESERCIZIO 1 - Soluzioni di Equazioni e Sistemi
 
 Verifica di quale equazione è soluzione la coppia di numeri scritta a fianco di ogni sistema.    
 
@@ -25,6 +25,10 @@ x+3y=-1 \\
 x-y=7 \\  
 \end{array} 
 \right.$$
+
+d) Trova tre soluzioni della seconda equazione del primo sistema;
+
+e) Trova quattro soluzioni della terza equazione del secondo sistema. 
 
 
 
