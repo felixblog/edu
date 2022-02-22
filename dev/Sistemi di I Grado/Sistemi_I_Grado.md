@@ -28,7 +28,7 @@ x-y=7 \\
 
 d) Trova tre soluzioni della seconda equazione del primo sistema;
 
-e) Trova quattro soluzioni della terza equazione del secondo sistema. 
+e) Trova quattro soluzioni della prima equazione del terzo sistema. 
 
 
 
