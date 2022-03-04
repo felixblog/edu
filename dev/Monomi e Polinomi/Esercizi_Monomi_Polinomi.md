@@ -1,5 +1,5 @@
 
-# Esercizi di calcolo letterale: monomi e polinomi
+# Esercizi di Calcolo Letterale: Monomi e Polinomi
 
 ### ESERCIZIO 1 - Dalle parole alle espressioni (I)
 

@@ -17,7 +17,7 @@ Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
 
 ### ESERCIZIO 3 - Punti allineati
 
-Disegna la retta che passa per ciascuno dei seguenti insiemi dei punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
+Disegna la retta che passa per ciascuno dei seguenti insiemi di punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
 
 a) A = {(-5;3), (1; 3), (6; 3)}  
 b) B = {(0; 0), (0; -4)}  
