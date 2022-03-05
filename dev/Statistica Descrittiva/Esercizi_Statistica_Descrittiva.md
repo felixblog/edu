@@ -39,7 +39,7 @@ e) In un Comune si svolge una indagine sul numero di giornate con precipitazioni
 
 ### ESERCIZIO 2 - Frequenze assolute e percentuali
 
-a) Per ognuno dei casi seguenti, se non sono già presenti, calcola le frequenze assolute e percentuali.
+a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una tabella le frequenze assolute e percentuali.
 
 1. Statura degli studenti di una classe, espressa in centimetri: 160, 165, 165, 162, 163, 165, 168, 168, 166, 161, 162, 166, 168, 165, 165, 165, 163, 168, 162, 161, 163, 165, 165, 161, 168, 165, 163, 165.  
 
@@ -136,33 +136,163 @@ geograﬁca.
 
   
 
-### ESERCIZIO 4 - Grafici (I)
+### ESERCIZIO 4 - Grafici Cartesiani
 
-...........
+a) Rappresenta con un diagramma cartesiano a linee la seguente tabella della rilevazione delle vendite di una ditta (in quintali) negli anni indicati.
 
-a) ....
+|          Anni           | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+| :---------------------: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Quantità Venduta (q.li) | 320  | 380  | 410  | 390  | 450  | 480  | 470  | 510  |
+
+Quale è il massimo e quando si è verificato? Ed il minimo?
 
 
 
-### ESERCIZIO 5 - Grafici (II)
+b) La tabella seguente riporta le serie storiche delle esportazioni e delle importazioni (in milioni di euro) per l’Italia dal 1998 al 2007 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Import-Export.xlsx)):
 
-...........
+| Anno         | 1998    | 1999    | 2000    | 2001    | 2002    | 2003    | 2004    | 2005    | 2006    | 2007    |
+| ------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Esportazioni | 220.105 | 221.040 | 260.413 | 272.990 | 269.064 | 264.616 | 284.413 | 299.923 | 332.013 | 358.633 |
+| Importazioni | 195.625 | 207.015 | 258.507 | 263.757 | 261.226 | 262.998 | 285.634 | 309.292 | 352.465 | 368.080 |
 
-a) ....
+Rappresenta in un diagramma cartesiano:
+
+1. La serie storica delle Esportazioni;
+2. La serie storica delleImportazioni;
+3. Le due serie nello stesso diagramma. Quale fenomeno si può notare?
+
+
+
+### ESERCIZIO 5 - Grafici a Barre
+
+a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a.
+
+
+
+b) Rappresenta mediante un istogramma la seguente tabella della rilevazione dei salari mensili di 250 operai di una ditta:
+
+| Classi di Salario (euro) | N. Operai |
+| :----------------------: | :-------: |
+|      900 \|-- 1000       |    20     |
+|     1.000 \|-- 1.100     |    55     |
+|     1.100 \|-- 1.200     |    125    |
+|     1.200 \|-- 1.300     |    34     |
+|     1.300 \|-- 1.400     |    16     |
+
+
+
+d) Rappresenta mediante un diagramma a barre orizzontali (a nastro) la seguente tabella che riporta la rilevazione della spesa (migliaia di euro) per spettacoli in alcune regioni italiane nell'anno 2010
+
+| Regioni | Piemonte | Lombardia | Veneto | Liguria | Lazio  | Puglia | Campania | Sicilia |
+| ------- | -------- | --------- | ------ | ------- | ------ | ------ | -------- | ------- |
+| Spesa   | 60.202   | 125.911   | 43.439 | 28.383  | 73.555 | 10.748 | 20.568   | 28.031  |
+
+
+
+c) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica
+
+|                | Maschi (migliaia) | Femmine (migliaia) |
+| :------------: | :---------------: | :----------------: |
+|  Agricoltura   |       1.165       |        658         |
+|   Industria    |       5.259       |       1.656        |
+|    Servizi     |       7.678       |       5.175        |
+| Altre Attività |        890        |        910         |
+
+
+
+### ESERCIZIO 6 - Grafici a Torta
+
+a) Rappresenta con un diagramma a torta le tabelle delle frequenze percentuali richieste nei punti 1., 2., 3., dell'esercizio 2.a 
+
+b) Calcola la ripartizione percentuale del numero degli occupati maschi e delle occupate femmine per settore economico dell'esercizio 5.c e rappresenta i dati con due diagrammi a torta. 
+
+
+
+### ESERCIZIO 7 - Grafici a Dispersione
+
+a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) di un collettivo di aziende:
+
+| Investimenti | 17,27    | 18,006   | 13,428   | 14,123   | 28,942   | 17,135   | 12,537   | 24,17    |
+| ------------ | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Fatturato    | 2.128,02 | 2.430,05 | 1.623,97 | 1.799,35 | 3.844,14 | 1.696,33 | 1.649,75 | 3.112,98 |
+
+Rappresenta i dati con un grafico a dispersione.
+
+b) In uno studio atto a rilevare le relazione fra età e pulsazioni cardiache al minuto e sotto sforzo, sono state effettuate le seguenti rilevazioni:
+
+| Età (Anni)       | 15   | 20   | 25   | 30   | 35   | 40   | 45   | 50   | 55   | 60   | 65   | 70   |
+| ---------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Pulsazioni (min) | 200  | 195  | 190  | 190  | 180  | 185  | 180  | 175  | 170  | 170  | 165  | 160  |
+
+Rappresenta i dati con un grafico a dispersione. Che conclusioni si possono trarre?
+
+c) Consideriamo il peso (in kg) e l'altezza (in cm) di 10 individui riportati nella seguente tabella 
+
+| **Peso**    | 56   | 66   | 84   | 61   | 73   | 90   | 70   | 61   | 75   | 82   |
+| ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **altezza** | 161  | 165  | 186  | 162  | 172  | 191  | 181  | 164  | 179  | 184  |
+
+1. Costruisci il grafico di dispersione per i due caratteri;
+
+2. Individua dal grafico se tra l'altezza ed il peso c'è una correlazione positiva.
+
+
+
+### ESERCIZIO 6 - Esercizio Riassuntivo
+
+Considera la matrice dei dati relativa ai 15 dipendenti di un’azienda. Per ciascun dipendente sono stati rilevati: Posizione professionale (1=Apprendista, 2=Operaio, 3=Impiegato, 4=Dirigente), Genere (1=Maschio, 2=Femmina), Numero di componenti del nucleo familiare, Ore di straordinario lavorate nel 2009 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Dipendenti.xlsx)):
+
+|      | Genere | Posizione | N. Componenti | Ore Straordinario |
+| ---- | ------ | --------- | ------------- | ----------------- |
+| 1    | 1      | 1         | 2             | 135               |
+| 2    | 1      | 3         | 3             | 222               |
+| 3    | 1      | 4         | 2             | 219               |
+| 4    | 1      | 2         | 2             | 160               |
+| 5    | 1      | 1         | 2             | 140               |
+| 6    | 2      | 4         | 3             | 270               |
+| 7    | 2      | 2         | 4             | 180               |
+| 8    | 2      | 2         | 4             | 127               |
+| 9    | 2      | 3         | 5             | 169               |
+| 10   | 2      | 4         | 5             | 146               |
+| 11   | 1      | 1         | 4             | 90                |
+| 12   | 2      | 2         | 3             | 156               |
+| 13   | 1      | 3         | 4             | 224               |
+| 14   | 1      | 1         | 3             | 55                |
+| 15   | 1      | 2         | 2             | 265               |
+
+1) Specifica qual è la popolazione di riferimento dei dati;
+2) Specifica la tipologia di ogni carattere; 
+3) Calcola le frequenze assolute e relative percentuali (se necessario raggruppa le modalità in classi);
+4) Produci la serie delle Ore di Straordinario per Genere e quella per Posizione;
+5) Produci la tabella a doppia entrata delle Ore di Straordinario per Genere e Posizione;
+6) Rappresenta graficamente le variabili osservate.
 
 
 
 ### ESERCIZIO 6 - Moda, Mediana, Media, Varianza
 
-...........
+a) Calcola la media delle vendite sui dati dell'esercizio 4.
 
-a) ....
+b) Per i primi 15 giorni di un mese viene rilevato il ritardo (in minuti) accumulato da un determinato treno rispetto all’orario previsto di arrivo. Di seguito sono riportati i dati rilevati, che presentano segno negativo nel caso di anticipo sull’orario di arrivo:
+
+| **giorno**  | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14   | 15   |
+| ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **ritardo** | 10   | 15   | -2   | 0    | 50   | 20   | 0    | 9    | -5   | 8    | 10   | 20   | 6    | 10   | -10  |
+
+1. Calcola la moda, la mediana, la media aritmetica, la varianza e lo scarto quadratico medio della distribuzione;
+2. Dopo aver raggruppato le osservazioni relative ai primi 15 giorni del mese nelle classi: [-10, 0]; (0, 10]; (10, 60] calcolare media e varianza in questa nuova situazione.
+
+c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segue: 
+
+| **Famiglia**  | A    | B     | C     | D    | E     | F     | G     | H     |
+| ------------- | ---- | ----- | ----- | ---- | ----- | ----- | ----- | ----- |
+| **risparmio** | 500  | 5.000 | 2.600 | 0    | 9.200 | 3.000 | 5.400 | 6.300 |
+
+1. Determinare la media, la varianza, e la mediana.
 
 
 
 ### ESERCIZIO 7 - Indicatori Statistici - Composizione
-
-....
 
 a) ....
 
