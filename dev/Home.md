@@ -1,4 +1,4 @@
-# Argomenti di matematica del primo biennio e finanziaria
+# Esercizi di matematica del primo biennio e finanziaria
 
 ### Premessa
 [A cosa serve la Matematica](http://felixblog.github.io/edu/A_cosa_serve_la_Matematica.html) 
