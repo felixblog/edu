@@ -119,12 +119,15 @@ Di seguito sono presentate alcune formule famose provenienti da discipline varie
 
 a) Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
 
-1. $M = C + I, ~~~ incognita ~~ C;\enspace\enspace A = b \cdot h, ~~~ incognita ~~ b$;
-2. $A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ b;\enspace\enspace A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ h$;
-
-2. $S_{sconto} = P_{listino} - P_{scontato}, ~~~ incognita ~~ P_{scontato}; \enspace\enspace I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;
-3. $\dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{scontato}; \dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{listino} $;
-4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ C_{costo}; P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ q $;
+1. $M = C + I, ~~~ incognita ~~ C;$
+1. $A = b \cdot h, ~~~ incognita ~~ b$;
+3. $A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ b;\enspace\enspace A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ h$;
+2. $S_{sconto} = P_{listino} - P_{scontato}, ~~~ incognita ~~ P_{scontato};$
+2. $I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;
+3. $\dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{scontato};$
+3. $\dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{listino} $;
+4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ C_{costo};$
+4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ q $;
 5. Dal punto 4., dimostra che la formula del mark-up si può scrivere $q =\dfrac{P_{vendita} - C_{costo}}{C_{costo}}$. 
 
 b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
