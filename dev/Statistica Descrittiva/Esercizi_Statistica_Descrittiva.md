@@ -314,8 +314,17 @@ a) ...
 
 
 
+### ESERCIZIO 12 - Indicatori Statistici - Flussi
+
+....
+
+a) ... 
+
+
+
 ### ESERCIZIO 10 - Indicatori Statistici - Tassi
 
 ....
 
 a) ... 
+

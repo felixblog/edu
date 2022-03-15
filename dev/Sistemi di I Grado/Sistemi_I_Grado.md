@@ -30,6 +30,13 @@ d) Trova tre soluzioni della seconda equazione del primo sistema;
 
 e) Trova quattro soluzioni della prima equazione del terzo sistema. 
 
+#### Laboratorio
+
+a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
+1. $e: 5x-3y=12$ &#9166; 
+2. $Sostituisci(e, {x=3,y=1})$ &#9166; . 
+
 
 
 ### ESERCIZIO 2 - Esplicitazione di incognita
@@ -39,7 +46,15 @@ Risolvere le equazioni seguenti come se la lettera y fosse l'unica incognita.
 a) $2x-y=0$; $x+3y=-1$; $7x-\dfrac{1}{3}y+1=y$  
 b) $3x+y=1-2y$; $4x-3y = 2y+2-5x$; $4(y - 2x) + 10x - 3 = -2$  
 
+#### Laboratorio
 
+a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
+1. $e: 5x-y=0$ &#9166; 
+
+2. $Risolvi(e, \{y\})$ &#9166; . 
+
+   
 
 ### ESERCIZIO 3 - Metodo di sostituzione
 

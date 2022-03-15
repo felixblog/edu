@@ -9,6 +9,12 @@ a) Q = {(1;1), (-1;1), (-1;-1), (1;-1)}
 b) T = {(-1;0), (1;0), (0;1)}  
 c) R = {(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)}
 
+#### Laboratorio
+
+a) Risolvi il punto c) dell'esercizio con il comando GEOGEBRA: $l=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
+
+
+
 ### ESERCIZIO 2 - Coordinate dei punti
 
 Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
@@ -23,6 +29,12 @@ a) A = {(-5;3), (1; 3), (6; 3)}
 b) B = {(0; 0), (0; -4)}  
 c) D = {(-4; 4), (-2; 2), (3; -3)}
 
+#### Laboratorio
+
+a) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $Retta((0,0),(0,-4))$.
+
+
+
 ### ESERCIZIO 4 - Campione di punti
 
 Per ciascuno degli insiemi riportati di seguito trova un campione di 4 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
@@ -32,6 +44,8 @@ c) C = {(x; y): y = -x}
 d) D = {(x; y): y = x + 1}  
 e) E = {(x; y): x + y = 1}
 
+
+
 ### ESERCIZIO 5 - Grafico della retta
 
 Disegna le rette rappresentate dalle seguenti equazioni:  
@@ -39,12 +53,22 @@ a) $y = \dfrac{1}{2}x$, $y = \dfrac{-1}{3}x$
 b) $y = \dfrac{-1}{3}x$, $y = 3x$  
 c) $y = \dfrac{11}{8}x$, $y = 11 x$  
 
+#### Laboratorio
+
+a) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $\{y=-\dfrac{1}{3}x,y=x\}$ &#9166; .
+
+
+
 ### ESERCIZIO 6 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
 a) {(4; -5), (2; 3)}  
 b) {(-3; 1), (-1; -2)}  
 c) {(4; 1/2), (2/3; -2)}  
+
+#### Laboratorio
+
+a) Risolvi il punto a.1) dell'esercizio con il comando GEOGEBRA: $m := \dfrac{-2 - 1}{-1 - \dfrac{1}{2}}$ &#9166; .
 
 ### ESERCIZIO 7 - Equazione della retta passante per due punti
 
@@ -54,9 +78,15 @@ a) Scrivi l'equazione della retta passante per i punti A e B dati.
 2. A(-2; 0), B(-2; 10)   
 3. A(1;-1), B(-1/2;1/2)    
 
-b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti.
+b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti. 
 
 ![rette1](img/rette1.png)  
+
+#### Laboratorio
+
+b) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $Retta((4,-5),(2,3))$.
+
+
 
 ### ESERCIZIO 8 - Forma implicita ed esplicita
 
@@ -69,6 +99,12 @@ b) Scrivi in forma esplicita le seguenti equazioni
 
 1. $y - \dfrac{1}{2}x = 5$, $y +\dfrac{-1}{3}x - 4 = 0$  
 2. $y - x +2 = 0$, $y - 4 = x + 9$  
+
+#### Laboratorio
+
+a) Risolvi il punto b.2) dell'esercizio con i comandi GEOGEBRA seguenti: $Risolvi(y-x+2=0,{y})$ &#9166;   $Risolvi(y-4=x+9,{y})$.
+
+
 
 ### ESERCIZIO 9 - Interpretazione geometrica dei sistemi
 
@@ -95,6 +131,12 @@ x-y=7 \\
 \end{array} 
 \right.$$
 
+#### Laboratorio
+
+a) Risolvi il punto b) dell'esercizio con i comandi GEOGEBRA seguenti: $ l = \{ 3x+2y=-1, 6x-9y=2\}$ &#9166;     $Risolvi(l, \{x, y\})$.
+
+
+
 ### ESERCIZIO 10 - Problemi sulla retta
 
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
@@ -105,6 +147,17 @@ a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 b) Scrivi l'equazione di una retta di coefficiente -1 e passante per il punto (0; 3).
 
 c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
+
+#### Laboratorio
+
+a) Risolvi il punto b) dell'esercizio con i comandi GEOGEBRA seguenti: 
+
+1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$
+2. $y-y_0 = m(x-x_0)$ &#9166; 
+
+b) Risolvi il punto c) dell'esercizio con il comando GEOGEBRA seguente: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
+
+
 
 ### ESERCIZIO 11 - Pendenza di una linea
 
