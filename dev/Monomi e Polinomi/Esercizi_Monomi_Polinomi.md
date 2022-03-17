@@ -240,6 +240,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 1. $e1: 5a^{2}-2a+1$  &#9166; 
 2. $e2: 3a+a^{2}-2$   &#9166; 
 3. $e3: a^{2}-1 + 2a$  &#9166; 
+3. $e1 - (e2 + e3)$  &#9166; 
 
 
 
