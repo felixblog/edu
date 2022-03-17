@@ -84,7 +84,7 @@ b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti.
 
 #### Laboratorio
 
-b) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $Retta((4,-5),(2,3))$.
+a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $Retta((4,-5),(2,3))$.
 
 
 
@@ -102,7 +102,7 @@ b) Scrivi in forma esplicita le seguenti equazioni
 
 #### Laboratorio
 
-a) Risolvi il punto b.2) dell'esercizio con i comandi GEOGEBRA seguenti: $Risolvi(y-x+2=0,{y})$ &#9166;   $Risolvi(y-4=x+9,{y})$.
+a) Risolvi il punto b.2) dell'esercizio con i comandi GEOGEBRA seguenti: $Risolvi(y-x+2=0,\{y\})$ &#9166;   $Risolvi(y-4=x+9,\{y\})$.
 
 
 
