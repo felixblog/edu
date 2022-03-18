@@ -176,6 +176,11 @@ b) Trova il Minimo Comune Multiplo ed il Massimo Comune Divisore delle coppie (6
 c) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi. 
 
 #### Laboratorio
-a) Risolvi il punto a) dell'esercizio con il comando di GEOGEBRA $Fattorizza(<numero>)$.
+a) Risolvi il punto a) dell'esercizio con il comando di GEOGEBRA $Fattorizza(<numero>)$, sostituendo a $<numero>$ in sequenza 25, 40, 33, 6.
 
-b) Risolvi il punto b) dell'esercizio con in comandi di GEOGEBRA $MCM(<ListaNumeri>),\enspace MCD(<ListaNumeri>)$. 
+b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA seguenti:
+
+1. $\{MCM(\{6, 8\}),\enspace MCD(\{6, 8\})\}$   &#9166;
+2. $\{MCM(\{15, 10\}),\enspace MCD(\{15, 10\})\}$   &#9166;
+3. $\{MCM(\{24, 25\}),\enspace MCD(\{24, 25\})\}$   &#9166; 
+

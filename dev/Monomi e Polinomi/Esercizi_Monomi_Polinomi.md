@@ -150,7 +150,7 @@ c) $x^{2}+7x^{2}-2\left(-x^{2}\right)+2\left(-4\right)x^{2}+2x^{2}-2x^{2}+x^{2}-
 
 #### Laboratorio
 
-a) Risolvi il punto a) esercizio con il comando GEOGEBRA:  $e7a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
+a) Risolvi il punto a) esercizio con l'istruzione GEOGEBRA:  $e7a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
 
 
 
@@ -166,7 +166,7 @@ c) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$
 
 #### Laboratorio
 
-a) Risolvi i punti a) e c) esercizio con la sequenza di comandi GEOGEBRA:
+a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
 1.  $e8a: $$a^2 b^ {2}+a^ 2-b^ {2}-2a^ {2} b^ 2 +a^2$ &#9166; 
 2.  $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab$  &#9166; 
@@ -235,7 +235,7 @@ b) aggiungi al terzo la differenza tra il secondo e il primo.
 
 #### Laboratorio
 
-a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
+a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
 1. $e1: 5a^{2}-2a+1$  &#9166; 
 2. $e2: 3a+a^{2}-2$   &#9166; 
@@ -258,7 +258,7 @@ d) $-4x\left(2x+3y\right)-3y\left(-4x+y\right)-2\left(4x^{2}+3y^{2}\right)$
 
 #### Laboratorio
 
-a) Risolvi i punti a) e c) dell'esercizio con la sequenza di comandi GEOGEBRA:
+a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
 1. $Sviluppa(6\left(x^{2}-2y\right))$ &#9166; 
 2. $Sviluppa(\left(-2\right)\,\cdotp\left(-3xy+2\right))$ &#9166;  
@@ -278,7 +278,7 @@ c) $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\rig
 
 #### Laboratorio
 
-a) Risolvi i punti a) e c) dell'esercizio con la sequenza di comandi GEOGEBRA:
+a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
 1. $Sviluppa(\left(2a-3b\right)\left(5a+4b\right))$  &#9166; 
 2. $Sviluppa(\,\left(x-3y\right)\left(5x+y\right))$  &#9166; 

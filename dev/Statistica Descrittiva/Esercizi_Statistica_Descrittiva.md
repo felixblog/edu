@@ -47,14 +47,34 @@ a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una 
 
 3. Libri letti in un anno da 40 persone, dati raccolti nella tabella seguente:
 
+   | CARATTERE: Numero di Lingue Straniere Conosciute |      |      |      |      |      |
+   | ------------------------------------------------ | :--: | :--: | :--: | ---- | :--: |
+   | MODALITA                                         |  0   |  1   |  2   | 3    |  4   |
+   | FREQUENZA ASSOLUTA                               | 253  | 536  | 180  |      |  3   |
+   | FREQUENZA PERCENTUALE                            |      |      | 18%  | 2,8% |      |
+   
+   
+   | CARATTERE: Metodo di Apprendimento |          |                     |               |                |
+   | ---------------------------------- | :------: | :-----------------: | :-----------: | :------------: |
+   | MODALITA                           | A Scuola | Con corsi Specifici | Viaggi Studio | All'Università |
+   | FREQUENZA ASSOLUTA                 |   400    |                     |      156      |       3        |
+   | FREQUENZA PERCENTUALE              |  53,54%  |                     |    20,89%     |     3,62%      |
+   
+   
+
+b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte degli italiani di età compresa tra 16 e 40 anni (campione di 1000 unità) vengono poste le seguenti domande:
+
+1. Quante lingue conosci?
+2. Come le hai imparate?
+
+Completa le seguenti tabelle in cui sono riassunti i risultati dell'indagine.
    | CARATTERE: Libri letti in un anno |      |      |      |      |
    | --------------------------------- | :--: | :--: | :--: | :--: |
    | MODALITA                          | 0-2  | 3-5  | 6-8  | 9-10 |
    | FREQUENZA ASSOLUTA                |  9   |  21  |  4   |  6   |
 
-b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte degli italiani di età compresa tra 16 e 40 anni (campione di 1000 unità) vengono poste le seguenti domande:
 
-.............
+Calcola la percentuale di persone che conoscono almeno due lingue straniere.
 
 c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (1=elevato, 2=medio, 3=basso), la zona di residenza (1=urbana, 2=periferica) e lo stato di salute (1=buono, 0=cattivo). Si costruiscano: 
 
@@ -88,7 +108,7 @@ c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 sogg
 
 ### ESERCIZIO 3 - Serie e Tabelle Statistiche
 
-x) La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
+La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
 
 | ID   | SESSO | ETA  | TITOLO DI STUDIO     | PROVENIENZA      <br />GEOGRAFICA | FATTURATO<br /> (euro) |
 | ---- | ----- | ---- | -------------------- | --------------------------------- | ---------------------- |
@@ -123,16 +143,22 @@ x) La tabella seguente riporta alcune caratteristiche degli individui appartenen
 | 29   | F     | 37   | Lic. Media Superiore | SUD                               | 28,67                  |
 | 30   | M     | 55   | Laurea               | SUD                               | 48,428                 |
 
-1. Quale è  l'unità statistica?  Quale è la popolazione di riferimento?
-2. Si indichi la tipologia di ciascun carattere.
-3. Si costruisca la distribuzione di frequenza secondo il fatturato, utilizzando le seguenti classi: 0–20,
+a) Quale è  l'unità statistica?  Quale è la popolazione di riferimento?
+
+b) Si indichi la tipologia di ciascun carattere.
+
+c) Si costruisca la distribuzione di frequenza secondo il fatturato, utilizzando le seguenti classi: 0–20,
 21–30, 31–40, 41–50.
-4. Si determini la distribuzione di frequenza secondo il titolo di studio.
-5. Si determini la distribuzione di frequenza secondo l’età, con riferimento alle classi di seguito indicate:
+
+d) Si determini la distribuzione di frequenza secondo il titolo di studio.
+
+e) Si determini la distribuzione di frequenza secondo l’età, con riferimento alle classi di seguito indicate:
 ﬁno a 25, da 26 a 35, da 36 a 50, oltre 50 anni.
-6. Si costruisca la distribuzione doppia di frequenza secondo il titolo di studio e la provenienza
+
+f) Si costruisca la distribuzione doppia di frequenza secondo il titolo di studio e la provenienza
 geograﬁca.
-7. Si costruiscano le distribuzioni di intensità del fatturato per distribuzione geografica e per classe di età.
+
+g) Si costruiscano le distribuzioni di intensità del fatturato per distribuzione geografica e per classe di età.
 
   
 
@@ -145,8 +171,6 @@ a) Rappresenta con un diagramma cartesiano a linee la seguente tabella della ril
 | Quantità Venduta (q.li) | 320  | 380  | 410  | 390  | 450  | 480  | 470  | 510  |
 
 Quale è il massimo e quando si è verificato? Ed il minimo?
-
-
 
 b) La tabella seguente riporta le serie storiche delle esportazioni e delle importazioni (in milioni di euro) per l’Italia dal 1998 al 2007 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Import-Export.xlsx)):
 
@@ -167,8 +191,6 @@ Rappresenta in un diagramma cartesiano:
 
 a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a.
 
-
-
 b) Rappresenta mediante un istogramma la seguente tabella della rilevazione dei salari mensili di 250 operai di una ditta:
 
 | Classi di Salario (euro) | N. Operai |
@@ -179,17 +201,13 @@ b) Rappresenta mediante un istogramma la seguente tabella della rilevazione dei 
 |     1.200 \|-- 1.300     |    34     |
 |     1.300 \|-- 1.400     |    16     |
 
-
-
-d) Rappresenta mediante un diagramma a barre orizzontali (a nastro) la seguente tabella che riporta la rilevazione della spesa (migliaia di euro) per spettacoli in alcune regioni italiane nell'anno 2010
+c) Rappresenta mediante un diagramma a barre orizzontali (a nastro) la seguente tabella che riporta la rilevazione della spesa (migliaia di euro) per spettacoli in alcune regioni italiane nell'anno 2010
 
 | Regioni | Piemonte | Lombardia | Veneto | Liguria | Lazio  | Puglia | Campania | Sicilia |
 | ------- | -------- | --------- | ------ | ------- | ------ | ------ | -------- | ------- |
 | Spesa   | 60.202   | 125.911   | 43.439 | 28.383  | 73.555 | 10.748 | 20.568   | 28.031  |
 
-
-
-c) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica
+d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica
 
 |                | Maschi (migliaia) | Femmine (migliaia) |
 | :------------: | :---------------: | :----------------: |
@@ -260,12 +278,17 @@ Considera la matrice dei dati relativa ai 15 dipendenti di un’azienda. Per cia
 | 14   | 1      | 1         | 3             | 55                |
 | 15   | 1      | 2         | 2             | 265               |
 
-1) Specifica qual è la popolazione di riferimento dei dati;
-2) Specifica la tipologia di ogni carattere; 
-3) Calcola le frequenze assolute e relative percentuali (se necessario raggruppa le modalità in classi);
-4) Produci la serie delle Ore di Straordinario per Genere e quella per Posizione;
-5) Produci la tabella a doppia entrata delle Ore di Straordinario per Genere e Posizione;
-6) Rappresenta graficamente le variabili osservate.
+a) Specifica qual è la popolazione di riferimento dei dati;
+
+b) Specifica la tipologia di ogni carattere; 
+
+c) Calcola le frequenze assolute e relative percentuali (se necessario raggruppa le modalità in classi);
+
+d) Produci la serie delle Ore di Straordinario per Genere e quella per Posizione;
+
+e) Produci la tabella a doppia entrata delle Ore di Straordinario per Genere e Posizione;
+
+f) Rappresenta graficamente le variabili osservate.
 
 
 

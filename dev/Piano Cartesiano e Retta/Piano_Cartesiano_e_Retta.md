@@ -11,7 +11,7 @@ c) R = {(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)}
 
 #### Laboratorio
 
-a) Risolvi il punto c) dell'esercizio con il comando GEOGEBRA: $l=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
+a) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $l=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
 
 
 
@@ -31,7 +31,7 @@ c) D = {(-4; 4), (-2; 2), (3; -3)}
 
 #### Laboratorio
 
-a) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $Retta((0,0),(0,-4))$.
+a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $Retta((0,0),(0,-4))$.
 
 
 
@@ -55,7 +55,7 @@ c) $y = \dfrac{11}{8}x$, $y = 11 x$
 
 #### Laboratorio
 
-a) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $\{y=-\dfrac{1}{3}x,y=x\}$ &#9166; .
+a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y=-\dfrac{1}{3}x,y=x\}$ &#9166; .
 
 
 
@@ -68,7 +68,7 @@ c) {(4; 1/2), (2/3; -2)}
 
 #### Laboratorio
 
-a) Risolvi il punto a.1) dell'esercizio con il comando GEOGEBRA: $m := \dfrac{-2 - 1}{-1 - \dfrac{1}{2}}$ &#9166; .
+a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-2 - 1}{-1 - \dfrac{1}{2}}$ &#9166; .
 
 ### ESERCIZIO 7 - Equazione della retta passante per due punti
 
@@ -84,7 +84,9 @@ b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti.
 
 #### Laboratorio
 
-a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $Retta((4,-5),(2,3))$.
+a) Risolvi il punto a.2) dell'esercizio con l'istruzione GEOGEBRA: $Retta((4,-5),(2,3))$.
+
+b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentate nella figura del punto b) dell'esercizio.  
 
 
 
@@ -102,7 +104,10 @@ b) Scrivi in forma esplicita le seguenti equazioni
 
 #### Laboratorio
 
-a) Risolvi il punto b.2) dell'esercizio con i comandi GEOGEBRA seguenti: $Risolvi(y-x+2=0,\{y\})$ &#9166;   $Risolvi(y-4=x+9,\{y\})$.
+a) Risolvi il punto b.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+
+1. $Risolvi(y-x+2=0,\{y\})$ &#9166;   
+2. $Risolvi(y-4=x+9,\{y\})$  &#9166;
 
 
 
@@ -133,7 +138,10 @@ x-y=7 \\
 
 #### Laboratorio
 
-a) Risolvi il punto b) dell'esercizio con i comandi GEOGEBRA seguenti: $ l = \{ 3x+2y=-1, 6x-9y=2\}$ &#9166;     $Risolvi(l, \{x, y\})$.
+a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
+
+1. $ l = \{ 3x+2y=-1, 6x-9y=2\}$ &#9166; 
+2. $Risolvi(l, \{x, y\})$  &#9166;
 
 
 
@@ -145,17 +153,16 @@ a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 2. $x+3y=-1; \> x-y=7$;
 
 b) Scrivi l'equazione di una retta di coefficiente -1 e passante per il punto (0; 3).
-
 c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
 
 #### Laboratorio
 
-a) Risolvi il punto b) dell'esercizio con i comandi GEOGEBRA seguenti: 
+a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
 
-1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$
+1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$  &#9166;
 2. $y-y_0 = m(x-x_0)$ &#9166; 
 
-b) Risolvi il punto c) dell'esercizio con il comando GEOGEBRA seguente: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
+b) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
 
 
 
@@ -173,6 +180,8 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 
 1. scrivi la formula che calcola lo spazio s percorso dopo t ore 
 2. riporta in un piano cartesiano con il tempo sull'asse orizzontale e lo spazio su quello verticale, il grafico dell'equazione trovata. Quale è il significato fisico del coefficiente angolare?
+
+
 
 ### ESERCIZIO 12 - Applicazioni
 

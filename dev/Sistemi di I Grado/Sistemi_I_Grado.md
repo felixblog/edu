@@ -60,14 +60,14 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 Risolvere i sistemi seguenti con il metodo di sostituzione. 
 
-b)  $$\left\{  
+a)  $$\left\{  
 \begin{array}{c} 
 2x+y=-1 \\  
 x-3y=12 \\   
 \end{array} 
 \right.$$
 
-a)  $$ \left\{  
+b)  $$ \left\{  
 \begin{array}{c} 
 2y-5=-2x-6+y \\  
 2(x-1)=3(1-2y)+19 \\   
@@ -87,6 +87,22 @@ d)  $$ \left\{
 4x+2y=0 \\ 
 \end{array} 
 \right.$$
+
+#### Laboratorio
+
+a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
+1. $a: 2x+y=-1$ &#9166; 
+2. $b: x-3y=12$ &#9166; 
+3. $Risolvi(\{a,b\}, \{x,y\})$ &#9166; . 
+
+b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
+1. $c: 2y -5 = -2x -6 +y$ &#9166; 
+2. $d: 2(x -1) = 3(1-2y) + 19$ &#9166; 
+3. $Risolvi(\{c, d\}, \{x,y\})$ &#9166; . 
+
+c) Risolvi i punti c) e d) dell'esercizio con sequenze di comandi GEOGEBRA analoghi a quelli dei punti precedenti a). Ricorda di utilizzare altre lettere per indicare le equazioni.
 
 
 
