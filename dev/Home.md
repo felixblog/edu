@@ -86,7 +86,18 @@ Funzioni notevoli: valore assoluto, funzioni definite a tratti etc.
 Problemi sulle funzioni
 ([Esercizi](http://felixblog.github.io/edu/Funzioni_e_Grafici.html)) 
 
+## Statistica Descrittiva
+
+Popolazioni, Caratteri e Modalità
+Frequenze Assolute e Relative
+Serie e Tabelle Statistiche
+I Grafici
+Moda, Media e Mediana
+Indicatori Statistici
+([Esercizi](http://felixblog.github.io/edu/Statistica_Descrittiva.html)) 
+
 ## Matematica Finanziaria: i regimi finanziari
+
 L'interesse semplice
 L'interesse composto
 Tassi equivalenti

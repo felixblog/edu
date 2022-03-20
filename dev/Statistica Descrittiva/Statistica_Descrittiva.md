@@ -8,7 +8,7 @@ a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubbl
 1. la popolazione e le unità statistiche;
 2. i caratteri più significativi per l'indagine e le loro modalità.
 
-SOLUZIONE
+#### SOLUZIONE
 
 La popolazione è l'insieme di tutti gli individui che si recano in una scuola della città (insegnanti, studenti, personale amministrativo e tecnico): ogni individuo è una unità statistica. I caratteri più rilevanti sono:
 
@@ -37,29 +37,28 @@ e) In un Comune si svolge una indagine sul numero di giornate con precipitazioni
 
 
 
-### ESERCIZIO 2 - Frequenze assolute e percentuali
+### ESERCIZIO 2 - Frequenze assolute e relative
 
-a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una tabella le frequenze assolute e percentuali.
+a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una tabella le frequenze assolute e relative.
 
 1. Statura degli studenti di una classe, espressa in centimetri: 160, 165, 165, 162, 163, 165, 168, 168, 166, 161, 162, 166, 168, 165, 165, 165, 163, 168, 162, 161, 163, 165, 165, 161, 168, 165, 163, 165.  
 
 2. Pioggia caduta giornalmente nel mese di febbraio in una certa località, espressa in millimetri: 2, 3, 3, 4, 6, 8, 5, 5, 0, 0, 0, 1, 1, 4, 2, 5, 1, 0, 0, 0, 1, 2, 2, 0, 1, 0, 1, 2.  
 
-3. Libri letti in un anno da 40 persone, dati raccolti nella tabella seguente:
+3. Libri letti in un anno da 40 persone; dati raccolti nella tabella seguente:
 
    | CARATTERE: Numero di Lingue Straniere Conosciute |      |      |      |      |      |
    | ------------------------------------------------ | :--: | :--: | :--: | ---- | :--: |
    | MODALITA                                         |  0   |  1   |  2   | 3    |  4   |
    | FREQUENZA ASSOLUTA                               | 253  | 536  | 180  |      |  3   |
-   | FREQUENZA PERCENTUALE                            |      |      | 18%  | 2,8% |      |
+   | FREQUENZA RELATIVA (%)                           |      |      | 18%  | 2,8% |      |
    
    
    | CARATTERE: Metodo di Apprendimento |          |                     |               |                |
    | ---------------------------------- | :------: | :-----------------: | :-----------: | :------------: |
    | MODALITA                           | A Scuola | Con corsi Specifici | Viaggi Studio | All'Università |
    | FREQUENZA ASSOLUTA                 |   400    |                     |      156      |       3        |
-   | FREQUENZA PERCENTUALE              |  53,54%  |                     |    20,89%     |     3,62%      |
-   
+   | FREQUENZA RELATIVA (%)             |  53,54%  |                     |    20,89%     |     3,62%      |
    
 
 b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte degli italiani di età compresa tra 16 e 40 anni (campione di 1000 unità) vengono poste le seguenti domande:
@@ -79,7 +78,7 @@ Calcola la percentuale di persone che conoscono almeno due lingue straniere.
 c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (1=elevato, 2=medio, 3=basso), la zona di residenza (1=urbana, 2=periferica) e lo stato di salute (1=buono, 0=cattivo). Si costruiscano: 
 
 1. le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi 0-25, 26-50 e 51-75; 
-2. per la distribuzione del livello socio-economico di calcolino le frequenze relative e percentuali.
+2. per la distribuzione del livello socio-economico di calcolino le frequenze assolute e relative.
 
 | Unità <br />Statistica | Età  | Livello <br />Socio-Economico | Zona di <br />Residenza | Stato di <br />Salute | Reddito <br />(euro) |
 | :--------------------: | :--: | :---------------------------: | :---------------------: | :-------------------: | :------------------: |
