@@ -19,6 +19,20 @@ c) Rappresenta per elencazione i seguenti insiemi:
 3. L’insieme C dei numeri del tipo $-2n$, con n ∈ {-2, -1, 0, 1, 2};  
 4. L’insieme D dei numeri del tipo $\dfrac{3n + 1}{3}$, con n ∈ {-3, -2, -1, 1, 2, 3}.
 
+#### Laboratorio
+
+a) Risolvi il punto a) dell'esercizio prendendo ad esempio la sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $l_A=Suddividi(''rododendro'',\{''''\}))$ &#9166; 
+3. $Unico(l_A)$ &#9166; 
+
+b) Risolvi il punto c) dell'esercizio prendendo ad esempio la sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $Compatta(3\cdot n, n, \{0, 2, 4, 6\} )$ &#9166; 
+2. $Compatta(2 \cdot n + 1, n, \{0, 1, 2, 3, 4\} )$ &#9166; 
+
+
+
 ### ESERCIZIO 2 - Rappresentazione mediante proprietà caratteristica
 
 a) Rappresenta gli insiemi seguenti mediante una proprietà caratteristica dei loro elementi.  
@@ -33,14 +47,31 @@ a) Rappresenta gli insiemi seguenti mediante una proprietà caratteristica dei l
 10. I numeri naturali compresi fra 10 e 30;  
 11. Gli interi negativi.
 
+
+
 ### ESERCIZIO 3 - Dalla proprietà caratteristica all'elencazione
 
-Scrivi la rappresentazione per elencazione dei seguenti insiemi.  
+a) Scrivi la rappresentazione per elencazione dei seguenti insiemi.  
 1. A = {x: x è una lettera della parola «avvocato»};  
 2. B = {x: x è una vocale};  
-3. C = {x: x è il nome di un mese che inizia con la lettera «g»};  
-4. D = {x: x è un pianeta del sistema solare};  
-5. E = {x: x è una provincia del Lazio}.
+3. C = {x: x è il nome di un mese che inizia con la lettera «g»};
+
+b) Trova il numero degli elementi degli insiemi riportati di seguito.  
+
+1. A = {x: x è un pianeta del sistema solare};  
+2. B = {x: x è una provincia del Lazio}.
+5. C = {x: x è soluzione di 2x - 5 = -x + 7 + 3x}
+
+#### Laboratorio
+
+a) Risolvi il punto b.2 dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $l_B = {''Roma'', ''Latina'', ''Rieti'', ''Viterbo'', ''Frosinone''})$ &#9166; 
+2. $ContaSe(true, l_B)$  &#9166;
+
+b) Utilizzando le istruzioni GEOGEBRA del punto precedente, risolvi il punto a) dell'esercizio.
+
+ 
 
 ### ESERCIZIO 4 - I Sottoinsiemi
 
@@ -51,14 +82,34 @@ a) Considera i seguenti insiemi: A = {SERA}, B = {S, E, R, A}, C = {A, R, S, E},
 b) Scrivi tutti i sottoinsiemi dell’insieme A = {a, b, c}.  
 c) Scrivi tre parole le cui lettere formino tre insiemi A, B, C, tali che $A \subset B \subset C$.  
 d) Stabilisci se gli insiemi A, B, C sono sottoinsiemi dell’insieme D:  
+
 1. A = {x ∈ N: x è multiplo di 5}, B = {x ∈ Z: x >= -1}, C = {5, 10, 15}, D = N.  
 2. A = {x: x è una lettera di «diario»}, B = {x: x è una lettera di «ardore»}, C = {x: x è una lettera di «orda»}, D = {x: x è una lettera di «radio»}.
 
+#### Laboratorio
+
+a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $Unico(\{''SERA''\}) == Unico(\{''S'',  ''E'', ''R'', ''A''\})$  &#9166;
+2. $Unico(\{''S'', ''E'', ''R'', ''A''\}) == Unico(\{''A'', ''R'', ''S'', ''E''\})$  &#9166;
+3. $Unico(\{''A'', ''R'', ''S'', ''E''\}) == Unico(\{''R'', ''E'', ''S'', ''A''\})$  &#9166;
+4. $Unico(\{''R'', ''E'', ''S'', ''A''\}) == Unico(''RESA'')$  &#9166;
+
+b) Risolvi il punto d.2) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $l_A=Unico(Suddividi(''diario'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''ardore'',\{''''\})))$ &#9166;   
+2. $l_C=Unico(Suddividi(''orda'',\{''''\}))$ &#9166;   $l_D=Unico(Suddividi(''radio'',\{''''\})))$ &#9166; 
+3. $l_A \subseteq l_B$  &#9166; 
+4. $l_A \subseteq l_D$  &#9166; 
+5. $l_A \subset l_D$  &#9166; 
+
+
+
 ### ESERCIZIO 5 - Intersezione ed Unione
 
-a) Per ogni coppia di insiemi determina l’unione e l’intersezione, rappresentandole mediante un diagramma di Eulero-Venn:  
+a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappresentale per elencazione e mediante un diagramma di Eulero-Venn:  
 1. A = {x: x è una lettera della parola «tegame»}, B = {x: x è una lettera della parola «gomito»}  
-2. A = {x: x è una lettera della parola «attesa»}. B = {x: x è una lettera della parola «paese»}  
+2. C = {x: x è una lettera della parola «attesa»}. D = {x: x è una lettera della parola «paese»}  
 
 b) Per ciascuna coppia di insiemi A e B determina l'insieme A ∩ B:  
 1. A = {x: x è multiplo di 4} e B = {x: x è multiplo di 6}  
@@ -67,6 +118,15 @@ b) Per ciascuna coppia di insiemi A e B determina l'insieme A ∩ B:
 c) Dati gli insiemi A = {0, 1, a}, B = {1, 2, a, b} e C = {0, 2, 4}, calcola i risultati delle seguenti espressioni:  
 1. A ∩ B ∩ C  
 2. A U (B ∩ C )
+
+#### Laboratorio
+
+a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $l_A=Unico(Suddividi(''tegame'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''gomito'',\{''''\})))$ &#9166;   
+2. $l_C=Unico(Suddividi(''attesa'',\{''''\}))$ &#9166;   $l_D=Unico(Suddividi(''paese'',\{''''\})))$ &#9166; 
+3. $Unione(l_A, l_B)$  &#9166; 
+4. $Intersezione(l_A, l_B)$  &#9166;  
 
 
 
@@ -81,6 +141,8 @@ b) In una classe di 32 alunni, 18 giocano a calcio e 20 a pallavolo. Di essi, 16
 c) In un gruppo di 18 persone ciascuno porta almeno uno fra cappello, giacca e cravatta. Si sa che in 6 portano il cappello, in 9 la giacca e in 12 la cravatta. Due persone portano cappello e cravatta e nessuno porta cappello e giacca. Stabilisci quante persone hanno giacca e cravatta.  
 
 d) In una sala sono presenti 62 persone, ognuna delle quali ha almeno una delle caratteristiche seguenti: essere europei o essere studenti. Si sa che gli studenti non europei sono 12, che gli inglesi non studenti sono 8, che gli studenti europei non inglesi sono 22 e che gli europei non inglesi né studenti sono tanti quanti gli studenti inglesi. Determina il numero degli inglesi.
+
+
 
 ### ESERCIZIO 7 - Differenza e Complemento
 
@@ -97,19 +159,38 @@ d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispe
 1. U = {x: x è una lettera dell’alfabeto}, A = {x: x è una vocale}.  
 2. U = {x: x è un punto della superficie terrestre}, A = {x: x è un punto delle terre emerse}.
 
+#### Laboratorio
+
+a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $l_A=Unico(Suddividi(''colore'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''sapore'',\{''''\})))$ &#9166;   
+2. $l_A \setminus l_B$  &#9166; 
+3. $l_B \setminus l_A$  &#9166; 
+
+
+
 ### ESERCIZIO 8 - Prodotto Cartesiano
 
 a) Dati gli insiemi A e B, rappresenta il prodotto A x B per elencazione e con un diagramma cartesiano nei casi seguenti.
 
-1. $A = \{a, b\}​$ e $B = \{4, 6\}​$
-2. $A = \{x ∈ N: 1 \lt x \;e \; x \le 4 \}​$ e $B = \{x ∈ N: 5 \lt x \;e \; x \lt 10 \}​$
-3. $A = \{Milan, Inter, Sampdoria\}$ e $B = \{Roma, Lazio, Juventus\}​$
+1. $A = \{a, b\}$ e $B = \{4, 6\}$
+2. $A = \{x ∈ N: 1 \lt x \;e \; x \le 4 \}$ e $B = \{x ∈ N: 5 \lt x \;e \; x \lt 10 \}$
+3. $A = \{Milan, Inter, Sampdoria\}$ e $B = \{Roma, Lazio, Juventus\}$
 
 b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e quelli dell’insieme B.
 
-1. $A \times B = \{(r; t), (e; r), (r; e), (e; t), (r; r), (e; e)\}​$
-2. $B \times A =  \{(1; a), (2; a), (1; b), (2; b)\}$
-3. $A \times B = \{(+; a), (+ ; b), (+; c), (+ ; a), (- ; b),  (-; c)\}​$
+1. $A \times B = \{(r, t), (e, r), (r, e), (e, t), (r, r), (e, e)\}$
+2. $B \times A =  \{(1, a), (2, a), (1, b), (2, b)\}$
+3. $A \times B = \{(+, a), (+ , b), (+, c), (+ , a), (- , b),  (-, c)\}$
+
+#### Laboratorio
+
+a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito (utilizza una singola lettera minuscola al posto dei nomi delle squadre):
+
+1. $l_A=\{a, b\}$  &#9166;   $l_B=\{4, 6\}$  &#9166;
+2. $Compatta(Compatta((h,k),h,l_A), k, l_B\})$ &#9166;   
+
+
 
 ### ESERCIZIO 9 - Le relazioni binarie
 
@@ -119,9 +200,19 @@ b) Dati gli insiemi A = {1, 2, 3, 4, 5} e B = {-1, 0, 1, 2}, scrivi le coppie di
 &emsp;  R2: «x = 2y»  
 &emsp;  R3: «x è minore o uguale a y»
 
+#### Laboratorio
+
+a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $l_A = \{1, 2, 3, 4, 5\}$  &#9166;   $l_B = \{-1, 0, 1, 2\}$  &#9166;
+2. $l_C = Singola(Compatta(Compatta((h, k), h, l_A), k, l_B))$ &#9166;   
+3. $TieniSe(x(A) + y(A) == 4, A, l_C)$   &#9166;
+
+
+
 ### ESERCIZIO 10 - Rappresentazione delle relazioni
 
-a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}​$ e $B = \{2, 4, 5\}​$, rappresenta la relazione da A a B: «La somma di x e y è dispari» in forma sagittale, cartesiana, tabellare, tabellare a doppia entrata.
+a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}$ e $B = \{2, 4, 5\}$, rappresenta la relazione da A a B: «La somma di x e y è dispari» in forma sagittale, cartesiana, tabellare, tabellare a doppia entrata.
 
 b) Data la relazione $R = \{(Franco;3), (Anna;6), (Luigi;8), (Ester;7), (Marco; 6)\}$ che riporta i voti di Italiano in un compito in classe, rappresenta R in forma sagittale, cartesiana e tabellare. 
 

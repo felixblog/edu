@@ -2,35 +2,39 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>La_Logica</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+
+<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
 iframe { margin: auto; }
 a.url { word-break: break-all; }
 a:active, a:hover { outline: 0px; }
 .in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
-#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
 #write.first-line-indent p { text-indent: 2em; }
 #write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
 #write.first-line-indent li { margin-left: 2em; }
 .for-image #write { padding-left: 8px; padding-right: 8px; }
 body.typora-export { padding-left: 30px; padding-right: 30px; }
 .typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
 @media screen and (max-width: 500px) {
   body.typora-export { padding-left: 0px; padding-right: 0px; }
   #write { padding-left: 20px; padding-right: 20px; }
   .CodeMirror-sizer { margin-left: 0px !important; }
   .CodeMirror-gutters { display: none !important; }
 }
-#write li > figure:first-child { margin-top: -20px; }
+#write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
-img { max-width: 100%; vertical-align: middle; }
-button, input, select, textarea { color: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
-h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
 p { orphans: 4; }
 h1 { font-size: 2rem; }
 h2 { font-size: 1.8rem; }
@@ -46,7 +50,7 @@ sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); 
 sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
 #write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
 figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
-figure > table { margin: 0px !important; }
+figure > table { margin: 0px; }
 tr { break-inside: avoid; break-after: auto; }
 thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
@@ -63,7 +67,7 @@ div.hr:focus { cursor: none; }
 #write pre.ty-contain-cm { white-space: normal; }
 .CodeMirror-gutters { margin-right: 4px; }
 .md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
-.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
 #write .md-fences.mock-cm { white-space: pre-wrap; }
 .md-fences.md-fences-with-lineno { padding-left: 0px; }
 #write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
@@ -75,29 +79,32 @@ div.hr:focus { cursor: none; }
 li div { padding-top: 0px; }
 blockquote { margin: 1rem 0px; }
 li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
 li { margin: 0px; position: relative; }
 blockquote > :last-child { margin-bottom: 0px; }
 blockquote > :first-child, li > :first-child { margin-top: 0px; }
 .footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
 #write .footnote-line { white-space: pre-wrap; }
 @media print {
-  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
   #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
-  html.blink-to-pdf { font-size: 13px; }
-  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid; }
+  .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
-  @page { margin: 20mm 0px; }
+  .is-mac table { break-inside: avoid; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
 }
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
 a img, img a { cursor: pointer; }
 pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
 p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
 p > .md-image:only-child { display: inline-block; width: 100%; }
 #write .MathJax_Display { margin: 0.8em 0px 0px; }
 .md-math-block { width: 100%; }
 .md-math-block:not(:empty)::after { display: none; }
-[contenteditable="true"]:active, [contenteditable="true"]:focus { outline: 0px; box-shadow: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
 .md-task-list-item { position: relative; list-style-type: none; }
 .task-list-item.md-task-list-item { padding-left: 0px; }
 .md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
@@ -127,106 +134,613 @@ a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; 
 .md-fn-count::after { content: "."; }
 code, pre, samp, tt { font-family: var(--monospace); }
 kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
-.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
 code { text-align: left; vertical-align: initial; }
 a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
-.md-inline-math .MathJax_SVG .noError { display: none !important; }
-.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
-.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
-.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
-.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
-.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
-.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
-.MathJax_SVG * { transition: none; }
-.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; }
 .os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
 .md-diagram-panel > svg { max-width: 100%; }
-[lang="mermaid"] svg, [lang="flow"] svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
 [lang="mermaid"] .node text { font-size: 1rem; }
 table tr th { border-bottom: 0px; }
 video { max-width: 100%; display: block; margin: 0px auto; }
 iframe { max-width: 100%; width: 100%; border: none; }
 .highlight td, .highlight tr { border: 0px; }
-
-
-:root { --side-bar-bg-color: #fafafa; --control-text-color: #777; }
-html { font-size: 16px; }
-body { font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.6; }
-#write { max-width: 860px; margin: 0px auto; padding: 30px 30px 100px; }
-#write > ul:first-child, #write > ol:first-child { margin-top: 30px; }
-a { color: rgb(65, 131, 196); }
-h1, h2, h3, h4, h5, h6 { position: relative; margin-top: 1rem; margin-bottom: 1rem; font-weight: bold; line-height: 1.4; cursor: text; }
-h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor { text-decoration: none; }
-h1 tt, h1 code { font-size: inherit; }
-h2 tt, h2 code { font-size: inherit; }
-h3 tt, h3 code { font-size: inherit; }
-h4 tt, h4 code { font-size: inherit; }
-h5 tt, h5 code { font-size: inherit; }
-h6 tt, h6 code { font-size: inherit; }
-h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bottom: 1px solid rgb(238, 238, 238); }
-h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid rgb(238, 238, 238); }
-h3 { font-size: 1.5em; line-height: 1.43; }
-h4 { font-size: 1.25em; }
-h5 { font-size: 1em; }
-h6 { font-size: 1em; color: rgb(119, 119, 119); }
-p, blockquote, ul, ol, dl, table { margin: 0.8em 0px; }
-li > ol, li > ul { margin: 0px; }
-hr { height: 2px; padding: 0px; margin: 16px 0px; background-color: rgb(231, 231, 231); border: 0px none; overflow: hidden; box-sizing: content-box; }
-li p.first { display: inline-block; }
-ul, ol { padding-left: 30px; }
-ul:first-child, ol:first-child { margin-top: 0px; }
-ul:last-child, ol:last-child { margin-bottom: 0px; }
-blockquote { border-left: 4px solid rgb(223, 226, 229); padding: 0px 15px; color: rgb(119, 119, 119); }
-blockquote blockquote { padding-right: 0px; }
-table { padding: 0px; word-break: initial; }
-table tr { border-top: 1px solid rgb(223, 226, 229); margin: 0px; padding: 0px; }
-table tr:nth-child(2n), thead { background-color: rgb(248, 248, 248); }
-table tr th { font-weight: bold; border-width: 1px 1px 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid; border-top-color: rgb(223, 226, 229); border-right-color: rgb(223, 226, 229); border-left-color: rgb(223, 226, 229); border-image: initial; border-bottom-style: initial; border-bottom-color: initial; text-align: left; margin: 0px; padding: 6px 13px; }
-table tr td { border: 1px solid rgb(223, 226, 229); text-align: left; margin: 0px; padding: 6px 13px; }
-table tr th:first-child, table tr td:first-child { margin-top: 0px; }
-table tr th:last-child, table tr td:last-child { margin-bottom: 0px; }
-.CodeMirror-lines { padding-left: 4px; }
-.code-tooltip { box-shadow: rgba(0, 28, 36, 0.3) 0px 1px 1px 0px; border-top: 1px solid rgb(238, 242, 242); }
-.md-fences, code, tt { border: 1px solid rgb(231, 234, 237); background-color: rgb(248, 248, 248); border-radius: 3px; padding: 2px 4px 0px; font-size: 0.9em; }
-code { background-color: rgb(243, 244, 244); padding: 0px 2px; }
-.md-fences { margin-bottom: 15px; margin-top: 15px; padding-top: 8px; padding-bottom: 6px; }
-.md-task-list-item > input { margin-left: -1.3em; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
 @media print {
-  html { font-size: 13px; }
-  table, pre { break-inside: avoid; }
-  pre { word-wrap: break-word; }
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
 }
-.md-fences { background-color: rgb(248, 248, 248); }
-#write pre.md-meta-block { padding: 1rem; font-size: 85%; line-height: 1.45; background-color: rgb(247, 247, 247); border: 0px; border-radius: 3px; color: rgb(119, 119, 119); margin-top: 0px !important; }
-.mathjax-block > .code-tooltip { bottom: 0.375rem; }
-.md-mathjax-midline { background: rgb(250, 250, 250); }
-#write > h3.md-focus::before { left: -1.5625rem; top: 0.375rem; }
-#write > h4.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
-#write > h5.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
-#write > h6.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
-.md-image > .md-meta { border-radius: 3px; padding: 2px 0px 0px 4px; font-size: 0.9em; color: inherit; }
-.md-tag { color: rgb(167, 167, 167); opacity: 1; }
-.md-toc { margin-top: 20px; padding-bottom: 20px; }
-.sidebar-tabs { border-bottom: none; }
-#typora-quick-open { border: 1px solid rgb(221, 221, 221); background-color: rgb(248, 248, 248); }
-#typora-quick-open-item { background-color: rgb(250, 250, 250); border-color: rgb(254, 254, 254) rgb(229, 229, 229) rgb(229, 229, 229) rgb(238, 238, 238); border-style: solid; border-width: 1px; }
-.on-focus-mode blockquote { border-left-color: rgba(85, 85, 85, 0.12); }
-header, .context-menu, .megamenu-content, footer { font-family: "Segoe UI", Arial, sans-serif; }
-.file-node-content:hover .file-node-icon, .file-node-content:hover .file-node-open-state { visibility: visible; }
-.mac-seamless-mode #typora-sidebar { background-color: var(--side-bar-bg-color); }
-.md-lang { color: rgb(180, 101, 77); }
-.html-for-mac .context-menu { --item-hover-bg-color: #E6F0FE; }
-#md-notification .btn { border: 0px; }
-.dropdown-menu .divider { border-color: rgb(229, 229, 229); }
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1024px;
+	}
+}
+
+@media only screen and (min-width: 1800px) {
+	#write {
+		max-width: 1200px;
+	}
+}
+
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+
+/*@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
+
+    .typora-export h1::after,
+    .typora-export h2::after {
+        content: "";
+        display: block;
+        height: 100px;
+        margin-top: -96px;
+        border-top: 1px solid #eee;
+    }
+}*/
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table th:first-child,
+table td:first-child {
+    margin-top: 0;
+}
+table th:last-child,
+table td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+/*.html-for-mac {
+    --item-hover-bg-color: #E6F0FE;
+}*/
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+    opacity: 0.4;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+.menu-item-container a.menu-style-btn {
+    background-color: #f5f8fa;
+    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
+}
 
 
 
+mjx-container[jax="SVG"] {
+  direction: ltr;
+}
 
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+  min-height: 1px;
+  min-width: 1px;
+}
 
- .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
-</style>
+mjx-container[jax="SVG"] > svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display="block"] {
+  width: 100% !important;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][display="true"][width="full"] {
+  display: flex;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line], svg[data-table] > g > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame], svg[data-table] > g > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed, svg[data-table] > g > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted, svg[data-table] > g > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > g > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
+  stroke-width: 3;
+}
+
+g[data-mml-node="xypic"] path {
+  stroke-width: inherit;
+}
+
+.MathJax g[data-mml-node="xypic"] path {
+  stroke-width: inherit;
+}
+mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
+							stroke-width: 0;
+						}
+</style><title>La_Logica</title>
 </head>
-<body class='typora-export os-windows' >
-<div  id='write'  class = 'is-node'><h1><a name='header-n0' class='md-header-anchor '></a>La Logica</h1><h3><a name='header-n3' class='md-header-anchor '></a>ESERCIZIO 1 - Le proposizioni</h3><p>a) Indica quali fra le seguenti frasi sono proposizioni (logiche):</p><ol start='' ><li>&quot;Per favore, mi passi l&#39;acqua?&quot;;  </li><li>&quot;Gli insegnanti della mia classe sono maschi&quot;;  </li><li>&quot;La matematica è facile&quot;;  </li><li>&quot;Non è vero che 2 + 2 fa 5&quot;;  </li><li>&quot;Alcuni miei compagni vanno in vacanza a Capri&quot;;  </li><li>&quot;Tutti gli insegnanti sono maschi&quot;;  </li><li>&quot;Sofia è alta 1,67 m&quot;;  </li><li>&quot;Questo bambino pesa poco&quot;;  </li><li>&quot;Il rombo è un particolare parallelogramma&quot;;  </li><li>&quot;Ciao!&quot;;  </li><li>&quot;Questo bambino pesa 4,5 kg&quot;;  </li><li>&quot;Giovanni è veloce nei calcoli&quot;;  </li><li>&quot;4 è un numero dispari&quot;.</li></ol><p>b) Attribuisci il valore di verità alle seguenti proposizioni:</p><ol start='' ><li>&quot;Il numero 2 è l’unico divisore di 6&quot;;  </li><li>&quot;Ogni trapezio è isoscele oppure rettangolo&quot;;  </li><li>&quot;La Terra è un pianeta&quot;;  </li><li>&quot;Marte non è un pianeta&quot;;  </li><li>&quot;L’uguaglianza x + 2 = 0 è sempre verificata in N&quot;;  </li><li>&quot;L’uguaglianza 2x = 0 non è mai verificata in N&quot;.</li></ol><h3><a name='header-n47' class='md-header-anchor '></a>ESERCIZIO 2 - Proposizioni semplici e composte</h3><p>a) Nelle seguenti proposizioni composte indica quali sono le proposizioni elementari e quali i connettivi che le legano.</p><ol start='' ><li>«Il gatto è un mammifero e il topo è un roditore»;  </li><li>«Se passi a prendermi, allora andiamo a passeggio insieme»;  </li><li>«O studi o vai a lavorare»;  </li><li>«Nel pomeriggio studio e ascolto musica»;  </li><li>«Bologna è capoluogo dell’Emilia-Romagna e Firenze della Toscana»;  </li><li>«Il cane è un mammifero o un quadrupede»;  </li><li>«Se vengono i ladri, viene attivato l’allarme»;  </li><li>«Dante ha scritto la Divina Commedia ed è sepolto a Ravenna».</li></ol><p>b) Dire in quali delle seguenti proposizioni la congiunzione “e” si può formalizzare con la congiunzione logica ∧.</p><ol start='' ><li>&quot;Carlo e Marco sono insegnanti&quot;;  </li><li>&quot;Carlo e Marco sono compaesani&quot;;  </li><li>&quot;Carlo e Marco stanno venendo alla festa&quot;;  </li><li>&quot;Carlo e Marco stanno venendo insieme alla festa&quot;;  </li><li>&quot;Carlo ha una maglia bianca e blu&quot;;  </li><li>&quot;Carlo ha superato l’esame ed è andato in ferie&quot;.</li></ol><p>c) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni.</p><ol start='' ><li>&quot;Giovanna è bella, <u>ma</u> Claudia è intelligente&quot;;   </li><li>&quot;Marcello è in campo, <u>benché</u> abbia la febbre&quot;;  </li><li>&quot;John è in Italia <u>senza</u> avere il passaporto&quot;;   </li><li>&quot;Giorgio è italiano <u>dato che</u> è nato a Imperia&quot;;  </li><li>&quot;David è spagnolo <u>perché</u> è nato a Barcellona&quot;;   </li><li>&quot;Oggi è bello <u>e quindi</u> vado in barca&quot;;  </li><li>&quot;Carlo gioca <u>a meno che</u> piova&quot;;  </li><li>&quot;<u>A meno che</u> Carlo intervenga, lo scontro è inevitabile&quot;.</li></ol><h3><a name='header-n99' class='md-header-anchor '></a>ESERCIZIO 3 - Connettivi proposizionali</h3><p>a) Scrivi la negazione delle seguenti proposizioni.</p><ol start='' ><li>&quot;Ieri non ho studiato&quot;;  </li><li>&quot;Sai che non ho studiato&quot;;  </li><li>&quot;Al cinema vado tutte le domeniche&quot;;  </li><li>&quot;Non è vero che non ho giocato a carte&quot;;  </li><li>&quot;Non è vero che sono entrati i ladri&quot;;  </li><li>&quot;Non ho detto niente a mio padre&quot;;  </li><li>&quot;Non ho ricevuto alcun regalo&quot;;  </li><li>&quot;Non ho regalato nessun cane&quot;;  </li><li>&quot;Faccio tutti i compiti per non essere bocciato&quot;;  </li><li>&quot;Le api non si posano su fiori che non profumano&quot;.</li></ol><p>b) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione.</p><ol start='' ><li>&quot;D’estate lavoro e coi guadagni mi compro il motorino&quot;;  </li><li>&quot;Mara suona e canta&quot;;  </li><li>&quot;Marco canta e non balla&quot;;  </li><li>&quot;Rosa e Gianni sono sposati e Luisa e Matteo non sono sposati&quot;;  </li><li>&quot;Il quadrato è un rettangolo e un rombo&quot;.</li></ol><p>c) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la disgiunzione inclusiva.</p><ol start='' ><li>&quot;È nuvoloso o piove&quot;;</li><li>&quot;Vado al bowling con Mario o con Andrea&quot;;  </li><li>&quot;Nelle prossime vacanze andrò in montagna o al lago&quot;;  </li><li>&quot;Luisa lava i piatti o fa scorrere l’acqua calda o aggiunge detersivo nel lavandino&quot;;  </li><li>&quot;Non leggo quella pagina o la strappo o la brucio&quot;;  </li><li>&quot;Leggo o mangio una mela o tengo in mano una penna&quot;;  </li><li>&quot;7 è un numero primo o è pari&quot;;  </li><li>&quot;Non esco o cucino o faccio una doccia&quot;.</li></ol><p>d) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione esclusiva.</p><ol start='' ><li>&quot;O studi o sarai bocciato&quot;;  </li><li>&quot;O mi aiuti o te ne vai&quot;;  </li><li>&quot;Nelle prossime vacanze o andrò in montagna o farò un viaggio a Parigi&quot;;  </li><li>&quot;O accendi la stufa a legna o farà un gran freddo&quot;;  </li><li>&quot;Non so se andare a teatro o al cinema&quot;;  </li><li>&quot;O la borsa o la vita&quot;;  </li><li>&quot;O c’è il sole o non esco&quot;.</li></ol><p>e) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando l&#39;implicazione materiale.</p><ol start='' ><li>&quot;Se sono promossa agli esami mi iscrivo a Medicina&quot;;  </li><li>&quot;Se non studi, non prenderai la sufficienza&quot;;  </li><li>&quot;Se un triangolo non ha tre lati congruenti, è scaleno o isoscele&quot;;  </li><li>&quot;Se un parallelogramma è un quadrato, allora è un rombo e un rettangolo&quot;;  </li><li>&quot;Se un trapezio ha due lati congruenti, allora è isoscele&quot;;  </li><li>&quot;Se un trapezio è rettangolo, allora non è isoscele&quot;.</li></ol><p>f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni:</p><ol start='' ><li>&quot;Giovanna è bella, ma Claudia è intelligente&quot;;  </li><li>&quot;Marcello è in campo, benché abbia la febbre”  </li><li>&quot;John è in Italia senza avere il passaporto&quot;;  </li><li>&quot;Giorgio è italiano dato che è nato a Imperia&quot;;  </li><li>&quot;David è spagnolo perché è nato a Barcellona&quot;;  </li><li>&quot;Oggi è bello e quindi vado in barca&quot;;  </li><li>&quot;Carlo gioca a meno che piova&quot;;  </li><li>&quot;A meno che Carlo intervenga, lo scontro è inevitabile&quot;.</li></ol><h3><a name='header-n201' class='md-header-anchor '></a>ESERCIZIO 4 - Forme Simboliche</h3><p>a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:<br/>A = “Aldo ha superato l’esame”, B = “Bruno ha superato l’esame”, C = “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:</p><ol start='' ><li>&quot;Solo Carlo ha superato l’esame&quot;;  </li><li>&quot;Solo Aldo non ha superato l’esame&quot;;  </li><li>&quot;Solo uno tra Aldo, Bruno e Carlo ha superato l’esame&quot;;  </li><li>&quot;Almeno uno tra Aldo, Bruno e Carlo ha superato l’esame&quot;;  </li><li>&quot;Almeno due tra Aldo, Bruno e Carlo hanno superato l’esame&quot;;  </li><li>&quot;Al più due tra Aldo, Bruno e Carlo hanno superato l’esame&quot;;  </li><li>&quot;Esattamente due tra Aldo, Bruno e Carlo hanno superato l’esame&quot;.</li></ol><p>b) Posto: A = &quot;Carlo è ligure&quot; e B = &quot;Diego è piemontese&quot;, scrivere in forma simbolica le seguenti proposizioni composte:</p><ol start='' ><li>&quot;Carlo non è ligure”  </li><li>&quot;Carlo è ligure e Diego è piemontese&quot;;  </li><li>&quot;Carlo è ligure sebbene Diego sia piemontese&quot;;  </li><li>&quot;Non è vero che Carlo sia ligure e Diego piemontese&quot;;  </li><li>&quot;Se Carlo non è ligure, allora Diego non è piemontese&quot;;  </li><li>&quot;È falso che se Carlo è ligure, allora Diego è piemontese&quot;;  </li><li>&quot;Carlo è ligure solo se Diego non è piemontese&quot;;  </li><li>&quot;Carlo è ligure se e solo se Diego non è piemontese&quot;;  </li><li>&quot;O Carlo è ligure o, se Carlo non è ligure, allora Diego è piemontese&quot;;  </li><li>&quot;O Carlo è ligure e Diego è piemontese, o né Carlo è ligure, né Diego è piemontese&quot;.</li></ol><h3><a name='header-n241' class='md-header-anchor '></a>ESERCIZIO 5 - Tabelle di verità, tautologie e contraddizioni</h3><p>a) Costruisci le tabelle di verità delle proposizioni seguenti.</p><ol start='' ><li><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="29.433ex" height="2.577ex" viewBox="0 -806.1 12672.3 1109.7" role="img" focusable="false" style="vertical-align: -0.705ex;"><defs><path stroke-width="0" id="E1-MJMAIN-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path stroke-width="0" id="E1-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path stroke-width="0" id="E1-MJMAIN-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path stroke-width="0" id="E1-MJMATHI-71" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path stroke-width="0" id="E1-MJMAIN-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path><path stroke-width="0" id="E1-MJMAIN-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path stroke-width="0" id="E1-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path stroke-width="0" id="E1-MJMAIN-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path><path stroke-width="0" id="E1-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E1-MJMAIN-AC" x="0" y="0"></use><use xlink:href="#E1-MJMATHI-70" x="667" y="0"></use><use xlink:href="#E1-MJMAIN-2192" x="1447" y="0"></use><use xlink:href="#E1-MJMATHI-71" x="2725" y="0"></use><use xlink:href="#E1-MJMAIN-3B" x="3185" y="0"></use><use xlink:href="#E1-MJMAIN-AC" x="3630" y="0"></use><use xlink:href="#E1-MJMATHI-71" x="4297" y="0"></use><use xlink:href="#E1-MJMAIN-2192" x="5035" y="0"></use><use xlink:href="#E1-MJMAIN-AC" x="6312" y="0"></use><use xlink:href="#E1-MJMATHI-70" x="6979" y="0"></use><use xlink:href="#E1-MJMAIN-3B" x="7482" y="0"></use><use xlink:href="#E1-MJMATHI-70" x="7927" y="0"></use><use xlink:href="#E1-MJMAIN-2228" x="8652" y="0"></use><use xlink:href="#E1-MJMAIN-28" x="9541" y="0"></use><use xlink:href="#E1-MJMATHI-70" x="9930" y="0"></use><use xlink:href="#E1-MJMAIN-2227" x="10656" y="0"></use><use xlink:href="#E1-MJMATHI-71" x="11545" y="0"></use><use xlink:href="#E1-MJMAIN-29" x="12005" y="0"></use><use xlink:href="#E1-MJMAIN-3B" x="12394" y="0"></use></g></svg></span><script type="math/tex"> \lnot p \to q;  \lnot q \to \lnot p; p \lor (p \land q); </script>  </li><li><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="36.663ex" height="2.577ex" viewBox="0 -806.1 15785.2 1109.7" role="img" focusable="false" style="vertical-align: -0.705ex;"><defs><path stroke-width="0" id="E2-MJMAIN-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path stroke-width="0" id="E2-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path stroke-width="0" id="E2-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path stroke-width="0" id="E2-MJMAIN-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path><path stroke-width="0" id="E2-MJMATHI-71" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path stroke-width="0" id="E2-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path stroke-width="0" id="E2-MJMAIN-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path><path stroke-width="0" id="E2-MJMAIN-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path stroke-width="0" id="E2-MJMAIN-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E2-MJMAIN-AC" x="0" y="0"></use><use xlink:href="#E2-MJMAIN-28" x="667" y="0"></use><use xlink:href="#E2-MJMAIN-AC" x="1056" y="0"></use><use xlink:href="#E2-MJMATHI-70" x="1723" y="0"></use><use xlink:href="#E2-MJMAIN-2227" x="2448" y="0"></use><use xlink:href="#E2-MJMAIN-AC" x="3337" y="0"></use><use xlink:href="#E2-MJMATHI-71" x="4004" y="0"></use><use xlink:href="#E2-MJMAIN-29" x="4464" y="0"></use><use xlink:href="#E2-MJMAIN-3B" x="4853" y="0"></use><use xlink:href="#E2-MJMAIN-AC" x="5298" y="0"></use><use xlink:href="#E2-MJMAIN-28" x="5965" y="0"></use><use xlink:href="#E2-MJMAIN-AC" x="6354" y="0"></use><use xlink:href="#E2-MJMATHI-70" x="7021" y="0"></use><use xlink:href="#E2-MJMAIN-2228" x="7746" y="0"></use><use xlink:href="#E2-MJMAIN-AC" x="8635" y="0"></use><use xlink:href="#E2-MJMATHI-71" x="9302" y="0"></use><use xlink:href="#E2-MJMAIN-29" x="9762" y="0"></use><use xlink:href="#E2-MJMAIN-3B" x="10151" y="0"></use><use xlink:href="#E2-MJMAIN-28" x="10596" y="0"></use><use xlink:href="#E2-MJMATHI-70" x="10985" y="0"></use><use xlink:href="#E2-MJMAIN-2192" x="11766" y="0"></use><use xlink:href="#E2-MJMATHI-71" x="13043" y="0"></use><use xlink:href="#E2-MJMAIN-29" x="13503" y="0"></use><use xlink:href="#E2-MJMAIN-2227" x="14115" y="0"></use><use xlink:href="#E2-MJMATHI-70" x="15004" y="0"></use><use xlink:href="#E2-MJMAIN-3B" x="15507" y="0"></use></g></svg></span><script type="math/tex"> \lnot ( \lnot p \land \lnot q);  \lnot (\lnot p \lor \lnot q); (p \to q) \land p; </script></li></ol><p>b) Individua tra le proposizioni seguenti le tatutologie e le contraddizioni.</p><ol start='' ><li><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="13.174ex" height="2.577ex" viewBox="-39 -806.1 5672.1 1109.7" role="img" focusable="false" style="vertical-align: -0.705ex; margin-left: -0.091ex;"><defs><path stroke-width="0" id="E3-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path stroke-width="0" id="E3-MJMAIN-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path stroke-width="0" id="E3-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path stroke-width="0" id="E3-MJMATHI-71" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path stroke-width="0" id="E3-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path stroke-width="0" id="E3-MJMAIN-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E3-MJMATHI-70" x="0" y="0"></use><use xlink:href="#E3-MJMAIN-2192" x="780" y="0"></use><use xlink:href="#E3-MJMAIN-28" x="2058" y="0"></use><use xlink:href="#E3-MJMATHI-71" x="2447" y="0"></use><use xlink:href="#E3-MJMAIN-2192" x="3185" y="0"></use><use xlink:href="#E3-MJMATHI-70" x="4463" y="0"></use><use xlink:href="#E3-MJMAIN-29" x="4966" y="0"></use><use xlink:href="#E3-MJMAIN-3B" x="5355" y="0"></use></g></svg></span><script type="math/tex">p \to ( q \to p);</script>  </li><li><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="13.692ex" height="2.577ex" viewBox="-39 -806.1 5895 1109.7" role="img" focusable="false" style="vertical-align: -0.705ex; margin-left: -0.091ex;"><defs><path stroke-width="0" id="E4-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path stroke-width="0" id="E4-MJMAIN-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path stroke-width="0" id="E4-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path stroke-width="0" id="E4-MJMAIN-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path stroke-width="0" id="E4-MJMAIN-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path stroke-width="0" id="E4-MJMATHI-71" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path stroke-width="0" id="E4-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path stroke-width="0" id="E4-MJMAIN-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E4-MJMATHI-70" x="0" y="0"></use><use xlink:href="#E4-MJMAIN-2192" x="780" y="0"></use><use xlink:href="#E4-MJMAIN-28" x="2058" y="0"></use><use xlink:href="#E4-MJMAIN-AC" x="2447" y="0"></use><use xlink:href="#E4-MJMATHI-70" x="3114" y="0"></use><use xlink:href="#E4-MJMAIN-2228" x="3839" y="0"></use><use xlink:href="#E4-MJMATHI-71" x="4729" y="0"></use><use xlink:href="#E4-MJMAIN-29" x="5189" y="0"></use><use xlink:href="#E4-MJMAIN-3B" x="5578" y="0"></use></g></svg></span><script type="math/tex">p \to (\lnot p \lor q);</script>  </li><li><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="8.753ex" height="2.11ex" viewBox="-39 -655.4 3768.4 908.7" role="img" focusable="false" style="vertical-align: -0.588ex; margin-left: -0.091ex;"><defs><path stroke-width="0" id="E5-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path stroke-width="0" id="E5-MJMAIN-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path stroke-width="0" id="E5-MJMAIN-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path stroke-width="0" id="E5-MJMAIN-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E5-MJMATHI-70" x="0" y="0"></use><use xlink:href="#E5-MJMAIN-2228" x="725" y="0"></use><use xlink:href="#E5-MJMAIN-AC" x="1614" y="0"></use><use xlink:href="#E5-MJMAIN-AC" x="2281" y="0"></use><use xlink:href="#E5-MJMATHI-70" x="2948" y="0"></use><use xlink:href="#E5-MJMAIN-3B" x="3451" y="0"></use></g></svg></span><script type="math/tex">p \lor \lnot \lnot p; </script>  </li><li><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="19.058ex" height="2.577ex" viewBox="0 -806.1 8205.4 1109.7" role="img" focusable="false" style="vertical-align: -0.705ex;"><defs><path stroke-width="0" id="E6-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path stroke-width="0" id="E6-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path stroke-width="0" id="E6-MJMAIN-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path stroke-width="0" id="E6-MJMATHI-71" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path stroke-width="0" id="E6-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path stroke-width="0" id="E6-MJMAIN-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path><path stroke-width="0" id="E6-MJMAIN-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path stroke-width="0" id="E6-MJMAIN-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path stroke-width="0" id="E6-MJMAIN-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E6-MJMAIN-28" x="0" y="0"></use><use xlink:href="#E6-MJMATHI-70" x="389" y="0"></use><use xlink:href="#E6-MJMAIN-2192" x="1169" y="0"></use><use xlink:href="#E6-MJMATHI-71" x="2447" y="0"></use><use xlink:href="#E6-MJMAIN-29" x="2907" y="0"></use><use xlink:href="#E6-MJMAIN-2227" x="3518" y="0"></use><use xlink:href="#E6-MJMAIN-28" x="4408" y="0"></use><use xlink:href="#E6-MJMAIN-AC" x="4797" y="0"></use><use xlink:href="#E6-MJMATHI-70" x="5464" y="0"></use><use xlink:href="#E6-MJMAIN-2228" x="6189" y="0"></use><use xlink:href="#E6-MJMATHI-71" x="7078" y="0"></use><use xlink:href="#E6-MJMAIN-29" x="7538" y="0"></use><use xlink:href="#E6-MJMAIN-3B" x="7927" y="0"></use></g></svg></span><script type="math/tex">(p \to q) \land (\lnot p \lor q);</script>  </li><li><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16.477ex" height="2.577ex" viewBox="0 -806.1 7094.3 1109.7" role="img" focusable="false" style="vertical-align: -0.705ex;"><defs><path stroke-width="0" id="E7-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path stroke-width="0" id="E7-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path stroke-width="0" id="E7-MJMAIN-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path><path stroke-width="0" id="E7-MJMATHI-71" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path stroke-width="0" id="E7-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path stroke-width="0" id="E7-MJMAIN-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path stroke-width="0" id="E7-MJMAIN-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E7-MJMAIN-28" x="0" y="0"></use><use xlink:href="#E7-MJMATHI-70" x="389" y="0"></use><use xlink:href="#E7-MJMAIN-2227" x="1114" y="0"></use><use xlink:href="#E7-MJMATHI-71" x="2003" y="0"></use><use xlink:href="#E7-MJMAIN-29" x="2463" y="0"></use><use xlink:href="#E7-MJMAIN-2227" x="3074" y="0"></use><use xlink:href="#E7-MJMAIN-28" x="3963" y="0"></use><use xlink:href="#E7-MJMATHI-70" x="4352" y="0"></use><use xlink:href="#E7-MJMAIN-2228" x="5078" y="0"></use><use xlink:href="#E7-MJMATHI-71" x="5967" y="0"></use><use xlink:href="#E7-MJMAIN-29" x="6427" y="0"></use><use xlink:href="#E7-MJMAIN-3B" x="6816" y="0"></use></g></svg></span><script type="math/tex">(p \land q) \land (p \lor q);</script>  </li><li><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="16.991ex" height="2.577ex" viewBox="0 -806.1 7315.6 1109.7" role="img" focusable="false" style="vertical-align: -0.705ex;"><defs><path stroke-width="0" id="E8-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path stroke-width="0" id="E8-MJMATHI-70" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path stroke-width="0" id="E8-MJMAIN-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path stroke-width="0" id="E8-MJMATHI-71" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path stroke-width="0" id="E8-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path stroke-width="0" id="E8-MJMAIN-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E8-MJMAIN-28" x="0" y="0"></use><use xlink:href="#E8-MJMATHI-70" x="389" y="0"></use><use xlink:href="#E8-MJMAIN-2192" x="1169" y="0"></use><use xlink:href="#E8-MJMATHI-71" x="2447" y="0"></use><use xlink:href="#E8-MJMAIN-29" x="2907" y="0"></use><use xlink:href="#E8-MJMAIN-2227" x="3518" y="0"></use><use xlink:href="#E8-MJMATHI-70" x="4408" y="0"></use><use xlink:href="#E8-MJMAIN-29" x="4911" y="0"></use><use xlink:href="#E8-MJMAIN-2192" x="5577" y="0"></use><use xlink:href="#E8-MJMATHI-71" x="6855" y="0"></use></g></svg></span><script type="math/tex">(p \to q) \land p) \to q</script></li></ol><h3><a name='header-n262' class='md-header-anchor '></a>ESERCIZIO 6 - Forme di ragionamento</h3><p>a) Individuando premesse e conclusione, tradurre nel linguaggio della logica proposizionale gli enunciati delle seguenti argomentazioni.</p><ol start='' ><li>Se la squadra A segna una rete e la squadra B non segna allora A vince lo scudetto. Segnano entrambe le squadre, quindi A non vince lo scudetto.  </li><li>Se piove non esco di casa. Piove o tira vento. Esco di casa. Quindi tira vento.  </li><li>Arturo rimane in casa se e solo se la televisione trasmette un film comico. La televisione trasmette un film comico e Arturo si diverte, quindi Arturo si diverte.  </li><li>Se la pioggia cade copiosa allora il raccolto è abbondante. Se il concime è appropriato,   allora il raccolto è abbondante. Se la pioggia cade copiosa allora il concime è appropriato.  </li><li>Se Carlo ha vinto la gara, allora, se Mario è arrivato secondo, allora Sergio è arrivato terzo. Mario non è arrivato secondo. Quindi, o Carlo ha vinto o Sergio è arrivato terzo.  </li><li>Se giochi e studi supererai gli esami, ma se giochi e non studi non supererai gli esami. Pertanto, se giochi, allora o studi e supererai gli esami o non studi e non supererai gli esami.  </li><li>Il Parma vince il campionato oppure il Chievo retrocede. D’altra parte, non si dà il caso che, se il Parma vince il campionato, allora il Chievo non retrocede. Inoltre, il Chievo non retrocede e il Sassuolo si qualifica in Europa League. Dunque, il Sassuolo non si qualifica in Europa League.<br/>(Indicare con: p: &quot;Il Parma vince il campionato&quot;, c: &quot;Il Chievo retrocede&quot;, s: &quot;Il Sassuolo si qualifica in Europa League&quot;).</li></ol><p>b) Analizzare la validità dei ragionamenti del punto a).</p></div>
+<body class='typora-export os-windows'><div class='typora-export-content'>
+<div id='write'  class=''><h1 id='la-logica'><span>La Logica</span></h1><h3 id='esercizio-1---le-proposizioni'><span>ESERCIZIO 1 - Le proposizioni</span></h3><p><span>a) Indica quali fra le seguenti frasi sono proposizioni (logiche):</span></p><ol start='' ><li><span>&quot;Per favore, mi passi l&#39;acqua?&quot;;  </span></li><li><span>&quot;Gli insegnanti della mia classe sono maschi&quot;;  </span></li><li><span>&quot;La matematica è facile&quot;;  </span></li><li><span>&quot;Non è vero che 2 + 2 fa 5&quot;;  </span></li><li><span>&quot;Alcuni miei compagni vanno in vacanza a Capri&quot;;  </span></li><li><span>&quot;Tutti gli insegnanti sono maschi&quot;;  </span></li><li><span>&quot;Sofia è alta 1,67 m&quot;;  </span></li><li><span>&quot;Questo bambino pesa poco&quot;;  </span></li><li><span>&quot;Il rombo è un particolare parallelogramma&quot;;  </span></li><li><span>&quot;Ciao!&quot;;  </span></li><li><span>&quot;Questo bambino pesa 4,5 kg&quot;;  </span></li><li><span>&quot;Giovanni è veloce nei calcoli&quot;;  </span></li><li><span>&quot;4 è un numero dispari&quot;.</span></li></ol><p><span>b) Attribuisci il valore di verità alle seguenti proposizioni:</span></p><ol start='' ><li><span>&quot;Il numero 2 è l’unico divisore di 6&quot;;  </span></li><li><span>&quot;Ogni trapezio è isoscele oppure rettangolo&quot;;  </span></li><li><span>&quot;La Terra è un pianeta&quot;;  </span></li><li><span>&quot;Marte non è un pianeta&quot;;  </span></li><li><span>&quot;L’uguaglianza x + 2 = 0 è sempre verificata in N&quot;;  </span></li><li><span>&quot;L’uguaglianza 2x = 0 non è mai verificata in N&quot;.</span></li></ol><p>&nbsp;</p><h3 id='esercizio-2---proposizioni-semplici-e-composte'><span>ESERCIZIO 2 - Proposizioni semplici e composte</span></h3><p><span>a) Nelle seguenti proposizioni composte indica quali sono le proposizioni elementari e quali i connettivi che le legano.</span></p><ol start='' ><li><span>«Il gatto è un mammifero e il topo è un roditore»;  </span></li><li><span>«Se passi a prendermi, allora andiamo a passeggio insieme»;  </span></li><li><span>«O studi o vai a lavorare»;  </span></li><li><span>«Nel pomeriggio studio e ascolto musica»;  </span></li><li><span>«Bologna è capoluogo dell’Emilia-Romagna e Firenze della Toscana»;  </span></li><li><span>«Il cane è un mammifero o un quadrupede»;  </span></li><li><span>«Se vengono i ladri, viene attivato l’allarme»;  </span></li><li><span>«Dante ha scritto la Divina Commedia ed è sepolto a Ravenna».</span></li></ol><p><span>b) Dire in quali delle seguenti proposizioni la congiunzione “e” si può formalizzare con la congiunzione logica ∧.</span></p><ol start='' ><li><span>&quot;Carlo e Marco sono insegnanti&quot;;  </span></li><li><span>&quot;Carlo e Marco sono compaesani&quot;;  </span></li><li><span>&quot;Carlo e Marco stanno venendo alla festa&quot;;  </span></li><li><span>&quot;Carlo e Marco stanno venendo insieme alla festa&quot;;  </span></li><li><span>&quot;Carlo ha una maglia bianca e blu&quot;;  </span></li><li><span>&quot;Carlo ha superato l’esame ed è andato in ferie&quot;.</span></li></ol><p><span>c) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni.</span></p><ol start='' ><li><span>&quot;Giovanna è bella, </span><u><span>ma</span></u><span> Claudia è intelligente&quot;;   </span></li><li><span>&quot;Marcello è in campo, </span><u><span>benché</span></u><span> abbia la febbre&quot;;  </span></li><li><span>&quot;John è in Italia </span><u><span>senza</span></u><span> avere il passaporto&quot;;   </span></li><li><span>&quot;Giorgio è italiano </span><u><span>dato che</span></u><span> è nato a Imperia&quot;;  </span></li><li><span>&quot;David è spagnolo </span><u><span>perché</span></u><span> è nato a Barcellona&quot;;   </span></li><li><span>&quot;Oggi è bello </span><u><span>e quindi</span></u><span> vado in barca&quot;;  </span></li><li><span>&quot;Carlo gioca </span><u><span>a meno che</span></u><span> piova&quot;;  </span></li><li><span>&quot;</span><u><span>A meno che</span></u><span> Carlo intervenga, lo scontro è inevitabile&quot;.</span></li></ol><p>&nbsp;</p><h3 id='esercizio-3---connettivi-proposizionali'><span>ESERCIZIO 3 - Connettivi proposizionali</span></h3><p><span>a) Scrivi la negazione delle seguenti proposizioni.</span></p><ol start='' ><li><span>&quot;Ieri non ho studiato&quot;;  </span></li><li><span>&quot;Sai che non ho studiato&quot;;  </span></li><li><span>&quot;Al cinema vado tutte le domeniche&quot;;  </span></li><li><span>&quot;Non è vero che non ho giocato a carte&quot;;  </span></li><li><span>&quot;Non è vero che sono entrati i ladri&quot;;  </span></li><li><span>&quot;Non ho detto niente a mio padre&quot;;  </span></li><li><span>&quot;Non ho ricevuto alcun regalo&quot;;  </span></li><li><span>&quot;Non ho regalato nessun cane&quot;;  </span></li><li><span>&quot;Faccio tutti i compiti per non essere bocciato&quot;;  </span></li><li><span>&quot;Le api non si posano su fiori che non profumano&quot;.</span></li></ol><p><span>b) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione.</span></p><ol start='' ><li><span>&quot;D’estate lavoro e coi guadagni mi compro il motorino&quot;;  </span></li><li><span>&quot;Mara suona e canta&quot;;  </span></li><li><span>&quot;Marco canta e non balla&quot;;  </span></li><li><span>&quot;Rosa e Gianni sono sposati e Luisa e Matteo non sono sposati&quot;;  </span></li><li><span>&quot;Il quadrato è un rettangolo e un rombo&quot;.</span></li></ol><p><span>c) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la disgiunzione inclusiva.</span></p><ol start='' ><li><span>&quot;È nuvoloso o piove&quot;;</span></li><li><span>&quot;Vado al bowling con Mario o con Andrea&quot;;  </span></li><li><span>&quot;Nelle prossime vacanze andrò in montagna o al lago&quot;;  </span></li><li><span>&quot;Luisa lava i piatti o fa scorrere l’acqua calda o aggiunge detersivo nel lavandino&quot;;  </span></li><li><span>&quot;Non leggo quella pagina o la strappo o la brucio&quot;;  </span></li><li><span>&quot;Leggo o mangio una mela o tengo in mano una penna&quot;;  </span></li><li><span>&quot;7 è un numero primo o è pari&quot;;  </span></li><li><span>&quot;Non esco o cucino o faccio una doccia&quot;.</span></li></ol><p><span>d) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione esclusiva.</span></p><ol start='' ><li><span>&quot;O studi o sarai bocciato&quot;;  </span></li><li><span>&quot;O mi aiuti o te ne vai&quot;;  </span></li><li><span>&quot;Nelle prossime vacanze o andrò in montagna o farò un viaggio a Parigi&quot;;  </span></li><li><span>&quot;O accendi la stufa a legna o farà un gran freddo&quot;;  </span></li><li><span>&quot;Non so se andare a teatro o al cinema&quot;;  </span></li><li><span>&quot;O la borsa o la vita&quot;;  </span></li><li><span>&quot;O c’è il sole o non esco&quot;.</span></li></ol><p><span>e) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando l&#39;implicazione materiale.</span></p><ol start='' ><li><span>&quot;Se sono promossa agli esami mi iscrivo a Medicina&quot;;  </span></li><li><span>&quot;Se non studi, non prenderai la sufficienza&quot;;  </span></li><li><span>&quot;Se un triangolo non ha tre lati congruenti, è scaleno o isoscele&quot;;  </span></li><li><span>&quot;Se un parallelogramma è un quadrato, allora è un rombo e un rettangolo&quot;;  </span></li><li><span>&quot;Se un trapezio ha due lati congruenti, allora è isoscele&quot;;  </span></li><li><span>&quot;Se un trapezio è rettangolo, allora non è isoscele&quot;.</span></li></ol><p><span>f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni:</span></p><ol start='' ><li><span>&quot;Giovanna è bella, ma Claudia è intelligente&quot;;  </span></li><li><span>&quot;Marcello è in campo, benché abbia la febbre”  </span></li><li><span>&quot;John è in Italia senza avere il passaporto&quot;;  </span></li><li><span>&quot;Giorgio è italiano dato che è nato a Imperia&quot;;  </span></li><li><span>&quot;David è spagnolo perché è nato a Barcellona&quot;;  </span></li><li><span>&quot;Oggi è bello e quindi vado in barca&quot;;  </span></li><li><span>&quot;Carlo gioca a meno che piova&quot;;  </span></li><li><span>&quot;A meno che Carlo intervenga, lo scontro è inevitabile&quot;.</span></li></ol><p>&nbsp;</p><h3 id='esercizio-4---forme-simboliche'><span>ESERCIZIO 4 - Forme Simboliche</span></h3><p><span>a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:</span><br/><span>A = “Aldo ha superato l’esame”, B = “Bruno ha superato l’esame”, C = “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:</span></p><ol start='' ><li><span>&quot;Solo Carlo ha superato l’esame&quot;;  </span></li><li><span>&quot;Solo Aldo non ha superato l’esame&quot;;  </span></li><li><span>&quot;Solo uno tra Aldo, Bruno e Carlo ha superato l’esame&quot;;  </span></li><li><span>&quot;Almeno uno tra Aldo, Bruno e Carlo ha superato l’esame&quot;;  </span></li><li><span>&quot;Almeno due tra Aldo, Bruno e Carlo hanno superato l’esame&quot;;  </span></li><li><span>&quot;Al più due tra Aldo, Bruno e Carlo hanno superato l’esame&quot;;  </span></li><li><span>&quot;Esattamente due tra Aldo, Bruno e Carlo hanno superato l’esame&quot;.</span></li></ol><p><span>b) Posto: A = &quot;Carlo è ligure&quot; e B = &quot;Diego è piemontese&quot;, scrivere in forma simbolica le seguenti proposizioni composte:</span></p><ol start='' ><li><span>&quot;Carlo non è ligure”  </span></li><li><span>&quot;Carlo è ligure e Diego è piemontese&quot;;  </span></li><li><span>&quot;Carlo è ligure sebbene Diego sia piemontese&quot;;  </span></li><li><span>&quot;Non è vero che Carlo sia ligure e Diego piemontese&quot;;  </span></li><li><span>&quot;Se Carlo non è ligure, allora Diego non è piemontese&quot;;  </span></li><li><span>&quot;È falso che se Carlo è ligure, allora Diego è piemontese&quot;;  </span></li><li><span>&quot;Carlo è ligure solo se Diego non è piemontese&quot;;  </span></li><li><span>&quot;Carlo è ligure se e solo se Diego non è piemontese&quot;;  </span></li><li><span>&quot;O Carlo è ligure o, se Carlo non è ligure, allora Diego è piemontese&quot;;  </span></li><li><span>&quot;O Carlo è ligure e Diego è piemontese, o né Carlo è ligure, né Diego è piemontese&quot;.</span></li></ol><p>&nbsp;</p><h3 id='esercizio-5---tabelle-di-verità-tautologie-e-contraddizioni'><span>ESERCIZIO 5 - Tabelle di verità, tautologie e contraddizioni</span></h3><p><span>a) Costruisci le tabelle di verità delle proposizioni seguenti.</span></p><ol start='' ><li><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="28.67ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 12672.3 1000" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.566ex;"><defs><path id="MJX-1779-TEX-N-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path id="MJX-1779-TEX-I-1D45D" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path id="MJX-1779-TEX-N-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path id="MJX-1779-TEX-I-1D45E" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path id="MJX-1779-TEX-N-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path><path id="MJX-1779-TEX-N-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path id="MJX-1779-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path id="MJX-1779-TEX-N-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path><path id="MJX-1779-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><use data-c="AC" xlink:href="#MJX-1779-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(667,0)"><use data-c="1D45D" xlink:href="#MJX-1779-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(1447.8,0)"><use data-c="2192" xlink:href="#MJX-1779-TEX-N-2192"></use></g><g data-mml-node="mi" transform="translate(2725.6,0)"><use data-c="1D45E" xlink:href="#MJX-1779-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(3185.6,0)"><use data-c="3B" xlink:href="#MJX-1779-TEX-N-3B"></use></g><g data-mml-node="mi" transform="translate(3630.2,0)"><use data-c="AC" xlink:href="#MJX-1779-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(4297.2,0)"><use data-c="1D45E" xlink:href="#MJX-1779-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(5035,0)"><use data-c="2192" xlink:href="#MJX-1779-TEX-N-2192"></use></g><g data-mml-node="mi" transform="translate(6312.8,0)"><use data-c="AC" xlink:href="#MJX-1779-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(6979.8,0)"><use data-c="1D45D" xlink:href="#MJX-1779-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(7482.8,0)"><use data-c="3B" xlink:href="#MJX-1779-TEX-N-3B"></use></g><g data-mml-node="mi" transform="translate(7927.4,0)"><use data-c="1D45D" xlink:href="#MJX-1779-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(8652.7,0)"><use data-c="2228" xlink:href="#MJX-1779-TEX-N-2228"></use></g><g data-mml-node="mo" transform="translate(9541.9,0)"><use data-c="28" xlink:href="#MJX-1779-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(9930.9,0)"><use data-c="1D45D" xlink:href="#MJX-1779-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(10656.1,0)"><use data-c="2227" xlink:href="#MJX-1779-TEX-N-2227"></use></g><g data-mml-node="mi" transform="translate(11545.3,0)"><use data-c="1D45E" xlink:href="#MJX-1779-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(12005.3,0)"><use data-c="29" xlink:href="#MJX-1779-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(12394.3,0)"><use data-c="3B" xlink:href="#MJX-1779-TEX-N-3B"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">¬</mi><mi>p</mi><mo accent="false" stretchy="false">→</mo><mi>q</mi><mo>;</mo><mi mathvariant="normal">¬</mi><mi>q</mi><mo accent="false" stretchy="false">→</mo><mi mathvariant="normal">¬</mi><mi>p</mi><mo>;</mo><mi>p</mi><mo>∨</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo>;</mo></math></mjx-assistive-mml></mjx-container><script type="math/tex"> \lnot p \to q;  \lnot q \to \lnot p; p \lor (p \land q); </script><span>  </span></li><li><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="35.713ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 15785.2 1000" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.566ex;"><defs><path id="MJX-1780-TEX-N-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path id="MJX-1780-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path id="MJX-1780-TEX-I-1D45D" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path id="MJX-1780-TEX-N-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path><path id="MJX-1780-TEX-I-1D45E" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path id="MJX-1780-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path id="MJX-1780-TEX-N-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path><path id="MJX-1780-TEX-N-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path id="MJX-1780-TEX-N-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><use data-c="AC" xlink:href="#MJX-1780-TEX-N-AC"></use></g><g data-mml-node="mo" transform="translate(667,0)"><use data-c="28" xlink:href="#MJX-1780-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(1056,0)"><use data-c="AC" xlink:href="#MJX-1780-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(1723,0)"><use data-c="1D45D" xlink:href="#MJX-1780-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(2448.2,0)"><use data-c="2227" xlink:href="#MJX-1780-TEX-N-2227"></use></g><g data-mml-node="mi" transform="translate(3337.4,0)"><use data-c="AC" xlink:href="#MJX-1780-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(4004.4,0)"><use data-c="1D45E" xlink:href="#MJX-1780-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(4464.4,0)"><use data-c="29" xlink:href="#MJX-1780-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(4853.4,0)"><use data-c="3B" xlink:href="#MJX-1780-TEX-N-3B"></use></g><g data-mml-node="mi" transform="translate(5298.1,0)"><use data-c="AC" xlink:href="#MJX-1780-TEX-N-AC"></use></g><g data-mml-node="mo" transform="translate(5965.1,0)"><use data-c="28" xlink:href="#MJX-1780-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(6354.1,0)"><use data-c="AC" xlink:href="#MJX-1780-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(7021.1,0)"><use data-c="1D45D" xlink:href="#MJX-1780-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(7746.3,0)"><use data-c="2228" xlink:href="#MJX-1780-TEX-N-2228"></use></g><g data-mml-node="mi" transform="translate(8635.6,0)"><use data-c="AC" xlink:href="#MJX-1780-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(9302.6,0)"><use data-c="1D45E" xlink:href="#MJX-1780-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(9762.6,0)"><use data-c="29" xlink:href="#MJX-1780-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(10151.6,0)"><use data-c="3B" xlink:href="#MJX-1780-TEX-N-3B"></use></g><g data-mml-node="mo" transform="translate(10596.2,0)"><use data-c="28" xlink:href="#MJX-1780-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(10985.2,0)"><use data-c="1D45D" xlink:href="#MJX-1780-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(11766,0)"><use data-c="2192" xlink:href="#MJX-1780-TEX-N-2192"></use></g><g data-mml-node="mi" transform="translate(13043.8,0)"><use data-c="1D45E" xlink:href="#MJX-1780-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(13503.8,0)"><use data-c="29" xlink:href="#MJX-1780-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(14115,0)"><use data-c="2227" xlink:href="#MJX-1780-TEX-N-2227"></use></g><g data-mml-node="mi" transform="translate(15004.2,0)"><use data-c="1D45D" xlink:href="#MJX-1780-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(15507.2,0)"><use data-c="3B" xlink:href="#MJX-1780-TEX-N-3B"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">¬</mi><mo stretchy="false">(</mo><mi mathvariant="normal">¬</mi><mi>p</mi><mo>∧</mo><mi mathvariant="normal">¬</mi><mi>q</mi><mo stretchy="false">)</mo><mo>;</mo><mi mathvariant="normal">¬</mi><mo stretchy="false">(</mo><mi mathvariant="normal">¬</mi><mi>p</mi><mo>∨</mo><mi mathvariant="normal">¬</mi><mi>q</mi><mo stretchy="false">)</mo><mo>;</mo><mo stretchy="false">(</mo><mi>p</mi><mo accent="false" stretchy="false">→</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mi>p</mi><mo>;</mo></math></mjx-assistive-mml></mjx-container><script type="math/tex"> \lnot ( \lnot p \land \lnot q);  \lnot (\lnot p \lor \lnot q); (p \to q) \land p; </script></li></ol><p><span>b) Individua tra le proposizioni seguenti le tatutologie e le contraddizioni.</span></p><ol start='' ><li><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="12.745ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 5633.1 1000" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.566ex;"><defs><path id="MJX-1781-TEX-I-1D45D" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path id="MJX-1781-TEX-N-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path id="MJX-1781-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path id="MJX-1781-TEX-I-1D45E" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path id="MJX-1781-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path id="MJX-1781-TEX-N-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><use data-c="1D45D" xlink:href="#MJX-1781-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(780.8,0)"><use data-c="2192" xlink:href="#MJX-1781-TEX-N-2192"></use></g><g data-mml-node="mo" transform="translate(2058.6,0)"><use data-c="28" xlink:href="#MJX-1781-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(2447.6,0)"><use data-c="1D45E" xlink:href="#MJX-1781-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(3185.3,0)"><use data-c="2192" xlink:href="#MJX-1781-TEX-N-2192"></use></g><g data-mml-node="mi" transform="translate(4463.1,0)"><use data-c="1D45D" xlink:href="#MJX-1781-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(4966.1,0)"><use data-c="29" xlink:href="#MJX-1781-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(5355.1,0)"><use data-c="3B" xlink:href="#MJX-1781-TEX-N-3B"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mo accent="false" stretchy="false">→</mo><mo stretchy="false">(</mo><mi>q</mi><mo accent="false" stretchy="false">→</mo><mi>p</mi><mo stretchy="false">)</mo><mo>;</mo></math></mjx-assistive-mml></mjx-container><script type="math/tex">p \to ( q \to p);</script><span>  </span></li><li><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="13.249ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 5856 1000" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.566ex;"><defs><path id="MJX-1782-TEX-I-1D45D" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path id="MJX-1782-TEX-N-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path id="MJX-1782-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path id="MJX-1782-TEX-N-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path id="MJX-1782-TEX-N-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path id="MJX-1782-TEX-I-1D45E" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path id="MJX-1782-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path id="MJX-1782-TEX-N-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><use data-c="1D45D" xlink:href="#MJX-1782-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(780.8,0)"><use data-c="2192" xlink:href="#MJX-1782-TEX-N-2192"></use></g><g data-mml-node="mo" transform="translate(2058.6,0)"><use data-c="28" xlink:href="#MJX-1782-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(2447.6,0)"><use data-c="AC" xlink:href="#MJX-1782-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(3114.6,0)"><use data-c="1D45D" xlink:href="#MJX-1782-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(3839.8,0)"><use data-c="2228" xlink:href="#MJX-1782-TEX-N-2228"></use></g><g data-mml-node="mi" transform="translate(4729,0)"><use data-c="1D45E" xlink:href="#MJX-1782-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(5189,0)"><use data-c="29" xlink:href="#MJX-1782-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(5578,0)"><use data-c="3B" xlink:href="#MJX-1782-TEX-N-3B"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mo accent="false" stretchy="false">→</mo><mo stretchy="false">(</mo><mi mathvariant="normal">¬</mi><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mo>;</mo></math></mjx-assistive-mml></mjx-container><script type="math/tex">p \to (\lnot p \lor q);</script><span>  </span></li><li><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="8.438ex" height="1.792ex" role="img" focusable="false" viewBox="0 -598 3729.4 792" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.439ex;"><defs><path id="MJX-1783-TEX-I-1D45D" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path id="MJX-1783-TEX-N-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path id="MJX-1783-TEX-N-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path id="MJX-1783-TEX-N-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><use data-c="1D45D" xlink:href="#MJX-1783-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(725.2,0)"><use data-c="2228" xlink:href="#MJX-1783-TEX-N-2228"></use></g><g data-mml-node="mi" transform="translate(1614.4,0)"><use data-c="AC" xlink:href="#MJX-1783-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(2281.4,0)"><use data-c="AC" xlink:href="#MJX-1783-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(2948.4,0)"><use data-c="1D45D" xlink:href="#MJX-1783-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(3451.4,0)"><use data-c="3B" xlink:href="#MJX-1783-TEX-N-3B"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mo>∨</mo><mi mathvariant="normal">¬</mi><mi mathvariant="normal">¬</mi><mi>p</mi><mo>;</mo></math></mjx-assistive-mml></mjx-container><script type="math/tex">p \lor \lnot \lnot p; </script><span>  </span></li><li><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="18.564ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 8205.4 1000" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.566ex;"><defs><path id="MJX-1784-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path id="MJX-1784-TEX-I-1D45D" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path id="MJX-1784-TEX-N-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path id="MJX-1784-TEX-I-1D45E" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path id="MJX-1784-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path id="MJX-1784-TEX-N-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path><path id="MJX-1784-TEX-N-AC" d="M56 323T56 336T70 356H596Q603 353 611 343V102Q598 89 591 89Q587 89 584 90T579 94T575 98T572 102L571 209V316H70Q56 323 56 336Z"></path><path id="MJX-1784-TEX-N-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path id="MJX-1784-TEX-N-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><use data-c="28" xlink:href="#MJX-1784-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(389,0)"><use data-c="1D45D" xlink:href="#MJX-1784-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(1169.8,0)"><use data-c="2192" xlink:href="#MJX-1784-TEX-N-2192"></use></g><g data-mml-node="mi" transform="translate(2447.6,0)"><use data-c="1D45E" xlink:href="#MJX-1784-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(2907.6,0)"><use data-c="29" xlink:href="#MJX-1784-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(3518.8,0)"><use data-c="2227" xlink:href="#MJX-1784-TEX-N-2227"></use></g><g data-mml-node="mo" transform="translate(4408,0)"><use data-c="28" xlink:href="#MJX-1784-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(4797,0)"><use data-c="AC" xlink:href="#MJX-1784-TEX-N-AC"></use></g><g data-mml-node="mi" transform="translate(5464,0)"><use data-c="1D45D" xlink:href="#MJX-1784-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(6189.2,0)"><use data-c="2228" xlink:href="#MJX-1784-TEX-N-2228"></use></g><g data-mml-node="mi" transform="translate(7078.4,0)"><use data-c="1D45E" xlink:href="#MJX-1784-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(7538.4,0)"><use data-c="29" xlink:href="#MJX-1784-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(7927.4,0)"><use data-c="3B" xlink:href="#MJX-1784-TEX-N-3B"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mi>p</mi><mo accent="false" stretchy="false">→</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mo stretchy="false">(</mo><mi mathvariant="normal">¬</mi><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mo>;</mo></math></mjx-assistive-mml></mjx-container><script type="math/tex">(p \to q) \land (\lnot p \lor q);</script><span>  </span></li><li><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="16.051ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 7094.3 1000" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.566ex;"><defs><path id="MJX-1785-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path id="MJX-1785-TEX-I-1D45D" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path id="MJX-1785-TEX-N-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path><path id="MJX-1785-TEX-I-1D45E" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path id="MJX-1785-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path id="MJX-1785-TEX-N-2228" d="M55 580Q56 587 61 592T75 598Q86 598 96 580L333 48L570 580Q579 596 586 597Q588 598 591 598Q609 598 611 580Q611 574 546 426T415 132T348 -15Q343 -22 333 -22T318 -15Q317 -14 252 131T121 425T55 580Z"></path><path id="MJX-1785-TEX-N-3B" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 85 94 103T137 121Q202 121 202 8Q202 -44 183 -94T144 -169T118 -194Q115 -194 106 -186T95 -174Q94 -171 107 -155T137 -107T160 -38Q161 -32 162 -22T165 -4T165 4Q165 5 161 4T142 0Q110 0 94 18T78 60Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><use data-c="28" xlink:href="#MJX-1785-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(389,0)"><use data-c="1D45D" xlink:href="#MJX-1785-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(1114.2,0)"><use data-c="2227" xlink:href="#MJX-1785-TEX-N-2227"></use></g><g data-mml-node="mi" transform="translate(2003.4,0)"><use data-c="1D45E" xlink:href="#MJX-1785-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(2463.4,0)"><use data-c="29" xlink:href="#MJX-1785-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(3074.7,0)"><use data-c="2227" xlink:href="#MJX-1785-TEX-N-2227"></use></g><g data-mml-node="mo" transform="translate(3963.9,0)"><use data-c="28" xlink:href="#MJX-1785-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(4352.9,0)"><use data-c="1D45D" xlink:href="#MJX-1785-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(5078.1,0)"><use data-c="2228" xlink:href="#MJX-1785-TEX-N-2228"></use></g><g data-mml-node="mi" transform="translate(5967.3,0)"><use data-c="1D45E" xlink:href="#MJX-1785-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(6427.3,0)"><use data-c="29" xlink:href="#MJX-1785-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(6816.3,0)"><use data-c="3B" xlink:href="#MJX-1785-TEX-N-3B"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mo>;</mo></math></mjx-assistive-mml></mjx-container><script type="math/tex">(p \land q) \land (p \lor q);</script><span>  </span></li><li><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="16.551ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 7315.6 1000" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.566ex;"><defs><path id="MJX-1786-TEX-N-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path id="MJX-1786-TEX-I-1D45D" d="M23 287Q24 290 25 295T30 317T40 348T55 381T75 411T101 433T134 442Q209 442 230 378L240 387Q302 442 358 442Q423 442 460 395T497 281Q497 173 421 82T249 -10Q227 -10 210 -4Q199 1 187 11T168 28L161 36Q160 35 139 -51T118 -138Q118 -144 126 -145T163 -148H188Q194 -155 194 -157T191 -175Q188 -187 185 -190T172 -194Q170 -194 161 -194T127 -193T65 -192Q-5 -192 -24 -194H-32Q-39 -187 -39 -183Q-37 -156 -26 -148H-6Q28 -147 33 -136Q36 -130 94 103T155 350Q156 355 156 364Q156 405 131 405Q109 405 94 377T71 316T59 280Q57 278 43 278H29Q23 284 23 287ZM178 102Q200 26 252 26Q282 26 310 49T356 107Q374 141 392 215T411 325V331Q411 405 350 405Q339 405 328 402T306 393T286 380T269 365T254 350T243 336T235 326L232 322Q232 321 229 308T218 264T204 212Q178 106 178 102Z"></path><path id="MJX-1786-TEX-N-2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path><path id="MJX-1786-TEX-I-1D45E" d="M33 157Q33 258 109 349T280 441Q340 441 372 389Q373 390 377 395T388 406T404 418Q438 442 450 442Q454 442 457 439T460 434Q460 425 391 149Q320 -135 320 -139Q320 -147 365 -148H390Q396 -156 396 -157T393 -175Q389 -188 383 -194H370Q339 -192 262 -192Q234 -192 211 -192T174 -192T157 -193Q143 -193 143 -185Q143 -182 145 -170Q149 -154 152 -151T172 -148Q220 -148 230 -141Q238 -136 258 -53T279 32Q279 33 272 29Q224 -10 172 -10Q117 -10 75 30T33 157ZM352 326Q329 405 277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q233 26 290 98L298 109L352 326Z"></path><path id="MJX-1786-TEX-N-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path id="MJX-1786-TEX-N-2227" d="M318 591Q325 598 333 598Q344 598 348 591Q349 590 414 445T545 151T611 -4Q609 -22 591 -22Q588 -22 586 -21T581 -20T577 -17T575 -13T572 -9T570 -4L333 528L96 -4Q87 -20 80 -21Q78 -22 75 -22Q57 -22 55 -4Q55 2 120 150T251 444T318 591Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><use data-c="28" xlink:href="#MJX-1786-TEX-N-28"></use></g><g data-mml-node="mi" transform="translate(389,0)"><use data-c="1D45D" xlink:href="#MJX-1786-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(1169.8,0)"><use data-c="2192" xlink:href="#MJX-1786-TEX-N-2192"></use></g><g data-mml-node="mi" transform="translate(2447.6,0)"><use data-c="1D45E" xlink:href="#MJX-1786-TEX-I-1D45E"></use></g><g data-mml-node="mo" transform="translate(2907.6,0)"><use data-c="29" xlink:href="#MJX-1786-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(3518.8,0)"><use data-c="2227" xlink:href="#MJX-1786-TEX-N-2227"></use></g><g data-mml-node="mi" transform="translate(4408,0)"><use data-c="1D45D" xlink:href="#MJX-1786-TEX-I-1D45D"></use></g><g data-mml-node="mo" transform="translate(4911,0)"><use data-c="29" xlink:href="#MJX-1786-TEX-N-29"></use></g><g data-mml-node="mo" transform="translate(5577.8,0)"><use data-c="2192" xlink:href="#MJX-1786-TEX-N-2192"></use></g><g data-mml-node="mi" transform="translate(6855.6,0)"><use data-c="1D45E" xlink:href="#MJX-1786-TEX-I-1D45E"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mi>p</mi><mo accent="false" stretchy="false">→</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mi>p</mi><mo stretchy="false">)</mo><mo accent="false" stretchy="false">→</mo><mi>q</mi></math></mjx-assistive-mml></mjx-container><script type="math/tex">(p \to q) \land p) \to q</script></li></ol><h4 id='laboratorio'><span>Laboratorio</span></h4><p><span>a) Risolvere il punto a.1) dell&#39;esercizio utilizzando come esempio la sequenza di comandi riportata di seguito.</span></p><ol><li><span>Andare sul sito </span><a href='https://logictools.org/prop.html' target='_blank' class='url'>https://logictools.org/prop.html</a></li><li><span>Inserire nella casella di testo la formula </span><strong><span>-p -&gt; q</span></strong></li><li><span>Premere il pulsante </span><strong><span>Build</span></strong></li></ol><p>&nbsp;</p><h3 id='esercizio-6---forme-di-ragionamento'><span>ESERCIZIO 6 - Forme di ragionamento</span></h3><p><span>a) Individuando premesse e conclusione, tradurre nel linguaggio della logica proposizionale gli enunciati delle seguenti argomentazioni.</span></p><ol start='' ><li><span>Se la squadra A segna una rete e la squadra B non segna allora A vince lo scudetto. Segnano entrambe le squadre, quindi A non vince lo scudetto.  </span></li><li><span>Se piove non esco di casa. Piove o tira vento. Esco di casa. Quindi tira vento.  </span></li><li><span>Arturo rimane in casa se e solo se la televisione trasmette un film comico. La televisione trasmette un film comico e Arturo si diverte, quindi Arturo si diverte.  </span></li><li><span>Se la pioggia cade copiosa allora il raccolto è abbondante. Se il concime è appropriato,   allora il raccolto è abbondante. Se la pioggia cade copiosa allora il concime è appropriato.  </span></li><li><span>Se Carlo ha vinto la gara, allora, se Mario è arrivato secondo, allora Sergio è arrivato terzo. Mario non è arrivato secondo. Quindi, o Carlo ha vinto o Sergio è arrivato terzo.  </span></li><li><span>Se giochi e studi supererai gli esami, ma se giochi e non studi non supererai gli esami. Pertanto, se giochi, allora o studi e supererai gli esami o non studi e non supererai gli esami.  </span></li><li><span>Il Parma vince il campionato oppure il Chievo retrocede. D’altra parte, non si dà il caso che, se il Parma vince il campionato, allora il Chievo non retrocede. Inoltre, il Chievo non retrocede e il Sassuolo si qualifica in Europa League. Dunque, il Sassuolo non si qualifica in Europa League.</span><br/><span>(Indicare con: p: &quot;Il Parma vince il campionato&quot;, c: &quot;Il Chievo retrocede&quot;, s: &quot;Il Sassuolo si qualifica in Europa League&quot;).</span></li></ol><p><span>b) Analizzare la validità dei ragionamenti del punto a).</span></p></div></div>
 </body>
 </html>

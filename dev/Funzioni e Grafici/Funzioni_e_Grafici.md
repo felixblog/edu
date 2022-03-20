@@ -35,7 +35,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 1. $d = \{0, 1, -1, 2, -2\}$ &#9166; 
-2. $Compatta( \{k,k^2+1\}, k, d )$ &#9166; . 
+2. $Compatta( (k,k^2+1), k, d )$ &#9166; . 
 
 c) Risolvi il punto c) dell'esercizio modificando la funzione nel comando del punto b) del laboratorio.
 
@@ -82,7 +82,7 @@ a) Risolvi i punti a), b) e d) dell'esercizio con i seguenti comandi GEOGEBRA, c
 
 1. $f(x) := x$ &#9166; 
 2. $d = \{0, 1, -1, 2, -2\}$ &#9166; 
-3. $Compatta( \{x,f(x)\}, x, d )$ &#9166;
+3. $Compatta( (x,f(x)), x, d )$ &#9166;
 
 b) In riferimento all'esercizio "STAMPA LIBRI DI TESTO":
 
@@ -116,14 +116,14 @@ c) y = -2|x|
 
 a) Risolvi il punto a) dell'esercizio con i seguenti comandi GEOGEBRA:
 
-1. $\{\{0, abs(0)\}, \{1, abs(1)\}, \{-1, abs(-1)\}, \{2, abs(2)\}, \{-2, abs(-2)\}\}$.
+1. $\{(0, abs(0)), (1, abs(1)), (-1, abs(-1)), (2, abs(2)), (-2, abs(-2))\}$.
 2. $\{(0, abs(0)), (1, abs(1)), (-1, abs(-1)), (2, abs(2)), (-2, abs(-2))\}$
 
 b) Risolvi il punto b) dell'esercizio con la seguente sequenza di comandi GEOGEBRA:
 
 1. $f(x) := 1 + abs(x)$ &#9166; 
 2. $d = \{0, 1, -1, 2, -2\}$ &#9166; 
-3. $Compatta( \{x,f(x)\}, x, d )$ &#9166;
+3. $Compatta( (x,f(x)), x, d )$ &#9166;
 4. $Compatta((x,f(x)), x, d )$ &#9166;
 
 
@@ -164,7 +164,7 @@ a) Risolvi il punto a) dell'esercizio con la seguente sequenza di comandi GEOGEB
 
 1. $f(n) := Se(n<0, 1, 3n+1)$
 2. $d = \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$ &#9166; 
-3. $t_a = Compatta( \{k,f(k)\}, k, d )$ &#9166;
+3. $t_a = Compatta( (k,f(k)), k, d )$ &#9166;
 
 b) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $f(x) := Se(n<=-1, -x-1, Se(-1<x<=1, 0, x-1))$
 
@@ -172,7 +172,7 @@ c) Risolvi il punto c) dell'esercizio con la sequenza seguente di comandi GEOGEB
 
 1. $c(x) := Se(1000<=x<10000, 50x, Se(10001<=x<20000, 40x, Se(20001<=x<50000, 35x)))$
 2. $d = \{2000, 5500, 7000, 23000, 45000\}$ &#9166; 
-3. $t_c = Compatta( \{x,c(x)\}, k, d )$ &#9166;
+3. $t_c = Compatta( (x,c(x)), k, d )$ &#9166;
 
 
 

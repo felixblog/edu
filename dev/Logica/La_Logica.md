@@ -26,6 +26,8 @@ b) Attribuisci il valore di verità alle seguenti proposizioni:
 6. "L’uguaglianza 2x = 0 non è mai verificata in N".
 
 
+
+
 ### ESERCIZIO 2 - Proposizioni semplici e composte
 a) Nelle seguenti proposizioni composte indica quali sono le proposizioni elementari e quali i connettivi che le legano.
 1. «Il gatto è un mammifero e il topo è un roditore»;  
@@ -54,6 +56,8 @@ c) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 6. "Oggi è bello <u>e quindi</u> vado in barca";  
 7. "Carlo gioca <u>a meno che</u> piova";  
 8. "<u>A meno che</u> Carlo intervenga, lo scontro è inevitabile".
+
+
 
 
 ### ESERCIZIO 3 - Connettivi proposizionali
@@ -114,6 +118,8 @@ f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 8. "A meno che Carlo intervenga, lo scontro è inevitabile".
 
 
+
+
 ### ESERCIZIO 4 - Forme Simboliche
 a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  
 A = “Aldo ha superato l’esame”, B = “Bruno ha superato l’esame”, C = “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
@@ -138,6 +144,8 @@ b) Posto: A = "Carlo è ligure" e B = "Diego è piemontese", scrivere in forma s
 10. "O Carlo è ligure e Diego è piemontese, o né Carlo è ligure, né Diego è piemontese".
 
 
+
+
 ### ESERCIZIO 5 - Tabelle di verità, tautologie e contraddizioni
 a) Costruisci le tabelle di verità delle proposizioni seguenti.
 1. $ \lnot p \to q;  \lnot q \to \lnot p; p \lor (p \land q); $  
@@ -150,6 +158,16 @@ b) Individua tra le proposizioni seguenti le tatutologie e le contraddizioni.
 4. $(p \to q) \land (\lnot p \lor q);$  
 5. $(p \land q) \land (p \lor q);$  
 6. $(p \to q) \land p) \to q$
+
+#### Laboratorio
+
+a) Risolvere il punto a.1) dell'esercizio utilizzando come esempio la sequenza di comandi riportata di seguito.
+
+1. Andare sul sito https://logictools.org/prop.html
+2. Inserire nella casella di testo la formula **-p -> q**
+3. Premere il pulsante **Build**
+
+
 
 ### ESERCIZIO 6 - Forme di ragionamento
 
