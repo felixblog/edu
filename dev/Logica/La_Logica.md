@@ -122,7 +122,8 @@ f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 
 ### ESERCIZIO 4 - Forme Simboliche
 a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  
-A = “Aldo ha superato l’esame”, B = “Bruno ha superato l’esame”, C = “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
+a = “Aldo ha superato l’esame”, b = “Bruno ha superato l’esame”, c = “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
+
 1. "Solo Carlo ha superato l’esame";  
 2. "Solo Aldo non ha superato l’esame";  
 3. "Solo uno tra Aldo, Bruno e Carlo ha superato l’esame";  
@@ -131,7 +132,7 @@ A = “Aldo ha superato l’esame”, B = “Bruno ha superato l’esame”, C =
 6. "Al più due tra Aldo, Bruno e Carlo hanno superato l’esame";  
 7. "Esattamente due tra Aldo, Bruno e Carlo hanno superato l’esame".
 
-b) Posto: A = "Carlo è ligure" e B = "Diego è piemontese", scrivere in forma simbolica le seguenti proposizioni composte:
+b) Posto: c = "Carlo è ligure" e d = "Diego è piemontese", scrivere in forma simbolica le seguenti proposizioni composte:
 1. "Carlo non è ligure”  
 2. "Carlo è ligure e Diego è piemontese";  
 3. "Carlo è ligure sebbene Diego sia piemontese";  
@@ -161,10 +162,16 @@ b) Individua tra le proposizioni seguenti le tatutologie e le contraddizioni.
 
 #### Laboratorio
 
-a) Risolvere il punto a.1) dell'esercizio utilizzando come esempio la sequenza di comandi riportata di seguito.
+a) Trovare la tabella di verità della prima formula del punto a.1) dell'esercizio utilizzando la sequenza di comandi riportata di seguito.
 
 1. Andare sul sito https://logictools.org/prop.html
 2. Inserire nella casella di testo la formula **-p -> q**
+3. Premere il pulsante **Build**
+
+b) Trovare la tabella di verità della prima formula del punto a.2) dell'esercizio utilizzando la sequenza di comandi riportata di seguito.
+
+1. Andare sul sito https://logictools.org/prop.html
+2. Inserire nella casella di testo la formula **-( -p & -q )**
 3. Premere il pulsante **Build**
 
 
