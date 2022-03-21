@@ -103,6 +103,12 @@ c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 sogg
 |           19           |  6   |               1               |            2            |           1           |        59.000        |
 |           20           |  15  |               1               |            2            |           1           |        61.000        |
 
+#### Laboratorio
+
+Tutti i dati utili alle esercitazioni di laboratorio sono contenuti nel file in formato Excel scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Frequenze.xlsx).
+
+a) Risolvi il punto a.1) dell'esercizio importando il file di dati un foglio elettronico e creando una tabella di frequenze con una tabella PIVOT.
+
 
 
 ### ESERCIZIO 3 - Serie e Tabelle Statistiche
@@ -312,19 +318,25 @@ c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segu
 
 1. Determinare la media, la varianza, e la mediana.
 
+d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano presenti in Italia 5Ml di immigrati).
 
+![image-20220321092010266](C:\Users\felice\AppData\Roaming\Typora\typora-user-images\image-20220321092010266.png)
+
+1. Quale è la moda è la media?
+2. Se nel mondo sono presenti 218 nazionalità, quale è la percentuale che in media ha ogni altra nazionalità non rappresentata nel grafico?  
 
 ### ESERCIZIO 7 - Indicatori Statistici - Composizione
 
 a) ....
 
+![image-20220321091458049](C:\Users\felice\AppData\Roaming\Typora\typora-user-images\image-20220321091458049.png)
+
 
 
 ### ESERCIZIO 8 - Indicatori Statistici - Derivazione
 
-..........
-
-a) ...
+1. 
+2. 
 
 
 
@@ -348,5 +360,8 @@ a) ...
 
 ....
 
-a) ... 
+a) Leggi con attenzione il brano seguente e rispondi alle domande.![image-20220321090017281](C:\Users\felice\AppData\Roaming\Typora\typora-user-images\image-20220321090017281.png)
 
+1. Di tutti i dati contenuti nel brano, quali sono sono tassi?
+2. Quante tonnellate di spazzatura produce nel 2025 una capitale di 5 milioni di abitanti?
+3. Disegna un grafico cartesiano della crescita dei Kg di spazzatura prodotti in base ai dati contenuti nel testo. 
