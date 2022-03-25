@@ -152,9 +152,46 @@ d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 21
 
 
 
+### ESERCIZIO 8 - Disequazioni
+
+a) Nei casi riportati di seguito, determina quali tra i valori indicati nell'insieme è soluzione della disequazione associata.
+
+1. $\{0, 1, -1\}: x-2<6;$   $\{0, 3\}: 2x-1<3$;
+2. $\{0, 5, 7\}: 3(x-5) - 6 < 0$;   $\{0, 5, 7\}: 5x - (6-x) \ge 0$;
+
+b) Scrivi la disequazione corrispondente alle frasi riportate di seguito.
+
+1. Insieme dei numeri minori o uguali ad 1; Insieme dei numeri non maggiori di 2;
+2. Insieme dei numeri il cui doppio è minore di 3; Insieme dei numeri non maggiori di $-\dfrac{4}{13}$.
 
 
 
+### ESERCIZIO 9 - Intervalli
+
+a) In ciascuno dei casi riportati di seguito determina se il numero indicato appartiene all'intervallo associato.
+
+1. $2\in [0; 3]$;   $\dfrac{1}{3} \in (-2; 2]$;   $2, \in [0; 3]$;   $\dfrac{2}{5}, \in (\dfrac{2}{5}; 1)$;   
+2. $-1, \in [-3; -2]$;   $-4, \in [-4; 0)$;   $0, \in (0; 1]$.
+
+b) Rappresenta graficamente su una retta gli intervalli riportati di seguito.
+
+1. $(0;1)$;   $[-1;1]$;   $(1;+\infty)$;   $(-\infty;5)$;   $(0;1)$;   
+2. $[-1;0)$;   $[-3;+\infty)$;   $(-\infty; +\infty)$;   $(2;\dfrac{33}{5}])$;   $[\dfrac{1}{2};3)$.
+3. $(-1;3) \cap (-2;0)$;   $(-1;3) \cup (-2;0)$;
+4. $(1;5) \cap (5;7)$;   $(1;5) \cup (5;7)$;
+5. $(3;+\infty) \cap [3;7]$;   $(3;+\infty) \cup [3;7]$;
+6. $[0;\dfrac{3}{2}) \cap (-\dfrac{4}{5};0]$;   $[0;\dfrac{3}{2}) \cup (-\dfrac{4}{5};0]$.
+
+c) Per ciascuno dei casi seguenti, scrivi la disequazione o il sistema di disequazioni che ha come soluzioni l'intervallo indicato.
+
+1.  $(-\infty;-5)$;   $[1;+\infty)$;   $(1;+\infty)$;   $(-\infty;-\dfrac{50}{11})$;   $(-3;+\infty)$;
+2. $[0; 3]$;   $(-2; 2]$;   $(2; \dfrac{33}{5}]$;   $(\dfrac{2}{5}; 1)$;   
 
 
 
+### ESERCIZIO 9 - Soluzione di Disequazioni
+
+a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli o unione di intervalli.
+
+1. $x-1\ge 2$;   $7x-1\ge 2$;   $-x-1\le 2$;   $\dfrac{x}{5}-1\ge 2$;
+2. $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;   $2x-5\lt 3+2x$;   $2(x+1) - 5x\ge 3x + 4(x+1)$.

@@ -78,7 +78,7 @@ b) Una persona prende in prestito 20.000 euro al tasso annuo del12% e le investe
 
 ### ESERCIZIO 7 - Interesse composto: valore attuale I
 
-Calcolare il valore attuale con sconto composto dei seguenti capitali alle condizioni indicate: 
+Calcolare il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate: 
 
 a) 1.200 euro per 5 anni al tasso del 7% annuo; 
 

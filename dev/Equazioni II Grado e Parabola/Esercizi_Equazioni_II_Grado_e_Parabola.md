@@ -1,115 +1,132 @@
 
 # Esercizi su Equazioni di II Grado e Parabola
 
-### ESERCIZIO 1 - Verifica della Soluzione
+### ESERCIZIO 1 - I Radicali
 
-Individua quale dei numeri dell'insieme S indicato è soluzione dell'equazione.
+a) Usando la calcolatrice, trova il valore decimale, fino alla quarta cifra, dei radicali riportati di seguito. Fai una prova della correttezza del calcolo dopo aver trovato il numero.
 
-a) $6,\enspace x + 12 = 28;$  
+1. $\sqrt[2]{4}$;   $\sqrt[2]{81}$;   $\sqrt[3]{125}$;   $\sqrt[2]{2}$;   $\sqrt[3]{2}$;
+2. $\sqrt[2]{\dfrac{1}{2}}$;   $\sqrt[2]{\dfrac{3}{4}}$;   $\sqrt[3]{12.345}$;
 
-b) $110,\enspace x - 50 = 60;$  
+b) Calcola $\sqrt[n]{x}$ in ciascuno dei casi seguenti:  $n=2, x=1$;   $n=3, x=8$;   $n=4, x=16$; 
 
-c) $-8,\enspace 2b + 3 = -15;$ 
+c) Stabilisci quali delle relazioni seguenti sono vere.
 
-e) $-2,\enspace 5t - 3 = -16;$    
-
-f) $5,\enspace 0.5x = 2.9$ 
-
-g) $-6,\enspace 33 - \dfrac{x}{2} = 30$  
-
-h) $5,\enspace 0.5x = 2.9$
-
-i) $1,\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$
-
-l) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
+1. $\sqrt[2]{4}+2=0$;  $\sqrt[25]{4}-5=0$;  $\sqrt[4]{2}-\sqrt[2]{2}=0$; 
+2. $\sqrt[2]{25}=\sqrt[2]{36}-1$;  $\sqrt[5]{1}-1=0$.
 
 
 
-### ESERCIZIO 2 - Soluzione delle equazioni
+### ESERCIZIO 2 - Operazioni e Semplificazioni di Radicali
 
-Risolvi le equazioni seguenti.
+a) Scrivi ciascuno dei radicali seguenti in forma di potenza.
 
-a) $9 = p - 9;$
+1. ffff
+2. gggg
 
-b) $y - 1.2 = -1.3;$
+b) Calcola il valore delle seguenti potenze
 
-c) $\dfrac{7}{15} = b - \dfrac{1}{15};$
+pag. 231
 
-d) $\dfrac{x}{15} = 3;$
+c) Semplifica le seguenti espressioni scrivendo gli esponenziali come potenze, scomponendo la base in fattori ed applicando le proprietà delle potenze.
 
-e) $0 = \dfrac{v}{11};$
-
-f) $\dfrac{c}{-2} = -11;$
-
-g) $9.4 + h = 0.81;$
-
-h) $\dfrac{3}{2}c = 10;$
-
-i) $-\dfrac{5}{4}h = -5;$
+1. $\sqrt[2]{100}$;  $\sqrt[4]{4}$;  $\sqrt[4]{64}$;  $\sqrt[5]{32}$
+2.  $\sqrt[2]{8}=\sqrt[6]{2^9}$;  $\sqrt[5]{1}-1=0$  
 
 
 
-### ESERCIZIO 3 - Risoluzione di equazioni
+### ESERCIZIO 3 - Forma Normale delle Equazioni
 
-Risolvi le seguenti equazioni scrivendo a fianco di ogni passaggio la proprietà dell'uguaglianza utilizzata.
+a) Scrivi le equazioni seguenti in forma normale ed individua i valori di a, b e c nel caso siano di secondo grado.
 
-a) $2x + 5 = 17;\enspace 5q - 2 = 23$   
-
-b) $-55 = 3w + 5;\enspace \dfrac{5}{6}k - 5 = 10$   
-
-c) $\dfrac{x}{5} - 5 = -12;\enspace -5 - 2d = 0​$   
-
-d) $0.7 - 4y = 1.7;\enspace 0.3 - 2x = -0.9$  
-
-e) $3\left(2y - 2\right) - y = 5;\enspace -\left(4 -m\right) = -10$   
-
-f) $5x = 4x + 7;\enspace 7 + 3w = 4 + 9w​$   
-
-g) $\dfrac{1}{8}y - \dfrac{1}{2} = \dfrac{1}{4};\enspace \dfrac{2}{3} = -\dfrac{2}{3}x + \dfrac{3}{4}$   
-
-h) $\dfrac{10 - 5s}{3}y = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1​$   
-
-i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
-
-
-### ESERCIZIO 4 - Soluzione di formule
-
-Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
-
-a) $r = c + m ~~~ per ~~ c;\enspace\enspace\enspace a + b + c = 180 ~~~ per ~~ a$
-
-b) $E = I\cdotp R ~~~ per ~~ R \enspace\enspace\enspace I = C\cdotp i\cdotp t ~~~ per ~~ i$
-
-c) $3x + y = 9 ~~~ per ~~ y \enspace\enspace\enspace 5y - x = 25 ~~~ per ~~ y$
-
-d) $-x + 3y = 9 ~~~ per ~~ y;\enspace\enspace\enspace \dfrac{7}{8}c + w = 9 ~~~ per ~~ c$
+1. $3x^2-2 = x;$  
+2. $4-x^2 = 2;$  
+3. $1-x=x$
+4. $(x-3)(x-3)=0$
+5. $x(x-6)=0$
 
 
 
-### ESERCIZIO 5 - Applicazione di formule
+### ESERCIZIO 4 - Soluzioni delle Equazioni di II Grado
 
-Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico. 
+a) Trova le soluzioni, se esistono, delle equazioni seguenti.
 
-a) Nel 2006 il film Titanic ha avuto un incasso mondiale di 1835 milioni di dollari con un profitto di 1595 milioni. Quanto è costato il film?
+1. $2x^2 + x = 0$;   $\dfrac{x^2}{4} - 81 = 0$;   $x^2 -5 = 0$;
 
-b) Trova il profitto di un fioraio che nel giorno di San Valentino compra una dozzina di rose a 12.95 euro e le rivende a 47.50.  
+2. $3x^2 - 12x + 9 = 0$;   $4x^2 + 12x + 9 = 0$;   $x^2 + x + 1 = 0$;
+3. Equazioni dei punti 3, 4 e 5 dell'esercizio precedente.
+4. $3(x-x^2)-\dfrac{4}{3} = \dfrac{1}{2}x - 1$;   $\dfrac{x+4}{5}+\dfrac{33}{10}=(2+x)(2-x)$;   $\dfrac{4}{3}x(12-x)=45$.
 
-c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà a percorrere 166 Km?  
+b) Scrivi l'equazione, calcola il valore del discriminante e trova le soluzioni nei casi in cui i coefficienti della forma normale a, b, c abbiano i valori riportati di seguito:
 
-d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 2100 Km quale è la velocità media dell'aereo?
+1. $a=2, b=8, c=1$;   $a=3, b=-1, c=2$;   $a=\sqrt[2]{2}, b=\sqrt[2]{50}, c=\sqrt[2]{72}$;
+2. $a=2, b=8, c=10$;   $a=0, b=-1, c=2$.
 
 
 
-### ESERCIZIO 6 - Scrittura di equazioni
+### ESERCIZIO 5 - Caratteristiche della Parabola
 
-Scrivi le equazioni con le caratteristiche richieste da ciascuno degli punti seguenti:
+Vertice, intersezione con gli assi, convessità, asse di simmetria.
 
-a) ha come (unica) soluzione il numero -3; ha come soluzione un numero che ha il doppio uguale a 6;
+a) Determina tre punti delle parabole seguenti:
 
-b) ha come soluzione il numero -3 e ha l'incognita in entrambi i membri;
+1. $y=25x^2$;   $y=-10x^2$;   $y=-\dfrac{1}{8}x^2$;
+2. $y = x^2$;   $y = -x^2$;   $y = 2x^2$;   $y = -2x^2$;   $y = 4x^2$;   $y = -4x^2$; 
+3. $y=\dfrac{1}{4}x^2-9$;   $y=-\dfrac{5}{2}x^2-5x$;   $y=x^2+x+1$;
 
-c) ha come soluzione il numero il cui doppio meno 5 è uguale al numero stesso;
+b) Determina l'intersezione con gli assi delle parabole seguenti.
 
-d) ha come soluzione il numero che sommato al suo successivo è uguale a 3;
+1. Parabole del punto a.2) dell'esercizio;
+2. Parabole del punto a.3) dell'esercizio.
 
-e) consiste nell'uguaglianza tra un numero ed il suo opposto.
+c) Vertice ed asse di simmetria delle parabole seguenti.
+
+1. Parabole del punto a.2) dell'esercizio;
+2. Parabole del punto a.3) dell'esercizio.
+
+
+
+
+### ESERCIZIO 6 - Problemi sulla Parabola
+
+a) Scrivi l'equazione della parabola che passa per tre punti nei casi riportati di seguito e fanne un grafico approssimativo.
+
+1. $A(0;0), B(-1;1), C(1;1)$;
+2. $A(-2;9), B(0;3), C(1;4)$;
+3. $A(1;\dfrac{11}{2}), B(2;8), C(\dfrac{3}{2};\dfrac{13}{2})$;
+
+b) Scrivi l'equazione della parabola che passa per il vertice ed un altro punto nei casi riportati di seguito.
+
+1. $V(0;1), P(1;0)$
+2. $V(0;2), P(1,6)$
+
+
+
+### ESERCIZIO 7 - Parabola ed Equazione di II Grado
+
+a) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
+
+1. $x^2-x$;   $-x^2-x$;   $x^2-4$; 
+2. I polinomi che definiscono le parabole dell'esercizio 5, punto a.3).
+
+
+
+### ESERCIZIO 8 - Retta e Parabola
+
+a) Risolvi i seguenti sistemi Retta-Parabola e rappresenta graficamente le due curve
+
+1. $$\left\{  
+   \begin{array}{c} 
+   y=x^2 \\  
+   y=x \\   
+   \end{array} 
+   \right.$$
+2. $$\left\{  
+   \begin{array}{c} 
+   y = -x^2+5x \\  
+   y - 3x =0 \\   
+   \end{array} 
+   \right.$$
+
+
+

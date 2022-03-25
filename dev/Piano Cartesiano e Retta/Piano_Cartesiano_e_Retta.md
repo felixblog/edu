@@ -197,3 +197,7 @@ c) L'agenzia di noleggio auto EZ ha un costo che prevede, per il noleggio di aut
 
 1. Scrivi la formula che calcola il costo di noleggio.
 2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Il noleggio conviene di più con EZ oppure A-OK? 
+
+#### Laboratorio
+
+Disegna le curve dei costi dei punti a) b) e c) e rileva le caratteristiche delle curve che conducono alle decisioni ottimali.
