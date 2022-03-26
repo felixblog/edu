@@ -19,14 +19,15 @@ c) Stabilisci quali delle relazioni seguenti sono vere.
 
 ### ESERCIZIO 2 - Operazioni e Semplificazioni di Radicali
 
-a) Scrivi ciascuno dei radicali seguenti in forma di potenza.
+a) Scrivi ciascuno dei radicali seguenti in forma di potenza, dopo aver eventualmente scomposto la base in fattori primi. 
 
-1. ffff
-2. gggg
+1. $\sqrt[2]{4}$;   $\sqrt[2]{81}$;   $\sqrt[3]{15}$;   $\sqrt[2]{7}$;   $\sqrt[4]{64}$;
+2. $\sqrt[6]{\dfrac{1}{8}}$;   $\sqrt[4]{2187}$;   $\sqrt[3]{\dfrac{4}{9}}$;
 
 b) Calcola il valore delle seguenti potenze
 
-pag. 231
+1. $9^{\frac{3}{2}}$;    $27^{\frac{2}{3}}$;    $1^{\frac{2}{3}}$;    
+2. $\left(\dfrac{1}{4}\right)^{\frac{3}{2}}$;    $\left(\dfrac{25}{9}\right)^{\frac{3}{2}}$;    $8^{-\frac{2}{3}}$;    $25^{-\frac{1}{2}}$;
 
 c) Semplifica le seguenti espressioni scrivendo gli esponenziali come potenze, scomponendo la base in fattori ed applicando le proprietà delle potenze.
 
