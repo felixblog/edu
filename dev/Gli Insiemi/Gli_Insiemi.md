@@ -66,7 +66,7 @@ b) Trova il numero degli elementi degli insiemi riportati di seguito.
 
 a) Risolvi il punto b.2 dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_B = {''Roma'', ''Latina'', ''Rieti'', ''Viterbo'', ''Frosinone''})$ &#9166; 
+1. $l_B: \{''Roma'', ''Latina'', ''Rieti'', ''Viterbo'', ''Frosinone''\}$ &#9166; 
 2. $ContaSe(true, l_B)$  &#9166;
 
 b) Utilizzando le istruzioni GEOGEBRA del punto precedente, risolvi il punto a) dell'esercizio.
