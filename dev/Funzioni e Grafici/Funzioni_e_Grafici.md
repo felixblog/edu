@@ -84,15 +84,6 @@ a) Risolvi i punti a), b) e d) dell'esercizio con i seguenti comandi GEOGEBRA, c
 2. $d = \{0, 1, -1, 2, -2\}$ &#9166; 
 3. $Compatta( (x,f(x)), x, d )$ &#9166;
 
-b) In riferimento all'esercizio "STAMPA LIBRI DI TESTO":
-
-1. Scrivere due espressioni algebriche (con la sola variabile x che indica il numero di copie) che calcolano il costo effettivo della stampa;
-2. Disegna il grafico della funzione ottenuta dalla espressione.
-
-a) In riferimento all'esercizio "QUOTA ISCRIZIONE":
-1. Scrivere una espressione algebrica (variabile x: Numero settimane di ritardo) che calcola il costo effettivo analogamente ai dati nella tabella del punto 3;  
-2. Disegnare il grafico della funzione ottenuta dalla espressione.
-
 
 
 ### ESERCIZIO 5 - La funzione lineare
@@ -217,7 +208,7 @@ a) Per ciascuno dei grafici seguenti individua:
 
 a) Individua i punti di massimo e minimo relativo delle funzioni dei punti a.1) ed a.5) dell'esercizio con i seguenti comandi GEOGEBRA:
 
-1. $Max(x^2, -1, 1)$ &#9166;
+1. $Max(x^2, -3, 3)$ &#9166;   $Min(x^2, -3, 3)$ &#9166;
 2. $Max((x-3)x^2, -1, 1)$  &#9166;    $Min((x-3)x^2, -1, 4)$ &#9166;  
 
 b) Analogamente al punto precedente, scrivi i comandi GEOGEBRA che individuano i punti di massimo e minimo relativo della funzione del punto a.6) dell'esercizio.
