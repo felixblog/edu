@@ -15,13 +15,23 @@ d) $-2,\enspace 5t - 3 = -16;$
 
 e) $5,\enspace 0.5x = 2.9$ 
 
-f) $-6,\enspace 33 - \dfrac{x}{2} = 30$  
+f) $6,\enspace 33 - \dfrac{x}{2} = 30$  
 
 g) $5,\enspace 0.5x = 2.9$
 
 h) $1,\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$
 
 i) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
+
+#### Laboratorio
+
+a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. $e1: x + 12 = 28$ &#9166; 
+2. $e2:Sostituisci(e, \{x=6\})$ &#9166; 
+3. $PrimoMembro(e2) == SecondoMembro(e2)$ &#9166;
+
+b) Risolvi i punti e) e f) dell'esercizio con sequenze di comandi GEOGEBRA analoghi a quelli del punto a). Ricorda di utilizzare altre etichette per indicare le equazioni ($e2, e3$ etc.).
 
 
 
@@ -71,6 +81,15 @@ h) $\dfrac{10 - 5s}{3} = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$
 
 i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
 
+#### Laboratorio
+
+a) Risolvi la prima equazione del punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. $e1: 2x + 5 = 17$ &#9166; 
+2. $Risolvi(e1, \{x\})$ &#9166; 
+
+b) Risolvi i punti c) ed i) dell'esercizio con sequenze di comandi GEOGEBRA analoghi a quelli del punto a). Ricorda di utilizzare altre etichette per indicare le equazioni ($e2, e3$, etc.).
+
 
 
 ### ESERCIZIO 4 - Scrittura di equazioni
@@ -101,7 +120,19 @@ a) Risolvi le seguenti equazioni considerando la lettera x come (unica) incognit
 
 4. $6x - 3(x + 2a) = a + 4(x - 2a) ;\enspace b(x - 2) + b + 1 = 0;\enspace \dfrac{-2}{3}(x - y) + 3y = -x + 4;$
 
-b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata e dimostrando che è la soluzione.
+b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata dimostrando che è la soluzione.
+
+#### Laboratorio
+
+a) Risolvi la prima equazione del punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. $e1: 2a -3x = 7a - 5x$ &#9166; 
+2. $s1: Risolvi(e1, \{x\})$ &#9166; 
+
+b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. $Sostituisci(e1, s1)$ &#9166; 
+2. Constata che il primo membro è uguale al secondo
 
 
 
@@ -127,14 +158,20 @@ a) Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'
 3. $\dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{scontato};$
 3. $\dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{listino} $;
 4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ C_{costo};$
-4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ q $;
-5. Dal punto 4., dimostra che la formula del mark-up si può scrivere $q =\dfrac{P_{vendita} - C_{costo}}{C_{costo}}$. 
+4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_{vendita} - C_{costo}}{C_{costo}}$). 
 
 b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
 1. $3x + y = 9, ~~~ incognita ~~ y; \enspace\enspace 5y - x = 25, ~~~ incognita ~~ y$
 
 2. $-x + 3y = 9. ~~~ incognita ~~ y; \enspace\enspace \dfrac{7}{8}c + w = 9, ~~~ incognita ~~ c$
+
+#### Laboratorio
+
+a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. $e6: (P_{listino} - P_{scontato})/P_{listino}= s$ &#9166; 
+2. $Risolvi(e6, \{P_{listino}\})$ &#9166; 
 
 
 
@@ -164,6 +201,13 @@ b) Scrivi la disequazione corrispondente alle frasi riportate di seguito.
 1. Insieme dei numeri minori o uguali ad 1; Insieme dei numeri non maggiori di 2;
 2. Insieme dei numeri il cui doppio è minore di 3; Insieme dei numeri non maggiori di $-\dfrac{4}{13}$.
 
+#### Laboratorio
+
+a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. $d1(x) := x - 2 < 6$ &#9166; 
+2. $\{d1(0), d1(1), d1(-1)\}$ &#9166;
+
 
 
 ### ESERCIZIO 9 - Intervalli
@@ -186,6 +230,21 @@ c) Per ciascuno dei casi seguenti, scrivi la disequazione o il sistema di disequ
 
 1.  $(-\infty;-5)$;   $[1;+\infty)$;   $(1;+\infty)$;   $(-\infty;-\dfrac{50}{11})$;   $(-3;+\infty)$;
 2. $[0; 3]$;   $(-2; 2]$;   $(2; \dfrac{33}{5}]$;   $(\dfrac{2}{5}; 1)$;   
+
+#### Laboratorio
+
+a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. $i1 : 0 <= x <= 3$ &#9166; 
+2. $i1(2)$ &#9166;
+
+b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($i2, i3$, etc.).
+
+c) Rappresenta graficamente il primo intervallo del punto b.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. Dal "Menu Principale" seleziona "Cambia Calcolatrice" / "Grafici";
+2.  $i1 : 0 \lt x \lt 1$ &#9166; 
+3. Dal menu della casella di input, seleziona "Impostazioni" e quindi dalla scheda "Stile" seleziona "Mostra sull'asse X".
 
 
 
