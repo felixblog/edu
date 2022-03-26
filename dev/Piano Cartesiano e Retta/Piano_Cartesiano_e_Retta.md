@@ -189,15 +189,23 @@ Negli esercizi che seguono $y$ indica il costo totale sostenuto ed $x$ di volta 
 $$
 y = mx+q
 $$
-a) Un grande magazzino annuncia sconti del 30% su tutta la merce. Costruisci una tabella con il nuovo prezzo di un paio di scarpe da 65 euro, una cintura da 15 euro ed un paio di pantaloni da 48 euro. Scrivi la formula che calcola il nuovo prezzo a partire dal vecchio e dallo sconto. 
+a) Un grande magazzino annuncia sconti del 30% su tutta la merce. Costruisci una tabella con il nuovo costo di un paio di scarpe da 65 euro, una cintura da 15 euro ed un paio di pantaloni da 48 euro. Scrivi la formula che calcola il costo per un cliente che acquista diversi articoli per un valore complessivo di $x$ euro al prezzo di listino. 
 
 b)  Una sala chirurgica ambulatoriale prevede il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato 250 euro per un intervento di 30 minuti ed un altro 450 euro per uno di 90 minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di 45 minuti.
 
-c) L'agenzia di noleggio auto EZ ha un costo che prevede, per il noleggio di auto, una quota fissa al giorno più una quota variabile secondo il numero di chilometri. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
+c) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio di auto,  prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
 
-1. Scrivi la formula che calcola il costo di noleggio.
+1. Scrivi la formula che calcola il costo di noleggio per la clientela.
 2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Il noleggio conviene di più con EZ oppure A-OK? 
+
+d) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e dei costi di manutenzione che dipendono dai Km percorsi. I costi annui sono ricavabili dal fatto che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, mediamente se si percorrono 60 Km/giorno, si spendono 1.000 euro/anno.
+
+1.  Calcola costi fissi annui e costi variabili giornalieri per la gestione di un'auto da 30.000 euro dell'agenzia EZ, considerando una percorrenza media di 60 Km/giorno e 300 giorni l'anno noleggiabili per l'auto;
+2. Nelle ipotesi del punto 1 e considerando il risultato dell'esercizio c.1), calcola i ricavi giornalieri di EZ dal noleggio dell'auto e scrivi la formula dell'utile annuo $y$, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
+3. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo delle $x$ (giorni) in cui l'utile è positivo, detto "Regione dei Profitti" e quello in cui è negativo, detto "Regione delle Perdite".
 
 #### Laboratorio
 
-Disegna le curve dei costi dei punti a) b) e c) e rileva le caratteristiche delle curve che conducono alle decisioni ottimali.
+a) Disegna le curve dei costi dei punti b) e c) e rileva, per il punto c.2), quali sono graficamente i criteri che se applicati conducono alle decisioni ottimali per il consumatore.
+
+b) Disegna le curve dei Ricavi-Costi-Profitti del punto d).
