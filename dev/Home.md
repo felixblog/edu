@@ -35,7 +35,7 @@ Le operazioni con i polinomi
 Definizione di Equazione di I grado, incognita, soluzione
 I principi di equivalenza
 Strategie di risoluzione
-Gli intervalli di numeri
+Gli intervalli
 Le disequazioni di I grado
 ([Esercizi](http://felixblog.github.io/edu/Esercizi_Equazioni_e_Formule.html)) 
 
@@ -82,7 +82,7 @@ Problemi sulla retta
 
 ## Equazioni di II Grado e Parabola
 
-Le radici
+I Radicali
 L'equazione di II Grado e la formula risolutiva
 La Parabola e la sua equazione
 Problemi sulla parabola
