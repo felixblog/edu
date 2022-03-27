@@ -334,7 +334,7 @@ c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segu
 
 d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano presenti in Italia 5Ml di immigrati).
 
-![image-20220321092010266](C:\Users\felice\AppData\Roaming\Typora\typora-user-images\image-20220321092010266.png)
+![F](img\Ind-Italia.png)
 
 1. Quale è la moda è la media?
 2. Se nel mondo sono presenti 218 nazionalità, quale è la percentuale che in media ha ogni altra nazionalità non rappresentata nel grafico?  
@@ -384,7 +384,7 @@ a) Si considerino i dati della tabella dell'esercizio 3.b). Calcolare i rapporti
 1. Percentuale dei laureati sul totale;
 2. Percentuale dei soggetti maschi e dei soggetti femmine sul totale. 
 
-![image-20220321091458049](C:\Users\felice\AppData\Roaming\Typora\typora-user-images\image-20220321091458049.png)
+![F](img\Ind-Testo.png)
 
 
 
