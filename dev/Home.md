@@ -78,6 +78,14 @@ Forma esplicita ed implicita
 Problemi sulla retta
 ([Esercizi](http://felixblog.github.io/edu/Piano_Cartesiano_e_Retta.html)) 
 
+## Equazioni di II Grado e Parabola
+
+Le radici
+L'equazione di II Grado e la formula risolutiva
+La Parabola e la sua equazione
+Problemi sulla parabola
+([Esercizi](http://felixblog.github.io/edu/Equazioni_II_Grado_e_Parabola.html)) 
+
 ## Funzioni e Grafici
 Le funzioni
 Funzioni iniettive, surgettive e biunivoche
