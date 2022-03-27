@@ -31,10 +31,12 @@ I Polinomi
 Le operazioni con i polinomi
 ([Esercizi](http://felixblog.github.io/edu/Esercizi_Monomi_Polinomi.html)) 
 
-## Le Equazioni I Grado
+## Equazioni e Disequazioni I Grado
 Definizione di Equazione di I grado, incognita, soluzione
 I principi di equivalenza
 Strategie di risoluzione
+Gli intervalli di numeri
+Le disequazioni di I grado
 ([Esercizi](http://felixblog.github.io/edu/Esercizi_Equazioni_e_Formule.html)) 
 
 ## I problemi di I grado
