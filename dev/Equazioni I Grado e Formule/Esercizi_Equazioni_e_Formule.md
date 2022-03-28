@@ -1,7 +1,7 @@
 
 # Esercizi su Equazioni e Formule
 
-### ESERCIZIO 1 - Verifica Soluzione
+### ESERCIZIO 1 - Verifica di soluzioni
 
 Controlla se il numero dato è soluzione della equazione.
 
@@ -108,7 +108,7 @@ e) consiste nell'uguaglianza tra un numero ed il suo opposto.
 
 
 
-### ESERCIZIO 5 - Equazioni Letterali
+### ESERCIZIO 5 - Equazioni letterali
 
 a) Risolvi le seguenti equazioni considerando la lettera x come (unica) incognita.
 
@@ -210,7 +210,7 @@ a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di coman
 
 
 
-### ESERCIZIO 9 - Intervalli
+### ESERCIZIO 9 - Intervalli e disequazioni elementari
 
 a) In ciascuno dei casi riportati di seguito determina se il numero indicato appartiene all'intervallo associato.
 
@@ -229,7 +229,8 @@ b) Rappresenta graficamente su una retta gli intervalli riportati di seguito.
 c) Per ciascuno dei casi seguenti, scrivi la disequazione o il sistema di disequazioni che ha come soluzioni l'intervallo indicato.
 
 1.  $(-\infty;-5)$;   $[1;+\infty)$;   $(1;+\infty)$;   $(-\infty;-\dfrac{50}{11})$;   $(-3;+\infty)$;
-2. $[0; 3]$;   $(-2; 2]$;   $(2; \dfrac{33}{5}]$;   $(\dfrac{2}{5}; 1)$;   
+2.  $[0; 3]$;   $(-2; 2]$;   $(2; \dfrac{33}{5}]$;   $(\dfrac{2}{5}; 1)$;
+3.  Gli intervalli dei punti b.3) e b.4).
 
 #### Laboratorio
 
@@ -248,7 +249,7 @@ c) Rappresenta graficamente il primo intervallo del punto b.1) dell'esercizio co
 
 
 
-### ESERCIZIO 9 - Soluzione di Disequazioni
+### ESERCIZIO 9 - Soluzione di disequazioni
 
 a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli o unione di intervalli.
 
