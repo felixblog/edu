@@ -109,7 +109,7 @@ Si costruiscano:
 
 Tutti i dati utili alle esercitazioni di laboratorio sono contenuti nel file in formato Excel scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Frequenze.xlsx).
 
-a) Risolvi il punto a.1) con la sequenza di operazioni sul foglio elettronico riportati di seguito.
+a) Risolvi il punto a.1) con la sequenza di operazioni sul FOGLIO ELETTRONICO riportati di seguito.
 
 1. Scarica ed apri il file di dati;
 2. Sul foglio "Stature", copiare l'intervallo A2:A29 sull'intervallo B2:B29 e su quest'ultimo rimuovere i duplicati, in modo che  valori compaiano una sola volta. 
@@ -295,7 +295,7 @@ b) La tabella seguente riporta alcune caratteristiche degli individui appartenen
 
 #### Laboratorio
 
-a) Risolvi il punto b.3) dell'esercizio con la sequenza di operazioni sul foglio elettronico riportati di seguito.
+a) Risolvi il punto b.3) dell'esercizio con la sequenza di operazioni sul FOGLIO ELETTRONICO riportati di seguito.
 
 1. Scarica ed apri il file di dati;
 2. Generare, a partire dalla cella G2 e trascinando verso il basso, i valori delle CLASSI di reddito con la formula: =SE(F2<=20;"A";SE(F2<=30;"B";SE(F2<=40;"C";"D")));
@@ -311,9 +311,9 @@ d)  Costruisci la distribuzione di intensità del fatturato per titolo di studio
 
 
 
-### ESERCIZIO 8 - Moda, Mediana, Media, Varianza
+### ESERCIZIO 8 - Indicatori Statistici - Moda, Mediana, Media
 
-a) Calcola la media delle vendite sui dati dell'esercizio 7.b).
+a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
 b) Per i primi 15 giorni di un mese viene rilevato il ritardo (in minuti) accumulato da un determinato treno rispetto all’orario previsto di arrivo. Di seguito sono riportati i dati rilevati, che presentano segno negativo nel caso di anticipo sull’orario di arrivo:
 
@@ -321,7 +321,7 @@ b) Per i primi 15 giorni di un mese viene rilevato il ritardo (in minuti) accumu
 | ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **ritardo** | 10   | 15   | -2   | 0    | 50   | 20   | 0    | 9    | -5   | 8    | 10   | 20   | 6    | 10   | -10  |
 
-1. Calcola la moda, la mediana, la media aritmetica, la varianza della distribuzione;
+1. Calcola minimo, massimo, la moda, la mediana, la media aritmetica della distribuzione;
 2. Dopo aver raggruppato le osservazioni relative ai primi 15 giorni del mese nelle classi: [-10, 0]; (0, 10]; (10, 60] calcolare media e varianza in questa nuova situazione.
 
 c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segue: 
@@ -341,7 +341,44 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 
 
-### ESERCIZIO 9 - Esercizio Riassuntivo
+### ESERCIZIO 9 - Rapporti di Composizione
+
+a) Si considerino i dati della tabella dell'esercizio 3.b). Calcolare i rapporti di composizione:
+
+1. Percentuale dei laureati sul totale;
+2. Percentuale dei soggetti maschi e dei soggetti femmine sul totale. 
+
+![F](img\Ind-Testo.png)
+
+
+
+### ESERCIZIO 10 - Rapporti di Frequenza (Flussi)
+
+....
+
+a) ... 
+
+### ESERCIZIO 11 - Rapporti di Incremento (Tassi)
+
+
+
+
+
+### ESERCIZIO 12 - Rapporti di Densità
+
+.....
+
+a) ...   
+
+
+
+### ESERCIZIO 13 - Rapporti di Derivazione
+
+a) ... 
+
+
+
+### ESERCIZIO 14 - Esercizio Riassuntivo
 
 Considera la matrice dei dati relativa ai 15 dipendenti di un’azienda. Per ciascun dipendente sono stati rilevati: Posizione professionale (1=Apprendista, 2=Operaio, 3=Impiegato, 4=Dirigente), Genere (1=Maschio, 2=Femmina), Numero di componenti del nucleo familiare, Ore di straordinario lavorate nel 2009 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Dipendenti.xlsx)):
 
@@ -374,47 +411,3 @@ d) Produci la serie delle Ore di Straordinario per Genere e quella per Posizione
 e) Produci la tabella a doppia entrata delle Ore di Straordinario per Genere e Posizione;
 
 f) Rappresenta graficamente le variabili osservate.
-
-
-
-### ESERCIZIO 10 - Indicatori Statistici - Composizione
-
-a) Si considerino i dati della tabella dell'esercizio 3.b). Calcolare i rapporti di composizione:
-
-1. Percentuale dei laureati sul totale;
-2. Percentuale dei soggetti maschi e dei soggetti femmine sul totale. 
-
-![F](img\Ind-Testo.png)
-
-
-
-### ESERCIZIO 11 - Indicatori Statistici - Frequenza (Flussi)
-
-....
-
-a) ... 
-
-### ESERCIZIO 12 - Indicatori Statistici - Incremento (Tassi)
-
-
-
-
-
-### ESERCIZIO 13 - Indicatori Statistici - Densità
-
-.....
-
-a) ...   
-
-
-
-### ESERCIZIO 14 - Indicatori Statistici - Derivazione
-
-1. 
-2. 
-
-....
-
-a) ... 
-
-3. 
