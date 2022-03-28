@@ -341,7 +341,55 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 
 
-### ESERCIZIO 9 - Esercizio Riassuntivo
+### ESERCIZIO 9 - Numeri Indici e Variazioni Relative
+
+a) Per la serie storica dell'esercizio 3.a) calcola:
+
+1. Il numero Indice percentuale fisso rispetto al 2010, ${}_{2010}I_{t}\%$ e la variazione relativa al 2010 $\dfrac{y_{t} - y_{2010}}{y_{2010}}\% = {}_{2010}I_{t}\% - 100$
+2. Il numero Indice percentuale mobile, ${}_{t-1}I_{t}\%$ e la variazione relativa mobile (tasso di variazione): $\dfrac{y_{t} - y_{t-1}}{y_{t-1}}\% = {}_{t-1}I_{t}\% - 100$
+
+b) Rappresenta in uno stesso diagramma a barre verticali le due serie delle vendite, dall'esercizio 3.a), e del tasso di variazione. ricavata dal punto precedente .
+
+ 
+
+### ESERCIZIO 9 - Rapporti di Composizione
+
+a) Si considerino i dati della tabella dell'esercizio 3.b). Calcolare i rapporti di composizione:
+
+1. Percentuale dei laureati sul totale;
+2. Percentuale dei soggetti maschi e dei soggetti femmine sul totale. 
+
+![F](img\Ind-Testo.png)
+
+
+
+### ESERCIZIO 10 - Rapporti di Frequenza (Flussi)
+
+....
+
+a) ... 
+
+### ESERCIZIO 11 - Rapporti di Incremento (Tassi)
+
+
+
+
+
+### ESERCIZIO 12 - Rapporti di Densità
+
+.....
+
+a) ...   
+
+
+
+### ESERCIZIO 13 - Rapporti di Derivazione
+
+a) ... 
+
+
+
+### ESERCIZIO 14 - Esercizio Riassuntivo
 
 Considera la matrice dei dati relativa ai 15 dipendenti di un’azienda. Per ciascun dipendente sono stati rilevati: Posizione professionale (1=Apprendista, 2=Operaio, 3=Impiegato, 4=Dirigente), Genere (1=Maschio, 2=Femmina), Numero di componenti del nucleo familiare, Ore di straordinario lavorate nel 2009 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Dipendenti.xlsx)):
 

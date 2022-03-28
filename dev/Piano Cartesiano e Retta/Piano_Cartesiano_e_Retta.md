@@ -198,9 +198,9 @@ c) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il nolegg
 1. Scrivi la formula che calcola il costo di noleggio per la clientela.
 2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Il noleggio conviene di più con EZ oppure A-OK? 
 
-d) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e dei costi di manutenzione che dipendono dai Km percorsi. I costi annui sono ricavabili dal fatto che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, mediamente se si percorrono 60 Km/giorno, si spendono 1.000 euro/anno.
+d) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e dei costi di manutenzione che dipendono dai Km percorsi. I costi annui sono ricavabili dal fatto che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, se si percorrono mediamente 60 Km/giorno per 150 giorni l'anno, si spendono 1.000 euro/anno.
 
-1.  Calcola costi fissi annui e costi variabili giornalieri per la gestione di un'auto da 30.000 euro dell'agenzia EZ, considerando una percorrenza media di 60 Km/giorno e 300 giorni l'anno noleggiabili per l'auto;
+1.  Calcola costi fissi annui e costi variabili giornalieri per la gestione di un'auto da 30.000 euro dell'agenzia EZ, considerando una percorrenza media di 60 Km/giorno; utilizzando questi, scrivi la formula dei costi totali annui considerando $x$ giorni di utilizzo l'anno;
 2. Nelle ipotesi del punto 1 e considerando il risultato dell'esercizio c.1), calcola i ricavi giornalieri di EZ dal noleggio dell'auto e scrivi la formula dell'utile annuo $y$, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
 3. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo delle $x$ (giorni) in cui l'utile è positivo, detto "Regione dei Profitti" e quello in cui è negativo, detto "Regione delle Perdite".
 
