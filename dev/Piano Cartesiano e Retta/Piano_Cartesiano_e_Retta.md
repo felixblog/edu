@@ -183,29 +183,44 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 
 
 
-### ESERCIZIO 12 - Applicazioni
+### ESERCIZIO 12 - Applicazioni 
 
-Negli esercizi che seguono $y$ indica il costo totale sostenuto ed $x$ di volta in volta il numero di oggetti prodotti o di operazioni effettuate. La formula seguente lega il costo totale con i costi fissi $q$ e quelli variabili $mx$:
+Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ di volta in volta il numero di oggetti/servizi acquistati o prodotti. La formula che lega i costi ai prodotti in generale è la seguente:
 $$
 y = mx+q
 $$
-a) Un grande magazzino annuncia sconti del 30% su tutta la merce. Costruisci una tabella con il nuovo costo di un paio di scarpe da 65 euro, una cintura da 15 euro ed un paio di pantaloni da 48 euro. Scrivi la formula che calcola il costo per un cliente che acquista diversi articoli per un valore complessivo di $x$ euro al prezzo di listino. 
+dove $m$ e $q$ devono essere di volta in volta stimati ($mx$ è la parte di costi variabile co gli oggetti/servizi e $q$ è la quota fissa).
 
-b)  Una sala chirurgica ambulatoriale prevede il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato 250 euro per un intervento di 30 minuti ed un altro 450 euro per uno di 90 minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di 45 minuti.
+a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
 
-c) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio di auto,  prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
+1. Scrivere le formule che, al variare di $x$, numero di ore di affitto a semestre, esprime i costi nel caso dei membri e degli esterni.
+2. Individuare quale è il numero semestrale minimo di ore di campo da affittare perché convenga l'iscrizione al circolo.  
+
+b) Una sala chirurgica ambulatoriale prevede, da parte del paziente, il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato 250 euro per un intervento di 30 minuti ed un altro 450 euro per uno di 90 minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di 45 minuti.
+
+c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezionate da 200 grammi l'una. Per la produzione dei cioccolatini, l'azienda sostiene una spesa fissa mensile di 4.000 euro ed un costo al Kg di 4 euro; ci sono da considerare poi altri 60 centesimi di costo di confezionamento per ogni scatola. Determinare:
+
+1. la formula che esprime il costo mensile per la produzione di $x$ scatole di cioccolatini;
+2. la formula che esprime i ricavi della vendita di $x$ scatole di cioccolatini al mese, considerato che il prezzo di ogni scatola è di 5 euro;
+3. la formula per il calcolo dell'utile come differenza tra i ricavi ed i costi.
+
+
+
+### ESERCIZIO 12 - Esercizio Riassuntivo   
+
+a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio di auto, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
 
 1. Scrivi la formula che calcola il costo di noleggio per la clientela.
 2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Il noleggio conviene di più con EZ oppure A-OK? 
 
-d) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e dei costi di manutenzione che dipendono dai Km percorsi. I costi annui sono ricavabili dal fatto che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, se si percorrono mediamente 60 Km/giorno per 150 giorni l'anno, si spendono 1.000 euro/anno.
+b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e dei costi di manutenzione che dipendono dai Km percorsi. I costi annui sono ricavabili dal fatto che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, se si percorrono mediamente 60 Km/giorno per 150 giorni l'anno, si spendono 1.000 euro/anno (ossia 0,111 euro al giorno al Km).
 
-1.  Calcola costi fissi annui e costi variabili giornalieri per la gestione di un'auto da 30.000 euro dell'agenzia EZ, considerando una percorrenza media di 60 Km/giorno; utilizzando questi, scrivi la formula dei costi totali annui considerando $x$ giorni di utilizzo l'anno;
-2. Nelle ipotesi del punto 1 e considerando il risultato dell'esercizio c.1), calcola i ricavi giornalieri di EZ dal noleggio dell'auto e scrivi la formula dell'utile annuo $y$, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
-3. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo delle $x$ (giorni) in cui l'utile è positivo, detto "Regione dei Profitti" e quello in cui è negativo, detto "Regione delle Perdite".
+1.  Considerando $x$ giorni di utilizzo l'anno, calcola i costi totali per la gestione di un'auto da 30.000 euro dell'agenzia EZ come somma di costi fissi e costi variabili (in dipendenza del numero dei giorni) annui; fai l'ipotesi di una percorrenza media giornaliera di 60 Km;
+2. Nelle ipotesi del punto 1 e ricavando dalla risposta dell'esercizio a.1) i ricavi giornalieri del noleggio, scrivi la formula del ricavo annuo, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
+3. Scrivi la formula dell'utile annuo come differenza tra i ricavi ed i costi. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo delle $x$ (giorni) in cui l'utile è positivo, detto "Regione dei Profitti" e quello in cui è negativo, detto "Regione delle Perdite".
 
 #### Laboratorio
 
 a) Disegna le curve dei costi dei punti b) e c) e rileva, per il punto c.2), quali sono graficamente i criteri che se applicati conducono alle decisioni ottimali per il consumatore.
 
-b) Disegna le curve dei Ricavi-Costi-Profitti del punto d).
+b) Disegna le curve dei Ricavi-Costi-Utile del punto d) ed individua graficamente le regioni dei profitti, delle perdite ed il punto di pareggio.

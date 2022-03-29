@@ -21,9 +21,9 @@ c) Calcola il valore della funzione definita dall'espressione $\dfrac{1}{1-x}$ p
 
 d) Determina quali dei seguenti insiemi di coppie cartesiane definisce una funzione
 
-1. {(1, 3), (2, 5), (3, 7), (4, 8)}
-2. {(2, 1), (3, 3), (2, 5), (4, 7)}
-3. {(0, -2), (2, -2), (4, 6), (6, 6)}
+1. $\{(1, 3), (2, 5), (3, 7), (4, 8)\}$;
+2. $\{(2, 1), (3, 3), (2, 5), (4, 7)\}$;
+3. $\{(0, -2), (2, -2), (4, 6), (6, 6)\}$.
 
 #### Laboratorio
 
@@ -66,15 +66,15 @@ a) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere c
 ### ESERCIZIO 4 - Funzioni numeriche
 Costruire una tabella assegnando cinque valori (positivi e negativi) a x per ciascuna delle funzioni riportate di seguito:
 
-a) y = x;
+a) $y = x$;
 
-b) y = -x;
+b) $y = -x$;
 
-c) y = 1/2 x;
+c) $y = \dfrac{1}{2} x$;
 
-d) y = 2x +1;
+d) $y = 2x +1$;
 
-e) y = 4x
+e) $y = 4x$.
 
 #### Laboratorio
 
@@ -95,13 +95,13 @@ Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare.
 
 ### ESERCIZIO 6 - La funzione valore assoluto
 
-Per ogni funzione costruisci una tabella con cinque valori di x (positivi, negativi o nulli) e rappresenta il grafico
+Per ogni funzione costruisci una tabella con cinque valori di $x$ (positivi, negativi o nulli) e rappresenta il grafico
 
-a) y = 2|x|;
+a) $y = 2|x|$;
 
-b) y = 1 + |x|;
+b) $y = 1 + |x|$;
 
-c) y = -2|x|
+c) $y = -2|x|$.
 
 #### Laboratorio
 
