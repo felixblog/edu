@@ -1,5 +1,5 @@
 
-# Esercizi su Equazioni e Formule
+# Esercizi su Equazioni e Disequazioni di I Grado
 
 ### ESERCIZIO 1 - Verifica di soluzioni
 
@@ -234,6 +234,8 @@ c) Per ciascuno dei casi seguenti, scrivi la disequazione (elementare) o il sist
 
 #### Laboratorio
 
+Per il presente laboratorio, utilizzare la versione on-line di GEOGEBRA Classic all'indirizzo: https://www.geogebra.org/classic.
+
 a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
 1. $i1 : 0 <= x <= 3$ &#9166; 
@@ -244,14 +246,14 @@ b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA ana
 c) Rappresenta graficamente il primo intervallo del punto b.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
 1. Dal "Menu Principale" seleziona "Cambia Calcolatrice" / "Grafici";
-2.  $i1 : 0 \lt x \lt 1$ &#9166; 
+2.  $i2 : 0 \lt x \lt 1$ &#9166; 
 3. Dal menu della casella di input, seleziona "Impostazioni" e quindi dalla scheda "Stile" seleziona "Mostra sull'asse X".
 
 
 
 ### ESERCIZIO 10 - Soluzione di disequazioni
 
-a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli o unione di intervalli.
+a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
 
 1. $x-1\ge 2$;   $7x-1\ge 2$;   $-x-1\le 2$;   $\dfrac{x}{5}-1\ge 2$;
 2. $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;   $2x-5\lt 3+2x$;   $2(x+1) - 5x\ge 3x + 4(x+1)$.
