@@ -5,9 +5,9 @@
 
 Posiziona i punti degli insiemi seguenti su di un piano cartesiano  
 
-a) Q = {(1;1), (-1;1), (-1;-1), (1;-1)}   
-b) T = {(-1;0), (1;0), (0;1)}  
-c) R = {(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)}
+a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\}$   
+b) $T = \{(-1;0), (1;0), (0;1)\}$;  
+c) $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
 
 #### Laboratorio
 
@@ -25,9 +25,9 @@ Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
 
 Disegna la retta che passa per ciascuno dei seguenti insiemi di punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
 
-a) A = {(-5;3), (1; 3), (6; 3)}  
-b) B = {(0; 0), (0; -4)}  
-c) D = {(-4; 4), (-2; 2), (3; -3)}
+a) $A = \{(-5;3), (1; 3), (6; 3)\}$;  
+b) $B = \{(0; 0), (0; -4)\}$;  
+c) $D = \{(-4; 4), (-2; 2), (3; -3)\}$.
 
 #### Laboratorio
 
@@ -38,20 +38,20 @@ a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $Retta((0,0),(0
 ### ESERCIZIO 4 - Campione di punti
 
 Per ciascuno degli insiemi riportati di seguito trova un campione di 4 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
-a) A = {(x; y): y = -1}  
-b) B = {(x; y): x = 3}  
-c) C = {(x; y): y = -x}  
-d) D = {(x; y): y = x + 1}  
-e) E = {(x; y): x + y = 1}
+a) $A = \{(x; y): y = -1\}$;  
+b) $B = {(x; y): x = 3}$;  
+c) $C = \{(x; y): y = -x\}$;  
+d) $D = \{(x; y): y = x + 1\}$;  
+e) $E = \{(x; y): x + y = 1\}$.
 
 
 
 ### ESERCIZIO 5 - Grafico della retta
 
 Disegna le rette rappresentate dalle seguenti equazioni:  
-a) $y = \dfrac{1}{2}x$, $y = \dfrac{-1}{3}x$  
-b) $y = \dfrac{-1}{3}x$, $y = 3x$  
-c) $y = \dfrac{11}{8}x$, $y = 11 x$  
+a) $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x$  
+b) $y = \dfrac{-1}{3}x$,   $y = 3x$  
+c) $y = \dfrac{11}{8}x$,   $y = 11 x$  
 
 #### Laboratorio
 
@@ -62,9 +62,9 @@ a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y=-\dfrac{1}
 ### ESERCIZIO 6 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
-a) {(4; -5), (2; 3)}  
-b) {(-3; 1), (-1; -2)}  
-c) {(4; 1/2), (2/3; -2)}  
+a) $\{(4; -5), (2; 3)\}$;  
+b) $\{(-3; 1), (-1; -2)\}$;  
+c) $\{(4; 1/2), (2/3; -2)\}$.  
 
 #### Laboratorio
 
@@ -74,9 +74,9 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-
 
 a) Scrivi l'equazione della retta passante per i punti A e B dati.  
 
-1. A(1/2; 1), B(-1;-2)  
-2. A(-2; 0), B(-2; 10)   
-3. A(1;-1), B(-1/2;1/2)    
+1. $A(1/2; 1),\enspace B(-1;-2)$;  
+2. $A(-2; 0),\enspace B(-2; 10)$;   
+3. $A(1;-1),\enspace B(-1/2;1/2)$;    
 
 b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti. 
 
@@ -94,13 +94,13 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 a) Scrivi in forma implicita le seguenti equazioni di rette
 
-1. $y = \dfrac{1}{2}x$, $y = \dfrac{-1}{3}x - 4$  
-2. $y = \dfrac{11}{8}x$, $y = 11$  
+1. $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x - 4$  
+2. $y = \dfrac{11}{8}x$,   $y = 11$  
 
 b) Scrivi in forma esplicita le seguenti equazioni
 
-1. $y - \dfrac{1}{2}x = 5$, $y +\dfrac{-1}{3}x - 4 = 0$  
-2. $y - x +2 = 0$, $y - 4 = x + 9$  
+1. $y - \dfrac{1}{2}x = 5$,   $y +\dfrac{-1}{3}x - 4 = 0$  
+2. $y - x +2 = 0$,   $y - 4 = x + 9$  
 
 #### Laboratorio
 
@@ -152,7 +152,7 @@ a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0$  
 2. $x+3y=-1; \> x-y=7$;
 
-b) Scrivi l'equazione di una retta di coefficiente -1 e passante per il punto (0; 3).
+b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
 c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
 
 #### Laboratorio
@@ -168,9 +168,9 @@ b) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),
 
 ### ESERCIZIO 11 - Pendenza di una linea
 
-a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione 3x + 4y = 12.
+a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione $3x + 4y = 12$.
 
-b) Scrivi l'equazione della retta che passa per il punto (0;-2) ed ha pendenza 1/3.
+b) Scrivi l'equazione della retta che passa per il punto $(0;-2)$ ed ha pendenza $\dfrac{1}{3}$.
 
 c) Nella figura seguente la salita ha una pendenza del 17%. Se in un minuto l'autocarro percorre 500 metri in orizzontale, di quanti metri sarà salito in verticale?
 
@@ -189,7 +189,7 @@ Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ d
 $$
 y = mx+q
 $$
-dove $m$ e $q$ devono essere di volta in volta stimati ($mx$ è la parte di costi variabile co gli oggetti/servizi e $q$ è la quota fissa).
+dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei costi che varia con il numero degli oggetti/servizi acquistati e $q$ è una parte che non varia (quota fissa).
 
 a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
 
@@ -206,7 +206,7 @@ c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezi
 
 
 
-### ESERCIZIO 12 - Esercizio Riassuntivo   
+### ESERCIZIO 13 - Esercizio Riassuntivo   
 
 a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio di auto, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
 

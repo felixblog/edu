@@ -226,7 +226,7 @@ b) Rappresenta graficamente su una retta gli intervalli riportati di seguito.
 5. $(3;+\infty) \cap [3;7]$;   $(3;+\infty) \cup [3;7]$;
 6. $[0;\dfrac{3}{2}) \cap (-\dfrac{4}{5};0]$;   $[0;\dfrac{3}{2}) \cup (-\dfrac{4}{5};0]$.
 
-c) Per ciascuno dei casi seguenti, scrivi la disequazione o il sistema di disequazioni che ha come soluzioni l'intervallo indicato.
+c) Per ciascuno dei casi seguenti, scrivi la disequazione (elementare) o il sistema di disequazioni che ha come soluzioni l'intervallo indicato.
 
 1.  $(-\infty;-5)$;   $[1;+\infty)$;   $(1;+\infty)$;   $(-\infty;-\dfrac{50}{11})$;   $(-3;+\infty)$;
 2.  $[0; 3]$;   $(-2; 2]$;   $(2; \dfrac{33}{5}]$;   $(\dfrac{2}{5}; 1)$;
@@ -249,7 +249,7 @@ c) Rappresenta graficamente il primo intervallo del punto b.1) dell'esercizio co
 
 
 
-### ESERCIZIO 9 - Soluzione di disequazioni
+### ESERCIZIO 10 - Soluzione di disequazioni
 
 a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli o unione di intervalli.
 

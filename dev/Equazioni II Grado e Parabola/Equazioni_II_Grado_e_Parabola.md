@@ -3,10 +3,11 @@
 
 ### ESERCIZIO 1 - I Radicali
 
-a) Usando la calcolatrice, trova il valore decimale, fino alla quarta cifra, dei radicali riportati di seguito. Fai una prova della correttezza del calcolo dopo aver trovato il numero.
+a) Usando la calcolatrice, trova il valore, approssimato alla quarta cifra decimale, dei radicali riportati di seguito. Fai una prova della correttezza del calcolo dopo aver trovato il numero.
 
 1. $\sqrt[2]{4}$;   $\sqrt[2]{81}$;   $\sqrt[3]{125}$;   $\sqrt[2]{2}$;   $\sqrt[3]{2}$;
 2. $\sqrt[2]{\dfrac{1}{2}}$;   $\sqrt[2]{\dfrac{3}{4}}$;   $\sqrt[3]{12.345}$;
+3. Nel caso di $\sqrt2$ e $\sqrt[3]{12.345}$ trova l'errore relativo percentuale tra il risultato della calcolatrice e quello approssimato alla quarta cifra decimale.
 
 b) Calcola $\sqrt[n]{x}$ in ciascuno dei casi seguenti:  $n=2, x=1$;   $n=3, x=8$;   $n=4, x=16$; 
 
@@ -59,7 +60,7 @@ a) Risolvi il secondo esercizio del punto b.1) con la sequenza di operazioni GEO
 
 ### ESERCIZIO 3 - Forma Normale delle Equazioni
 
-a) Scrivi le equazioni seguenti in forma normale ed individua i valori di a, b e c nel caso siano di secondo grado.
+a) Per ciascuna delle equazioni seguenti, individua, nel caso sia di secondo grado, i valori di $a$, $b$ e $c$, dopo averla scritta in forma normale.
 
 1. $3x^2-2 = x$;  
 2. $4-x^2 = 2$;  
@@ -172,7 +173,7 @@ b) Scrivi l'equazione della parabola che passa per il vertice ed un altro punto 
 a) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
 
 1. $x^2-x$;   $-x^2-x$;   $x^2-4$; 
-2. I polinomi che definiscono le parabole dell'esercizio 5, punto a.3).
+2. $\dfrac{1}{4}x^2-9$;   $-\dfrac{5}{2}x^2-5x$;   $x^2+x+1$; (polinomi delle parabole dell'esercizio 5, punto a.3)).
 
 
 

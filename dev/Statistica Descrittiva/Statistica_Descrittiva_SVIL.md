@@ -341,7 +341,7 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 
 
-### ESERCIZIO 9 - Numeri Indici e Variazioni Relative
+### ESERCIZIO 9 - Numeri Indici e Tassi di Variazione
 
 a) Per la serie storica dell'esercizio 3.a) calcola:
 
@@ -352,7 +352,7 @@ b) Rappresenta in uno stesso diagramma a barre verticali le due serie delle vend
 
  
 
-### ESERCIZIO 9 - Rapporti di Composizione
+### ESERCIZIO 10 - Rapporti di Composizione
 
 a) Si considerino i dati della tabella dell'esercizio 3.b). Calcolare i rapporti di composizione:
 
@@ -363,19 +363,7 @@ a) Si considerino i dati della tabella dell'esercizio 3.b). Calcolare i rapporti
 
 
 
-### ESERCIZIO 10 - Rapporti di Frequenza (Flussi)
-
-....
-
-a) ... 
-
-### ESERCIZIO 11 - Rapporti di Incremento (Tassi)
-
-
-
-
-
-### ESERCIZIO 12 - Rapporti di Densità
+### ESERCIZIO 11 - Rapporti di Densità
 
 .....
 
@@ -383,9 +371,19 @@ a) ...
 
 
 
-### ESERCIZIO 13 - Rapporti di Derivazione
+### ESERCIZIO 12 - Rapporti di Derivazione
 
 a) ... 
+
+
+
+### ESERCIZIO 13 - Rapporti di Durata e Ripetizione (Studio dei Flussi)
+
+....
+
+a) ... 
+
+
 
 
 
