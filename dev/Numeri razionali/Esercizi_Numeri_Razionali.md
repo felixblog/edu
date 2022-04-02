@@ -1,7 +1,7 @@
 
 
 
-# Esercizi sui Numeri Razionali
+# I Numeri Razionali
 
 ### ESERCIZIO 1 - Il Concetto di Frazione e di Divisione
 

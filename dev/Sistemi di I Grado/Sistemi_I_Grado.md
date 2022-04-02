@@ -1,5 +1,5 @@
 
-# Esercizi sui Sistemi di I Grado
+# I Sistemi di I Grado
 
 ### ESERCIZIO 1 - Soluzioni di Equazioni e Sistemi
 

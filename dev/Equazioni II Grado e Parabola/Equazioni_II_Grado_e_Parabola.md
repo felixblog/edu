@@ -1,5 +1,5 @@
 
-# Esercizi su Equazioni di II Grado e Parabola
+# Equazioni di II Grado e Parabola
 
 ### ESERCIZIO 1 - I Radicali
 

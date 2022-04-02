@@ -2,7 +2,7 @@
 
 
 
-# Esercizi sui Numeri Interi
+# I Numeri Interi
 
 ### ESERCIZIO 1 - Ordinamento dei numeri interi
 Scrivi in ordine:  
@@ -90,9 +90,9 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 3.    
 
    
-   
+
    ![Albero](img\expint3a.png)
-   
+
    
 
 b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:

@@ -1,5 +1,5 @@
 
-# Esercizi sui Numeri Naturali
+# I Numeri Naturali
 
 ### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 

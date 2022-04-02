@@ -1,5 +1,5 @@
 
-# Esercizi su Equazioni e Disequazioni di I Grado
+# Equazioni e Disequazioni di I Grado
 
 ### ESERCIZIO 1 - Verifica di soluzioni
 
