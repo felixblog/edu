@@ -90,13 +90,13 @@ d)  $$ \left\{
 
 #### Laboratorio
 
-a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
+a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
 1. $a: 2x+y=-1$ &#9166; 
 2. $b: x-3y=12$ &#9166; 
 3. $Risolvi(\{a,b\}, \{x,y\})$ &#9166; . 
 
-b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA:
+b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
 1. $c: 2y -5 = -2x -6 +y$ &#9166; 
 2. $d: 2(x -1) = 3(1-2y) + 19$ &#9166; 
@@ -126,3 +126,49 @@ Le due macchine hanno prodotto in tutto 191 pezzi, lavorando complessivamente 23
 
 f) Due serbatoi hanno capacità rispettivamente proporzionali a 7 e 4. Il serbatoio maggiore contiene tanto liquido quanto quello minore più i $\dfrac{3}{4}$ di quest’ultimo. Determina le capacità. 
 
+
+
+### ESERCIZIO 5 - Sistemi con tre incognite
+
+Risolvere i sistemi seguenti con il metodo di sostituzione. 
+
+a)  $$\left\{  
+\begin{array}{c} 
+2x+y-z=-1 \\  
+y-3z=11 \\   
+z=1 \\   
+\end{array} 
+\right.$$
+
+b)  $$ \left\{  
+\begin{array}{c} 
+x+y=0 \\  
+x+y-2z=3 \\
+x-y+z=1
+\end{array} 
+\right.$$
+
+c)  $$ \left\{  
+\begin{array}{c} 
+x+y-z=10 \\ 
+-2x+y+2z=4 \\ 
+3x-2y+3z=8 \\ 
+\end{array} 
+\right.$$
+
+d)  $$ \left\{  
+\begin{array}{c} 
+a+b=-1 \\ 
+b+c=-4 \\ 
+a+c=1 \\ 
+\end{array} 
+\right.$$
+
+#### Laboratorio
+
+a) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
+
+1. $e: a+b=-1$ &#9166; 
+2. $f: b+c=-4$ &#9166; 
+2. $g: a+c=1$ &#9166; 
+3. $Risolvi(\{e,f,g\}, \{a,b,c\})$ &#9166; . 

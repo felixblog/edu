@@ -166,6 +166,16 @@ b) Scrivi l'equazione della parabola che passa per il vertice ed un altro punto 
 1. $V(0;1), P(1;0)$
 2. $V(0;2), P(1,6)$
 
+#### Laboratorio
+
+a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
+
+1. $e: 0 = a(0)^2+b(0)+c$   &#9166; 
+2. $f: 1 = a(-1)^2+b(-1)+c$   &#9166;
+3. $g: 1 = a(1)^2+b(1)+c$   &#9166;
+4. $Risolvi(\{e,f,g\},\{a,b,c\})$ &#9166;  
+5. $y= ax^2 + bx+c$ &#9166;  
+
 
 
 ### ESERCIZIO 7 - Parabola ed Equazione di II Grado
