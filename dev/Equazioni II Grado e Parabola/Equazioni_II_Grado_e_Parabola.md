@@ -173,8 +173,8 @@ a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA r
 1. $e: 0 = a(0)^2+b(0)+c$   &#9166; 
 2. $f: 1 = a(-1)^2+b(-1)+c$   &#9166;
 3. $g: 1 = a(1)^2+b(1)+c$   &#9166;
-4. $Risolvi(\{e,f,g\},\{a,b,c\})$ &#9166;  
-5. $y= ax^2 + bx+c$ &#9166;  
+4. $s: Singola(Risolvi(\{e,f,g\},\{a,b,c\}))$ &#9166;  
+5. $Sostituisci(y= ax^2 + bx+c,s)$ &#9166;  
 
 
 
@@ -184,6 +184,12 @@ a) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
 
 1. $x^2-x$;   $-x^2-x$;   $x^2-4$; 
 2. $\dfrac{1}{4}x^2-9$;   $-\dfrac{5}{2}x^2-5x$;   $x^2+x+1$; (polinomi delle parabole dell'esercizio 5, punto a.3)).
+
+#### Laboratorio
+
+a) Risolvi il primo punto dell'esercizio a.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
+
+1. $x^2-x \ge 0 $   &#9166; 
 
 
 
