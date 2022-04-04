@@ -3,8 +3,10 @@
 
 ### ESERCIZIO 1 - Rappresentazione per Elencazione
 
-a) Rappresenta graficamente e per elencazione gli insiemi A, B e C formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea».  
+a) Rappresenta graficamente e per elencazione gli insiemi A, B e C formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea». 
+
 b) Rappresenta per elencazione i seguenti insiemi:  
+
 1. I naturali non maggiori di 8;  
 2. I naturali dispari compresi fra 30 e 40;  
 3. I multipli pari di 7 minori di 40;  
@@ -23,8 +25,7 @@ c) Rappresenta per elencazione i seguenti insiemi:
 
 a) Risolvi il punto a) dell'esercizio prendendo ad esempio la sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A=Suddividi(''rododendro'',\{''''\}))$ &#9166; 
-3. $Unico(l_A)$ &#9166; 
+1. $Unico(Suddividi(''rododendro'',\{''''\})))$ &#9166; 
 
 b) Risolvi il punto c) dell'esercizio prendendo ad esempio la sequenza di comandi GEOGEBRA riportata di seguito:
 
@@ -36,13 +37,13 @@ b) Risolvi il punto c) dell'esercizio prendendo ad esempio la sequenza di comand
 ### ESERCIZIO 2 - Rappresentazione mediante proprietà caratteristica
 
 a) Rappresenta gli insiemi seguenti mediante una proprietà caratteristica dei loro elementi.  
-1. A = {martedì, mercoledì};  
-2. B = {Nord, Sud, Est, Ovest};  
-3. C = {$\alpha, \beta, \gamma$};  
-4. D = {a, e, i, o, u};  
-5. E = {5, 7, 9, 11, 13};  
-6. F = {8, 9, 10, 11, 12, 13, 14, 15};  
-8. G = {12, 16, 20, 24, 28, 32};  
+1. $A = \{martedi, mercoledi\}$;  
+2. $B = \{Nord, Sud, Est, Ovest\}$;  
+3. $C = \{\alpha, \beta, \gamma\}$;  
+4. $D = \{a, e, i, o, u\}$;  
+5. $E = \{5, 7, 9, 11, 13\}$;  
+6. $F = \{8, 9, 10, 11, 12, 13, 14, 15\}$;  
+8. $G = \{12, 16, 20, 24, 28, 32\}$;  
 9. I numeri interi pari minori o uguali a 16;  
 10. I numeri naturali compresi fra 10 e 30;  
 11. Gli interi negativi.
@@ -52,15 +53,15 @@ a) Rappresenta gli insiemi seguenti mediante una proprietà caratteristica dei l
 ### ESERCIZIO 3 - Dalla proprietà caratteristica all'elencazione
 
 a) Scrivi la rappresentazione per elencazione dei seguenti insiemi.  
-1. A = {x: x è una lettera della parola «avvocato»};  
-2. B = {x: x è una vocale};  
-3. C = {x: x è il nome di un mese che inizia con la lettera «g»};
+1. $A = \{x: x \enspace \acute{e} \enspace una \enspace lettera \enspace della \enspace parola \enspace «avvocato»\}$;  
+2. $B = \{x: x \enspace \acute{e} \enspace una \enspace vocale\}$;  
+3. $C = \{x: x \enspace \acute{e} \enspace il \enspace nome \enspace di \enspace un \enspace mese \enspace che \enspace inizia \enspace con \enspace la \enspace lettera \enspace «g»\}$;  
 
 b) Trova il numero degli elementi degli insiemi riportati di seguito.  
 
-1. A = {x: x è un pianeta del sistema solare};  
-2. B = {x: x è una provincia del Lazio}.
-5. C = {x: x è soluzione di 2x - 5 = -x + 7 + 3x}
+1. $A = \{x: x \enspace \acute{e} \enspace un \enspace pianeta \enspace del \enspace sistema \enspace solare \}$;  
+2. $B = \{x: x \enspace \acute{e} \enspace una \enspace provincia \enspace del \enspace Lazio \}$;
+5. $C = \{x: 2x - 5 = -x + 7 + 3x\}$.
 
 #### Laboratorio
 
@@ -75,13 +76,15 @@ b) Utilizzando le istruzioni GEOGEBRA del punto precedente, risolvi il punto a) 
 
 ### ESERCIZIO 4 - I Sottoinsiemi
 
-a) Considera i seguenti insiemi: A = {SERA}, B = {S, E, R, A}, C = {A, R, S, E}, D = {R, E, S, A}, E = {RESA}  
+a) Considera i seguenti insiemi: $A = \{SERA\}$, $B = \{S, E, R, A\}$, $C = \{A, R, S, E\}$, $D = \{R, E, S, A\}$, $E = \{RESA\}$.  
 1. Descrivi a parole i loro elementi  
 2. Quali insiemi sono uguali tra loro?  
 
-b) Scrivi tutti i sottoinsiemi dell’insieme A = {a, b, c}.  
-c) Scrivi tre parole le cui lettere formino tre insiemi A, B, C, tali che $A \subset B \subset C$.  
-d) Stabilisci se gli insiemi A, B, C sono sottoinsiemi dell’insieme D:  
+b) Scrivi tutti i sottoinsiemi dell’insieme $A = \{a, b, c\}$.
+
+c) Scrivi tre parole le cui lettere formino tre insiemi $A$, $B$, $C$, tali che $A \subset B \subset C$.
+
+d) Stabilisci se gli insiemi $A$, $B$, $C$ sono sottoinsiemi dell’insieme $D$:  
 
 1. A = {x ∈ N: x è multiplo di 5}, B = {x ∈ Z: x >= -1}, C = {5, 10, 15}, D = N.  
 2. A = {x: x è una lettera di «diario»}, B = {x: x è una lettera di «ardore»}, C = {x: x è una lettera di «orda»}, D = {x: x è una lettera di «radio»}.
@@ -146,16 +149,21 @@ d) In una sala sono presenti 62 persone, ognuna delle quali ha almeno una delle 
 
 ### ESERCIZIO 7 - Differenza e Complemento
 
-a) Dati A = {x: x è residente in Veneto} e B = {x: x è residente a Venezia}, descrivi a parole A - B e B - A.  
-b) Dati gli insiemi A, B, C, formati rispettivamente dalle lettere delle parole «colore», «sapore», «odore», determina la differenza fra tutte le possibili coppie di insiemi.  
-c) Determina A e B in modo che:  
-&emsp; A U B = {a, b, c, d, e, f, g, h},  
-&emsp; A U B = {e, g},  
-&emsp; A - B = {a, d, h, b},  
-&emsp; B - A = {c, f }.  
-Le informazioni fornite sono eccessive. Quante ne bastano?  
+a) Dati A = {x: x è residente in Veneto} e B = {x: x è residente a Venezia}, descrivi a parole A - B e B - A.
+
+b) Dati gli insiemi A, B, C, formati rispettivamente dalle lettere delle parole «colore», «sapore», «odore», determina la differenza fra tutte le possibili coppie di insiemi.
+
+c) Determina A e B in modo che:
+
+1. A U B = {a, b, c, d, e, f, g, h};
+2. A U B = {e, g};
+3. A - B = {a, d, h, b};
+4. B - A = {c, f }.
+
+Le informazioni fornite sono eccessive. Quante ne bastano?
 
 d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispetto all’insieme U indicato.  
+
 1. U = {x: x è una lettera dell’alfabeto}, A = {x: x è una vocale}.  
 2. U = {x: x è un punto della superficie terrestre}, A = {x: x è un punto delle terre emerse}.
 
@@ -194,11 +202,13 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 ### ESERCIZIO 9 - Le relazioni binarie
 
-a) Dati gli insiemi A = {Po, Adige, Arno, Tevere} e B = {x: x è una regione italiana}, determina il sottoinsieme di A X B relativo alla relazione «a scorre in b»  
-b) Dati gli insiemi A = {1, 2, 3, 4, 5} e B = {-1, 0, 1, 2}, scrivi le coppie di ognuna delle seguenti relazioni da A a B  
-&emsp;  R1: «x + y = 4»  
-&emsp;  R2: «x = 2y»  
-&emsp;  R3: «x è minore o uguale a y»
+a) Dati gli insiemi $A = \{Po, Adige, Arno, Tevere\}$ e $B = \{x: x \enspace \acute{e} \enspace una \enspace regione  \enspace italiana\}$, determina il sottoinsieme di $A \times B$ relativo alla relazione $«x \enspace scorre  \enspace in  \enspace  y»$.
+
+b) Dati gli insiemi $A = \{1, 2, 3, 4, 5\}$ e $B = \{-1, 0, 1, 2\}$, scrivi le coppie di ognuna delle seguenti relazioni da A a B:
+
+1. R1: $«x + y = 4»$;
+2. R2: $«x = 2y»$;
+3. R3: $«x \le y»$.
 
 #### Laboratorio
 
