@@ -16,12 +16,14 @@ b) Rappresenta per elencazione i seguenti insiemi:
 7. Le vocali della parola «farfalla»
 
 c) Rappresenta per elencazione i seguenti insiemi:  
-1. L’insieme A dei numeri del tipo $3n$, con n ∈ {0, 2, 4, 6};  
-2. L’insieme B dei numeri del tipo $2n + 1$, con n ∈ {0, 1, 2, 3, 4};  
-3. L’insieme C dei numeri del tipo $-2n$, con n ∈ {-2, -1, 0, 1, 2};  
-4. L’insieme D dei numeri del tipo $\dfrac{3n + 1}{3}$, con n ∈ {-3, -2, -1, 1, 2, 3}.
+1. L’insieme A dei numeri del tipo $3n$, con $n \in \{0, 2, 4, 6\}$;  
+2. L’insieme B dei numeri del tipo $2n + 1$, con $n \in \{0, 1, 2, 3, 4\}$;  
+3. L’insieme C dei numeri del tipo $-2n$, con $n \in \{-2, -1, 0, 1, 2\}$;  
+4. L’insieme D dei numeri del tipo $\dfrac{3n + 1}{3}$, con $n \in \{-3, -2, -1, 0, 1, 2, 3\}$.
 
 #### Laboratorio
+
+Per il presente laboratorio e per tutti i successivi, utilizzare la versione on-line di GEOGEBRA Classic all'indirizzo: https://www.geogebra.org/classic.
 
 a) Risolvi il punto a) dell'esercizio prendendo ad esempio i comandi GEOGEBRA riportati di seguito:
 
@@ -67,8 +69,8 @@ b) Trova il numero degli elementi degli insiemi riportati di seguito.
 
 a) Risolvi il punto b.2 dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_B: \{''Roma'', ''Latina'', ''Rieti'', ''Viterbo'', ''Frosinone''\}$ &#9166; 
-2. $ContaSe(true, l_B)$  &#9166;
+1. $B: \{''Roma'', ''Latina'', ''Rieti'', ''Viterbo'', ''Frosinone''\}$ &#9166; 
+2. $ContaSe(true, B)$  &#9166;
 
 b) Utilizzando le istruzioni GEOGEBRA del punto precedente, risolvi il punto a) dell'esercizio.
 
@@ -100,11 +102,11 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 b) Risolvi il punto d.2) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A=Unico(Suddividi(''diario'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''ardore'',\{''''\})))$ &#9166;   
-2. $l_C=Unico(Suddividi(''orda'',\{''''\}))$ &#9166;   $l_D=Unico(Suddividi(''radio'',\{''''\})))$ &#9166; 
-3. $l_A \subseteq l_B$  &#9166; 
-4. $l_A \subseteq l_D$  &#9166; 
-5. $l_A \subset l_D$  &#9166; 
+1. $A=Unico(Suddividi(''diario'',\{''''\})))$ &#9166;   $B=Unico(Suddividi(''ardore'',\{''''\})))$ &#9166;   
+2. $C=Unico(Suddividi(''orda'',\{''''\}))$ &#9166;   $D=Unico(Suddividi(''radio'',\{''''\})))$ &#9166; 
+3. $A \subseteq B$  &#9166; 
+4. $A \subseteq D$  &#9166; 
+5. $A \subset D$  &#9166; 
 
 
 
@@ -126,10 +128,10 @@ c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$,
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A=Unico(Suddividi(''tegame'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''gomito'',\{''''\})))$ &#9166;   
-2. $l_C=Unico(Suddividi(''attesa'',\{''''\}))$ &#9166;   $l_D=Unico(Suddividi(''paese'',\{''''\})))$ &#9166; 
-3. $Unione(l_A, l_B)$  &#9166; 
-4. $Intersezione(l_A, l_B)$  &#9166;  
+1. $A=Unico(Suddividi(''tegame'',\{''''\})))$ &#9166;   $B=Unico(Suddividi(''gomito'',\{''''\})))$ &#9166;   
+2. $C=Unico(Suddividi(''attesa'',\{''''\}))$ &#9166;   $D=Unico(Suddividi(''paese'',\{''''\})))$ &#9166; 
+3. $Unione(A, B)$  &#9166; 
+4. $Intersezione(A, B)$  &#9166;  
 
 
 
@@ -171,9 +173,9 @@ d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispe
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A=Unico(Suddividi(''colore'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''sapore'',\{''''\})))$ &#9166;   
-2. $l_A \setminus l_B$  &#9166; 
-3. $l_B \setminus l_A$  &#9166; 
+1. $A=Unico(Suddividi(''colore'',\{''''\})))$ &#9166;   $B=Unico(Suddividi(''sapore'',\{''''\})))$ &#9166;   
+2. $A \setminus B$  &#9166; 
+3. $B \setminus A$  &#9166; 
 
 
 
@@ -195,8 +197,8 @@ b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e q
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito (utilizza una singola lettera minuscola al posto dei nomi delle squadre):
 
-1. $l_A=\{a, b\}$  &#9166;   $l_B=\{4, 6\}$  &#9166;
-2. $Compatta(Compatta((h,k),h,l_A), k, l_B\})$ &#9166;   
+1. $A=\{a, b\}$  &#9166;   $B=\{4, 6\}$  &#9166;
+2. $Compatta(Compatta((h,k),h,A), k, B\})$ &#9166;   
 
 
 
@@ -214,9 +216,9 @@ b) Dati gli insiemi $A = \{1, 2, 3, 4, 5\}$ e $B = \{-1, 0, 1, 2\}$, scrivi le c
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A = \{1, 2, 3, 4, 5\}$  &#9166;   $l_B = \{-1, 0, 1, 2\}$  &#9166;
-2. $l_C = Singola(Compatta(Compatta((h, k), h, l_A), k, l_B))$ &#9166;   
-3. $TieniSe(x(A) + y(A) == 4, A, l_C)$   &#9166;
+1. $A = \{1, 2, 3, 4, 5\}$  &#9166;   $B = \{-1, 0, 1, 2\}$  &#9166;
+2. $l_C = Singola(Compatta(Compatta((h, k), h, A), k, B))$ &#9166;   
+3. $TieniSe(x(A) + y(A) == 4, A, C)$   &#9166;
 
 
 

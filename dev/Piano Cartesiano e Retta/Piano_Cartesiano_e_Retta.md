@@ -5,8 +5,10 @@
 
 Posiziona i punti degli insiemi seguenti su di un piano cartesiano  
 
-a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\}$   
-b) $T = \{(-1;0), (1;0), (0;1)\}$;  
+a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\}$;
+
+b) $T = \{(-1;0), (1;0), (0;1)\}$;
+
 c) $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
 
 #### Laboratorio
@@ -25,8 +27,10 @@ Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
 
 Disegna la retta che passa per ciascuno dei seguenti insiemi di punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
 
-a) $A = \{(-5;3), (1; 3), (6; 3)\}$;  
-b) $B = \{(0; 0), (0; -4)\}$;  
+a) $A = \{(-5;3), (1; 3), (6; 3)\}$;
+
+b) $B = \{(0; 0), (0; -4)\}$;
+
 c) $D = \{(-4; 4), (-2; 2), (3; -3)\}$.
 
 #### Laboratorio
@@ -38,10 +42,14 @@ a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $Retta((0,0),(0
 ### ESERCIZIO 4 - Campione di punti
 
 Per ciascuno degli insiemi riportati di seguito trova un campione di 4 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
-a) $A = \{(x; y): y = -1\}$;  
-b) $B = {(x; y): x = 3}$;  
-c) $C = \{(x; y): y = -x\}$;  
-d) $D = \{(x; y): y = x + 1\}$;  
+a) $A = \{(x; y): y = -1\}$;
+
+b) $B = {(x; y): x = 3}$;
+
+c) $C = \{(x; y): y = -x\}$;
+
+d) $D = \{(x; y): y = x + 1\}$;
+
 e) $E = \{(x; y): x + y = 1\}$.
 
 
@@ -49,8 +57,10 @@ e) $E = \{(x; y): x + y = 1\}$.
 ### ESERCIZIO 5 - Grafico della retta
 
 Disegna le rette rappresentate dalle seguenti equazioni:  
-a) $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x$  
-b) $y = \dfrac{-1}{3}x$,   $y = 3x$  
+a) $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x$;
+
+b) $y = \dfrac{-1}{3}x$,   $y = 3x$;
+
 c) $y = \dfrac{11}{8}x$,   $y = 11 x$  
 
 #### Laboratorio
@@ -62,8 +72,10 @@ a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y=-\dfrac{1}
 ### ESERCIZIO 6 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
-a) $\{(4; -5), (2; 3)\}$;  
-b) $\{(-3; 1), (-1; -2)\}$;  
+a) $\{(4; -5), (2; 3)\}$; 
+
+b) $\{(-3; 1), (-1; -2)\}$;
+
 c) $\{(4; 1/2), (2/3; -2)\}$.  
 
 #### Laboratorio
