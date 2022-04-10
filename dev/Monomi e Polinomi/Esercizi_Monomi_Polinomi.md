@@ -61,7 +61,7 @@ c) $\dfrac{5}{3}b\left(-4\right)a;$
 
 d) $a^{2}b\left(-\dfrac{1}{2}\right)a\dfrac{5}{3}b^{3}\left(-4\right)a;$   
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi i punti a) e c) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
@@ -83,7 +83,7 @@ c) $-3a^{2}x; 7ax;$
 
 d) $\dfrac{1}{2}x^{3}y; -x^{3}y$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $e4b: \dfrac{1}{2}xy -3xy + 7xy$  &#9166; 
 
@@ -148,7 +148,7 @@ b) $\left(-2x\right)\left(-\dfrac{1}{2}y\right)+\left(-2y\right)x+xy+y\left(-x\r
 
 c) $x^{2}+7x^{2}-2\left(-x^{2}\right)+2\left(-4\right)x^{2}+2x^{2}-2x^{2}+x^{2}-x\left(2x\right)+4x^{2}-2\left(2x^{2}\right)$  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) esercizio con l'istruzione GEOGEBRA:  $e7a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
 
@@ -164,7 +164,7 @@ b) $5ab - 2a^{2} + ab -a^{2}; xy - 3x^{2}y +2xy + x^{2}y;$
 
 c) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
@@ -233,7 +233,7 @@ Dati i polinomi seguenti:
 a) sottrai al primo la somma del secondo e del terzo;  
 b) aggiungi al terzo la differenza tra il secondo e il primo.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
@@ -256,7 +256,7 @@ c) $\left(-4x^{2}y\right)\,\cdotp\left(-x^{3}+2xy-y\right)$
 
 d) $-4x\left(2x+3y\right)-3y\left(-4x+y\right)-2\left(4x^{2}+3y^{2}\right)$  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
@@ -276,7 +276,7 @@ b) $\left(2x+y\right)\left(4x^{2}+2xy+y^{2}\right);\, \left(a^{3}-3a+2\right)\le
 
 c) $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right)$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 

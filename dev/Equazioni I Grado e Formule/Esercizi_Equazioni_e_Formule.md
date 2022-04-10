@@ -23,7 +23,7 @@ h) $1,\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$
 
 i) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
@@ -81,7 +81,7 @@ h) $\dfrac{10 - 5s}{3} = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$
 
 i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi la prima equazione del punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
@@ -122,7 +122,7 @@ a) Risolvi le seguenti equazioni considerando la lettera x come (unica) incognit
 
 b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata dimostrando che è la soluzione.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi la prima equazione del punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
@@ -166,7 +166,7 @@ b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
 2. $-x + 3y = 9. ~~~ incognita ~~ y; \enspace\enspace \dfrac{7}{8}c + w = 9, ~~~ incognita ~~ c$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
@@ -201,7 +201,7 @@ b) Scrivi la disequazione corrispondente alle frasi riportate di seguito.
 1. Insieme dei numeri minori o uguali ad 1; Insieme dei numeri non maggiori di 2;
 2. Insieme dei numeri il cui doppio è minore di 3; Insieme dei numeri non maggiori di $-\dfrac{4}{13}$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
@@ -232,7 +232,7 @@ c) Per ciascuno dei casi seguenti, scrivi la disequazione (elementare) o il sist
 2.  $[0; 3]$;   $(-2; 2]$;   $(2; \dfrac{33}{5}]$;   $(\dfrac{2}{5}; 1)$;
 3.  Gli intervalli dei punti b.3) e b.4).
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 Per il presente laboratorio, utilizzare la versione on-line di GEOGEBRA Classic all'indirizzo: https://www.geogebra.org/classic.
 

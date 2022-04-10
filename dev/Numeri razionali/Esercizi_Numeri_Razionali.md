@@ -106,9 +106,9 @@ b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfra
 
 Calcola le seguenti somme algebriche.
 
-a) $\dfrac{1}{2}+\dfrac{3}{2};\:,\dfrac{4}{5}+\dfrac{6}{5}-\dfrac{20}{5};\:-\dfrac{2}{3}-\dfrac{5}{3}+\dfrac{2}{3}+\dfrac{5}{3};$   
+a) $\dfrac{1}{2}+\dfrac{3}{2};\:\dfrac{4}{5}+\dfrac{6}{5}-\dfrac{20}{5};\:-\dfrac{2}{3}-\dfrac{5}{3}+\dfrac{2}{3}+\dfrac{5}{3};$   
 
-b) $\dfrac{1}{2}-\dfrac{3}{5};\:,\dfrac{1}{5}+\dfrac{2}{3};\:\dfrac{1}{6}-\dfrac{1}{2};$  
+b) $\dfrac{1}{2}-\dfrac{3}{5};\:\dfrac{1}{5}+\dfrac{2}{3};\:\dfrac{1}{6}-\dfrac{1}{2};$  
 
 c) $\dfrac{2}{3}-\dfrac{3}{2};\:\dfrac{4}{5}+5;\:-5-\dfrac{7}{8};\:2-\dfrac{1}{4};\:2+\dfrac{1}{4};\:2-\dfrac{1}{4}\:,\dfrac{2}{3}+\dfrac{1}{8}-1;$   
 
@@ -276,13 +276,13 @@ c) Al quadrato della somma del cubo di un numero x e del suo doppio togli il cub
 
 Scrivi a parole le seguenti espressioni.
 
-a) $\dfrac{1}{3}-\left(-\dfrac{2}{3}+\dfrac{1}{3}\right).$
+a) $\dfrac{1}{3}-\left(-\dfrac{2}{3}+\dfrac{1}{3}\right)$;
 
-b) $\left(-\dfrac{2}{3}+\dfrac{1}{3}\right)\cdot\dfrac{1}{3}-1.$
+b) $\left(-\dfrac{2}{3}+\dfrac{1}{3}\right)\cdot\dfrac{1}{3}-1$;
 
-c) $\dfrac{a}{2}-\left(\dfrac{1}{3}-a\right).$
+c) $\dfrac{a}{2}-\left(\dfrac{1}{3}-a\right)$;
 
-d) $\dfrac{1}{3}\dfrac{a}{2}-\left(-\dfrac{1}{3}-a\right).$
+d) $\dfrac{1}{3}\dfrac{a}{2}-\left(-\dfrac{1}{3}-a\right)$.
 
 
 

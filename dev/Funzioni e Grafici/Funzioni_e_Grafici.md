@@ -25,7 +25,7 @@ d) Determina quali dei seguenti insiemi di coppie cartesiane definisce una funzi
 2. $\{(2, 1), (3, 3), (2, 5), (4, 7)\}$;
 3. $\{(0, -2), (2, -2), (4, 6), (6, 6)\}$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
@@ -76,7 +76,7 @@ d) $y = 2x +1$;
 
 e) $y = 4x$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi i punti a), b) e d) dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$:
 
@@ -103,7 +103,7 @@ b) $y = 1 + |x|$;
 
 c) $y = -2|x|$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con i seguenti comandi GEOGEBRA:
 
@@ -149,7 +149,7 @@ d) QUOTA ISCRIZIONE. L'iscrizione ad una piscina costa 250 euro per le 12 settim
 2. Calcolare la spesa se il ritardo è di 2 settimane;  
 3. Compilare una tabella (2 colonne, Prima colonna: Numero settimane di ritardo, Seconda colonna: Spesa nell'Anno Successivo) che riporta la spesa nell'anno successivo per ogni settimana di ritardo della prima iscrizione.  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la seguente sequenza di comandi GEOGEBRA:
 
@@ -204,7 +204,7 @@ a) Per ciascuno dei grafici seguenti individua:
 
   ![Iperbole quadrata](img/quad.png)
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Individua i punti di massimo e minimo relativo delle funzioni dei punti a.1) ed a.5) dell'esercizio con i seguenti comandi GEOGEBRA:
 

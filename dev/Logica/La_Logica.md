@@ -160,7 +160,7 @@ b) Individua tra le proposizioni seguenti le tatutologie e le contraddizioni.
 5. $(p \land q) \land (p \lor q);$  
 6. $(p \to q) \land p) \to q$
 
-#### Laboratorio
+#### Laboratorio LOGICTOOLS
 
 a) Trovare la tabella di verità della prima formula del punto a.1) dell'esercizio utilizzando la sequenza di comandi riportata di seguito.
 

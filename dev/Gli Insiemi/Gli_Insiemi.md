@@ -21,7 +21,7 @@ c) Rappresenta per elencazione i seguenti insiemi:
 3. L’insieme C dei numeri del tipo $-2n$, con $n \in \{-2, -1, 0, 1, 2\}$;  
 4. L’insieme D dei numeri del tipo $\dfrac{3n + 1}{3}$, con $n \in \{-3, -2, -1, 0, 1, 2, 3\}$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 Per il presente laboratorio e per tutti i successivi, utilizzare la versione on-line di GEOGEBRA Classic all'indirizzo: https://www.geogebra.org/classic.
 
@@ -65,7 +65,7 @@ b) Trova il numero degli elementi degli insiemi riportati di seguito.
 2. $B = \{x: x \; \acute{e} \; una \; provincia \; del \; Lazio \}$;
 5. $C = \{x: 2x - 5 = -x + 7 + 3x\}$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b.2 dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
@@ -91,7 +91,7 @@ d) Stabilisci se gli insiemi $A$, $B$, $C$ sono sottoinsiemi dell’insieme $D$:
 1. $A = \{x \in \mathbb{N}: x \; \acute{e} \; multiplo \; di \; 5\}$, $B = \{x \in  \mathbb{Z}: x \ge -1\}$, $C = \{5, 10, 15\}$, $D = \mathbb{N}$.  
 2. $A = \{x: x \; \acute{e} \; una \; lettera \; di \; «diario»\}$, $B = \{x: x \; \acute{e} \; una \; lettera \; di \; «ardore»\}$, $C = \{x: x \; \acute{e} \; una \; lettera \; di \; «orda»\}$, $D = \{x: x \; \acute{e} \; una \; lettera \; di \; «radio»\}$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
@@ -124,7 +124,7 @@ c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$,
 1. $A \cap B \cap C$  
 2. $A \cup (B \cup C )$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
@@ -169,7 +169,7 @@ d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispe
 1. U = {x: x è una lettera dell’alfabeto}, A = {x: x è una vocale}.  
 2. U = {x: x è un punto della superficie terrestre}, A = {x: x è un punto delle terre emerse}.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
@@ -193,7 +193,7 @@ b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e q
 2. $B \times A =  \{(1, a), (2, a), (1, b), (2, b)\}$
 3. $A \times B = \{(+, a), (+ , b), (+, c), (+ , a), (- , b),  (-, c)\}$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito (utilizza una singola lettera minuscola al posto dei nomi delle squadre):
 
@@ -212,7 +212,7 @@ b) Dati gli insiemi $A = \{1, 2, 3, 4, 5\}$ e $B = \{-1, 0, 1, 2\}$, scrivi le c
 2. R2: $«x = 2y»$;
 3. R3: $«x \le y»$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 

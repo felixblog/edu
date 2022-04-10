@@ -16,7 +16,7 @@ c) Stabilisci quali delle relazioni seguenti sono vere.
 1. $\sqrt[2]{4}+2=0$;  $\sqrt[5]{4}-5=0$;  $\sqrt[4]{2}-\sqrt[2]{4}=0$; 
 2. $\sqrt[2]{25}=\sqrt[2]{36}-1$;  $\sqrt[5]{1}-1=0$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il terzo esercizio del punto a.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
@@ -44,7 +44,7 @@ b) Calcola il valore delle seguenti potenze
 1. $9^{\frac{3}{2}}$;    $27^{\frac{2}{3}}$;    $1^{\frac{2}{3}}$;    
 2. $\left(\dfrac{1}{4}\right)^{\frac{3}{2}}$;    $\left(\dfrac{25}{9}\right)^{\frac{3}{2}}$;    $8^{-\frac{2}{3}}$;    $25^{-\frac{1}{2}}$;
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
@@ -68,7 +68,7 @@ a) Per ciascuna delle equazioni seguenti, individua, nel caso sia di secondo gra
 4. $(x-3)(x-3)=0$;
 5. $x(x-6)=0$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Scrivi le equazioni dei punti a.1), a.2), a.3) dell'esercizio in forma normale con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
@@ -93,7 +93,7 @@ b) Scrivi l'equazione, calcola il valore del discriminante e trova le soluzioni,
 1. $a=2, b=8, c=1$;   $a=3, b=-1, c=2$;   $a=\sqrt[2]{2}, b=\sqrt[2]{50}, c=\sqrt[2]{72}$;
 2. $a=2, b=8, c=10$;   $a=0, b=-1, c=2$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il secondo esercizio del punto a.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
@@ -136,7 +136,7 @@ d) Fai un grafico approssimativo delle parabole seguenti.
 
 1. $y = x^2$​;   $y = -x^2$​;   $y=\dfrac{1}{4}x^2-9$;   $y=-\dfrac{5}{2}x^2-5x$;   $y=x^2+x+1$;
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Disegna con GEOGEBRA il grafico della parabola $y=\dfrac{1}{4}x^2-9$ e calcolane l'intersezione con gli assi, il vertice e l'asse di simmetria con le istruzioni riportate di seguito.
 
@@ -166,7 +166,7 @@ b) Scrivi l'equazione della parabola che passa per il vertice ed un altro punto 
 1. $V(0;1), P(1;0)$
 2. $V(0;2), P(1,6)$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
@@ -185,7 +185,7 @@ a) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
 1. $x^2-x$;   $-x^2-x$;   $x^2-4$; 
 2. $\dfrac{1}{4}x^2-9$;   $-\dfrac{5}{2}x^2-5x$;   $x^2+x+1$; (polinomi delle parabole dell'esercizio 5, punto a.3)).
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il primo punto dell'esercizio a.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
 

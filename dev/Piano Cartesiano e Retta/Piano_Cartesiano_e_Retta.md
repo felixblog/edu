@@ -11,7 +11,7 @@ b) $T = \{(-1;0), (1;0), (0;1)\}$;
 
 c) $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $l=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
 
@@ -33,7 +33,7 @@ b) $B = \{(0; 0), (0; -4)\}$;
 
 c) $D = \{(-4; 4), (-2; 2), (3; -3)\}$.
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $Retta((0,0),(0,-4))$.
 
@@ -63,7 +63,7 @@ b) $y = \dfrac{-1}{3}x$,   $y = 3x$;
 
 c) $y = \dfrac{11}{8}x$,   $y = 11 x$  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y=-\dfrac{1}{3}x,y=x\}$ &#9166; .
 
@@ -78,7 +78,7 @@ b) $\{(-3; 1), (-1; -2)\}$;
 
 c) $\{(4; 1/2), (2/3; -2)\}$.  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-2 - 1}{-1 - \dfrac{1}{2}}$ &#9166; .
 
@@ -94,7 +94,7 @@ b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti.
 
 ![rette1](img/rette1.png)  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a.2) dell'esercizio con l'istruzione GEOGEBRA: $Retta((4,-5),(2,3))$.
 
@@ -114,7 +114,7 @@ b) Scrivi in forma esplicita le seguenti equazioni
 1. $y - \dfrac{1}{2}x = 5$,   $y +\dfrac{-1}{3}x - 4 = 0$  
 2. $y - x +2 = 0$,   $y - 4 = x + 9$  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
@@ -148,7 +148,7 @@ x-y=7 \\
 \end{array} 
 \right.$$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
 
@@ -167,7 +167,7 @@ a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
 c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
 
@@ -231,7 +231,7 @@ b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sos
 2. Nelle ipotesi del punto 1 e ricavando dalla risposta dell'esercizio a.1) i ricavi giornalieri del noleggio, scrivi la formula del ricavo annuo, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
 3. Scrivi la formula dell'utile annuo come differenza tra i ricavi ed i costi. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo delle $x$ (giorni) in cui l'utile è positivo, detto "Regione dei Profitti" e quello in cui è negativo, detto "Regione delle Perdite".
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Disegna le curve dei costi dei punti b) e c) e rileva, per il punto c.2), quali sono graficamente i criteri che se applicati conducono alle decisioni ottimali per il consumatore.
 

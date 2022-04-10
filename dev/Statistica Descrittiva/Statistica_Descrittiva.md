@@ -105,7 +105,7 @@ Si costruiscano:
 1. le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi 0-25, 26-50 e 51-75; 
 2. per la distribuzione del livello socio-economico di calcolino le frequenze assolute e relative.
 
-#### Laboratorio
+#### Laboratorio FOGLIO ELETTRONICO
 
 Tutti i dati utili alle esercitazioni di laboratorio sono contenuti nel file in formato Excel scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Frequenze.xlsx).
 
@@ -293,7 +293,7 @@ b) La tabella seguente riporta alcune caratteristiche degli individui appartenen
 
 7. Si costruiscano le distribuzioni di intensità del fatturato per provenienza geografica e per titolo di studio.
 
-#### Laboratorio
+#### Laboratorio FOGLIO ELETTRONICO
 
 a) Risolvi il punto b.3) dell'esercizio con la sequenza di operazioni sul FOGLIO ELETTRONICO riportati di seguito.
 

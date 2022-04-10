@@ -30,7 +30,7 @@ d) Trova tre soluzioni della seconda equazione del primo sistema;
 
 e) Trova quattro soluzioni della prima equazione del terzo sistema. 
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
@@ -46,7 +46,7 @@ Risolvere le equazioni seguenti come se la lettera $y$ fosse l'unica incognita.
 a) $2x-y=0$;   $x+3y=-1$;   $7x-\dfrac{1}{3}y+1=y$  
 b) $3x+y=1-2y$;   $4x-3y = 2y+2-5x$;   $4(y - 2x) + 10x - 3 = -2$  
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
@@ -88,7 +88,7 @@ d)  $$ \left\{
 \end{array} 
 \right.$$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
@@ -164,7 +164,7 @@ a+c=1 \\
 \end{array} 
 \right.$$
 
-#### Laboratorio
+#### Laboratorio GEOGEBRA
 
 a) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
