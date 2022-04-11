@@ -5,7 +5,7 @@
 
 a) Usando la calcolatrice, trova il valore, approssimato alla quarta cifra decimale, dei radicali riportati di seguito. Fai una prova della correttezza del calcolo dopo aver trovato il numero.
 
-1. $\sqrt[2]{4}$;   $\sqrt[2]{81}$;   $\sqrt[3]{125}$;   $\sqrt[2]{2}$;   $\sqrt[3]{2}$;
+1. $\sqrt[2]{4}$;   $\sqrt[2]{81}$;   $\sqrt[3]{125}$;   $\sqrt{2}$;   $\sqrt[3]{2}$;
 2. $\sqrt[2]{\dfrac{1}{2}}$;   $\sqrt[2]{\dfrac{3}{4}}$;   $\sqrt[3]{12.345}$;
 3. Nel caso di $\sqrt2$ e $\sqrt[3]{12.345}$ trova l'errore relativo percentuale tra il risultato della calcolatrice e quello approssimato alla quarta cifra decimale.
 
@@ -18,13 +18,13 @@ c) Stabilisci quali delle relazioni seguenti sono vere.
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il terzo esercizio del punto a.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
+a) Risolvi il quinto esercizio del punto a.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $\sqrt2$ &#9166; 
+1. $\sqrt[3]2$ &#9166; 
 2. Premi sul pulsante $\approx$ e da $1.259921049895$ prendi $1.2599$.
 3. $1.2599^3$&#9166; ottenendo $1.9998$.
 
-b) Risolvi il quarto esercizio del punto a.1) con una sequenza di operazioni GEOGEBRA analoga a quella del punto precedente ma inserendo in input la radice in forma di esponenziale:  $2^\frac{1}{3}$ &#9166; 
+b) Risolvi il quarto esercizio del punto a.1) con una sequenza di operazioni GEOGEBRA analoga a quella del punto precedente ma inserendo in input la radice in forma di esponenziale:  $2^\frac{1}{2}$ &#9166; 
 
 c) Risolvi il punto c.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
