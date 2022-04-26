@@ -122,7 +122,7 @@ f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 
 ### ESERCIZIO 4 - Forme Simboliche
 a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  
-a = “Aldo ha superato l’esame”, b = “Bruno ha superato l’esame”, c = “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
+$a$: “Aldo ha superato l’esame”, $b$: “Bruno ha superato l’esame”, $c$: “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
 
 1. "Solo Carlo ha superato l’esame";  
 2. "Solo Aldo non ha superato l’esame";  
@@ -132,7 +132,7 @@ a = “Aldo ha superato l’esame”, b = “Bruno ha superato l’esame”, c =
 6. "Al più due tra Aldo, Bruno e Carlo hanno superato l’esame";  
 7. "Esattamente due tra Aldo, Bruno e Carlo hanno superato l’esame".
 
-b) Posto: c = "Carlo è ligure" e d = "Diego è piemontese", scrivere in forma simbolica le seguenti proposizioni composte:
+b) Posto $c$: "Carlo è ligure" e $d$: "Diego è piemontese", scrivere in forma simbolica le seguenti proposizioni composte:
 1. "Carlo non è ligure”  
 2. "Carlo è ligure e Diego è piemontese";  
 3. "Carlo è ligure sebbene Diego sia piemontese";  
@@ -186,6 +186,6 @@ a) Individuando premesse e conclusione, tradurre nel linguaggio della logica pro
 5. Se Carlo ha vinto la gara, allora, se Mario è arrivato secondo, allora Sergio è arrivato terzo. Mario non è arrivato secondo. Quindi, o Carlo ha vinto o Sergio è arrivato terzo.  
 6. Se giochi e studi supererai gli esami, ma se giochi e non studi non supererai gli esami. Pertanto, se giochi, allora o studi e supererai gli esami o non studi e non supererai gli esami.  
 7. Il Parma vince il campionato oppure il Chievo retrocede. D’altra parte, non si dà il caso che, se il Parma vince il campionato, allora il Chievo non retrocede. Inoltre, il Chievo non retrocede e il Sassuolo si qualifica in Europa League. Dunque, il Sassuolo non si qualifica in Europa League.  
-(Indicare con: p: "Il Parma vince il campionato", c: "Il Chievo retrocede", s: "Il Sassuolo si qualifica in Europa League").
+(Indicare con: $p$: "Il Parma vince il campionato", $c$: "Il Chievo retrocede", $s$: "Il Sassuolo si qualifica in Europa League").
 
 b) Analizzare la validità dei ragionamenti del punto a).
