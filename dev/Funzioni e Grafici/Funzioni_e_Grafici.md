@@ -1,6 +1,6 @@
-# Funzioni e Grafici
+# Funzioni e Modelli
 
-### ESERCIZIO 1: Definizione di funzione
+### ESERCIZIO 1: Calcolo del valore di una funzione
 
 a) Una agenzia di noleggio auto fa pagare per una automobile 50 euro al giorno più 32 centesimi a Km percorso. Il costo giornaliero dell'auto è quindi una funzione del numero di Km calcolato da $c(x) = 0,32x + 50$. Calcola c(75), c(150), c(225) e c(650).
 
@@ -18,12 +18,6 @@ x & y = x^2 \\
 $$
 
 c) Calcola il valore della funzione definita dall'espressione $\dfrac{1}{1-x}$ per i punti del dominio indicati nella tabella del punto b).
-
-d) Determina quali dei seguenti insiemi di coppie cartesiane definisce una funzione
-
-1. $\{(1, 3), (2, 5), (3, 7), (4, 8)\}$;
-2. $\{(2, 1), (3, 3), (2, 5), (4, 7)\}$;
-3. $\{(0, -2), (2, -2), (4, 6), (6, 6)\}$.
 
 #### Laboratorio GEOGEBRA
 
