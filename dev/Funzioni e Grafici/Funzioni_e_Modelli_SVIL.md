@@ -80,14 +80,56 @@ a) Risolvi i punti a), b) e d) dell'esercizio con i seguenti comandi GEOGEBRA, c
 
 
 
-### ESERCIZIO 5 - La funzione lineare
+### ESERCIZIO 5 - Dipendenza lineare
 Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 
 ![F](img/f1.png)    ![F](img/f2.png)   ![F](img/f3.png) 
 
 
 
-### ESERCIZIO 5 - La funzione quadratica
+### ESERCIZIO 5 - Interesse semplice
+
+Una persona prende in prestito da una finanziaria 1.000 euro (capitale) per pagare un corso di formazione. Dovrà restituire il capitale entro 5 anni in una unica soluzione ma pagare trimestralmente l'1% dell'importo, a titolo di interesse, finchè non estingue il debito.
+
+a. Se $I_n$ è l'ammontare degli interessi pagati fino all'$n$-esimo trimestre e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
+
+b. Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri?
+
+
+
+### ESERCIZIO 6 - Prezzo delle bibite
+
+In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio 10&#162; a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio 4 euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di 40&#162; a lattina si venderebbero 141 lattine a settimana, e che per ogni 5&#162; in più le vendite settimanali si ridurrebbero di 12 lattine.
+
+a. Detti $P_n = 40 + 5n, \: n=0, 1, 2, 3, 10$ una successione di prezzi delle lattine, e $Q_n = Q_{n-1} -12$ le quantità vendute, completa la simulazione delle vendite come indicato nella tabella seguente: 
+
+b. Simula la quantità venduta per i seguenti prezzi inferiori a 40&#162;: {35, 30, 25, 20, 15, 10}
+
+c. Detto $x$ il prezzo e $y$ la quantità settimanale venduta, scrivi la curva di domanda delle lattine nella scuola.
+
+
+
+### ESERCIZIO 7 - Consumo di carburante
+
+Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda ha osservato che il trattore consuma 25 litri di gasolio l'ora e, all'inizio dell'attività di aratura, ha una scorta di 1500 litri di gasolio. Considerato che ogni giorno lavorativo il trattore ara per circa 6 ore, calcolare:
+
+a. il consumo giornaliero di gasolio;
+
+b. il livello della scorta di gasolio a fine giornata per i primi 5 giorni;
+
+c. il numero di giorni necessari per l'esaurimento completo della scorta.
+
+
+
+### ESERCIZIO 8 - Studio epidemiologico
+
+Uno scienziato studia la diffusione di una epidemia in una piccola città con un modello lineare. Lo scienziato stima che all'inizio dello studio  c'erano $3.700$ casi e $45$ nuovi casi al giorno. 
+a. Calcola il numero dei casi dopo $5, 10, 15, x$ giorni;
+b. Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la malattia richiede un trattamento con un farmaco ospedaliero. All'inizio dello studio, l'ospedale cittadino aveva $500$ dosi del farmaco. Secondo il modello dal punto precedente, quanti giorni possono passare prima che il farmaco finisca?
+
+
+
+### ESERCIZIO 6 - La dipendenza quadratica
 
 
 

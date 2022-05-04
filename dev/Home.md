@@ -49,13 +49,13 @@ Problemi su interesse ed investimenti
 Problemi su monete e miscele
 ([Esercizi](http://felixblog.github.io/edu/Problemi_I_grado.html)) 
 
-## Gli Insiemi
+## Insiemi e Relazioni
 Il concetto di insieme e le sue rappresentazioni
 I sottoinsiemi e la proprietà caratteristica
 Le operazioni di intersezione, unione, differenza e complemento
 Il prodotto cartesiano
 Le relazioni
-([Esercizi](http://felixblog.github.io/edu/Gli_Insiemi.html)) 
+([Esercizi](http://felixblog.github.io/edu/Insiemi_e_Relazioni.html)) 
 
 ## La logica
 Le proposizioni e la logica simbolica

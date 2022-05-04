@@ -200,15 +200,40 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 
 
-### ESERCIZIO 9 - Le relazioni binarie
+### ESERCIZIO 9 - Le relazioni. Dalla proprietà caratteristica all'elencazione
 
-a) Dati gli insiemi $A = \{Po, Adige, Arno, Tevere\}$ e $B = \{x: x \; \acute{e} \; una \; regione  \; italiana\}$, determina il sottoinsieme di $A \times B$ relativo alla relazione $«x \; scorre  \; in  \;  y»$.
+a) Considera il disegno seguente che riporta i rapporti di parentela tra gli elementi di una famiglia.
 
-b) Dati gli insiemi $A = \{1, 2, 3, 4, 5\}$ e $B = \{-1, 0, 1, 2\}$, scrivi le coppie di ognuna delle seguenti relazioni da A a B:
+![Famiglia.drawio](D:\Portable\repo\edu\img\Famiglia.drawio.png)
 
-1. R1: $«x + y = 4»$;
-2. R2: $«x = 2y»$;
-3. R3: $«x \le y»$.
+Se $P = \{Sara, Tommaso, Roberto, Elisa, Anna, Patrizia, Giovanni\}$, elenca le coppie, elementi di  $P \times P$, con le proprietà definite di seguito:
+
+1. R~1~: $«x \: e' \: madre \: di \:y»$;
+2. R~2~: $«x \: e' \: genitore \: di \:y»$;
+3. R~3~: $«x \: e' \: sorella \: di \:y»$;
+4. R~4~: $«x \: e' \: nipote \: di \:y»$;
+
+b) Dati gli insiemi $A = \{1, 2, 3, 4, 5\}$ e $B = \{-1, 0, 1, 2\}$, scrivi i sottoinsiemi di $A \times B$ le cui coppie soddisfano le proprietà seguenti:
+
+1. R~1~: $«x + y = 4»$;
+2. R~2~: $«x = 2y»$;
+3. R~3~: $«x \le y»$.
+
+c) Considera l'insieme di persone $P$ del punto a) e l'insieme di città $C = \{Roma, Latina, Rieti, Viterbo, Frosinone\}$. I fatti seguenti indicano la città di abitazione di ciascuno:
+
+f~1~: "Sara e Tommaso abitano a Roma";
+
+f~2~: "Anna abita a Latina e Patrizia a Frosinone";
+
+f~3~: "Elisa abita a Viterbo";
+
+f~4~: "Giovanni abita a Frosinone".
+
+Tenendo conto dei fatti precedenti, elenca gli elementi di:
+
+1. $P \times C$ che soddisfano la proprietà R~1~(x, y): "x abita a y";
+2. $P \times P$, che soddisfano R~2~(x,y): "x abita nella stessa città di y";
+3. $I = \{x \in P: R_2(x,Roma)\}.$ 
 
 #### Laboratorio
 
@@ -222,7 +247,18 @@ a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comand
 
 ### ESERCIZIO 10 - Rappresentazione delle relazioni
 
-a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}$ e $B = \{2, 4, 5\}$, rappresenta la relazione da A a B: «La somma di x e y è dispari» in forma sagittale, cartesiana, tabellare, tabellare a doppia entrata.
+a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}$ e $B = \{2, 4, 5\}$, rappresenta la relazione in $A \times B$, definita dalla proprietà caratteristica «La somma di x e y è dispari», in forma sagittale, cartesiana, tabellare, tabellare a doppia entrata.
 
-b) Data la relazione $R = \{(Franco;3), (Anna;6), (Luigi;8), (Ester;7), (Marco; 6)\}$ che riporta i voti di Italiano in un compito in classe, rappresenta R in forma sagittale, cartesiana e tabellare. 
+b) Nell'esercizio 9.a  rappresenta le relazioni in forma sagittale, cartesiana, tabellare.
 
+b) Scrivi in forma sagittale, cartesiana e tabellare la relazione $R = \{(Franco;3), (Anna;6), (Luigi;8), (Ester;7), (Marco; 6)\}$, che rappresenta i voti di 5 alunni in un compito in classe di italiano. Quali sono gli insiemi di cui è composto il prodotto cartesiano di questa relazione? 
+
+
+
+### ESERCIZIO 11 - Dall'elencazione alla proprietà caratteristica
+
+a) Rappresenta le relazioni seguenti mediante una proprietà caratteristica dei loro elementi, dopo aver trovato gli insiemi del prodotto cartesiano su cui si basa la relazione.
+
+1. $A = \{(lunedi, martedi), (mercoledi, giovedi), (venerdi, sabato)\}$;  
+2. $B = \{(Nord, Sud), (Est, Ovest)\}$;  
+3. $C = \{(0,0), (1, 2), (-1, -2), (2, 4), (-2, -4)\}$;  
