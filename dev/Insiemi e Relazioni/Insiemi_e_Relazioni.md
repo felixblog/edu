@@ -204,7 +204,7 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 a) Considera il disegno seguente che riporta i rapporti di parentela tra gli elementi di una famiglia.
 
-![Famiglia.drawio](D:\Portable\repo\edu\img\Famiglia.drawio.png)
+![Famiglia](img\Famiglia.drawio.png)
 
 Se $P = \{Sara, Tommaso, Roberto, Elisa, Anna, Patrizia, Giovanni\}$, elenca le coppie, elementi di  $P \times P$, con le proprietà definite di seguito:
 
