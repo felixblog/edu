@@ -1,9 +1,9 @@
 
-# Gli Insiemi
+# Insiemi e Relazioni
 
 ### ESERCIZIO 1 - Rappresentazione per Elencazione
 
-a) Rappresenta graficamente e per elencazione gli insiemi A, B e C formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea». 
+a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi A, B e C formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea». 
 
 b) Rappresenta per elencazione i seguenti insiemi:  
 
@@ -202,7 +202,7 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 ### ESERCIZIO 9 - Le relazioni. Dalla proprietà caratteristica all'elencazione
 
-a) Considera il disegno seguente che riporta i rapporti di parentela tra gli elementi di una famiglia.
+a) Considera il disegno seguente che illustra i rapporti di parentela tra gli elementi di una famiglia.
 
 ![Famiglia](img\Famiglia.drawio.png)
 
