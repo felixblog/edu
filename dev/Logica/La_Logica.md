@@ -1,5 +1,5 @@
 
-# La Logica
+# Logica
 
 ### ESERCIZIO 1 - Le proposizioni
 a) Indica quali fra le seguenti frasi sono proposizioni (logiche):
@@ -32,7 +32,7 @@ b) Attribuisci il valore di verità alle seguenti proposizioni:
 a) Nelle seguenti proposizioni composte indica quali sono le proposizioni elementari e quali i connettivi che le legano.
 1. «Il gatto è un mammifero e il topo è un roditore»;  
 2. «Se passi a prendermi, allora andiamo a passeggio insieme»;  
-3. «O studi o vai a lavorare»;  
+3. «Oggi o mangio carne o mangio pesce»;  
 4. «Nel pomeriggio studio e ascolto musica»;  
 5. «Bologna è capoluogo dell’Emilia-Romagna e Firenze della Toscana»;  
 6. «Il cane è un mammifero o un quadrupede»;  

@@ -204,7 +204,7 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 a) Considera il disegno seguente che illustra i rapporti di parentela tra gli elementi di una famiglia.
 
-![Famiglia](img\Famiglia.drawio.png)
+![Famiglia](img/Famiglia.drawio.png)
 
 Se $P = \{Sara, Tommaso, Roberto, Elisa, Anna, Patrizia, Giovanni\}$, elenca le coppie, elementi di  $P \times P$, con le proprietà definite di seguito:
 
@@ -249,7 +249,7 @@ a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comand
 
 a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}$ e $B = \{2, 4, 5\}$, rappresenta la relazione in $A \times B$, definita dalla proprietà caratteristica «La somma di x e y è dispari», in forma sagittale, cartesiana, tabellare, tabellare a doppia entrata.
 
-b) Nell'esercizio 9.a  rappresenta le relazioni in forma sagittale, cartesiana, tabellare.
+b) Nell'esercizio 9.a  rappresenta le relazioni in forma sagittale, cartesiana, tabellare. A quale delle tre rappresentazioni corrisponde quella riportata in figura? 
 
 b) Scrivi in forma sagittale, cartesiana e tabellare la relazione $R = \{(Franco;3), (Anna;6), (Luigi;8), (Ester;7), (Marco; 6)\}$, che rappresenta i voti di 5 alunni in un compito in classe di italiano. Quali sono gli insiemi di cui è composto il prodotto cartesiano di questa relazione? 
 
