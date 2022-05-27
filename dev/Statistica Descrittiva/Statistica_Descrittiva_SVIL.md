@@ -8,7 +8,7 @@ a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubbl
 1. la popolazione e le unità statistiche;
 2. i caratteri più significativi per l'indagine e le loro modalità.
 
-#### SOLUZIONE
+**ESEMPIO DI SOLUZIONE**
 
 La popolazione è l'insieme di tutti gli individui che si recano in una scuola della città (insegnanti, studenti, personale amministrativo e tecnico): ogni individuo è una unità statistica. I caratteri più rilevanti sono:
 

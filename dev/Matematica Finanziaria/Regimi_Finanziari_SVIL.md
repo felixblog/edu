@@ -88,27 +88,30 @@ b) Determina il valore di $x$ essendo noti il logaritmo e la base.
 
 ### ESERCIZIO x - Equazioni esponenziali
 
-a) Risolvi le seguenti equazioni esponenziali applicando le proprietà delle potenze.
+Risolvi le seguenti equazioni esponenziali applicando le proprietà delle potenze.
 
-1. $2^x=32$;   $3^x=\dfrac{1}{9}$;   $2^{-x}=\sqrt{2}$;   $8^x=\dfrac{1}{16}$;   
-2. $3^{2x-1}=1$;   $3^{x+3}=\left(\dfrac{1}{9}\right)^x$;   $0,4^{x-1}=0,16^{2x}$;   $3^{2x-1}=27$;
+a) $2^x=32$;   $3^x=\dfrac{1}{9}$;   $2^{-x}=\sqrt{2}$;   $8^x=\dfrac{1}{16}$;   
 
-a) Utilizzando la calcolatrice, trova un valore approssimato della soluzione delle equazioni esponenziali riportate di seguito.
-
-1. $5^x=8$;   $6^{2x}=12$;   $(1,12)^x=2,3745$;       $(1,086)^{-x}=0,82478$;
-2. $3^{2x}=5 \cdot 2^{x+1}$;   $3^{x+1} \cdot 5^{2x-1}=15$;   $(1,065)^{2x}=3$;   $(1,086)^{-x}=0,82478$;
-3. ............
-4. .................
+b) $3^{2x-1}=1$;   $3^{x+3}=\left(\dfrac{1}{9}\right)^x$;   $0,4^{x-1}=0,16^{2x}$;   $3^{2x-1}=27$;
 
 
 
 ### ESERCIZIO x - Equazioni logaritmiche
 
-a) Risolvi le seguenti equazioni logaritmiche.
+Risolvi le seguenti equazioni logaritmiche.
 
-1. ......................
-2. ...........................
-3. ........................................
+a) $log(2x+3)=log(x+6)$; $log(x+1)+log(x)=log20$;$log(5-x)=g(x+1)$;
+
+b) $log(x+3)-log(x-2)=log6$; $log_2(2-x)=log_2(x+7)-1$.
+
+
+
+### ESERCIZIO x - Equazioni risolubili con i logaritmi
+
+Utilizzando i logaritmi e la calcolatrice, trova un valore approssimato della soluzione delle equazioni esponenziali riportate di seguito.
+
+1. $5^x=8$;   $6^{2x}=12$;   $(1,12)^x=2,3745$;       $(1,086)^{-x}=0,82478$;
+2. $3^{2x}=5 \cdot 2^{x+1}$;   $3^{x+1} \cdot 5^{2x-1}=15$;   $(1,065)^{2x}=3$;   $(1,086)^{-x}=0,82478$;
 
 
 
