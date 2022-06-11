@@ -81,4 +81,21 @@ b) Analogamente al punto precedente, scrivi i comandi GEOGEBRA che individuano i
 
 
 
-### ESERCIZIO 4 - Funzioni Esponenziali e logaritmiche
+### ESERCIZIO 4 - Funzioni Esponenziali e Logaritmiche
+
+a) Per ciascuna delle funzioni seguenti disegna un grafico approssimativo costruendo una tabella di punti dopo aver determinato il dominio.
+
+1. $y = 2^x$;   $y = 3^x$;   $y = 2^x-5$; 
+2. $y = e^x$;   $y = 5\cdot e^x$;   $y = e^{2x}$; 
+3. $y = ln(x)$;   $y = ln(x) + 2$;   $y = ln(2x)$; 
+4. $y = ln(|x|)$;   $y = ln(x^2)$;   $y = -ln(x)$; 
+
+
+
+### ESERCIZIO 4 - Funzioni Composte
+
+a) In ciascuno dei punti seguenti scrivi le due funzioni composte $f(g(x))$ e $g(f(x))$ e disegna il grafico di ciascuna.
+
+1. $f(x)=x^2$ e $g(x)=2x-1$;
+2. $f(x)=x+12$ e $g(x)=x-3$;
+3. $f(x)=2^x$ e $g(x)=-x^2$.

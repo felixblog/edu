@@ -1,4 +1,4 @@
-# Esercizi di matematica del primo biennio e secondo biennio
+# Esercizi di matematica del primo e secondo biennio
 
 ### Premessa
 [A cosa serve la Matematica](http://felixblog.github.io/edu/A_cosa_serve_la_Matematica.html) 
@@ -68,7 +68,8 @@ I Predicati ed i quantificatori
 Predicati ed insiemi
 ([Esercizi](http://felixblog.github.io/edu/La_Logica.html)) 
 
-------
+
+
 
 ## Secondo Anno
 
@@ -95,7 +96,8 @@ Moda, Media e Mediana
 Indicatori Statistici
 ([Esercizi](http://felixblog.github.io/edu/Statistica_Descrittiva.html))
 
-------
+
+
 
 ## Terzo Anno
 
@@ -123,7 +125,8 @@ Successioni aritmetiche e geometriche
 Problemi di matematica finanziaria
 ([Esercizi](http://felixblog.github.io/edu/Regimi_Finanziari.html))
 
-------
+
+
 
 ## Quarto Anno
 
@@ -138,6 +141,7 @@ Individuazione del dominio di funzioni
 Definizione di limite ed esempi
 Limite finito ed infinito per x tendente a valore finito ed infinito
 Limite destro e limite sinistro
+Operazioni sui limiti e forme indeterminate
 Calcolo di limiti di funzioni
 Asintoti
 Continuità
@@ -147,12 +151,11 @@ Esempi di funzioni discontinue
 Il rapporto incrementale
 Definizione di derivata
 Interpretazione geometrica della derivata
-Derivate delle funzioni fondamentali
+Derivate fondamentali
 Regole di derivazione
 
 ### Studio di funzioni
-Crescenza (e decrescenza) di funzioni e derivata
-Massimi, minimi e flessi di funzioni e derivate
+Crescenza (e decrescenza) di funzioni e loro derivate
+Massimi, minimi e flessi di funzioni e loro derivate
 Problemi di calcolo del massimo e minimo di funzioni
 Disegno del grafico di una funzione
-

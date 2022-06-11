@@ -2,11 +2,18 @@
 
 ### ESERCIZIO 1 - Rapporto incrementale e derivata
 
-a) ...
+Pag. 269 Mat. Verde 4 [file:///H:\Didattica\scuola\Bergamini\Matematica.Verde.4.pdf](file:///H:\Didattica\scuola\Bergamini\Matematica.Verde.4.pdf)
 
+a) Nei seguenti esercizi, data la funzione f(x), calcola i valori a fianco indicati.  
+
+1. $f(x)=(x-1)^2 \:\:\: f(1), f(-2)$; 
 1. 
 
+b) 
 
+Calcola il valore della derivata delle funzioni nei punti indicati come limite del rapporto incrementale
+
+Disegna con Geogebra un grafico approssimativo delle funzioni del punto a) e delle loro tangenti nei punti indicati.
 
 #### Laboratorio GEOGEBRA
 
@@ -15,6 +22,8 @@ a) ...
 ### ESERCIZIO 2 - Interpretazione geometrica della derivata
 
 1. 
+
+Derivata di una somma, prodotto, potenza, rapporto, funzione composta
 
 ### ESERCIZIO 3 - Studio della crescenza e decrescenza, massimi e minimi
 
