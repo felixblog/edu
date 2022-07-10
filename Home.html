@@ -22,8 +22,6 @@ body.typora-export { padding-left: 30px; padding-right: 30px; }
 @media screen and (max-width: 500px) {
   body.typora-export { padding-left: 0px; padding-right: 0px; }
   #write { padding-left: 20px; padding-right: 20px; }
-  .CodeMirror-sizer { margin-left: 0px !important; }
-  .CodeMirror-gutters { display: none !important; }
 }
 #write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
@@ -51,7 +49,7 @@ sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inh
 #write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
 figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
 figure > table { margin: 0px; }
-tr { break-inside: avoid; break-after: auto; }
+thead, tr { break-inside: avoid; break-after: auto; }
 thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
 table.md-table td { min-width: 32px; }
@@ -73,6 +71,7 @@ div.hr:focus { cursor: none; }
 #write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
 .md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
 .CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
 .footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
 .footnotes + .footnotes { margin-top: 0px; }
 .md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
@@ -87,7 +86,7 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
 #write .footnote-line { white-space: pre-wrap; }
 @media print {
   body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; padding-bottom: 0px !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
@@ -130,6 +129,7 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
 }
 a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
 .footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
 .md-attr { display: none; }
 .md-fn-count::after { content: "."; }
 code, pre, samp, tt { font-family: var(--monospace); }
@@ -457,11 +457,8 @@ code {
     html {
         font-size: 13px;
     }
-    table,
     pre {
         page-break-inside: avoid;
-    }
-    pre {
         word-wrap: break-word;
     }
 }
@@ -655,24 +652,28 @@ header, .context-menu, .megamenu-content, footer{
 <span>Tabelle e Grafici</span>
 <span>Proporzionalità diretta ed inversa</span>
 <span>Esempi di Funzioni notevoli: valore assoluto, funzioni definite a tratti etc.</span>
-<span>(</span><a href='http://felixblog.github.io/edu/Funzioni_e_Grafici.html'><span>Esercizi</span></a><span>) </span></p><h3 id='matematica-finanziaria-i-regimi-finanziari'><span>Matematica Finanziaria: i regimi finanziari</span></h3><p><span>L&#39;interesse semplice</span>
+<span>(</span><a href='http://felixblog.github.io/edu/Funzioni_e_Grafici.html'><span>Esercizi</span></a><span>) </span></p><h3 id='logaritmi-e-successioni-aritmetiche-e-geometriche'><span>Logaritmi e Successioni Aritmetiche e geometriche</span></h3><p><span>Logaritmi e loro proprietà</span>
+<span>Equazioni Esponenziali e logaritmiche</span>
+<span>Successioni aritmetiche e geometriche</span>
+<span>Somme di successioni aritmetiche e geometriche</span>
+<span>(</span><a href='http://felixblog.github.io/edu/Logaritmi_Successioni_Aritmetiche_Geometriche.html'><span>Esercizi</span></a><span>) </span></p><h3 id='matematica-finanziaria-i-regimi-finanziari'><span>Matematica Finanziaria: i regimi finanziari</span></h3><p><span>L&#39;interesse semplice</span>
 <span>L&#39;interesse composto</span>
 <span>Tassi equivalenti</span>
-<span>Logaritmi ed esponenziali</span>
-<span>Successioni aritmetiche e geometriche</span>
 <span>Problemi di matematica finanziaria</span>
 <span>(</span><a href='http://felixblog.github.io/edu/Regimi_Finanziari.html'><span>Esercizi</span></a><span>)</span></p><p>&nbsp;</p><h2 id='quarto-anno'><span>Quarto Anno</span></h2><h3 id='funzioni-di-una-variabile-e-loro-proprietà'><span>Funzioni di una variabile e loro proprietà</span></h3><p><span>Definizione e dominio</span>
 <span>Esempi di funzioni razionali intere e fratte, irrazionali, logaritmiche ed esponenziali</span>
 <span>Funzioni crescenti e decrescenti</span>
 <span>Punti e valori di massimo e di minimo relativi ed assoluti</span>
-<span>Individuazione del dominio di funzioni</span></p><h3 id='limiti-e-continuità'><span>Limiti e continuità</span></h3><p><span>Definizione di limite ed esempi</span>
+<span>Individuazione del dominio di funzioni</span>
+<span>(</span><a href='http://felixblog.github.io/edu/Funzioni_E_Loro_Proprietà.html'><span>Esercizi</span></a><span>)</span></p><h3 id='limiti-e-continuità'><span>Limiti e continuità</span></h3><p><span>Definizione di limite ed esempi</span>
 <span>Limite finito ed infinito per x tendente a valore finito ed infinito</span>
 <span>Limite destro e limite sinistro</span>
 <span>Operazioni sui limiti e forme indeterminate</span>
 <span>Calcolo di limiti di funzioni</span>
 <span>Asintoti</span>
 <span>Continuità</span>
-<span>Esempi di funzioni discontinue</span></p><h3 id='derivate'><span>Derivate</span></h3><p><span>Il rapporto incrementale</span>
+<span>Esempi di funzioni discontinue</span>
+<span>(</span><a href='http://felixblog.github.io/edu/Esercizi_Funzioni_Limiti_e_Continuita.html'><span>Esercizi</span></a><span>) </span></p><h3 id='derivate'><span>Derivate</span></h3><p><span>Il rapporto incrementale</span>
 <span>Definizione di derivata</span>
 <span>Interpretazione geometrica della derivata</span>
 <span>Derivate fondamentali</span>
