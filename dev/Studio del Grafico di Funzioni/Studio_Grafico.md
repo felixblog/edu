@@ -1,4 +1,4 @@
-# Funzioni: Derivate e Studio del Grafico
+# Studio del Grafico di Funzioni
 
 ### ESERCIZIO 1 - Studio della crescenza e decrescenza, massimi e minimi
 
@@ -42,7 +42,9 @@ a) Dalla figura rappresentata in ogni grafico deduci:
 - i limiti agli estremi del dominio e le equazioni degli asintoti;
 - i punti di massimo e minimo relativi;
 
-1. .....
+1. ![gra-1](img\gra-1.png)  ![gra-2](img\gra-2.png) 
+1. ![gra-3](img\gra-3.png)  ![gra-4](img\gra-4.png) 
+1. ![gra-5](img\gra-5.png) 
 
 
 
