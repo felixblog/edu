@@ -162,7 +162,7 @@ Definizione di derivata
 Interpretazione geometrica della derivata
 Derivate fondamentali
 Regole di derivazione
-([Esercizi](http://felixblog.github.io/edu/Funzioni_Derivate_Studio_Grafico.html)) 
+([Esercizi](http://felixblog.github.io/edu/Funzioni_Derivate.html)) 
 
 ### Studio di funzioni
 Crescenza (e decrescenza) di funzioni e loro derivate
