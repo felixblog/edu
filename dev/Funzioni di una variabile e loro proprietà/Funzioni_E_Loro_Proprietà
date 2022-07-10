@@ -96,6 +96,6 @@ a) Per ciascuna delle funzioni seguenti disegna un grafico approssimativo costru
 
 a) In ciascuno dei punti seguenti scrivi le due funzioni composte $f(g(x))$ e $g(f(x))$ e disegna il grafico di ciascuna.
 
-1. $f(x)=x^2$ e $g(x)=2x-1$;
-2. $f(x)=x+12$ e $g(x)=x-3$;
-3. $f(x)=2^x$ e $g(x)=-x^2$.
+1. $f(x)=x^2$, $g(x)=2x-1$;
+2. $f(x)=x+12$, $g(x)=x-3$;
+3. $f(x)=2^x$, $g(x)=-x^2$.

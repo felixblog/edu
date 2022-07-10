@@ -116,12 +116,19 @@ Proporzionalità diretta ed inversa
 Esempi di Funzioni notevoli: valore assoluto, funzioni definite a tratti etc.
 ([Esercizi](http://felixblog.github.io/edu/Funzioni_e_Grafici.html)) 
 
+### Logaritmi e Successioni Aritmetiche e geometriche
+
+Logaritmi e loro proprietà
+Equazioni Esponenziali e logaritmiche
+Successioni aritmetiche e geometriche
+Somme di successioni aritmetiche e geometriche
+([Esercizi](http://felixblog.github.io/edu/Logaritmi_Successioni_Aritmetiche_Geometriche.html)) 
+
 ### Matematica Finanziaria: i regimi finanziari
+
 L'interesse semplice
 L'interesse composto
 Tassi equivalenti
-Logaritmi ed esponenziali
-Successioni aritmetiche e geometriche
 Problemi di matematica finanziaria
 ([Esercizi](http://felixblog.github.io/edu/Regimi_Finanziari.html))
 
@@ -136,6 +143,7 @@ Esempi di funzioni razionali intere e fratte, irrazionali, logaritmiche ed espon
 Funzioni crescenti e decrescenti
 Punti e valori di massimo e di minimo relativi ed assoluti
 Individuazione del dominio di funzioni
+([Esercizi](http://felixblog.github.io/edu/Funzioni_E_Loro_Proprietà.html))
 
 ### Limiti e continuità
 Definizione di limite ed esempi
@@ -146,6 +154,7 @@ Calcolo di limiti di funzioni
 Asintoti
 Continuità
 Esempi di funzioni discontinue
+([Esercizi](http://felixblog.github.io/edu/Esercizi_Funzioni_Limiti_e_Continuita.html)) 
 
 ### Derivate
 Il rapporto incrementale
