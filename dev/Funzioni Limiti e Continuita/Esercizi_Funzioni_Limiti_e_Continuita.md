@@ -27,13 +27,13 @@ a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA
 
 b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
-1. ![lim-1](img/lim-1.png) 
+1. ![lim-1](img\lim-1.png) 
 
    $\displaystyle \lim_{x\to 0} f(x) = ...$;  $\displaystyle \lim_{x\to 0^+} f(x) = ...$;  $\displaystyle \lim_{x\to 0^-} f(x) = ...$;  $\displaystyle \lim_{x\to 2^+} f(x) = ...$;  $\displaystyle \lim_{x\to 2^-} f(x) = ...$; 
 
 c) La funzione rappresentata dal grafico della figura ha due asintoti verticali. Scrivi le loro equazioni e i limiti che li esprimono.
 
-1. ![lim-2](img/lim-2.png) 
+1. ![lim-2](img\lim-2.png) 
 
 
 
@@ -45,11 +45,11 @@ a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA
 
 b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
-1. ![lim-3](img/lim-3.png) 
+1. ![lim-3](img\lim-3.png) 
 
   $\displaystyle \lim_{x\to ...} f(x) = -1^-$;  $\displaystyle \lim_{x\to \infty} f(x) = ...$;  $\displaystyle \lim_{x\to 1^+} f(x) = ...$.
 
-2. ![lim-4](img/lim-4.png) 
+2. ![lim-4](img\lim-4.png) 
 
   $\displaystyle \lim_{x\to \infty} f(x) = ...$;  $\displaystyle \lim_{x\to -\infty} f(x) = ...$;   $\displaystyle \lim_{x\to ...} f(x) = 1$.
 
@@ -63,11 +63,11 @@ a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA
 
 b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
-1. ![lim-3](img/lim-5.png) 
+1. ![lim-3](img\lim-5.png) 
 
   $\displaystyle \lim_{x\to -\infty} f(x) = ...$;  $\displaystyle \lim_{x\to +\infty} f(x) = ...$.
 
-2. ![lim-4](img/lim-6.png) 
+2. ![lim-4](img\lim-6.png) 
 
   $\displaystyle \lim_{x\to -\infty} f(x) = ...$;  $\displaystyle \lim_{x\to +\infty} f(x) = ...$;   $\displaystyle \lim_{x\to 1} f(x) = ...$.
 
@@ -77,7 +77,7 @@ b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
 a) Quali delle funzioni rappresentate dai seguenti grafici non sono continue in c e perché?
 
-![Def-Continuita](img/Def-Continuita.png)
+![Def-Continuita](img\Def-Continuita.png)
 
 b)  Verifica se le funzioni riportate di seguito sono continue nel punto $x_0$ indicato.
 
