@@ -116,7 +116,7 @@ Proporzionalità diretta ed inversa
 Esempi di Funzioni notevoli: valore assoluto, funzioni definite a tratti etc.
 ([Esercizi](http://felixblog.github.io/edu/Funzioni_e_Grafici.html)) 
 
-### Logaritmi e Successioni Aritmetiche e geometriche
+### Logaritmi e Successioni Aritmetiche e Geometriche
 
 Logaritmi e loro proprietà
 Equazioni Esponenziali e logaritmiche
