@@ -42,20 +42,20 @@ a) Dalla figura rappresentata in ogni grafico deduci:
 - i limiti agli estremi del dominio e le equazioni degli asintoti;
 - i punti di massimo e minimo relativi;
 
-1. pag. 409
+1. .....
 
 
 
 b) Per ognuna delle seguenti funzioni trovare:
 
-1. il dominio di definizione;
-2. i limiti per $x \rightarrow +\infty$ e $x \rightarrow -\infty$ ed eventuali asintoti orizzontali e verticali;
-3. la derivata;
-4. gli intervalli in cui la funzione è crescente e decrescente;
-5. i punti ed i valori di massimo e minimo, relativi ed assoluti;
-6. un grafico approssimato della funzione.
+- il dominio di definizione;
+- i limiti per $x \rightarrow +\infty$ e $x \rightarrow -\infty$ ed eventuali asintoti orizzontali e verticali;
+- la derivata;
+- gli intervalli in cui la funzione è crescente e decrescente;
+- i punti ed i valori di massimo e minimo, relativi ed assoluti;
+- un grafico approssimato della funzione.
 
 1. $y = x^2 - 3x$;    $ y = x^3 - 3x + 2$;    $y = -\dfrac{3}{4}x + 5$.
-1. $f(x) = x + \dfrac{1}{x}$;    $y = \dfrac{x^2 - 1}{x}$;    $y = -x -\dfrac{4}{x} + 6$.
-1. $y = -\dfrac{x^2 + 1}{x}$;    $y = \sqrt{x+1}$.
-1. $y = -e^x$;
+2. $y = x + \dfrac{1}{x}$;    $y = \dfrac{x^2 - 1}{x}$;    $y = -x -\dfrac{4}{x} + 6$.
+3. $y = -\dfrac{x^2 + 1}{x}$;    $y = \sqrt{x+1}$.
+4. $y = -e^x$.
