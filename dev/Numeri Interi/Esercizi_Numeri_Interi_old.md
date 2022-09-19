@@ -11,29 +11,11 @@ a) crescente i numeri $-6, +9, -1, +7, -2, -4;$
 
 b) decrescente i numeri $+8, -3, 0, -5, +4, -11.$  
 
-#### Laboratorio GEOGEBRA
-
-Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice ALGEBRA):
-
-```
-Ordina({-6,9,-1,7,-2,-4})
-l1 = Ordina({+8, -3, 0, -5, +4, -11})
-Inverti(l1)
-```
-
 
 
 ### ESERCIZIO 2 - Rappresentazione dei numeri interi
 
 Rappresenta su una retta orientata i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6.$
-
-#### Laboratorio GEOGEBRA
-
-Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti:
-
-```
-l1 = {(+3,0), (-7,0), (+4,0), (-2,0), (0,0), (+1,0), (-6,0)}
-```
 
 
 
@@ -235,15 +217,6 @@ b) $y(1 - y) + 3,\ [y=-5]$;
 
 c) $y(1 - y) + 3,\ [y=1], [y=4], [y=0]$ [Sostituisci prima il primo valore, poi il secondo e quindi il terzo].
 
-#### Laboratorio GEOGEBRA
-
-Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-```
-Sostituisci(-2 x+x^(2)+1,{x = 2})
-Sostituisci(y*(1 - y) + 3,{y = -5})
-```
-
 
 
 ### ESERCIZIO 14 - Espressioni algebriche e sostituzioni (II)
@@ -256,15 +229,6 @@ a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e c
 4. $(x^{2}+a)x-a(x-1):(x+1)+4a,\ [x=1,a=-9]$
 
 b) Scrivere gli alberi relativi alle espressioni letterali dei punti precedenti.
-
-#### Laboratorio GEOGEBRA
-
-Risolvi il punto a.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-```
-e1 = 3-a^3-2b^2+a^2*(a-b)
-Sostituisci(e1,{a = 2, b = -2})
-```
 
 
 

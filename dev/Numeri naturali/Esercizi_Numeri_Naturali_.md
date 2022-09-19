@@ -39,23 +39,8 @@ b) Scrivi i multipli minori di 100 dei numeri 25, 40, 33, 6;
 c) Scrivi i multipli minori di 100 comuni ai numeri 6 e 8, 10 e 12, 15 e 16.   
 
 #### Laboratorio GEOGEBRA
-a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-```
-ListaDivisori(6)
-ListaDivisori(15)
-ListaDivisori(18)
-....
-```
-
-b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-```
-Successione(25*k, k, 1, floor(100/25))
-Successione(40*k, k, 1, floor(100/40))
-Successione(33*k, k, 1, floor(100/33))
-Successione(6*k, k, 1, floor(100/6))
-```
+a) Risolvi il punto a) dell'esercizio con il comando di GEOGEBRA $ListaDivisori(<numero>)$. 
+b) Risolvi il punto b) dell'esercizio con il comando di GEOGEBRA $Successione(25 k,k,1,(\dfrac{100}{25}))$.
 
 
 
@@ -145,18 +130,9 @@ f ) $((2a)b)^{3}, \enspace a = 2, b = 3$.
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+a) Risolvi il punto b) dell'esercizio con il comando di GEOGEBRA $Sostituisci(2y,\{y=32\})$. 
 
-```
-Sostituisci(5*x, {x = 50})
-Sostituisci(2*y, {y = 32})
-```
-
-b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-```
-Sostituisci(a - b, {a = 10, b = 7})
-```
+a) Risolvi il punto c) dell'esercizio con il comando di GEOGEBRA $Sostituisci(a-b,\{a=10, b=7\})$.  
 
 
 
@@ -178,19 +154,11 @@ f) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $.
 
 
 ### ESERCIZIO 10 - Dai diagrammi ad albero alle espressioni
-Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero: 
+Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero:  
 
-a) 
-
-![Albero](img\Albero1.png)
-
-b)
-
-![Albero](img\Albero2.png)
-
-c)
-
-![Albero](img\Albero3.png)
+1. ![Albero](img\Albero1.png)
+2. ![Albero](img\Albero2.png)
+3. ![Albero](img\Albero3.png)
 
 ### ESERCIZIO 11 - Proprietà delle potenze
 
@@ -227,19 +195,11 @@ b) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D.
 c) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi. 
 
 #### Laboratorio GEOGEBRA
-a) Risolvi i punti a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+a) Risolvi il punto a) dell'esercizio con il comando di GEOGEBRA $Fattorizza(<numero>)$, sostituendo a $<numero>$ in sequenza 25, 40, 33, 6.
 
-```
-Fattorizza(25)
-Fattorizza(40)
-Fattorizza(33)
-Fattorizza(6)
-```
+b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA seguenti:
 
-b) Calcola il MCD ed MCM del punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+1. $\{MCM(\{6, 8\}),\enspace MCD(\{6, 8\})\}$   &#9166;
+2. $\{MCM(\{15, 10\}),\enspace MCD(\{15, 10\})\}$   &#9166;
+3. $\{MCM(\{24, 25\}),\enspace MCD(\{24, 25\})\}$   &#9166; 
 
-```
-{MCM({6,8}), MCD({6,8})}
-{MCM({15,10}), MCD({15,10})}
-{MCM({24,25}), MCD({24,25})}
-```
