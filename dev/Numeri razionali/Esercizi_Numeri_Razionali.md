@@ -88,8 +88,6 @@ b) $[\dfrac{7}{15},\dfrac{1}{30},\dfrac{3}{10}];\:[\dfrac{4}{6},\dfrac{9}{10},\d
 
 
 
-
-
 ### ESERCIZIO 8 - Ordinamento delle frazioni
 
 Scrivi in ordine crescente le seguenti frazioni.  
@@ -97,8 +95,6 @@ Scrivi in ordine crescente le seguenti frazioni.
 a) $\dfrac{3}{2},\dfrac{4}{8},\dfrac{8}{3},\dfrac{7}{7},\dfrac{15}{4};$   
 
 b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfrac{4}{3}.$  
-
-
 
 
 
@@ -125,8 +121,6 @@ a) $3-\dfrac{1}{2}+\left[\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\ri
 b) $-\left(1+2\right)-\left(\dfrac{1}{12}+\dfrac{1}{2}\right)+\left(\dfrac{5}{2}+\dfrac{4}{3}\right)-\left[\dfrac{1}{6}+\left(-\dfrac{5}{4}-\dfrac{1}{3}\right)-1\right];$  
 
 c) $7-\left[\left(3+\dfrac{1}{5}-\dfrac{3}{4}-2\right)-\left(\dfrac{2}{5}-6+\dfrac{3}{4}-\dfrac{1}{2}\right)\right]+\dfrac{6}{5}-\left(\dfrac{7}{20}+\dfrac{1}{20}\right).$     $[R. 2]$  
-
-
 
 
 
@@ -220,8 +214,6 @@ Per ciascuno dei seguenti problemi:
 
 2) risolvi il problema rispondendo alla domanda.
 
-
-
 a) Paolo deve acquistare uno scooter che costa € 2760, ma possiede solo i 2/3 della somma. Quanto manca per effettuare la spesa?     [R. € 920]  
 
 b) Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di 20 Km?     [R. 50]  
@@ -255,8 +247,6 @@ e) Sottrai 1/8 di a ai 4/5 di c, dividi poi il risultato per i 3/8 del quadrato 
 f) Moltiplica la somma del doppio di a e della terza parte di b per la differenza tra il doppio di a e la terza parte di b, sottrai poi al risultato la somma del quadruplo del quadrato di a e del doppio di c. `[`a=1,b=$\dfrac{2}{3}$,c=-2 ][R. $\dfrac{15}{4}$]
 
 g) Moltiplica la differenza tra i 2/5 di a e la metà di b per il doppio di c, somma poi al risultato il quoziente tra 1/4 di a e la differenza tra il doppio di b e 1. [a=$\dfrac{5}{3}$,b=2,c=$\dfrac{3}{4}$].     [R. $-\dfrac{15}{36}$]
-
-[Verifica con Maxima. simp: false; e1: 2*a+b/3; e2: e1, a=1, b=2/3; e2, simp ].
 
 
 
@@ -316,9 +306,9 @@ d) $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\
 
 ### ESERCIZIO 21 - Problemi con le percentuali
 
-a) Trasforma in percentuale i numeri seguenti: $2;\enspace 0,02;\enspace -1,465;\enspace 5;\enspace 10.$
+a) Trasforma in percentuale i numeri seguenti: 2; 0,02; -1,465; 5; 0.
 
-b) Trasforma in numeri decimali le percentuali seguenti: $2\%;\enspace 0,02\%;\enspace -30\%;\enspace 350\%;\enspace 1000\%;\enspace 0,0002\%.$
+b) Trasforma in numeri decimali le percentuali seguenti: 2%; 0,02%; -30%; 350%; 1000%; 0,0002%.
 
 c) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
 

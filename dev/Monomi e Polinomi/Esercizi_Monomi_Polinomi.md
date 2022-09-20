@@ -3,27 +3,38 @@
 
 ### ESERCIZIO 1 - Dalle parole alle espressioni (I)
 
-Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una  o più lettere per indicare le quantità sconosciute.
+In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente.
 
-a) La somma della lunghezza x di un tavolo e 15;  
+a) $-2 \cdot 4 + (3 + 2 \cdot 4)$: Sostituisci $4$ con $a$;
 
-b) La differenza tra un numero e 10;  
+b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$: Sostituisci $3$ con $x$;
 
-c) I tre quarti della popolazione europea;  
+c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$: Sostituisci $3$ con $y$;
 
-d) La metà della metà di quello che ho preso ieri;
+d)  $-\dfrac{5}{3} \cdot 4 + (\dfrac{7}{4} \cdot 5 + 2) \cdot (-5)^2$: Sostituisci $5$ con $a$.
 
-e) Il rapporto tra gli abitanti dell'Italia e quelli della Cina;   
 
-f) 500 ridotto di j;  
 
-g) 21 kg in meno del peso totale;   
+### ESERCIZIO 1 - Dalle parole alle espressioni (I)
 
-h) Il doppio del valore atteso;  
+a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una  o più lettere per indicare le quantità sconosciute.
 
-i) La metà del dovuto;  
+1. La somma di x e 15;
+2. La somma della lunghezza di un tavolo e 15;
+3. La differenza tra un numero e 10;  
+4. I tre quarti della popolazione europea;
+5. La metà di $a$;
+6. La metà della metà di $a$;
+7. La metà della metà di quello che ho preso ieri;
 
-l)  Un acconto del venti per cento.  
+b) Come il punto precedente, scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati.
+
+1. Il rapporto tra gli abitanti dell'Italia e quelli della Cina;   
+2. 500 diminuito di j;  
+3. 21 kg in meno del peso totale;
+4. Il doppio del valore atteso;
+5. La metà del dovuto;
+6. Un acconto del venti per cento.  
 
 
 
@@ -150,7 +161,7 @@ c) $x^{2}+7x^{2}-2\left(-x^{2}\right)+2\left(-4\right)x^{2}+2x^{2}-2x^{2}+x^{2}-
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a) esercizio con l'istruzione GEOGEBRA:  $e7a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
+a) Risolvi il punto a) esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
 
 
 
@@ -168,7 +179,7 @@ c) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$
 
 a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
-1.  $e8a: $$a^2 b^ {2}+a^ 2-b^ {2}-2a^ {2} b^ 2 +a^2$ &#9166; 
+1.  $a^2 b^ {2}+a^ 2-b^ {2}-2a^ {2} b^ 2 +a^2$ &#9166; 
 2.  $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab$  &#9166; 
 
 
