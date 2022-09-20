@@ -1,7 +1,7 @@
 
 # Il Calcolo Letterale: Monomi e Polinomi
 
-### ESERCIZIO 1 - Dalle parole alle espressioni (I)
+### ESERCIZIO 1 - Dai numeri alle lettere
 
 In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente.
 
@@ -15,7 +15,7 @@ d)  $-\dfrac{5}{3} \cdot 4 + (\dfrac{7}{4} \cdot 5 + 2) \cdot (-5)^2$: Sostituis
 
 
 
-### ESERCIZIO 1 - Dalle parole alle espressioni (I)
+### ESERCIZIO 2 - Dalle parole alle espressioni (I)
 
 a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una  o più lettere per indicare le quantità sconosciute.
 
@@ -38,7 +38,24 @@ b) Come il punto precedente, scrivi l'espressione letterale corrispondente ad og
 
 
 
-### ESERCIZIO 2 - Dalle espressioni alle parole
+### ESERCIZIO 3 - Dalle lettere ai numeri
+
+a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
+
+1. $-2x + x^2 + 1,\ [x=2]$;
+2. $y(1 - y) + 3,\ [y=-5]$;
+3. $a − b, \enspace [a = 10, b = 7]$;
+4. $(a − b)(a + b), \enspace [a = \dfrac{2}{3}, b = -\dfrac{3}{2}]$;
+
+b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
+
+1. $a^{2} − b^{2}, [\enspace a = 1, b = 1]; \enspace [a = -3, b = -2]; \enspace [a = -6, b = \dfrac{5}{3}]$;
+2. $2a(b + 1) - 6ab , \enspace [a = -3, b = 0]$;
+3. $((2a)b)^{3}, \enspace [a = 2, b = -\dfrac{3}{2}]$.
+
+
+
+### ESERCIZIO 4 - Dalle espressioni alle parole
 
 Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri a e b, scrivi ...”.
 
@@ -60,7 +77,7 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
    
 
-### ESERCIZIO 3 - Forma normale dei monomi
+### ESERCIZIO 5 - Forma normale dei monomi
 
 Scrivi i seguenti monomi in forma normale.
 
@@ -82,7 +99,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 
 
-### ESERCIZIO 4 - Somme di monomi
+### ESERCIZIO 6 - Somme di monomi
 
 Indica la somma dei seguenti monomi e semplifica il risultato se possibile.
 
@@ -100,7 +117,7 @@ a) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $e4b: \dfrac{1}{2
 
 
 
-### ESERCIZIO 5 - Prodotti di monomi
+### ESERCIZIO 7 - Prodotti di monomi
 
 Calcola i seguenti prodotti di monomi.  
 
@@ -112,7 +129,7 @@ c) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$
 
 
 
-### ESERCIZIO 6 - Dalle parole alle espressioni
+### ESERCIZIO 8 - Dalle parole alle espressioni
 
 Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale richiesta in ogni problema. L'espressione richiesta deve dipendere da una quantità iniziale, in modo che, scegliendo per questa un numero e calcolando l'espressione sostituendo il numero si ha il valore corretto.
 
@@ -149,7 +166,7 @@ i) Una persona deposita in banca un capitale C su un conto che rende il 5% di in
 
 
 
-### ESERCIZIO 7 - Espressioni con monomi
+### ESERCIZIO 9 - Espressioni con monomi
 
 Semplifica le seguenti espressioni.
 
@@ -165,7 +182,7 @@ a) Risolvi il punto a) esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,\cdotp\
 
 
 
-### ESERCIZIO 8 - Polinomi in forma normale
+### ESERCIZIO 10 - Polinomi in forma normale
 
 Riduci i seguenti polinomi in forma normale.
 
@@ -184,7 +201,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO 9 - Rappresentazione delle espressioni letterali
+### ESERCIZIO 11 - Rappresentazione delle espressioni letterali
 
 a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
 
@@ -222,7 +239,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-### ESERCIZIO 10 - Somma di polinomi
+### ESERCIZIO 12 - Somma di polinomi
 
 Esegui le seguenti addizioni e sottrazioni tra polinomi.
 
@@ -233,7 +250,7 @@ b) $\left(3a^{3}+5a^{2}-2a+1\right)-\left(3a^{3}-2a^{2}+5a-7\right)$
 
 
 
-### ESERCIZIO 11 - Dalle parole alle espressioni
+### ESERCIZIO 13 - Dalle parole alle espressioni
 
 Dati i polinomi seguenti:
 
@@ -255,7 +272,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 12 - Prodotto di monomi per polinomi
+### ESERCIZIO 14 - Prodotto di monomi per polinomi
 
 Semplifica le seguenti espressioni.  
 
@@ -277,7 +294,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO - 13 Prodotto di polinomi
+### ESERCIZIO - 15 Prodotto di polinomi
 
 Semplifica le seguenti espressioni.  
 
