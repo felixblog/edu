@@ -3,7 +3,7 @@
 
 ### ESERCIZIO 1 - Operazioni ed Espressioni
 
-a) Per tutte le espressioni riportate di seguito, individua le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato.  
+a) Per tutte le espressioni riportate di seguito, elenca le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato.  
 
 1. $6 - 3;\enspace 6 : 3;\enspace 6 + 3;\enspace 6 · 3$;
 
@@ -17,7 +17,7 @@ a) Per tutte le espressioni riportate di seguito, individua le operazioni coinvo
 
 6. $16 : 4 · 8$  
 
-b) Per tutte le espressioni riportate di seguito, individua le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato. 
+b) Per tutte le espressioni riportate di seguito, elenca le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato. 
 
 1. $4 + 6·9$;  
 2. $(4 + 6)·9$;
@@ -61,7 +61,7 @@ Successione(6*k, k, 1, floor(100/6))
 
 ### ESERCIZIO 3 - Dalle parole ai numeri (I)
 
-Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato:  
+Scrivi le espressioni (NON il solo risultato!) relative alle seguenti frasi e calcolane il risultato:  
 
 a) Dividere 15 per la differenza tra 9 e 4 e poi sommare 2;
 
@@ -89,7 +89,7 @@ e) $15 − (17 − (15 + 1) : 8)$.
 
 ### ESERCIZIO 5 - Dalle parole ai numeri (II)
 
-Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcolane i valori.  
+Scrivi le espressioni  (NON il solo risultato!) che forniscono le soluzioni ai problemi seguenti e calcolane il risultato.  
 
 a) Anna riceve dalla madre 8 euro e va ad acquistare 2 scatole di colori del costo di 3 euro l'una. Al ritorno si ferma dalla nonna che le regala 5 euro. Con quanto denaro arriva a casa Anna? [R. 7 euro]  
 
@@ -130,7 +130,7 @@ Inserisci in GEOGEBRA le espressioni dei punti b) e c) dell'esercizio e calcola 
 
 ### ESERCIZIO 8 - Sostituzioni
 
-Negli esercizi seguenti, calcola (quando esiste) il valore delle espressioni per i valori delle lettere scritti di fianco.  
+Negli esercizi seguenti, calcola il valore delle espressioni sostituendo alle lettere i numeri come indicato a fianco.  
 a) $5x, \enspace x = 50$;  
 
 b) $2y, \enspace y = 32$;
@@ -194,7 +194,7 @@ c)
 
 ### ESERCIZIO 11 - Proprietà delle potenze
 
-a) Applica, quando è possibile, le proprietà delle potenze e indica la proprietà applicata.  
+a) Calcola il valore delle espressioni sia applicando la definizione di potenza sia applicando eventuali proprietà. In questo caso indica la proprietà applicata.  
 
 1. $2^{4} · 2^{2}·2; \enspace (3^{4})^{2} · 3^{7}; \enspace  2^{3} · 5^{3}; \enspace 2^{4} · 3^{4};$   
 2. $(7^{2} · 2^{2}) · 7^{2}; \enspace (4^{3})^{2} · 2^{6}; \enspace 6^{5} · 2^{5}; \enspace  (4^{5})^{2};$   
