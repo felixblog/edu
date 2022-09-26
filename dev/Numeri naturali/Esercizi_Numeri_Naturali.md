@@ -175,6 +175,12 @@ e) $((27 + 2) - 4 : (3 + 1)) - 20 $;
 
 f) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $.
 
+#### Esempio di SOLUZIONE
+
+d) 
+
+![Albero](img\Albero4.png)
+
 
 
 ### ESERCIZIO 10 - Dai diagrammi ad albero alle espressioni
