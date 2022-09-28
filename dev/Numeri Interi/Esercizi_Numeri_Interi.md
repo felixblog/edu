@@ -125,6 +125,12 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 2) $67-5[-1+(2-8)^2];$  
 4) $ (-20+3(-5)):(21-(-4)^2).$
 
+#### Esempio di SOLUZIONE
+
+b.2) 
+
+![Albero](img\Alberi-ES-7b-2.png)
+
 
 
 ### ESERCIZIO 8 - Dalle parole alle espressioni (I)
