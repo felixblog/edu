@@ -114,7 +114,7 @@ d) $-\dfrac{8}{3}+5-\dfrac{2}{5};\:12-\dfrac{1}{3}-\dfrac{1}{9}.$
 
 ### ESERCIZIO 10 - Espressioni con somme di frazioni
 
-Calcola il valore delle seguenti espressioni, eseguendo, in ciascun passaggio, solo operazioni indipendenti tra di loro.  
+Calcola il valore delle seguenti espressioni.  
 
 a) $3-\dfrac{1}{2}+\left[\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right]-1;\:\dfrac{1}{10}-\dfrac{3}{5}+\left[\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right]-\left(\dfrac{6}{5}+3\right);$    $[R. \dfrac{37}{20};-1]$  
 
@@ -132,9 +132,7 @@ a) $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\r
 
 b) $\dfrac{2}{4}:\dfrac{1}{2};\:\dfrac{4}{5}:\left(-\dfrac{12}{25}\right);\:\dfrac{2}{5}:4;\:\left(-1\right):\left(-5\right);$   
 
-c) $\left(3-\dfrac{3}{11}\right):\left(\dfrac{3}{2}-\dfrac{4}{11}\right);\:\left(+7\right):\left(+3\right)\cdot\left(-5\right);\:\left(+7\right):\left[\left(+3\right)\cdot\left(-5\right)\right].$     $[R. \dfrac{12}{5};-\dfrac{35}{3};-\dfrac{7}{15}]$  
-
-Calcola il valore delle seguenti espressioni, eseguendo, in ciascun passaggio, solo operazioni indipendenti tra di loro.  
+c) $\left(3-\dfrac{3}{11}\right):\left(\dfrac{3}{2}-\dfrac{4}{11}\right);\:\left(+7\right):\left(+3\right)\cdot\left(-5\right);\:\left(+7\right):\left[\left(+3\right)\cdot\left(-5\right)\right].$     $[R. \dfrac{12}{5};-\dfrac{35}{3};-\dfrac{7}{15}]$;
 
 d) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right);\:\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$     $[R. -7;\dfrac{15}{2}]$
 

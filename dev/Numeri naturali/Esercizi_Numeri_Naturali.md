@@ -89,7 +89,7 @@ e) $15 − (17 − (15 + 1) : 8)$.
 
 ### ESERCIZIO 5 - Dalle parole ai numeri (II)
 
-Scrivi le espressioni  (NON il solo risultato!) che forniscono le soluzioni ai problemi seguenti e calcolane il risultato.  
+Scrivi le espressioni  (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore.  
 
 a) Anna riceve dalla madre 8 euro e va ad acquistare 2 scatole di colori del costo di 3 euro l'una. Al ritorno si ferma dalla nonna che le regala 5 euro. Con quanto denaro arriva a casa Anna? [R. 7 euro]  
 
@@ -109,7 +109,7 @@ g) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 ### ESERCIZIO 6 - Operazioni ed espressioni (III)
 
-Calcola il valore delle seguenti espressioni eseguendo, in ciascun passaggio, solo operazioni indipendenti tra di loro.  
+Calcola il valore delle seguenti espressioni.  
 
 a) $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]$;
 
