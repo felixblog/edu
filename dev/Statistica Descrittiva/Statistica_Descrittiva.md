@@ -100,10 +100,10 @@ c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 sogg
 |           19           |  6   |               1               |            2            |           1           |        59.000        |
 |           20           |  15  |               1               |            2            |           1           |        61.000        |
 
-Si costruiscano: 
 
-1. le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi 0-25, 26-50 e 51-75; 
-2. per la distribuzione del livello socio-economico di calcolino le frequenze assolute e relative.
+
+1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi 0-25, 26-50 e 51-75; 
+2. Calcola le frequenze assolute e relative per determinare la distribuzione del livello socio-economico.
 
 #### Laboratorio FOGLIO ELETTRONICO
 
@@ -237,9 +237,9 @@ a) La tabella seguente riporta tre anni di dati mensili delle vendite di un prod
 | 2010 | Nov  | 13.562 | 2011 | Nov  | 13.121 | 2012 | Nov  | 13.649 |
 | 2010 | Dic  | 13.319 | 2011 | Dic  | 13.934 | 2012 | Dic  | 13.309 |
 
-1. Costruire la serie storica trimestrale (riepilogo) delle vendite;
-2. Costruire il riepilogo annuale;
-3. Fare il grafico cartesiano delle serie mensile, trimestrale, annuale.
+1. Costruisci la serie storica trimestrale (riepilogativa) delle vendite;
+2. Costruisci il riepilogo annuale;
+3. Rappresenta la serie mensile, trimestrale ed annuale con un grafico cartesiano .
 
 b) La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
 
@@ -278,20 +278,20 @@ b) La tabella seguente riporta alcune caratteristiche degli individui appartenen
 
 1. Quale è  l'unità statistica?  Quale è la popolazione di riferimento?
 
-2. Si indichi la tipologia di ciascun carattere.
+2. Indica la tipologia di ciascun carattere.
 
-3. Si costruisca la distribuzione di frequenza secondo il fatturato, utilizzando le seguenti classi: 0–20,
+3. Costruisci la distribuzione di frequenza secondo il fatturato, utilizzando le seguenti classi: 0–20,
    21–30, 31–40, 41–50.
 
-4. Si determini la distribuzione di frequenza secondo il titolo di studio.
+4. Determina la distribuzione di frequenza secondo il titolo di studio.
 
-5. Si determini la distribuzione di frequenza secondo l’età, con riferimento alle classi di seguito indicate:
+5. Determina la distribuzione di frequenza secondo l’età, con riferimento alle classi di seguito indicate:
    ﬁno a 25, da 26 a 35, da 36 a 50, oltre 50 anni.
 
-6. Si costruisca la distribuzione doppia di frequenza secondo il titolo di studio e la provenienza
+6. Costruisci la distribuzione doppia di frequenza secondo il titolo di studio e la provenienza
    geograﬁca.
 
-7. Si costruiscano le distribuzioni di intensità del fatturato per provenienza geografica e per titolo di studio.
+7. Costruisci le distribuzioni di intensità del fatturato per provenienza geografica e per titolo di studio.
 
 #### Laboratorio FOGLIO ELETTRONICO
 

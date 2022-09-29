@@ -8,7 +8,7 @@ a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubbl
 1. la popolazione e le unità statistiche;
 2. i caratteri più significativi per l'indagine e le loro modalità.
 
-**ESEMPIO DI SOLUZIONE**
+#### **ESEMPIO DI SOLUZIONE**
 
 La popolazione è l'insieme di tutti gli individui che si recano in una scuola della città (insegnanti, studenti, personale amministrativo e tecnico): ogni individuo è una unità statistica. I caratteri più rilevanti sono:
 
@@ -237,9 +237,9 @@ a) La tabella seguente riporta tre anni di dati mensili delle vendite di un prod
 | 2010 | Nov  | 13.562 | 2011 | Nov  | 13.121 | 2012 | Nov  | 13.649 |
 | 2010 | Dic  | 13.319 | 2011 | Dic  | 13.934 | 2012 | Dic  | 13.309 |
 
-1. Costruire la serie storica trimestrale (riepilogo) delle vendite;
-2. Costruire il riepilogo annuale;
-3. Fare il grafico cartesiano delle serie mensile, trimestrale, annuale.
+1. Costruisci la serie storica trimestrale (riepilogativa) delle vendite;
+2. Costruisci il riepilogo annuale;
+3. Produci il grafico cartesiano delle serie mensile, trimestrale, annuale.
 
 b) La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
 
@@ -322,7 +322,7 @@ b) Per i primi 15 giorni di un mese viene rilevato il ritardo (in minuti) accumu
 | **ritardo** | 10   | 15   | -2   | 0    | 50   | 20   | 0    | 9    | -5   | 8    | 10   | 20   | 6    | 10   | -10  |
 
 1. Calcola minimo, massimo, la moda, la mediana, la media aritmetica della distribuzione;
-2. Dopo aver raggruppato le osservazioni relative ai primi 15 giorni del mese nelle classi: [-10, 0]; (0, 10]; (10, 60] calcolare media e varianza in questa nuova situazione.
+2. Dopo aver raggruppato le osservazioni relative ai primi 15 giorni del mese nelle classi: [-10, 0]; (0, 10]; (10, 60] calcola media e varianza in questa nuova situazione.
 
 c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segue: 
 
@@ -330,7 +330,7 @@ c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segu
 | ------------- | ---- | ----- | ----- | ---- | ----- | ----- | ----- | ----- |
 | **risparmio** | 500  | 5.000 | 2.600 | 0    | 9.200 | 3.000 | 5.400 | 6.300 |
 
-1. Determinare la media, la varianza, e la mediana.
+1. Determina la media, la varianza, e la mediana.
 
 d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano presenti in Italia 5Ml di immigrati).
 
@@ -354,7 +354,7 @@ b) Rappresenta in uno stesso diagramma a barre verticali le due serie delle vend
 
 ### ESERCIZIO 10 - Rapporti di Composizione
 
-a) Si considerino i dati della tabella dell'esercizio 3.b). Calcolare i rapporti di composizione:
+a) Considera i dati della tabella dell'esercizio 3.b). Calcola i rapporti di composizione:
 
 1. Percentuale dei laureati sul totale;
 2. Percentuale dei soggetti maschi e dei soggetti femmine sul totale. 
