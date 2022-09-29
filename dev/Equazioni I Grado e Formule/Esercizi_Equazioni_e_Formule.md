@@ -28,7 +28,7 @@ i) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
 1. $e1: x + 12 = 28$ &#9166; 
-2. $e2:Sostituisci(e, \{x=6\})$ &#9166; 
+2. $e2:Sostituisci(e1, \{x=6\})$ &#9166; 
 3. $PrimoMembro(e2) == SecondoMembro(e2)$ &#9166;
 
 b) Risolvi i punti e) e f) dell'esercizio con sequenze di comandi GEOGEBRA analoghi a quelli del punto a). Ricorda di utilizzare altre etichette per indicare le equazioni ($e2, e3$ etc.).
@@ -143,9 +143,9 @@ Di seguito sono presentate alcune formule famose provenienti da discipline varie
 1) Area di un rettangolo: $A = b \cdot h$; Area di un triangolo: $A = \dfrac{b \cdot h}{2}$;
 
 2. Interesse semplice: $I = C\cdotp i\cdotp t$; Montante: $M = C + I$;
-3. Sconto: $S_{sconto} = P_{listino} - P_{scontato}$; Percentuale di Sconto: $s = \dfrac{S_{sconto}}{P_{listino}}$;
-4. Profitto (Utile): $U = R - C$; Utile (in percentuale) sulle vendite: $m = \dfrac{U}{R}$:
-5. Mark-Up (Assoluto): $M = P_{vendita} - C_{costo}$, Mark-Up (percentuale) $q$: $P_{vendita} = C_{costo} \cdotp (1 + q)$.
+3. Sconto: $S = P_l - P_s$, ($P_l$: Prezzo di listino, $P_s$: Prezzo scontato); Percentuale di Sconto: $s = \dfrac{S}{P_l}$;
+4. Profitto (Utile): $U = R - C$, ($R$: Ricavi, $C$: Costi); Utile (in percentuale) sulle vendite: $m = \dfrac{U}{R}$:
+5. Mark-Up (Assoluto): $M = P_{v} - C$,  ($P_v$: Prezzo di vendita, $C$: Costo), Mark-Up (percentuale) $q$: $P_v = C \cdotp (1 + q)$.
 6. Velocità: $v = \dfrac{s}{t}$.
 
 a) Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
@@ -153,12 +153,12 @@ a) Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'
 1. $M = C + I, ~~~ incognita ~~ C;$
 1. $A = b \cdot h, ~~~ incognita ~~ b$;
 3. $A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ b;\enspace\enspace A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ h$;
-2. $S_{sconto} = P_{listino} - P_{scontato}, ~~~ incognita ~~ P_{scontato};$
+2. $S = P_l - P_s, ~~~ incognita ~~ P_s;$
 2. $I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;
-3. $\dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{scontato};$
-3. $\dfrac{P_{listino} - P_{scontato}}{P_{listino}}= s ~~~ incognita ~~ P_{listino} $;
-4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ C_{costo};$
-4. $P_{vendita} = C_{costo} \cdotp (1 + q) ~~~ incognita ~~ q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_{vendita} - C_{costo}}{C_{costo}}$). 
+3. $\dfrac{P_l - P_s}{P_l}= s ~~~ incognita ~~ P_s;$
+3. $\dfrac{P_l - P_s}{P_l}= s ~~~ incognita ~~ P_l $;
+4. $P_v = C \cdotp (1 + q) ~~~ incognita ~~ C;$
+4. $P_v = C \cdotp (1 + q) ~~~ incognita ~~ q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_v - C}{C}$). 
 
 b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
@@ -170,8 +170,8 @@ b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
 a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $e6: (P_{listino} - P_{scontato})/P_{listino}= s$ &#9166; 
-2. $Risolvi(e6, \{P_{listino}\})$ &#9166; 
+1. $e6: (P_{l} - P_{s})/P_{l}= s$ &#9166; 
+2. $Risolvi(e6, \{P_{l}\})$ &#9166; 
 
 
 
