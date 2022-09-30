@@ -221,7 +221,7 @@ n) $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
 ### ESERCIZIO 12 - Proprietà delle potenze
 Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.  
 
-a) $(6^{3}:6\text{·}6^{2})^{2};\enspace \:(4\text{·}3^{2})^{3};\enspace \:(2^{3})^{4}:4^{4};$
+a) $(6^{3}:6\text{·}6^{2})^{2};\enspace \:(2^{3})^{4}:4^{4};\enspace \:(4\text{·}3^{2})^{3}$ [sostituisci $4$ con $2^2$];
 
 b) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};\enspace \:-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
 
