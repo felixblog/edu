@@ -17,8 +17,8 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 ```
 Ordina({-6,9,-1,7,-2,-4})
-l1 = Ordina({+8, -3, 0, -5, +4, -11})
-Inverti(l1)
+l = Ordina({+8, -3, 0, -5, +4, -11})
+Inverti(l)
 ```
 
 
@@ -32,7 +32,7 @@ Rappresenta su una retta orientata i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti:
 
 ```
-l1 = {(+3,0), (-7,0), (+4,0), (-2,0), (0,0), (+1,0), (-6,0)}
+l = {(+3,0), (-7,0), (+4,0), (-2,0), (0,0), (+1,0), (-6,0)}
 ```
 
 
@@ -268,8 +268,8 @@ b) Scrivere gli alberi relativi alle espressioni letterali dei punti precedenti.
 Risolvi il punto a.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 ```
-e1 = 3-a^3-2b^2+a^2*(a-b)
-Sostituisci(e1,{a = 2, b = -2})
+l = 3-a^3-2b^2+a^2*(a-b)
+Sostituisci(l,{a = 2, b = -2})
 ```
 
 
