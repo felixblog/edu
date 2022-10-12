@@ -200,7 +200,7 @@ c)
 
 ### ESERCIZIO 11 - Proprietà delle potenze
 
-a) Calcola il valore delle espressioni sia applicando la definizione di potenza sia applicando eventuali proprietà. In questo caso indica la proprietà applicata.  
+a) Applicando le proprietà, semplifica le espressioni seguenti utilizzando, per ciascuna di esse, il minor numero possibile di potenze.  
 
 1. $2^{4} · 2^{2}·2; \enspace (3^{4})^{2} · 3^{7}; \enspace  2^{3} · 5^{3}; \enspace 2^{4} · 3^{4};$   
 2. $(7^{2} · 2^{2}) · 7^{2}; \enspace (4^{3})^{2} · 2^{6}; \enspace 6^{5} · 2^{5}; \enspace  (4^{5})^{2};$   
