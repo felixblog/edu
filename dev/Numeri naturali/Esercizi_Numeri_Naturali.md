@@ -225,7 +225,7 @@ d) Applicando le proprietà delle potenze, calcola il valore delle seguenti espr
 
 
 
-### ESERCIZIO 12 - Minimo Comune Multiplo ed il Massimo Comune Divisore
+### ESERCIZIO 12 - Minimo Comune Multiplo e Massimo Comune Divisore
 a) Scomponi in fattori primi i numeri 25, 40, 33, 6;
 
 b) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D.) delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione;
