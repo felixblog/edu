@@ -5,27 +5,33 @@
 
 ### ESERCIZIO 1 - Il Concetto di Frazione e di Divisione
 
-Rispondi alle seguenti domande scrivendo la frazione richiesta. 
+a) Scrivi sia con numeri che con lettere le frazioni uguali alle espressioni seguenti:
 
-a) Quanti quarti d'ora ci sono in 45 minuti? Da quante ore sto aspettando un treno se lo aspetto da 45 minuti?  Perchè?
+1. Tre volte un quarto; Il doppio di un terzo; Il triplo di un quarto; due volte un terzo;
+2. Un centesimo; il doppio di un centesimo; cinque volte due centesimi;
+3. Venticinque centesimi; due volte venticinque centesimi; la metà di cinquanta centesimi; quattro volte venticinque centesimi.
+4. Due diviso dieci; il doppio di un quinto; due volte un quinto; due su dieci; dieci diviso due; la decima parte di due;
+5. Quindici su sessanta; quindici volte un sessantesimo; la sessantesima parte di quindici.
 
-b) Quanti euro costa un giocattolo se lo pago con 5 monete da mezzo euro?  E quanti centesimi?
+b) Rispondi alle seguenti domande scrivendo la frazione richiesta. 
 
-c) Per ognuna delle seguenti figure, quale frazione di ora è trascorsa?  
+1. Quanti quarti d'ora ci sono in 45 minuti? Da quante ore sto aspettando un treno se lo aspetto da 45 minuti?  Perchè?
+2.  Quanti euro costa un giocattolo se lo pago con 5 monete da mezzo euro?  E quanti centesimi?
+3. Per ognuna delle seguenti figure, quale frazione di ora è trascorsa?  
 
-![Orologi](img\Orologi.png)
+![Orologi](img/Orologi.png)
 
-d) Considerando il carburante indicato nella figura seguente, quale è la frazione di serbatoio piena, quale quella vuota?  
+4. Considerando il carburante indicato nella figura seguente, quale è la frazione di serbatoio piena, quale quella vuota?  
 
 ![Indicatore](img/Serbatoio.png)
 
-e) Nella figura seguente sono riportati il numero dei nuovi iscritti al Corso Serale nel biennio 2015-2016.  Individua la frazione dei nuovi iscritti di ciascun anno rispetto al totale.
+5. Nella figura seguente sono riportati il numero dei nuovi iscritti al Corso Serale nel biennio 2015-2016.  Individua la frazione dei nuovi iscritti di ciascun anno rispetto al totale.
 
 ![Istogramma](img/Istogramma.png)
 
-f) Franca compra in pasticceria 2 fette di una crostata tagliata in 12 fette uguali. Il peso delle due fette è di 220 grammi. Quanto pesa tutta la crostata?   
+6. Franca compra in pasticceria 2 fette di una crostata tagliata in 12 fette uguali. Il peso delle due fette è di 220 grammi. Quanto pesa tutta la crostata?   
 
-g) Se parcheggio un'auto dove ogni tre quarti d'ora devo azzerare il disco orario, quante volte dovrò azzerare il disco se la macchina resta parcheggiata 3 ore? Se una "sosta" misura 45 minuti, a quante "soste" corrisponde una fermata di 4 ore?
+7. Se parcheggio un'auto dove ogni tre quarti d'ora devo azzerare il disco orario, quante volte dovrò azzerare il disco se la macchina resta parcheggiata 3 ore? Se una "sosta" misura 45 minuti, a quante "soste" corrisponde una fermata di 4 ore?
 
 
 
@@ -146,7 +152,7 @@ a) Aggiungi 1/5 alla somma di 1/2 e 1/3; Aggiungi 2/3 alla somma di 5/6 e 1; Som
 
 b) Sottrai 1/2 dalla somma di 3 e 1/4; Aggiungi 1 alla somma di 1/5 e -1; Togli da 1/3 la somma di -2/3 e 1/3; 
 
- c) Raddoppia il prodotto fra 4/7 e 7/2; Scrivi il Triplo del prodotto fra 5/6 e 3/10; Aggiungi 1/4 a tre volte il quoziente di 3/2 e 9/4;  
+c) Raddoppia il prodotto fra 4/7 e 7/2; Scrivi il Triplo del prodotto fra 5/6 e 3/10; Aggiungi 1/4 a tre volte il quoziente di 3/2 e 9/4;  
 
  
 
@@ -240,7 +246,7 @@ c) Somma il quadruplo del quadrato di a con il doppio di c. [a=1, b=$\dfrac{2}{3
 
 d) Moltiplica la somma del doppio di a e della terza parte di b per la differenza tra il doppio di a e la terza parte di b.  `[`a=1, b=$\dfrac{2}{3}$] [R. $\dfrac{15}{4}$]
 
-e) Sottrai 1/8 di a ai 4/5 di c, dividi poi il risultato per i 3/8 del quadrato di b. [a=3, b=$-\dfrac{1}{5}$,c=$\dfrac{1}{16}$].     [R. $-\dfrac{65}{3}$]  
+e) Sottrai $\dfrac{1}{8}$ di a ai $\dfrac{4}{5}$ di c, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di b. [a=3, b=$-\dfrac{1}{5}$,c=$\dfrac{1}{16}$].     [R. $-\dfrac{65}{3}$]  
 
 f) Moltiplica la somma del doppio di a e della terza parte di b per la differenza tra il doppio di a e la terza parte di b, sottrai poi al risultato la somma del quadruplo del quadrato di a e del doppio di c. `[`a=1,b=$\dfrac{2}{3}$,c=-2 ][R. $\dfrac{15}{4}$]
 
