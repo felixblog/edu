@@ -7,11 +7,11 @@
 
 a) Scrivi sia con numeri che con lettere le frazioni uguali alle espressioni seguenti:
 
-1. Tre volte un quarto; Il doppio di un terzo; Il triplo di un quarto; due volte un terzo;
-2. Un centesimo; il doppio di un centesimo; cinque volte due centesimi;
+1. Tre volte un quarto; il triplo di un quarto; la quarta parte (di uno); due volte un quarto;
+2. Un centesimo; il doppio di un centesimo; cinque volte due centesimi; due centesimi per cinque;
 3. Venticinque centesimi; due volte venticinque centesimi; la metà di cinquanta centesimi; quattro volte venticinque centesimi.
-4. Due diviso dieci; il doppio di un quinto; due volte un quinto; due su dieci; dieci diviso due; la decima parte di due;
-5. Quindici su sessanta; quindici volte un sessantesimo; la sessantesima parte di quindici.
+4. Il doppio di un quinto; due volte un quinto; due su cinque; la quinta parte di due; due diviso cinque;
+5. Sessanta quindicesimi; la quindicesima parte di sessanta; sessanta diviso trenta; la sessantesima parte di trenta.
 
 b) Rispondi alle seguenti domande scrivendo la frazione richiesta. 
 
