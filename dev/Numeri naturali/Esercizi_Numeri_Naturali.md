@@ -220,8 +220,8 @@ c) Quali delle uguaglianze seguenti sono vere? Quali false?
 d) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
 
 1. $2^{5}:2^{4} + 2·2^{2} - 2^{0}$;  
-2. $(3^{4} · 3^{3})^{4} · 3^{5} · (3^{2} )^{4}$;  
-3. $2^{6} · 3^{6} · (18^{4} · 3^{4});$  
+2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5}$;  
+3. $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
 
 
 
