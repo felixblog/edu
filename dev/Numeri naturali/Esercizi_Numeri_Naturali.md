@@ -223,7 +223,15 @@ d) Applicando le proprietà delle potenze, calcola il valore delle seguenti espr
 2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5}$;  
 3. $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
 
+e) Applicando le proprietà delle potenze, semplifica le seguenti espressioni scrivendole utilizzando il minor numero di potenze.  
 
+1. $2^{5}:2^{4} + 2·2^{2} - 2^{0}$;  
+
+2. $(3^{4} · 3^{3})^{4} · 3^{5} · (3^{2} )^{4}$;   
+
+3. $2^{6} · 3^{6} · (18^{4} · 3^{4});$  
+
+   
 
 ### ESERCIZIO 12 - Minimo Comune Multiplo e Massimo Comune Divisore
 a) Scomponi in fattori primi i numeri 25, 40, 33, 6;

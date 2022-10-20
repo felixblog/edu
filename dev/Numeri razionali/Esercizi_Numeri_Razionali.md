@@ -330,6 +330,8 @@ i) Una quadra perde due partite su tre. Quante partite perde in percentuale sul 
 
 l) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
 
+m) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+
 
 
 ### ESERCIZIO 22 - Equivalenze I
