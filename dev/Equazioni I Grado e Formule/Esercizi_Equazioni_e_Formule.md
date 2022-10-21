@@ -126,12 +126,12 @@ b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata 
 
 a) Risolvi la prima equazione del punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $e1: 2a -3x = 7a - 5x$ &#9166; 
-2. $s1: Risolvi(e1, \{x\})$ &#9166; 
+1. $l: 2a -3x = 7a - 5x$ &#9166; 
+2. $m: Risolvi(l, \{x\})$ &#9166; 
 
 b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $Sostituisci(e1, s1)$ &#9166; 
+1. $Sostituisci(l, m)$ &#9166; 
 2. Constata che il primo membro è uguale al secondo
 
 
@@ -170,8 +170,8 @@ b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
 a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $e6: (P_{l} - P_{s})/P_{l}= s$ &#9166; 
-2. $Risolvi(e6, \{P_{l}\})$ &#9166; 
+1. $a: (P_{l} - P_{s})/P_{l}= s$ &#9166; 
+2. $Risolvi(a, \{P_{l}\})$ &#9166; 
 
 
 
@@ -189,7 +189,26 @@ d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 21
 
 
 
-### ESERCIZIO 8 - Disequazioni
+### ESERCIZIO 8 - Disuguaglianze e disequazioni
+
+a) Indicare quali delle seguenti disuguaglianze sono vere e quali false.  
+
+1. $9 - 2 \lt 3$;
+2. $5+8 \gt 19$;
+3. $5 \cdot 2 \le 5 \cdot 7$;
+4. $4 \cdot 8 \gt  2 \cdot 16$;
+5. $8-2 \lt 14$;
+6. $x + 1 \gt 0$;
+7. $6 + 4 \le 10$
+
+b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
+
+1.  $x + 1 \gt 0; x + 3 \le 4$;
+2.  $2x-1 \lt 6; x^2 + 2x -1 \ge 0$; 
+
+
+
+### ESERCIZIO 9 - Soluzione di Disequazioni I
 
 a) Nei casi riportati di seguito, determina quali tra i valori indicati nell'insieme è soluzione della disequazione associata.
 
@@ -210,7 +229,7 @@ a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di coman
 
 
 
-### ESERCIZIO 9 - Intervalli e disequazioni elementari
+### ESERCIZIO 10 - Intervalli e disequazioni elementari
 
 a) In ciascuno dei casi riportati di seguito determina se il numero indicato appartiene all'intervallo associato.
 
@@ -251,9 +270,10 @@ c) Rappresenta graficamente il primo intervallo del punto b.1) dell'esercizio co
 
 
 
-### ESERCIZIO 10 - Soluzione di disequazioni
+### ESERCIZIO 11 - Soluzione di Disequazioni II
 
 a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
 
 1. $x-1\ge 2$;   $7x-1\ge 2$;   $-x-1\le 2$;   $\dfrac{x}{5}-1\ge 2$;
 2. $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;   $2x-5\lt 3+2x$;   $2(x+1) - 5x\ge 3x + 4(x+1)$.
+

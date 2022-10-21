@@ -101,7 +101,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 ### ESERCIZIO 6 - Somme di monomi
 
-Indica la somma dei seguenti monomi e semplifica il risultato se possibile.
+Scrivi l'espressione della somma dei monomi seguenti e semplifica il risultato se possibile.
 
 a) $\dfrac{1}{2}x; -3x; 7x$
 
@@ -113,7 +113,7 @@ d) $\dfrac{1}{2}x^{3}y; -x^{3}y$
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $e4b: \dfrac{1}{2}xy -3xy + 7xy$  &#9166; 
+a) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2}xy -3xy + 7xy$  &#9166; 
 
 
 
@@ -265,10 +265,10 @@ b) aggiungi al terzo la differenza tra il secondo e il primo.
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
-1. $e1: 5a^{2}-2a+1$  &#9166; 
-2. $e2: 3a+a^{2}-2$   &#9166; 
-3. $e3: a^{2}-1 + 2a$  &#9166; 
-3. $e1 - (e2 + e3)$  &#9166; 
+1. $a1: 5a^{2}-2a+1$  &#9166; 
+2. $a2: 3a+a^{2}-2$   &#9166; 
+3. $a3: a^{2}-1 + 2a$  &#9166; 
+3. $a1 - (a2 + a3)$  &#9166; 
 
 
 
