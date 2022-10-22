@@ -3,15 +3,15 @@
 
 ### ESERCIZIO 1 - Dai numeri alle lettere
 
-In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente.
+In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente e, se possibile, esegui le operazioni numeriche.
 
-a) $-2 \cdot 4 + (3 + 2 \cdot 4)$: Sostituisci $4$ con $a$;
+a) $-2 \cdot 4 + (3 + 2 \cdot 4)$; Sostituisci il numero intero $4$ con $a$;
 
-b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$: Sostituisci $3$ con $x$;
+b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$; Sostituisci il numero intero $3$ con $x$;
 
-c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$: Sostituisci $3$ con $y$;
+c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$; Sostituisci il numero intero $-3$ con $y$;
 
-d)  $-\dfrac{5}{3} \cdot 4 + (\dfrac{7}{4} \cdot 5 + 2) \cdot (-5)^2$: Sostituisci $5$ con $a$.
+d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$; Sostituisci la frazione $-\dfrac{5}{3}$ con $a$.
 
 
 
@@ -19,7 +19,7 @@ d)  $-\dfrac{5}{3} \cdot 4 + (\dfrac{7}{4} \cdot 5 + 2) \cdot (-5)^2$: Sostituis
 
 a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una  o più lettere per indicare le quantità sconosciute.
 
-1. La somma di x e 15;
+1. La somma di $x$ e 15;
 2. La somma della lunghezza di un tavolo e 15;
 3. La differenza tra un numero e 10;  
 4. I tre quarti della popolazione europea;
@@ -30,7 +30,7 @@ a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati.
 b) Come il punto precedente, scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati.
 
 1. Il rapporto tra gli abitanti dell'Italia e quelli della Cina;   
-2. 500 diminuito di j;  
+2. 500 diminuito di $j$;  
 3. 21 kg in meno del peso totale;
 4. Il doppio del valore atteso;
 5. La metà del dovuto;
