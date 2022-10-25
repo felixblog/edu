@@ -129,30 +129,32 @@ c) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$
 
 
 
-### ESERCIZIO 8 - Dalle parole alle espressioni
+### ESERCIZIO 8 - Dalle parole alle espressioni I
 
-Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale richiesta in ogni problema. L'espressione richiesta deve dipendere da una quantità iniziale, in modo che, scegliendo per questa un numero e calcolando l'espressione sostituendo il numero si ha il valore corretto.
+Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale che fornisce la soluzione di ogni problema. L'espressione richiesta dovrà contenere una lettera che indica la quantità contenuta nel testo da cui dipende la soluzione.
 
-ESEMPIO: "Quest'anno i ricavi saranno il doppio di quelli dell'anno scorso".
+#### ESEMPIO DI SOLUZIONE
 
-1. Quantità iniziale: $x$, Ricavi dell'anno scorso
-2. Espressione Letterale: $2x$, Ricavi di quest'anno
+"Quest'anno i ricavi saranno il doppio di quelli dell'anno scorso". Scrivi l'espressione dei ricavi di quest'anno.
+
+1. Quantità che determina la soluzione: $x$, Ricavi dell'anno scorso
+2. Soluzione: $2\cdot x$, Ricavi di quest'anno
 
 
 
-a) Scrivi una espressione letterale che risolve i seguenti problemi
+a) Scrivi una espressione letterale che risolve i seguenti problemi:
 
 1. Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si aspettano p persone, quanti pasti saranno preparati? 
 2. Una piscina viene suddivisa in 8 corsie della stessa larghezza con dei galleggianti. Se la piscina è larga $l$ metri, quanto è larga ogni corsia?
 3. Quale è il valore, in euro, di $x$ monete da 20 centesimi ciascuna? e se aggiungiamo 10 monete da 5 centesimi?
 
-b) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.  
+b) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
 
 c) Uno studente deve scrivere un documento che contiene $x$ parole al PC. Se lo studente scrive 60 parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
 
-d) Un corteo di b automobili, ciascuna con 5 persone a bordo, sta viaggiando verso la capitale per una manifestazione politica. Scrivi quante persone stanno andando alla manifestazione in corteo.  
+d) Un corteo di $b$ automobili, ciascuna con 5 persone a bordo, sta viaggiando verso la capitale per una manifestazione politica. Scrivi quante persone stanno andando alla manifestazione in corteo.  
 
-e) Una barca di 12 metri deve essere divisa in due parti. Indica con una lettera la lunghezza di una delle parti e scrivi l'espressione letterale per la lunghezza dell'altra parte.  
+e) Una barca di 12 metri deve essere divisa in due parti. Indica con una lettera la lunghezza di una delle parti e scrivi l'espressione che calcola la lunghezza dell'altra parte.  
 
 f) Il numero dei partecipanti ad una maratona quest'anno è superiore di 25 unità al doppio di quello dell'ultimo anno. Scrivi una espressione che indica il numero dei partecipanti di quest'anno.   
 
@@ -160,13 +162,31 @@ g) L'IBM è stata fondata 80 anni prima della Apple. La Dell è stata fondata 9 
 1. Indica con una lettera gli anni d'età di una delle aziende e scrivi le espressioni che indicano l'età delle altre.
 2. Il primo Aprile 2008 la Apple ha compiuto 32 anni. Quanti anni avevano le altre due?  
 
-h) Lincoln è stato eletto presidente degli USA 60 anni dopo Jefferson. Trump è stato eletto 215 anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno n.
+h) Lincoln è stato eletto presidente degli USA 60 anni dopo Jefferson. Trump è stato eletto 215 anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno $n$.
 
-i) Una persona deposita in banca un capitale C su un conto che rende il 5% di interesse annuo il primo anno, il 7% il secondo ed il 10% il terzo. Quanto avrà reso il deposito se sul conto per tutti e tre gli anni c'è sempre la stessa cifra iniziale?
+i) Una persona deposita in banca un capitale $C$ su un conto che rende il 5% di interesse annuo il primo anno, il 7% il secondo ed il 10% il terzo. Quanto avrà reso il deposito se sul conto per tutti e tre gli anni c'è sempre la stessa cifra iniziale?
 
 
 
-### ESERCIZIO 9 - Espressioni con monomi
+### ESERCIZIO 9 - Dalle parole alle espressioni II
+
+a) Scrivi le espressioni numeriche che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
+
+1. Se una azienda produce 600 unità di prodotto ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale è il suo profitto?
+
+2. In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 metri di tela. La tela viene suddivisa in pezze da 32 metri ciascuna. Quante pezze vengono prodotte giornalmente?
+
+3. Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
+
+b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si ottiene sostituendo ai numeri le lettere di volta in volta indicate.
+
+1.  $n= 600$;   $C = 76$;   $P=99$;
+2. $T=26.304$;   $l=32$;
+3. $CF=40$;   $CV=35$;   $d=4$;
+
+
+
+### ESERCIZIO 10 - Espressioni con monomi
 
 Semplifica le seguenti espressioni.
 
@@ -182,7 +202,7 @@ a) Risolvi il punto a) esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,\cdotp\
 
 
 
-### ESERCIZIO 10 - Polinomi in forma normale
+### ESERCIZIO 11 - Polinomi in forma normale
 
 Riduci i seguenti polinomi in forma normale.
 
@@ -201,7 +221,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO 11 - Rappresentazione delle espressioni letterali
+### ESERCIZIO 12 - Rappresentazione delle espressioni letterali
 
 a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
 
@@ -239,7 +259,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-### ESERCIZIO 12 - Somma di polinomi
+### ESERCIZIO 13 - Somma di polinomi
 
 Esegui le seguenti addizioni e sottrazioni tra polinomi.
 
@@ -250,7 +270,7 @@ b) $\left(3a^{3}+5a^{2}-2a+1\right)-\left(3a^{3}-2a^{2}+5a-7\right)$
 
 
 
-### ESERCIZIO 13 - Dalle parole alle espressioni
+### ESERCIZIO 14 - Dalle parole alle espressioni
 
 Dati i polinomi seguenti:
 
@@ -272,7 +292,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 14 - Prodotto di monomi per polinomi
+### ESERCIZIO 15 - Prodotto di monomi per polinomi
 
 Semplifica le seguenti espressioni.  
 
@@ -294,7 +314,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO - 15 Prodotto di polinomi
+### ESERCIZIO - 16 Prodotto di polinomi
 
 Semplifica le seguenti espressioni.  
 

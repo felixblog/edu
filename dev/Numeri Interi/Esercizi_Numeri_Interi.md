@@ -154,22 +154,22 @@ a) Sottrai 7 al prodotto di 2 per 3;
 
 b) Scrivi la differenza tra 15 ed il prodotto di 7 per 2;
 
-c) Aggiungi 10 al quoziente di 16 per -2;
+c) Aggiungi 10 al rapporto tra 16 e -2;
 
 d) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3;
 
-e) Scrivi il quoziente della divisione di 15 per la somma tra 2 e 3;
+e) Scrivi il rapporto tra 15 e la somma tra 2 e 3;
 
 f) Sottrai alla somma di 7 e del prodotto di 2 per 3 la differenza tra 15 e il prodotto di 7 per 2, aggiungi poi al
 risultato il quoziente di 16 per -2;
 
-g) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi al risultato il quoziente della divisione di 15 per la somma tra 2 e 3.
+g) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi al risultato il risultato della divisione tra 15 e la somma tra 2 e 3.
 
 
 
 ### ESERCIZIO 10 - Dalle parole alle espressioni (II)
 
-Traduci in espressioni le seguenti frasi indicando con la lettera ‘x’ il numero generico citato e calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
+Traduci in espressioni le seguenti frasi indicando con la lettera ‘x’ il numero generico citato; calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
 
 a) Aggiungi ad un numero il suo triplo [x=1];
 
@@ -309,11 +309,11 @@ f) $a=-b+2$.
 
 Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
 
-a) Se una azienda produce N unità di prodotto ad un costo medio di C euro ciascuna e le vende ad un prezzo di P euro l'una, quale è il suo profitto? [N = 600, C = 76, P = 99];
+a) Se una azienda produce 600 unità di prodotto ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale è il suo profitto?
 
-d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono T metri di tela. La tela viene suddivisa in pezze da N metri ciascuna. Quante pezze vengono prodotte giornalmente? [T = 26.304, N = 32];
+d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 metri di tela. La tela viene suddivisa in pezze da 32 metri ciascuna. Quante pezze vengono prodotte giornalmente?
 
-e) Un idraulico ha un costo fisso a chiamata di F euro ed un ulteriore costo di O euro l'ora. Se fa un intervento che dura D ore, quanto pagherà il cliente? [F = 40, O = 35, D = 4].
+e) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
 
 
 
