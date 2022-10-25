@@ -37,14 +37,17 @@ l = {(+3,0), (-7,0), (+4,0), (-2,0), (0,0), (+1,0), (-6,0)}
 
 
 
-### ESERCIZIO 3 - Espressioni con somme algebriche
+### ESERCIZIO 3 - Espressioni con somme algebriche I
 
-a) Calcola il valore delle seguenti espressioni:
+a) Per ciascuna delle seguenti coppie di numeri scrivi la somma algebrica e calcola il risultato
+
+1. $+2, +8$;   $+5, -8$;   $-5, +8$;   $-5, -8$;
+2. $0, +2$;   $-2, 0$;   $+4, -4$;   $-4, +4$;
+
+b) Calcola il valore delle seguenti espressioni:
 
 1. $+5-9; -2+6;\enspace 12-19+6;\enspace -5-9-10;$  
-2. $(+4)+(+5-9);\enspace (+4)+(+5-9)+(-2+6)+(+12-19);\enspace -(-1+6-2);$  
-3. $[+15-(+7+3-2)]-[-15-(-6+7-1)];$  
-4. $(-28+37)+{(-25+11)+[1+(36-44)]-(+9)}+1.$
+1. $1 + 2 + 3 - 3 - 2 - 1 - 0$;   $+1 - 1 + 1 - 1 + 1$;   $1 - 2 + 3 - 4 + 5 - 6$.
 
 
 
@@ -67,9 +70,9 @@ Qual è la mia situazione attualmente?
 
 Calcola i seguenti prodotti e quozienti:
 
-a) $(+8)\text{·}(-6);\enspace-5\text{·}(-8);$ 
+a) $(+8)\text{·}(-6)$;   $-5\text{·}(-8);$   $-5(-8)$;   $-(5)$;   $-(5)8$;
 
-b) $(+4)\text{·}8\text{·}(-2);\enspace (+2)\text{·}(-12)\text{·}(-5);$ 
+b) $(+4)\text{·}8\text{·}(-2)$;   $(+2)\text{·}(-12)\text{·}(-5)$;  
 
 c) $(+15):(+3);\enspace (+15):(-3);$ 
 
@@ -81,13 +84,23 @@ d) $(-8):(+8);\enspace 0:(-5).$
 
 Controlla la verità delle relazioni seguenti:  
 
-a) $-1 > 0;\enspace -7 < -3;\enspace 0 <= 0;\enspace 1 = 1 + 0$;
+a) $-1 > 0;\enspace -7 < -3;\enspace 0 \le 0;\enspace 1 = 1 + 0;\enspace 4-5 \ge 1+3-4$;
 
 b) $2+3\text{·}(-1)=11-5-7;\enspace 3^{2}-2\text{·}3-1=\left(3-2\right)^{2}$
 
 
 
-### ESERCIZIO 7 - Rappresentazione delle espressioni
+### ESERCIZIO 7 - Espressioni con somme algebriche II
+
+a) Calcola il valore delle seguenti espressioni:
+
+1. $(+4)+(+5-9)$;   $4 -(5-9)+(-2+6)+(+12-19)$;   $-(-1+6-2);$  
+2. $[+15-(+7+3-2)]-[-15-(-6+7-1)];$  
+3. $(-28+37)+{(-25+11)+[1+(36-44)]-(+9)}+1.$
+
+
+
+### ESERCIZIO 8 - Rappresentazione delle espressioni
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
@@ -133,7 +146,7 @@ b.2)
 
 
 
-### ESERCIZIO 8 - Dalle parole alle espressioni (I)
+### ESERCIZIO 9 - Dalle parole alle espressioni (I)
 
 Traduci in espressioni le seguenti frasi e calcolane il valore.  
 
@@ -154,7 +167,7 @@ g) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi a
 
 
 
-### ESERCIZIO 9 - Dalle parole alle espressioni (II)
+### ESERCIZIO 10 - Dalle parole alle espressioni (II)
 
 Traduci in espressioni le seguenti frasi indicando con la lettera ‘x’ il numero generico citato e calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
 
@@ -174,7 +187,7 @@ g) Scrivi due numeri consecutivi [x=3].
 
 
 
-### ESERCIZIO 10 - Dalle parole alle espressioni (III)
+### ESERCIZIO 11 - Dalle parole alle espressioni (III)
 
 Essendo a e b due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni sostituendo alle lettere i numeri assegnati.
 
@@ -188,7 +201,7 @@ d) Moltiplica la somma del quadruplo di a e del triplo di b per la somma del dop
 
 
 
-### ESERCIZIO 11 - Espressioni con i numeri interi
+### ESERCIZIO 12 - Espressioni con i numeri interi
 
 Calcola il valore delle seguenti espressioni
 
@@ -218,7 +231,7 @@ n) $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
 
 
 
-### ESERCIZIO 12 - Proprietà delle potenze
+### ESERCIZIO 13 - Proprietà delle potenze
 Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.  
 
 a) $(6^{3}:6\text{·}6^{2})^{2};\enspace \:(2^{3})^{4}:4^{4};\enspace \:(4\text{·}3^{2})^{3}$ [sostituisci $4$ con $2^2$];
@@ -231,7 +244,7 @@ d) $\left\{ [(2^{4}-7\text{·}3)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^
 
 
 
-### ESERCIZIO 13 - Espressioni algebriche e sostituzioni (I)
+### ESERCIZIO 14 - Espressioni algebriche e sostituzioni (I)
 
 a) Scrivi le espressioni ottenute sostituendo alle lettere i numeri indicati.
 
@@ -252,7 +265,7 @@ Sostituisci(y*(1 - y) + 3,{y = -5})
 
 
 
-### ESERCIZIO 14 - Espressioni algebriche e sostituzioni (II)
+### ESERCIZIO 15 - Espressioni algebriche e sostituzioni (II)
 
 a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
@@ -274,7 +287,7 @@ Sostituisci(l,{a = 2, b = -2})
 
 
 
-### ESERCIZIO 15 - Espressioni algebriche e sostituzioni (III)
+### ESERCIZIO 16 - Espressioni algebriche e sostituzioni (III)
 
 Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostituite ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
@@ -292,7 +305,7 @@ f) $a=-b+2$.
 
 
 
-### ESERCIZIO 16 - Dalle parole alle espressioni (IV)
+### ESERCIZIO 17 - Dalle parole alle espressioni (IV)
 
 Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
 
@@ -304,7 +317,7 @@ e) Un idraulico ha un costo fisso a chiamata di F euro ed un ulteriore costo di 
 
 
 
-### ESERCIZIO 17 - Sequenze e Tabelle
+### ESERCIZIO 18 - Sequenze e Tabelle
 
 Un abbonato paga per un contratto telefonico 16 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato mese per mese (al 15 di ogni mese) nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 2 colonne con, in ogni riga, il mese nella prima cella e l'importo nella seconda:
 
@@ -329,7 +342,7 @@ d) l'abbonato arriva ad accumulare un debito di poco inferiore a 100 euro; in qu
 
 
 
-### ESERCIZIO 18 - Potenze
+### ESERCIZIO 19 - Potenze
 
 a) Calcolare le seguenti potenze di numeri interi.
 
