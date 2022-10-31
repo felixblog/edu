@@ -203,31 +203,41 @@ d) Moltiplica la somma del quadruplo di a e del triplo di b per la somma del dop
 
 ### ESERCIZIO 12 - Espressioni con i numeri interi
 
-Calcola il valore delle seguenti espressioni
+a)Calcola il valore delle seguenti espressioni.
 
-a) $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\}.$
+1.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
 
-b) $80+[(4+3\text{·}5):(3+2\text{·}8)].$  
+2. $(-15):3-6+18:(-6)-(+7 \cdot 3-10)+7\cdot2$.		[$R. -11$];
 
-c) $\left\{ -(+5)-[-(-1)]\right\}.$  
+3. $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\}.$
 
-d) $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]. \enspace\enspace\enspace [R. 5];$  
+4. $80+[(4+3\text{·}5):(3+2\text{·}8)].$  
 
-e) $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1). \enspace\enspace\enspace\enspace\enspace\enspace\enspace [R. 21];$  
+5. $\left\{ -(+5)-[-(-1)]\right\}.$  
 
-f) $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
+b) Calcola il valore delle seguenti espressioni.
 
-g) $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
+1. $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]. \enspace\enspace\enspace [R. 5];$  
 
-h) $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right]+\left[3^{2}\cdot2^{2}:\left(6^{3}:6^{2}\right)\right]. \enspace\enspace\enspace [R. 12];$  
+2. $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$.		[$R. +20$];  
 
-i) $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right). \enspace\enspace\enspace [R. 2];$  
+3. $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1). \enspace\enspace\enspace\enspace\enspace\enspace\enspace [R. 21];$  
 
-l) $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}.     \enspace\enspace\enspace [R. +25];$  
+4. $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
 
-m) $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
+c) Calcola il valore delle seguenti espressioni contenenti delle potenze.
 
-n) $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
+1. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
+
+2. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right]+\left[3^{2}\cdot2^{2}:\left(6^{3}:6^{2}\right)\right]. \enspace\enspace\enspace [R. 12];$  
+
+3. $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right). \enspace\enspace\enspace [R. 2];$  
+
+4. $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}.     \enspace\enspace\enspace [R. +25];$  
+
+5. $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
+
+6. $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
 
 
 
