@@ -114,7 +114,7 @@ La dipendenza tra variabili
 Tabelle e Grafici
 Proporzionalità diretta ed inversa
 Esempi di Funzioni notevoli: valore assoluto, funzioni definite a tratti etc.
-([Esercizi](http://felixblog.github.io/edu/Funzioni_e_Grafici.html)) 
+([Esercizi](http://felixblog.github.io/edu/Funzioni_e_Modelli.html)) 
 
 ### Logaritmi e Successioni Aritmetiche e Geometriche
 

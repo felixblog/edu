@@ -1,10 +1,12 @@
 # Funzioni e Modelli
 
-### ESERCIZIO 1: Calcolo del valore di una funzione
+### ESERCIZIO 1: Calcolo del valore di una espressione
 
-a) Una agenzia di noleggio auto fa pagare per una automobile 50 euro al giorno più 32 centesimi a Km percorso. Il costo giornaliero dell'auto è quindi una funzione del numero di Km calcolato da $c(x) = 0,32x + 50$. Calcola c(75), c(150), c(225) e c(650).
+a) Una agenzia di noleggio auto fa pagare per una automobile 50 euro al giorno più 32 centesimi a Km percorso. Il costo giornaliero dell'auto, in euro, dipende quindi dal numero di Km percorsi $x$ secondo l'espressione $0,32x + 50$.
 
-b) Calcola il valore della funzione definita dall'espressione $x^2$ per i punti del dominio indicati nella tabella seguente.
+Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola c(75), c(150), c(225) e c(650).
+
+b) Calcola il valore dell'espressione $x^2$ per i valori della $x$ indicati nella tabella seguente.
 $$
 \begin{array}{r|c} 
 x & y = x^2 \\ 
@@ -17,7 +19,9 @@ x & y = x^2 \\
 \end{array}
 $$
 
-c) Calcola il valore della funzione definita dall'espressione $\dfrac{1}{1-x}$ per i punti del dominio indicati nella tabella del punto b).
+c) Calcola il valore della espressione $\dfrac{1}{1-x}$ per i valori della $x$ indicati nella tabella del punto b).
+
+d) Rappresenta le coppie: (valore della $x$, valore dell'espressione) degli esercizi a), b) e c) in un grafico cartesiano. 
 
 #### Laboratorio GEOGEBRA
 
@@ -49,7 +53,15 @@ d) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio
 
 ### ESERCIZIO 3 - Formule della proporzionalità
 
-a) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere che rappresentano le quantità:
+a) Esprimere con una formula le relazioni nei casi riportati di seguito.
+
+1. La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per 38 ore viene pagato 475 euro, quale sarà la sua retribuzione $y$ per $x$ ore di lavoro?
+2. I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Se una parete di 16 metri quadrati richiede due litri di vernice, quanti litri $y$ di vernice sono necessari per una parete di $x$ m^2^ ?
+3. Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia 4 ore ad 80 Km l'ora per raggiungere la destinazione, a che velocità $v$ dovrà andare per percorrere il tragitto in $t$ ore?
+
+b) Per ciascuno dei punti dell'esercizio a) fare una tabella ed un grafico cartesiano con 5 valori scelti a caso.  La relazione tra la variabile dipendente e quella indipendente è crescente o descrescente?
+
+c) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere che rappresentano le quantità:
 
 1. L'ammontare dell'IVA da pagare (aliquota 22%) varia direttamente con il costo (imponibile) di acquisto di una macchina.
 2. Le ore impiegate da un pendolare per recarsi da casa al posto di lavoro variano inversamente alla velocità (media) di percorrenza del tragitto.
@@ -58,7 +70,7 @@ a) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere c
 
 
 ### ESERCIZIO 4 - Funzioni numeriche
-Costruire una tabella assegnando cinque valori (positivi e negativi) a x per ciascuna delle funzioni riportate di seguito:
+Costruire una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a x per ciascuna delle funzioni riportate di seguito:
 
 a) $y = x$;
 
@@ -72,7 +84,7 @@ e) $y = 4x$.
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti a), b) e d) dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$:
+a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$:
 
 1. $f(x) := x$ &#9166; 
 2. $d = \{0, 1, -1, 2, -2\}$ &#9166; 
@@ -99,37 +111,52 @@ b. Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 
 ### ESERCIZIO 6 - Prezzo delle bibite
 
-In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio 10&#162; a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio 4 euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di 40&#162; a lattina si venderebbero 141 lattine a settimana, e che per ogni 5&#162; in più le vendite settimanali si ridurrebbero di 12 lattine.
+In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
 
-a. Detti $P_n = 40 + 5n, \: n=0, 1, 2, 3, 10$ una successione di prezzi delle lattine, e $Q_n = Q_{n-1} -12$ le quantità vendute, completa la simulazione delle vendite come indicato nella tabella seguente: 
+a) Detti $P_n = 40 + 5 \cdot n, \: n=0, 1, 2,...,6$ una successione di prezzi delle lattine, e $Q_n = 141 -12 \cdot n$ le corrispondenti quantità vendute, simula la quantità venduta per i prezzi $\{40, 35, 30, 25, 20, 15, 10\}$, completando la tabella seguente.
 
-b. Simula la quantità venduta per i seguenti prezzi inferiori a 40&#162;: {35, 30, 25, 20, 15, 10}
+|  n   | $P_{n}$ | $Q_{n}$ |
+| :--: | :-----: | :-----: |
+|  0   |   40    |   141   |
+|  1   |   35    |   ...   |
+| ...  |   30    |   ...   |
+| ...  |   ...   |   ...   |
 
-c. Detto $x$ il prezzo e $y$ la quantità settimanale venduta, scrivi la curva di domanda delle lattine nella scuola.
+b) Detto $x$ il prezzo e $y$ la quantità settimanale venduta, scrivi la curva di domanda delle lattine nella scuola.
+
+c) Disegna il grafico cartesiano delle curve di domanda e di offerta. 
 
 
 
 ### ESERCIZIO 7 - Consumo di carburante
 
-Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda ha osservato che il trattore consuma 25 litri di gasolio l'ora e, all'inizio dell'attività di aratura, ha una scorta di 1500 litri di gasolio. Considerato che ogni giorno lavorativo il trattore ara per circa 6 ore, calcolare:
+Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda ha osservato che il trattore consuma $25$ litri di gasolio l'ora e, all'inizio dell'attività di aratura, ha una scorta di $1500$ litri di gasolio. Considerato che ogni giorno lavorativo il trattore ara per circa $6$ ore, calcolare:
 
-a. il consumo giornaliero di gasolio;
+a) il consumo giornaliero di gasolio;
 
-b. il livello della scorta di gasolio a fine giornata per i primi 5 giorni;
+b) il livello della scorta di gasolio a fine di ogni giornata per i primi 5 giorni (fare una tabella);
 
-c. il numero di giorni necessari per l'esaurimento completo della scorta.
+c) il numero di giorni necessari per l'esaurimento completo della scorta.
 
 
 
 ### ESERCIZIO 8 - Studio epidemiologico
 
-Uno scienziato studia la diffusione di una epidemia in una piccola città con un modello lineare. Lo scienziato stima che all'inizio dello studio  c'erano $3.700$ casi e $45$ nuovi casi al giorno. 
-a. Calcola il numero dei casi dopo $5, 10, 15, x$ giorni;
-b. Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la malattia richiede un trattamento con un farmaco ospedaliero. All'inizio dello studio, l'ospedale cittadino aveva $500$ dosi del farmaco. Secondo il modello dal punto precedente, quanti giorni possono passare prima che il farmaco finisca?
+Uno scienziato studia la diffusione di una epidemia in una piccola città con un modello lineare. Lo scienziato stima che all'inizio dello studio c'erano $3.700$ casi e $45$ nuovi casi al giorno. 
+
+a) Calcola il numero dei casi dopo $5, 10, 15$ ed $x$ giorni;
+
+b) Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la malattia richiede un trattamento con un farmaco ospedaliero. All'inizio dello studio, l'ospedale cittadino aveva $500$ dosi del farmaco. Secondo il modello dal punto precedente, quanti giorni possono passare prima che il farmaco finisca?
 
 
 
 ### ESERCIZIO 6 - La dipendenza quadratica
+
+a) L'area di un quadrato dipende dalla lunghezza del suo lato. Scrivi la funzione che calcola l'area di due quadrati uguali, ciascuno con un lato lungo $x$ metri.
+
+b) Un edificio ha porte e finestre rettangolari di diversa grandezza, ma per tutte il lato più lungo è il doppio di quello più corto. Scrivi la funzione che calcola l'area di ogni porta o finestra in dipendenza del lato più corto e calcola l'area del rettangolo quando il lato più corto misura $10, 25, 30, 50$.
+
+c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata oltre alla prima si ha uno sconto di $10$ euro sul prezzo di entrambe le borse. Nel caso si acquistino $n$ unità della stessa borsa del prezzo di $100$ euro, scrivere la funzione che calcola il ricavo del negozio e si calcoli il valore della funzione se $n$ vale $1, 2, 3, 4, 5$.
 
 
 
