@@ -178,7 +178,31 @@ b) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),
 
 
 
-### ESERCIZIO 11 - Pendenza di una linea
+### ESERCIZIO 11: Rette parallele e perpendicolari
+
+a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
+
+1. $y = 3x - 2$;   $-x + y -4=0$;   $y = \dfrac{2}{3}x$;   $x - y - 5=0$;   $2x+6y-1=0$.
+2. $y = x + \dfrac{1}{3}$;   $y = \dfrac{1}{3}x$;   $y = \dfrac{2}{3}x$;   $y = \dfrac{1}{3}x + \dfrac{1}{3}$;   $y=+\dfrac{1}{3}$.
+
+b) Scrivi le equazioni di due rette parallele alla retta di equazione $2y +  5 =  0$ e di due parallele alla retta di
+equazione $4x  - 3 = 0$.
+
+c) Stabilisci se la retta che passa per i punti $A(2;  7)$ e $B( 1; 5)$ è parallela alla retta di equazione $y = -4x$.
+
+d) Per ciascuna retta, scrivi l’equazione della parallela e della perpendicolare a essa e passanti per il punto $A$.
+
+1. $y = \dfrac{1}{3}x$;   $A(1; 1)$.
+2. $y + 3x + 2 = 0$;   $A(0; -2)$.
+3. $y - \dfrac{1}{2}x = 5$;   $A(-1; -1)$.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto d.1 dell'esercizio con l'istruzione GEOGEBRA: $Retta((1,1),y = \dfrac{1}{3}x)$.
+
+
+
+### ESERCIZIO 12 - Pendenza di una linea
 
 a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione $3x + 4y = 12$.
 
@@ -194,45 +218,3 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 2. riporta in un piano cartesiano con il tempo sull'asse orizzontale e lo spazio su quello verticale, il grafico dell'equazione trovata. Quale è il significato fisico del coefficiente angolare?
 
 
-
-### ESERCIZIO 12 - Applicazioni 
-
-Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ di volta in volta il numero di oggetti/servizi acquistati o prodotti. La formula che lega i costi ai prodotti in generale è la seguente:
-$$
-y = mx+q
-$$
-dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei costi che varia con il numero degli oggetti/servizi acquistati e $q$ è una parte che non varia (quota fissa).
-
-a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
-
-1. Scrivere le formule che, al variare di $x$, numero di ore di affitto a semestre, esprime i costi nel caso dei membri e degli esterni.
-2. Individuare quale è il numero semestrale minimo di ore di campo da affittare perché convenga l'iscrizione al circolo.  
-
-b) Una sala chirurgica ambulatoriale prevede, da parte del paziente, il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato 250 euro per un intervento di 30 minuti ed un altro 450 euro per uno di 90 minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di 45 minuti.
-
-c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezionate da 200 grammi l'una. Per la produzione dei cioccolatini, l'azienda sostiene una spesa fissa mensile di 4.000 euro ed un costo al Kg di 4 euro; ci sono da considerare poi altri 60 centesimi di costo di confezionamento per ogni scatola. Determinare:
-
-1. la formula che esprime il costo mensile per la produzione di $x$ scatole di cioccolatini;
-2. la formula che esprime i ricavi della vendita di $x$ scatole di cioccolatini al mese, considerato che il prezzo di ogni scatola è di 5 euro;
-3. la formula per il calcolo dell'utile come differenza tra i ricavi ed i costi.
-
-
-
-### ESERCIZIO 13 - Esercizio Riassuntivo   
-
-a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio di auto, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
-
-1. Scrivi la formula che calcola il costo di noleggio per la clientela.
-2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Il noleggio conviene di più con EZ oppure A-OK? 
-
-b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e dei costi di manutenzione che dipendono dai Km percorsi. I costi annui sono ricavabili dal fatto che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, se si percorrono mediamente 60 Km/giorno per 150 giorni l'anno, si spendono 1.000 euro/anno (ossia 0,111 euro al giorno al Km).
-
-1.  Considerando $x$ giorni di utilizzo l'anno, calcola i costi totali per la gestione di un'auto da 30.000 euro dell'agenzia EZ come somma di costi fissi e costi variabili (in dipendenza del numero dei giorni) annui; fai l'ipotesi di una percorrenza media giornaliera di 60 Km;
-2. Nelle ipotesi del punto 1 e ricavando dalla risposta dell'esercizio a.1) i ricavi giornalieri del noleggio, scrivi la formula del ricavo annuo, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
-3. Scrivi la formula dell'utile annuo come differenza tra i ricavi ed i costi. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo delle $x$ (giorni) in cui l'utile è positivo, detto "Regione dei Profitti" e quello in cui è negativo, detto "Regione delle Perdite".
-
-#### Laboratorio GEOGEBRA
-
-a) Disegna le curve dei costi dei punti b) e c) e rileva, per il punto c.2), quali sono graficamente i criteri che se applicati conducono alle decisioni ottimali per il consumatore.
-
-b) Disegna le curve dei Ricavi-Costi-Utile del punto d) ed individua graficamente le regioni dei profitti, delle perdite ed il punto di pareggio.

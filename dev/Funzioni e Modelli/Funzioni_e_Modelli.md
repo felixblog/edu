@@ -99,7 +99,7 @@ Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare.
 
 
 
-### ESERCIZIO 5 - Interesse semplice
+### ESERCIZIO 6 - Interesse semplice
 
 Una persona prende in prestito da una finanziaria 1.000 euro (capitale) per pagare un corso di formazione. Dovrà restituire il capitale entro 5 anni in una unica soluzione ma pagare trimestralmente l'1% dell'importo, a titolo di interesse, finchè non estingue il debito.
 
@@ -109,7 +109,7 @@ b. Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 
 
 
-### ESERCIZIO 6 - Prezzo delle bibite
+### ESERCIZIO 7 - Prezzo delle bibite
 
 In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
 
@@ -128,7 +128,7 @@ c) Disegna il grafico cartesiano delle curve di domanda e di offerta.
 
 
 
-### ESERCIZIO 7 - Consumo di carburante
+### ESERCIZIO 8 - Consumo di carburante
 
 Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda ha osservato che il trattore consuma $25$ litri di gasolio l'ora e, all'inizio dell'attività di aratura, ha una scorta di $1500$ litri di gasolio. Considerato che ogni giorno lavorativo il trattore ara per circa $6$ ore, calcolare:
 
@@ -140,7 +140,7 @@ c) il numero di giorni necessari per l'esaurimento completo della scorta.
 
 
 
-### ESERCIZIO 8 - Studio epidemiologico
+### ESERCIZIO 9 - Studio epidemiologico
 
 Uno scienziato studia la diffusione di una epidemia in una piccola città con un modello lineare. Lo scienziato stima che all'inizio dello studio c'erano $3.700$ casi e $45$ nuovi casi al giorno. 
 
@@ -150,7 +150,7 @@ b) Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la 
 
 
 
-### ESERCIZIO 6 - La dipendenza quadratica
+### ESERCIZIO 10 - La dipendenza quadratica
 
 a) L'area di un quadrato dipende dalla lunghezza del suo lato. Scrivi la funzione che calcola l'area di due quadrati uguali, ciascuno con un lato lungo $x$ metri.
 
@@ -160,7 +160,7 @@ c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata
 
 
 
-### ESERCIZIO 6 - La funzione valore assoluto
+### ESERCIZIO 11 - La funzione valore assoluto
 
 Per ogni funzione costruisci una tabella con cinque valori di $x$ (positivi, negativi o nulli) e rappresenta il grafico
 
@@ -186,7 +186,7 @@ b) Risolvi il punto b) dell'esercizio con la seguente sequenza di comandi GEOGEB
 
 
 
-### ESERCIZIO 7 - Le funzioni definite a tratti
+### ESERCIZIO 12 - Le funzioni definite a tratti
 
 a) Calcola il valore della funzione seguente per $n \in \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$: 
 $$
@@ -234,8 +234,52 @@ c) Risolvi il punto c) dell'esercizio con la sequenza seguente di comandi GEOGEB
 
 
 
-### ESERCIZIO 8
+### ESERCIZIO 13 - Analisi dei prezzi
 
 a) Una società di film a noleggio ha 1000 abbonati ognuno dei quali paga 15 euro al mese. Sulla base di un indagine, il management ritiene che per ogni 25 centesimi di riduzione del costo mensile di abbonamento si avrebbero 20 tesserati in più. Quale dovrebbe essere il prezzo di abbonamento mensile per avere il massimo numero di abbonati?
 
 b) 50 studenti, contribuendo ciascuno con 5 euro, riescono a raccogliere 250 euro per un regalo. Da questo punto in poi però, decidono che per ogni studente in più che aderisce, la somma da versare diminuirà di 5 centesimi per tutti. Quanti studenti dovranno contribuire per ottenere la somma massima possibile?
+
+
+
+### ESERCIZIO 14 - Applicazioni 
+
+Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ di volta in volta il numero di oggetti/servizi acquistati o prodotti. La formula che lega i costi ai prodotti in generale è la seguente:
+$$
+y = mx+q
+$$
+dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei costi che varia con il numero degli oggetti/servizi acquistati e $q$ è una parte che non varia (quota fissa).
+
+a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
+
+1. Scrivere le formule che, al variare di $x$, numero di ore di affitto a semestre, esprime i costi nel caso dei membri e degli esterni.
+2. Individuare quale è il numero semestrale minimo di ore di campo da affittare perché convenga l'iscrizione al circolo.  
+
+b) Una sala chirurgica ambulatoriale prevede, da parte del paziente, il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato 250 euro per un intervento di 30 minuti ed un altro 450 euro per uno di 90 minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di 45 minuti.
+
+c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezionate da 200 grammi l'una. Per la produzione dei cioccolatini, l'azienda sostiene una spesa fissa mensile di 4.000 euro ed un costo al Kg di 4 euro; ci sono da considerare poi altri 60 centesimi di costo di confezionamento per ogni scatola. Determinare:
+
+1. la formula che esprime il costo mensile per la produzione di $x$ scatole di cioccolatini;
+2. la formula che esprime i ricavi della vendita di $x$ scatole di cioccolatini al mese, considerato che il prezzo di ogni scatola è di 5 euro;
+3. la formula per il calcolo dell'utile come differenza tra i ricavi ed i costi.
+
+
+
+### ESERCIZIO 15 - Esercizio Riassuntivo   
+
+a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio di auto, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
+
+1. Scrivi la formula che calcola il costo di noleggio per la clientela.
+2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Il noleggio conviene di più con EZ oppure A-OK? 
+
+b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e dei costi di manutenzione che dipendono dai Km percorsi. I costi annui sono ricavabili dal fatto che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, se si percorrono mediamente 60 Km/giorno per 150 giorni l'anno, si spendono 1.000 euro/anno (ossia 0,111 euro al giorno al Km).
+
+1.  Considerando $x$ giorni di utilizzo l'anno, calcola i costi totali per la gestione di un'auto da 30.000 euro dell'agenzia EZ come somma di costi fissi e costi variabili (in dipendenza del numero dei giorni) annui; fai l'ipotesi di una percorrenza media giornaliera di 60 Km;
+2.  Nelle ipotesi del punto 1 e ricavando dalla risposta dell'esercizio a.1) i ricavi giornalieri del noleggio, scrivi la formula del ricavo annuo, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
+3.  Scrivi la formula dell'utile annuo come differenza tra i ricavi ed i costi. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo delle $x$ (giorni) in cui l'utile è positivo, detto "Regione dei Profitti" e quello in cui è negativo, detto "Regione delle Perdite".
+
+#### Laboratorio GEOGEBRA
+
+a) Disegna le curve dei costi dei punti b) e c) e rileva, per il punto c.2), quali sono graficamente i criteri che se applicati conducono alle decisioni ottimali per il consumatore.
+
+b) Disegna le curve dei Ricavi-Costi-Utile del punto d) ed individua graficamente le regioni dei profitti, delle perdite ed il punto di pareggio.
