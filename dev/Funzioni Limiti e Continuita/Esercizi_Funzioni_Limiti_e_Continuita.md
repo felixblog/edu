@@ -2,7 +2,7 @@
 
 ### ESERCIZIO 1 - Limite finito per x tendente a valore finito
 
-a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione in prossimità del valore di x.
+a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione in prossimità del valore di $x$.
 
 1. $\displaystyle \lim_{x\to 1}(2-3x)=-1$;    $\displaystyle \lim_{x\to -3}(x+5)=2$;    $\displaystyle \lim_{x\to \frac{1}{2}}(4x-1)=1$;
 2. $\displaystyle \lim_{x\to 0^+}\sqrt x = 0$;    $\displaystyle \lim_{x\to -1^-}(2x+3)=1$;    $\displaystyle \lim_{x\to 2^-} \sqrt{2-x} = 0$;
@@ -15,13 +15,13 @@ $$
 g(x) = \begin{cases} x^2 & se \; x \ge 0 \\ x^2 - 1 & se \; x \lt 0 \end{cases}
 $$
 
-verifica i limiti $\displaystyle \lim_{x\to 1^+}f(x) = -2$;    $\displaystyle \lim_{x\to 0^-}g(x) = 0$;\d.
+verifica i limiti $\displaystyle \lim_{x\to 1^+}f(x) = -2$;    $\displaystyle \lim_{x\to 0^-}g(x) = 0$.
 
 
 
 ### ESERCIZIO 2 - Limite infinito per x tendente a valore finito
 
-a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione in prossimità del valore di x.
+a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione in prossimità del valore di $x$.
 
 1. $\displaystyle \lim_{x\to 0^+} \frac{1}{x} = +\infty$;   $\displaystyle \lim_{x\to 0} \dfrac{1}{x^2} = +\infty$;    $\displaystyle \lim_{x\to 0^+}-\dfrac{1}{4x^4} = -\infty$;
 
@@ -39,7 +39,7 @@ c) La funzione rappresentata dal grafico della figura ha due asintoti verticali.
 
 ### ESERCIZIO 3 - Limite finito per x tendente a valore infinito
 
-a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione per un insieme di valori di x che tendano a $+\infty$ o $-\infty$.
+a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione per un insieme di valori di $x$ che tendano a $+\infty$ o $-\infty$.
 
 1. $\displaystyle \lim_{x\to +\infty} \frac{2}{x+10} = 0$;    $\displaystyle \lim_{x\to +\infty} \dfrac{4x-1}{2x+1} = 2$;    $\displaystyle \lim_{x\to +\infty}\dfrac{1}{1+e^x} = 0$;
 
@@ -57,7 +57,7 @@ b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
 ### ESERCIZIO 4 - Limite infinito per x tendente a valore infinito
 
-a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione per un insieme di valori di x che tendano a $+\infty$ o $-\infty$.
+a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione per un insieme di valori di $x$ che tendano a $+\infty$ o $-\infty$.
 
 1. $\displaystyle \lim_{x\to 0^+} \frac{1}{x} = +\infty$;    $\displaystyle \lim_{x\to 0} \dfrac{1}{x^2} = +\infty$;    $\displaystyle \lim_{x\to 0^+}-\dfrac{1}{4x^4} = -\infty$;
 
@@ -75,7 +75,7 @@ b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
 ### ESERCIZIO 5 - Definizione di Continuità
 
-a) Quali delle funzioni rappresentate dai seguenti grafici non sono continue in c e perché?
+a) Quali delle funzioni rappresentate dai seguenti grafici non sono continue in $c$ e perché?
 
 ![Def-Continuita](img/Def-Continuita.png)
 

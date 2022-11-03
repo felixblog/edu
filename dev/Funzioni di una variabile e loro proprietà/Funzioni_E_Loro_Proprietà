@@ -2,7 +2,7 @@
 
 ### ESERCIZIO 1 - Definizione di Funzione
 
-a) Determina quali dei seguenti insiemi di coppie cartesiane definisce una funzione (coppia $(x, y)$, funzione $y=f(x)$.)
+a) Determina quali dei seguenti insiemi di coppie cartesiane definisce una funzione (per la coppia $(x, y)$ la funzione è $y=f(x)$.)
 
 1. $\{(1, 3), (2, 5), (3, 7), (4, 8)\}$;
 2. $\{(2, 1), (3, 3), (2, 5), (4, 7)\}$;
@@ -41,7 +41,7 @@ c) Determina il dominio delle seguenti funzioni.
 
 a) Per ciascuno dei grafici seguenti individua:  
 
-- I tratti dell'asse x in cui la funzione è crescente o decrescente;
+- I tratti dell'asse $x$ in cui la funzione è crescente o decrescente;
 - i punti di massimo o minimo relativo ed i rispettivi valori. 
 
 1. $y = x^2$;

@@ -43,8 +43,6 @@ Per ciascuno dei seguenti problemi:
 
 4) risolvi il problema rispondendo alla domanda.
 
-
-
 a) Nel suo testamento, una donna ha lasciato a suo marito 20.000 ed a suo figlio 12.000 euro. Dopo la sua morte, le sue proprietà ammontavano a sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
 
 b) L’altezza di un armadio sta all’altezza del soffitto come 7 sta a 10. Calcola l’altezza dell’armadio e la lunghezza della parete che rimane scoperta:
@@ -78,15 +76,15 @@ d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al
 ### ESERCIZIO 4 - Problemi sulla rappresentazione dell'età I
 Rappresenta l’età indicata sulla base dell’età attuale.
 
-a) Tra 10 anni se adesso ha x anni;  &emsp;  [R. x + 10]  
+a) Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]  
 
-b) 10 anni fa se adesso ha x anni;  &emsp;  [R. x-10]  
+b) 10 anni fa se adesso ha $x$ anni;  &emsp;  [R. $x-10$]  
 
-c) Tra y anni se l’età attuale è 40 anni;  &emsp; ; [R. x+40]  
+c) Tra $y$ anni se l’età attuale è 40 anni;  &emsp; ; [R. $x+40$]  
 
-d) y anni fa se attualmente ha 40 anni;  &emsp;  [R. 40-y]   
+d) $y$ anni fa se attualmente ha 40 anni;  &emsp;  [R. $40-y$]   
 
-e) y anni fa se ora ha p anni.  &emsp;  [R. p-y].
+e) $y$ anni fa se ora ha $p$ anni.  &emsp;  [R. $p-y$].
 
 
 
@@ -96,9 +94,9 @@ Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni.
 
 a) Tra 5 anni se aveva 20 anni 10 anni fa.  
 
-b) Tra y anni se aveva 30 anni 5 anni fa.  
+b) Tra $y$ anni se aveva 30 anni 5 anni fa.  
 
-c) 5 anni fa se avrà venti anni tra y anni.
+c) 5 anni fa se avrà venti anni tra $y$ anni.
 
 
 
@@ -115,7 +113,7 @@ c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre 
 
 
 ### ESERCIZIO 7 - Problemi sul lavoro I
-La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità q di beni/servizi prodotti dall'unità e la durata t del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di n unità è data dalla somma delle singole produttività. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
+La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di $n$ unità è data dalla somma delle singole produttività. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
 Per ciascuno dei seguenti problemi:
 
@@ -131,7 +129,7 @@ a) Giacomo dipinge una parete in 3 ore. Giovanni fa lo stesso lavoro in 5 ore. Q
 
 b) Lavorando insieme, la stampante A e la stampante B finirebbero il compito in 24 minuti. La stampante A da sola finirebbe la stampa in 60 minuti. Quante pagine dovrebbero essere stampate se la stampante B stampa 5 pagine al minuto in più rispetto ad A?  
 
-c) In a giorni 16 operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro 12 operai? [R. 4/3 a]  
+c) In $a$ giorni 16 operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro 12 operai? [R. $\dfrac{4}{3} a$]  
 
 d) Sei operaie confezionano 120 paia di guanti in 20 giorni. Quanti giorni occorrono a 3 operaie per confezionare 30 paia di guanti dello stesso tipo? [R. 10].
 
@@ -159,7 +157,7 @@ c) Un viaggiatore impiega 12 ore per un tragitto di andata e ritorno, con una ve
 
 d) Un postino che viaggia a 30 Km/h è in viaggio da 3 ore. Un altro postino, inviato per raggiungerlo, viaggia a 50 Km/h. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
 
-e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore viene riempita da un secondo rubinetto se i due rubinetti, aperti insieme, la riempiono in 4 ore? (Indica con X il numero di ore richiesto e determina la percentuale di cisterna che ogni rubinetto riesce a riempire ogni ora). [R. 20 ore]
+e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore viene riempita da un secondo rubinetto se i due rubinetti, aperti insieme, la riempiono in 4 ore? (Indica con $x$ il numero di ore richiesto e determina la percentuale di cisterna che ogni rubinetto riesce a riempire ogni ora). [R. 20 ore]
 
 
 
@@ -203,13 +201,13 @@ c) q monete da 25 centesimi 7 centesimi (in centesimi).
 ### ESERCIZIO 13- Problemi su monete e miscele, caso delle miscele I
 Scrivi l’espressione del valore totale della merce in centesimi e semplifica (ricorda di trasformare tutte le grandezze nella stessa unità di misura).
 
-a) n Kg di caffè del costo di ¢ 90 l’etto e (n + 3) Kg di caffè del costo di € 1,05 il Kg;  
+a) $n$ Kg di caffè del costo di ¢ 90 l’etto e $n + 3$ Kg di caffè del costo di € 1,05 il Kg;  
 
-b) 3 Kg di te al costo di € 1,50 l’etto ed n Kg al costo di € 1,75 al Kg;  
+b) 3 Kg di te al costo di € 1,50 l’etto ed $n$ Kg al costo di € 1,75 al Kg;  
 
-c) n francobolli del costo di ¢ 35 ciascuno e 20 – n francobolli del costo di ¢ 50 l’uno;  
+c) $n$ francobolli del costo di ¢ 35 ciascuno e $20 – n$ francobolli del costo di ¢ 50 l’uno;  
 
-d) x dozzine di matite del valore di ¢ 20 l’una e 3 dozzine a ¢ 60 la dozzina.
+d) $x$ dozzine di matite del valore di ¢ 20 l’una e 3 dozzine a ¢ 60 la dozzina.
 
 
 
