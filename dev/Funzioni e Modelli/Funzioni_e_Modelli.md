@@ -114,14 +114,16 @@ b. Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
 
 a) Detti $P_n = 40 + 5 \cdot n, \: n=0, 1, 2,...,6$ una successione di prezzi delle lattine, e $Q_n = 141 -12 \cdot n$ le corrispondenti quantità vendute, simula la quantità venduta per i prezzi $\{40, 35, 30, 25, 20, 15, 10\}$, completando la tabella seguente.
-
-|  n   | $P_{n}$ | $Q_{n}$ |
-| :--: | :-----: | :-----: |
-|  0   |   40    |   141   |
-|  1   |   35    |   ...   |
-| ...  |   30    |   ...   |
-| ...  |   ...   |   ...   |
-
+$$
+\begin{array}{r|c|c}  n & P_{n} & Q_{n}\\
+\hline
+0 & 40 & 141\\
+1 & 35 & ...\\
+... & 30 & ...\\
+... & ... & ...\\
+... & ... & ...\\
+\end{array}
+$$
 b) Detto $x$ il prezzo e $y$ la quantità settimanale venduta, scrivi la curva di domanda delle lattine nella scuola.
 
 c) Disegna il grafico cartesiano delle curve di domanda e di offerta. 
