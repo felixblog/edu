@@ -4,7 +4,7 @@
 
 a) Una agenzia di noleggio auto fa pagare per una automobile 50 euro al giorno più 32 centesimi a Km percorso. Il costo giornaliero dell'auto, in euro, dipende quindi dal numero di Km percorsi $x$ secondo l'espressione $0,32x + 50$.
 
-Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola c(75), c(150), c(225) e c(650).
+Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola $c(75)$, $c(150)$, $c(225)$ e $c(650)$.
 
 b) Calcola il valore dell'espressione $x^2$ per i valori della $x$ indicati nella tabella seguente.
 $$
@@ -103,9 +103,9 @@ Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare.
 
 Una persona prende in prestito da una finanziaria 1.000 euro (capitale) per pagare un corso di formazione. Dovrà restituire il capitale entro 5 anni in una unica soluzione ma pagare trimestralmente l'1% dell'importo, a titolo di interesse, finchè non estingue il debito.
 
-a. Se $I_n$ è l'ammontare degli interessi pagati fino all'$n$-esimo trimestre e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
+a) Se $I_n$ è l'ammontare degli interessi pagati fino all'$n$-esimo trimestre e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
 
-b. Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri?
+b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri? Quale sarà l'importo totale degli interessi pagati dopo 5 anni?
 
 
 
@@ -113,7 +113,7 @@ b. Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 
 In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
 
-a) Detti $P_n = 40 + 5 \cdot n, \: n=0, 1, 2,...,6$ una successione di prezzi delle lattine, e $Q_n = 141 -12 \cdot n$ le corrispondenti quantità vendute, simula la quantità venduta per i prezzi $\{40, 35, 30, 25, 20, 15, 10\}$, completando la tabella seguente.
+a) Detti $P_n = 40 + 5 \cdot n, \: n=0, 1, 2,...,6$ una successione di prezzi delle lattine, e $Q_n = 141 -12 \cdot n$ le corrispondenti quantità vendute, calcola la quantità venduta per i prezzi $\{40, 35, 30, 25, 20, 15, 10\}$, completando la tabella seguente.
 $$
 \begin{array}{r|c|c}  n & P_{n} & Q_{n}\\
 \hline
