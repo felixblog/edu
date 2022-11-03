@@ -70,7 +70,7 @@ c) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere c
 
 
 ### ESERCIZIO 4 - Funzioni numeriche
-Costruire una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a x per ciascuna delle funzioni riportate di seguito:
+Costruire una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
 
 a) $y = x$;
 
@@ -93,7 +93,7 @@ a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di 
 
 
 ### ESERCIZIO 5 - Dipendenza lineare
-Date le seguenti tabelle, stabilisci se tra x e y c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
+Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 
 ![F](img/f1.png)    ![F](img/f2.png)   ![F](img/f3.png) 
 
@@ -124,9 +124,9 @@ $$
 ... & ... & ...\\
 \end{array}
 $$
-b) Detto $x$ il prezzo e $y$ la quantità settimanale venduta, scrivi la curva di domanda delle lattine nella scuola.
+b) Detto $x$ il prezzo e $y$ la quantità settimanale venduta, disegna in un grafico cartesiano i punti della curva di domanda presenti nella tabella precedente.
 
-c) Disegna il grafico cartesiano delle curve di domanda e di offerta. 
+c) Disegna il grafico cartesiano delle curve di domanda e di offerta delle bibite. 
 
 
 
@@ -154,7 +154,7 @@ b) Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la 
 
 ### ESERCIZIO 10 - La dipendenza quadratica
 
-a) L'area di un quadrato dipende dalla lunghezza del suo lato. Scrivi la funzione che calcola l'area di due quadrati uguali, ciascuno con un lato lungo $x$ metri.
+a) L'area di un quadrato dipende dalla lunghezza del suo lato. Scrivi la funzione che calcola l'area $y$ di due quadrati uguali, ciascuno con un lato lungo $x$ metri.
 
 b) Un edificio ha porte e finestre rettangolari di diversa grandezza, ma per tutte il lato più lungo è il doppio di quello più corto. Scrivi la funzione che calcola l'area di ogni porta o finestra in dipendenza del lato più corto e calcola l'area del rettangolo quando il lato più corto misura $10, 25, 30, 50$.
 
@@ -269,16 +269,18 @@ c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezi
 
 ### ESERCIZIO 15 - Esercizio Riassuntivo   
 
-a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio di auto, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato 70 euro per un giorno e 100 Km e la seconda, sempre per un giorno, 120 euro per 350 Km.
+a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e 100 Km percorsi, un totale di 70 euro e la seconda, sempre per un giorno e 350 Km percorsi, 120 euro.
 
 1. Scrivi la formula che calcola il costo di noleggio per la clientela.
-2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Il noleggio conviene di più con EZ oppure A-OK? 
+2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Ad Antonio conviene di più servirsi di EZ oppure di A-OK? 
 
-b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e dei costi di manutenzione che dipendono dai Km percorsi. I costi annui sono ricavabili dal fatto che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, se si percorrono mediamente 60 Km/giorno per 150 giorni l'anno, si spendono 1.000 euro/anno (ossia 0,111 euro al giorno al Km).
+b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e di uno variabile, che dipende dai Km percorsi, di manutenzione.
+
+I costi annui si possono calcolare considerando che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, se si percorrono mediamente 60 Km/giorno per 150 giorni l'anno, si spendono 1.000 euro/anno (ossia 0,111 euro al giorno al Km).
 
 1.  Considerando $x$ giorni di utilizzo l'anno, calcola i costi totali per la gestione di un'auto da 30.000 euro dell'agenzia EZ come somma di costi fissi e costi variabili (in dipendenza del numero dei giorni) annui; fai l'ipotesi di una percorrenza media giornaliera di 60 Km;
 2.  Nelle ipotesi del punto 1 e ricavando dalla risposta dell'esercizio a.1) i ricavi giornalieri del noleggio, scrivi la formula del ricavo annuo, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
-3.  Scrivi la formula dell'utile annuo come differenza tra i ricavi ed i costi. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo delle $x$ (giorni) in cui l'utile è positivo, detto "Regione dei Profitti" e quello in cui è negativo, detto "Regione delle Perdite".
+3.  Scrivi la formula dell'utile annuo come differenza tra i ricavi ed i costi. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo dei giorni $x$ in cui l'utile è positivo ("Regione dei Profitti") e quello dei giorni in cui è negativo ("Regione delle Perdite").
 
 #### Laboratorio GEOGEBRA
 
