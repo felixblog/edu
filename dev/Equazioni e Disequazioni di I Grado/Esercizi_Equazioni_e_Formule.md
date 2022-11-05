@@ -25,37 +25,39 @@ i) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+Risolvi i punti dell'esercizio con la sequenza di comandi GEOGEBRA riportata nell'esempio seguente.
 
 1. $e1: x + 12 = 28$ &#9166; 
 2. $e2:Sostituisci(e1, \{x=6\})$ &#9166; 
-3. $PrimoMembro(e2) == SecondoMembro(e2)$ &#9166;
-
-b) Risolvi i punti e) e f) dell'esercizio con sequenze di comandi GEOGEBRA analoghi a quelli del punto a). Ricorda di utilizzare altre etichette per indicare le equazioni ($e2, e3$ etc.).
+3. $PrimoMembro(e1) == SecondoMembro(e2)$ &#9166;
 
 
 
-### ESERCIZIO 2 - Proprietà dell'uguaglianza
+### ESERCIZIO 2 - Regole delle Equazioni
 
-Individua quale proprietà dell'uguaglianza è necessaria per risolvere ciascuna delle seguenti equazioni.
+Risolvi le seguenti equazioni applicando le regole indicate.
 
-a) $9 = p - 9;$
+a) Regola del trasporto e semplificazione.
 
-b) $y - 1.2 = -1.3;$
+1. $9 = p - 9;$
 
-c) $\dfrac{7}{15} = b - \dfrac{1}{15};$
+2. $y - 1.2 = -1.3;$
 
-d) $\dfrac{x}{15} = 3;$
+3. $\dfrac{7}{15} = b - \dfrac{1}{15};$
+4.  $9.4 + h = 0.81$;
+5. $4 + x = 1 + 2x$; (Trasportare i monomi a destra).
 
-e) $0 = \dfrac{v}{11};$
+b) Regola della moltiplicazione e divisione e semplificazione.
 
-f) $\dfrac{c}{-2} = -11;$
+1. $\dfrac{x}{15} = 3$;
 
-g) $9.4 + h = 0.81;$
+2. $0 = \dfrac{v}{11};$
 
-h) $\dfrac{3}{2}c = 10;$
+3. $\dfrac{c}{-2} = -11;$
 
-i) $-\dfrac{5}{4}h = -5;$
+4. $\dfrac{3}{2}c = 10;$
+
+5. $-\dfrac{5}{4}h = -5;$
 
 
 
