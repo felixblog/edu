@@ -37,7 +37,7 @@ Risolvi i punti dell'esercizio con la sequenza di comandi GEOGEBRA riportata nel
 
 Risolvi le seguenti equazioni applicando le regole indicate.
 
-a) Regola del trasporto e semplificazione.
+a) Regola del trasporto, regola della semplificazione.
 
 1. $9 = p - 9;$
 
@@ -47,7 +47,7 @@ a) Regola del trasporto e semplificazione.
 4.  $9.4 + h = 0.81$;
 5. $4 + x = 1 + 2x$; (Trasportare i monomi a destra).
 
-b) Regola della moltiplicazione e divisione e semplificazione.
+b) Regola della moltiplicazione/divisione e regola della semplificazione.
 
 1. $\dfrac{x}{15} = 3$;
 
