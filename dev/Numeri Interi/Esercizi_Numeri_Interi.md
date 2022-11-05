@@ -169,35 +169,35 @@ g) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi a
 
 ### ESERCIZIO 10 - Dalle parole alle espressioni (II)
 
-Traduci in espressioni le seguenti frasi indicando con la lettera ‘x’ il numero generico citato; calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
+Traduci in espressioni le seguenti frasi indicando con la lettera ‘$x$’ il numero generico citato; calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
 
-a) Aggiungi ad un numero il suo triplo [x=1];
+a) Aggiungi ad un numero il suo triplo [$x=1$];
 
-b) Sottrai da un numero la sua metà [x=6];
+b) Sottrai da un numero la sua metà [$x=6$];
 
-c) Moltiplica un numero per 4 e sottrai la sua terza parte sommata a 22 [x=9];
+c) Moltiplica un numero per 4 e sottrai la sua terza parte sommata a 22 [$x=9$];
 
-d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e somma al risultato 12 [x=-9];
+d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e somma al risultato 12 [$x=-9$];
 
-e) Somma alla metà di un numero la sua quinta parte e sottrai il numero stesso diminuito di 6 [x=-20];
+e) Somma alla metà di un numero la sua quinta parte e sottrai il numero stesso diminuito di 6 [$x=-20$];
 
-f) Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato [x=0];
+f) Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato [$x=0$];
 
-g) Scrivi due numeri consecutivi [x=3]. 
+g) Scrivi due numeri consecutivi [$x=3$]. 
 
 
 
 ### ESERCIZIO 11 - Dalle parole alle espressioni (III)
 
-Essendo a e b due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni sostituendo alle lettere i numeri assegnati.
+Essendo $a$ e $b$ due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni sostituendo alle lettere i numeri assegnati.
 
-a) Sottrai b al triplo di a [a = 3, b = 2];
+a) Sottrai $b$ al triplo di $a$,  [$a = 3, b = 2$];
 
-b) Aggiungi il quadruplo di b alla differenza tra il triplo di a e b [a = 3, b = 2];
+b) Aggiungi il quadruplo di $b$ alla differenza tra il triplo di $a$ e $b$ , [$a = 3, b = 2$];
 
-c) Dividi la somma di sette volte a e il cubo di b per la somma di a e b [a = 3, b = 3];
+c) Dividi la somma di sette volte $a$ e il cubo di $b$ per la somma di $a$ e $b$,  [$a = 3, b = 3$];
 
-d) Moltiplica la somma del quadruplo di a e del triplo di b per la somma del doppio di a e del triplo di b [a = 3, b = 2].
+d) Moltiplica la somma del quadruplo di $a$ e del triplo di $b$ per la somma del doppio di $a$ e del triplo di $b$,  [$a = 3, b = 2$].
 
 
 
@@ -329,26 +329,28 @@ e) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di
 
 ### ESERCIZIO 18 - Sequenze e Tabelle
 
-Un abbonato paga per un contratto telefonico 16 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato mese per mese (al 15 di ogni mese) nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 2 colonne con, in ogni riga, il mese nella prima cella e l'importo nella seconda:
+Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 2 colonne con, in ogni riga, il mese nella prima cella e l'importo nella seconda, come nell'esempio seguente.
 
-Es. 
+#### Esempio di SOLUZIONE
+
+L'abbonato non paga per due mesi consecutivi e poi salda tutto il debito entro il la scadenza del terzo mese 
 $$
 \begin{array}{c|c|c}
         Data & Mese & Debito \\
         \hline
-        15/02 & 1 & -18  \\
-        15/03 & 2 & -40  \\
-        ... & ... & ...  \\
+        16/02 & 1 & -22  \\
+        16/03 & 2 & -46  \\
+        16/04 & 3 &   0  \\
         \end{array}
 $$
 
-a) l'abbonato non paga per 2 mesi e poi salda il debito;
+a)  l'abbonato non paga per 3 mesi, poi salda il debito entro il quarto mese;
 
-b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate, paga regolarmente per altri 3 mesi e quindi salda il debito;
+a)  l'abbonato non paga per 3 mesi, poi salda il debito e contemporaneamente paga un mese in anticipo entro il quarto mese;
 
-c) l'abbonato non paga per 3 mesi, poi salda il debito e paga un mese in anticipo;
+b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate entro il quarto mese, paga regolarmente per altri 3 mesi e quindi salda il debito entro l'ottavo mese;
 
-d) l'abbonato arriva ad accumulare un debito di poco inferiore a 100 euro; in questo caso quante righe ha la tabella?
+c) l'abbonato non paga nulla fino ad accumulare un debito vicino ai 200 euro. In questo caso quante righe ha la tabella?
 
 
 
