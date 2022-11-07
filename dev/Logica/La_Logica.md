@@ -77,24 +77,28 @@ a) Scrivi la negazione delle seguenti proposizioni.
 
 b) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione. 
 
-**ESEMPIO DI SOLUZIONE**
+#### Esempio di SOLUZIONE
 
-$p$: “Io d'estate lavoro”, $q$: “Io con in guadagni del lavoro mi compro il motorino”, $p \land q$: "D’estate lavoro e coi guadagni mi compro il motorino".
+"D’estate lavoro e coi guadagni mi compro il motorino"
 
-1. "D’estate lavoro e coi guadagni mi compro il motorino";  
-2. "Mara suona e canta";  
-3. "Marco canta e non balla";  
-4. "Rosa e Gianni sono sposati e Luisa e Matteo non sono sposati";  
-5. "Il quadrato è un rettangolo e un rombo".
+$p$: “Io d'estate lavoro”, $q$: “Io con in guadagni del lavoro mi compro il motorino”,  Proposizione composta: "D’estate lavoro e coi guadagni mi compro il motorino": $p \land q$.
+
+1. "Mara suona e canta";  
+2. "Marco canta e non balla";  
+3. "Rosa e Gianni sono sposati e Luisa e Matteo non sono sposati";  
+4. "Il quadrato è un rettangolo e un rombo".
+
+
 
 c) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la disgiunzione inclusiva.
 
-**ESEMPIO DI SOLUZIONE**
+#### Esempio di SOLUZIONE
 
-$p$: “Io vado al bowling con Mario”, $q$: “Vado al bowling con Andrea”, $p \lor q$: "Vado al bowling con Mario o con Andrea".
+"Vado al bowling con Mario o con Andrea".
+
+$p$: “Io vado al bowling con Mario”, $q$: “Vado al bowling con Andrea”,  Proposizione composta: "Vado al bowling con Mario o con Andrea": $p \lor q$.
 
 1. "È nuvoloso o piove";
-2. "Vado al bowling con Mario o con Andrea";  
 3. "Nelle prossime vacanze andrò in montagna o al lago";  
 4. "Luisa lava i piatti o fa scorrere l’acqua calda o aggiunge detersivo nel lavandino";  
 5. "Non leggo quella pagina o la strappo o la brucio";  
@@ -102,25 +106,32 @@ $p$: “Io vado al bowling con Mario”, $q$: “Vado al bowling con Andrea”, 
 7. "7 è un numero primo o è pari";  
 8. "Non esco o cucino o faccio una doccia".
 
+
+
 d) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione esclusiva.
 
-**ESEMPIO DI SOLUZIONE**
+#### Esempio di SOLUZIONE
 
-$p$: “Tu mi aiuti”, $q$: “Tu vai via", $p \veebar q$: "O mi aiuti o te ne vai".
+"O mi aiuti o te ne vai"
+
+$p$: “Tu mi aiuti”, $q$: “Tu vai via", Proposizione composta: "O mi aiuti o te ne vai": $p \veebar q$: 
 
 1. "O studi o sarai bocciato";  
-2. "O mi aiuti o te ne vai";  
 3. "Nelle prossime vacanze o andrò in montagna o farò un viaggio a Parigi";  
 4. "O accendi la stufa a legna o farà un gran freddo";  
 5. "Non so se andare a teatro o al cinema";  
 6. "O la borsa o la vita";  
 7. "O c’è il sole o non esco".
 
+
+
 e) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando l'implicazione materiale.
 
-**ESEMPIO DI SOLUZIONE**
+#### Esempio di SOLUZIONE
 
-$p$: “Un parallelogramma è un quadrato”, $q$: “Un rombo è un rettangolo", $p \to q$: "Se un parallelogramma è un quadrato, allora un rombo è un rettangolo".
+"Se un parallelogramma è un quadrato, allora un rombo è un rettangolo"
+
+$p$: “Un parallelogramma è un quadrato”, $q$: “Un rombo è un rettangolo", Proposizione composta: "Se un parallelogramma è un quadrato, allora un rombo è un rettangolo": $p \to q$.
 
 1. "Se sono promossa agli esami mi iscrivo a Medicina";  
 2. "Se non studi, non prenderai la sufficienza";  
@@ -208,6 +219,6 @@ a) Individuando premesse e conclusione, tradurre nel linguaggio della logica pro
 5. Se Carlo ha vinto la gara, allora, se Mario è arrivato secondo, allora Sergio è arrivato terzo. Mario non è arrivato secondo. Quindi, o Carlo ha vinto o Sergio è arrivato terzo.  
 6. Se giochi e studi supererai gli esami, ma se giochi e non studi non supererai gli esami. Pertanto, se giochi, allora o studi e supererai gli esami o non studi e non supererai gli esami.  
 7. Il Parma vince il campionato oppure il Chievo retrocede. D’altra parte, non si dà il caso che, se il Parma vince il campionato, allora il Chievo non retrocede. Inoltre, il Chievo non retrocede e il Sassuolo si qualifica in Europa League. Dunque, il Sassuolo non si qualifica in Europa League.  
-  (Indicare con: $p$: "Il Parma vince il campionato", $c$: "Il Chievo retrocede", $s$: "Il Sassuolo si qualifica in Europa League").
+    (Indicare con: $p$: "Il Parma vince il campionato", $c$: "Il Chievo retrocede", $s$: "Il Sassuolo si qualifica in Europa League").
 
 b) Analizzare la validità dei ragionamenti del punto a) con le tabelle di verità.
