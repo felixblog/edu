@@ -254,7 +254,7 @@ d) $\left\{ [(2^{4}-7\text{·}3)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^
 
 
 
-### ESERCIZIO 14 - Espressioni algebriche e sostituzioni (I)
+### ESERCIZIO 14 - Espressioni letterali e sostituzioni (I)
 
 a) Scrivi le espressioni ottenute sostituendo alle lettere i numeri indicati.
 
@@ -275,7 +275,7 @@ Sostituisci(y*(1 - y) + 3,{y = -5})
 
 
 
-### ESERCIZIO 15 - Espressioni algebriche e sostituzioni (II)
+### ESERCIZIO 15 - Espressioni letterali e sostituzioni (II)
 
 a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
@@ -297,7 +297,7 @@ Sostituisci(l,{a = 2, b = -2})
 
 
 
-### ESERCIZIO 16 - Espressioni algebriche e sostituzioni (III)
+### ESERCIZIO 16 - Espressioni letterali e sostituzioni (III)
 
 Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostituite ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
@@ -344,11 +344,11 @@ $$
         \end{array}
 $$
 
-a)  l'abbonato non paga per 3 mesi, poi salda il debito entro il quarto mese;
+a)  l'abbonato non paga per 3 mesi, poi salda il debito entro la scadenza del quarto mese;
 
-a)  l'abbonato non paga per 3 mesi, poi salda il debito e contemporaneamente paga un mese in anticipo entro il quarto mese;
+a)  l'abbonato non paga per 3 mesi, poi salda il debito e contemporaneamente paga un mese in anticipo entro la scadenza del quarto mese;
 
-b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate entro il quarto mese, paga regolarmente per altri 3 mesi e quindi salda il debito entro l'ottavo mese;
+b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate entro il quarto mese, paga regolarmente per altri 3 mesi e quindi salda il debito entro la scadenza dell'ottavo mese;
 
 c) l'abbonato non paga nulla fino ad accumulare un debito vicino ai 200 euro. In questo caso quante righe ha la tabella?
 
