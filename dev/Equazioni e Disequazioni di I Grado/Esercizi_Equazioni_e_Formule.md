@@ -112,7 +112,7 @@ e) consiste nell'uguaglianza tra un numero ed il suo opposto.
 
 ### ESERCIZIO 5 - Equazioni letterali
 
-a) Risolvi le seguenti equazioni considerando la lettera x come (unica) incognita.
+a) Risolvi le seguenti equazioni considerando la lettera $x$ come (unica) incognita.
 
 1. $ax = 2a;\enspace bx - 2 = 0;\enspace 2x = y;$
 

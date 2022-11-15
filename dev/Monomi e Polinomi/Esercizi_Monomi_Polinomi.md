@@ -133,7 +133,7 @@ c) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$
 
 Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale che fornisce la soluzione di ogni problema. L'espressione richiesta dovrà contenere una lettera che indica la quantità contenuta nel testo da cui dipende la soluzione.
 
-#### ESEMPIO DI SOLUZIONE
+#### Esempio di SOLUZIONE
 
 "Quest'anno i ricavi saranno il doppio di quelli dell'anno scorso". Scrivi l'espressione dei ricavi di quest'anno.
 
