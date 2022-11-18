@@ -129,7 +129,24 @@ c) $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$
 
 
 
-### ESERCIZIO 8 - Dalle parole alle espressioni I
+### ESERCIZIO 8 - Divisioni tra monomi
+
+a) Calcola, se esiste, il monomio risultato dei rapporti seguenti.
+
+1. $ax:a$;   $-\dfrac{1}{4}ax:a$;   $a:\dfrac{1}{4}$;
+2. $\dfrac{-\dfrac{1}{4}ax}{a}$;   $\dfrac{1}{7a^2b}\cdot ab^2$;    $\dfrac{5}{2}a^4x:a^3x^2$;
+3. $4a^5b^3 : (-ab^3)$;   $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;   $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$.
+
+b) Per ciascuno dei seguenti monomi contenenti $x$, scrivi il monomio per cui dividere in modo che il risultato sia $x$. 
+
+​	ESEMPIO: per $2ax$ il monomio è $2a$, infatti $\dfrac{2ax}{2a} \Rightarrow  x$.
+
+1. $axb$;   $-axa^2$;   $-\dfrac{a^2x}{3}$;
+2. $-2ax \cdot (-3)abx$;   $ax\left(-\dfrac{1}{2}\right)a^{2}$.
+
+
+
+### ESERCIZIO 9 - Dalle parole alle espressioni I
 
 Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale che fornisce la soluzione di ogni problema. L'espressione richiesta dovrà contenere una lettera che indica la quantità contenuta nel testo da cui dipende la soluzione.
 
@@ -168,7 +185,7 @@ i) Una persona deposita in banca un capitale $C$ su un conto che rende il 5% di 
 
 
 
-### ESERCIZIO 9 - Dalle parole alle espressioni II
+### ESERCIZIO 10 - Dalle parole alle espressioni II
 
 a) Scrivi le espressioni numeriche che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
 
@@ -186,7 +203,7 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 
 
-### ESERCIZIO 10 - Espressioni con monomi
+### ESERCIZIO 11 - Espressioni con monomi
 
 Semplifica le seguenti espressioni.
 
@@ -202,7 +219,7 @@ a) Risolvi il punto a) esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,\cdotp\
 
 
 
-### ESERCIZIO 11 - Polinomi in forma normale
+### ESERCIZIO 12 - Polinomi in forma normale
 
 Riduci i seguenti polinomi in forma normale.
 
@@ -221,7 +238,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO 12 - Rappresentazione delle espressioni letterali
+### ESERCIZIO 13 - Rappresentazione delle espressioni letterali
 
 a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
 
@@ -259,7 +276,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-### ESERCIZIO 13 - Somma di polinomi
+### ESERCIZIO 14 - Somma di polinomi
 
 Esegui le seguenti addizioni e sottrazioni tra polinomi.
 
@@ -270,7 +287,7 @@ b) $\left(3a^{3}+5a^{2}-2a+1\right)-\left(3a^{3}-2a^{2}+5a-7\right)$
 
 
 
-### ESERCIZIO 14 - Dalle parole alle espressioni
+### ESERCIZIO 15 - Dalle parole alle espressioni
 
 Dati i polinomi seguenti:
 
@@ -292,7 +309,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 15 - Prodotto di monomi per polinomi
+### ESERCIZIO 16 - Prodotto di monomi per polinomi
 
 Semplifica le seguenti espressioni.  
 
@@ -314,7 +331,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO - 16 Prodotto di polinomi
+### ESERCIZIO - 17 Prodotto di polinomi
 
 Semplifica le seguenti espressioni.  
 
