@@ -102,15 +102,15 @@ a) Risolvi il secondo esercizio del punto a.1) con la sequenza di operazioni GEO
 b) Risolvi il secondo e terzo esercizio del punto b.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
 1. $d : b^2-4ac$  &#9166;
-2. $e: ax^2 +bx +c = 0$  &#9166;
-3. $l_1: \{a=3, b=-1, c=2\}$  &#9166;
-4. $Sostituisci(d, l_1)$  &#9166;						       // Si ottiene il discriminante
-5. $e_1: Sostituisci(e,l_1)$  &#9166;						// Si ottiene l'equazione con i coefficienti numerici
-6. $Risolvi(e_1)$  &#9166;									      // Si ottengono le soluzioni dell'equazione
-7. $l_2: \{a=2, b=8, c=1\}$  &#9166;
-8. $Sostituisci(d, l_2)$  &#9166;
-9. $e_2: Sostituisci(e,l_2)$  &#9166;	
-10. $Risolvi(e_2)$  &#9166;	
+2. $e1: ax^2 +bx +c = 0$  &#9166;
+3. $l1: \{a=3, b=-1, c=2\}$  &#9166;
+4. $Sostituisci(d, l1)$  &#9166;						       // Si ottiene il discriminante
+5. $e1: Sostituisci(e1,l1)$  &#9166;					// Si ottiene l'equazione con i coefficienti numerici
+6. $Risolvi(e1)$  &#9166;									      // Si ottengono le soluzioni dell'equazione
+7. $l2: \{a=2, b=8, c=1\}$  &#9166;
+8. $Sostituisci(d, l2)$  &#9166;
+9. $e_2: Sostituisci(e,l2)$  &#9166;	
+10. $Risolvi(e2)$  &#9166;	
 
 
 
@@ -170,10 +170,10 @@ b) Scrivi l'equazione della parabola che passa per il vertice ed un altro punto 
 
 a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $e: 0 = a(0)^2+b(0)+c$   &#9166; 
+1. $e1: 0 = a(0)^2+b(0)+c$   &#9166; 
 2. $f: 1 = a(-1)^2+b(-1)+c$   &#9166;
 3. $g: 1 = a(1)^2+b(1)+c$   &#9166;
-4. $s: Singola(Risolvi(\{e,f,g\},\{a,b,c\}))$ &#9166;  
+4. $s: Singola(Risolvi(\{e1,f,g\},\{a,b,c\}))$ &#9166;  
 5. $Sostituisci(y= ax^2 + bx+c,s)$ &#9166;  
 
 

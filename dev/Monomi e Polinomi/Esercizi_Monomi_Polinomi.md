@@ -57,7 +57,7 @@ b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e c
 
 ### ESERCIZIO 4 - Dalle espressioni alle parole
 
-Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri a e b, scrivi ...”.
+Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri $a$ e $b$, scrivi ...”.
 
 a) $a-\left(b+c\right)$; $a+\left(-b\right)-c$
 
@@ -144,7 +144,7 @@ Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel te
 
 a) Scrivi una espressione letterale che risolve i seguenti problemi:
 
-1. Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si aspettano p persone, quanti pasti saranno preparati? 
+1. Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si aspettano $p$ persone, quanti pasti saranno preparati? 
 2. Una piscina viene suddivisa in 8 corsie della stessa larghezza con dei galleggianti. Se la piscina è larga $l$ metri, quanto è larga ogni corsia?
 3. Quale è il valore, in euro, di $x$ monete da 20 centesimi ciascuna? e se aggiungiamo 10 monete da 5 centesimi?
 
