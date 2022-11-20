@@ -1,9 +1,0 @@
-digraph e {
- node [fontsize="20"] 
-
-e0 -> {e01; e02}; e0 [label="·"]
-
-e01 -> {"1/2 a^2 x"; "1/2 ab"; "-2/3 a^2 x^3"}; e01 [label="+"]
-
-e02 -> {"-5 a^2 x"; "-ab"; "a x^2"}; e02 [label="+"]
-}
