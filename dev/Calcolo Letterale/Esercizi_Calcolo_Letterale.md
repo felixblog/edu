@@ -134,13 +134,14 @@ a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2
 
 
 
-### ESERCIZIO 7 - Rapporti tra monomi
+### ESERCIZIO 7 - Rapporti tra monomi e frazioni algebriche
 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti.
 
 1. $ax:a$;   $-\dfrac{1}{4}ax:a$;   $a:\dfrac{1}{4}$;
 2. $\dfrac{-\dfrac{1}{4}ax}{a}$;   $\dfrac{1}{7a^2b}\cdot ab^2$;    $\dfrac{5}{2}a^4x:a^3x^2$;
-3. $4a^5b^3 : (-ab^3)$;   $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;   $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$.
+3. $4a^5b^3 : (-ab^3)$;   $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;   $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$;
+4. $\dfrac{5x^2y}{10x^3y}$;   $\dfrac{7a^2x}{a^2x^2}$;   $-\dfrac{4bx^2}{6b}$.
 
 b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti. 
 
@@ -317,15 +318,21 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 ### ESERCIZIO 15 - Prodotto di monomi per polinomi
 
-Semplifica le seguenti espressioni.  
+a) Scrivi il polinomio risultato dai prodotti seguenti.  
 
-a) $6\left(x^{2}-2y\right); \left(-2\right)\,\cdotp\left(-3xy+2\right)$ 
+1. $6\left(x^{2}-2y\right); \left(-2\right)\,\cdotp\left(-3xy+2\right)$;
 
-b) $a\left(x+a\right); b\left(by-1\right)$  
+2. $a\left(x+a\right); b\left(by-1\right)$ ;
 
-c) $\left(-4x^{2}y\right)\,\cdotp\left(-x^{3}+2xy-y\right)$  
+3. $\left(-4x^{2}y\right)\,\cdotp\left(-x^{3}+2xy-y\right)$ ;
 
-d) $-4x\left(2x+3y\right)-3y\left(-4x+y\right)-2\left(4x^{2}+3y^{2}\right)$  
+4. $-4x\left(2x+3y\right)-3y\left(-4x+y\right)-2\left(4x^{2}+3y^{2}\right)$ .
+
+b) Scomponi i seguenti polinomi in fattori (prodotto di un monomio per un polinomio), individuando il fattore comune ai termini del polinomio.
+
+1. $6x^2-12y$;   $-4+6xy$;   $-a-b$;
+2. $a^2 +ax$;   $b^2y - b$;   $-y^2 +2xy + 3y$;
+3. $-8x^2 -12xy$;   $4abc^2-8cba^2$;
 
 #### Laboratorio GEOGEBRA
 
@@ -354,3 +361,17 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 1. $Sviluppa(\left(2a-3b\right)\left(5a+4b\right))$  &#9166; 
 2. $Sviluppa(\,\left(x-3y\right)\left(5x+y\right))$  &#9166; 
 3. $Sviluppa(\left(a^ 3 +2b\right)\left(a^ 3-2b\right)-\left(a^ 5+a\right)\left(a-1\right))$  &#9166; 
+
+
+
+### ESERCIZIO - 17 Frazioni Algebriche
+
+a) Scrivi il reciproco delle seguenti frazioni algebriche.
+
+1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;   $2a^2$;   $-\dfrac{1}{2a^2x}$;
+2. $\dfrac{1}{x-1}$;   $\dfrac{a+1}{b-1}$;   $2a^2+a$;   $-\dfrac{1+x^2}{2a^2x}$.
+
+b) Semplifica le seguenti frazioni algebriche dopo aver scomposto polinomi in fattori.
+
+1. $\dfrac{x^2+3x}{x}$;   $\dfrac{4x^2-2x}{4x^2}$;   $\dfrac{x}{2x^2-x}$;
+2. $\dfrac{2a-2}{5a-5}$;   $\dfrac{-x-y}{x+y}$;   $\dfrac{2x-2y}{y-x}$.
