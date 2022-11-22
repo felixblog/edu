@@ -17,7 +17,7 @@ d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$; Sostituis
 
 ### ESERCIZIO 2 - Dalle parole alle espressioni (I)
 
-a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una  o più lettere per indicare le quantità sconosciute.
+a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una o più lettere per indicare le quantità sconosciute.
 
 1. La somma di $x$ e 15;
 2. La somma della lunghezza di un tavolo e 15;
@@ -318,7 +318,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 ### ESERCIZIO 15 - Prodotto di monomi per polinomi
 
-a) Scrivi il polinomio risultato dai prodotti seguenti.  
+a) Scrivi il polinomio risultato dai prodotti seguenti.
 
 1. $6\left(x^{2}-2y\right); \left(-2\right)\,\cdotp\left(-3xy+2\right)$;
 
@@ -328,15 +328,9 @@ a) Scrivi il polinomio risultato dai prodotti seguenti.
 
 4. $-4x\left(2x+3y\right)-3y\left(-4x+y\right)-2\left(4x^{2}+3y^{2}\right)$ .
 
-b) Scomponi i seguenti polinomi in fattori (prodotto di un monomio per un polinomio), individuando il fattore comune ai termini del polinomio.
-
-1. $6x^2-12y$;   $-4+6xy$;   $-a-b$;
-2. $a^2 +ax$;   $b^2y - b$;   $-y^2 +2xy + 3y$;
-3. $-8x^2 -12xy$;   $4abc^2-8cba^2$;
-
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
 1. $Sviluppa(6\left(x^{2}-2y\right))$ &#9166; 
 2. $Sviluppa(\left(-2\right)\,\cdotp\left(-3xy+2\right))$ &#9166;  
@@ -344,7 +338,25 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO - 16 Prodotto di polinomi
+### ESERCIZIO 16 - Evidenza di fattori
+
+a) Scomponi i seguenti polinomi in fattori (prodotto di un monomio per un polinomio), individuando il fattore comune ai termini del polinomio.
+
+1. $6x^2-12y$;   $-4+6xy$;   $-a-b$;
+2. $a^2 +ax$;   $b^2y - b$;   $-y^2 +2xy + 3y$;
+3. $-8x^2 -12xy$;   $4abc^2-8cba^2$.
+
+#### Laboratorio GEOGEBRA
+
+Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+
+1. $Fattorizza(6\left(x^{2}-2y\right))$ &#9166; 
+2. $Fattorizza(a^2 + ax)$ &#9166;  
+3. $Fattorizza(-y^2+2xy + 3y)$ &#9166; 
+
+
+
+### ESERCIZIO - 17 Prodotto di polinomi
 
 Semplifica le seguenti espressioni.  
 
@@ -364,14 +376,22 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO - 17 Frazioni Algebriche
+### ESERCIZIO - 18 Frazioni Algebriche
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.
 
 1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;   $2a^2$;   $-\dfrac{1}{2a^2x}$;
 2. $\dfrac{1}{x-1}$;   $\dfrac{a+1}{b-1}$;   $2a^2+a$;   $-\dfrac{1+x^2}{2a^2x}$.
 
-b) Semplifica le seguenti frazioni algebriche dopo aver scomposto polinomi in fattori.
+b) Semplifica le seguenti frazioni algebriche dopo aver scomposto i polinomi a numeratore in fattori.
 
 1. $\dfrac{x^2+3x}{x}$;   $\dfrac{4x^2-2x}{4x^2}$;   $\dfrac{x}{2x^2-x}$;
 2. $\dfrac{2a-2}{5a-5}$;   $\dfrac{-x-y}{x+y}$;   $\dfrac{2x-2y}{y-x}$.
+
+#### Laboratorio GEOGEBRA
+
+Risolvi alcuni esercizi del punto b) con la sequenza di istruzioni GEOGEBRA riportata di seguito.
+
+1. $Semplifica(\dfrac{x^2+3x}{x})$  &#9166; 
+2. $Semplifica(\dfrac{x}{2x^2-x})$  &#9166; 
+3. $Semplifica(\dfrac{-x-y}{x+y})$  &#9166; 
