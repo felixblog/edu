@@ -231,17 +231,20 @@ e) Applicando le proprietà delle potenze, semplifica le seguenti espressioni sc
 
 3. $2^{6} · 3^{6} · (18^{4} · 3^{4});$  
 
-   
 
-### ESERCIZIO 12 - Minimo Comune Multiplo e Massimo Comune Divisore
-a) Scomponi in fattori primi i numeri 25, 40, 33, 6;
 
-b) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D.) delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione;
+### ESERCIZIO 12 - Fattorizzazione in numeri primi
 
-c) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi. 
+a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
+
+b) Le seguenti scomposizioni non sono in fattori primi. Modificale in modo che ogni fattore sia primo e scrivi la
+scomposizione in potenze di numeri primi.
+
+1. $2 \cdot 6 \cdot 8$;     $3 \cdot 6 \cdot 9$;     $3 \cdot 33 \cdot 21$;    $26 \cdot 22 \cdot 34$;
+2. $15^3 \cdot 3^2$;    $13^2 \cdot 26$.
 
 #### Laboratorio GEOGEBRA
-a) Risolvi i punti a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 ```
 Fattorizza(25)
@@ -250,7 +253,16 @@ Fattorizza(33)
 Fattorizza(6)
 ```
 
-b) Calcola il MCD ed MCM del punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+
+### ESERCIZIO 13 - Minimo Comune Multiplo e Massimo Comune Divisore
+
+a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D.) delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione;
+
+b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
+
+#### Laboratorio GEOGEBRA
+a) Calcola il MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 ```
 {MCM({6,8}), MCD({6,8})}
