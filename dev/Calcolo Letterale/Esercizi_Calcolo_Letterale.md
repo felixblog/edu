@@ -136,7 +136,7 @@ a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2
 
 ### ESERCIZIO 7 - Rapporti tra monomi e frazioni algebriche
 
-a) Calcola, se esiste, il monomio risultato dei rapporti seguenti.
+a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
 
 1. $ax:a$;   $-\dfrac{1}{4}ax:a$;   $a:\dfrac{1}{4}$;
 2. $\dfrac{-\dfrac{1}{4}ax}{a}$;   $\dfrac{1}{7a^2b}\cdot ab^2$;    $\dfrac{5}{2}a^4x:a^3x^2$;
@@ -340,7 +340,7 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 ### ESERCIZIO 16 - Evidenza di fattori
 
-a) Scomponi i seguenti polinomi in fattori (prodotto di un monomio per un polinomio), individuando il fattore comune ai termini del polinomio.
+a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
 
 1. $6x^2-12y$;   $-4+6xy$;   $-a-b$;
 2. $a^2 +ax$;   $b^2y - b$;   $-y^2 +2xy + 3y$;
@@ -383,7 +383,7 @@ a) Scrivi il reciproco delle seguenti frazioni algebriche.
 1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;   $2a^2$;   $-\dfrac{1}{2a^2x}$;
 2. $\dfrac{1}{x-1}$;   $\dfrac{a+1}{b-1}$;   $2a^2+a$;   $-\dfrac{1+x^2}{2a^2x}$.
 
-b) Semplifica le seguenti frazioni algebriche dopo aver scomposto i polinomi a numeratore in fattori.
+b) Semplifica le seguenti frazioni algebriche dopo aver scomposto i polinomi a numeratore o denominatore  in fattori.
 
 1. $\dfrac{x^2+3x}{x}$;   $\dfrac{4x^2-2x}{4x^2}$;   $\dfrac{x}{2x^2-x}$;
 2. $\dfrac{2a-2}{5a-5}$;   $\dfrac{-x-y}{x+y}$;   $\dfrac{2x-2y}{y-x}$.
