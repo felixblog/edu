@@ -1,47 +1,31 @@
 
 # I Sistemi di I Grado
 
-### ESERCIZIO 1 - Soluzioni di Equazioni e Sistemi
+### ESERCIZIO 1 - Soluzioni di equazioni con due incognite
 
-Verifica di quale equazione è soluzione la coppia di numeri scritta a fianco di ogni sistema.    
+a) Verifica di quale equazione è soluzione la coppia di numeri proposta nei punti seguenti.    
 
-a)  $$ (3;1) \enspace \enspace \left\{  
-\begin{array}{c} 
-5x-3y=12 \\  
-x-2y=1 \\   
-\end{array} 
-\right.$$
+1. $(3;1)$     $eq1: 5x-3y=12$;    $eq2: x-2y=1$;
 
-b)  $$ (5;-2) \enspace \left\{  
-\begin{array}{c} 
-3x+2y=-1 \\  
-6x-9y=2 \\   
-\end{array} 
-\right.$$
+2. $(5;-2)$    $eq1: 3x+2y=-1$;     $eq2: 6x-9y=2$;
+3. $(9;2)$     $eq1: x+3y=-1$;    $eq2: x-y=7$.
 
-c)  $$ (9;2) \enspace \enspace \left\{  
-\begin{array}{c} 
-x+3y=-1 \\  
-x-y=7 \\  
-\end{array} 
-\right.$$
+b) Trova tre soluzioni della seconda equazione del punto a.1);
 
-d) Trova tre soluzioni della seconda equazione del primo sistema;
-
-e) Trova quattro soluzioni della prima equazione del terzo sistema. 
+c) Trova quattro soluzioni della prima equazione del punto a.3). 
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
-1. $e: 5x-3y=12$ &#9166; 
-2. $Sostituisci(e, {x=3,y=1})$ &#9166; . 
+1. $eq1: 5x-3y=12$ &#9166; 
+2. $Sostituisci(eq1, {x=3,y=1})$ &#9166; . 
 
 
 
 ### ESERCIZIO 2 - Esplicitazione di incognita
 
-Risolvere le equazioni seguenti come se la lettera $y$ fosse l'unica incognita.    
+Risolvi le equazioni seguenti come se la lettera $y$ fosse l'unica incognita.    
 
 a) $2x-y=0$;   $x+3y=-1$;   $7x-\dfrac{1}{3}y+1=y$  
 b) $3x+y=1-2y$;   $4x-3y = 2y+2-5x$;   $4(y - 2x) + 10x - 3 = -2$  
@@ -50,59 +34,55 @@ b) $3x+y=1-2y$;   $4x-3y = 2y+2-5x$;   $4(y - 2x) + 10x - 3 = -2$
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
-1. $e: 5x-y=0$ &#9166; 
+1. $eq1: 5x-y=0$ &#9166; 
 
-2. $Risolvi(e, \{y\})$ &#9166; . 
+2. $Risolvi(eq1, \{y\})$ &#9166; . 
 
    
 
 ### ESERCIZIO 3 - Metodo di sostituzione
 
-Risolvere i sistemi seguenti con il metodo di sostituzione. 
+a) Risolvi i sistemi seguenti con il metodo di sostituzione. 
 
-a)  $$\left\{  
-\begin{array}{c} 
-2x+y=-1 \\  
-x-3y=12 \\   
-\end{array} 
-\right.$$
+1. $$\left\{  
+   \begin{array}{c} 
+   2x+y=-1 \\  
+   x-3y=12 \\   
+   \end{array} 
+   \right.$$
 
-b)  $$ \left\{  
-\begin{array}{c} 
-2y-5=-2x-6+y \\  
-2(x-1)=3(1-2y)+19 \\   
-\end{array} 
-\right.$$
+2. $$ \left\{  
+   \begin{array}{c} 
+   2y-5=-2x-6+y \\  
+   2(x-1)=3(1-2y)+19 \\   
+   \end{array} 
+   \right.$$
 
-c)  $$ \left\{  
-\begin{array}{c} 
-x-2=\dfrac{y}{3}-1+\dfrac{x}{2} \\  
-\dfrac{5x+3y}{6}-3=\dfrac{2x-y}{4}+\dfrac{7}{12} \\  
-\end{array} 
-\right.$$
+3. $$ \left\{  
+   \begin{array}{c} 
+   x-2=\dfrac{y}{3}-1+\dfrac{x}{2} \\  
+   \dfrac{5x+3y}{6}-3=\dfrac{2x-y}{4}+\dfrac{7}{12} \\  
+   \end{array} 
+   \right.$$
 
-d)  $$ \left\{  
-\begin{array}{c} 
-3x-1=0 \\ 
-4x+2y=0 \\ 
-\end{array} 
-\right.$$
+4. $$ \left\{  
+   \begin{array}{c} 
+   3x-1=0 \\ 
+   4x+2y=0 \\ 
+   \end{array} 
+   \right.$$
+
+b) Verifica che la soluzione del sistema a.1) non è soluzione del sistema a.4)
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
+a) Risolvi il punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
 1. $a: 2x+y=-1$ &#9166; 
 2. $b: x-3y=12$ &#9166; 
 3. $Risolvi(\{a,b\}, \{x,y\})$ &#9166; . 
 
-b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
-
-1. $c: 2y -5 = -2x -6 +y$ &#9166; 
-2. $d: 2(x -1) = 3(1-2y) + 19$ &#9166; 
-3. $Risolvi(\{c, d\}, \{x,y\})$ &#9166; . 
-
-c) Risolvi i punti c) e d) dell'esercizio con sequenze di comandi GEOGEBRA analoghi a quelli dei punti precedenti a). Ricorda di utilizzare altre lettere per indicare le equazioni.
+b) Risolvi i punti a.2) e a.3) dell'esercizio con analoghe sequenze di comandi GEOGEBRA (utilizza altre lettere per indicare le equazioni).
 
 
 
