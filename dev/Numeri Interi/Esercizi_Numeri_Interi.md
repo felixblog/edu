@@ -288,11 +288,11 @@ b) Scrivere gli alberi relativi alle espressioni letterali dei punti precedenti.
 
 #### Laboratorio GEOGEBRA
 
-Risolvi il punto a.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 ```
-l = 3-a^3-2b^2+a^2*(a-b)
-Sostituisci(l,{a = 2, b = -2})
+l = 3a*b-5a^2+3a-1
+Sostituisci(l,{a = -2, b = -8})
 ```
 
 
