@@ -19,9 +19,19 @@ a) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $l=\{(-3,-1),(-
 
 ### ESERCIZIO 2 - Coordinate dei punti
 
-Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
+a) Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
 
 ![Fig1](img/Fig1.png)
+
+b) Scrivi il sottoinsieme delle coppie precedenti che hanno entrambe le coordinate negative.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto b) dell'esercizio precedente con l'istruzione GEOGEBRA: 
+
+$H=(-3,-3)$ &#9166; .
+
+
 
 ### ESERCIZIO 3 - Punti allineati
 
@@ -36,6 +46,12 @@ c) $D = \{(-4; 4), (-2; 2), (3; -3)\}$.
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $Retta((0,0),(0,-4))$.
+
+b) Risolvi il punto c) con la sequenza di istruzioni seguente: 
+
+1. $P1 = (-4,4)$ &#9166;   
+2. $P2 = (-2,2)$ &#9166;   
+3. $Retta(P1, P2)$ &#9166;   
 
 
 
@@ -97,6 +113,12 @@ b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti.
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a.2) dell'esercizio con l'istruzione GEOGEBRA: $Retta((4,-5),(2,3))$.
+
+b) Risolvi il punto a.3) dell'esercizio con la sequenza di istruzioni:
+
+1. $A = (-2,0)$ &#9166;   
+2. $B = (-\dfrac{1}{2},\dfrac{1}{2})$ &#9166;   
+3. $Retta(A, B)$ &#9166;   
 
 b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentate nella figura del punto b) dell'esercizio.  
 
@@ -216,5 +238,4 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 
 1. scrivi la formula che calcola lo spazio s percorso dopo t ore 
 2. riporta in un piano cartesiano con il tempo sull'asse orizzontale e lo spazio su quello verticale, il grafico dell'equazione trovata. Quale è il significato fisico del coefficiente angolare?
-
 
