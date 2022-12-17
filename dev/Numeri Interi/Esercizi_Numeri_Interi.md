@@ -321,9 +321,9 @@ Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcol
 
 a) Se una azienda produce 600 unità di prodotto ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale è il suo profitto?
 
-d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 metri di tela. La tela viene suddivisa in pezze da 32 metri ciascuna. Quante pezze vengono prodotte giornalmente?
+b) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 metri di tela. La tela viene suddivisa in pezze da 32 metri ciascuna. Quante pezze vengono prodotte giornalmente?
 
-e) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
+c) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
 
 
 
