@@ -9,11 +9,11 @@ a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
 
 1. Che frazione di figura rappresentano i quadrati rossi, quelli blu e quelli non colorati?
 
-![Frazioni-di-quadrato](D:\Portable\repo\edu\dev\Numeri razionali\img\Frazioni-di-quadrato.png)
+![Frazioni-di-quadrato](img/Frazioni-di-quadrato.png)
 
 2. Quanti colori vedi nella figura? Per ciascun colore scrivi la frazione di figura di quel colore.
 
-![Stesso-Colore](D:\Portable\repo\edu\dev\Numeri razionali\img\Stesso-Colore.png)
+![Stesso-Colore](img/Stesso-Colore.png)
 
 b) Scrivi sia con numeri che con lettere le frazioni uguali alle espressioni seguenti (es. per "tre volte un quarto" scrivi $\frac{3}{4}$ e "tre quarti"):
 
