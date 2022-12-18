@@ -5,7 +5,17 @@
 
 ### ESERCIZIO 1 - Il Concetto di Frazione e di Divisione
 
-a) Scrivi sia con numeri che con lettere le frazioni uguali alle espressioni seguenti:
+a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
+
+1. Che frazione di figura rappresentano i quadrati rossi, quelli blu e quelli non colorati?
+
+![Frazioni-di-quadrato](D:\Portable\repo\edu\dev\Numeri razionali\img\Frazioni-di-quadrato.png)
+
+2. Quanti colori vedi nella figura? Per ciascun colore scrivi la frazione di figura di quel colore.
+
+![Stesso-Colore](D:\Portable\repo\edu\dev\Numeri razionali\img\Stesso-Colore.png)
+
+b) Scrivi sia con numeri che con lettere le frazioni uguali alle espressioni seguenti (es. per "tre volte un quarto" scrivi $\frac{3}{4}$ e "tre quarti"):
 
 1. Tre volte un quarto; il triplo di un quarto; la quarta parte (di uno); due volte un quarto;
 2. Un centesimo; il doppio di un centesimo; cinque volte due centesimi; due centesimi per cinque;
@@ -13,7 +23,7 @@ a) Scrivi sia con numeri che con lettere le frazioni uguali alle espressioni seg
 4. Il doppio di un quinto; due volte un quinto; due su cinque; la quinta parte di due; due diviso cinque;
 5. Sessanta quindicesimi; la quindicesima parte di sessanta; sessanta diviso trenta; la sessantesima parte di trenta.
 
-b) Rispondi alle seguenti domande scrivendo la frazione richiesta. 
+c) Rispondi alle seguenti domande scrivendo la frazione richiesta. 
 
 1. Quanti quarti d'ora ci sono in 45 minuti? Da quante ore sto aspettando un treno se lo aspetto da 45 minuti?  Perchè?
 2.  Quanti euro costa un giocattolo se lo pago con 5 monete da mezzo euro?  E quanti centesimi?
