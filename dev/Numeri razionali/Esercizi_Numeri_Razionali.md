@@ -43,7 +43,7 @@ c) Rispondi alle seguenti domande scrivendo la frazione richiesta.
 
 7. Se parcheggio un'auto dove ogni tre quarti d'ora devo azzerare il disco orario, quante volte dovrò azzerare il disco se la macchina resta parcheggiata 3 ore? Se una "sosta" misura 45 minuti, a quante "soste" corrisponde una fermata di 4 ore?
 
-8. Scrivi in forma simbolica ognuna delle frasi seguenti (utilizza "$=$" per "fa" e non scrivere le unità di misura). Ad esempio scrivi "Mezzo euro più sessanta centesimi fa un euro e venti (centesimi)" come $\dfrac{1}{2} + \dfrac{60}{100} = 1 + \dfrac{20}{100}$ .
+8. Scrivi in forma simbolica ognuna delle frasi seguenti (utilizza "$=$" per "fa" e non scrivere le unità di misura). Ad esempio scrivi "Mezzo euro più settanta centesimi fa un euro e venti (centesimi)" come $\dfrac{1}{2} + \dfrac{70}{100} = 1 + \dfrac{20}{100}$ .
 
    - tre quarti d'ora meno un quarto d'ora fa mezz'ora
    - mezz'ora più tre quarti d'ora fa un'ora e un quarto
