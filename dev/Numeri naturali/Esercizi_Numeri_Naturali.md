@@ -1,7 +1,7 @@
 
 # I Numeri Naturali
 
-### ESERCIZIO 1 - Operazioni ed Espressioni
+### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 
 a) Per tutte le espressioni riportate di seguito, elenca le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato.  
 
@@ -30,7 +30,33 @@ Inserisci le espressioni in GEOGEBRA e calcola il risultato.
 
 
 
-### ESERCIZIO 2 - Divisori e multipli
+### ESERCIZIO 2 - Dalle parole ai numeri (I)
+
+Scrivi le espressioni (NON il solo risultato!) che traducono in operazioni e numeri le frasi seguenti e calcolane il risultato.
+
+a) Dividi 15 per la differenza tra 9 e 4 e poi somma 2; [$R. \,\,\, 15 : (9 - 4) + 2\,\,\, => 5$ ].
+
+b) Moltiplica per 7 la differenza tra 10 e 8 e sottrai al risultato 14;
+
+c) Sottrai 3 al risultato della divisione di 12 per la differenza tra 5 ed 1.
+
+
+
+### ESERCIZIO 3 - Dai numeri alle parole
+
+Scrivi a parole le seguenti espressioni:  
+
+a) $12 − 6 : 3$;
+
+b) $(15 − 10) · 3 + 2$;
+
+c) $8·(12 : 6 − 2) + 1$;
+
+d) $6 − (15 : (2 + 3))$.
+
+
+
+### ESERCIZIO 4 - Divisori e multipli
 
 a) Scrivi tutti i divisori di ciascuno dei numeri 6, 15, 18, 21, 24, 25;
 
@@ -39,6 +65,7 @@ b) Scrivi i multipli minori di 100 dei numeri 25, 40, 33, 6;
 c) Scrivi i multipli minori di 100 comuni ai numeri 6 e 8, 10 e 12, 15 e 16.   
 
 #### Laboratorio GEOGEBRA
+
 a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 ```
@@ -56,34 +83,6 @@ Successione(40*k, k, 1, floor(100/40))
 Successione(33*k, k, 1, floor(100/33))
 Successione(6*k, k, 1, floor(100/6))
 ```
-
-
-
-### ESERCIZIO 3 - Dalle parole ai numeri (I)
-
-Scrivi le espressioni (NON il solo risultato!) relative alle seguenti frasi e calcolane il risultato:  
-
-a) Dividere 15 per la differenza tra 9 e 4 e poi sommare 2;
-
-b) Moltiplicare per 7 la differenza tra 10 e 8 e sottrarre al risultato 14;
-
-c) Sottrarre 3 al risultato della divisione di 12 per la differenza tra 5 e 1.
-
-
-
-### ESERCIZIO 4 - Dai numeri alle parole
-
-Scrivi a parole le seguenti espressioni:  
-
-a) $12 − 6 : 3$;
-
-b) $(15 − 10) · 3 + 2$;
-
-c) $8·(12 : 6 − 2) + 1$;
-
-d) $6 − (15 : (2 + 3))$;
-
-e) $15 − (17 − (15 + 1) : 8)$.
 
 
 
@@ -109,7 +108,7 @@ g) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 
 
-### ESERCIZIO 6 - Operazioni ed espressioni (III)
+### ESERCIZIO 6 - Operazioni ed espressioni (II)
 
 Calcola il valore delle seguenti espressioni.  
 
@@ -130,7 +129,7 @@ Inserisci in GEOGEBRA le espressioni dei punti b) e c) dell'esercizio e calcola 
 
 
 
-### ESERCIZIO 8 - Sostituzioni
+### ESERCIZIO 7 - Sostituzioni
 
 Negli esercizi seguenti, calcola il valore delle espressioni sostituendo alle lettere i numeri come indicato a fianco.  
 a) $5x, \enspace x = 50$;  
@@ -162,7 +161,7 @@ Sostituisci(a - b, {a = 10, b = 7})
 
 
 
-### ESERCIZIO 9 - Dalle espressioni ai diagrammi ad albero
+### ESERCIZIO 8 - Dalle espressioni ai diagrammi ad albero
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
 
 a) $4 + 6·9$;
@@ -185,7 +184,7 @@ d)
 
 
 
-### ESERCIZIO 10 - Dai diagrammi ad albero alle espressioni
+### ESERCIZIO 9 - Dai diagrammi ad albero alle espressioni
 Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero: 
 
 a) 
@@ -200,7 +199,7 @@ c)
 
 ![Albero](img\Albero3.png)
 
-### ESERCIZIO 11 - Proprietà delle potenze
+### ESERCIZIO 10 - Proprietà delle potenze
 
 a) Applicando le proprietà, semplifica le espressioni seguenti utilizzando, per ciascuna di esse, il minor numero possibile di potenze.  
 
@@ -235,7 +234,7 @@ e) Applicando le proprietà delle potenze, semplifica le seguenti espressioni sc
 
 
 
-### ESERCIZIO 12 - Fattorizzazione in numeri primi
+### ESERCIZIO 11 - Fattorizzazione in numeri primi
 
 a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
 
@@ -257,7 +256,7 @@ Fattorizza(6)
 
 
 
-### ESERCIZIO 13 - Minimo Comune Multiplo e Massimo Comune Divisore
+### ESERCIZIO 12 - Minimo Comune Multiplo e Massimo Comune Divisore
 
 a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D.) delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione;
 

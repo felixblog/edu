@@ -53,8 +53,7 @@ b) Calcola il valore delle seguenti espressioni:
 
 ### ESERCIZIO 4 - Problemi con i numeri interi
 
-Scrivi le espressioni che forniscono le soluzioni dei seguenti
-problemi e calcolane i valori.
+Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcolane i valori.
 
 a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione con il creditore, considerando positivamente i crediti e negativamente i debiti?
 
