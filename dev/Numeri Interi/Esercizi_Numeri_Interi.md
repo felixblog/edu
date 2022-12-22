@@ -53,7 +53,7 @@ b) Calcola il valore delle seguenti espressioni:
 
 ### ESERCIZIO 4 - Problemi con i numeri interi
 
-Scrivi le espressioni che forniscono le soluzioni dei seguenti problemi e calcolane i valori.
+Scrivi le espressioni  (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
 
 a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione con il creditore, considerando positivamente i crediti e negativamente i debiti?
 
@@ -202,7 +202,7 @@ d) Moltiplica la somma del quadruplo di $a$ e del triplo di $b$ per la somma del
 
 ### ESERCIZIO 12 - Espressioni con i numeri interi
 
-a)Calcola il valore delle seguenti espressioni.
+a) Calcola il valore delle seguenti espressioni.
 
 1.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
 
@@ -328,7 +328,9 @@ c) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di
 
 ### ESERCIZIO 18 - Sequenze e Tabelle
 
-Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 2 colonne con, in ogni riga, il mese nella prima cella e l'importo nella seconda, come nell'esempio seguente.
+Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata.
+
+Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 3 colonne con, in ogni riga, la data del sedici del mese, l'ordinale del pagamento e l'importo, come nell'esempio seguente.
 
 #### Esempio di SOLUZIONE
 

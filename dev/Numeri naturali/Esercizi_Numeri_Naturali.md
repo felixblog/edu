@@ -32,7 +32,7 @@ Inserisci le espressioni in GEOGEBRA e calcola il risultato.
 
 ### ESERCIZIO 2 - Dalle parole ai numeri (I)
 
-Scrivi le espressioni (NON il solo risultato!) che traducono in operazioni e numeri le frasi seguenti e calcolane il risultato.
+Traduci in espressioni le seguenti frasi e calcolane il valore.
 
 a) Dividi 15 per la differenza tra 9 e 4 e poi somma 2; [$R. \,\,\, 15 : (9 - 4) + 2\,\,\, => 5$ ].
 
