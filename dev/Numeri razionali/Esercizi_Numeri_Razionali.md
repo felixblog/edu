@@ -353,7 +353,7 @@ m) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata
 
 
 
-### ESERCIZIO 22 - Equivalenze I
+### ESERCIZIO 22 - Equivalenze (I)
 
 a) Quanti secondi ci sono in due ore e mezzo? Quanto pesano due etti e mezzo di salame in Kg ?
 
@@ -367,7 +367,7 @@ e) A quante ore corrispondono x minuti ?
 
 
 
-### ESERCIZIO 23 - Equivalenze II
+### ESERCIZIO 23 - Equivalenze (II)
 
 Esegui le seguenti operazioni facendo prima le equivalenze.
 
@@ -429,7 +429,7 @@ b) Scrivi i numeri seguenti in notazione decimale
 
 
 
-### ESERCIZIO 28 - Equivalenze III
+### ESERCIZIO 28 - Equivalenze (III)
 
 a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuhan cinesi:
 

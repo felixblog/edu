@@ -21,7 +21,7 @@ $$
 
 c) Calcola il valore della espressione $\dfrac{1}{1-x}$ per i valori della $x$ indicati nella tabella del punto b).
 
-d) Rappresenta le coppie: (valore della $x$, valore dell'espressione) degli esercizi a), b) e c) in un grafico cartesiano. 
+d) Rappresenta le coppie di numeri formate dal valore della $x$ e dal valore dell'espressione degli esercizi a), b) e c) in un grafico cartesiano. 
 
 #### Laboratorio GEOGEBRA
 
@@ -53,7 +53,7 @@ d) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio
 
 ### ESERCIZIO 3 - Formule della proporzionalità
 
-a) Esprimere con una formula le relazioni nei casi riportati di seguito.
+a) Esprimi con una formula le relazioni tra le quantità nei casi riportati di seguito.
 
 1. La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per 38 ore viene pagato 475 euro, quale sarà la sua retribuzione $y$ per $x$ ore di lavoro?
 2. I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Se una parete di 16 metri quadrati richiede due litri di vernice, quanti litri $y$ di vernice sono necessari per una parete di $x$ m^2^ ?
@@ -61,7 +61,7 @@ a) Esprimere con una formula le relazioni nei casi riportati di seguito.
 
 b) Per ciascuno dei punti dell'esercizio a) fare una tabella ed un grafico cartesiano con 5 valori scelti a caso.  La relazione tra la variabile dipendente e quella indipendente è crescente o descrescente?
 
-c) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere che rappresentano le quantità:
+c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che rappresentano le quantità:
 
 1. L'ammontare dell'IVA da pagare (aliquota 22%) varia direttamente con il costo (imponibile) di acquisto di una macchina.
 2. Le ore impiegate da un pendolare per recarsi da casa al posto di lavoro variano inversamente alla velocità (media) di percorrenza del tragitto.
@@ -70,7 +70,7 @@ c) Esprimere le relazioni seguenti con una formula dopo aver scelto le lettere c
 
 
 ### ESERCIZIO 4 - Funzioni numeriche
-Costruire una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
+Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
 
 a) $y = x$;
 
@@ -101,7 +101,7 @@ Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza line
 
 ### ESERCIZIO 6 - Interesse semplice
 
-Una persona prende in prestito da una finanziaria 1.000 euro (capitale) per pagare un corso di formazione. Dovrà restituire il capitale entro 5 anni in una unica soluzione ma pagare trimestralmente l'1% dell'importo, a titolo di interesse, finchè non estingue il debito.
+Una persona prende in prestito da una finanziaria 1.000 euro (capitale) per pagare un corso di formazione. Dovrà restituire il capitale dopo 5 anni in una unica soluzione ma pagare trimestralmente l'1% dell'importo ricevuto, a titolo di interesse, finchè non estingue il debito.
 
 a) Se $I_n$ è l'ammontare degli interessi pagati fino all'$n$-esimo trimestre e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
 
@@ -113,7 +113,7 @@ b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 
 In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
 
-a) Detti $P_n = 40 + 5 \cdot n, \: n=0, 1, 2,...,6$ una successione di prezzi delle lattine, e $Q_n = 141 -12 \cdot n$ le corrispondenti quantità vendute, calcola la quantità venduta per i prezzi $\{40, 35, 30, 25, 20, 15, 10\}$, completando la tabella seguente.
+a) Detti $P_n = 40 + 5 \cdot n, \: n=0, 1, 2,...,6$ una successione di prezzi delle lattine, e $Q_n = 141 -12 \cdot n$ le corrispondenti quantità vendute, calcola la quantità venduta per i prezzi $\{40, 35, 30, 25, 20, 15, 10\}$, e riporta i risultati sulla tabella seguente.
 $$
 \begin{array}{r|c|c}  n & P_{n} & Q_{n}\\
 \hline
@@ -126,7 +126,7 @@ $$
 $$
 b) Detto $x$ il prezzo e $y$ la quantità settimanale venduta, disegna in un grafico cartesiano i punti della curva di domanda presenti nella tabella precedente.
 
-c) Disegna il grafico cartesiano delle curve di domanda e di offerta delle bibite. 
+c) Disegna il grafico cartesiano della curva di domanda delle bibite. 
 
 
 

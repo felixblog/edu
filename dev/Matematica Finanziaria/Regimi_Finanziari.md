@@ -2,7 +2,7 @@
 # Matematica Finanziaria: Regimi Finanziari
 
 ### ESERCIZIO 1 - Interesse semplice: montante
-Calcolare l’interesse semplice e il montante dei seguenti capitali (in euro) impiegati alle condizioni indicate: 
+Calcola l’interesse semplice e il montante dei seguenti capitali (in euro) impiegati alle condizioni indicate: 
 
 a) 500 per 1 anno al tasso del 12% annuo;
 
@@ -20,17 +20,17 @@ f) 845 per 4 mesi e 15 giorni al tasso del 6% semestrale.
 
 
 ### ESERCIZIO 2 - Interesse semplice: capitale
-a) Determinare i capitali che, nel regime dell’interesse semplice, hanno prodotto i seguenti montanti alle condizioni indicate:  
+a) Determina i capitali che, nel regime dell’interesse semplice, hanno prodotto i seguenti montanti alle condizioni indicate:  
 
 1. 890 in 9 mesi al tasso del 15% annuo  
 2. 504 in 150 giorni al tasso del 12% annuo  
 3. 861,42 in 102 giorni al tasso del 3% quadrimestrale
 
-b) Calcolare quale capitale impiegato al tasso annuo del 10% da in 8 mesi l’interesse semplice di 34 euro.  
+b) Calcola quale capitale impiegato al tasso annuo del 10% da in 8 mesi l’interesse semplice di 34 euro.  
 
-c) Calcolare quale capitale impiegato al tasso annuo del 9% da in 3 mesi e 10 giorni un interesse semplice di 115 euro.
+c) Calcola quale capitale impiegato al tasso annuo del 9% da in 3 mesi e 10 giorni un interesse semplice di 115 euro.
 
-d) Il capitale di 6.000 euro ha prodotto l’interesse semplice di 480 euro. Calcolare i tassi annui se la durata dell’impiego e stata di:
+d) Il capitale di 6.000 euro ha prodotto l’interesse semplice di 480 euro. Calcola i tassi annui se la durata dell’impiego e stata di:
 
 1. un anno;
 2. 10 mesi; 
@@ -42,7 +42,7 @@ d) Il capitale di 6.000 euro ha prodotto l’interesse semplice di 480 euro. Cal
 
 ### ESERCIZIO 3 - Interesse semplice: durata
 
-a) Calcolare in quanto tempo il capitale di 3.300 euro, impiegato al tasso annuo del 10%, ha prodotto il montante di 3.547 euro  
+a) Calcola in quanto tempo il capitale di 3.300 euro, impiegato al tasso annuo del 10%, ha prodotto il montante di 3.547 euro  
 
 b) Per quanto tempo e necessario lasciare depositato il capitale di 540 euro, al tasso del 4% trimestrale, per poter ritirare il montante di 600 euro? 
 
@@ -93,7 +93,7 @@ b) Una persona prende in prestito 20.000 euro al tasso annuo del12% e le investe
 
 ### ESERCIZIO 7 - Interesse composto: valore attuale I
 
-Calcolare il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:
+Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:
 
 a) 1.200 euro per 5 anni al tasso del 7% annuo;
 
