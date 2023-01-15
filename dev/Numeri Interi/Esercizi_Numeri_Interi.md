@@ -37,10 +37,10 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti:
 
 ### ESERCIZIO 3 - Espressioni con somme algebriche I
 
-a) Per ciascuna delle seguenti coppie di numeri scrivi la somma algebrica e calcola il risultato
+a) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica e calcola il risultato
 
-1. $+2, +8$;   $+5, -8$;   $-5, +8$;   $-5, -8$;
-2. $0, +2$;   $-2, 0$;   $+4, -4$;   $-4, +4$;
+1. $(+2, +8)$;   $(+5, -8)$;   $(-5, +8)$;   $(-5, -8)$;
+2. $(0, +2)$;   $(-2, 0)$;   $(+4, -4)$;   $(-4, +4)$;
 
 b) Calcola il valore delle seguenti espressioni:
 
@@ -65,15 +65,20 @@ Qual è la mia situazione attualmente?
 
 ### ESERCIZIO 5 - Prodotti e quozienti
 
-Calcola i seguenti prodotti e quozienti:
+a) Calcola i seguenti prodotti e quozienti:
 
-a) $(+8)\text{·}(-6)$;   $-5\text{·}(-8);$   $-5(-8)$;   $-(5)$;   $-(5)8$;
+1. $(+8)\text{·}(-6)$;   $-5\text{·}(-8);$   $-5(-8)$;   $-(5)$;   $-(5)8$;
 
-b) $(+4)\text{·}8\text{·}(-2)$;   $(+2)\text{·}(-12)\text{·}(-5)$;  
+2. $+4\cdot 8 \cdot (-2)$;   $-(-12) \cdot (-5)$;  
 
-c) $(+15):(+3);\enspace (+15):(-3);$ 
+3. $(+15):(+3);\enspace (+15):(-3);$ 
 
-d) $(-8):(+8);\enspace 0:(-5).$
+4. $(-8):(+8)$;   $0:(-5)$;    $-(2):2$.
+
+b) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi il prodotto e calcola il risultato
+
+1. $(2, 8)$;   $(+5, 8)$;   $(5, -8)$;   $(-5, -8)$;
+2. $(-2, 0)$;   $(0, -2)$;   $(+4, -4)$;   $(-4, +4)$;
 
 
 
@@ -87,13 +92,14 @@ b) $2+3\text{·}(-1)=11-5-7;\enspace 3^{2}-2\text{·}3-1=\left(3-2\right)^{2}$
 
 
 
-### ESERCIZIO 7 - Espressioni con somme algebriche II
+### ESERCIZIO 7 - Espressioni e parentesi
 
-a) Calcola il valore delle seguenti espressioni:
+a) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le queste espressioni senza tali parentesi e di tutte calcola il valore.
 
-1. $(+4)+(+5-9)$;   $4 -(5-9)+(-2+6)+(+12-19)$;   $-(-1+6-2);$  
-2. $[+15-(+7+3-2)]-[-15-(-6+7-1)];$  
-3. $(-28+37)+{(-25+11)+[1+(36-44)]-(+9)}+1.$
+1. $4+(3-2)+1$;    $-1(2-3)+5(-6)$;    $(2-3)-1-6\cdot 5$;
+2. $(+4)+(+5-9)$;    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
+
+a) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutile.
 
 
 
