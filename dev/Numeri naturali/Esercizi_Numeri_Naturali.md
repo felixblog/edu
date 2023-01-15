@@ -253,12 +253,12 @@ a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D.
 b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
 
 #### Laboratorio GEOGEBRA
-a) Calcola il MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. ${MCM(\{6,8\}), \; MCD(\{6,8})\}$&#9166;
+1. $\{MCM(\{6,8\}), \; MCD(\{6,8\})\}$&#9166;
 
-2. ${MCM(\{15,10\}), \; MCD(\{15,10})\}$&#9166;
+2. $\{MCM(\{15,10\}), \; MCD(\{15,10\})\}$&#9166;
 
-3. ${MCM(\{24,25\}), \; MCD(\{24,25})\}$&#9166;
+3. $\{MCM(\{24,25\}), \; MCD(\{24,25\})\}$&#9166;
 
    
