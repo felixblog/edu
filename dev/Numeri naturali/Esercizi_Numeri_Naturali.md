@@ -68,21 +68,16 @@ c) Scrivi i multipli minori di 100 comuni ai numeri 6 e 8, 10 e 12, 15 e 16.
 
 a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-```
-ListaDivisori(6)
-ListaDivisori(15)
-ListaDivisori(18)
-....
-```
+1. $ListaDivisori(6)$&#9166;
+2. $ListaDivisori(15)$&#9166;
+3. $ListaDivisori(18)$&#9166;
 
 b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-```
-Successione(25*k, k, 1, floor(100/25))
-Successione(40*k, k, 1, floor(100/40))
-Successione(33*k, k, 1, floor(100/33))
-Successione(6*k, k, 1, floor(100/6))
-```
+1. $Successione(25k, \; k, \; 1, \; floor(\dfrac{100}{25}))$&#9166;
+2. $Successione(40k, \; k, \; 1, \; floor(\dfrac{100}{40}))$&#9166;
+3. $Successione(33k, \; k, \; 1, \; floor(\dfrac{100}{33}))$&#9166;
+4. $Successione(6k, \; k, \; 1, \; floor(\dfrac{100}{6}))$&#9166;
 
 
 
@@ -148,16 +143,13 @@ f ) $((2a)b)^{3}, \enspace a = 2, b = 3$.
 
 a) Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-```
-Sostituisci(5*x, {x = 50})
-Sostituisci(2*y, {y = 32})
-```
+1. $Sostituisci(5x,\; {x = 50})$&#9166;
+2. $Sostituisci(2y, \; {y = 32})$&#9166;
 
 b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-```
-Sostituisci(a - b, {a = 10, b = 7})
-```
+1. $Sostituisci(5x,\; {x = 50})$&#9166;
+
 
 
 
@@ -247,12 +239,10 @@ scomposizione in potenze di numeri primi.
 #### Laboratorio GEOGEBRA
 a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-```
-Fattorizza(25)
-Fattorizza(40)
-Fattorizza(33)
-Fattorizza(6)
-```
+1. $Fattorizza(25)$&#9166;
+2. $Fattorizza(40)$&#9166;
+3. $Fattorizza(33)$&#9166;
+4. $Fattorizza(6)$&#9166;
 
 
 
@@ -265,8 +255,10 @@ b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
 #### Laboratorio GEOGEBRA
 a) Calcola il MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-```
-{MCM({6,8}), MCD({6,8})}
-{MCM({15,10}), MCD({15,10})}
-{MCM({24,25}), MCD({24,25})}
-```
+1. ${MCM(\{6,8\}), \; MCD(\{6,8})\}$&#9166;
+
+2. ${MCM(\{15,10\}), \; MCD(\{15,10})\}$&#9166;
+
+3. ${MCM(\{24,25\}), \; MCD(\{24,25})\}$&#9166;
+
+   
