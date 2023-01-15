@@ -15,13 +15,13 @@ b) decrescente i numeri $+8, -3, 0, -5, +4, -11.$
 
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice ALGEBRA):
 
-```
-Ordina({-6,9,-1,7,-2,-4})
-l = Ordina({+8, -3, 0, -5, +4, -11})
-Inverti(l)
-```
+1. $Ordina(\{-6,9,-1,7,-2,-4\})$&#9166;
 
+2. $l = Ordina(\{+8, -3, 0, -5, +4, -11\})$&#9166;
 
+3. $Inverti(l)$&#9166;
+
+   
 
 ### ESERCIZIO 2 - Rappresentazione dei numeri interi
 
@@ -31,9 +31,7 @@ Rappresenta su una retta orientata i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6
 
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti:
 
-```
-l = {(+3,0), (-7,0), (+4,0), (-2,0), (0,0), (+1,0), (-6,0)}
-```
+1. $l = \{(+3,0), (-7,0), (+4,0), (-2,0), (0,0), (+1,0), (-6,0)\}$&#9166;
 
 
 
@@ -267,10 +265,8 @@ b) Calcola il valore delle espressioni del punto a).
 
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-```
-Sostituisci(-2 x+x^(2)+1,{x = 2})
-Sostituisci(y*(1 - y) + 3,{y = -5})
-```
+1. $Sostituisci(-2 x+x^2+1,{x = 2})$&#9166;
+2. $Sostituisci(y\cdot(1 - y) + 3,{y = -5})$&#9166;
 
 
 
@@ -289,10 +285,8 @@ b) Scrivere gli alberi relativi alle espressioni letterali dei punti precedenti.
 
 Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-```
-l = 3a*b-5a^2+3a-1
-Sostituisci(l,{a = -2, b = -8})
-```
+1. $l = 3a\cdot b - 5a^2+3a-1$&#9166;
+2. $Sostituisci(l,\{a = -2, b = -8\})$&#9166;
 
 
 
