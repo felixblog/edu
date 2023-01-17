@@ -99,7 +99,15 @@ a) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". 
 1. $4+(3-2)+1$;    $-1(2-3)+5(-6)$;    $(2-3)-1-6\cdot 5$;
 2. $(+4)+(+5-9)$;    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
 
-a) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutile.
+b) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutili.
+
+#### Laboratorio GEOGEBRA
+
+a) Per risolvere l'esercizio applica il metodo seguente. 
+
+1. Calcola il valore dell'espressione del testo con GEOGEBRA;
+2. Scrivi la stessa espressione senza le parentesi che pensi siano inutili;
+3. Calcola il valore con GEOGEBRA della nuova espressione. Se è lo stesso di quella originale le parentesi sono "inutili", altrimenti no.
 
 
 
@@ -298,19 +306,17 @@ Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcol
 
 ### ESERCIZIO 16 - Espressioni letterali e sostituzioni (III)
 
-Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostituite ordinatamente alle lettere a e b rendono l'uguaglianza vera.
+a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
-a) $a+b=5;$
+1. $a+b=5;$
+2. $a-b=5$;
+3. $a+b=2$;
 
-b) $a-b=5$;
+b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostituite ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
-c) $a+b=2$;
-
-d) $a+b=0$;
-
-e) $b=a+1$;
-
-f) $a=-b+2$.
+1. $a+b=0$;
+2. $b=a+1$;
+3. $a=-b+2$.
 
 
 
