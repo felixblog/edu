@@ -252,7 +252,18 @@ a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D.
 
 b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
 
+c) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
+
+1. $15 + 10 = ?(? + ?)$;
+2. $6 + 8 = ?(? + ?)$;
+3. $350 + 252 = ?(?+?)$.
+
+#### Esempio di SOLUZIONE
+
+c.1) $MCD(15, 10) \Rightarrow 5$,  $15:5 \Rightarrow 3$ e $10:5 \Rightarrow 2$, per cui $15 + 10 = 5(3 + 2)$.
+
 #### Laboratorio GEOGEBRA
+
 a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $\{MCM(\{6,8\}), \; MCD(\{6,8\})\}$&#9166;
