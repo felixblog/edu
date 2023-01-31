@@ -73,15 +73,28 @@ e) $E = \{(x; y): x + y = 1\}$.
 ### ESERCIZIO 5 - Grafico della retta
 
 Disegna le rette rappresentate dalle seguenti equazioni:  
-a) $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x$;
 
-b) $y = \dfrac{-1}{3}x$,   $y = 3x$;
+a) $y = -2x$,   $y = 3x$;
+
+b) $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x$;
 
 c) $y = \dfrac{11}{8}x$,   $y = 11 x$  
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y=-\dfrac{1}{3}x,y=x\}$ &#9166; .
+a) Risolvi il punto a) dell'esercizio seguendo le indicazioni riportate in ciascun passo. 
+
+Passo 1: Inserisci l'istruzione $f: y=2x$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
+
+Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i valori $0,1,-1$;
+
+Passo3: Nella vista "algebra", dal menu contestuale all'istruzione del passo 1, scegli "Tabella di valori";
+
+Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori $0, 2, -2$ e posizionati i punti sul piano cartesiano.
+
+Passo 6: Ripeti i passi 1 e 3 per la seconda equazione.
+
+b) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y = \dfrac{1}{2}x, y = \dfrac{-1}{3}x\}$ &#9166; .
 
 
 
