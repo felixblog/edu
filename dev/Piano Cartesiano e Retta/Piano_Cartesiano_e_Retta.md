@@ -57,16 +57,28 @@ b) Risolvi il punto c) con la sequenza di istruzioni seguente:
 
 ### ESERCIZIO 4 - Campione di punti
 
-Per ciascuno degli insiemi riportati di seguito trova un campione di 4 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
+Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione. Per ognuno, trova un campione di 5 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
 a) $A = \{(x; y): y = -1\}$;
 
-b) $B = {(x; y): x = 3}$;
+b) $B = \{(x; y): y = 3x\}$;
 
 c) $C = \{(x; y): y = -x\}$;
 
 d) $D = \{(x; y): y = x + 1\}$;
 
 e) $E = \{(x; y): x + y = 1\}$.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punti dell'esercizio seguendo le indicazioni riportate in ciascun passo. 
+
+Passo 1: Inserisci l'equazione dell'esercizio, ad esempio la d), mediante l'istruzione $f: y=x+1$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
+
+Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i 5 valori $0,1,-1, 2, -2$;
+
+Passo3: Nella vista "algebra", dal menu contestuale all'istruzione del passo 1, scegli "Tabella di valori";
+
+Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori della $y$ calcolati e quindi posizionati i punti $(x, y)$ sul piano cartesiano.
 
 
 
@@ -139,19 +151,29 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 ### ESERCIZIO 8 - Forma implicita ed esplicita
 
-a) Scrivi in forma implicita le seguenti equazioni di rette
+a) Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri
+
+1. $m=1, \; q=1$;       $m=-1, \;  q=0$;       $m=0, \; q=-2$;
+2. $m=\dfrac{1}{2}, \; q=2$;       $m=-\dfrac{3}{4}, \; q= -5$;        $m=-\dfrac{2}{5}, \; q= -\dfrac{1}{3}$;
+
+b) Scrivi in forma implicita le seguenti equazioni di rette
 
 1. $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x - 4$  
 2. $y = \dfrac{11}{8}x$,   $y = 11$  
 
-b) Scrivi in forma esplicita le seguenti equazioni
+c) Scrivi in forma esplicita le seguenti equazioni. Quanto valgono $m$ e $q$ in ciascun caso?
 
 1. $y - \dfrac{1}{2}x = 5$,   $y +\dfrac{-1}{3}x - 4 = 0$  
 2. $y - x +2 = 0$,   $y - 4 = x + 9$  
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto b.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+a) Risolvi il punto a.2.1 dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
+
+1. $eq1: y=m x+q$  &#9166;   
+2. $Sostituisci(eq1,\{m=-1,q=\dfrac{1}{2}\})$ &#9166;   
+
+b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
 
 1. $Risolvi(y-x+2=0,\{y\})$ &#9166;   
 2. $Risolvi(y-4=x+9,\{y\})$  &#9166;
