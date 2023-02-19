@@ -2,22 +2,24 @@
 # Logica
 
 ### ESERCIZIO 1 - Le proposizioni
-a) Indica quali fra le seguenti frasi sono proposizioni (logiche):
+a) Indica quali fra le seguenti frasi sono proposizioni (da un punto di vista logico):
 1. "Per favore, mi passi l'acqua?";  
 2. "Gli insegnanti della mia classe sono maschi";  
 3. "La matematica è facile";  
-4. "Non è vero che 2 + 2 fa 5";  
-5. "Alcuni miei compagni vanno in vacanza a Capri";  
-6. "Tutti gli insegnanti sono maschi";  
-7. "Sofia è alta 1,67 m";  
-8. "Questo bambino pesa poco";  
-9. "Il rombo è un particolare parallelogramma";  
-10. "Ciao!";  
+4. "Non è vero che 2 + 2 fa 5"; 
+5. "2 + 2 fa 5";  
+6. "Alcuni miei compagni vanno in vacanza a Capri";  
+7. "La città dove vive Antonio è stupida";
+8. "Tutti gli insegnanti sono maschi";  
+9. "Sofia è alta 1,67 m";  
+10. "Questo bambino pesa poco";  
 11. "Questo bambino pesa 4,5 kg";  
-12. "Giovanni è veloce nei calcoli";  
-13. "4 è un numero dispari".
+12. "Il rombo è un particolare parallelogramma"; 
+13. "Ciao!"; 
+14. "Giovanni è veloce nei calcoli";  
+15. "4 è un numero dispari".
 
-b) Attribuisci il valore di verità alle seguenti proposizioni:
+b) Indica il valore di verità delle seguenti proposizioni:
 1. "Il numero 2 è l’unico divisore di 6";  
 2. "Ogni trapezio è isoscele oppure rettangolo";  
 3. "La Terra è un pianeta";  
@@ -77,38 +79,52 @@ a) Scrivi la negazione delle seguenti proposizioni.
 
 b) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione. 
 
+1. "Mara suona e canta";  
+
+2. "Marco canta e non balla";  
+
+3. "Rosa e Gianni sono sposati e Luisa e Matteo non sono sposati";  
+
+4. "Il quadrato è un rettangolo e un rombo".
+
 #### Esempio di SOLUZIONE
 
-"D’estate lavoro e coi guadagni mi compro il motorino"
+   "D’estate lavoro e coi guadagni mi compro il motorino"
 
 $p$: “Io d'estate lavoro”, $q$: “Io con in guadagni del lavoro mi compro il motorino”,  Proposizione composta: "D’estate lavoro e coi guadagni mi compro il motorino": $p \land q$.
 
-1. "Mara suona e canta";  
-2. "Marco canta e non balla";  
-3. "Rosa e Gianni sono sposati e Luisa e Matteo non sono sposati";  
-4. "Il quadrato è un rettangolo e un rombo".
-
-
-
+------
 c) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la disgiunzione inclusiva.
+1. "È nuvoloso o piove";
+
+2. "Nelle prossime vacanze andrò in montagna o al lago";  
+
+3. "Luisa lava i piatti o fa scorrere l’acqua calda o aggiunge detersivo nel lavandino";  
+
+4. "Non leggo quella pagina o la strappo o la brucio";  
+
+5. "Leggo o mangio una mela o tengo in mano una penna";  
+
+6. "7 è un numero primo o è pari";  
+
+7. "Non esco o cucino o faccio una doccia".
 
 #### Esempio di SOLUZIONE
 
-"Vado al bowling con Mario o con Andrea".
+   "Vado al bowling con Mario o con Andrea".
 
 $p$: “Io vado al bowling con Mario”, $q$: “Vado al bowling con Andrea”,  Proposizione composta: "Vado al bowling con Mario o con Andrea": $p \lor q$.
 
-1. "È nuvoloso o piove";
-3. "Nelle prossime vacanze andrò in montagna o al lago";  
-4. "Luisa lava i piatti o fa scorrere l’acqua calda o aggiunge detersivo nel lavandino";  
-5. "Non leggo quella pagina o la strappo o la brucio";  
-6. "Leggo o mangio una mela o tengo in mano una penna";  
-7. "7 è un numero primo o è pari";  
-8. "Non esco o cucino o faccio una doccia".
-
-
+------
 
 d) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione esclusiva.
+
+1. "O studi o sarai bocciato";  
+2. "Nelle prossime vacanze o andrò in montagna o farò un viaggio a Parigi";  
+3. "O accendi la stufa a legna o farà un gran freddo";  
+4. "Non so se andare a teatro o al cinema";  
+5. "O la borsa o la vita";  
+6. "O c’è il sole o non esco".
 
 #### Esempio di SOLUZIONE
 
@@ -116,16 +132,21 @@ d) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 $p$: “Tu mi aiuti”, $q$: “Tu vai via", Proposizione composta: "O mi aiuti o te ne vai": $p \veebar q$: 
 
-1. "O studi o sarai bocciato";  
-3. "Nelle prossime vacanze o andrò in montagna o farò un viaggio a Parigi";  
-4. "O accendi la stufa a legna o farà un gran freddo";  
-5. "Non so se andare a teatro o al cinema";  
-6. "O la borsa o la vita";  
-7. "O c’è il sole o non esco".
-
-
+------
 
 e) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando l'implicazione materiale.
+
+1. "Se sono promossa agli esami mi iscrivo a Medicina";  
+
+2. "Se non studi, non prenderai la sufficienza";  
+
+3. "Se un triangolo non ha tre lati congruenti, è scaleno o isoscele";  
+
+4. "Se un parallelogramma è un quadrato, allora un rombo è un rettangolo";  
+
+5. "Se un trapezio ha due lati congruenti, allora è isoscele";  
+
+6. "Se un trapezio è rettangolo, allora non è isoscele".
 
 #### Esempio di SOLUZIONE
 
@@ -133,14 +154,10 @@ e) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 $p$: “Un parallelogramma è un quadrato”, $q$: “Un rombo è un rettangolo", Proposizione composta: "Se un parallelogramma è un quadrato, allora un rombo è un rettangolo": $p \to q$.
 
-1. "Se sono promossa agli esami mi iscrivo a Medicina";  
-2. "Se non studi, non prenderai la sufficienza";  
-3. "Se un triangolo non ha tre lati congruenti, è scaleno o isoscele";  
-4. "Se un parallelogramma è un quadrato, allora un rombo è un rettangolo";  
-5. "Se un trapezio ha due lati congruenti, allora è isoscele";  
-6. "Se un trapezio è rettangolo, allora non è isoscele".
+------
 
 f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni:
+
 1. "Giovanna è bella, ma Claudia è intelligente";  
 2. "Marcello è in campo, benché abbia la febbre”  
 3. "John è in Italia senza avere il passaporto";  

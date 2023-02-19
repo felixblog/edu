@@ -83,6 +83,14 @@ c) La metà degli alunni di una classe sono assenti ed un terzo dei rimanenti no
 
 Se la classe è formata da 24 alunni, quanti sono quelli che non hanno svolto i compiti?
 
+d) Gli ingredienti della ricetta "Pici cacio e pepe" per 4 persone sono i seguenti:
+
+- Spaghetti 320 g
+- Pecorino romano stagionatura media, da grattugiare 200 g
+- Pepe nero in grani 5 g
+
+Come cambiano le quantità se le persone sono 3? Quale frazione delle quantità originarie devono essere utilizzata?
+
 
 
 ### ESERCIZIO 5 - Prodotto di frazioni (II)
@@ -177,13 +185,13 @@ c) Raddoppia il prodotto fra 4/7 e 7/2; Scrivi il Triplo del prodotto fra 5/6 e 
 
 ### ESERCIZIO 13 - Dalle parole alle espressioni (II)
 
-Indicando con x un numero qualsiasi, scrivi le espressioni relative alle frasi seguenti.  
+Indicando con $x$ un numero qualsiasi, scrivi le espressioni relative alle frasi seguenti.  
 
-a) Il precedente di x; il successivo di x; il doppio di x; il quadruplo di x;  
+a) Il precedente di $x$; il successivo di $x$; il doppio di $x$; il quadruplo di $x$;  
 
-b) La terza parte di x; il cubo di x; il reciproco di x; il triplo di x;  
+b) La terza parte di $x$; il cubo di $x$; il reciproco di $x$; il triplo di $x$;  
 
-c) La metà di x; il quadrato di x; l’opposto di x; l’opposto del reciproco o l’antireciproco di x.  
+c) La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del reciproco (o l’antireciproco) di $x$.  
 
 
 
