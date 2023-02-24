@@ -187,7 +187,7 @@ c) Raddoppia il prodotto fra 4/7 e 7/2; Scrivi il Triplo del prodotto fra 5/6 e 
 
 Indicando con $x$ un numero qualsiasi, scrivi le espressioni relative alle frasi seguenti.  
 
-a) Il precedente di $x$; il successivo di $x$; il doppio di $x$; il quadruplo di $x$;  
+a) Il doppio di $x$; il quadruplo di $x$; tre quarti di $x$; un terzo di $x$;  
 
 b) La terza parte di $x$; il cubo di $x$; il reciproco di $x$; il triplo di $x$;  
 
