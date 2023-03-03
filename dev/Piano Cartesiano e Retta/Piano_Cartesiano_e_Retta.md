@@ -209,8 +209,10 @@ x-y=7 \\
 
 a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
 
-1. $ l = \{ 3x+2y=-1, 6x-9y=2\}$ &#9166; 
-2. $Risolvi(l, \{x, y\})$  &#9166;
+1. $eq1: 3x+2y=-1$ &#9166;
+2. $eq2: 6x-9y=2$ &#9166; 
+3. $Sostituisci(eq1, \{x=5, y=-2\})$ &#9166;
+4. $Risolvi(\{eq1,eq2\}, \{x, y\})$  &#9166;
 
 
 
@@ -226,12 +228,18 @@ c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
+a) Risolvi il punto a.1) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+
+1. $eq1: y - \dfrac{1}{2}x = 5$  &#9166;   
+2. $Risolvi(\{eq1, x=0\},\{x, y\})$  &#9166;   
+3. $Risolvi(\{eq1, y=0\},\{x, y\})$  &#9166;   
+
+b) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
 
 1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$  &#9166;
 2. $y-y_0 = m(x-x_0)$ &#9166; 
 
-b) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
+c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
 
 
 
@@ -255,7 +263,10 @@ d) Per ciascuna retta, scrivi l’equazione della parallela e della perpendicola
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto d.1 dell'esercizio con l'istruzione GEOGEBRA: $Retta((1,1),y = \dfrac{1}{3}x)$.
+a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
+
+1. $Retta((1,1),y = \dfrac{1}{3}x)$ &#9166;
+2. $Perpendicoare((1,1),y = \dfrac{1}{3}x)$ &#9166;
 
 
 
