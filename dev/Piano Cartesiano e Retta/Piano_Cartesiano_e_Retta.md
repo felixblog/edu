@@ -211,7 +211,7 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 1. $eq1: 3x+2y=-1$ &#9166;
 2. $eq2: 6x-9y=2$ &#9166; 
-3. $Sostituisci(eq1, \{x=5, y=-2\})$ &#9166;
+3. $Sostituisci(eq1, \{x=5, y=-2\})$ &#9166;    (L'uguaglianza è falsa quindi cerchiamo la soluzione)
 4. $Risolvi(\{eq1,eq2\}, \{x, y\})$  &#9166;
 
 
