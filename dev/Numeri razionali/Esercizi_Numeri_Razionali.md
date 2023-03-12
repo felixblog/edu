@@ -335,33 +335,70 @@ d) $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\
 
 
 
-### ESERCIZIO 21 - Problemi con le percentuali
+### ESERCIZIO 21 - Numeri decimali e frazioni
+
+a) Scrivi le seguenti frazioni in forma decimale (arrotonda alla terza cifra decimale):  $\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
+
+b) Scrivi i seguenti numeri decimali in frazioni: 
+
+$\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspace 9.69.$ 
+
+
+
+### ESERCIZIO 22 - Le percentuali
 
 a) Trasforma in percentuale i numeri seguenti: 2; 0,02; -1,465; 5; 0.
 
 b) Trasforma in numeri decimali le percentuali seguenti: 2%; 0,02%; -30%; 350%; 1000%; 0,0002%.
 
-c) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
+c) Scrivi le seguenti frazioni in percentuali (approssimate):
 
-d) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quanto costerà dopo l’aumento?     [R. € 12,88]
-
-e) Calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di latte, sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso, .      [R. 3.7125 kg] 
-
-f) In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%] 
-
-g) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
-
-h) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio?
-
-i) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
-
-l) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
-
-m) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+$\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
 
 
 
-### ESERCIZIO 22 - Equivalenze (I)
+### ESERCIZIO 23 - Problemi con le percentuali
+
+a) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
+
+b) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quanto costerà dopo l’aumento?     [R. € 12,88]
+
+c) Calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di latte, sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso, .      [R. 3.7125 kg] 
+
+d) In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%] 
+
+e) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+
+f) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio?
+
+g) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+
+h) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
+
+i) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+
+
+
+### ESERCIZIO 24 - Sostituzioni (I)
+
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
+
+1. $x^2,\ [x=\dfrac{1}{2}]$;     $x^2,\ [x=-\dfrac{1}{2}]$;     $-x^2,\ [x=\dfrac{1}{2}]$;     $-x^2,\ [x=-\dfrac{1}{2}]$;
+2. $-2x + x^2 + 1,\ [x=\dfrac{2}{5}]$;
+3. $y(1 - y) + 3,\ [y=-\dfrac{5}{2}]$;
+4. $y(1 - y) + 3,\ [y=\dfrac{1}{2}]$;     $y(1 - y) + 3,\ [y=-\dfrac{1}{2}]$;     $y(1 - y) + 3,\ [y=\dfrac{0}{2}]$;     $y(1 - y) + 3,\ [y=\dfrac{4}{2}]$;  
+
+#### Laboratorio GEOGEBRA
+
+Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $Sostituisci(-2 x+x^2+1,{x = \dfrac{2}{5}})$&#9166;
+
+2. $Sostituisci(y\cdot(1 - y) + 3,{y = -\dfrac{2}{5}})$
+
+   
+
+### ESERCIZIO 25 - Equivalenze (I)
 
 a) Quanti secondi ci sono in due ore e mezzo? Quanto pesano due etti e mezzo di salame in Kg ?
 
@@ -375,7 +412,7 @@ e) A quante ore corrispondono x minuti ?
 
 
 
-### ESERCIZIO 23 - Equivalenze (II)
+### ESERCIZIO 26 - Equivalenze (II)
 
 Esegui le seguenti operazioni facendo prima le equivalenze.
 
@@ -389,7 +426,7 @@ d) 0,5 dam + 5 m + 6 cm + 1,6 m = ............ dm  &emsp;  [R. 116,6]
 
 
 
-### ESERCIZIO 24 - Proprietà delle potenze
+### ESERCIZIO 27 - Proprietà delle potenze
 
 Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
 
@@ -403,27 +440,23 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 
 
-### ESERCIZIO 25 - Sostituzioni e valore delle espressioni
+### ESERCIZIO 28 - Sostituzioni (II)
 
-Di ognuna delle seguenti espressioni stabilisci se è intera o frazionaria e calcolane il valore dopo aver sostituito i numeri alle variabili.
+Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
 
-a)  $a-\left(b+c\right),\left[a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right]$;$a-\left(b-c\right),\left[a=\dfrac{2}{3},b=\dfrac{1}{6},c=\dfrac{2}{9}\right]$;$a+\left(-b\right)-c,\left[a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right]$
+a)  $a-\left(b+c\right),\left[a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right]$;
 
-b) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left[a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right]$;$\left(a+b\right)^{2}\left(-a-b\right)^{2},\left[a=-\dfrac{2}{3},b=1\right]$;$\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left[x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right]$
+b) $a-\left(b-c\right),\left[a=\dfrac{2}{3},b=\dfrac{1}{6},c=\dfrac{2}{9}\right]$;
 
+c) $a+\left(-b\right)-c,\left[a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right]$;
 
+d) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left[a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right]$;     $\left(a+b\right)^{2}\left(-a-b\right)^{2},\left[a=-\dfrac{2}{3},b=1\right]$;
 
-### ESERCIZIO 26 - Numeri decimali e frazioni
-
-a) Scrivi le seguenti frazioni in forma decimale (arrotonda alla terza cifra decimale):  $\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
-
-b) Scrivi i seguenti numeri decimali in frazioni: 
-
-$\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspace 9.69.$ 
+e) $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left[x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right]$
 
 
 
-### ESERCIZIO 27 - Potenze con esponente negativo
+### ESERCIZIO 29 - Potenze con esponente negativo
 
 a) Semplifica le seguenti espressioni usando la definizione di esponente negativo
 
@@ -437,7 +470,7 @@ b) Scrivi i numeri seguenti in notazione decimale
 
 
 
-### ESERCIZIO 28 - Equivalenze (III)
+### ESERCIZIO 30 - Equivalenze (III)
 
 a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuhan cinesi:
 

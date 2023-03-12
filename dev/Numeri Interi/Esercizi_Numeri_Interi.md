@@ -265,15 +265,14 @@ d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)
 
 
 
-### ESERCIZIO 14 - Espressioni letterali e sostituzioni (I)
+### ESERCIZIO 14 - Sostituzioni (I)
 
-a) Scrivi le espressioni ottenute sostituendo alle lettere i numeri indicati.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
 
-1. $-2x + x^2 + 1,\ [x=2]$;
-2. $y(1 - y) + 3,\ [y=-5]$;
-3. $y(1 - y) + 3,\ [y=1], [y=4], [y=0]$ [Sostituisci prima il primo valore, poi il secondo e quindi il terzo].
-
-b) Calcola il valore delle espressioni del punto a).
+1. $x^2,\ [x=2]$;     $x^2,\ [x=-2]$;     $-x^2,\ [x=2]$;     $-x^2,\ [x=-2]$;
+2. $-2x + x^2 + 1,\ [x=2]$;
+3. $y(1 - y) + 3,\ [y=-5]$;
+4. $y(1 - y) + 3,\ [y=1]$;     $y(1 - y) + 3,\ [y=-1]$;     $y(1 - y) + 3,\ [y=0]$;     $y(1 - y) + 3,\ [y=4]$;  
 
 #### Laboratorio GEOGEBRA
 
@@ -284,9 +283,9 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 
 
-### ESERCIZIO 15 - Espressioni letterali e sostituzioni (II)
+### ESERCIZIO 15 - Sostituzioni (II)
 
-a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
 
 1. $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ [a=2,\ b=-2]$  
 2. $3ab-5a^{2}+3a-1,\ [a=-2,\ b=-8]$  
@@ -304,7 +303,7 @@ Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcol
 
 
 
-### ESERCIZIO 16 - Espressioni letterali e sostituzioni (III)
+### ESERCIZIO 16 - Sostituzioni (III)
 
 a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
