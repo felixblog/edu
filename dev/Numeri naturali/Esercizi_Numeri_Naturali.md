@@ -126,18 +126,18 @@ Inserisci in GEOGEBRA le espressioni dei punti b) e c) dell'esercizio e calcola 
 
 ### ESERCIZIO 7 - Sostituzioni
 
-Negli esercizi seguenti, calcola il valore delle espressioni sostituendo alle lettere i numeri come indicato a fianco.  
-a) $5x, \enspace x = 50$;  
+Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
+a) $5x, \enspace \{x = 50\}$;  
 
-b) $2y, \enspace y = 32$;
+b) $2y, \enspace \{y = 32\}$;
 
-c) $a − b, \enspace a = 10, b = 7$;
+c) $a − b, \enspace \{a = 10, b = 7\}$;
 
-d) $a^{2} − b^{2}, \enspace a = 1, b = 1; \enspace a = 3, b = 2; \enspace a = 6, b = 5$;
+d) $a^{2} − b^{2}, \enspace \{a = 1, b = 1\}$;     $a^{2} − b^{2}, \enspace \{a = 3, b = 2\}$;
 
-e) $2a(b + 1) - 6ab , \enspace a = 3, b = 0$;
+e) $2a(b + 1) - 6ab , \enspace \{a = 3, b = 0\}$;
 
-f ) $((2a)b)^{3}, \enspace a = 2, b = 3$.
+f ) $((2a)b)^{3}, \enspace \{a = 2, b = 3\}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -148,7 +148,7 @@ a) Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (c
 
 b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $Sostituisci(5x,\; {x = 50})$&#9166;
+1. $Sostituisci(a-b,\; \{a = 10, b=7\})$&#9166;
 
 
 

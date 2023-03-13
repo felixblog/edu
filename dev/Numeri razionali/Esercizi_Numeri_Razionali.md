@@ -383,10 +383,10 @@ i) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
 
-1. $x^2,\ [x=\dfrac{1}{2}]$;     $x^2,\ [x=-\dfrac{1}{2}]$;     $-x^2,\ [x=\dfrac{1}{2}]$;     $-x^2,\ [x=-\dfrac{1}{2}]$;
-2. $-2x + x^2 + 1,\ [x=\dfrac{2}{5}]$;
-3. $y(1 - y) + 3,\ [y=-\dfrac{5}{2}]$;
-4. $y(1 - y) + 3,\ [y=\dfrac{1}{2}]$;     $y(1 - y) + 3,\ [y=-\dfrac{1}{2}]$;     $y(1 - y) + 3,\ [y=\dfrac{0}{2}]$;     $y(1 - y) + 3,\ [y=\dfrac{4}{2}]$;  
+1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
+2. $-2x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
+3. $y(1 - y) + 3,\ \{y=-\dfrac{5}{2}\}$;
+4. $y(1 - y) + 3,\ \{y=\dfrac{1}{2}\}$;     $y(1 - y) + 3,\ \{y=-\dfrac{1}{2}\}$;     $y(1 - y) + 3,\ [y=\dfrac{0}{2}]$;     $y(1 - y) + 3,\ \{y=\dfrac{4}{2}\}$;  
 
 #### Laboratorio GEOGEBRA
 
@@ -444,15 +444,15 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
 
-a)  $a-\left(b+c\right),\left[a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right]$;
+a)  $a-\left(b+c\right),\left\{a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right\}$;
 
-b) $a-\left(b-c\right),\left[a=\dfrac{2}{3},b=\dfrac{1}{6},c=\dfrac{2}{9}\right]$;
+b) $a-\left(b-c\right),\left\{a=\dfrac{2}{3},b=\dfrac{1}{6},c=\dfrac{2}{9}\right\}$;
 
-c) $a+\left(-b\right)-c,\left[a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right]$;
+c) $a+\left(-b\right)-c,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
 
-d) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left[a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right]$;     $\left(a+b\right)^{2}\left(-a-b\right)^{2},\left[a=-\dfrac{2}{3},b=1\right]$;
+d) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;     $\left(a+b\right)^{2}\left(-a-b\right)^{2},\left\{a=-\dfrac{2}{3},b=1\right\}$;
 
-e) $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left[x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right]$
+e) $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$
 
 
 

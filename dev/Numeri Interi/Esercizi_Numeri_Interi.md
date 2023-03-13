@@ -269,14 +269,18 @@ d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
 
-1. $x^2,\ [x=2]$;     $x^2,\ [x=-2]$;     $-x^2,\ [x=2]$;     $-x^2,\ [x=-2]$;
-2. $-2x + x^2 + 1,\ [x=2]$;
-3. $y(1 - y) + 3,\ [y=-5]$;
-4. $y(1 - y) + 3,\ [y=1]$;     $y(1 - y) + 3,\ [y=-1]$;     $y(1 - y) + 3,\ [y=0]$;     $y(1 - y) + 3,\ [y=4]$;  
+1. $x^2,\ \{x=2\}$;     $x^2,\ \{x=-2\}$;     $-x^2,\ \{x=2\}$;     $-x^2,\ \{x=-2\}$;
+2. $-2x + x^2 + 1,\ \{x=2\}$.
+
+b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
+
+1. $y(1 - y) + 3,\ \{y=-5\}$;
+2. $y(1 - y) + 3,\ \{y=1\}$;     $y(1 - y) + 3,\ \{y=-1\}$;
+3. $y(1 - y) + 3,\ \{y=0\}$;     $y(1 - y) + 3,\ \{y=4\}$;  
 
 #### Laboratorio GEOGEBRA
 
-Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+Risolvi i punti a.2) e b.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $Sostituisci(-2 x+x^2+1,{x = 2})$&#9166;
 2. $Sostituisci(y\cdot(1 - y) + 3,{y = -5})$&#9166;
@@ -287,12 +291,12 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
 
-1. $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ [a=2,\ b=-2]$  
-2. $3ab-5a^{2}+3a-1,\ [a=-2,\ b=-8]$  
-3. $(a+b)(a-b)+ab-a^{2},\ [a=6,\ b=-3]$  
-4. $(x^{2}+a)x-a(x-1):(x+1)+4a,\ [x=1,a=-9]$
+1. $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ \{a=2,\ b=-2\}$  
+2. $3ab-5a^{2}+3a-1,\ \{a=-2,\ b=-8\}$  
+3. $(a+b)(a-b)+ab-a^{2},\ \{a=6,\ b=-3\}$  
+4. $(x^{2}+a)x-a(x-1):(x+1)+4a,\ \{x=1,a=-9\}$
 
-b) Scrivere gli alberi relativi alle espressioni letterali dei punti precedenti.
+b) Scrivere gli alberi relativi alle espressioni numeriche dei punti precedenti.
 
 #### Laboratorio GEOGEBRA
 
