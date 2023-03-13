@@ -381,7 +381,7 @@ i) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata
 
 ### ESERCIZIO 24 - Sostituzioni (I)
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
 1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
 2. $-2x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
@@ -442,7 +442,7 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 ### ESERCIZIO 28 - Sostituzioni (II)
 
-Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
+Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
 a)  $a-\left(b+c\right),\left\{a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right\}$;
 

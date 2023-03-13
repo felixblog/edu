@@ -267,12 +267,12 @@ d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)
 
 ### ESERCIZIO 14 - Sostituzioni (I)
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
 1. $x^2,\ \{x=2\}$;     $x^2,\ \{x=-2\}$;     $-x^2,\ \{x=2\}$;     $-x^2,\ \{x=-2\}$;
 2. $-2x + x^2 + 1,\ \{x=2\}$.
 
-b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
+b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
 1. $y(1 - y) + 3,\ \{y=-5\}$;
 2. $y(1 - y) + 3,\ \{y=1\}$;     $y(1 - y) + 3,\ \{y=-1\}$;
@@ -289,7 +289,7 @@ Risolvi i punti a.2) e b.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (
 
 ### ESERCIZIO 15 - Sostituzioni (II)
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi quadre e poi calcola il loro valore.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
 1. $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ \{a=2,\ b=-2\}$  
 2. $3ab-5a^{2}+3a-1,\ \{a=-2,\ b=-8\}$  
