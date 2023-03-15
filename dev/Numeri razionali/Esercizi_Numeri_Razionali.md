@@ -355,6 +355,8 @@ c) Scrivi le seguenti frazioni in percentuali (approssimate):
 
 $\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
 
+d) Nell'esercizio 1, punto a.1, che percentuale di quadrati ha il colore rosso? ed il colore bianco?
+
 
 
 ### ESERCIZIO 23 - Problemi con le percentuali
@@ -367,15 +369,24 @@ c) Calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di l
 
 d) In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%] 
 
-e) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+e) Il grafico seguente riporta il fatturato di una azienda negli anni. 
 
-f) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio?
+1. Quale è l'incremento, in percentuale, del fatturato del 2021 sul 2020? Quale quello del 2022 sull'anno precedente? E quello del 2020 sul 2019?
+2. che percentuale di fatturato, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
 
-g) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+![Grafico1](img\Grafico1.png)
 
-h) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
+f) Sempre considerando il grafico del fatturato del punto precedente, che percentuale, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
 
-i) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+g) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+
+h) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio?
+
+i) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+
+l) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
+
+m) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
 
 
 
