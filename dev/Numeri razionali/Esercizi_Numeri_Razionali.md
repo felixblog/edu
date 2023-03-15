@@ -369,24 +369,23 @@ c) Calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di l
 
 d) In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%] 
 
-e) Il grafico seguente riporta il fatturato di una azienda negli anni. 
+e) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
 
 1. Quale è l'incremento, in percentuale, del fatturato del 2021 sul 2020? Quale quello del 2022 sull'anno precedente? E quello del 2020 sul 2019?
 2. che percentuale di fatturato, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
+3. Nel 2023 si prevede un calo del 22% rispetto all'anno precedente. Quale sarà il fatturato del 2023?
 
 ![Grafico1](img\Grafico1.png)
 
-f) Sempre considerando il grafico del fatturato del punto precedente, che percentuale, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
+f) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
-g) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+g) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio?
 
-h) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio?
+h) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
 
-i) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+i) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
 
-l) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
-
-m) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+l) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
 
 
 
