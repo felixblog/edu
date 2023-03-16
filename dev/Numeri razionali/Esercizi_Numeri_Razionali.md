@@ -375,7 +375,7 @@ e) Considerando che Il grafico in figura riporta il fatturato di una azienda neg
 2. che percentuale di fatturato, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
 3. Nel 2023 si prevede un calo del 22% rispetto all'anno precedente. Quale sarà il fatturato del 2023?
 
-![Grafico1](img\Grafico1.png)
+![Grafico1](img\Ist-1.png)
 
 f) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
