@@ -361,15 +361,20 @@ d) Nell'esercizio 1, punto a.1, che percentuale di quadrati ha il colore rosso? 
 
 ### ESERCIZIO 23 - Problemi con le percentuali
 
-a) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
+a) Calcola la percentuale nei casi seguenti.
 
-b) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quanto costerà dopo l’aumento?     [R. € 12,88]
+1. In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%];
+2. Una automobile incrementa la sua velocità da 80 Km/h a 100 Km/h. Di che percentuale è salita la velocità?
+3. Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?
+4. Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
-c) Calcola quanti kilogrammi di burro si possono ricavare da 125 kilogrammi di latte, sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso, .      [R. 3.7125 kg] 
+b) Calcola le quantità assolute richieste nei casi seguenti.
 
-d) In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%] 
+1. Su una maglietta si calcola il 30% di sconto. Se il prezzo è di 50 euro, quale sarà o sconto? Quale il prezzo scontato?
+2. Se il fatturato di una azienda, da un anno all'altro, cala de 40%, di quanto sarà calato se il primo anno era di 12 milioni di euro?
+3. Quanti kilogrammi di burro si possono ricavare da 125 Kg di latte, sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso, .      [R. 3.7125 kg] 
 
-e) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
+c) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
 
 1. Quale è l'incremento, in percentuale, del fatturato del 2021 sul 2020? Quale quello del 2022 sull'anno precedente? E quello del 2020 sul 2019?
 2. che percentuale di fatturato, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
@@ -377,15 +382,13 @@ e) Considerando che Il grafico in figura riporta il fatturato di una azienda neg
 
 ![Grafico1](img\Ist-1.png)
 
-f) Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+d) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
 
-g) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio?
+e) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
 
-h) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+f) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
 
-i) Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?    
-
-l) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+g) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
 
 
 
