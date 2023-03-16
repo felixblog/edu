@@ -370,9 +370,9 @@ a) Calcola la percentuale nei casi seguenti.
 
 b) Calcola le quantità assolute richieste nei casi seguenti.
 
-1. Su una maglietta si calcola il 30% di sconto. Se il prezzo è di 50 euro, quale sarà o sconto? Quale il prezzo scontato?
-2. Se il fatturato di una azienda, da un anno all'altro, cala de 40%, di quanto sarà calato se il primo anno era di 12 milioni di euro?
-3. Quanti kilogrammi di burro si possono ricavare da 125 Kg di latte, sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso, .      [R. 3.7125 kg] 
+1. Su una maglietta si calcola il 30% di sconto. Se il prezzo è di 50 euro, quale sarà lo sconto? Quale il prezzo scontato?
+2. Se il fatturato di una azienda, da un anno all'altro, cala del 40%, di quanto sarà calato se il primo anno era di 12 milioni di euro? Quale sarà il nuovo valore?
+3. Quanti kilogrammi di burro si possono ricavare da 125 Kg di latte, sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso .      [R. 3.7125 kg] 
 
 c) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
 
@@ -382,7 +382,7 @@ c) Considerando che Il grafico in figura riporta il fatturato di una azienda neg
 
 ![Grafico1](img\Ist-1.png)
 
-d) Una quadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+d) Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
 
 e) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
 
