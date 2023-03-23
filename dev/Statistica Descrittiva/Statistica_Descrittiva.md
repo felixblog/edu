@@ -6,25 +6,25 @@
 a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubblico per le scuole di una determinata città. Individuare:
 
 1. la popolazione e le unità statistiche;
-2. i caratteri più significativi per l'indagine e le loro modalità.
+2. i caratteri più significativi per l'indagine, le loro modalità, il tipo di dato statistico (qualitativo, quantitativo discreto, quantitativo continuo, il livello di misurazione.
 
 #### Esempio di SOLUZIONE
 
 La popolazione è l'insieme di tutti gli individui che si recano in una scuola della città (insegnanti, studenti, personale amministrativo e tecnico): ogni individuo è una unità statistica. I caratteri più rilevanti sono:
 
-- Uso del mezzo di trasporto (modalità: Uso, Non Uso; qualitativa binaria);
+- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: qualitativo, Livello Misurazione: nominale);
 
-- Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; qualitativa sconnessa);
+- Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: qualitativo, Livello Misurazione: nominale);
 
-- Età (modalità: numeri interi compresi tra 2 a 90 eventualmente classificata; quantitativa discreta);
+- Età (modalità: numeri interi compresi tra 2 a 90; Tipo: quantitativo discreto, Livello Misurazione: rapporto);
 
-- Sesso (modalità: M, F; qualitativa sconnessa);
+- Sesso (modalità: M, F; Tipo: qualitativo, Livello Misurazione: nominale);
 
-- Distanza del Domicilio dalla Scuola: (modalità: numeri reali positivi, eventualmente classificata, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km; quantitativa continua);
+- Distanza del Domicilio dalla Scuola: (modalità: numeri reali positivi, eventualmente ripartita in classi, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km; Tipo: quantitativo continuo, Livello Misurazione: rapporto);
 
-- Motivazione del non utilizzo (modalità qualitativa sconnessa);
+- Motivazione del non utilizzo (Tipo: qualitativo, Livello Misurazione: nominale);
 
-- Grado di soddisfazione (modalità: intero positivo da 1 a 10).
+- Grado di soddisfazione (modalità: intero positivo da 1 a 10; Tipo: qualitativo, Livello Misurazione: ordinale).
 
 
 b) Per effettuare un'indagine sull'utilizzo dei computer nella tua città, quali potrebbero essere i caratteri da rilevare? Quali le unità statistiche?  
