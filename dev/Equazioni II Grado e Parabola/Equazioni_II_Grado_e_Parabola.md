@@ -90,7 +90,7 @@ a) Trova, se esistono, le soluzioni delle equazioni seguenti.
 
 b) Scrivi l'equazione, calcola il valore del discriminante e trova le soluzioni, nei casi in cui i coefficienti della forma normale a, b, c abbiano i valori riportati di seguito:
 
-1. $a=2, b=8, c=1$;   $a=3, b=-1, c=2$;   $a=\sqrt[2]{2}, b=\sqrt[2]{50}, c=\sqrt[2]{72}$;
+1. $a=2, b=8, c=1$;   $a=3, b=-1, c=2$;
 2. $a=2, b=8, c=10$;   $a=0, b=-1, c=2$.
 
 #### Laboratorio GEOGEBRA

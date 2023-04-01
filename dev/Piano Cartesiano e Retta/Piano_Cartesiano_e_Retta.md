@@ -57,22 +57,23 @@ b) Risolvi il punto c) con la sequenza di istruzioni seguente:
 
 ### ESERCIZIO 4 - Campione di punti
 
-Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione. Per ognuno, trova un campione di 5 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
-a) $A = \{(x; y): y = -1\}$;
+a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione (una retta). Per ognuno, trova un campione di 5 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
 
-b) $B = \{(x; y): y = 3x\}$;
+1. $A = \{(x; y): y = -1\}$;
 
-c) $C = \{(x; y): y = -x\}$;
+2. $B = \{(x; y): y = 3x\}$;
 
-d) $D = \{(x; y): y = x + 1\}$;
+3. $C = \{(x; y): y = -x + 1\}$;
 
-e) $E = \{(x; y): x + y = 1\}$.
+4. $E = \{(x; y): x + y = 1\}$.
+
+b) Ricalcola il campione richiesto nel punto a) dell'esercizio in modo che sia presente il punto che l'insieme ha in comune con l'asse verticale. 
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punti dell'esercizio seguendo le indicazioni riportate in ciascun passo. 
+a) Risolvi il punti dell'esercizio d) seguendo le indicazioni riportate in ciascun passo. 
 
-Passo 1: Inserisci l'equazione dell'esercizio, ad esempio la d), mediante l'istruzione $f: y=x+1$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
+Passo 1: Inserisci l'equazione dell'esercizio, mediante l'istruzione $f: y=x+1$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
 
 Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i 5 valori $0,1,-1, 2, -2$;
 
@@ -84,19 +85,22 @@ Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori del
 
 ### ESERCIZIO 5 - Grafico della retta
 
-Disegna le rette rappresentate dalle seguenti equazioni:  
+a) Disegna le due rette rappresentate dalle seguenti equazioni trovando almeno due punti per i quali passa ciascuna di esse.
 
-a) $y = -2x$,   $y = 3x$;
+1. $y = -2x$,   $y = 3x + 1$;
 
-b) $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x$;
+2. $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x - \dfrac{2}{3}$;
 
-c) $y = \dfrac{11}{8}x$,   $y = 11 x$  
+b) Disegna le due rette rappresentate dalle seguenti equazioni trovando due punti per i quali passa ciascuna di esse di cui uno è l'intersezione della retta con l'asse orizzontale
+
+1. $y = \dfrac{11}{8}x$,   $y = 11 x$  
+2. $y = -3x + 5$,   $y = 11 x - 3$.
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio seguendo le indicazioni riportate in ciascun passo. 
 
-Passo 1: Inserisci l'istruzione $f: y=2x$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
+Passo 1: Inserisci l'istruzione $f: y=-2x$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
 
 Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i valori $0,1,-1$;
 
