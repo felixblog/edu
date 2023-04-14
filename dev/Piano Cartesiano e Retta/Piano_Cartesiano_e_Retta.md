@@ -230,6 +230,11 @@ a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
 c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
 
+d) Individua per quali intervalli i polinomi seguenti sono positivi o negativi:
+
+1. $\dfrac{1}{2}x$;   $\dfrac{-1}{3}x - 4$ ;   $11$;
+2. $\dfrac{11}{8}(x-16)$;   $-2x + 11$.
+
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a.1) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:

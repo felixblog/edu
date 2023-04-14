@@ -1,21 +1,7 @@
 
 # Calcolo Letterale
 
-### ESERCIZIO 1 - Dai numeri alle lettere
-
-In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente e, se possibile, esegui le operazioni numeriche.
-
-a) $-2 \cdot 4 + (3 + 2 \cdot 4)$; Sostituisci il numero intero $4$ con $a$;
-
-b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$; Sostituisci il numero intero $3$ con $x$;
-
-c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$; Sostituisci il numero intero $-3$ con $y$;
-
-d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$; Sostituisci la frazione $-\dfrac{5}{3}$ con $a$.
-
-
-
-### ESERCIZIO 2 - Dalle parole alle espressioni (I)
+### ESERCIZIO 1 - Dalle parole alle espressioni (I)
 
 a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una o più lettere per indicare le quantità sconosciute.
 
@@ -38,7 +24,7 @@ b) Come il punto precedente, scrivi l'espressione letterale corrispondente ad og
 
 
 
-### ESERCIZIO 3 - Dalle lettere ai numeri
+### ESERCIZIO 2 - Dalle lettere ai numeri
 
 a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
@@ -52,6 +38,20 @@ b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e c
 1. $a^{2} − b^{2}, [\enspace a = 1, b = 1]; \enspace [a = -3, b = -2]; \enspace [a = -6, b = \dfrac{5}{3}]$;
 2. $2a(b + 1) - 6ab , \enspace [a = -3, b = 0]$;
 3. $((2a)b)^{3}, \enspace [a = 2, b = -\dfrac{3}{2}]$.
+
+
+
+### ESERCIZIO 3 - Dai numeri alle lettere
+
+In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente e, se possibile, esegui le operazioni numeriche.
+
+a) $-2 \cdot 4 + (3 + 2 \cdot 4)$; Sostituisci il numero intero $4$ con $a$;
+
+b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$; Sostituisci il numero intero $3$ con $x$;
+
+c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$; Sostituisci il numero intero $-3$ con $y$;
+
+d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$; Sostituisci la frazione $-\dfrac{5}{3}$ con $a$.
 
 
 

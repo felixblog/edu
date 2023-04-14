@@ -12,13 +12,13 @@ a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubbl
 
 La popolazione è l'insieme di tutti gli individui che si recano in una scuola della città (insegnanti, studenti, personale amministrativo e tecnico): ogni individuo è una unità statistica. I caratteri più rilevanti sono:
 
-- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: qualitativo, Livello Misurazione: nominale);
+- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: qualitativo, Livello Misurazione: categorico binario);
 
-- Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: qualitativo, Livello Misurazione: nominale);
+- Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: qualitativo, Livello Misurazione: categorico);
 
 - Età (modalità: numeri interi compresi tra 2 a 90; Tipo: quantitativo discreto, Livello Misurazione: rapporto);
 
-- Sesso (modalità: M, F; Tipo: qualitativo, Livello Misurazione: nominale);
+- Sesso (modalità: M, F; Tipo: qualitativo, Livello Misurazione: categorico binario);
 
 - Distanza del Domicilio dalla Scuola: (modalità: numeri reali positivi, eventualmente ripartita in classi, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km; Tipo: quantitativo continuo, Livello Misurazione: rapporto);
 
@@ -73,34 +73,30 @@ b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte de
 | FREQUENZA ASSOLUTA                 |   400    |                     |      156      |       3        |
 | FREQUENZA RELATIVA (%)             |  53,54%  |                     |    20,89%     |     3,62%      |
 
+c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (1=elevato, 2=medio, 3=basso), la zona di residenza (1=urbana, 2=periferica) e lo stato di salute (1=buono, 0=cattivo) ed il reddito. 
 
-
-c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (1=elevato, 2=medio, 3=basso), la zona di residenza (1=urbana, 2=periferica) e lo stato di salute (1=buono, 0=cattivo). 
-
-| Unità <br />Statistica | Età  | Livello <br />Socio-Economico | Zona di <br />Residenza | Stato di <br />Salute | Reddito <br />(euro) |
-| :--------------------: | :--: | :---------------------------: | :---------------------: | :-------------------: | :------------------: |
-|           1            |  33  |               1               |            1            |           1           |        75.000        |
-|           2            |  35  |               1               |            1            |           1           |       120.000        |
-|           3            |  6   |               1               |            1            |           0           |        55.000        |
-|           4            |  60  |               1               |            1            |           0           |        66.000        |
-|           5            |  18  |               3               |            1            |           1           |        14.000        |
-|           6            |  26  |               3               |            1            |           0           |        12.000        |
-|           7            |  6   |               3               |            1            |           0           |        17.500        |
-|           8            |  31  |               2               |            1            |           1           |        33.000        |
-|           9            |  26  |               2               |            1            |           1           |        42.000        |
-|           10           |  37  |               2               |            1            |           0           |        47.000        |
-|           11           |  23  |               1               |            1            |           0           |        51.000        |
-|           12           |  23  |               1               |            1            |           0           |        60.500        |
-|           13           |  27  |               1               |            1            |           0           |       140.000        |
-|           14           |  9   |               1               |            1            |           1           |        83.000        |
-|           15           |  37  |               1               |            2            |           1           |        73.000        |
-|           16           |  22  |               1               |            2            |           1           |        68.000        |
-|           17           |  67  |               1               |            2            |           1           |        65.000        |
-|           18           |  8   |               1               |            2            |           0           |        55.000        |
-|           19           |  6   |               1               |            2            |           1           |        59.000        |
-|           20           |  15  |               1               |            2            |           1           |        61.000        |
-
-
+| Età  | Livello <br />Socio-Economico | Zona di <br />Residenza | Stato di <br />Salute | Reddito <br />(euro) |
+| :--: | :---------------------------: | :---------------------: | :-------------------: | :------------------: |
+|  33  |               1               |            1            |           1           |        75.000        |
+|  35  |               1               |            1            |           1           |       120.000        |
+|  6   |               1               |            1            |           0           |        55.000        |
+|  60  |               1               |            1            |           0           |        66.000        |
+|  18  |               3               |            1            |           1           |        14.000        |
+|  26  |               3               |            1            |           0           |        12.000        |
+|  6   |               3               |            1            |           0           |        17.500        |
+|  31  |               2               |            1            |           1           |        33.000        |
+|  26  |               2               |            1            |           1           |        42.000        |
+|  37  |               2               |            1            |           0           |        47.000        |
+|  23  |               1               |            1            |           0           |        51.000        |
+|  23  |               1               |            1            |           0           |        60.500        |
+|  27  |               1               |            1            |           0           |       140.000        |
+|  9   |               1               |            1            |           1           |        83.000        |
+|  37  |               1               |            2            |           1           |        73.000        |
+|  22  |               1               |            2            |           1           |        68.000        |
+|  67  |               1               |            2            |           1           |        65.000        |
+|  8   |               1               |            2            |           0           |        55.000        |
+|  6   |               1               |            2            |           1           |        59.000        |
+|  15  |               1               |            2            |           1           |        61.000        |
 
 1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi 0-25, 26-50 e 51-75; 
 2. Calcola le frequenze assolute e relative per determinare la distribuzione del livello socio-economico.
@@ -124,7 +120,7 @@ d) Risolvi il punto c.1) dell'esercizio prendendo ad esempio la sequenza di oper
 
 
 
-### ESERCIZIO 3 - Grafici Cartesiani
+### ESERCIZIO 3 - Grafici a Linee
 
 a) Rappresenta con un diagramma cartesiano a linee la seguente tabella della rilevazione delle vendite di una ditta (in quintali) negli anni indicati.
 
@@ -243,38 +239,38 @@ a) La tabella seguente riporta tre anni di dati mensili delle vendite di un prod
 
 b) La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
 
-| ID   | SESSO | ETA  | TITOLO DI STUDIO     | PROVENIENZA      <br />GEOGRAFICA | FATTURATO<br /> (euro) |
-| ---- | ----- | ---- | -------------------- | --------------------------------- | ---------------------- |
-| 1    | M     | 46   | Lic. Media Superiore | SUD                               | 26,692                 |
-| 2    | F     | 29   | Lic. Media Inferiore | ISOLE                             | 19,74                  |
-| 3    | M     | 28   | Lic. Media Superiore | ISOLE                             | 25,717                 |
-| 4    | M     | 52   | Laurea               | SUD                               | 43,67                  |
-| 5    | M     | 49   | Laurea               | CENTRO                            | 35,437                 |
-| 6    | F     | 29   | Lic. Media Inferiore | CENTRO                            | 25,91                  |
-| 7    | M     | 25   | Lic. Media Superiore | SUD                               | 21,737                 |
-| 8    | M     | 27   | Laurea               | CENTRO                            | 24,293                 |
-| 9    | F     | 31   | Lic. Media Superiore | CENTRO                            | 26,065                 |
-| 10   | M     | 44   | Laurea               | ISOLE                             | 36,199                 |
-| 11   | M     | 37   | Lic. Media Inferiore | NORD                              | 19,472                 |
-| 12   | F     | 33   | Laurea               | CENTRO                            | 32,579                 |
-| 13   | F     | 36   | Laurea               | NORD                              | 18,514                 |
-| 14   | F     | 28   | Lic. Media Superiore | CENTRO                            | 27,351                 |
-| 15   | M     | 50   | Lic. Media Superiore | CENTRO                            | 33,527                 |
-| 16   | F     | 41   | Lic. Media Inferiore | NORD                              | 21,292                 |
-| 17   | F     | 24   | Lic. Media Inferiore | ISOLE                             | 16,579                 |
-| 18   | F     | 47   | Laurea               | SUD                               | 32,695                 |
-| 19   | M     | 44   | Laurea               | CENTRO                            | 34,258                 |
-| 20   | M     | 27   | Lic. Media Superiore | SUD                               | 26,5                   |
-| 21   | M     | 27   | Laurea               | NORD                              | 24,811                 |
-| 22   | F     | 36   | Lic. Media Superiore | NORD                              | 35,97                  |
-| 23   | M     | 33   | Laurea               | SUD                               | 25,269                 |
-| 24   | M     | 33   | Laurea               | CENTRO                            | 23,706                 |
-| 25   | M     | 25   | Laurea               | ISOLE                             | 23,326                 |
-| 26   | M     | 29   | Laurea               | NORD                              | 25,716                 |
-| 27   | M     | 55   | Laurea               | NORD                              | 48,987                 |
-| 28   | F     | 44   | Lic. Media Superiore | NORD                              | 38,811                 |
-| 29   | F     | 37   | Lic. Media Superiore | SUD                               | 28,67                  |
-| 30   | M     | 55   | Laurea               | SUD                               | 48,428                 |
+| SESSO | ETA  | TITOLO DI STUDIO     | PROVENIENZA <br /> GEOGRAFICA | FATTURATO<br />(euro) |
+| :---: | :--: | :------------------- | :---------------------------: | --------------------: |
+|   M   |  46  | Lic. Media Superiore |              SUD              |                26,692 |
+|   F   |  29  | Lic. Media Inferiore |             ISOLE             |                 19,74 |
+|   M   |  28  | Lic. Media Superiore |             ISOLE             |                25,717 |
+|   M   |  52  | Laurea               |              SUD              |                 43,67 |
+|   M   |  49  | Laurea               |            CENTRO             |                35,437 |
+|   F   |  29  | Lic. Media Inferiore |            CENTRO             |                 25,91 |
+|   M   |  25  | Lic. Media Superiore |              SUD              |                21,737 |
+|   M   |  27  | Laurea               |            CENTRO             |                24,293 |
+|   F   |  31  | Lic. Media Superiore |            CENTRO             |                26,065 |
+|   M   |  44  | Laurea               |             ISOLE             |                36,199 |
+|   M   |  37  | Lic. Media Inferiore |             NORD              |                19,472 |
+|   F   |  33  | Laurea               |            CENTRO             |                32,579 |
+|   F   |  36  | Laurea               |             NORD              |                18,514 |
+|   F   |  28  | Lic. Media Superiore |            CENTRO             |                27,351 |
+|   M   |  50  | Lic. Media Superiore |            CENTRO             |                33,527 |
+|   F   |  41  | Lic. Media Inferiore |             NORD              |                21,292 |
+|   F   |  24  | Lic. Media Inferiore |             ISOLE             |                16,579 |
+|   F   |  47  | Laurea               |              SUD              |                32,695 |
+|   M   |  44  | Laurea               |            CENTRO             |                34,258 |
+|   M   |  27  | Lic. Media Superiore |              SUD              |                  26,5 |
+|   M   |  27  | Laurea               |             NORD              |                24,811 |
+|   F   |  36  | Lic. Media Superiore |             NORD              |                 35,97 |
+|   M   |  33  | Laurea               |              SUD              |                25,269 |
+|   M   |  33  | Laurea               |            CENTRO             |                23,706 |
+|   M   |  25  | Laurea               |             ISOLE             |                23,326 |
+|   M   |  29  | Laurea               |             NORD              |                25,716 |
+|   M   |  55  | Laurea               |             NORD              |                48,987 |
+|   F   |  44  | Lic. Media Superiore |             NORD              |                38,811 |
+|   F   |  37  | Lic. Media Superiore |              SUD              |                 28,67 |
+|   M   |  55  | Laurea               |              SUD              |                48,428 |
 
 1. Quale è  l'unità statistica?  Quale è la popolazione di riferimento?
 
@@ -317,18 +313,18 @@ a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
 b) Per i primi 15 giorni di un mese viene rilevato il ritardo (in minuti) accumulato da un determinato treno rispetto all’orario previsto di arrivo. Di seguito sono riportati i dati rilevati, che presentano segno negativo nel caso di anticipo sull’orario di arrivo:
 
-| **giorno**  | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14   | 15   |
-| ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **ritardo** | 10   | 15   | -2   | 0    | 50   | 20   | 0    | 9    | -5   | 8    | 10   | 20   | 6    | 10   | -10  |
+| **giorno**  |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   |  10  |  11  |  12  |  13  |  14  |  15  |
+| :---------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| **ritardo** |  10  |  15  |  -2  |  0   |  50  |  20  |  0   |  9   |  -5  |  8   |  10  |  20  |  6   |  10  | -10  |
 
 1. Calcola minimo, massimo, la moda, la mediana, la media aritmetica della distribuzione;
 2. Dopo aver raggruppato le osservazioni relative ai primi 15 giorni del mese nelle classi: [-10, 0]; (0, 10]; (10, 60] calcolare media e varianza in questa nuova situazione.
 
 c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segue: 
 
-| **Famiglia**  | A    | B     | C     | D    | E     | F     | G     | H     |
-| ------------- | ---- | ----- | ----- | ---- | ----- | ----- | ----- | ----- |
-| **risparmio** | 500  | 5.000 | 2.600 | 0    | 9.200 | 3.000 | 5.400 | 6.300 |
+| **Famiglia**  |  A   |   B   |   C   |  D   |   E   |   F   |   G   |   H   |
+| :-----------: | :--: | :---: | :---: | :--: | :---: | :---: | :---: | :---: |
+| **risparmio** | 500  | 5.000 | 2.600 |  0   | 9.200 | 3.000 | 5.400 | 6.300 |
 
 1. Determinare la media, la varianza, e la mediana.
 
@@ -343,25 +339,25 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 ### ESERCIZIO 9 - Esercizio Riassuntivo
 
-Considera la matrice dei dati relativa ai 15 dipendenti di un’azienda. Per ciascun dipendente sono stati rilevati: Posizione professionale (1=Apprendista, 2=Operaio, 3=Impiegato, 4=Dirigente), Genere (1=Maschio, 2=Femmina), Numero di componenti del nucleo familiare, Ore di straordinario lavorate nel 2009 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Dipendenti.xlsx)):
+Considera la tabella dei dati relativa ai 15 dipendenti di un’azienda. Per ciascun dipendente sono stati rilevati: Posizione professionale (1=Apprendista, 2=Operaio, 3=Impiegato, 4=Dirigente), Genere (1=Maschio, 2=Femmina), Numero di componenti del nucleo familiare, Ore di straordinario lavorate nel 2009 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Dipendenti.xlsx)):
 
-|      | Genere | Posizione | N. Componenti | Ore Straordinario |
-| ---- | ------ | --------- | ------------- | ----------------- |
-| 1    | 1      | 1         | 2             | 135               |
-| 2    | 1      | 3         | 3             | 222               |
-| 3    | 1      | 4         | 2             | 219               |
-| 4    | 1      | 2         | 2             | 160               |
-| 5    | 1      | 1         | 2             | 140               |
-| 6    | 2      | 4         | 3             | 270               |
-| 7    | 2      | 2         | 4             | 180               |
-| 8    | 2      | 2         | 4             | 127               |
-| 9    | 2      | 3         | 5             | 169               |
-| 10   | 2      | 4         | 5             | 146               |
-| 11   | 1      | 1         | 4             | 90                |
-| 12   | 2      | 2         | 3             | 156               |
-| 13   | 1      | 3         | 4             | 224               |
-| 14   | 1      | 1         | 3             | 55                |
-| 15   | 1      | 2         | 2             | 265               |
+| Genere | Posizione | N. Componenti | Ore Straordinario |
+| :----: | :-------: | :-----------: | :---------------: |
+|   1    |     1     |       2       |        135        |
+|   1    |     3     |       3       |        222        |
+|   1    |     4     |       2       |        219        |
+|   1    |     2     |       2       |        160        |
+|   1    |     1     |       2       |        140        |
+|   2    |     4     |       3       |        270        |
+|   2    |     2     |       4       |        180        |
+|   2    |     2     |       4       |        127        |
+|   2    |     3     |       5       |        169        |
+|   2    |     4     |       5       |        146        |
+|   1    |     1     |       4       |        90         |
+|   2    |     2     |       3       |        156        |
+|   1    |     3     |       4       |        224        |
+|   1    |     1     |       3       |        55         |
+|   1    |     2     |       2       |        265        |
 
 a) Specifica qual è la popolazione di riferimento dei dati;
 
