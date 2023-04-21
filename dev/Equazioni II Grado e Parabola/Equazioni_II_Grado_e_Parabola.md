@@ -85,7 +85,7 @@ a) Trova, se esistono, le soluzioni delle equazioni seguenti.
 1. $2x^2 + x = 0$;   $\dfrac{x^2}{4} - 81 = 0$;   $x^2 -5 = 0$;
 
 2. $3x^2 - 12x + 9 = 0$;   $4x^2 + 12x + 9 = 0$;   $x^2 + x + 1 = 0$;
-3. Equazioni dei punti 3, 4 e 5 dell'esercizio precedente.
+3. Equazioni dei punti a.3, a.4 e a.5 dell'esercizio 3.
 4. $3(x-x^2)-\dfrac{4}{3} = \dfrac{1}{2}x - 1$;   $\dfrac{x+4}{5}+\dfrac{33}{10}=(2+x)(2-x)$;   $\dfrac{4}{3}x(12-x)=45$.
 
 b) Scrivi l'equazione, calcola il valore del discriminante e trova le soluzioni, nei casi in cui i coefficienti della forma normale a, b, c abbiano i valori riportati di seguito:
@@ -152,8 +152,27 @@ a) Disegna con GEOGEBRA il grafico della parabola $y=\dfrac{1}{4}x^2-9$ e calcol
 
 
 
+### ESERCIZIO 6 - Equazioni di II Grado e Parabole Associate
 
-### ESERCIZIO 6 - Problemi sulla Parabola
+a) Discuti la presenza di una, due o nessuna soluzione delle equazioni seguenti dopo aver disegnato la parabola associata.
+
+$2x^2 + x = 0$;   $\dfrac{x^2}{4} - 81 = 0$;   $x^2 -5 = 0$;   $x^2 +x +1 = 0$;   $-x^2 +4x -4 = 0$;
+
+b) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
+
+1. $x^2-x$;   $-x^2-x$;   $x^2-4$; 
+2. $\dfrac{1}{4}x^2-9$;   $-\dfrac{5}{2}x^2-5x$;   $x^2+x+1$; (polinomi delle parabole dell'esercizio 5, punto a.3)).
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il primo punto dell'esercizio b.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
+
+1. $x^2-x \ge 0 $   &#9166; 
+
+
+
+
+### ESERCIZIO 7 - Problemi sulla Parabola
 
 a) Scrivi l'equazione della parabola che passa per tre punti nei casi riportati di seguito e fanne un grafico approssimativo.
 
@@ -175,21 +194,6 @@ a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA r
 3. $g: 1 = a(1)^2+b(1)+c$   &#9166;
 4. $s: Singola(Risolvi(\{e1,f,g\},\{a,b,c\}))$ &#9166;  
 5. $Sostituisci(y= ax^2 + bx+c,s)$ &#9166;  
-
-
-
-### ESERCIZIO 7 - Parabola ed Equazione di II Grado
-
-a) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
-
-1. $x^2-x$;   $-x^2-x$;   $x^2-4$; 
-2. $\dfrac{1}{4}x^2-9$;   $-\dfrac{5}{2}x^2-5x$;   $x^2+x+1$; (polinomi delle parabole dell'esercizio 5, punto a.3)).
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il primo punto dell'esercizio a.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
-
-1. $x^2-x \ge 0 $   &#9166; 
 
 
 
