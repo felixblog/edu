@@ -252,15 +252,7 @@ a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D.
 
 b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
 
-c) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
 
-1. $15 + 10 = ?(? + ?)$;
-2. $6 + 8 = ?(? + ?)$;
-3. $350 + 252 = ?(?+?)$.
-
-#### Esempio di SOLUZIONE
-
-c.1) $MCD(15, 10) \Rightarrow 5$,  $15:5 \Rightarrow 3$ e $10:5 \Rightarrow 2$, per cui $15 + 10 = 5(3 + 2)$.
 
 #### Laboratorio GEOGEBRA
 
@@ -272,4 +264,22 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 3. $\{MCM(\{24,25\}), \; MCD(\{24,25\})\}$&#9166;
 
-   
+
+
+
+### ESERCIZIO 13 - Evidenza del Fattore Comune
+
+a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
+
+1. $15 + 10 = ?(? + ?)$;
+2. $6 + 8 = ?(? + ?)$;
+3. $350 + 252 = ?(?+?)$.
+
+b) Scrivi le seguenti somme e differenze di numeri come prodotto, analogamente all'esercizio precedente.
+
+1. $2 + 4 + 6$;    $15 - 10$;
+2. $6 - 4 - 2$; $220 - 110 - 50 + 30$.
+
+#### Esempio di SOLUZIONE
+
+a.1) $MCD(15, 10) \Rightarrow 5$,  $15:5 \Rightarrow 3$ e $10:5 \Rightarrow 2$, per cui $15 + 10 = 5(3 + 2)$.

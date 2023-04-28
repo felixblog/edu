@@ -12,19 +12,19 @@ a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubbl
 
 La popolazione è l'insieme di tutti gli individui che si recano in una scuola della città (insegnanti, studenti, personale amministrativo e tecnico): ogni individuo è una unità statistica. I caratteri più rilevanti sono:
 
-- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: qualitativo, Livello Misurazione: categorico binario);
+- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: qualitativo/binario, Livello Misurazione: categorico);
 
 - Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: qualitativo, Livello Misurazione: categorico);
 
 - Età (modalità: numeri interi compresi tra 2 a 90; Tipo: quantitativo discreto, Livello Misurazione: rapporto);
 
-- Sesso (modalità: M, F; Tipo: qualitativo, Livello Misurazione: categorico binario);
+- Sesso (modalità: M, F; Tipo: qualitativo/binario, Livello Misurazione: categorico);
 
-- Distanza del Domicilio dalla Scuola: (modalità: numeri reali positivi, eventualmente ripartita in classi, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km; Tipo: quantitativo continuo, Livello Misurazione: rapporto);
+- Distanza del Domicilio dalla Scuola: (modalità: quantitativo/continuo, livello rapporto, eventualmente ripartita in classi, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km);
 
 - Motivazione del non utilizzo (Tipo: qualitativo, Livello Misurazione: nominale);
 
-- Grado di soddisfazione (modalità: intero positivo da 1 a 10; Tipo: qualitativo, Livello Misurazione: ordinale).
+- Grado di soddisfazione (modalità: qualitativo/categorico, valori da 1 a 10, Livello Misurazione: ordinale).
 
 
 b) Per effettuare un'indagine sull'utilizzo dei computer nella tua città, quali potrebbero essere i caratteri da rilevare? Quali le unità statistiche?  
@@ -117,6 +117,53 @@ b) Risolvi il punto a.2) dell'esercizio con una sequenza di operazioni analoga a
 c) Risolvi il punto a.1) dell'esercizio con lo strumento TABELLA PIVOT
 
 d) Risolvi il punto c.1) dell'esercizio prendendo ad esempio la sequenza di operazioni del punto a) del laboratorio.
+
+
+
+### ESERCIZIO 3 - Intensità Assolute e Relative
+
+Il direttore del personale di un’industria ha somministrato un breve questionario a 20 addetti nel quale si chiedeva:
+
+- La qualifica (Operaio, Impiegato, Quadro, Dirigente)
+- Il grado di pesantezza del lavoro svolto (1: ”poco faticoso”, 2: ”moderatamente faticoso”, 3: ”faticoso”, 4:”molto faticoso”, 5: ”estremamente faticoso”)
+- Il numero di figli a carico
+- La retribuzione media oraria (euro/h)
+- La disponibilità’ di un’auto propria (0: “no”, 1: “sì”)
+
+ La matrice dei dati è stata la seguente.
+
+| **Unità** | **Qualifica** | **Grado  Pesantezza** | **N.  Figli** | **Retribuzione** | **Disp.  Auto** |
+| --------- | ------------- | --------------------- | ------------- | ---------------- | --------------- |
+| 1         | Operaio       | 2                     | 0             | 22,5             | 0               |
+| 2         | Impiegato     | 2                     | 1             | 23,0             | 1               |
+| 3         | Operaio       | 3                     | 3             | 18,5             | 1               |
+| 4         | Impiegato     | 4                     | 2             | 18,3             | 1               |
+| 5         | Operaio       | 1                     | 0             | 15,0             | 0               |
+| 6         | Impiegato     | 3                     | 1             | 25,7             | 0               |
+| 7         | Impiegato     | 3                     | 0             | 24,2             | 1               |
+| 8         | Operaio       | 1                     | 2             | 16,7             | 1               |
+| 9         | Operaio       | 2                     | 2             | 17,9             | 1               |
+| 10        | Operaio       | 3                     | 1             | 15,0             | 0               |
+| 11        | Impiegato     | 4                     | 2             | 24,6             | 0               |
+| 12        | Impiegato     | 2                     | 0             | 26,8             | 1               |
+| 13        | Impiegato     | 3                     | 2             | 21,5             | 1               |
+| 14        | Dirigente     | 5                     | 2             | 50,3             | 1               |
+| 15        | Quadro        | 3                     | 2             | 23,6             | 1               |
+| 16        | Operaio       | 5                     | 2             | 18,4             | 1               |
+| 17        | Operaio       | 2                     | 1             | 18,9             | 0               |
+| 18        | Operaio       | 4                     | 0             | 19,4             | 0               |
+| 19        | Operaio       | 4                     | 3             | 19,3             | 1               |
+| 20        | Quadro        | 1                     | 1             | 26,0             | 0               |
+
+a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lavorativa è di 8 ore, calcola:
+
+1. La retribuzione mensile (intensità) per ciascuna unità;
+
+2. la distribuzione della retribuzione mensile per qualifica in assoluto ed in percentuale sul totale.
+
+b) Sono presenti altre intensità nella matrice dei dati?
+
+c) Considera le classi di retribuzione seguenti: 0|-18; 18|-25; 25|-40; 40|- , e calcola le frequenze assolute relativamente a tali classi.
 
 
 
