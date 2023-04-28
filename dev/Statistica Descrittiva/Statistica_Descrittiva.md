@@ -159,15 +159,13 @@ a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lav
 
 1. La retribuzione mensile (intensità) per ciascuna unità;
 
-2. la distribuzione della retribuzione mensile per qualifica in assoluto ed in percentuale sul totale.
+2. la distribuzione della retribuzione mensile per qualifica, in assoluto ed in percentuale sul totale.
 
-b) Sono presenti altre intensità nella matrice dei dati?
-
-c) Considera le classi di retribuzione seguenti: 0|-18; 18|-25; 25|-40; 40|- , e calcola le frequenze assolute relativamente a tali classi.
+b) Considera le classi di retribuzione seguenti: 0|-18; 18|-25; 25|-40; 40|- , e calcola le frequenze assolute di tali classi.
 
 
 
-### ESERCIZIO 3 - Grafici a Linee
+### ESERCIZIO 4 - Grafici a Linee
 
 a) Rappresenta con un diagramma cartesiano a linee la seguente tabella della rilevazione delle vendite di una ditta (in quintali) negli anni indicati.
 
@@ -192,7 +190,7 @@ Rappresenta in un diagramma cartesiano:
 
 
 
-### ESERCIZIO 4 - Grafici a Barre
+### ESERCIZIO 5 - Grafici a Barre
 
 a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a).
 
@@ -223,7 +221,7 @@ d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppi
 
 
 
-### ESERCIZIO 5 - Grafici a Torta
+### ESERCIZIO 6 - Grafici a Torta
 
 a) Rappresenta con un diagramma a torta le tabelle delle frequenze percentuali richieste nei punti 1., 2., 3., dell'esercizio 2.a). 
 
@@ -231,9 +229,9 @@ b) Calcola la ripartizione percentuale del numero degli occupati maschi e delle 
 
 
 
-### ESERCIZIO 6 - Grafici a Dispersione
+### ESERCIZIO 7 - Grafici a Dispersione
 
-a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) di un collettivo di aziende:
+a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) di un collettivo di 8 aziende:
 
 | Investimenti | 17,27    | 18,006   | 13,428   | 14,123   | 28,942   | 17,135   | 12,537   | 24,17    |
 | ------------ | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -261,7 +259,7 @@ c) Consideriamo il peso (in kg) e l'altezza (in cm) di 10 individui riportati ne
 
 
 
-### ESERCIZIO 7 - Serie e Tabelle Statistiche
+### ESERCIZIO 8 - Serie e Tabelle Statistiche
 
 a) La tabella seguente riporta tre anni di dati mensili delle vendite di un produttore di birra, in barili.
 
@@ -354,7 +352,7 @@ d)  Costruisci la distribuzione di intensità del fatturato per titolo di studio
 
 
 
-### ESERCIZIO 8 - Indicatori Statistici - Moda, Mediana, Media
+### ESERCIZIO 9 - Indici di Posizione Centrale - Moda, Mediana, Media
 
 a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
@@ -364,8 +362,7 @@ b) Per i primi 15 giorni di un mese viene rilevato il ritardo (in minuti) accumu
 | :---------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | **ritardo** |  10  |  15  |  -2  |  0   |  50  |  20  |  0   |  9   |  -5  |  8   |  10  |  20  |  6   |  10  | -10  |
 
-1. Calcola minimo, massimo, la moda, la mediana, la media aritmetica della distribuzione;
-2. Dopo aver raggruppato le osservazioni relative ai primi 15 giorni del mese nelle classi: [-10, 0]; (0, 10]; (10, 60] calcolare media e varianza in questa nuova situazione.
+Calcola minimo, massimo, la moda, la mediana, la media aritmetica della distribuzione;
 
 c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segue: 
 
@@ -373,18 +370,18 @@ c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segu
 | :-----------: | :--: | :---: | :---: | :--: | :---: | :---: | :---: | :---: |
 | **risparmio** | 500  | 5.000 | 2.600 |  0   | 9.200 | 3.000 | 5.400 | 6.300 |
 
-1. Determinare la media, la varianza, e la mediana.
+Determina moda, media e mediana.
 
 d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano presenti in Italia 5Ml di immigrati).
 
 ![F](img\Ind-Italia.png)
 
-1. Quale è la moda è la media?
+1. Individua la popolazione, il carattere esaminato, la tipologia di tabella su cui il grafico si basa.
 2. Se nel mondo sono presenti 218 nazionalità, quale è la percentuale che in media ha ogni altra nazionalità non rappresentata nel grafico?  
 
 
 
-### ESERCIZIO 9 - Esercizio Riassuntivo
+### ESERCIZIO 10 - Esercizio Riassuntivo
 
 Considera la tabella dei dati relativa ai 15 dipendenti di un’azienda. Per ciascun dipendente sono stati rilevati: Posizione professionale (1=Apprendista, 2=Operaio, 3=Impiegato, 4=Dirigente), Genere (1=Maschio, 2=Femmina), Numero di componenti del nucleo familiare, Ore di straordinario lavorate nel 2009 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Dipendenti.xlsx)):
 
