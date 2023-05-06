@@ -71,7 +71,7 @@ b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte de
 | ---------------------------------- | :------: | :-----------------: | :-----------: | :------------: |
 | MODALITA                           | A Scuola | Con corsi Specifici | Viaggi Studio | All'Università |
 | FREQUENZA ASSOLUTA                 |   400    |                     |      156      |       3        |
-| FREQUENZA RELATIVA (%)             |  53,54%  |                     |    20,89%     |     3,62%      |
+| FREQUENZA RELATIVA (%)             |  53,54%  |                     |    20,89%     |      0,4%      |
 
 c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (1=elevato, 2=medio, 3=basso), la zona di residenza (1=urbana, 2=periferica) e lo stato di salute (1=buono, 0=cattivo) ed il reddito. 
 
