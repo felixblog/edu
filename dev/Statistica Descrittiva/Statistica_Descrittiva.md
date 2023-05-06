@@ -161,7 +161,10 @@ a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lav
 
 2. la distribuzione della retribuzione mensile per qualifica, in assoluto ed in percentuale sul totale.
 
-b) Considera le classi di retribuzione seguenti: 0|-18; 18|-25; 25|-40; 40|- , e calcola le frequenze assolute di tali classi.
+b) Considera le classi di retribuzione (fascie) seguenti: 0|-18; 18|-25; 25|-40; 40|- , e calcola
+
+1. le frequenze assolute e relative di tali classi;
+2. la distribuzione della retribuzione mensile per fascia d'età.
 
 
 
@@ -192,7 +195,7 @@ Rappresenta in un diagramma cartesiano:
 
 ### ESERCIZIO 5 - Grafici a Barre
 
-a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a).
+a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a.
 
 b) Rappresenta mediante un istogramma la seguente tabella della rilevazione dei salari mensili di 250 operai di una ditta:
 
