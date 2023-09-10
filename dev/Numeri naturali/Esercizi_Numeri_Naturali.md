@@ -60,9 +60,17 @@ d) $6 − (15 : (2 + 3))$.
 
 a) Scrivi tutti i divisori di ciascuno dei numeri 6, 15, 18, 21, 24, 25;
 
-b) Scrivi i multipli minori di 100 dei numeri 25, 40, 33, 6;
+b) Scrivi i primi 4 multipli dei numeri 25, 40, 33, 6;
 
-c) Scrivi i multipli minori di 100 comuni ai numeri 6 e 8, 10 e 12, 15 e 16.   
+c) Scrivi i multipli minori di 100 dei numeri 25, 40, 33, 6;
+
+d) Scrivi i multipli minori di 60 (compreso) dei numeri 6, 8, 10, 12, 15 e 16;   
+
+e) Scrivi il primo multiplo comune ai numeri 6 e 8, 10 e 12, 15 e 16;
+
+f) Scrivi i multipli minori di 100 comuni ai numeri 6 e 8, 10 e 12;
+
+g) Scrivi tutti i divisori comuni ai numeri 18 e 24.
 
 #### Laboratorio GEOGEBRA
 
@@ -73,6 +81,13 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 3. $ListaDivisori(18)$&#9166;
 
 b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $Successione(25k, \; k, \; 1, \; 4))$;
+2. $Successione(40k, \; k, \; 1, \; 4))$;
+3. $Successione(33k, \; k, \; 1, \; 4))$;
+4. $Successione(6k, \; k, \; 1, \; 4))$;
+
+c) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $Successione(25k, \; k, \; 1, \; floor(\dfrac{100}{25}))$&#9166;
 2. $Successione(40k, \; k, \; 1, \; floor(\dfrac{100}{40}))$&#9166;
