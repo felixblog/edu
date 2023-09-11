@@ -51,15 +51,28 @@ b) Calcola il valore delle seguenti espressioni:
 
 ### ESERCIZIO 4 - Problemi con i numeri interi
 
-Scrivi le espressioni  (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
+Scrivi le espressioni (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
 
-a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione con il creditore, considerando positivamente i crediti e negativamente i debiti?
+a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
+
+b) In un campionato di calcio si ha la situazione di classifica seguente:
+
+| Squadra    | Punti |
+| :--------- | ----- |
+| Inter      | 45    |
+| Juventus   | 41    |
+| Roma       | 40    |
+| Atalanta   | 33    |
+| Napoli     | 29    |
+| Fiorentina | 25    |
+
+Indicando con un numero positivo il distacco tra una squadra e le inseguitrici e con un numero negativo il distacco con le precedenti, scrivi i distacchi dell'Atalanta e della Juventus. Quale è il nuovo distacco dell'Atalanta dalla Juventus se la prima dimezza il distacco esistente? 
 
 b) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
 1. vincita di 40 punti con il primo giocatore; perdita di 170 punti con il secondo giocatore; vincita di 10 punti con il terzo giocatore;
 2. vincita di 60 punti con ciascun giocatore.
 
-Qual è la mia situazione attualmente?
+Qual è la mia situazione alla fine delle partite?
 
 
 

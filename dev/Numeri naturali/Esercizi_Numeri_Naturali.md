@@ -3,7 +3,7 @@
 
 ### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 
-a) Per tutte le espressioni riportate di seguito, elenca le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato.  
+a) Per tutte le espressioni riportate di seguito, individua i numeri e le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato.  
 
 1. $6 - 3;\enspace 6 : 3;\enspace 6 + 3;\enspace 6 · 3$;
 
@@ -17,7 +17,7 @@ a) Per tutte le espressioni riportate di seguito, elenca le operazioni coinvolte
 
 6. $16 : 4 · 8$  
 
-b) Per tutte le espressioni riportate di seguito, elenca le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato. 
+b) Per tutte le espressioni riportate di seguito, individua i numeri e le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato. 
 
 1. $4 + 6·9$;  
 2. $(4 + 6)·9$;
