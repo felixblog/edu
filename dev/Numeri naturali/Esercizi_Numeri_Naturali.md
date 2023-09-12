@@ -19,10 +19,11 @@ a) Per tutte le espressioni riportate di seguito, individua i numeri e le operaz
 
 b) Per tutte le espressioni riportate di seguito, individua i numeri e le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato. 
 
-1. $4 + 6·9$;  
+1. $4 + 6·9$;
 2. $(4 + 6)·9$;
-3. $15 + 20 : 4 − 2$;
-4. $15 + 20 : (4 − 2)$;  
+3. $4 + (6·9)$;
+4. $15 + 20 : 4 − 2$;
+5. $15 + 20 : (4 − 2)$;  
 
 #### Laboratorio GEOGEBRA
 
@@ -87,12 +88,15 @@ b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 3. $Successione(33k, \; k, \; 1, \; 4))$;
 4. $Successione(6k, \; k, \; 1, \; 4))$;
 
-c) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $Successione(25k, \; k, \; 1, \; floor(\dfrac{100}{25}))$&#9166;
-2. $Successione(40k, \; k, \; 1, \; floor(\dfrac{100}{40}))$&#9166;
-3. $Successione(33k, \; k, \; 1, \; floor(\dfrac{100}{33}))$&#9166;
-4. $Successione(6k, \; k, \; 1, \; floor(\dfrac{100}{6}))$&#9166;
+1. $a=floor(\dfrac{100}{25}))$&#9166;
+
+​       $Successione(25k, \; k, \; 1, \; a)$&#9166;
+
+2. $b=floor(\dfrac{100}{40}))$&#9166;
+
+   $Successione(40k, \; k, \; 1, \; b)$&#9166;
 
 
 
@@ -286,8 +290,8 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
 
-1. $15 + 10 = ?(? + ?)$;
-2. $6 + 8 = ?(? + ?)$;
+1. $15 + 10 = ?(? + ?)$;        $[R. \,\, 5(3+2)]$.  
+2. $6 + 8 = ?(? + ?)$;        $[R. \,\, 2(3+4)]$.  
 3. $350 + 252 = ?(?+?)$.
 
 b) Scrivi le seguenti somme e differenze di numeri come prodotto, analogamente all'esercizio precedente.

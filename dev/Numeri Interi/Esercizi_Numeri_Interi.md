@@ -69,15 +69,18 @@ b) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho re
 
 c) In un campionato di calcio si ha la situazione di classifica seguente:
 
-| Squadra    | Punti |
-| :--------- | ----- |
-| Inter      | 45    |
-| Juventus   | 41    |
-| Roma       | 40    |
-| Atalanta   | 33    |
-| Napoli     | 29    |
-| Fiorentina | 25    |
-
+$$
+\begin{array}{l|c}
+		\textbf{SQUADRA} & \textbf{PUNTI} \\
+        \hline        
+        Inter & 45 		\\
+        Juventus & 41 	\\
+        Roma & 40  		\\
+        Atalanta & 33  	\\
+        Napoli & 29 	\\
+        Fiorentina & 25 \\
+        \end{array}
+$$
 Indicando con un numero positivo il distacco tra una squadra e le inseguitrici e con un numero negativo il distacco con le precedenti, scrivi i distacchi dell'Atalanta e della Juventus. Quale è il nuovo distacco dell'Atalanta dalla Juventus se la prima dimezza il distacco esistente? 
 
 d) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
