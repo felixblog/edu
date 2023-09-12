@@ -4,7 +4,24 @@
 
 # I Numeri Interi
 
-### ESERCIZIO 1 - Ordinamento dei numeri interi
+### ESERCIZIO 1 - Rappresentazione dei numeri interi
+
+Rappresenta su una retta orientata i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6.$
+
+#### Soluzione
+
+![Esercizio-1](img\Esercizio-1.png)
+
+#### Laboratorio GEOGEBRA
+
+Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti:
+
+$\{(+3,0), (-7,0), (+4,0), (-2,0), (0,0), (+1,0), (-6,0)\}$&#9166;
+
+
+
+### ESERCIZIO 2 - Ordinamento dei numeri interi
+
 Scrivi in ordine:
 
 a) crescente i numeri $-6, +9, -1, +7, -2, -4;$ 
@@ -16,22 +33,8 @@ b) decrescente i numeri $+8, -3, 0, -5, +4, -11.$
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice ALGEBRA):
 
 1. $Ordina(\{-6,9,-1,7,-2,-4\})$&#9166;
-
 2. $l = Ordina(\{+8, -3, 0, -5, +4, -11\})$&#9166;
-
 3. $Inverti(l)$&#9166;
-
-   
-
-### ESERCIZIO 2 - Rappresentazione dei numeri interi
-
-Rappresenta su una retta orientata i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6.$
-
-#### Laboratorio GEOGEBRA
-
-Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti:
-
-1. $l = \{(+3,0), (-7,0), (+4,0), (-2,0), (0,0), (+1,0), (-6,0)\}$&#9166;
 
 
 
@@ -49,13 +52,22 @@ b) Calcola il valore delle seguenti espressioni:
 
 
 
-### ESERCIZIO 4 - Problemi con i numeri interi
+### ESERCIZIO 4 - Problemi con i numeri interi I
 
-Scrivi le espressioni (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
+Scrivi le espressioni (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
 
-a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
+a) Una lumaca cammina lungo una linea dritta verso destra per 7 cm, poi si gira e cammina verso sinistra per 2 cm, poi si gira e cammina verso destra per 5 cm, poi ancora una volta si gira e cammina per 12 cm verso destra.
 
-b) In un campionato di calcio si ha la situazione di classifica seguente:
+Indicando con un numero positivo ogni spostamento verso destra e con uno negativo gli spostamenti verso sinistra calcolare:
+
+1. lo spostamento totale della lumaca dal punto di partenza;
+2. la distanza totale percorsa dalla lumaca.
+
+![e](img\lumache.png) 
+
+b) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
+
+c) In un campionato di calcio si ha la situazione di classifica seguente:
 
 | Squadra    | Punti |
 | :--------- | ----- |
@@ -68,7 +80,7 @@ b) In un campionato di calcio si ha la situazione di classifica seguente:
 
 Indicando con un numero positivo il distacco tra una squadra e le inseguitrici e con un numero negativo il distacco con le precedenti, scrivi i distacchi dell'Atalanta e della Juventus. Quale è il nuovo distacco dell'Atalanta dalla Juventus se la prima dimezza il distacco esistente? 
 
-b) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
+d) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
 1. vincita di 40 punti con il primo giocatore; perdita di 170 punti con il secondo giocatore; vincita di 10 punti con il terzo giocatore;
 2. vincita di 60 punti con ciascun giocatore.
 
@@ -93,7 +105,7 @@ b) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi il prodotto
 1. $(2, 8)$;   $(+5, 8)$;   $(5, -8)$;   $(-5, -8)$;
 2. $(-2, 0)$;   $(0, -2)$;   $(+4, -4)$;   $(-4, +4)$;
 
-
+c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e si muove del doppio della distanza iniziale verso destra, quindi si gira e si muove del triplo della distanza iniziale ancora verso sinistra. Calcolare lo spostamento della lumaca prima di ogni cambiamento di direzione e scrivere l'espressione che ci dà lo spostamento totale.
 
 ### ESERCIZIO 6 - Relazioni di uguaglianza e disuguaglianza
 
