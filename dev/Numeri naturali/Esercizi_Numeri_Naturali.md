@@ -3,7 +3,7 @@
 
 ### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 
-a) Per tutte le espressioni riportate di seguito, individua i numeri e le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato.  
+a) Trova quanti numeri e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $6 - 3;\enspace 6 : 3;\enspace 6 + 3;\enspace 6 · 3$;
 
@@ -17,7 +17,7 @@ a) Per tutte le espressioni riportate di seguito, individua i numeri e le operaz
 
 6. $16 : 4 · 8$  
 
-b) Per tutte le espressioni riportate di seguito, individua i numeri e le operazioni coinvolte, il loro ordine di esecuzione e calcola il relativo risultato. 
+b) Trova quanti numeri e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $4 + 6·9$;
 2. $(4 + 6)·9$;
@@ -27,7 +27,7 @@ b) Per tutte le espressioni riportate di seguito, individua i numeri e le operaz
 
 #### Laboratorio GEOGEBRA
 
-Inserisci le espressioni in GEOGEBRA e calcola il risultato. 
+Inserisci le espressioni in GEOGEBRA e calcola il risultato. Ricordare che in GEOGEBRA la divisione si indica con la linea orizzontale (frazione). 
 
 
 
@@ -90,9 +90,9 @@ b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $a=floor(\dfrac{100}{25}))$&#9166;
+1. $a=floor(\dfrac{100}{25}))$&#9166;    		// Parte intera della divisione tra 100 e 25 
 
-​       $Successione(25k, \; k, \; 1, \; a)$&#9166;
+​       $Successione(25k, \; k, \; 1, \; a)$&#9166;	// Lista dei multipli
 
 2. $b=floor(\dfrac{100}{40}))$&#9166;
 
@@ -124,22 +124,20 @@ g) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 ### ESERCIZIO 6 - Operazioni ed espressioni (II)
 
-Calcola il valore delle seguenti espressioni.  
+a) Trova quanti numeri e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-a) $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]$;
+1. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]$;
+2. $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10]$;
+3. $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10]$;
 
-b) $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10]$;
+b) Calcola il valore delle seguenti espressioni.
 
-c) $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10]$;
-
-d) $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} ) \enspace\enspace\enspace[R. 16]$;
-
-e) $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21]$;
-
-f) $ ((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))\enspace\enspace\enspace[R. 12]$  
+1. $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} ) \enspace\enspace\enspace[R. 16]$;
+2. $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21]$;
+3. $((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))\enspace\enspace\enspace[R. 12]$  
 
 #### Laboratorio GEOGEBRA
-Inserisci in GEOGEBRA le espressioni dei punti b) e c) dell'esercizio e calcola il risultato. 
+Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il risultato. 
 
 
 

@@ -55,11 +55,13 @@ c) Rispondi alle seguenti domande scrivendo la frazione richiesta.
 
 
 
-### ESERCIZIO 2 - Frazioni equivalenti
+### ESERCIZIO 2 - Frazioni equivalenti e riduzione ai minimi termini
 
-Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di 1.  
+a) Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di 1.  
 
 $[\dfrac{4}{5},\dfrac{8}{10}];\:[\dfrac{6}{2},\dfrac{10}{4}];\:[\dfrac{0}{15},\dfrac{2}{30}];\:[\dfrac{1}{8},\dfrac{2}{9}];\:[\dfrac{0}{20},\dfrac{0}{40}];$  
+
+b) Riduci ai minimi termini le frazioni del punto a). 
 
 
 
@@ -147,27 +149,34 @@ d) $-\dfrac{8}{3}+5-\dfrac{2}{5};\:12-\dfrac{1}{3}-\dfrac{1}{9}.$
 
 ### ESERCIZIO 10 - Espressioni con somme di frazioni
 
-Calcola il valore delle seguenti espressioni.  
+a) Trova quante frazioni e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-a) $3-\dfrac{1}{2}+\left[\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right]-1;\:\dfrac{1}{10}-\dfrac{3}{5}+\left[\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right]-\left(\dfrac{6}{5}+3\right);$    $[R. \dfrac{37}{20};-1]$  
+1. $3-\dfrac{1}{2}+\left[\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right]-1$;    $[R. \dfrac{37}{20}]$  
+2. $\dfrac{1}{10}-\dfrac{3}{5}+\left[\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right]-\left(\dfrac{6}{5}+3\right);$    $[R.-1]$  
 
-b) $-\left(1+2\right)-\left(\dfrac{1}{12}+\dfrac{1}{2}\right)+\left(\dfrac{5}{2}+\dfrac{4}{3}\right)-\left[\dfrac{1}{6}+\left(-\dfrac{5}{4}-\dfrac{1}{3}\right)-1\right];$  
+b) Calcola il valore delle seguenti espressioni.  
 
-c) $7-\left[\left(3+\dfrac{1}{5}-\dfrac{3}{4}-2\right)-\left(\dfrac{2}{5}-6+\dfrac{3}{4}-\dfrac{1}{2}\right)\right]+\dfrac{6}{5}-\left(\dfrac{7}{20}+\dfrac{1}{20}\right).$     $[R. 2]$  
+1. $-\left(1+2\right)-\left(\dfrac{1}{12}+\dfrac{1}{2}\right)+\left(\dfrac{5}{2}+\dfrac{4}{3}\right)-\left[\dfrac{1}{6}+\left(-\dfrac{5}{4}-\dfrac{1}{3}\right)-1\right];$
+2. $7-\left[\left(3+\dfrac{1}{5}-\dfrac{3}{4}-2\right)-\left(\dfrac{2}{5}-6+\dfrac{3}{4}-\dfrac{1}{2}\right)\right]+\dfrac{6}{5}-\left(\dfrac{7}{20}+\dfrac{1}{20}\right).$     $[R. 2]$  
 
 
 
 ### ESERCIZIO 11 - Espressioni con le quattro operazioni tra frazioni
 
-Calcola il valore delle seguenti espressioni.
+a) Calcola il valore delle seguenti espressioni.
 
-a) $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right);\:\dfrac{2}{5}\cdot\left(-\dfrac{15}{4}\right)\cdot\left(-\dfrac{2}{3}\right);\:\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right);$     $[R. \dfrac{2}{9};1;3]$  
+1. $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right)$;    $[R. \dfrac{2}{9}]$  
+2. $\dfrac{2}{5}\cdot\left(-\dfrac{15}{4}\right)\cdot\left(-\dfrac{2}{3}\right)$;    $[R. 1]$  
+3. $\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right);$     $[R. 3]$  
+4. $\dfrac{2}{4}:\dfrac{1}{2}$;
+5. $\dfrac{4}{5}:\left(-\dfrac{12}{25}\right)$;
+6. $\dfrac{2}{5}:4$;
+7. $\left(-1\right):\left(-5\right)$.   
 
-b) $\dfrac{2}{4}:\dfrac{1}{2};\:\dfrac{4}{5}:\left(-\dfrac{12}{25}\right);\:\dfrac{2}{5}:4;\:\left(-1\right):\left(-5\right);$   
+b) Trova quante frazioni e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-c) $\left(3-\dfrac{3}{11}\right):\left(\dfrac{3}{2}-\dfrac{4}{11}\right);\:\left(+7\right):\left(+3\right)\cdot\left(-5\right);\:\left(+7\right):\left[\left(+3\right)\cdot\left(-5\right)\right].$     $[R. \dfrac{12}{5};-\dfrac{35}{3};-\dfrac{7}{15}]$;
-
-d) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right);\:\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$     $[R. -7;\dfrac{15}{2}]$
+1. $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$;     $[R. -7]$
+2. $\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$     $[R.\dfrac{15}{2}]$
 
 
 
@@ -323,15 +332,15 @@ a) Calcola il valore delle seguenti espressioni applicando le proprietà delle p
 
 ### ESERCIZIO 20 - Espressioni con le frazioni
 
-Calcola il valore delle seguenti espressioni contenenti potenze.
+a)  Trova quante frazioni e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-a) $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \left(\dfrac{23}{5}\right)^2]$
+1. $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \left(\dfrac{23}{5}\right)^2]$
+2. $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. \dfrac{7}{9}]$
 
-b) $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. \dfrac{7}{9}]$
+b)  Calcola il valore delle seguenti espressioni contenenti potenze.
 
-c) $\dfrac{29}{25}:\left\{ \left[\dfrac{1}{2}+\left(1+\dfrac{1}{5}\right)^{2}\left(1-\dfrac{1}{6}\right)-\left(\dfrac{1}{2}\right)^{2}\right]^{2}\left(1+\dfrac{3}{5}\right)^{2}\right\};$     $[R.  \dfrac{25}{116}]$
-
-d) $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\left(\dfrac{11}{20}+\dfrac{7}{4}\right)\right\} ^{2}\text{·}\left[\left(\dfrac{10}{7}\right)^{2}\text{·}\left(\dfrac{10}{7}\right)\right]^{0}:\left(\dfrac{10}{7}\right)^{2};$    $ [R. 1]$
+1. $\dfrac{29}{25}:\left\{ \left[\dfrac{1}{2}+\left(1+\dfrac{1}{5}\right)^{2}\left(1-\dfrac{1}{6}\right)-\left(\dfrac{1}{2}\right)^{2}\right]^{2}\left(1+\dfrac{3}{5}\right)^{2}\right\};$     $[R.  \dfrac{25}{116}]$
+2. $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\left(\dfrac{11}{20}+\dfrac{7}{4}\right)\right\} ^{2}\text{·}\left[\left(\dfrac{10}{7}\right)^{2}\text{·}\left(\dfrac{10}{7}\right)\right]^{0}:\left(\dfrac{10}{7}\right)^{2};$    $ [R. 1]$
 
 
 

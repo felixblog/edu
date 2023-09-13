@@ -40,12 +40,12 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 ### ESERCIZIO 3 - Espressioni con somme algebriche I
 
-a) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica e calcola il risultato
+a) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica e calcola il risultato.
 
 1. $(+2, +8)$;   $(+5, -8)$;   $(-5, +8)$;   $(-5, -8)$;
 2. $(0, +2)$;   $(-2, 0)$;   $(+4, -4)$;   $(-4, +4)$;
 
-b) Calcola il valore delle seguenti espressioni:
+b) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $+5-9; -2+6;\enspace 12-19+6;\enspace -5-9-10;$  
 1. $1 + 2 + 3 - 3 - 2 - 1 - 0$;   $+1 - 1 + 1 - 1 + 1$;   $1 - 2 + 3 - 4 + 5 - 6$.
@@ -93,11 +93,11 @@ Qual è la mia situazione alla fine delle partite?
 
 ### ESERCIZIO 5 - Prodotti e quozienti
 
-a) Calcola i seguenti prodotti e quozienti:
+a) Calcola i seguenti prodotti e quozienti (quanti numeri ed operazioni contiene ciascuna espressione?):
 
-1. $(+8)\text{·}(-6)$;   $-5\text{·}(-8);$   $-5(-8)$;   $-(5)$;   $-(5)8$;
+1. $-5\text{·}(-8);$   $-5(-8)$;   $-(5)$;   $-(5)8$;   $5 \cdot (-8)$;   $+(5) \cdot 8$
 
-2. $+4\cdot 8 \cdot (-2)$;   $-(-12) \cdot (-5)$;  
+2. $+4\cdot 8 \cdot (-2)$;   $-(-12) \cdot (-5)$;   
 
 3. $(+15):(+3);\enspace (+15):(-3);$ 
 
@@ -122,7 +122,7 @@ b) $2+3\text{·}(-1)=11-5-7;\enspace 3^{2}-2\text{·}3-1=\left(3-2\right)^{2}$
 
 ### ESERCIZIO 7 - Espressioni e parentesi
 
-a) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le queste espressioni senza tali parentesi e di tutte calcola il valore.
+a) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le queste espressioni senza parentesi inutili e di tutte calcola il valore.
 
 1. $4+(3-2)+1$;    $-1(2-3)+5(-6)$;    $(2-3)-1-6\cdot 5$;
 2. $(+4)+(+5-9)$;    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
@@ -242,7 +242,7 @@ d) Moltiplica la somma del quadruplo di $a$ e del triplo di $b$ per la somma del
 
 ### ESERCIZIO 12 - Espressioni con i numeri interi
 
-a) Calcola il valore delle seguenti espressioni.
+a) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
 
@@ -264,7 +264,7 @@ b) Calcola il valore delle seguenti espressioni.
 
 4. $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
 
-c) Calcola il valore delle seguenti espressioni contenenti delle potenze.
+c) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
 
@@ -272,18 +272,18 @@ c) Calcola il valore delle seguenti espressioni contenenti delle potenze.
 
 3. $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right). \enspace\enspace\enspace [R. 2];$  
 
-4. $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}.     \enspace\enspace\enspace [R. +25];$  
+d) Calcola il valore delle seguenti espressioni.
 
-5. $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
-
-6. $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
+1. $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}.     \enspace\enspace\enspace [R. +25];$  
+2. $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
+3. $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
 
 
 
 ### ESERCIZIO 13 - Proprietà delle potenze
 Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.  
 
-a) $(6^{3}:6\text{·}6^{2})^{2};\enspace \:(2^{3})^{4}:4^{4};\enspace \:(4\text{·}3^{2})^{3}$ [sostituisci $4$ con $2^2$];
+a) $(6^{3}:6\text{·}6^{2})^{2};\enspace \:(2^{3})^{4}:4^{4};\enspace \:(4\text{·}3^{2})^{3}$     [Suggerimento: sostituisci $4$ con $2^2$];
 
 b) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};\enspace \:-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
 
