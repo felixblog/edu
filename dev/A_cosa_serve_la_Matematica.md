@@ -1,6 +1,6 @@
 ## FINALITÀ DELL'INSEGNAMENTO DELLA MATEMATICA
 
-Questo insegnamento, in completa e convinta aderenza alle finalità ed agli obiettivi enunciati nei piani di studio della scuola secondaria superiore proposti dalla commissione Brocca, si propone di sviluppare: 
+Questo insegnamento, in completa e convinta aderenza alle finalità ed agli obiettivi enunciati nei piani di studio della scuola secondaria superiore proposti dalla commissione Brocca (riportate di seguito), si propone di sviluppare: 
 • le capacità intuitive e logiche; 
 • la capacità di utilizzare procedimenti euristici; 
 • la maturazione dei processi di astrazione e di formazione dei concetti; 

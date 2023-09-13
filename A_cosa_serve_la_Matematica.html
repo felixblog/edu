@@ -3,10 +3,11 @@
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 
-<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
 .mac-os-11 { --title-bar-height:28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; }
 iframe { margin: auto; }
 a.url { word-break: break-all; }
 a:active, a:hover { outline: 0px; }
@@ -22,8 +23,6 @@ body.typora-export { padding-left: 30px; padding-right: 30px; }
 @media screen and (max-width: 500px) {
   body.typora-export { padding-left: 0px; padding-right: 0px; }
   #write { padding-left: 20px; padding-right: 20px; }
-  .CodeMirror-sizer { margin-left: 0px !important; }
-  .CodeMirror-gutters { display: none !important; }
 }
 #write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
@@ -51,7 +50,7 @@ sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inh
 #write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
 figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
 figure > table { margin: 0px; }
-tr { break-inside: avoid; break-after: auto; }
+thead, tr { break-inside: avoid; break-after: auto; }
 thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
 table.md-table td { min-width: 32px; }
@@ -73,6 +72,7 @@ div.hr:focus { cursor: none; }
 #write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
 .md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
 .CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
 .footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
 .footnotes + .footnotes { margin-top: 0px; }
 .md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
@@ -87,12 +87,14 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
 #write .footnote-line { white-space: pre-wrap; }
 @media print {
   body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
   .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
   .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
 }
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
 a img, img a { cursor: pointer; }
@@ -130,6 +132,7 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
 }
 a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
 .footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
 .md-attr { display: none; }
 .md-fn-count::after { content: "."; }
 code, pre, samp, tt { font-family: var(--monospace); }
@@ -168,7 +171,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 @media screen and (max-width: 800px) {
   .typora-export-sidebar { display: none; }
 }
-.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; overflow-wrap: anywhere; }
 .outline-content ul { margin-top: 0px; margin-bottom: 0px; }
 .outline-content strong { font-weight: 400; }
 .outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
@@ -199,6 +202,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
 .typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
 .md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
 
 
 :root {
@@ -206,7 +210,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
     --control-text-color: #777;
 }
 
-@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+@include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
 
 /* open-sans-regular - latin-ext_latin */
   /* open-sans-italic - latin-ext_latin */
@@ -457,11 +461,8 @@ code {
     html {
         font-size: 13px;
     }
-    table,
     pre {
         page-break-inside: avoid;
-    }
-    pre {
         word-wrap: break-word;
     }
 }
@@ -593,7 +594,7 @@ header, .context-menu, .megamenu-content, footer{
 </style><title>A_cosa_serve_la_Matematica</title>
 </head>
 <body class='typora-export os-windows'><div class='typora-export-content'>
-<div id='write'  class=''><h2 id='finalità-dellinsegnamento-della-matematica'><span>FINALITÀ DELL&#39;INSEGNAMENTO DELLA MATEMATICA</span></h2><p><span>Questo insegnamento, in completa e convinta aderenza alle finalità ed agli obiettivi enunciati nei piani di studio della scuola secondaria superiore proposti dalla commissione Brocca, si propone di sviluppare: </span>
+<div id='write'  class=''><h2 id='finalità-dellinsegnamento-della-matematica'><span>FINALITÀ DELL&#39;INSEGNAMENTO DELLA MATEMATICA</span></h2><p><span>Questo insegnamento, in completa e convinta aderenza alle finalità ed agli obiettivi enunciati nei piani di studio della scuola secondaria superiore proposti dalla commissione Brocca (riportate di seguito), si propone di sviluppare: </span>
 <span>• le capacità intuitive e logiche; </span>
 <span>• la capacità di utilizzare procedimenti euristici; </span>
 <span>• la maturazione dei processi di astrazione e di formazione dei concetti; </span>
@@ -603,6 +604,6 @@ header, .context-menu, .megamenu-content, footer{
 <span>• la capacità di ragionamento coerente ed argomentato; </span>
 <span>• la consapevolezza degli aspetti culturali e tecnologici emergenti dei nuovi mezzi informatici; </span>
 <span>• l&#39;interesse per il rilievo storico di alcuni importanti eventi nello sviluppo del pensiero matematico. </span></p><p><span>La matematica, parte rilevante del pensiero umano ed elemento motore dello stesso pensiero filosofico, ha in ogni tempo operato su due fronti: da una parte si è rivolta a risolvere problemi ed a rispondere ai grandi interrogativi che via via l&#39;uomo si poneva sul significato della realtà che lo circonda; dall&#39;altra, sviluppandosi autonomamente, ha posto affascinanti interrogativi sulla portata, il significato e la consistenza delle sue stesse costruzioni culturali. </span>
-<span>Coerentemente con questo processo, l&#39;insegnamento della matematica si è sempre orientato, e continua ad orientarsi, in due distinte direzioni: da una parte &#39;leggere il libro della natura&#39; e matematizzare la realtà esterna; dall&#39;altra simboleggiare e formalizzare i propri strumenti di lettura attraverso la costruzione di modelli interpretativi. Queste due direzioni confluiscono, intrecciandosi ed integrandosi con reciproco vantaggio, in un unico risultato: </span><strong><span>la formazione e la crescita dell&#39;intelligenza degli studenti</span></strong><span>. </span></p><p>&nbsp;</p></div></div>
+<span>Coerentemente con questo processo, l&#39;insegnamento della matematica si è sempre orientato, e continua ad orientarsi, in due distinte direzioni: da una parte &#39;leggere il libro della natura&#39; e matematizzare la realtà esterna; dall&#39;altra simboleggiare e formalizzare i propri strumenti di lettura attraverso la costruzione di modelli interpretativi. Queste due direzioni confluiscono, intrecciandosi ed integrandosi con reciproco vantaggio, in un unico risultato: </span><strong><span>la formazione e la crescita dell&#39;intelligenza degli studenti</span></strong><span>. </span></p></div></div>
 </body>
 </html>
