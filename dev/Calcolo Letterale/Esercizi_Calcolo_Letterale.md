@@ -209,20 +209,22 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 ### ESERCIZIO 10 - Espressioni letterali
 
-a) Semplifica le seguenti espressioni tra monomi.
+a) Trova quanti monomi in forma normale e quante operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
 1. $a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$; 
 2. $\left(-2x\right)\left(-\dfrac{1}{2}y\right)+\left(-2y\right)x+xy+y\left(-x\right)+2xy+y\left(-x\right)$;
 3. $x^{2}+7x^{2}-2\left(-x^{2}\right)+2\left(-4\right)x^{2}+2x^{2}-2x^{2}+x^{2}-x\left(2x\right)+4x^{2}-2\left(2x^{2}\right)$.
 
-b) Semplifica le seguenti espressioni letterali.
+b) Trova quanti monomi in forma normale e quante operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
-1.  $ab\left(-\dfrac{1}{2}\right)a^{2} \cdot \dfrac{2}{5a^2}\dfrac{3}{b}$;   $abcde \cdot \dfrac{5}{ace}$;
-2. $\dfrac{5}{3}b\left(-4\right)a : \dfrac{ab^2x}{3}$;   $a + 2a^2 \cdot \dfrac{2}{3a^2}$.
+1.  $ab\left(-\dfrac{1}{2}\right)a^{2} \cdot \dfrac{2}{5a^2}\dfrac{3}{b}$;
+2.  $abcde \cdot \dfrac{5}{ace}$;
+3.  $\dfrac{5}{3}b\left(-4\right)a : \dfrac{ab^2x}{3}$;
+4.  $a + 2a^2 \cdot \dfrac{2}{3a^2}$.
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a.1) esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
+a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
 
 
 

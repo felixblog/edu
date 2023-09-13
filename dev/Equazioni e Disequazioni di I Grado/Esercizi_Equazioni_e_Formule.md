@@ -25,11 +25,17 @@ i) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
 
 #### Laboratorio GEOGEBRA
 
-Risolvi i punti dell'esercizio con la sequenza di comandi GEOGEBRA riportata nell'esempio seguente.
+a) Risolvi i punti a), b), c) dell'esercizio con il comando GEOGEBRA seguente:
 
-1. $e1: x + 12 = 28$ &#9166; 
-2. $e2:Sostituisci(e1, \{x=6\})$ &#9166; 
-3. $PrimoMembro(e1) == SecondoMembro(e2)$ &#9166;
+1. $Sostituisci(x + 12 = 28, x=6)$ &#9166; 
+
+b) Risolvi i punti e), f), g) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+1. $e1: 0,5x = 2,9$ &#9166; 
+2. $s1: Sostituisci(e1, x=5)$ &#9166; 
+3. $PrimoMembro(s1) == SecondoMembro(s1)$ &#9166;
+
+Controlla che il comando $PrimoMembro(s1)$&#9166; fornisce $\dfrac{5}{2} \approx 2,5$ mentre $SecondoMembro(s1)$&#9166; fornisce $\dfrac{29}{10} \approx 2,9$  
 
 
 
@@ -77,34 +83,35 @@ b) Regola della moltiplicazione/divisione e regola della semplificazione.
 
 ### ESERCIZIO 3 - Risoluzione di equazioni
 
-Risolvi le seguenti equazioni scrivendo a fianco di ogni passaggio la proprietà dell'uguaglianza utilizzata.
+a) Risolvi le seguenti equazioni scrivendo a fianco di ogni passaggio la proprietà dell'uguaglianza utilizzata.
 
-a) $2x + 5 = 17;\enspace 5q - 2 = 23$   
+1. $2x + 5 = 17$;     $5q - 2 = 23$;
+2. $-55 = 3w + 5$;    $\dfrac{5}{6}k - 5 = 10$;
+3. $\dfrac{x}{5} - 5 = -12$;     $-5 - 2d = 0$;
+4. $0.7 - 4y = 1.7$;     $0.3 - 2x = -0.9$;
+5. $3\left(2y - 2\right) - y = 5$;     $-\left(4 -m\right) = -10$;
+6. $5x = 4x + 7$;     $7 + 3w = 4 + 9w$   
 
-b) $-55 = 3w + 5;\enspace \dfrac{5}{6}k - 5 = 10$   
+b) Risolvi le seguenti equazioni scrivendo a fianco di ogni passaggio la proprietà dell'uguaglianza utilizzata.
 
-c) $\dfrac{x}{5} - 5 = -12;\enspace -5 - 2d = 0$   
-
-d) $0.7 - 4y = 1.7;\enspace 0.3 - 2x = -0.9$  
-
-e) $3\left(2y - 2\right) - y = 5;\enspace -\left(4 -m\right) = -10$   
-
-f) $5x = 4x + 7;\enspace 7 + 3w = 4 + 9w$   
-
-g) $\dfrac{1}{8}y - \dfrac{1}{2} = \dfrac{1}{4};\enspace \dfrac{2}{3} = -\dfrac{2}{3}x + \dfrac{3}{4}$   
-
-h) $\dfrac{10 - 5s}{3} = s;\enspace \dfrac{5\left(1 - x\right)}{6} = -x + 1$   
-
-i) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3};\enspace \dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
+1. $\dfrac{1}{8}y - \dfrac{1}{2} = \dfrac{1}{4}$;
+2. $\dfrac{2}{3} = -\dfrac{2}{3}x + \dfrac{3}{4}$   
+3. $\dfrac{10 - 5s}{3} = s$;
+4. $\dfrac{5\left(1 - x\right)}{6} = -x + 1$   
+5. $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3}$;
+6. $\dfrac{x - 4}{2} + 3 = \dfrac{x - 2}{4}$
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi la prima equazione del punto a) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+a) Risolvi le equazioni del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $e1: 2x + 5 = 17$ &#9166; 
-2. $Risolvi(e1, \{x\})$ &#9166; 
+1. $Risolvi(2x + 5 = 17, x)$ &#9166; 
+2. $Risolvi(5q - 2 = 23, q)$ &#9166;  
 
-b) Risolvi i punti c) ed i) dell'esercizio con sequenze di comandi GEOGEBRA analoghi a quelli del punto a). Ricorda di utilizzare altre etichette per indicare le equazioni ($e2, e3$, etc.).
+b) Risolvi le equazioni del punto b) con sequenze di comandi GEOGEBRA analoghe a quella seguente (Ricorda di utilizzare altre etichette ($e2, e3$, etc.) per indicare le equazioni).
+
+1. $e1: \dfrac{1}{8}y - \dfrac{1}{2} = \dfrac{1}{4}$&#9166;
+2. $Risolvi(e1, y)$&#9166;
 
 
 
@@ -142,13 +149,15 @@ b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata 
 
 a) Risolvi la prima equazione del punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $l: 2a -3x = 7a - 5x$ &#9166; 
-2. $m: Risolvi(l, \{x\})$ &#9166; 
+1. $2a -3x = 7a - 5x$ &#9166; 
+2. $Risolvi(l, x)$ &#9166; 
 
-b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+b) Risolvi la seconda equazione del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $Sostituisci(l, m)$ &#9166; 
-2. Constata che il primo membro è uguale al secondo
+1. $l: bx -2 = 0$ &#9166; 
+2. $m: Risolvi(l, x)$ &#9166; 
+
+Controlla che la soluzione è corretta sostituendo all'incognita la soluzione trovata con il comando $Sostituisci(l, m)$ &#9166; . Osserva che il primo membro è uguale al secondo.
 
 
 
@@ -187,7 +196,7 @@ b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
 1. $a: (P_{l} - P_{s})/P_{l}= s$ &#9166; 
-2. $Risolvi(a, \{P_{l}\})$ &#9166; 
+2. $Risolvi(a, P_{l})$ &#9166; 
 
 
 
