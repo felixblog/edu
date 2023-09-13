@@ -109,17 +109,17 @@ a) Anna riceve dalla madre 8 euro e va ad acquistare 2 scatole di colori del cos
 
 b) Roberta vuole offrire delle pizzette a degli amici. Ne ha già due ed al forno ne compra quattro volte tante. All'uscita del forno ne mangia una. Quante sono le pizzette rimaste? Se raggiunti i suoi due amici, divide le pizzette rimaste in parti uguali tra loro tre, quante ne toccano ciascuno? $[R. \,\, 2 + 2 \cdot 4 - 1, \,\, (2 + 2 \cdot 4 - 1):2, \,\, 3]$.  
 
-b) Una cuoca possiede 4 sacchetti di farina del peso di 1 kg ciascuno. Deve fare 7 dolci: nei primi 3 occorrono 350 g di farina per ciascuno e negli altri, 600 g di farina per ciascuno. Quanta farina consuma la cuoca? Quanta farina rimane? $[R. \,\, 350 \cdot 3 + 600 \cdot 4 \,g \,\, , 4000 - (350 \cdot 3 + 600 \cdot 4) \,g \,\, ,550 \, g]$  
+c) Una cuoca possiede 4 sacchetti di farina del peso di 1 kg ciascuno. Deve fare 7 dolci: nei primi 3 occorrono 350 g di farina per ciascuno e negli altri, 600 g di farina per ciascuno. Quanta farina consuma la cuoca? Quanta farina rimane? $[R. \,\, 350 \cdot 3 + 600 \cdot 4 \,g \,\, , 4000 - (350 \cdot 3 + 600 \cdot 4) \,g \,\, ,550 \, g]$  
 
-c) Se una azienda produce 600 unità di prodotto ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale è il suo profitto?  
+d) Se una azienda produce 600 unità di prodotto ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale è il suo profitto?  
 
-d) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 m di tela. La tela viene suddivisa in pezze da 32 m ciascuna. Quante pezze vengono prodotte giornalmente?  
+e) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 m di tela. La tela viene suddivisa in pezze da 32 m ciascuna. Quante pezze vengono prodotte giornalmente?  
 
-e) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
+f) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
 
-f) Una famiglia sta imbottigliando della conserva di pomodoro. I barattoli sono tutti uguali ed hanno una capienza 750 grammi. Quanti barattoli serviranno per 18 Kg di conserva?
+g) Una famiglia sta imbottigliando della conserva di pomodoro. I barattoli sono tutti uguali ed hanno una capienza 750 grammi. Quanti barattoli serviranno per 18 Kg di conserva?
 
-g) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 minuti?   
+h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 minuti?   
 
 
 
