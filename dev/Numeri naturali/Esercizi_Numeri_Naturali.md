@@ -3,13 +3,13 @@
 
 ### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 
-a) Trova quanti numeri e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+a) Calcola il valore delle seguenti espressioni.
 
-1. $6 - 3;\enspace 6 : 3;\enspace 6 + 3;\enspace 6 · 3$;
+1. $6 - 3$;    $6 : 3$;    $6 + 3$;     $6 · 3$;
 
-2. $15 + 10 + 3;\enspace 8 + 5 + 2 + 4;\enspace 17 - 9 - 1 - 1$;
+2. $15 + 10 + 3$;    $8 + 5 + 2 + 4$;    $17 - 9 - 1 - 1$;
 
-3. $8 · 12 + 5;\enspace 22 + 8 · 12;\enspace 10 - 2 · 3 + 4 · 5$;
+3. $8 · 12 + 5$;     $22 + 8 · 12$;
 
 4. $6 − 10 : 2 + 3$;
 
@@ -22,8 +22,9 @@ b) Trova quanti numeri e quante operazioni contiene ciascuna delle espressioni s
 1. $4 + 6·9$;
 2. $(4 + 6)·9$;
 3. $4 + (6·9)$;
-4. $15 + 20 : 4 − 2$;
-5. $15 + 20 : (4 − 2)$;  
+4. $10 - 2 · 3 + 4 · 5$;
+5. $15 + 20 : 4 − 2$;
+6. $15 + 20 : (4 − 2)$;  
 
 #### Laboratorio GEOGEBRA
 
