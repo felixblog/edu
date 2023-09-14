@@ -63,6 +63,12 @@ $[\dfrac{4}{5},\dfrac{8}{10}];\:[\dfrac{6}{2},\dfrac{10}{4}];\:[\dfrac{0}{15},\d
 
 b) Riduci ai minimi termini le frazioni del punto a). 
 
+#### Esempio di Soluzione
+
+1. Calcola il $MCD$ dei due numeri $8$ e $10$:   $MCD({8,10}) \Rightarrow 2$;
+2. Dividi numeratore e denominatore per il $MCD$:    $8:2 \Rightarrow 4, \;10:2 \Rightarrow 5$;
+3. La soluzione è $\dfrac{4}{5}$.
+
 
 
 ### ESERCIZIO 3 - Prodotto di frazioni (I)
@@ -91,7 +97,7 @@ d) Gli ingredienti della ricetta "Pici cacio e pepe" per 4 persone sono i seguen
 - Pecorino romano stagionatura media, da grattugiare 200 g
 - Pepe nero in grani 5 g
 
-Come cambiano le quantità se le persone sono 3? Quale frazione delle quantità originarie devono essere utilizzata?
+Come cambiano le quantità se le persone sono 3? Quale frazione delle quantità originarie deve essere utilizzata? [Suggerimento: calcola il numero di grammi a persona].
 
 
 
@@ -120,6 +126,13 @@ Riduci le frazioni di ognuno dei seguenti gruppi al minimo comune denominatore.
 a) $[\dfrac{7}{2},\dfrac{3}{5}];\:[\dfrac{1}{2},\dfrac{3}{5}];\:[\dfrac{1}{6},\dfrac{1}{2}];\:[\dfrac{3}{8},\dfrac{1}{4}];$  
 
 b) $[\dfrac{7}{15},\dfrac{1}{30},\dfrac{3}{10}];\:[\dfrac{4}{6},\dfrac{9}{10},\dfrac{11}{30}];\:[\dfrac{3}{7},2,\dfrac{31}{49}];$  
+
+#### Esempio di Soluzione
+
+1. Calcola il $mcm$ dei due numeri $2$ e $5$:   $mcm({2,5}) \Rightarrow 10$: questo sarà il nuovo denominatore di entrambe le frazioni;
+2. Per avere il numeratore della prima frazione dividi l'$mcm$ per $2$ e moltiplica il risultato per $7$: $(10:2) \cdot 7 \Rightarrow 35$;
+3. Per avere il numeratore della seconda frazione dividi l'$mcm$ per $5$ e moltiplica il risultato per $3$: $(10:5) \cdot 3 \Rightarrow 6$;
+4. Le nuove frazioni sono: $[\dfrac{35}{10},\dfrac{6}{10}]$.
 
 
 
@@ -236,7 +249,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
+b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando le frazioni presenti come foglie dell'albero.:
 
 1) $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right);$
 
