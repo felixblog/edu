@@ -295,23 +295,27 @@ d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)
 
 ### ESERCIZIO 14 - Sostituzioni (I)
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (i numeri con segno, nell'espressione sostituita, devono essere tra parentesi tonde).
 
 1. $x^2,\ \{x=2\}$;     $x^2,\ \{x=-2\}$;     $-x^2,\ \{x=2\}$;     $-x^2,\ \{x=-2\}$;
 2. $-2x + x^2 + 1,\ \{x=2\}$.
 
-b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
+b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 
-1. $y(1 - y) + 3,\ \{y=-5\}$;
-2. $y(1 - y) + 3,\ \{y=1\}$;     $y(1 - y) + 3,\ \{y=-1\}$;
-3. $y(1 - y) + 3,\ \{y=0\}$;     $y(1 - y) + 3,\ \{y=4\}$;  
+1. $(1 - y)y + 3,\ \{y=-5\}$;
+2. $(1 - y)y + 3,\ \{y=1\}$;     $(1 - y)y + 3,\ \{y=-1\}$;
+3. $(1 - y)y + 3,\ \{y=0\}$;     $(1 - y)y + 3,\ \{y=4\}$;  
+
+#### Esempio di SOLUZIONE
+
+Sostituzione del punto b.1: $(1 - (-5))(-5) + 3$;
 
 #### Laboratorio GEOGEBRA
 
 Risolvi i punti a.2) e b.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $Sostituisci(-2 x+x^2+1,{x = 2})$&#9166;
-2. $Sostituisci(y\cdot(1 - y) + 3,{y = -5})$&#9166;
+2. $Sostituisci (1 - y)\cdot y + 3,{y = -5})$&#9166;
 
 
 
@@ -324,7 +328,7 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 3. $(a+b)(a-b)+ab-a^{2},\ \{a=6,\ b=-3\}$  
 4. $(x^{2}+a)x-a(x-1):(x+1)+4a,\ \{x=1,a=-9\}$
 
-b) Scrivere gli alberi relativi alle espressioni numeriche dei punti precedenti.
+b) Scrivere gli alberi relativi alle espressioni numeriche dei punti a.1 ed a.2.
 
 #### Laboratorio GEOGEBRA
 

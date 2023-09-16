@@ -422,12 +422,12 @@ g) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata
 
 ### ESERCIZIO 24 - Sostituzioni (I)
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (la frazione deve essere sostituita tra parentesi tonda).
 
 1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
 2. $-2x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
-3. $y(1 - y) + 3,\ \{y=-\dfrac{5}{2}\}$;
-4. $y(1 - y) + 3,\ \{y=\dfrac{1}{2}\}$;     $y(1 - y) + 3,\ \{y=-\dfrac{1}{2}\}$;     $y(1 - y) + 3,\ [y=\dfrac{0}{2}]$;     $y(1 - y) + 3,\ \{y=\dfrac{4}{2}\}$;  
+3. $(1 - y)y + 3,\ \{y=-\dfrac{5}{2}\}$;
+4. $(1 - y)y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y)y + 3,\ \{y=\dfrac{4}{2}\}$;  
 
 #### Laboratorio GEOGEBRA
 
@@ -435,7 +435,7 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 1. $Sostituisci(-2 x+x^2+1,{x = \dfrac{2}{5}})$&#9166;
 
-2. $Sostituisci(y\cdot(1 - y) + 3,{y = -\dfrac{2}{5}})$
+2. $Sostituisci((1 - y) \cdot y + 3,{y = -\dfrac{2}{5}})$
 
    
 

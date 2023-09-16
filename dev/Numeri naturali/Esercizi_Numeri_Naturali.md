@@ -144,7 +144,7 @@ Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il 
 
 ### ESERCIZIO 7 - Sostituzioni
 
-Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
+Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 a) $5 \cdot x, \enspace \{x = 50\}$;  
 
 b) $2 \cdot y, \enspace \{y = 32\}$;
@@ -276,11 +276,11 @@ b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
 
 a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $\{MCM(\{6,8\}), \; MCD(\{6,8\})\}$&#9166;
+1. $MCM(\{6,8\})$&#9166;;     $MCD(\{6,8\})$&#9166;
 
-2. $\{MCM(\{15,10\}), \; MCD(\{15,10\})\}$&#9166;
+2. $MCM(\{15,10\})$&#9166;;     $MCD(\{15,10\})$&#9166;
 
-3. $\{MCM(\{24,25\}), \; MCD(\{24,25\})\}$&#9166;
+3. $MCM(\{24,25\})$&#9166;;      $MCD(\{24,25\})$&#9166;
 
 
 
