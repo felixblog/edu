@@ -81,13 +81,13 @@ $$
         Fiorentina & 25 \\
         \end{array}
 $$
-Indicando con un numero positivo il distacco tra una squadra e le inseguitrici e con un numero negativo il distacco con le precedenti, scrivi i distacchi dell'Atalanta e della Juventus. Quale è il nuovo distacco dell'Atalanta dalla Juventus se la prima dimezza il distacco esistente? 
+Indicando con un numero positivo il distacco tra una squadra e le inseguitrici e con un numero negativo il distacco con le precedenti in classifica, scrivi i distacchi dell'Atalanta e della Juventus. Quale è il nuovo distacco dell'Atalanta dalla Juventus se la prima dimezza il distacco esistente? 
 
 d) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
 1. vincita di 40 punti con il primo giocatore; perdita di 170 punti con il secondo giocatore; vincita di 10 punti con il terzo giocatore;
 2. vincita di 60 punti con ciascun giocatore.
 
-Qual è la mia situazione alla fine delle partite?
+Quanti punti ho alla fine delle partite?
 
 
 
@@ -363,9 +363,13 @@ c) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di
 
 
 
-### ESERCIZIO 18 - Sequenze e Tabelle
+### ESERCIZIO 18 - Problemi con i numeri interi II
 
-Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata.
+a) Un investitore ha comprato il lunedì 800 azioni ad un prezzo di 19 euro ciascuna. Durante la settimana c'è stato un giorno un cui il prezzo è salito di 2 euro ma durante tutti gli altri è sceso di un euro. Quale è il valore delle azioni il venerdì? Di quanto è variato il prezzo dall'inizio?
+
+b) Alle 6 del pomeriggio la temperatura era di 5 gradi. Per le successive 4 ore la temperatura è scesa di 3 gradi l'ora. Che temperatura c'era alle 10 di sera?
+
+c) Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata.
 
 Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 3 colonne con, in ogni riga, la data del sedici del mese, l'ordinale del pagamento e l'importo, come nell'esempio seguente.
 

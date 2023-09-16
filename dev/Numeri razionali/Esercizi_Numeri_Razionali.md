@@ -59,11 +59,13 @@ c) Rispondi alle seguenti domande scrivendo la frazione richiesta.
 
 a) Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di 1.  
 
-$[\dfrac{4}{5},\dfrac{8}{10}];\:[\dfrac{6}{2},\dfrac{10}{4}];\:[\dfrac{0}{15},\dfrac{2}{30}];\:[\dfrac{1}{8},\dfrac{2}{9}];\:[\dfrac{0}{20},\dfrac{0}{40}];$  
+$[\dfrac{4}{5},\dfrac{8}{10}]$;     $[\dfrac{6}{2},\dfrac{10}{4}]$;     $[\dfrac{0}{15},\dfrac{2}{30}]$;     $[\dfrac{1}{8},\dfrac{2}{9}]$;     $[\dfrac{0}{20},\dfrac{0}{40}]$;  
 
 b) Riduci ai minimi termini le frazioni del punto a). 
 
 #### Esempio di Soluzione
+
+Passi da seguire per trovare la soluzione per la seconda frazione della prima coppia del punto b).
 
 1. Calcola il $MCD$ dei due numeri $8$ e $10$:   $MCD({8,10}) \Rightarrow 2$;
 2. Dividi numeratore e denominatore per il $MCD$:    $8:2 \Rightarrow 4, \;10:2 \Rightarrow 5$;
@@ -75,9 +77,9 @@ b) Riduci ai minimi termini le frazioni del punto a).
 
 Calcola i seguenti prodotti di frazioni.  
 
-a) $\dfrac{1}{2}\cdot4;\:\dfrac{5}{3}\cdot9;\:\dfrac{3}{2}\cdot10;$  
+a) $\dfrac{1}{2}\cdot4$;     $\dfrac{5}{3}\cdot9$;     $\dfrac{3}{2}\cdot10$.  
 
-b) $\dfrac{3}{8}\cdot\dfrac{12}{15};\:\dfrac{7}{10}\cdot\dfrac{20}{21};$   
+b) $\dfrac{3}{8}\cdot\dfrac{12}{15}$;     $\dfrac{7}{10}\cdot\dfrac{20}{21}$.   
 
 
 
@@ -123,11 +125,13 @@ Scrivi a parole le espressioni contenute nei punti a) e b) dell'esercizio 3.
 
 Riduci le frazioni di ognuno dei seguenti gruppi al minimo comune denominatore.  
 
-a) $[\dfrac{7}{2},\dfrac{3}{5}];\:[\dfrac{1}{2},\dfrac{3}{5}];\:[\dfrac{1}{6},\dfrac{1}{2}];\:[\dfrac{3}{8},\dfrac{1}{4}];$  
+a) $[\dfrac{7}{2},\dfrac{3}{5}]$;     $[\dfrac{1}{2},\dfrac{3}{5}]$;     $[\dfrac{1}{6},\dfrac{1}{2}]$;     $[\dfrac{3}{8},\dfrac{1}{4}]$;  
 
-b) $[\dfrac{7}{15},\dfrac{1}{30},\dfrac{3}{10}];\:[\dfrac{4}{6},\dfrac{9}{10},\dfrac{11}{30}];\:[\dfrac{3}{7},2,\dfrac{31}{49}];$  
+b) $[\dfrac{7}{15},\dfrac{1}{30},\dfrac{3}{10}]$;     $[\dfrac{4}{6},\dfrac{9}{10},\dfrac{11}{30}]$;     $[\dfrac{3}{7},2,\dfrac{31}{49}]$.  
 
 #### Esempio di Soluzione
+
+Passi da seguire per trovare la soluzione per la prima coppia di frazioni del punto b).
 
 1. Calcola il $mcm$ dei due numeri $2$ e $5$:   $mcm({2,5}) \Rightarrow 10$: questo sarà il nuovo denominatore di entrambe le frazioni;
 2. Per avere il numeratore della prima frazione dividi l'$mcm$ per $2$ e moltiplica il risultato per $7$: $(10:2) \cdot 7 \Rightarrow 35$;
@@ -150,13 +154,13 @@ b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfra
 
 Calcola le seguenti somme algebriche.
 
-a) $\dfrac{1}{2}+\dfrac{3}{2};\:\dfrac{4}{5}+\dfrac{6}{5}-\dfrac{20}{5};\:-\dfrac{2}{3}-\dfrac{5}{3}+\dfrac{2}{3}+\dfrac{5}{3};$   
+a) $\dfrac{1}{2}+\dfrac{3}{2}$;     $\dfrac{4}{5}+\dfrac{6}{5}-\dfrac{20}{5}$;      $\dfrac{2}{3}-\dfrac{5}{3}+\dfrac{2}{3}+\dfrac{5}{3}$;   
 
-b) $\dfrac{1}{2}-\dfrac{3}{5};\:\dfrac{1}{5}+\dfrac{2}{3};\:\dfrac{1}{6}-\dfrac{1}{2};$  
+b) $\dfrac{1}{2}-\dfrac{3}{5}$;     $\dfrac{1}{5}+\dfrac{2}{3}$;     $\dfrac{1}{6}-\dfrac{1}{2}$;  
 
-c) $\dfrac{2}{3}-\dfrac{3}{2};\:\dfrac{4}{5}+5;\:-5-\dfrac{7}{8};\:2-\dfrac{1}{4};\:2+\dfrac{1}{4};\:2-\dfrac{1}{4}\:,\dfrac{2}{3}+\dfrac{1}{8}-1;$   
+c) $\dfrac{2}{3}-\dfrac{3}{2}$;     $\dfrac{4}{5}+5$;     $-5-\dfrac{7}{8}$;     $2-\dfrac{1}{4}$;     $2+\dfrac{1}{4}$;     $\dfrac{2}{3}+\dfrac{1}{8}-1$;   
 
-d) $-\dfrac{8}{3}+5-\dfrac{2}{5};\:12-\dfrac{1}{3}-\dfrac{1}{9}.$
+d) $-\dfrac{8}{3}+5-\dfrac{2}{5}$;     $12-\dfrac{1}{3}-\dfrac{1}{9}$.
 
 
 
@@ -369,13 +373,13 @@ $\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspa
 
 ### ESERCIZIO 22 - Le percentuali
 
-a) Trasforma in percentuale i numeri seguenti: 2; 0,02; -1,465; 5; 0.
+a) Trasforma in percentuale i numeri seguenti: 2;   0,02;   -1,465;   5;   0.
 
-b) Trasforma in numeri decimali le percentuali seguenti: 2%; 0,02%; -30%; 350%; 1000%; 0,0002%.
+b) Trasforma in numeri decimali le percentuali seguenti: 2%;   0,02%;   -30%;   350%;   1000%;   0,0002%.
 
-c) Scrivi le seguenti frazioni in percentuali (approssimate):
+c) Scrivi le seguenti frazioni in percentuali (approssimando):
 
-$\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
+$\enspace \dfrac{1}{2}$;     $\dfrac{1}{3}$;     $\dfrac{1}{1000}$;     $\dfrac{7}{12}$;     $\dfrac{1}{99}$;     $\dfrac{1}{2}$;     $\dfrac{16}{33}$;     $\dfrac{24}{13}$;      $\dfrac{34}{11}$.
 
 d) Nell'esercizio 1, punto a.1, che percentuale di quadrati ha il colore rosso? ed il colore bianco?
 
@@ -483,7 +487,7 @@ a)  $a-\left(b+c\right),\left\{a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\righ
 
 b) $a-\left(b-c\right),\left\{a=\dfrac{2}{3},b=\dfrac{1}{6},c=\dfrac{2}{9}\right\}$;
 
-c) $a+\left(-b\right)-c,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
+c) $a+\left(-b\right)-c^2,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
 
 d) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;     $\left(a+b\right)^{2}\left(-a-b\right)^{2},\left\{a=-\dfrac{2}{3},b=1\right\}$;
 
@@ -495,13 +499,13 @@ e) $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=
 
 a) Semplifica le seguenti espressioni usando la definizione di esponente negativo
 
-1. $12^{-2}; \enspace 11^{-2}; \enspace (-4)^{-1}; \enspace (-8)^{-2}; 3\cdot 4^{-1} + 2\cdot 4^{-2}$
+1. $12^{-2}$;     $11^{-2}$;     $(-4)^{-1}$;     $(-8)^{-2}$;     $ 3\cdot 4^{-1} + 2\cdot 4^{-2}$
 
-2. $\dfrac{1}{5^{-3}}; \enspace \dfrac{1}{3^{-3}}; \enspace \dfrac{2^{-4}}{3^{-1}}; \enspace \dfrac{7^{-2}}{2^{-3}}$ 
+2. $\dfrac{1}{5^{-3}}$;     $\dfrac{1}{3^{-3}}$;     $\dfrac{2^{-4}}{3^{-1}}$;     $\dfrac{7^{-2}}{2^{-3}}$ .
 
 b) Scrivi i numeri seguenti in notazione decimale
 
-1. $0.51\cdot 10^{-3}; 0.07\cdot 10^3; 2.37\cdot 10^{-4}; 0.012\cdot 10^4;$
+1. $0.51\cdot 10^{-3}$;     $0.07\cdot 10^3$;     $2.37\cdot 10^{-4}$;     $ 0.012\cdot 10^4$.
 
 
 

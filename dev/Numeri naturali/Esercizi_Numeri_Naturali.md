@@ -107,7 +107,7 @@ Scrivi le espressioni  (NON il solo risultato!) che, utilizzando i dati contenut
 
 a) Anna riceve dalla madre 8 euro e va ad acquistare 2 scatole di colori del costo di 3 euro l'una. Al ritorno si ferma dalla nonna che le regala 5 euro. Con quanto denaro arriva a casa Anna? $[R. \,\, 8 - 2 \cdot 3 + 5$,  $7 \,\, \texteuro]$  
 
-b) Roberta vuole offrire delle pizzette a degli amici. Ne ha già due ed al forno ne compra quattro volte tante. All'uscita del forno ne mangia una. Quante sono le pizzette rimaste? Se raggiunti i suoi due amici, divide le pizzette rimaste in parti uguali tra loro tre, quante ne toccano ciascuno? $[R. \,\, 2 + 2 \cdot 4 - 1, \,\, (2 + 2 \cdot 4 - 1):2, \,\, 3]$.  
+b) Roberta vuole offrire delle pizzette a degli amici. Ne ha già due ed al forno ne compra quattro volte tante. All'uscita del forno ne mangia una. Quante sono le pizzette rimaste? Se raggiunti i suoi due amici, divide le pizzette rimaste in parti uguali tra loro tre, quante ne toccano ciascuno? $[R. \,\, 2 + 2 \cdot 4 - 1, \,\, (2 + 2 \cdot 4 - 1):3, \,\, 3]$.  
 
 c) Una cuoca possiede 4 sacchetti di farina del peso di 1 kg ciascuno. Deve fare 7 dolci: nei primi 3 occorrono 350 g di farina per ciascuno e negli altri, 600 g di farina per ciascuno. Quanta farina consuma la cuoca? Quanta farina rimane? $[R. \,\, 350 \cdot 3 + 600 \cdot 4 \,g \,\, , 4000 - (350 \cdot 3 + 600 \cdot 4) \,g \,\, ,550 \, g]$  
 
