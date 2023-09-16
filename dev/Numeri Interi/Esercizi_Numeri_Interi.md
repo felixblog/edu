@@ -242,7 +242,7 @@ d) Moltiplica la somma del quadruplo di $a$ e del triplo di $b$ per la somma del
 
 ### ESERCIZIO 12 - Espressioni con i numeri interi
 
-a) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
 
@@ -264,7 +264,7 @@ b) Calcola il valore delle seguenti espressioni.
 
 4. $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
 
-c) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+c) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
 

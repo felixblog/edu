@@ -17,7 +17,7 @@ a) Calcola il valore delle seguenti espressioni.
 
 6. $16 : 4 · 8$  
 
-b) Trova quanti numeri e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+b) Individua quanti e quali numeri ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $4 + 6·9$;
 2. $(4 + 6)·9$;
@@ -125,7 +125,7 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 ### ESERCIZIO 6 - Operazioni ed espressioni (II)
 
-a) Trova quanti numeri e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+a) Individua quanti e quali numeri ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]$;
 2. $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10]$;
@@ -145,24 +145,24 @@ Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il 
 ### ESERCIZIO 7 - Sostituzioni
 
 Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
-a) $5x, \enspace \{x = 50\}$;  
+a) $5 \cdot x, \enspace \{x = 50\}$;  
 
-b) $2y, \enspace \{y = 32\}$;
+b) $2 \cdot y, \enspace \{y = 32\}$;
 
 c) $a − b, \enspace \{a = 10, b = 7\}$;
 
 d) $a^{2} − b^{2}, \enspace \{a = 1, b = 1\}$;     $a^{2} − b^{2}, \enspace \{a = 3, b = 2\}$;
 
-e) $2a(b + 1) - 6ab , \enspace \{a = 3, b = 0\}$;
+e) $2 \cdot a \cdot (b + 1) - 6ab , \enspace \{a = 3, b = 0\}$;
 
-f ) $((2a)b)^{3}, \enspace \{a = 2, b = 3\}$.
+f ) $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $Sostituisci(5x,\; {x = 50})$&#9166;
-2. $Sostituisci(2y, \; {y = 32})$&#9166;
+1. $Sostituisci(5 \cdot x,\; {x = 50})$&#9166;
+2. $Sostituisci(2 \cdot y, \; {y = 32})$&#9166;
 
 b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
@@ -295,8 +295,8 @@ a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il
 
 b) Scrivi le seguenti somme e differenze di numeri come prodotto, analogamente all'esercizio precedente.
 
-1. $2 + 4 + 6$;    $15 - 10$;
-2. $6 - 4 - 2$; $220 - 110 - 50 + 30$.
+1. $2 + 4 + 6$;     $15 - 10$;
+2. $6 - 4 - 2$;     $220 - 110 - 50 + 30$.
 
 #### Esempio di SOLUZIONE
 

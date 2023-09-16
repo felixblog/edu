@@ -166,7 +166,7 @@ d) $-\dfrac{8}{3}+5-\dfrac{2}{5}$;     $12-\dfrac{1}{3}-\dfrac{1}{9}$.
 
 ### ESERCIZIO 10 - Espressioni con somme di frazioni
 
-a) Trova quante frazioni e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+a) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $3-\dfrac{1}{2}+\left[\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right]-1$;    $[R. \dfrac{37}{20}]$  
 2. $\dfrac{1}{10}-\dfrac{3}{5}+\left[\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right]-\left(\dfrac{6}{5}+3\right);$    $[R.-1]$  
@@ -190,7 +190,7 @@ a) Calcola il valore delle seguenti espressioni.
 6. $\dfrac{2}{5}:4$;
 7. $\left(-1\right):\left(-5\right)$.   
 
-b) Trova quante frazioni e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+b) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$;     $[R. -7]$
 2. $\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$     $[R.\dfrac{15}{2}]$
@@ -337,19 +337,21 @@ d) $\dfrac{1}{3}\dfrac{a}{2}-\left(-\dfrac{1}{3}-a\right)$.
 
 a) Calcola il valore delle seguenti potenze.
 
-1) $\left(\dfrac{3}{4}\right)^{2};\left(\dfrac{2}{3}\right)^{4};\left(\dfrac{1}{2}\right)^{5};\left(\dfrac{3}{2}\right)^{0}.$
+1) $\left(\dfrac{3}{4}\right)^{2}$;    $\left(\dfrac{2}{3}\right)^{4}$;     $\left(\dfrac{1}{2}\right)^{5}$;     $\left(\dfrac{3}{2}\right)^{0}.$
+2) $\dfrac{3}{4}^{2}$;     $\dfrac{2}{3}^{4}$;     $\dfrac{1}{2^{5}}$;     $\dfrac{3^{0}}{2^{0}}$.
+3) $\left(-\dfrac{3}{4}\right)^{2}$;    $\left(-\dfrac{2}{3}\right)^{4}$;     $\left(-\dfrac{1}{2}\right)^{5}$;     $\left(-\dfrac{3}{2}\right)^{0}$.
 
-2. $\left(1-\dfrac{1}{2}\right)^{2};\left(2-\dfrac{5}{4}\right)^{0};\left(\dfrac{3}{2}-\dfrac{6}{4}\right)^{2}.$
+2. $\left(1-\dfrac{1}{2}\right)^{2}$;     $\left(2-\dfrac{5}{4}\right)^{0}$;     $\left(\dfrac{3}{2}-\dfrac{6}{4}\right)^{2}$.
 
 a) Calcola il valore delle seguenti espressioni applicando le proprietà delle potenze
 
-1. $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2;\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6; \left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$
+1. $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2$;     $\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6$;     $ \left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$.
 
 
 
 ### ESERCIZIO 20 - Espressioni con le frazioni
 
-a)  Trova quante frazioni e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+a)  Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \left(\dfrac{23}{5}\right)^2]$
 2. $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. \dfrac{7}{9}]$
@@ -489,9 +491,11 @@ b) $a-\left(b-c\right),\left\{a=\dfrac{2}{3},b=\dfrac{1}{6},c=\dfrac{2}{9}\right
 
 c) $a+\left(-b\right)-c^2,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
 
-d) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;     $\left(a+b\right)^{2}\left(-a-b\right)^{2},\left\{a=-\dfrac{2}{3},b=1\right\}$;
+d) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;
 
-e) $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$
+e) $\left(a+b\right)^{2}\left(-a-b\right)^{2},\left\{a=-\dfrac{2}{3},b=1\right\}$;
+
+f) $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$
 
 
 
