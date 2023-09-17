@@ -108,7 +108,7 @@ La Parabola e la sua equazione
 Problemi sulla parabola
 ([Esercizi](http://felixblog.github.io/edu/Equazioni_II_Grado_e_Parabola.html)) 
 
-### Funzioni e Modelli
+### Funzioni Elementari e Modelli Matematici
 Funzioni e Modelli
 La dipendenza tra variabili
 Tabelle e Grafici
@@ -116,7 +116,7 @@ Proporzionalità diretta ed inversa
 Esempi di Funzioni notevoli: valore assoluto, funzioni definite a tratti etc.
 ([Esercizi](http://felixblog.github.io/edu/Funzioni_e_Modelli.html)) 
 
-### Logaritmi e Successioni Aritmetiche e Geometriche
+### Logaritmi, Esponenziali e Successioni
 
 Logaritmi e loro proprietà
 Equazioni Esponenziali e logaritmiche

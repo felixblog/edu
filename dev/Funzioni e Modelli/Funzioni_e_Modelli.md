@@ -1,12 +1,8 @@
-# Funzioni e Modelli
+# Funzioni Elementari e Modelli Matematici
 
 ### ESERCIZIO 1: Calcolo del valore di una espressione
 
-a) Una agenzia di noleggio auto fa pagare per una automobile 50 euro al giorno più 32 centesimi a Km percorso. Il costo giornaliero dell'auto, in euro, dipende quindi dal numero di Km percorsi $x$ secondo l'espressione $0,32x + 50$.
-
-Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola $c(75)$, $c(150)$, $c(225)$ e $c(650)$.
-
-b) Calcola il valore dell'espressione $x^2$ per i valori della $x$ indicati nella tabella seguente.
+a) Calcola il valore dell'espressione $x^2$ per i valori della $x$ indicati nella tabella seguente.
 $$
 \begin{array}{r|c} 
 x & y = x^2 \\ 
@@ -19,23 +15,28 @@ x & y = x^2 \\
 \end{array}
 $$
 
-c) Calcola il valore della espressione $\dfrac{1}{1-x}$ per i valori della $x$ indicati nella tabella del punto b).
+b) Calcola il valore della espressione $\dfrac{1}{1-x}$ per i valori della $x$ indicati nella tabella del punto b).
 
-d) Rappresenta le coppie di numeri formate dal valore della $x$ e dal valore dell'espressione degli esercizi a), b) e c) in un grafico cartesiano. 
+c) Rappresenta le coppie di numeri formate dal valore della $x$ e dal valore dell'espressione degli esercizi a), b) e c) in un grafico cartesiano. 
+
+d) Una agenzia di noleggio auto fa pagare per una automobile 50 euro al giorno più 32 centesimi a Km percorso. Il costo giornaliero dell'auto, in euro, dipende quindi dal numero di Km percorsi $x$ secondo l'espressione $0,32x + 50$.
+
+Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola $c(75)$, $c(150)$, $c(225)$ e $c(650)$.
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
+1. Inserisci la funzione $f(x) := x^2$ &#9166; ;
+2. Deseleziona la visualizzazione del grafico e dal menu di inserimento seleziona la voce "Tabella di Valori";
+3. Seleziona: Valore iniziale di x: -2, Valore finale di x: 2, Passo: 1
+
+Nella tabella a sinistra compariranno i valori cercati. 
+
+b) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
 1. $c(x) := 0.32x + 50$ &#9166; 
 2. $\{c(75), c(150), c(225), c(650)\}$ &#9166; . 
-
-b) Risolvi il punto b) dell'esercizio con la sequenza di comandi GEOGEBRA:
-
-1. $d = \{0, 1, -1, 2, -2\}$ &#9166; 
-2. $Compatta( (k,k^2+1), k, d )$ &#9166; . 
-
-c) Risolvi il punto c) dell'esercizio modificando la funzione nel comando del punto b) del laboratorio.
 
 
 
@@ -69,7 +70,7 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 
 
 
-### ESERCIZIO 4 - Funzioni numeriche
+### ESERCIZIO 4 - Funzioni lineari
 Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
 
 a) $y = x$;
@@ -87,8 +88,7 @@ e) $y = 4x$.
 a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$:
 
 1. $f(x) := x$ &#9166; 
-2. $d = \{0, 1, -1, 2, -2\}$ &#9166; 
-3. $Compatta( (x,f(x)), x, d )$ &#9166;
+2. $L=Successione((k,f(k)),k,-5,5,1)$ &#9166; 
 
 
 
@@ -96,6 +96,16 @@ a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di 
 Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 
 ![F](img/f1.png)    ![F](img/f2.png)   ![F](img/f3.png) 
+
+#### Laboratorio GEOGEBRA
+
+Risolvi l'esercizio ripercorrendo i passi seguenti.
+
+1. Seleziona lo strumento GEOGEBRA "Tabella";
+2. Inserisci nella prima colonna della tabella GEOGEBRA "x" i valori della prima colonna della prima tabella dell'esercizio;
+3. Inserisci nella seconda colonna della tabella GEOGEBRA gli analoghi valori dell'esercizio;
+
+Compariranno i punti sul grafico. Se i punti sono allineati la dipendenza è lineare, altrimenti no.
 
 
 
@@ -176,15 +186,12 @@ c) $y = -2|x|$.
 
 a) Risolvi il punto a) dell'esercizio con i seguenti comandi GEOGEBRA:
 
-1. $\{(0, abs(0)), (1, abs(1)), (-1, abs(-1)), (2, abs(2)), (-2, abs(-2))\}$.
-2. $\{(0, abs(0)), (1, abs(1)), (-1, abs(-1)), (2, abs(2)), (-2, abs(-2))\}$
+1. $f(x) := 2 \cdot |x|$ &#9166; 
+2. $L=Successione((k,f(k)),k,-5,5,1)$ &#9166; 
 
-b) Risolvi il punto b) dell'esercizio con la seguente sequenza di comandi GEOGEBRA:
 
-1. $f(x) := 1 + abs(x)$ &#9166; 
-2. $d = \{0, 1, -1, 2, -2\}$ &#9166; 
-3. $Compatta( (x,f(x)), x, d )$ &#9166;
-4. $Compatta((x,f(x)), x, d )$ &#9166;
+
+<img src="img\valore-assoluto-successione.png" style="zoom: 13%;" />           <img src="img\valore-assoluto.png" style="zoom: 13%;" />
 
 
 
