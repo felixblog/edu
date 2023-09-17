@@ -25,13 +25,9 @@ Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola $c(75)$, $c(15
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
+a) Risolvi il punto a) dell'esercizio con il comando $Compatta((k,k^2),k,\{0,1,-1,2,-2\})$&#9166;
 
-1. Inserisci la funzione $f(x) := x^2$ &#9166; ;
-2. Deseleziona la visualizzazione del grafico e dal menu di inserimento seleziona la voce "Tabella di Valori";
-3. Seleziona: Valore iniziale di x: -2, Valore finale di x: 2, Passo: 1
-
-Nella tabella a sinistra compariranno i valori cercati. 
+<img src="img\Valore-di-Espressione.png" alt="Valore-di-Espressione" style="zoom:15%;" />
 
 b) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
@@ -73,26 +69,29 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 ### ESERCIZIO 4 - Funzioni lineari
 Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
 
-a) $y = x$;
+a) $f(x) = x$;
 
-b) $y = -x$;
+b) $f(x) = -x$;
 
-c) $y = \dfrac{1}{2} x$;
+c) $f(x) = \dfrac{1}{2} x$;
 
-d) $y = 2x +1$;
+d) $f(x) = 2x +1$;
 
-e) $y = 4x$.
+e) $f(x) = 4x$.
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$:
 
 1. $f(x) := x$ &#9166; 
-2. $L=Successione((k,f(k)),k,-5,5,1)$ &#9166; 
+2. $Compatta((k,f(k)),k,\{0,2, -2, 4, -4\})$ &#9166; 
 
-<img src="img\Funzioni-Lineari.png" alt="Funzioni-Lineari" style="zoom:45%;" />
+<img src="img\Dipendenza-Lineare.png" alt="Dipendenza-Lineare" style="zoom:15%;" />
+
+
 
 ### ESERCIZIO 5 - Dipendenza lineare
+
 Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 
 ![F](img/f1.png)    ![F](img/f2.png)   ![F](img/f3.png) 
@@ -107,7 +106,7 @@ Risolvi l'esercizio ripercorrendo i passi seguenti.
 
 Compariranno i punti sul grafico. Se i punti sono allineati la dipendenza è lineare, altrimenti no.
 
-<img src="img\Dipendenza-Lineare.png" alt="Dipendenza-Lineare" style="zoom:60%;" />
+<img src="img\Dipendenza-Lineare-2.png" alt="Dipendenza-Lineare-2" style="zoom:15%;" />
 
 ### ESERCIZIO 6 - Interesse semplice
 
@@ -231,7 +230,9 @@ a) Risolvi il punto a) dell'esercizio con la seguente sequenza di comandi GEOGEB
 
 1. $f(n) := Se(n<0, 1, 3n+1)$
 2. $d = \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$ &#9166; 
-3. $t_a = Successione( (k,f(k)), k, d )$ &#9166;
+3. $Compatta( (k,f(k)), k, d )$ &#9166;
+
+<img src="img\funzione-definita-tratti-successione.png" alt="funzione-definita-tratti-successione" style="zoom:15%;" />    <img src="img\funzione-definita-tratti.png" alt="funzione-definita-tratti" style="zoom:15%;" />
 
 b) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $f(x) := Se(n<=-1, -x-1, Se(-1<x<=1, 0, x-1))$
 
@@ -239,7 +240,7 @@ c) Risolvi il punto c) dell'esercizio con la sequenza seguente di comandi GEOGEB
 
 1. $c(x) := Se(1000<=x<10000, 50x, Se(10001<=x<20000, 40x, Se(20001<=x<50000, 35x)))$
 2. $d = \{2000, 5500, 7000, 23000, 45000\}$ &#9166; 
-3. $t_c = Successione( (x,c(x)), k, d )$ &#9166;
+3. $Compatta( (x,c(x)), k, d )$ &#9166;
 
 
 
