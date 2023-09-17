@@ -90,7 +90,7 @@ a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di 
 1. $f(x) := x$ &#9166; 
 2. $L=Successione((k,f(k)),k,-5,5,1)$ &#9166; 
 
-
+<img src="img\Funzioni-Lineari.png" alt="Funzioni-Lineari" style="zoom:45%;" />
 
 ### ESERCIZIO 5 - Dipendenza lineare
 Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
@@ -107,7 +107,7 @@ Risolvi l'esercizio ripercorrendo i passi seguenti.
 
 Compariranno i punti sul grafico. Se i punti sono allineati la dipendenza è lineare, altrimenti no.
 
-
+<img src="img\Dipendenza-Lineare.png" alt="Dipendenza-Lineare" style="zoom:60%;" />
 
 ### ESERCIZIO 6 - Interesse semplice
 
@@ -231,7 +231,7 @@ a) Risolvi il punto a) dell'esercizio con la seguente sequenza di comandi GEOGEB
 
 1. $f(n) := Se(n<0, 1, 3n+1)$
 2. $d = \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$ &#9166; 
-3. $t_a = Compatta( (k,f(k)), k, d )$ &#9166;
+3. $t_a = Successione( (k,f(k)), k, d )$ &#9166;
 
 b) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $f(x) := Se(n<=-1, -x-1, Se(-1<x<=1, 0, x-1))$
 
@@ -239,7 +239,7 @@ c) Risolvi il punto c) dell'esercizio con la sequenza seguente di comandi GEOGEB
 
 1. $c(x) := Se(1000<=x<10000, 50x, Se(10001<=x<20000, 40x, Se(20001<=x<50000, 35x)))$
 2. $d = \{2000, 5500, 7000, 23000, 45000\}$ &#9166; 
-3. $t_c = Compatta( (x,c(x)), k, d )$ &#9166;
+3. $t_c = Successione( (x,c(x)), k, d )$ &#9166;
 
 
 
