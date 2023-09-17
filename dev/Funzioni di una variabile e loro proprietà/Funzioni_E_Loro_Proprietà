@@ -43,45 +43,26 @@ a) Per ciascuno dei grafici seguenti individua:
 - I tratti dell'asse $x$ in cui la funzione è crescente o decrescente;
 - i punti di massimo o minimo relativo ed i rispettivi valori. 
 
-1. $y = x^2$;
 
 
-  ![Parabola](img\par.png)  
-
-2. $y = x^3$;
-
-  ![Cubica](img\cub.png)  
+  <img src="img\parabola.png" alt="Parabola" style="zoom:15%;" />    <img src="img\cubica.png" alt="Cubica" style="zoom:15%;" />  
 
 
 
-3. $\displaystyle y = \frac{1}{x}$
-
-  ![Iperbole](img\iper.png)  
+  <img src="img\iperbole.png" alt="Iperbole" style="zoom:15%;" />    <img src="img\iperbole-quadratica.png" alt="Iperbole quadrata" style="zoom:15%;" />  
 
 
 
-4. $\displaystyle y = \frac{3}{x^2}$
-
-  ![Iperbole quadrata](img\ip_quad.png)  
-
-5. $\displaystyle y = (x - 3)x^2$  
-
-  ![Cubica](img\cub_2.PNG)   
+  <img src="img\polinomio-III-grado.PNG" alt="Cubica" style="zoom:15%;" />      <img src="img\polinomio-IV-grado.png" alt="Iperbole quadrata" style="zoom:15%;" />
 
 
-
-6. $\displaystyle y = (x-1)(x+1)x^2$  
-
-  ![Iperbole quadrata](img\quad.png)
 
 #### Laboratorio GEOGEBRA
 
-a) Individua i punti di massimo e minimo relativo delle funzioni dei punti a.1) ed a.5) dell'esercizio con i seguenti comandi GEOGEBRA:
+a) Individua i punti di massimo e minimo relativo delle funzioni adeguando gli esempi seguenti.
 
 1. $Max(x^2, -3, 3)$ &#9166;   $Min(x^2, -3, 3)$ &#9166;
 2. $Max((x-3)x^2, -1, 1)$  &#9166;    $Min((x-3)x^2, -1, 4)$ &#9166;  
-
-b) Analogamente al punto precedente, scrivi i comandi GEOGEBRA che individuano i punti di massimo e minimo relativo della funzione del punto a.6) dell'esercizio.
 
 
 
