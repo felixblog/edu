@@ -42,13 +42,13 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 a) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica e calcola il risultato.
 
-1. $(+2, +8)$;   $(+5, -8)$;   $(-5, +8)$;   $(-5, -8)$;
-2. $(0, +2)$;   $(-2, 0)$;   $(+4, -4)$;   $(-4, +4)$;
+1. $(+2, +8);$   $(+5, -8);$   $(-5, +8);$   $(-5, -8);$
+2. $(0, +2);$   $(-2, 0);$   $(+4, -4);$   $(-4, +4);$
 
 b) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-1. $+5-9; -2+6;\enspace 12-19+6;\enspace -5-9-10;$  
-1. $1 + 2 + 3 - 3 - 2 - 1 - 0$;   $+1 - 1 + 1 - 1 + 1$;   $1 - 2 + 3 - 4 + 5 - 6$.
+1. $+5-9;$    $-2+6;$    $12-19+6;$     $-5-9-10;$  
+1. $1 + 2 + 3 - 3 - 2 - 1 - 0;$     $+1 - 1 + 1 - 1 + 1;$     $1 - 2 + 3 - 4 + 5 - 6$.
 
 
 
@@ -66,6 +66,16 @@ Indicando con un numero positivo ogni spostamento verso destra e con uno negativ
 ![e](img\lumache.png) 
 
 b) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
+
+c) Una azienda negli ha realizzato negli anni i profitti riportati in figura:
+
+<img src="img\profitti.png" alt="profitti" style="zoom:25%;" />
+
+1. Quale è stato il profitto totale dell'ultimo quinquennio?
+2. Quale è stato il calo di profitto tra il 2018 ed il 2019, tra il 2019 ed il 2020 e tra il 2020 ed il 2021?
+3. Quale è stato l'anno peggiore e quale il migliore?
+
+
 
 c) In un campionato di calcio si ha la situazione di classifica seguente:
 
@@ -95,18 +105,18 @@ Quanti punti ho alla fine delle partite?
 
 a) Calcola i seguenti prodotti e quozienti (quanti numeri ed operazioni contiene ciascuna espressione?):
 
-1. $-5\text{·}(-8);$   $-5(-8)$;   $-(5)$;   $-(5)8$;   $5 \cdot (-8)$;   $+(5) \cdot 8$
+1. $-5\text{·}(-8);$   $-5(-8);$   $-(5);$   $-(5)8;$   $5 \cdot (-8);$   $+(5) \cdot 8;$
 
-2. $+4\cdot 8 \cdot (-2)$;   $-(-12) \cdot (-5)$;   
+2. $+4\cdot 8 \cdot (-2);$   $-(-12) \cdot (-5);$   
 
 3. $(+15):(+3);\enspace (+15):(-3);$ 
 
-4. $(-8):(+8)$;   $0:(-5)$;    $-(2):2$.
+4. $(-8):(+8);$   $0:(-5);$    $-(2):2$.
 
 b) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi il prodotto e calcola il risultato
 
-1. $(2, 8)$;   $(+5, 8)$;   $(5, -8)$;   $(-5, -8)$;
-2. $(-2, 0)$;   $(0, -2)$;   $(+4, -4)$;   $(-4, +4)$;
+1. $(2, 8);$   $(+5, 8);$   $(5, -8);$   $(-5, -8);$
+2. $(-2, 0);$   $(0, -2);$   $(+4, -4);$   $(-4, +4);$
 
 c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e si muove del doppio della distanza iniziale verso destra, quindi si gira e si muove del triplo della distanza iniziale ancora verso sinistra. Calcolare lo spostamento della lumaca prima di ogni cambiamento di direzione e scrivere l'espressione che ci dà lo spostamento totale.
 
@@ -114,7 +124,7 @@ c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e s
 
 Controlla la verità delle relazioni seguenti:  
 
-a) $-1 > 0;\enspace -7 < -3;\enspace 0 \le 0;\enspace 1 = 1 + 0;\enspace 4-5 \ge 1+3-4$;
+a) $-1 > 0;\enspace -7 < -3;\enspace 0 \le 0;\enspace 1 = 1 + 0;\enspace 4-5 \ge 1+3-4;$
 
 b) $2+3\text{·}(-1)=11-5-7;\enspace 3^{2}-2\text{·}3-1=\left(3-2\right)^{2}$
 
@@ -124,8 +134,8 @@ b) $2+3\text{·}(-1)=11-5-7;\enspace 3^{2}-2\text{·}3-1=\left(3-2\right)^{2}$
 
 a) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le queste espressioni senza parentesi inutili e di tutte calcola il valore.
 
-1. $4+(3-2)+1$;    $-1(2-3)+5(-6)$;    $(2-3)-1-6\cdot 5$;
-2. $(+4)+(+5-9)$;    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
+1. $4+(3-2)+1;$    $-1(2-3)+5(-6);$    $(2-3)-1-6\cdot 5;$
+2. $(+4)+(+5-9);$    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
 
 b) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutili.
 
@@ -297,18 +307,18 @@ d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (i numeri con segno, nell'espressione sostituita, devono essere tra parentesi tonde).
 
-1. $x^2,\ \{x=2\}$;     $x^2,\ \{x=-2\}$;     $-x^2,\ \{x=2\}$;     $-x^2,\ \{x=-2\}$;
+1. $x^2,\ \{x=2\};$     $x^2,\ \{x=-2\};$     $-x^2,\ \{x=2\};$     $-x^2,\ \{x=-2\};$
 2. $-2x + x^2 + 1,\ \{x=2\}$.
 
 b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 
-1. $(1 - y)y + 3,\ \{y=-5\}$;
-2. $(1 - y)y + 3,\ \{y=1\}$;     $(1 - y)y + 3,\ \{y=-1\}$;
-3. $(1 - y)y + 3,\ \{y=0\}$;     $(1 - y)y + 3,\ \{y=4\}$;  
+1. $(1 - y)y + 3,\ \{y=-5\};$
+2. $(1 - y)y + 3,\ \{y=1\};$     $(1 - y)y + 3,\ \{y=-1\};$
+3. $(1 - y)y + 3,\ \{y=0\};$     $(1 - y)y + 3,\ \{y=4\};$  
 
 #### Esempio di SOLUZIONE
 
-Sostituzione del punto b.1: $(1 - (-5))(-5) + 3$;
+Sostituzione del punto b.1: $(1 - (-5))(-5) + 3;$
 
 #### Laboratorio GEOGEBRA
 
@@ -344,13 +354,13 @@ Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcol
 a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
 1. $a+b=5;$
-2. $a-b=5$;
-3. $a+b=2$;
+2. $a-b=5;$
+3. $a+b=2;$
 
 b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostituite ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
-1. $a+b=0$;
-2. $b=a+1$;
+1. $a+b=0;$
+2. $b=a+1;$
 3. $a=-b+2$.
 
 
@@ -404,10 +414,10 @@ c) l'abbonato non paga nulla fino ad accumulare un debito vicino ai 200 euro. In
 
 a) Calcolare le seguenti potenze di numeri interi.
 
-1. $(-2)^3, (-2)^4, (+2)^5, (-1)^4, (-5)^0$;
+1. $(-2)^3, (-2)^4, (+2)^5, (-1)^4, (-5)^0;$
 2. $-1^7, -1^6, (-1)^6, (-1)^7$.
 
 b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle potenze.
 
-1. $(-6)^9:(-6)^3, (-2)^2\cdot(-2)\cdot(-2)^4,[(-6)^3]^2:(6)^5$;
+1. $(-6)^9:(-6)^3, (-2)^2\cdot(-2)\cdot(-2)^4,[(-6)^3]^2:(6)^5;$
 2. $[(-5)^4\cdot(4)^4]\cdot(-20)^3, [(2)^3\cdot(5)^3]^2:(-10)^3$.
