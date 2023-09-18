@@ -36,37 +36,7 @@ c) Determina il dominio delle seguenti funzioni.
 
 
 
-### ESERCIZIO 3 - Funzioni polinomiali e frazionarie
-
-a) Per ciascuno dei grafici seguenti individua:  
-
-- I tratti dell'asse $x$ in cui la funzione è crescente o decrescente;
-- i punti di massimo o minimo relativo ed i rispettivi valori. 
-
-
-
-  <img src="img\parabola.png" alt="Parabola" style="zoom:15%;" />    <img src="img\cubica.png" alt="Cubica" style="zoom:15%;" />  
-
-
-
-  <img src="img\iperbole.png" alt="Iperbole" style="zoom:15%;" />    <img src="img\iperbole-quadratica.png" alt="Iperbole quadrata" style="zoom:15%;" />  
-
-
-
-  <img src="img\polinomio-III-grado.PNG" alt="Cubica" style="zoom:15%;" />      <img src="img\polinomio-IV-grado.png" alt="Iperbole quadrata" style="zoom:15%;" />
-
-
-
-#### Laboratorio GEOGEBRA
-
-a) Individua i punti di massimo e minimo relativo delle funzioni adeguando gli esempi seguenti.
-
-1. $Max(x^2, -3, 3)$ &#9166;   $Min(x^2, -3, 3)$ &#9166;
-2. $Max((x-3)x^2, -1, 1)$  &#9166;    $Min((x-3)x^2, -1, 4)$ &#9166;  
-
-
-
-### ESERCIZIO 4 - Funzioni Esponenziali e Logaritmiche
+### ESERCIZIO 3 - Funzioni Esponenziali e Logaritmiche
 
 a) Per ciascuna delle funzioni seguenti disegna un grafico approssimativo costruendo una tabella di punti dopo aver determinato il dominio.
 
@@ -77,7 +47,7 @@ a) Per ciascuna delle funzioni seguenti disegna un grafico approssimativo costru
 
 
 
-### ESERCIZIO 5 - Funzioni Composte
+### ESERCIZIO 4 - Funzioni Composte
 
 a) Per ciascuno dei punti seguenti scrivi le due funzioni composte $f(g(x))$ e $g(f(x))$ e disegna il grafico di ciascuna.
 

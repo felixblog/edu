@@ -108,6 +108,8 @@ Compariranno i punti sul grafico. Se i punti sono allineati la dipendenza è lin
 
 <img src="img\Dipendenza-Lineare-2.png" alt="Dipendenza-Lineare-2" style="zoom:15%;" />
 
+
+
 ### ESERCIZIO 6 - Interesse semplice
 
 Una persona prende in prestito da una finanziaria 1.000 euro (capitale) per pagare un corso di formazione. Dovrà restituire il capitale dopo 5 anni in una unica soluzione ma pagare trimestralmente l'1% dell'importo ricevuto, a titolo di interesse, finchè non estingue il debito.
@@ -168,6 +170,15 @@ a) L'area di un quadrato dipende dalla lunghezza del suo lato. Scrivi la funzion
 b) Un edificio ha porte e finestre rettangolari di diversa grandezza, ma per tutte il lato più lungo è il doppio di quello più corto. Scrivi la funzione che calcola l'area di ogni porta o finestra in dipendenza del lato più corto e calcola l'area del rettangolo quando il lato più corto misura $10, 25, 30, 50$.
 
 c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata oltre alla prima si ha uno sconto di $10$ euro sul prezzo di entrambe le borse. Nel caso si acquistino $n$ unità della stessa borsa del prezzo di $100$ euro, scrivere la funzione che calcola il ricavo del negozio e si calcoli il valore della funzione se $n$ vale $1, 2, 3, 4, 5$.
+
+
+
+### ESERCIZIO 11 - Funzioni crescenti e decrescenti
+
+a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate sono crescenti o decrescenti.
+
+1. ![cresc-1](img/cresc-1.png)         ![cresc-2](img/cresc-2.png)
+2. ![cresc-3](img/cresc-3.png)            ![cresc-4](img/cresc-4.png)
 
 
 
@@ -244,7 +255,28 @@ c) Risolvi il punto c) dell'esercizio con la sequenza seguente di comandi GEOGEB
 
 
 
-### ESERCIZIO 13 - Analisi dei prezzi
+### ESERCIZIO 13 - Analisi qualitativa del grafico di funzioni
+
+a) Per ciascuno dei grafici seguenti individua:  
+
+- I tratti dell'asse $x$ in cui la funzione è crescente o decrescente;
+- i punti di massimo o minimo relativo ed i rispettivi valori. 
+
+
+
+  <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\parabola.png" alt="Parabola" style="zoom:15%;" />    <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\cubica.png" alt="Cubica" style="zoom:15%;" />  
+
+
+
+  <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\iperbole.png" alt="Iperbole" style="zoom:15%;" />    <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\iperbole-quadratica.png" alt="Iperbole quadrata" style="zoom:15%;" />  
+
+
+
+  <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\polinomio-III-grado.PNG" alt="Cubica" style="zoom:15%;" />      <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\polinomio-IV-grado.png" alt="Iperbole quadrata" style="zoom:15%;" />
+
+
+
+### ESERCIZIO 14 - Analisi dei prezzi
 
 a) Una società di film a noleggio ha 1000 abbonati ognuno dei quali paga 15 euro al mese. Sulla base di un indagine, il management ritiene che per ogni 25 centesimi di riduzione del costo mensile di abbonamento si avrebbero 20 tesserati in più. Quale dovrebbe essere il prezzo di abbonamento mensile per avere il massimo numero di abbonati?
 
@@ -252,7 +284,7 @@ b) 50 studenti, contribuendo ciascuno con 5 euro, riescono a raccogliere 250 eur
 
 
 
-### ESERCIZIO 14 - Applicazioni 
+### ESERCIZIO 15 - Applicazioni 
 
 Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ di volta in volta il numero di oggetti/servizi acquistati o prodotti. La formula che lega i costi ai prodotti in generale è la seguente:
 $$
@@ -275,7 +307,7 @@ c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezi
 
 
 
-### ESERCIZIO 15 - Esercizio Riassuntivo   
+### ESERCIZIO 16 - Esercizio Riassuntivo   
 
 a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e 100 Km percorsi, un totale di 70 euro e la seconda, sempre per un giorno e 350 Km percorsi, 120 euro.
 
