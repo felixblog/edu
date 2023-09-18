@@ -35,9 +35,9 @@ c) Rispondi alle seguenti domande scrivendo la frazione richiesta.
 
 ![Indicatore](img/Serbatoio.png)
 
-5. Nella figura seguente sono riportati il numero dei nuovi iscritti al Corso Serale nel biennio 2015-2016.  Individua la frazione dei nuovi iscritti di ciascun anno rispetto al totale.
+5. Nella figura seguente sono riportati il numero degli alunni iscritti al Corso Serale nell'anno scolastico 2015-2016. Individua la frazione degli iscritti di ciascuna classe rispetto al totale.
 
-![Istogramma](img/Istogramma.png)
+<img src="img/Classi.png" alt="Istogramma" style="zoom:25%;" />
 
 6. Franca compra in pasticceria 2 fette di una crostata tagliata in 12 fette uguali. Il peso delle due fette è di 220 grammi. Quanto pesa tutta la crostata?   
 
