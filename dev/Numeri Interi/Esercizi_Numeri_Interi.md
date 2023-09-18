@@ -77,7 +77,7 @@ c) Una azienda negli ha realizzato negli anni i profitti riportati in figura:
 
 
 
-c) In un campionato di calcio si ha la situazione di classifica seguente:
+d) In un campionato di calcio si ha la situazione di classifica seguente:
 
 $$
 \begin{array}{l|c}
@@ -93,7 +93,7 @@ $$
 $$
 Indicando con un numero positivo il distacco tra una squadra e le inseguitrici e con un numero negativo il distacco con le precedenti in classifica, scrivi i distacchi dell'Atalanta e della Juventus. Quale è il nuovo distacco dell'Atalanta dalla Juventus se la prima dimezza il distacco esistente? 
 
-d) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
+e) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
 1. vincita di 40 punti con il primo giocatore; perdita di 170 punti con il secondo giocatore; vincita di 10 punti con il terzo giocatore;
 2. vincita di 60 punti con ciascun giocatore.
 
