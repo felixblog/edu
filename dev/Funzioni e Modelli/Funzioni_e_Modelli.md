@@ -67,17 +67,15 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 
 
 ### ESERCIZIO 4 - Funzioni lineari
-Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
+a) Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
 
-a) $f(x) = x$;
+1. $f(x) = x$;
+2. $f(x) = -x$;
+3. $f(x) = \dfrac{1}{2} x$;
+4. $f(x) = 2x +1$;
+5. $f(x) = 4x$.
 
-b) $f(x) = -x$;
-
-c) $f(x) = \dfrac{1}{2} x$;
-
-d) $f(x) = 2x +1$;
-
-e) $f(x) = 4x$.
+b) Individua quali delle successioni trovate sono crescenti e quali decrescenti.
 
 #### Laboratorio GEOGEBRA
 
@@ -92,9 +90,11 @@ a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di 
 
 ### ESERCIZIO 5 - Dipendenza lineare
 
-Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
+a) Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 
 ![F](img/f1.png)    ![F](img/f2.png)   ![F](img/f3.png) 
+
+b) Individua quali delle successioni indicate dalle tabelle sono crescenti e quali decrescenti.
 
 #### Laboratorio GEOGEBRA
 
@@ -137,7 +137,9 @@ $$
 $$
 b) Detto $x$ il prezzo e $y$ la quantità settimanale venduta, disegna in un grafico cartesiano i punti della curva di domanda presenti nella tabella precedente.
 
-c) Disegna il grafico cartesiano della curva di domanda delle bibite. 
+c) Disegna il grafico cartesiano della curva di domanda delle bibite.
+
+d) Quali considerazioni si possono fare a proposito della crescenza o decrescenza delle successioni?
 
 
 
@@ -264,15 +266,15 @@ a) Per ciascuno dei grafici seguenti individua:
 
 
 
-  <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\parabola.png" alt="Parabola" style="zoom:15%;" />    <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\cubica.png" alt="Cubica" style="zoom:15%;" />  
+  <img src="img\parabola.png" alt="Parabola" style="zoom:15%;" />    <img src="img\cubica.png" alt="Cubica" style="zoom:15%;" />  
 
 
 
-  <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\iperbole.png" alt="Iperbole" style="zoom:15%;" />    <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\iperbole-quadratica.png" alt="Iperbole quadrata" style="zoom:15%;" />  
+  <img src="img\iperbole.png" alt="Iperbole" style="zoom:15%;" />    <img src="img\iperbole-quadratica.png" alt="Iperbole quadrata" style="zoom:15%;" />  
 
 
 
-  <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\polinomio-III-grado.PNG" alt="Cubica" style="zoom:15%;" />      <img src="D:\Portable\repo\edu\dev\Funzioni di una variabile e loro proprietà\img\polinomio-IV-grado.png" alt="Iperbole quadrata" style="zoom:15%;" />
+  <img src="img\polinomio-III-grado.PNG" alt="Cubica" style="zoom:15%;" />      <img src="img\polinomio-IV-grado.png" alt="Iperbole quadrata" style="zoom:15%;" />
 
 
 
