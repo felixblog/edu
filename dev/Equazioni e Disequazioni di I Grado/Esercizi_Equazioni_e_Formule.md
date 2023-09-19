@@ -65,7 +65,7 @@ b) Regola della moltiplicazione/divisione e regola della semplificazione.
 
 2. Trova il numero da moltiplicare per 2 per avere -6:   $x \cdot 2 = -6$;
 
-3. Trova il numero che moltiplicato per $\frac{1}{2}$ dà 6:   $x \cdot 2 = 6$;
+3. Trova il numero che moltiplicato per $\dfrac{1}{2}$ dà 6:   $x \cdot 2 = 6$;
 
 4. Trova il numero che diviso per 5 da -30:   $\dfrac{x}{5} = -30$;
 
@@ -75,7 +75,7 @@ b) Regola della moltiplicazione/divisione e regola della semplificazione.
 
 7. Trova il numero che diviso per -2 da -11:  $\dfrac{c}{-2} = -11;$
 
-8. Trova il numero da dividere per $-\frac{3}{2}$ per avere $\frac{4}{5}$:   $\dfrac{c}{-\dfrac{3}{2}} = \dfrac{4}{5};$
+8. Trova il numero da dividere per $-\dfrac{3}{2}$ per avere $\dfrac{4}{5}$:   $\dfrac{c}{-\dfrac{3}{2}} = \dfrac{4}{5};$
 
 9. $-\dfrac{5}{4}h = -5;$
 
@@ -149,7 +149,7 @@ b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata 
 
 a) Risolvi la prima equazione del punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $2a -3x = 7a - 5x$ &#9166; 
+1. $l: 2a -3x = 7a - 5x$ &#9166; 
 2. $Risolvi(l, x)$ &#9166; 
 
 b) Risolvi la seconda equazione del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
@@ -249,7 +249,7 @@ b) Scrivi la disequazione corrispondente alle frasi riportate di seguito.
 
 a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $d1(x) := x - 2 < 6$ &#9166; 
+1. $d1(x) : x - 2 < 6$ &#9166; 
 2. $\{d1(0), d1(1), d1(-1)\}$ &#9166;
 
 
