@@ -282,16 +282,17 @@ Per il presente laboratorio, utilizzare la versione on-line di GEOGEBRA Classic 
 
 a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $i1 : 0 <= x <= 3$ &#9166; 
-2. $i1(2)$ &#9166;
+1. $a : 0 <= x <= 3$ &#9166; 
+2. $a(2)$ &#9166;
 
-b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($i2, i3$, etc.).
-
-c) Rappresenta graficamente il primo intervallo del punto b.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+Per rappresenta graficamente l'intervallo:
 
 1. Dal "Menu Principale" seleziona "Cambia Calcolatrice" / "Grafici";
-2.  $i2 : 0 \lt x \lt 1$ &#9166; 
-3. Dal menu della casella di input, seleziona "Impostazioni" e quindi dalla scheda "Stile" seleziona "Mostra sull'asse X".
+2. Dal menu della casella di input, seleziona "Impostazioni" e quindi dalla scheda "Stile" seleziona "Mostra sull'asse X".
+
+<img src="img\diseq-0-3.png" alt="diseq-0-3" style="zoom:25%;" />
+
+b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($b, c$, etc.).
 
 
 
