@@ -21,7 +21,7 @@ a) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $l=\{(-3,-1),(-
 
 a) Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
 
-![Fig1](img/Fig1.png)
+<img src="img/Fig1.png" alt="Fig1" style="zoom: 20%;" />
 
 b) Scrivi il sottoinsieme delle coppie precedenti che hanno entrambe le coordinate negative.
 
@@ -53,7 +53,7 @@ b) Risolvi il punto c) con la sequenza di istruzioni seguente:
 2. $P2 = (-2,2)$ &#9166;   
 3. $Retta(P1, P2)$ &#9166;   
 
-
+<img src="D:\Portable\repo\edu\dev\Piano Cartesiano e Retta\img\Retta1.png" alt="Retta1" style="zoom:20%;" />
 
 ### ESERCIZIO 4 - Campione di punti
 
@@ -81,7 +81,7 @@ Passo3: Nella vista "algebra", dal menu contestuale all'istruzione del passo 1, 
 
 Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori della $y$ calcolati e quindi posizionati i punti $(x, y)$ sul piano cartesiano.
 
-
+<img src="D:\Portable\repo\edu\dev\Piano Cartesiano e Retta\img\Campione-di-punti.png" alt="Campione-di-punti" style="zoom:20%;" />
 
 ### ESERCIZIO 5 - Grafico della retta
 
@@ -129,7 +129,7 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-
 
 ### ESERCIZIO 7 - Equazione della retta passante per due punti
 
-a) Scrivi l'equazione della retta passante per i punti A e B dati.  
+a) Scrivi l'equazione della retta passante per i punti A e B dati nei casi seguenti.  
 
 1. $A(1/2; 1),\enspace B(-1;-2)$;  
 2. $A(-2; 0),\enspace B(-2; 10)$;   
@@ -215,7 +215,7 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 1. $eq1: 3x+2y=-1$ &#9166;
 2. $eq2: 6x-9y=2$ &#9166; 
-3. $Sostituisci(eq1, \{x=5, y=-2\})$ &#9166;    (L'uguaglianza è falsa quindi cerchiamo la soluzione)
+3. $Sostituisci(eq1, \{x=5, y=-2\})$ &#9166;    (L'uguaglianza è falsa quindi cerchiamo la soluzione con il comando $Risolvi$)
 4. $Risolvi(\{eq1,eq2\}, \{x, y\})$  &#9166;
 
 

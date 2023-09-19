@@ -387,6 +387,14 @@ c) Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non
 
 Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 3 colonne con, in ogni riga, la data del sedici del mese, l'ordinale del pagamento e l'importo, come nell'esempio seguente.
 
+a)  l'abbonato non paga per 3 mesi, poi salda il debito entro la scadenza del quarto mese;
+
+a)  l'abbonato non paga per 3 mesi, poi salda il debito e contemporaneamente paga un mese in anticipo entro la scadenza del quarto mese;
+
+b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate entro il quarto mese, paga regolarmente per altri 3 mesi e quindi salda il debito entro la scadenza dell'ottavo mese;
+
+c) l'abbonato non paga nulla fino ad accumulare un debito vicino ai 200 euro. In questo caso quante righe ha la tabella?
+
 #### Esempio di SOLUZIONE
 
 L'abbonato non paga per due mesi consecutivi e poi salda tutto il debito entro il la scadenza del terzo mese 
@@ -399,14 +407,6 @@ $$
         16/04 & 3 &   0  \\
         \end{array}
 $$
-
-a)  l'abbonato non paga per 3 mesi, poi salda il debito entro la scadenza del quarto mese;
-
-a)  l'abbonato non paga per 3 mesi, poi salda il debito e contemporaneamente paga un mese in anticipo entro la scadenza del quarto mese;
-
-b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate entro il quarto mese, paga regolarmente per altri 3 mesi e quindi salda il debito entro la scadenza dell'ottavo mese;
-
-c) l'abbonato non paga nulla fino ad accumulare un debito vicino ai 200 euro. In questo caso quante righe ha la tabella?
 
 
 
