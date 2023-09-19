@@ -5,9 +5,9 @@
 
 Posiziona i punti degli insiemi seguenti su di un piano cartesiano  
 
-a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\}$;
+a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
 
-b) $T = \{(-1;0), (1;0), (0;1)\}$;
+b) $T = \{(-1;0), (1;0), (0;1)\};$
 
 c) $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
 
@@ -37,9 +37,9 @@ $H=(-3,-3)$ &#9166; .
 
 Disegna la retta che passa per ciascuno dei seguenti insiemi di punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
 
-a) $A = \{(-5;3), (1; 3), (6; 3)\}$;
+a) $A = \{(-5;3), (1; 3), (6; 3)\};$
 
-b) $B = \{(0; 0), (0; -4)\}$;
+b) $B = \{(0; 0), (0; -4)\};$
 
 c) $D = \{(-4; 4), (-2; 2), (3; -3)\}$.
 
@@ -53,17 +53,17 @@ b) Risolvi il punto c) con la sequenza di istruzioni seguente:
 2. $P2 = (-2,2)$ &#9166;   
 3. $Retta(P1, P2)$ &#9166;   
 
-<img src="D:\Portable\repo\edu\dev\Piano Cartesiano e Retta\img\Retta1.png" alt="Retta1" style="zoom:20%;" />
+<img src="img\Retta1.png" alt="Retta1" style="zoom:20%;" />
 
 ### ESERCIZIO 4 - Campione di punti
 
 a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione (una retta). Per ognuno, trova un campione di 5 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
 
-1. $A = \{(x; y): y = -1\}$;
+1. $A = \{(x; y): y = -1\};$
 
-2. $B = \{(x; y): y = 3x\}$;
+2. $B = \{(x; y): y = 3x\};$
 
-3. $C = \{(x; y): y = -x + 1\}$;
+3. $C = \{(x; y): y = -x + 1\};$
 
 4. $E = \{(x; y): x + y = 1\}$.
 
@@ -75,21 +75,21 @@ a) Risolvi il punti dell'esercizio d) seguendo le indicazioni riportate in ciasc
 
 Passo 1: Inserisci l'equazione dell'esercizio, mediante l'istruzione $f: y=x+1$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
 
-Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i 5 valori $0,1,-1, 2, -2$;
+Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i 5 valori $0,1,-1, 2, -2;$
 
 Passo3: Nella vista "algebra", dal menu contestuale all'istruzione del passo 1, scegli "Tabella di valori";
 
 Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori della $y$ calcolati e quindi posizionati i punti $(x, y)$ sul piano cartesiano.
 
-<img src="D:\Portable\repo\edu\dev\Piano Cartesiano e Retta\img\Campione-di-punti.png" alt="Campione-di-punti" style="zoom:20%;" />
+<img src="img\Campione-di-punti.png" alt="Campione-di-punti" style="zoom:20%;" />
 
 ### ESERCIZIO 5 - Grafico della retta
 
 a) Disegna le due rette rappresentate dalle seguenti equazioni trovando almeno due punti per i quali passa ciascuna di esse.
 
-1. $y = -2x$,   $y = 3x + 1$;
+1. $y = -2x$,   $y = 3x + 1;$
 
-2. $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x - \dfrac{2}{3}$;
+2. $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x - \dfrac{2}{3};$
 
 b) Disegna le due rette rappresentate dalle seguenti equazioni trovando due punti per i quali passa ciascuna di esse di cui uno è l'intersezione della retta con l'asse orizzontale
 
@@ -102,9 +102,9 @@ a) Risolvi il punto a) dell'esercizio seguendo le indicazioni riportate in ciasc
 
 Passo 1: Inserisci l'istruzione $f: y=-2x$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
 
-Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i valori $0,1,-1$;
+Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i valori $0,1,-1;$
 
-Passo3: Nella vista "algebra", dal menu contestuale all'istruzione del passo 1, scegli "Tabella di valori";
+Passo 3: Nella vista "algebra", dal menu contestuale all'istruzione del passo 1, scegli "Tabella di valori";
 
 Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori $0, 2, -2$ e posizionati i punti sul piano cartesiano.
 
@@ -117,9 +117,9 @@ b) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y = \dfrac{1
 ### ESERCIZIO 6 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
-a) $\{(4; -5), (2; 3)\}$; 
+a) $\{(4; -5), (2; 3)\};$ 
 
-b) $\{(-3; 1), (-1; -2)\}$;
+b) $\{(-3; 1), (-1; -2)\};$
 
 c) $\{(4; 1/2), (2/3; -2)\}$.  
 
@@ -131,9 +131,9 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-
 
 a) Scrivi l'equazione della retta passante per i punti A e B dati nei casi seguenti.  
 
-1. $A(1/2; 1),\enspace B(-1;-2)$;  
-2. $A(-2; 0),\enspace B(-2; 10)$;   
-3. $A(1;-1),\enspace B(-1/2;1/2)$;    
+1. $A(1/2; 1),\enspace B(-1;-2);$  
+2. $A(-2; 0),\enspace B(-2; 10);$   
+3. $A(1;-1),\enspace B(-1/2;1/2);$    
 
 b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti. 
 
@@ -157,8 +157,8 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 a) Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri
 
-1. $m=1, \; q=1$;       $m=-1, \;  q=0$;       $m=0, \; q=-2$;
-2. $m=\dfrac{1}{2}, \; q=2$;       $m=-\dfrac{3}{4}, \; q= -5$;        $m=-\dfrac{2}{5}, \; q= -\dfrac{1}{3}$;
+1. $m=1, \; q=1;$       $m=-1, \;  q=0;$       $m=0, \; q=-2;$
+2. $m=\dfrac{1}{2}, \; q=2;$       $m=-\dfrac{3}{4}, \; q= -5;$        $m=-\dfrac{2}{5}, \; q= -\dfrac{1}{3};$
 
 b) Scrivi in forma implicita le seguenti equazioni di rette
 
@@ -179,8 +179,8 @@ a) Risolvi il punto a.2.1 dell'esercizio con la sequenza di istruzioni GEOGEBRA 
 
 b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
 
-1. $Risolvi(y-x+2=0,\{y\})$ &#9166;   
-2. $Risolvi(y-4=x+9,\{y\})$  &#9166;
+1. $Risolvi(y-x+2=0,y)$ &#9166;   
+2. $Risolvi(y-4=x+9,y)$  &#9166;
 
 
 
@@ -225,15 +225,15 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
 1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0$  
-2. $x+3y=-1; \> x-y=7$;
+2. $x+3y=-1; \> x-y=7;$
 
 b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
 c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
 
 d) Individua per quali intervalli i polinomi seguenti sono positivi o negativi:
 
-1. $\dfrac{1}{2}x$;   $\dfrac{-1}{3}x - 4$ ;   $11$;
-2. $\dfrac{11}{8}(x-16)$;   $-2x + 11$.
+1. $\dfrac{1}{2}x;$   $\dfrac{-1}{3}x - 4$ ;   $11;$
+2. $\dfrac{11}{8}(x-16);$   $-2x + 11$.
 
 #### Laboratorio GEOGEBRA
 
@@ -256,8 +256,8 @@ c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),
 
 a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
 
-1. $y = 3x - 2$;   $-x + y -4=0$;   $y = \dfrac{2}{3}x$;   $x - y - 5=0$;   $2x+6y-1=0$.
-2. $y = x + \dfrac{1}{3}$;   $y = \dfrac{1}{3}x$;   $y = \dfrac{2}{3}x$;   $y = \dfrac{1}{3}x + \dfrac{1}{3}$;   $y=+\dfrac{1}{3}$.
+1. $y = 3x - 2;$   $-x + y -4=0;$   $y = \dfrac{2}{3}x;$   $x - y - 5=0;$   $2x+6y-1=0$.
+2. $y = x + \dfrac{1}{3};$   $y = \dfrac{1}{3}x;$   $y = \dfrac{2}{3}x;$   $y = \dfrac{1}{3}x + \dfrac{1}{3};$   $y=+\dfrac{1}{3}$.
 
 b) Scrivi le equazioni di due rette parallele alla retta di equazione $2y +  5 =  0$ e di due parallele alla retta di
 equazione $4x  - 3 = 0$.
@@ -266,9 +266,9 @@ c) Stabilisci se la retta che passa per i punti $A(2;  7)$ e $B( 1; 5)$ è paral
 
 d) Per ciascuna retta, scrivi l’equazione della parallela e della perpendicolare a essa e passanti per il punto $A$.
 
-1. $y = \dfrac{1}{3}x$;   $A(1; 1)$.
-2. $y + 3x + 2 = 0$;   $A(0; -2)$.
-3. $y - \dfrac{1}{2}x = 5$;   $A(-1; -1)$.
+1. $y = \dfrac{1}{3}x;$   $A(1; 1)$.
+2. $y + 3x + 2 = 0;$   $A(0; -2)$.
+3. $y - \dfrac{1}{2}x = 5;$   $A(-1; -1)$.
 
 #### Laboratorio GEOGEBRA
 
