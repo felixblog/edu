@@ -5,26 +5,26 @@
 
 a) Calcola il valore delle seguenti espressioni.
 
-1. $6 - 3$;    $6 : 3$;    $6 + 3$;     $6 · 3$;
+1. $6 - 3;$    $6 : 3;$    $6 + 3;$     $6 · 3;$
 
-2. $15 + 10 + 3$;    $8 + 5 + 2 + 4$;    $17 - 9 - 1 - 1$;
+2. $15 + 10 + 3;$    $8 + 5 + 2 + 4;$    $17 - 9 - 1 - 1;$
 
-3. $8 · 12 + 5$;     $22 + 8 · 12$;
+3. $8 · 12 + 5;$     $22 + 8 · 12;$
 
-4. $6 − 10 : 2 + 3$;
+4. $6 − 10 : 2 + 3;$
 
-5. $15 + 30 : 3 : 2 + 1$;
+5. $15 + 30 : 3 : 2 + 1;$
 
 6. $16 : 4 · 8$  
 
 b) Individua quanti e quali numeri ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-1. $4 + 6·9$;
-2. $(4 + 6)·9$;
-3. $4 + (6·9)$;
-4. $10 - 2 · 3 + 4 · 5$;
-5. $15 + 20 : 4 − 2$;
-6. $15 + 20 : (4 − 2)$;  
+1. $4 + 6·9;$
+2. $(4 + 6)·9;$
+3. $4 + (6·9);$
+4. $10 - 2 · 3 + 4 · 5;$
+5. $15 + 20 : 4 − 2;$
+6. $15 + 20 : (4 − 2);$  
 
 #### Laboratorio GEOGEBRA
 
@@ -48,11 +48,11 @@ c) Sottrai 3 al risultato della divisione di 12 per la differenza tra 5 ed 1.
 
 Scrivi a parole le seguenti espressioni:  
 
-a) $12 − 6 : 3$;
+a) $12 − 6 : 3;$
 
-b) $(15 − 10) · 3 + 2$;
+b) $(15 − 10) · 3 + 2;$
 
-c) $8·(12 : 6 − 2) + 1$;
+c) $8·(12 : 6 − 2) + 1;$
 
 d) $6 − (15 : (2 + 3))$.
 
@@ -84,10 +84,10 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $Successione(25k, \; k, \; 1, \; 4))$;
-2. $Successione(40k, \; k, \; 1, \; 4))$;
-3. $Successione(33k, \; k, \; 1, \; 4))$;
-4. $Successione(6k, \; k, \; 1, \; 4))$;
+1. $Successione(25k, \; k, \; 1, \; 4)$&#9166; 
+2. $Successione(40k, \; k, \; 1, \; 4)$&#9166; 
+3. $Successione(33k, \; k, \; 1, \; 4)$&#9166; 
+4. $Successione(6k, \; k, \; 1, \; 4)$&#9166; 
 
 c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
@@ -127,14 +127,14 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 a) Individua quanti e quali numeri ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-1. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5]$;
-2. $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10]$;
-3. $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10]$;
+1. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5];$
+2. $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10];$
+3. $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10];$
 
 b) Calcola il valore delle seguenti espressioni.
 
-1. $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} ) \enspace\enspace\enspace[R. 16]$;
-2. $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21]$;
+1. $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} ) \enspace\enspace\enspace[R. 16];$
+2. $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21];$
 3. $((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))\enspace\enspace\enspace[R. 12]$  
 
 #### Laboratorio GEOGEBRA
@@ -145,15 +145,15 @@ Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il 
 ### ESERCIZIO 7 - Sostituzioni
 
 Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
-a) $5 \cdot x, \enspace \{x = 50\}$;  
+a) $5 \cdot x, \enspace \{x = 50\};$  
 
-b) $2 \cdot y, \enspace \{y = 32\}$;
+b) $2 \cdot y, \enspace \{y = 32\};$
 
-c) $a − b, \enspace \{a = 10, b = 7\}$;
+c) $a − b, \enspace \{a = 10, b = 7\};$
 
-d) $a^{2} − b^{2}, \enspace \{a = 1, b = 1\}$;     $a^{2} − b^{2}, \enspace \{a = 3, b = 2\}$;
+d) $a^{2} − b^{2}, \enspace \{a = 1, b = 1\};$     $a^{2} − b^{2}, \enspace \{a = 3, b = 2\};$
 
-e) $2 \cdot a \cdot (b + 1) - 6ab , \enspace \{a = 3, b = 0\}$;
+e) $2 \cdot a \cdot (b + 1) - 6ab , \enspace \{a = 3, b = 0\};$
 
 f ) $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
 
@@ -174,15 +174,15 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 ### ESERCIZIO 8 - Dalle espressioni ai diagrammi ad albero
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
 
-a) $4 + 6·9$;
+a) $4 + 6·9;$
 
-b) $(4 + 6)·9$;
+b) $(4 + 6)·9;$
 
-c) $15 + 20 : 4 − 2$;
+c) $15 + 20 : 4 − 2;$
 
-d) $15 + 20 : (4 − 2)$;
+d) $15 + 20 : (4 − 2);$
 
-e) $((27 + 2) - 4 : (3 + 1)) - 20 $;
+e) $((27 + 2) - 4 : (3 + 1)) - 20 ;$
 
 f) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $.
 
@@ -230,15 +230,15 @@ c) Quali delle uguaglianze seguenti sono vere? Quali false?
 
 d) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
 
-1. $2^{5}:2^{4} + 2·2^{2} - 2^{0}$;  
-2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5}$;  
+1. $2^{5}:2^{4} + 2·2^{2} - 2^{0};$  
+2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5};$  
 3. $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
 
 e) Applicando le proprietà delle potenze, semplifica le seguenti espressioni scrivendole utilizzando il minor numero di potenze.  
 
-1. $2^{5}:2^{4} + 2·2^{2} - 2^{0}$;  
+1. $2^{5}:2^{4} + 2·2^{2} - 2^{0};$  
 
-2. $(3^{4} · 3^{3})^{4} · 3^{5} · (3^{2} )^{4}$;   
+2. $(3^{4} · 3^{3})^{4} · 3^{5} · (3^{2} )^{4};$   
 
 3. $2^{6} · 3^{6} · (18^{4} · 3^{4});$  
 
@@ -251,8 +251,8 @@ a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
 b) Le seguenti scomposizioni non sono in fattori primi. Modificale in modo che ogni fattore sia primo e scrivi la
 scomposizione in potenze di numeri primi.
 
-1. $2 \cdot 6 \cdot 8$;     $3 \cdot 6 \cdot 9$;     $3 \cdot 33 \cdot 21$;    $26 \cdot 22 \cdot 34$;
-2. $15^3 \cdot 3^2$;    $13^2 \cdot 26$.
+1. $2 \cdot 6 \cdot 8;$     $3 \cdot 6 \cdot 9;$     $3 \cdot 33 \cdot 21;$    $26 \cdot 22 \cdot 34;$
+2. $15^3 \cdot 3^2;$    $13^2 \cdot 26$.
 
 #### Laboratorio GEOGEBRA
 a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
@@ -276,11 +276,11 @@ b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
 
 a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $MCM(\{6,8\})$&#9166;;     $MCD(\{6,8\})$&#9166;
+1. $MCM(6,8)$&#9166;;     $MCD(6,8)$&#9166;
 
-2. $MCM(\{15,10\})$&#9166;;     $MCD(\{15,10\})$&#9166;
+2. $MCM(15,10)$&#9166;;     $MCD(15,10)$&#9166;
 
-3. $MCM(\{24,25\})$&#9166;;      $MCD(\{24,25\})$&#9166;
+3. $MCM(24,25)$&#9166;;      $MCD(24,25)$&#9166;
 
 
 
@@ -289,19 +289,19 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
 
-1. $15 + 10 = MCD\cdot(? + ?)$;        $[R. \,\, 5(3+2)]$.  
-2. $6 + 8 = MCD \cdot (? + ?)$;        $[R. \,\, 2(3+4)]$.  
+1. $15 + 10 = MCD\cdot(? + ?);$        $[R. \,\, 5(3+2)]$.  
+2. $6 + 8 = MCD \cdot (? + ?);$        $[R. \,\, 2(3+4)]$.  
 3. $350 + 252 = ?(?+?)$.
 
 b) Scrivi le seguenti somme e differenze di numeri come prodotto, analogamente all'esercizio precedente.
 
-1. $2 + 4 + 6$;     $15 - 10$;
-2. $6 - 4 - 2$;     $220 - 110 - 50 + 30$.
+1. $2 + 4 + 6;$     $15 - 10;$
+2. $6 - 4 - 2;$     $220 - 110 - 50 + 30$.
 
 #### Esempio di SOLUZIONE
 
 a.1) Per scrivere la soluzione seguire i passi riportati:
 
-1. calcolare il $MCD(15, 10) \Rightarrow 5$;
-2. dividere i numeri per il $MCD$:  $15:5 \Rightarrow 3$ e $10:5 \Rightarrow 2$;
+1. calcolare il $MCD(15, 10) \Rightarrow 5;$
+2. dividere i numeri per il $MCD$:  $15:5 \Rightarrow 3$ e $10:5 \Rightarrow 2;$
 3. scrivere $15 + 10 = 5(3 + 2)$.
