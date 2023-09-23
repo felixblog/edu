@@ -4,15 +4,15 @@
 
 # I Numeri Interi
 
-### ESERCIZIO 1 - Rappresentazione grafica dei numeri interi
+### ESERCIZIO 1 - Posizione dei numeri interi su una retta
 
-a) Rappresenta su una retta orientata orizzontale i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6.$
+a) Posiziona su una retta orientata orizzontale i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6$. Fai uno spostamento a partire dallo zero verso DX se il numero è positivo e verso SX se è negativo. Alla fine dello spostamento disegna il punto.
 
 #### Soluzione
 
 ![Esercizio-1](img\Esercizio-1.png)
 
-b) Rappresenta su una retta orientata verticale i numeri: $0, -2, 2, 3, 4, -4$. 
+b) Posiziona su una retta orientata verticale i numeri: $0, -2, 2, 3, 4, -4$ Fai uno spostamento a partire dallo zero verso l'alto se il numero è positivo e verso il basso se è negativo. Alla fine dello spostamento disegna il punto.
 
 #### Soluzione
 
@@ -252,9 +252,9 @@ a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
 
 
 
-### ESERCIZIO 11 - Coordinate dei Punti sul piano cartesiano
+### ESERCIZIO 11 - Posizione di coppie di numeri su un piano
 
-Posiziona i punti degli insiemi seguenti su di un piano cartesiano  
+Posiziona le coppie di numeri interi riportate di seguito su un piano con due rette perpendicolari (riferimento cartesiano). Fai un primo spostamento a partire dal centro del piano a destra (DX) o sinistra (SX) se il primo numero è positivo o negativo ed un secondo in alto o in basso se il secondo è positivo o negativo. Alla fine dei due spostamenti disegna il punto.
 
 a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
 
@@ -274,13 +274,13 @@ a) Risolvi il punti a), b) e c) dell'esercizio con le istruzioni GEOGEBRA:
 
 
 
-### ESERCIZIO 12 - Coordinate dei punti
+### ESERCIZIO 12 - Dai punti alle coppie di interi
 
-a) Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
+a) Scrivi l'insieme delle coppie di numeri interi corrispondenti ai punti in figura.
 
 <img src="img\Coordinate-dei-Punti.png" alt="Coordinate-dei-Punti" style="zoom:20%;" />
 
-b) Scrivi il sottoinsieme delle coppie precedenti che hanno entrambe le coordinate negative.
+b) Scrivi il sottoinsieme delle coppie precedenti che hanno entrambi i numeri negativi.
 
 #### Laboratorio GEOGEBRA
 
@@ -342,42 +342,66 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 1. $x^2,\ \{x=2\};$     $x^2,\ \{x=-2\};$     $-x^2,\ \{x=2\};$     $-x^2,\ \{x=-2\};$
 2. $-2x + x^2 + 1,\ \{x=2\}$.
 
-b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
-
-1. $(1 - y)y + 3,\ \{y=-5\};$
-2. $(1 - y)y + 3,\ \{y=1\};$     $(1 - y)y + 3,\ \{y=-1\};$
-3. $(1 - y)y + 3,\ \{y=0\};$     $(1 - y)y + 3,\ \{y=4\};$  
-
-#### Esempio di SOLUZIONE
-
-Sostituzione del punto b.1: $(1 - (-5))(-5) + 3;$
-
-#### Laboratorio GEOGEBRA
-
-Risolvi i punti a.2) e b.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-1. $Sostituisci(-2 x+x^2+1,{x = 2})$&#9166;
-2. $Sostituisci (1 - y)\cdot y + 3,{y = -5})$&#9166;
-
-
-
-### ESERCIZIO 16 - Sostituzioni (II)
-
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore (ogni sostituzione riguarda due lettere).
 
 1. $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ \{a=2,\ b=-2\}$  
 2. $3ab-5a^{2}+3a-1,\ \{a=-2,\ b=-8\}$  
 3. $(a+b)(a-b)+ab-a^{2},\ \{a=6,\ b=-3\}$  
 4. $(x^{2}+a)x-a(x-1):(x+1)+4a,\ \{x=1,a=-9\}$
 
-b) Scrivere gli alberi relativi alle espressioni numeriche dei punti a.1 ed a.2.
+C) Scrivere gli alberi relativi alle espressioni numeriche dei punti a.1 ed a.2.
 
 #### Laboratorio GEOGEBRA
 
 Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $l = 3a\cdot b - 5a^2+3a-1$&#9166;
-2. $Sostituisci(l,\{a = -2, b = -8\})$&#9166;
+2. $Sostituisci(l,\{a = -2, b = -8\})$
+
+
+
+### ESERCIZIO 16 - Sostituzioni (II)
+
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore. Se nella parentesi graffa ci sono più numeri devi fare più sostituzioni.
+
+1. $a^2 ,\,\,\ a \in \{-5, 5\};$
+2. $a^2 ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+3. $(1 - a)\cdot a + 3,\,\,\ a \in \{0, 1, -1, 2, -2\}.$
+
+#### Esempio di SOLUZIONE
+
+Sostituzione del punto a.1: $\{0^2, 1^2, (-1)^2,2^2, (-2)^2\} \rightarrow 	\{0,1, 1, 4, 4\}$
+
+
+
+b) Organizza le sostituzioni del punto a) in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dall'espressione sostituita.
+
+#### Esempio di SOLUZIONE
+
+Sostituzioni del punto a.2) 
+$$
+\begin{array}{r|c}
+a & Valore\\
+\hline
+0 & 0  \\
+1 & 1  \\
+-1 & 1  \\
+2 & 4  \\
+-2 & 4  \\
+\end{array}
+$$
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi i punti a.2) e b.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $Sostituisci(-2 x+x^2+1,{x = 2})$&#9166;
+2. $Sostituisci (1 - y)\cdot y + 3,{y = -5})$&#9166;
+
+b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice GRAFICI):
+
+1. $Compatta(a^2,a,\{-5,5\});$
+2. $Compatta(a^2,a,\{0,-1,1,-2,2\});$
 
 
 
