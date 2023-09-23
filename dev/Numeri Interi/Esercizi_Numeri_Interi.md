@@ -203,7 +203,7 @@ b.2)
 
 
 
-### ESERCIZIO 9 - Dalle parole alle espressioni (I)
+### ESERCIZIO 9 - Dalle parole alle espressioni I
 
 Traduci in espressioni le seguenti frasi e calcolane il valore.  
 
@@ -228,7 +228,7 @@ a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
 
 
 
-### ESERCIZIO 10 - Dalle parole alle espressioni (II)
+### ESERCIZIO 10 - Dalle parole alle espressioni II
 
 Traduci in espressioni le seguenti frasi indicando con la lettera ‘$x$’ il numero generico citato; calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
 
@@ -335,7 +335,7 @@ d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)
 
 
 
-### ESERCIZIO 15 - Sostituzioni (I)
+### ESERCIZIO 15 - Sostituzioni I - Sostituzioni di una e due lettere
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (i numeri con segno, nell'espressione sostituita, devono essere tra parentesi tonde).
 
@@ -356,32 +356,36 @@ C) Scrivere gli alberi relativi alle espressioni numeriche dei punti a.1 ed a.2.
 Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $l = 3a\cdot b - 5a^2+3a-1$&#9166;
-2. $Sostituisci(l,\{a = -2, b = -8\})$
+2. $Sostituisci(l,\{a = -2, b = -8\})$&#9166;
 
 
 
-### ESERCIZIO 16 - Sostituzioni (II)
+### ESERCIZIO 16 - Sostituzioni II - Sequenze di sostituzioni e tabelle
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore. Se nella parentesi graffa ci sono più numeri devi fare più sostituzioni.
+a) Scrivi le espressioni numeriche ottenute sostituendo alla lettera presente uno alla volta i numeri indicati tra le parentesi graffe e calcola il loro valore.
 
-1. $a^2 ,\,\,\ a \in \{-5, 5\};$
+1. $2 \cdot a ,\,\,\ a \in \{-5, 5\};$
 2. $a^2 ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
-3. $(1 - a)\cdot a + 3,\,\,\ a \in \{0, 1, -1, 2, -2\}.$
+3. $2 \cdot a + 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
 
 #### Esempio di SOLUZIONE
 
-Sostituzione del punto a.1: $\{0^2, 1^2, (-1)^2,2^2, (-2)^2\} \rightarrow 	\{0,1, 1, 4, 4\}$
+Sostituzione del punto a.2: $\{0^2, 1^2, (-1)^2,2^2, (-2)^2\} \rightarrow 	\{0,1, 1, 4, 4\}$
 
 
 
-b) Organizza le sostituzioni del punto a) in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dall'espressione sostituita.
+b) Organizza le sostituzioni seguenti in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dall'espressione sostituita.
+
+1. $a^2 ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+2. $-a + 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+3. $-2a - 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
 
 #### Esempio di SOLUZIONE
 
-Sostituzioni del punto a.2) 
+Sostituzioni del punto a.1) 
 $$
 \begin{array}{r|c}
-a & Valore\\
+a & a^2\\
 \hline
 0 & 0  \\
 1 & 1  \\
@@ -393,19 +397,28 @@ $$
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti a.2) e b.1) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+a) Risolvi i punti a.1) e a.2) con le istruzioni GEOGEBRA seguenti (calcolatrice **GRAFICI**):
 
-1. $Sostituisci(-2 x+x^2+1,{x = 2})$&#9166;
-2. $Sostituisci (1 - y)\cdot y + 3,{y = -5})$&#9166;
+1. $Compatta(2 \cdot a,a,\{-5, 5\});$
+2. $Compatta(-a +1,a,\{0,1,-1,2,-2\});$
 
-b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice GRAFICI):
+b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
 
-1. $Compatta(a^2,a,\{-5,5\});$
-2. $Compatta(a^2,a,\{0,-1,1,-2,2\});$
+1. Inserisci l'espressione letterale, dagli un nome e la lettera da sostituire con l'istruzione seguente:
+
+   $f(a) := a^2;$&#9166;
+
+2. Selezione "Tabella" e nella prima colonna inserisci i valori $0, 1, -1, 2, -2$;
+
+3. Selezione "Algebra" e dal menu di inserimento seleziona la voce "Tabella di Valori";
+
+4. Nella tabella compaiono i numeri da sostituire ed i valori dell'espressione.
+
+<img src="img\Tabella-Sostituzioni.png" alt="Tabella-Sostituzioni" style="zoom:80%;" />
 
 
 
-### ESERCIZIO 17 - Sostituzioni (III)
+### ESERCIZIO 17 - Sostituzioni III - Ricerca di sostituzioni
 
 a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
@@ -421,7 +434,7 @@ b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostit
 
 
 
-### ESERCIZIO 18 - Dalle parole alle espressioni (III)
+### ESERCIZIO 18 - Dalle parole alle espressioni III
 
 Essendo $a$ e $b$ due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni sostituendo alle lettere i numeri assegnati.
 

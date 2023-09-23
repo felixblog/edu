@@ -79,7 +79,7 @@ b) Individua quali delle successioni trovate sono crescenti e quali decrescenti.
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$:
+a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$ (usa la calcolatrice **GRAFICI**):
 
 1. $f(x) := x$ &#9166; 
 2. $Compatta((k,f(k)),k,\{0,2, -2, 4, -4\})$ &#9166; 
