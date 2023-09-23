@@ -254,13 +254,17 @@ a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
 
 ### ESERCIZIO 11 - Posizione di coppie di numeri su un piano
 
-Posiziona le coppie di numeri interi riportate di seguito su un piano con due rette perpendicolari (riferimento cartesiano). Fai un primo spostamento a partire dal centro del piano a destra (DX) o sinistra (SX) se il primo numero è positivo o negativo ed un secondo in alto o in basso se il secondo è positivo o negativo. Alla fine dei due spostamenti disegna il punto.
+Disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) per ogni coppa di numeri interi riportata di seguito . La posizione del punto si individua con due spostamenti. Fai un primo spostamento a partire dal centro del piano a destra (DX) o sinistra (SX) se il primo numero è positivo o negativo ed un secondo in alto o in basso se il secondo è positivo o negativo. Alla fine dei due spostamenti disegna il punto.
 
 a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
 
 b) $T = \{(-1;0), (1;0), (0;1)\};$
 
 c) $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
+
+#### SOLUZIONE
+
+<img src="img\Es-11.a.png" alt="Es-11.a" style="zoom:10%;" />   <img src="img\Es-11.b.png" alt="Es-11.b" style="zoom:10%;" />     <img src="img\Es-11.c.png" alt="Es-11.c" style="zoom:10%;" />
 
 #### Laboratorio GEOGEBRA
 
@@ -269,14 +273,11 @@ a) Risolvi il punti a), b) e c) dell'esercizio con le istruzioni GEOGEBRA:
 1. $Q=\{(1,1),(-1,1),(-1,-1), (1, -1)\}$ &#9166; .
 2. $T=\{(-1,0),(1,0),(0,-1)\}$ &#9166; .
 3. $R=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
-
-<img src="img\Es-11.a.png" alt="Es-11.a" style="zoom:10%;" />   <img src="img\Es-11.b.png" alt="Es-11.b" style="zoom:10%;" />     <img src="img\Es-11.c.png" alt="Es-11.c" style="zoom:10%;" />
-
-
+4. 
 
 ### ESERCIZIO 12 - Dai punti alle coppie di interi
 
-a) Scrivi l'insieme delle coppie di numeri interi corrispondenti ai punti in figura.
+a) Scrivi le coppie di numeri interi corrispondenti ai punti in figura.
 
 <img src="img\Coordinate-dei-Punti.png" alt="Coordinate-dei-Punti" style="zoom:20%;" />
 
