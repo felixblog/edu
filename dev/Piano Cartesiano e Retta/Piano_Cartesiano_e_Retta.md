@@ -1,39 +1,7 @@
 
 # Piano Cartesiano e Retta
 
-### ESERCIZIO 1 - Posizione dei Punti
-
-Posiziona i punti degli insiemi seguenti su di un piano cartesiano  
-
-a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
-
-b) $T = \{(-1;0), (1;0), (0;1)\};$
-
-c) $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $l=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
-
-
-
-### ESERCIZIO 2 - Coordinate dei punti
-
-a) Scrivi l'insieme delle coppie di coordinate relative ai punti in figura
-
-<img src="img/Fig1.png" alt="Fig1" style="zoom: 20%;" />
-
-b) Scrivi il sottoinsieme delle coppie precedenti che hanno entrambe le coordinate negative.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto b) dell'esercizio precedente con l'istruzione GEOGEBRA: 
-
-$H=(-3,-3)$ &#9166; .
-
-
-
-### ESERCIZIO 3 - Punti allineati
+### ESERCIZIO 1 - Punti allineati
 
 Disegna la retta che passa per ciascuno dei seguenti insiemi di punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
 
@@ -55,7 +23,7 @@ b) Risolvi il punto c) con la sequenza di istruzioni seguente:
 
 <img src="img\Retta1.png" alt="Retta1" style="zoom:20%;" />
 
-### ESERCIZIO 4 - Campione di punti
+### ESERCIZIO 2 - Campione di punti
 
 a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione (una retta). Per ognuno, trova un campione di 5 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
 
@@ -83,7 +51,7 @@ Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori del
 
 <img src="img\Campione-di-punti.png" alt="Campione-di-punti" style="zoom:20%;" />
 
-### ESERCIZIO 5 - Grafico della retta
+### ESERCIZIO 3 - Grafico della retta
 
 a) Disegna le due rette rappresentate dalle seguenti equazioni trovando almeno due punti per i quali passa ciascuna di esse.
 
@@ -114,7 +82,7 @@ b) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y = \dfrac{1
 
 
 
-### ESERCIZIO 6 - Coefficiente angolare di una retta
+### ESERCIZIO 4 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
 a) $\{(4; -5), (2; 3)\};$ 
@@ -127,7 +95,7 @@ c) $\{(4; 1/2), (2/3; -2)\}$.
 
 a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-2 - 1}{-1 - \dfrac{1}{2}}$ &#9166; .
 
-### ESERCIZIO 7 - Equazione della retta passante per due punti
+### ESERCIZIO 5 - Equazione della retta passante per due punti
 
 a) Scrivi l'equazione della retta passante per i punti A e B dati nei casi seguenti.  
 
@@ -153,7 +121,7 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 
 
-### ESERCIZIO 8 - Forma implicita ed esplicita
+### ESERCIZIO 6 - Forma implicita ed esplicita
 
 a) Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri
 
@@ -184,7 +152,7 @@ b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA r
 
 
 
-### ESERCIZIO 9 - Interpretazione geometrica dei sistemi
+### ESERCIZIO 7 - Interpretazione geometrica dei sistemi
 
 Dati i sistemi seguenti, per ciascuno di essi disegna le due rette, controlla se la coppia fornita è il loro punto di intersezione e, nel caso non lo fosse, trovalo. 
 
@@ -220,7 +188,7 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 10 - Problemi sulla retta
+### ESERCIZIO 8 - Problemi sulla retta
 
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
@@ -252,7 +220,7 @@ c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),
 
 
 
-### ESERCIZIO 11: Rette parallele e perpendicolari
+### ESERCIZIO 9: Rette parallele e perpendicolari
 
 a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
 
@@ -279,7 +247,7 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 
 
-### ESERCIZIO 12 - Pendenza di una linea
+### ESERCIZIO 10 - Pendenza di una linea
 
 a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione $3x + 4y = 12$.
 
