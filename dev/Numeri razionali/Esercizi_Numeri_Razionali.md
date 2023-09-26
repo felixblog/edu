@@ -511,9 +511,13 @@ a & a + \dfrac{1}{2}\\
 \end{array}
 $$
 
-c) Disegna su di un piano cartesiano cinque punti; metti ogni punto nella posizione indicata da una riga della tabella dell'esercizio b.1.
+c) Disegna su di un piano cartesiano cinque punti; considera come coordinate dei punti i due numeri delle righe della tabella dell'esercizio b.1.
 
 #### Laboratorio GEOGEBRA
+
+Inserisci le coppie di punti nella calcolatrice GRAFICI.
+
+<img src="img\Sostituzioni-II.png" alt="Sostituzioni-II" style="zoom:15%;" />
 
 
 

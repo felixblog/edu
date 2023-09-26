@@ -254,31 +254,47 @@ a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
 
 ### ESERCIZIO 11 - Posizione di coppie di numeri su un piano
 
-Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) . La posizione del punto si individua con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo spostamento sarà verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti disegna il punto.
+a) Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) . La posizione del punto si individua con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo spostamento sarà verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti disegna il punto.
 
-a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
-
-b) $T = \{(-1;0), (1;0), (0;1)\};$
-
-c) $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
+1. $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
+2. $T = \{(-1;0), (1;0), (0;1)\};$
+3. $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
 
 #### SOLUZIONI
 
 <img src="img\Es-11.a.png" alt="Es-11.a" style="zoom:10%;" />   <img src="img\Es-11.b.png" alt="Es-11.b" style="zoom:10%;" />     <img src="img\Es-11.c.png" alt="Es-11.c" style="zoom:10%;" />
 
+
+
+b) La tabella seguente riporta le temperature misurate in una città alle otto del mattino nei primi 5 giorni del mese di Dicembre del 2022.
+$$
+\begin{array}{c|r|r|r|r|r|r|r|r|r|r|}
+\text{Giorno} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10\\
+\hline
+\text{Gradi}  & 5 & 7 & 9 & 4 & 0 & -1 & -3 & 1 & 1 & -2\\
+\end{array}
+$$
+Considera i due numeri di ogni colonna una coppia di coordinate (es. $(1,5), (2,7)$) e posiziona in un piano cartesiano un punto in loro corrispondenza.
+
+#### SOLUZIONE
+
+<img src="img\Temperature.png" alt="Temperature" style="zoom:15%;" />
+
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punti a), b) e c) dell'esercizio con le istruzioni GEOGEBRA: 
+a) Risolvi il punti a.1, a.2 e a.3 dell'esercizio con le istruzioni GEOGEBRA: 
 
 1. $Q=\{(1,1),(-1,1),(-1,-1), (1, -1)\}$ &#9166; .
 2. $T=\{(-1,0),(1,0),(0,-1)\}$ &#9166; .
 3. $R=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
 
+b) Inserisci nella prima colonna della tabella GEOGEBRA (colonna "x") i dati del Giorno e nella seconda colonna (la "y") i gradi di temperatura. 
 
 
-### ESERCIZIO 12 - Dai punti alle coppie di interi
 
-a) Scrivi le coppie di numeri interi corrispondenti ai punti in figura.
+### ESERCIZIO 12 - Dai punti alle coppie di coordinate
+
+a) Scrivi le coppie di numeri interi  (coordinate) che individuano i punti in figura.
 
 <img src="img\Coordinate-dei-Punti.png" alt="Coordinate-dei-Punti" style="zoom:20%;" />
 
