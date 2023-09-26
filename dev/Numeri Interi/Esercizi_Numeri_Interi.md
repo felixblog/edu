@@ -6,7 +6,7 @@
 
 ### ESERCIZIO 1 - Posizione dei numeri interi su una retta
 
-a) Posiziona su una retta orientata orizzontale i seguenti numeri: $+3, -7, +4, -2, 0, +1, -6$. Fai uno spostamento a partire dallo zero verso DX se il numero è positivo e verso SX se è negativo. Alla fine dello spostamento disegna il punto.
+a) Posiziona su una retta orientata orizzontale i seguenti numeri: $+3, -5, +4, -2, 0, +1, -4$. Fai uno spostamento a partire dallo zero verso DX se il numero è positivo e verso SX se è negativo. Alla fine dello spostamento disegna il punto.
 
 #### Soluzione
 
