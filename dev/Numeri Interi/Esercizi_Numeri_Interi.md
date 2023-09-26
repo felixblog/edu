@@ -16,7 +16,7 @@ b) Posiziona su una retta orientata verticale i numeri: $0, -2, 2, 3, 4, -4$ Fai
 
 #### Soluzione
 
-<img src="img\Esercizio-1b.png" alt="Esercizio-1b" style="zoom: 7%;" />
+<img src="img\Esercizio-1b.png" alt="Esercizio-1b" style="zoom: 5%;" />
 
 
 
