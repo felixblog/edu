@@ -45,39 +45,30 @@ Risolvi le seguenti equazioni applicando le regole indicate.
 
 a) Regola del trasporto, regola della semplificazione.
 
-1. Trova il numero da sommare a 5 per avere 7:  $5 + x = 7$;
+1. Trova il numero da sommare a $5$ per avere $7$:  $5 + x = 7$;
 
-2. Trova il numero da sommare a 1 per avere 0:  $x + 1 = 0$;
+2. Trova il numero da sommare a $1$ per avere $0$:  $x + 1 = 0$;
 
-3. Trova il numero da sommare a -2 per avere -5:  $-2 + x = -5$;
+3. Trova il numero da sommare a $-2$ per avere $-5$:  $-2 + x = -5$;
 
-4. Trova il numero che sommato ad -1 dà 4:  $x - 1 = 3$;
+4. Trova il numero che sommato a $-1$ dà $4$:  $x - 1 = 3$;
 
-5. Trova il numero che sommato ad $\frac{1}{2}$ dà 2:  $x + \dfrac{1}{2} = 2$;
+5. Trova il numero che sommato ad $\dfrac{1}{2}$ dà $2$:  $x + \dfrac{1}{2} = 2$;
 
 6. $\dfrac{7}{15} = b - \dfrac{1}{15};$
 7. $9.4 + h = 0.81$;
-8. Trova il numero che sommato a 4 dà il doppio del numero più 1:   $4 + x = 2x + 1$; (Trasportare i monomi a destra).
+8. Trova il numero che sommato a $4$ dà il doppio del numero più $1$:   $4 + x = 2x + 1$; (Trasportare i monomi a destra).
 
 b) Regola della moltiplicazione/divisione e regola della semplificazione.
 
-1. Trova il numero che moltiplicato per 2 da 6:   $x \cdot 2 = 6$;
-
-2. Trova il numero da moltiplicare per 2 per avere -6:   $x \cdot 2 = -6$;
-
-3. Trova il numero che moltiplicato per $\dfrac{1}{2}$ dà 6:   $x \cdot 2 = 6$;
-
-4. Trova il numero che diviso per 5 da -30:   $\dfrac{x}{5} = -30$;
-
+1. Trova il numero che moltiplicato per $2$ da $6$:   $x \cdot 2 = 6$;
+2. Trova il numero da moltiplicare per $2$ per avere $-6$:   $x \cdot 2 = -6$;
+3. Trova il numero che moltiplicato per $\dfrac{1}{2}$ dà $6$:   $x \cdot \dfrac{1}{2} = 6$;
+4. Trova il numero che diviso per $5$ da $-30$:   $\dfrac{x}{5} = -30$;
 5. $\dfrac{x}{15} = 3$;
-
-6. Trova il numero che diviso per 11 da 0:  $0 = \dfrac{v}{11};$
-
-7. Trova il numero che diviso per -2 da -11:  $\dfrac{c}{-2} = -11;$
-
+6. Trova il numero che diviso per $11$ da $0$:  $0 = \dfrac{v}{11};$
+7. Trova il numero che diviso per $-2$ da $-11$:  $\dfrac{c}{-2} = -11;$
 8. Trova il numero da dividere per $-\dfrac{3}{2}$ per avere $\dfrac{4}{5}$:   $\dfrac{c}{-\dfrac{3}{2}} = \dfrac{4}{5};$
-
-9. $-\dfrac{5}{4}h = -5;$
 
 
 

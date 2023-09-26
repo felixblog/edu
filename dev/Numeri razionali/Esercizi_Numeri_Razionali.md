@@ -483,19 +483,37 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 ### ESERCIZIO 28 - Sostituzioni (II)
 
-Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
-a)  $a-\left(b+c\right),\left\{a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right\}$;
+1. $a-\left(b+c\right),\left\{a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right\}$;
+2. $a+\left(-b\right)-c^2,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
+3. $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;
+4. $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$.
 
-b) $a-\left(b-c\right),\left\{a=\dfrac{2}{3},b=\dfrac{1}{6},c=\dfrac{2}{9}\right\}$;
+b) Organizza le sequenze di sostituzioni seguenti in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dell'espressione sostituita.
 
-c) $a+\left(-b\right)-c^2,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
+1. $a + \dfrac{1}{2} ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+2. $-\dfrac{1}{2}a + 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+3. $-2a - 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
 
-d) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;
+#### Esempio di SOLUZIONE
 
-e) $\left(a+b\right)^{2}\left(-a-b\right)^{2},\left\{a=-\dfrac{2}{3},b=1\right\}$;
+Sostituzioni del punto b.1) 
+$$
+\begin{array}{r|c}
+a & a + \dfrac{1}{2}\\
+\hline
+0 & \dfrac{1}{2}  \\
+1 & \dfrac{3}{2}  \\
+-1 & -\dfrac{1}{2}  \\
+2 & \dfrac{5}{2}  \\
+-2 & -\dfrac{3}{2}  \\
+\end{array}
+$$
 
-f) $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$
+c) Disegna su di un piano cartesiano cinque punti; metti ogni punto nella posizione indicata da una riga della tabella dell'esercizio b.1.
+
+#### Laboratorio GEOGEBRA
 
 
 

@@ -254,7 +254,7 @@ a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
 
 ### ESERCIZIO 11 - Posizione di coppie di numeri su un piano
 
-Disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) per ogni coppa di numeri interi riportata di seguito . La posizione del punto si individua con due spostamenti. Fai un primo spostamento a partire dal centro del piano a destra (DX) o sinistra (SX) se il primo numero è positivo o negativo ed un secondo in alto o in basso se il secondo è positivo o negativo. Alla fine dei due spostamenti disegna il punto.
+Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) . La posizione del punto si individua con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo spostamento sarà verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti disegna il punto.
 
 a) $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
 
@@ -262,7 +262,7 @@ b) $T = \{(-1;0), (1;0), (0;1)\};$
 
 c) $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
 
-#### SOLUZIONE
+#### SOLUZIONI
 
 <img src="img\Es-11.a.png" alt="Es-11.a" style="zoom:10%;" />   <img src="img\Es-11.b.png" alt="Es-11.b" style="zoom:10%;" />     <img src="img\Es-11.c.png" alt="Es-11.c" style="zoom:10%;" />
 
@@ -273,7 +273,8 @@ a) Risolvi il punti a), b) e c) dell'esercizio con le istruzioni GEOGEBRA:
 1. $Q=\{(1,1),(-1,1),(-1,-1), (1, -1)\}$ &#9166; .
 2. $T=\{(-1,0),(1,0),(0,-1)\}$ &#9166; .
 3. $R=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
-4. 
+
+
 
 ### ESERCIZIO 12 - Dai punti alle coppie di interi
 
@@ -336,7 +337,7 @@ d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)
 
 
 
-### ESERCIZIO 15 - Sostituzioni I - Sostituzioni di una e due lettere
+### ESERCIZIO 15 - Sostituzioni I - Sostituzioni di una e di due lettere
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (i numeri con segno, nell'espressione sostituita, devono essere tra parentesi tonde).
 
@@ -372,8 +373,6 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alla lettera presente un
 #### Esempio di SOLUZIONE
 
 Sostituzione del punto a.2: $\{0^2, 1^2, (-1)^2,2^2, (-2)^2\} \rightarrow 	\{0,1, 1, 4, 4\}$
-
-
 
 b) Organizza le sostituzioni seguenti in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dall'espressione sostituita.
 

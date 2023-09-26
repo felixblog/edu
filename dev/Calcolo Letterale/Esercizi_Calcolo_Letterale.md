@@ -57,7 +57,7 @@ d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$; Sostituis
 
 ### ESERCIZIO 4 - Dalle espressioni alle parole
 
-Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri $a$ e $b$, scrivi ...”.
+Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri $a$ e $b,$ scrivi ...”.
 
 a) $a-\left(b+c\right)$; $a+\left(-b\right)-c$
 
@@ -88,15 +88,15 @@ a) Scrivi i seguenti monomi in forma normale.
 
 b) Individua quali tra le seguenti espressioni letterali sono monomi e scrivili in forma normale.
 
-1.  $ab\left(-\dfrac{1}{2}\right)a^{2}$,  $\dfrac{2}{5}a^2\dfrac{3}{b}$,   $abcde$;
-2. $\dfrac{5}{3}b\left(-4\right)a$,  $a + 2a^2$,  $\dfrac{ab^2x}{3}$.
+1.  $ab\left(-\dfrac{1}{2}\right)a^{2},$     $\dfrac{2}{5}a^2\dfrac{3}{b},$   $abcde$;
+2. $\dfrac{5}{3}b\left(-4\right)a,$      $a + 2a^2,$  $\dfrac{ab^2x}{3}$.
 
 c) b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti dopo averli scritti in forma normale.
 
 ​	ESEMPIO: per $2ax$ il coefficiente è $2a$.
 
-1. $axb$;   $-axa^2$;   $-\dfrac{a^2x}{3}$;
-2. $-2ax \cdot (-3)abx$;   $ax\left(-\dfrac{1}{2}\right)a^{2}$.
+1. $axb$;      $-axa^2$;      $-\dfrac{a^2x}{3}$;
+2. $-2ax \cdot (-3)abx$;      $ax\left(-\dfrac{1}{2}\right)a^{2}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -112,19 +112,19 @@ a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBR
 
 a) Scrivi l'espressione che corrisponde alla somma dei monomi seguenti e semplifica il risultato se possibile.
 
-1. $\dfrac{1}{2}x$;   $-3x$;   $7x$;
+1. $\dfrac{1}{2}x$;      $-3x$;      $7x$;
 
-2. $\dfrac{1}{2}xy$;   $-3xy$;   $7xy$;
+2. $\dfrac{1}{2}xy$;      $-3xy$;      $7xy$;
 
-3. $-3a^{2}x$;   $7ax$;   $1$;
+3. $-3a^{2}x$;      $7ax$;      $1$;
 
-4. $\dfrac{1}{2}x^{3}y$;   $-x^{3}y$;   $\dfrac{1}{2}$.
+4. $\dfrac{1}{2}x^{3}y$;      $-x^{3}y$;      $\dfrac{1}{2}$.
 
 b) Calcola i seguenti prodotti di monomi.  
 
-1. $2ab\,\cdotp\left(-3a^{2}b\right)$   ;$-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$;  
+1. $2ab\,\cdotp\left(-3a^{2}b\right)$     ;$-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$;  
 
-2. $2a^{2}\,\cdotp\left(-4a^{5}b^{3}\right)$;   $-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$;  
+2. $2a^{2}\,\cdotp\left(-4a^{5}b^{3}\right)$;     $-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$;  
 
 3. $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
 
@@ -138,15 +138,15 @@ a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2
 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
 
-1. $ax:a$;   $-\dfrac{1}{4}ax:a$;   $a:\dfrac{1}{4}$;
-2. $\dfrac{-\dfrac{1}{4}ax}{a}$;   $\dfrac{1}{7a^2b}\cdot ab^2$;    $\dfrac{5}{2}a^4x:a^3x^2$;
-3. $4a^5b^3 : (-ab^3)$;   $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;   $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$;
-4. $\dfrac{5x^2y}{10x^3y}$;   $\dfrac{7a^2x}{a^2x^2}$;   $-\dfrac{4bx^2}{6b}$.
+1. $ax:a$;     $-\dfrac{1}{4}ax:a$;     $a:\dfrac{1}{4}$;
+2. $\dfrac{-\dfrac{1}{4}ax}{a}$;     $\dfrac{1}{7a^2b}\cdot ab^2$;      $\dfrac{5}{2}a^4x:a^3x^2$;
+3. $4a^5b^3 : (-ab^3)$;     $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;     $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$;
+4. $\dfrac{5x^2y}{10x^3y}$;     $\dfrac{7a^2x}{a^2x^2}$;     $-\dfrac{4bx^2}{6b}$.
 
 b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti. 
 
-1. $\dfrac{5}{2}a^4x:a^3x^2$;   $-ax^3a^2$;   $-\dfrac{a^2x^2}{3}$;
-2. $-2ax \cdot (-3)abx$;   $ax\left(-\dfrac{1}{2}\right)a^{2}$.
+1. $\dfrac{5}{2}a^4x:a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
+2. $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
 
 
 
@@ -158,8 +158,8 @@ Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel te
 
 "Quest'anno i ricavi saranno il doppio di quelli dell'anno scorso". Scrivi l'espressione dei ricavi di quest'anno.
 
-1. Quantità che determina la soluzione: $x$, Ricavi dell'anno scorso
-2. Soluzione: $2\cdot x$, Ricavi di quest'anno
+1. Quantità che determina la soluzione: $x,$ Ricavi dell'anno scorso
+2. Soluzione: $2\cdot x,$ Ricavi di quest'anno
 
 
 
@@ -320,11 +320,11 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 ### ESERCIZIO 15 - Prodotto di monomi per polinomi
 
-a) Scrivi il polinomio risultato dai prodotti seguenti.
+a) Scrivi il polinomio risultato dei prodotti seguenti.
 
-1. $6\left(x^{2}-2y\right); \left(-2\right)\,\cdotp\left(-3xy+2\right)$;
+1. $6\left(x^{2}-2y\right)$;     $\left(-2\right)\,\cdotp\left(-3xy+2\right)$;
 
-2. $a\left(x+a\right); b\left(by-1\right)$ ;
+2. $a\left(x+a\right)$;     $b\left(by-1\right)$ ;
 
 3. $\left(-4x^{2}y\right)\,\cdotp\left(-x^{3}+2xy-y\right)$ ;
 
@@ -344,9 +344,9 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
 
-1. $6x^2-12y$;   $-4+6xy$;   $-a-b$;
-2. $a^2 +ax$;   $b^2y - b$;   $-y^2 +2xy + 3y$;
-3. $-8x^2 -12xy$;   $4abc^2-8cba^2$.
+1. $6x^2-12y$;      $-4+6xy$;      $-a-b$;
+2. $a^2 +ax$;      $b^2y - b$;      $-y^2 +2xy + 3y$;
+3. $-8x^2 -12xy$;      $4abc^2-8cba^2$.
 
 #### Laboratorio GEOGEBRA
 
@@ -362,9 +362,9 @@ Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di ist
 
 Semplifica le seguenti espressioni.  
 
-a) $\left(2a-3b\right)\left(5a+4b\right);\,\left(x-3y\right)\left(5x+y\right)$  
+a) $\left(2a-3b\right)\left(5a+4b\right)$;     $\left(x-3y\right)\left(5x+y\right)$  
 
-b) $\left(2x+y\right)\left(4x^{2}+2xy+y^{2}\right);\, \left(a^{3}-3a+2\right)\left(\dfrac{1}{2}a+1\right)$
+b) $\left(2x+y\right)\left(4x^{2}+2xy+y^{2}\right)$;     $\left(a^{3}-3a+2\right)\left(\dfrac{1}{2}a+1\right)$
 
 c) $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right)$
 
@@ -382,13 +382,13 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.
 
-1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;   $2a^2$;   $-\dfrac{1}{2a^2x}$;
-2. $\dfrac{1}{x-1}$;   $\dfrac{a+1}{b-1}$;   $2a^2+a$;   $-\dfrac{1+x^2}{2a^2x}$.
+1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;      $2a^2$;      $-\dfrac{1}{2a^2x}$;
+2. $\dfrac{1}{x-1}$;      $\dfrac{a+1}{b-1}$;      $2a^2+a$;      $-\dfrac{1+x^2}{2a^2x}$.
 
 b) Semplifica le seguenti frazioni algebriche dopo aver scomposto i polinomi a numeratore o denominatore  in fattori.
 
-1. $\dfrac{x^2+3x}{x}$;   $\dfrac{4x^2-2x}{4x^2}$;   $\dfrac{x}{2x^2-x}$;
-2. $\dfrac{2a-2}{5a-5}$;   $\dfrac{-x-y}{x+y}$;   $\dfrac{2x-2y}{y-x}$.
+1. $\dfrac{x^2+3x}{x}$;      $\dfrac{4x^2-2x}{4x^2}$;      $\dfrac{x}{2x^2-x}$;
+2. $\dfrac{2a-2}{5a-5}$;      $\dfrac{-x-y}{x+y}$;      $\dfrac{2x-2y}{y-x}$.
 
 #### Laboratorio GEOGEBRA
 
