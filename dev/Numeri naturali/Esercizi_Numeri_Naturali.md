@@ -1,5 +1,5 @@
 
-# I Numeri Naturali
+# Numeri naturali, multipli e divisori
 
 ### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 

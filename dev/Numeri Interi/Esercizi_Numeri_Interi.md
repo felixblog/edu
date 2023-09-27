@@ -2,7 +2,7 @@
 
 
 
-# I Numeri Interi
+# Numeri interi e assi coordinati nel piano
 
 ### ESERCIZIO 1 - Posizione dei numeri interi su una retta
 
