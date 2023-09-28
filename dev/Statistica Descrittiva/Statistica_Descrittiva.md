@@ -12,26 +12,26 @@ a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubbl
 
 La popolazione è l'insieme di tutti gli individui che si recano in una scuola della città (insegnanti, studenti, personale amministrativo e tecnico): ogni individuo è una unità statistica. I caratteri più rilevanti sono:
 
-- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: qualitativo/binario, Livello Misurazione: categorico);
+- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: categorico/binario, Livello Misurazione: nominale);
 
-- Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: qualitativo, Livello Misurazione: categorico);
+- Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: categorico, Livello Misurazione: nominale);
 
 - Età (modalità: numeri interi compresi tra 2 a 90; Tipo: quantitativo discreto, Livello Misurazione: rapporto);
 
-- Sesso (modalità: M, F; Tipo: qualitativo/binario, Livello Misurazione: categorico);
+- Sesso (modalità: M, F; Tipo: categorico/binario, Livello Misurazione: nominale);
 
 - Distanza del Domicilio dalla Scuola: (modalità: quantitativo/continuo, livello rapporto, eventualmente ripartita in classi, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km);
 
-- Motivazione del non utilizzo (Tipo: qualitativo, Livello Misurazione: nominale);
+- Motivazione del non utilizzo (Tipo: qualitativo/arbitrario, Livello Misurazione: nominale);
 
-- Grado di soddisfazione (modalità: qualitativo/categorico, valori da 1 a 10, Livello Misurazione: ordinale).
+- Grado di soddisfazione (modalità: categorico, valori da 1 a 10, Livello Misurazione: ordinale).
 
 
 b) Per effettuare un'indagine sull'utilizzo dei computer nella tua città, quali potrebbero essere i caratteri da rilevare? Quali le unità statistiche?  
 
-c) Per effettuare una indagine statistica sul consumo di alcol tra i ragazzi da 16 a 21 anni della tua città, quale sarebbe la popolazione statistica da considerare? quali i caratteri e la modalità?  
+c) Per effettuare una indagine statistica sul consumo di alcol tra i ragazzi da 16 a 21 anni della tua città, quale sarebbe la popolazione statistica da considerare? quali i caratteri e la modalità?
 
-d) In una Provincia, si vuole analizzare il numero delle abitazioni occupate in rapporto al numero di stanze. Quale è la popolazione da considerare? Quali sono i caratteri da rilevare? 
+d) In una Provincia, si vuole analizzare il numero delle abitazioni occupate in rapporto al numero di stanze. Quale è la popolazione da considerare? Quali sono i caratteri da rilevare?
 
 e) In un Comune si svolge una indagine sul numero di giornate con precipitazioni nevose, secondo i mesi dell'anno, negli ultimi 10 anni. Quali sono le unità statistiche? Quali i caratteri?
 
@@ -170,20 +170,21 @@ b) Considera le classi di retribuzione (fascie) seguenti: 0|-18; 18|-25; 25|-40;
 
 ### ESERCIZIO 4 - Grafici a Linee
 
-a) Rappresenta con un diagramma cartesiano a linee la seguente tabella della rilevazione delle vendite di una ditta (in quintali) negli anni indicati.
+a) Considerata la seguente tabella della rilevazione delle vendite di una ditta (in quintali) negli anni indicati.
 
-|          Anni           | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
-| :---------------------: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Quantità Venduta (q.li) | 320  | 380  | 410  | 390  | 450  | 480  | 470  | 510  | 500  | 480  |
+| Anno                        | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
+| :-------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Quantità Venduta (q.li)** | 320  | 380  | 410  | 390  | 450  | 480  | 470  | 510  | 500  | 480  |
 
-Quale è il massimo e quando si è verificato? Ed il minimo?
+1. Rappresenta i dati con un diagramma cartesiano a linee;
+2. Quale è il massimo e quando si è verificato? Quale è il minimo?
 
 b) La tabella seguente riporta le serie storiche delle esportazioni e delle importazioni (in milioni di euro) per l’Italia dal 1998 al 2007 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Import-Export.xlsx)):
 
-| Anno         | 1998    | 1999    | 2000    | 2001    | 2002    | 2003    | 2004    | 2005    | 2006    | 2007    |
-| ------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| Esportazioni | 220.105 | 221.040 | 260.413 | 272.990 | 269.064 | 264.616 | 284.413 | 299.923 | 332.013 | 358.633 |
-| Importazioni | 195.625 | 207.015 | 258.507 | 263.757 | 261.226 | 262.998 | 285.634 | 309.292 | 352.465 | 368.080 |
+| Anno             | 1998    | 1999    | 2000    | 2001    | 2002    | 2003    | 2004    | 2005    | 2006    | 2007    |
+| ---------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **Esportazioni** | 220.105 | 221.040 | 260.413 | 272.990 | 269.064 | 264.616 | 284.413 | 299.923 | 332.013 | 358.633 |
+| **Importazioni** | 195.625 | 207.015 | 258.507 | 263.757 | 261.226 | 262.998 | 285.634 | 309.292 | 352.465 | 368.080 |
 
 Rappresenta in un diagramma cartesiano:
 
@@ -191,15 +192,23 @@ Rappresenta in un diagramma cartesiano:
 2. La serie storica delle Importazioni;
 3. Le due serie nello stesso diagramma. Quale fenomeno si può notare?
 
+#### Soluzione
 
+Punto a.1)
+
+<img src="img\Grafico-linee.jpg" alt="Grafico-linee" style="zoom:15%;" />
+
+Punto b.3)
+
+<img src="img\Grafico-Doppia-Serie.jpg" alt="Grafico-Doppia-Serie" style="zoom:13%;" />
 
 ### ESERCIZIO 5 - Grafici a Barre
 
 a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a.
 
-b) Rappresenta mediante un istogramma la seguente tabella della rilevazione dei salari mensili di 250 operai di una ditta:
+b) Rappresenta mediante un diagramma a barre verticali la seguente tabella della rilevazione dei salari mensili di 250 operai di una ditta:
 
-| Classi di Salario (euro) | N. Operai |
+| Classe di Salario (euro) | N. Operai |
 | :----------------------: | :-------: |
 |      900 \|-- 1000       |    20     |
 |     1.000 \|-- 1.100     |    55     |
@@ -209,9 +218,9 @@ b) Rappresenta mediante un istogramma la seguente tabella della rilevazione dei 
 
 c) Rappresenta mediante un diagramma a barre orizzontali (a nastro) la seguente tabella che riporta la rilevazione della spesa (migliaia di euro) per spettacoli in alcune regioni italiane nell'anno 2010
 
-| Regioni | Piemonte | Lombardia | Veneto | Liguria | Lazio  | Puglia | Campania | Sicilia |
-| ------- | -------- | --------- | ------ | ------- | ------ | ------ | -------- | ------- |
-| Spesa   | 60.202   | 125.911   | 43.439 | 28.383  | 73.555 | 10.748 | 20.568   | 28.031  |
+| Regioni   | Piemonte | Lombardia | Veneto | Liguria | Lazio  | Puglia | Campania | Sicilia |
+| --------- | -------- | --------- | ------ | ------- | ------ | ------ | -------- | ------- |
+| **Spesa** | 60.202   | 125.911   | 43.439 | 28.383  | 73.555 | 10.748 | 20.568   | 28.031  |
 
 d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica
 
@@ -222,13 +231,29 @@ d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppi
 |    Servizi     |       7.678       |       5.175        |
 | Altre Attività |        890        |        910         |
 
+#### Soluzione
+
+Punto b)
+
+<img src="img\Barre-Classi-Salario.jpg" alt="Barre-Classi-Salario" style="zoom:15%;" />
+
+Punto c)
+
+<img src="img\Barre-Orizzontali.jpg" alt="Barre-Orizzontali" style="zoom:15%;" />
+
 
 
 ### ESERCIZIO 6 - Grafici a Torta
 
 a) Rappresenta con un diagramma a torta le tabelle delle frequenze percentuali richieste nei punti 1., 2., 3., dell'esercizio 2.a). 
 
-b) Calcola la ripartizione percentuale del numero degli occupati maschi e delle occupate femmine per settore economico dell'esercizio 4.d) e rappresenta i dati con due diagrammi a torta. 
+b) Calcola la ripartizione percentuale del numero degli occupati maschi e delle occupate femmine per settore economico dell'esercizio 5.d) e rappresenta i dati con due diagrammi a torta. 
+
+#### Soluzione
+
+Punto b)
+
+<img src="img\Torta.jpg" alt="Torta" style="zoom:15;" />
 
 
 
@@ -236,17 +261,17 @@ b) Calcola la ripartizione percentuale del numero degli occupati maschi e delle 
 
 a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) di un collettivo di 8 aziende:
 
-| Investimenti | 17,27    | 18,006   | 13,428   | 14,123   | 28,942   | 17,135   | 12,537   | 24,17    |
-| ------------ | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Fatturato    | 2.128,02 | 2.430,05 | 1.623,97 | 1.799,35 | 3.844,14 | 1.696,33 | 1.649,75 | 3.112,98 |
+| Investimenti  | 17,27    | 18,006   | 13,428   | 14,123   | 28,942   | 17,135   | 12,537   | 24,17    |
+| ------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| **Fatturato** | 2.128,02 | 2.430,05 | 1.623,97 | 1.799,35 | 3.844,14 | 1.696,33 | 1.649,75 | 3.112,98 |
 
 Rappresenta i dati con un grafico a dispersione.
 
 b) In uno studio atto a rilevare le relazione fra età e pulsazioni cardiache al minuto e sotto sforzo, sono state effettuate le seguenti rilevazioni:
 
-| Età (Anni)       | 15   | 20   | 25   | 30   | 35   | 40   | 45   | 50   | 55   | 60   | 65   | 70   |
-| ---------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Pulsazioni (min) | 200  | 195  | 190  | 190  | 180  | 185  | 180  | 175  | 170  | 170  | 165  | 160  |
+| Età (Anni)           | 15   | 20   | 25   | 30   | 35   | 40   | 45   | 50   | 55   | 60   | 65   | 70   |
+| -------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Pulsazioni (min)** | 200  | 195  | 190  | 190  | 180  | 185  | 180  | 175  | 170  | 170  | 165  | 160  |
 
 Rappresenta i dati con un grafico a dispersione. Che conclusioni si possono trarre?
 
@@ -254,7 +279,7 @@ c) Consideriamo il peso (in kg) e l'altezza (in cm) di 10 individui riportati ne
 
 | **Peso**    | 56   | 66   | 84   | 61   | 73   | 90   | 70   | 61   | 75   | 82   |
 | ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **altezza** | 161  | 165  | 186  | 162  | 172  | 191  | 181  | 164  | 179  | 184  |
+| **Altezza** | 161  | 165  | 186  | 162  | 172  | 191  | 181  | 164  | 179  | 184  |
 
 1. Costruisci il grafico di dispersione per i due caratteri;
 
@@ -361,17 +386,17 @@ a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
 b) Per i primi 15 giorni di un mese viene rilevato il ritardo (in minuti) accumulato da un determinato treno rispetto all’orario previsto di arrivo. Di seguito sono riportati i dati rilevati, che presentano segno negativo nel caso di anticipo sull’orario di arrivo:
 
-| **giorno**  |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   |  10  |  11  |  12  |  13  |  14  |  15  |
-| :---------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| **ritardo** |  10  |  15  |  -2  |  0   |  50  |  20  |  0   |  9   |  -5  |  8   |  10  |  20  |  6   |  10  | -10  |
+| **Giorno**  |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   |  10  |  11  |  12  |  13  |  14  |  15  |
+| :---------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| **Ritardo** |  10  |  15  |  -2  |  0   |  50  |  20  |  0   |  9   |  -5  |  8   |  10  |  20  |  6   |  10  | -10  |
 
 Calcola minimo, massimo, la moda, la mediana, la media aritmetica della distribuzione;
 
 c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segue: 
 
 | **Famiglia**  |  A   |   B   |   C   |  D   |   E   |   F   |   G   |   H   |
-| :-----------: | :--: | :---: | :---: | :--: | :---: | :---: | :---: | :---: |
-| **risparmio** | 500  | 5.000 | 2.600 |  0   | 9.200 | 3.000 | 5.400 | 6.300 |
+| :------------ | :--: | :---: | :---: | :--: | :---: | :---: | :---: | :---: |
+| **Risparmio** | 500  | 5.000 | 2.600 |  0   | 9.200 | 3.000 | 5.400 | 6.300 |
 
 Determina moda, media e mediana.
 
