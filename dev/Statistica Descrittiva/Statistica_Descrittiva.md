@@ -222,7 +222,7 @@ c) Rappresenta mediante un diagramma a barre orizzontali (a nastro) la seguente 
 | --------- | -------- | --------- | ------ | ------- | ------ | ------ | -------- | ------- |
 | **Spesa** | 60.202   | 125.911   | 43.439 | 28.383  | 73.555 | 10.748 | 20.568   | 28.031  |
 
-d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica
+d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica (anno 2010).
 
 |                | Maschi (migliaia) | Femmine (migliaia) |
 | :------------: | :---------------: | :----------------: |
@@ -284,6 +284,12 @@ c) Consideriamo il peso (in kg) e l'altezza (in cm) di 10 individui riportati ne
 1. Costruisci il grafico di dispersione per i due caratteri;
 
 2. Individua dal grafico se tra l'altezza ed il peso c'è una correlazione positiva.
+
+#### SOLUZIONE
+
+Punto a)
+
+<img src="img\Dispersione.jpg" alt="Dispersione" style="zoom:20%;" />
 
 
 
@@ -361,6 +367,14 @@ b) La tabella seguente riporta alcune caratteristiche degli individui appartenen
    geograﬁca.
 
 7. Costruisci le distribuzioni di intensità del fatturato per provenienza geografica e per titolo di studio.
+
+SOLUZIONE
+
+Punto a.3) serie storica mensile.
+
+![Serie-Storica](img\Serie-Storica.jpg)
+
+
 
 #### Laboratorio FOGLIO ELETTRONICO
 
