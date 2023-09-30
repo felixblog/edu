@@ -314,83 +314,21 @@ a) La tabella seguente riporta tre anni di dati mensili delle vendite di un prod
 
 1. Costruisci la serie storica trimestrale (riepilogativa) delle vendite;
 2. Costruisci il riepilogo annuale;
-3. Rappresenta la serie mensile, trimestrale ed annuale con un grafico cartesiano .
+3. Rappresenta la serie mensile, trimestrale ed annuale con un grafico cartesiano.
 
-b) La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
-
-| SESSO | ETA  | TITOLO DI STUDIO     | PROVENIENZA <br /> GEOGRAFICA | FATTURATO<br />(euro) |
-| :---: | :--: | :------------------- | :---------------------------: | --------------------: |
-|   M   |  46  | Lic. Media Superiore |              SUD              |                26,692 |
-|   F   |  29  | Lic. Media Inferiore |             ISOLE             |                 19,74 |
-|   M   |  28  | Lic. Media Superiore |             ISOLE             |                25,717 |
-|   M   |  52  | Laurea               |              SUD              |                 43,67 |
-|   M   |  49  | Laurea               |            CENTRO             |                35,437 |
-|   F   |  29  | Lic. Media Inferiore |            CENTRO             |                 25,91 |
-|   M   |  25  | Lic. Media Superiore |              SUD              |                21,737 |
-|   M   |  27  | Laurea               |            CENTRO             |                24,293 |
-|   F   |  31  | Lic. Media Superiore |            CENTRO             |                26,065 |
-|   M   |  44  | Laurea               |             ISOLE             |                36,199 |
-|   M   |  37  | Lic. Media Inferiore |             NORD              |                19,472 |
-|   F   |  33  | Laurea               |            CENTRO             |                32,579 |
-|   F   |  36  | Laurea               |             NORD              |                18,514 |
-|   F   |  28  | Lic. Media Superiore |            CENTRO             |                27,351 |
-|   M   |  50  | Lic. Media Superiore |            CENTRO             |                33,527 |
-|   F   |  41  | Lic. Media Inferiore |             NORD              |                21,292 |
-|   F   |  24  | Lic. Media Inferiore |             ISOLE             |                16,579 |
-|   F   |  47  | Laurea               |              SUD              |                32,695 |
-|   M   |  44  | Laurea               |            CENTRO             |                34,258 |
-|   M   |  27  | Lic. Media Superiore |              SUD              |                  26,5 |
-|   M   |  27  | Laurea               |             NORD              |                24,811 |
-|   F   |  36  | Lic. Media Superiore |             NORD              |                 35,97 |
-|   M   |  33  | Laurea               |              SUD              |                25,269 |
-|   M   |  33  | Laurea               |            CENTRO             |                23,706 |
-|   M   |  25  | Laurea               |             ISOLE             |                23,326 |
-|   M   |  29  | Laurea               |             NORD              |                25,716 |
-|   M   |  55  | Laurea               |             NORD              |                48,987 |
-|   F   |  44  | Lic. Media Superiore |             NORD              |                38,811 |
-|   F   |  37  | Lic. Media Superiore |              SUD              |                 28,67 |
-|   M   |  55  | Laurea               |              SUD              |                48,428 |
-
-1. Quale è  l'unità statistica?  Quale è la popolazione di riferimento?
-
-2. Indica la tipologia di ciascun carattere.
-
-3. Costruisci la distribuzione di frequenza secondo il fatturato, utilizzando le seguenti classi: 0–20,
-   21–30, 31–40, 41–50.
-
-4. Determina la distribuzione di frequenza secondo il titolo di studio.
-
-5. Determina la distribuzione di frequenza secondo l’età, con riferimento alle classi di seguito indicate:
-   ﬁno a 25, da 26 a 35, da 36 a 50, oltre 50 anni.
-
-6. Costruisci la distribuzione doppia di frequenza secondo il titolo di studio e la provenienza
-   geograﬁca.
-
-7. Costruisci le distribuzioni di intensità del fatturato per provenienza geografica e per titolo di studio.
-
-SOLUZIONE
+#### SOLUZIONE
 
 Punto a.3) serie storica mensile.
 
 ![Serie-Storica](img\Serie-Storica.jpg)
 
+Punto a.3) serie storica trimestrale.
 
+<img src="img\Serie-Trimestrale.jpg" alt="Serie-Trimestrale" style="zoom:17%;" />
 
-#### Laboratorio FOGLIO ELETTRONICO
+Punto a.3) serie storica annuale.
 
-a) Risolvi il punto b.3) dell'esercizio con la sequenza di operazioni sul FOGLIO ELETTRONICO riportati di seguito.
-
-1. Scarica ed apri il file di dati;
-2. Generare, a partire dalla cella G2 e trascinando verso il basso, i valori delle CLASSI di reddito con la formula: =SE(F2<=20;"A";SE(F2<=30;"B";SE(F2<=40;"C";"D")));
-3. Scrivere, nell'intervallo H2:H5, l'elenco delle quattro lettere A, B, C, D;
-4. Generare, a partire dalla cella I2 e trascinando verso il basso, i valori delle frequenze con la formula:  =CONTA.SE(\$G\$2:\$G\$31;H2).
-5. L'intervallo H2:I5 conterrà la tabella di distribuzione di frequenza cercata (A -> (0–20), B -> (21-30), C -> (31-40), D -> (41-50)). 
-
-b) Risolvi il punto b.5) dell'esercizio con una sequenza di operazioni analoga a quella del punto precedente.
-
-d) Costruisci la distribuzione di intensità del fatturato per provenienza geografica (punto g) dell'esercizio) con lo strumento TABELLA PIVOT.
-
-d)  Costruisci la distribuzione di intensità del fatturato per titolo di studio (punto g) dell'esercizio) con lo strumento TABELLA PIVOT.
+<img src="img\Serie-Annuale.jpg" alt="Serie-Annuale" style="zoom:17%;" />
 
 
 
@@ -425,34 +363,81 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 ### ESERCIZIO 10 - Esercizio Riassuntivo
 
-Considera la tabella dei dati relativa ai 15 dipendenti di un’azienda. Per ciascun dipendente sono stati rilevati: Posizione professionale (1=Apprendista, 2=Operaio, 3=Impiegato, 4=Dirigente), Genere (1=Maschio, 2=Femmina), Numero di componenti del nucleo familiare, Ore di straordinario lavorate nel 2009 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Dipendenti.xlsx)):
+La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
 
-| Genere | Posizione | N. Componenti | Ore Straordinario |
-| :----: | :-------: | :-----------: | :---------------: |
-|   1    |     1     |       2       |        135        |
-|   1    |     3     |       3       |        222        |
-|   1    |     4     |       2       |        219        |
-|   1    |     2     |       2       |        160        |
-|   1    |     1     |       2       |        140        |
-|   2    |     4     |       3       |        270        |
-|   2    |     2     |       4       |        180        |
-|   2    |     2     |       4       |        127        |
-|   2    |     3     |       5       |        169        |
-|   2    |     4     |       5       |        146        |
-|   1    |     1     |       4       |        90         |
-|   2    |     2     |       3       |        156        |
-|   1    |     3     |       4       |        224        |
-|   1    |     1     |       3       |        55         |
-|   1    |     2     |       2       |        265        |
+| SESSO | ETA  | TITOLO DI STUDIO     | PROVENIENZA <br /> GEOGRAFICA | FATTURATO<br />(euro) |
+| :---: | :--: | :------------------- | :---------------------------: | --------------------: |
+|   M   |  46  | Lic. Media Superiore |              SUD              |                26,692 |
+|   F   |  29  | Lic. Media Inferiore |             ISOLE             |                 19,74 |
+|   M   |  28  | Lic. Media Superiore |             ISOLE             |                25,717 |
+|   M   |  52  | Laurea               |              SUD              |                 43,67 |
+|   M   |  49  | Laurea               |            CENTRO             |                35,437 |
+|   F   |  29  | Lic. Media Inferiore |            CENTRO             |                 25,91 |
+|   M   |  25  | Lic. Media Superiore |              SUD              |                21,737 |
+|   M   |  27  | Laurea               |            CENTRO             |                24,293 |
+|   F   |  31  | Lic. Media Superiore |            CENTRO             |                26,065 |
+|   M   |  44  | Laurea               |             ISOLE             |                36,199 |
+|   M   |  37  | Lic. Media Inferiore |             NORD              |                19,472 |
+|   F   |  33  | Laurea               |            CENTRO             |                32,579 |
+|   F   |  36  | Laurea               |             NORD              |                18,514 |
+|   F   |  28  | Lic. Media Superiore |            CENTRO             |                27,351 |
+|   M   |  50  | Lic. Media Superiore |            CENTRO             |                33,527 |
+|   F   |  41  | Lic. Media Inferiore |             NORD              |                21,292 |
+|   F   |  24  | Lic. Media Inferiore |             ISOLE             |                16,579 |
+|   F   |  47  | Laurea               |              SUD              |                32,695 |
+|   M   |  44  | Laurea               |            CENTRO             |                34,258 |
+|   M   |  27  | Lic. Media Superiore |              SUD              |                  26,5 |
+|   M   |  27  | Laurea               |             NORD              |                24,811 |
+|   F   |  36  | Lic. Media Superiore |             NORD              |                 35,97 |
+|   M   |  33  | Laurea               |              SUD              |                25,269 |
+|   M   |  33  | Laurea               |            CENTRO             |                23,706 |
+|   M   |  25  | Laurea               |             ISOLE             |                23,326 |
+|   M   |  29  | Laurea               |             NORD              |                25,716 |
+|   M   |  55  | Laurea               |             NORD              |                48,987 |
+|   F   |  44  | Lic. Media Superiore |             NORD              |                38,811 |
+|   F   |  37  | Lic. Media Superiore |              SUD              |                 28,67 |
+|   M   |  55  | Laurea               |              SUD              |                48,428 |
 
-a) Specifica qual è la popolazione di riferimento dei dati;
+a) Analizza i caratteri e le modalità della popolazione
 
-b) Specifica la tipologia di ogni carattere; 
+1. Quale è  l'unità statistica?  Quale è la popolazione di riferimento?
 
-c) Calcola le frequenze assolute e relative percentuali (se necessario raggruppa le modalità in classi);
+2. Indica la tipologia di ciascun carattere.
 
-d) Produci la serie delle Ore di Straordinario per Genere e quella per Posizione;
+b) Analizza il titolo di studio e l'età
 
-e) Produci la tabella a doppia entrata delle Ore di Straordinario per Genere e Posizione;
+1. Determina la distribuzione di frequenza secondo il titolo di studio.
 
-f) Rappresenta graficamente le variabili osservate.
+2. Determina la distribuzione di frequenza secondo l’età, con riferimento alle classi di seguito indicate:
+   ﬁno a 25, da 26 a 35, da 36 a 50, oltre 50 anni.
+
+3. Calcola minimo, massimo, moda, mediana e media aritmetica dell'età.
+
+c) Analizza il fatturato
+
+1. Costruisci la distribuzione di frequenza secondo il fatturato, utilizzando le seguenti classi: 0–20,
+   21–30, 31–40, 41–50.
+2. Calcola minimo, massimo, moda, mediana e media aritmetica del fatturato.
+3. Rappresenta graficamente le variabili osservate.
+4. Costruisci le distribuzioni di intensità del fatturato per provenienza geografica e per titolo di studio e rappresentale graficamente.
+
+#### Laboratorio FOGLIO ELETTRONICO
+
+a) Risolvi il punto a.3) dell'esercizio con la sequenza di operazioni sul FOGLIO ELETTRONICO riportati di seguito.
+
+1. Scarica ed apri il file di dati;
+2. Generare, a partire dalla cella G2 e trascinando verso il basso, i valori delle CLASSI di reddito con la formula: =SE(F2<=20;"A";SE(F2<=30;"B";SE(F2<=40;"C";"D")));
+3. Scrivere, nell'intervallo H2:H5, l'elenco delle quattro lettere A, B, C, D;
+4. Generare, a partire dalla cella I2 e trascinando verso il basso, i valori delle frequenze con la formula:  =CONTA.SE(\$G\$2:\$G\$31;H2).
+5. L'intervallo H2:I5 conterrà la tabella di distribuzione di frequenza cercata (A -> (0–20), B -> (21-30), C -> (31-40), D -> (41-50)). 
+
+b) Risolvi il punto b.5) dell'esercizio con una sequenza di operazioni analoga a quella del punto precedente.
+
+d) Costruisci la distribuzione di intensità del fatturato per provenienza geografica (punto g) dell'esercizio) con lo strumento TABELLA PIVOT.
+
+d)  Costruisci la distribuzione di intensità del fatturato per titolo di studio (punto g) dell'esercizio) con lo strumento TABELLA PIVOT.
+
+
+
+
+
