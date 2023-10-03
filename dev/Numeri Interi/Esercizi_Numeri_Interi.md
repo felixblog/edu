@@ -2,7 +2,7 @@
 
 
 
-# Numeri interi e assi coordinati nel piano
+# Numeri interi e coordinate dei punti nel piano
 
 ### ESERCIZIO 1 - Posizione dei numeri interi su una retta
 
@@ -10,7 +10,7 @@ a) Posiziona su una retta orientata orizzontale i seguenti numeri: $+3, -5, +4, 
 
 #### Soluzione
 
-![Esercizio-1](img\Esercizio-1.png)
+<img src="img\Esercizio-1.png" alt="Esercizio-1" style="zoom:20%;" />
 
 b) Posiziona su una retta orientata verticale i numeri: $0, -2, 2, 3, 4, -4$ Fai uno spostamento a partire dallo zero verso l'alto se il numero è positivo e verso il basso se è negativo. Alla fine dello spostamento disegna il punto.
 
@@ -63,7 +63,7 @@ Indicando con un numero positivo ogni spostamento verso destra e con uno negativ
 1. lo spostamento totale della lumaca dal punto di partenza;
 2. la distanza totale percorsa dalla lumaca.
 
-![e](img\lumache.png) 
+<img src="img\lumache.png" alt="e" style="zoom:25%;" /> 
 
 b) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
 

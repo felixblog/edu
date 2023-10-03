@@ -354,6 +354,8 @@ b) Rappresenta in uno stesso diagramma a barre verticali le due serie delle vend
 
 ### ESERCIZIO 10 - Rapporti di Composizione
 
+Un **rapporto di composizione** (o di parte al tutto) è un rapporto tra l'ammontare complessivo di una quantità (frequenza o intensità) corrispondente ad una modalità di una variabile di una popolazione e la quantità complessiva della stessa.
+
 a) Considera i dati della tabella dell'esercizio 3.b). Calcola i rapporti di composizione:
 
 1. Percentuale dei laureati sul totale;
@@ -363,9 +365,29 @@ a) Considera i dati della tabella dell'esercizio 3.b). Calcola i rapporti di com
 
 
 
+### ESERCIZIO 11 - Rapporti di Coesistenza
+
+Il rapporto tra le quantità complessive corrispondenti a due diverse modalità (frequenza o intensità) viene chiamato **rapporto di coesistenza**. Il rapporto di coesistenza evidenzia il rapporto proporzionale tra due modalità o classi. ln particolare i rapporti di coesistenza sono molto utilizzati negli studi demografici.
+
+a) Il rapporto di mascolinità è il rapporto (percentuale) tra il numero di maschi e quello delle femmine di una popolazione di persone.
+
+A partire dalla descrizione riportata di seguito tratta dal Rapporto ISTAT "Popolazione residente e dinamica demografica, Anno 2021" rispondi alle domande
+
+<img src="img\Mascolinita.png" alt="Mascolinita" style="zoom:90%;" />
+
+1. ...........
+
+b) L'indice di vecchiaia ...
+
+c) ......
+
+<img src="img\Poverta.png" alt="Poverta" style="zoom:66%;" />
+
+
+
 ### ESERCIZIO 11 - Rapporti di Densità
 
-.....
+È ottenuto dividendo l'ammontare di un aggregato per una quantità che rappresenta la dimensione spaziale, temporale o caratterizzante del campo di osservazione cui esso fa riferimento. Le quantità al numeratore e al denominatore sono grandezze eterogenee.
 
 a) ...   
 
