@@ -390,6 +390,8 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alla lettera presente un
 
 Sostituzione del punto a.2: $\{0^2, 1^2, (-1)^2,2^2, (-2)^2\} \rightarrow 	\{0,1, 1, 4, 4\}$
 
+
+
 b) Organizza le sostituzioni seguenti in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dall'espressione sostituita.
 
 1. $a^2 ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
@@ -424,9 +426,9 @@ b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice
 
    $f(a) := a^2;$&#9166;
 
-2. Selezione "Tabella" e nella prima colonna inserisci i valori $0, 1, -1, 2, -2$;
+2. Seleziona "Tabella" e nella prima colonna inserisci i valori $0, 1, -1, 2, -2$;
 
-3. Selezione "Algebra" e dal menu di inserimento seleziona la voce "Tabella di Valori";
+3. Seleziona "Algebra" e dal menu di inserimento seleziona la voce "Tabella di Valori";
 
 4. Nella tabella compaiono i numeri da sostituire ed i valori dell'espressione.
 
@@ -478,19 +480,9 @@ a) Un investitore ha comprato il lunedì 800 azioni ad un prezzo di 19 euro cias
 
 b) Alle 6 del pomeriggio la temperatura era di 5 gradi. Per le successive 4 ore la temperatura è scesa di 3 gradi l'ora. Che temperatura c'era alle 10 di sera?
 
-c) Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata.
+c) Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 3 colonne con, in ogni riga, la data del sedici del mese, il numero di sequenza del mese del pagamento e l'importo, come nell'esempio seguente.
 
-Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 3 colonne con, in ogni riga, la data del sedici del mese, l'ordinale del pagamento e l'importo, come nell'esempio seguente.
-
-a)  l'abbonato non paga per 3 mesi, poi salda il debito entro la scadenza del quarto mese;
-
-a)  l'abbonato non paga per 3 mesi, poi salda il debito e contemporaneamente paga un mese in anticipo entro la scadenza del quarto mese;
-
-b) l'abbonato non paga per 3 mesi, poi salda le prime 2 rate entro il quarto mese, paga regolarmente per altri 3 mesi e quindi salda il debito entro la scadenza dell'ottavo mese;
-
-c) l'abbonato non paga nulla fino ad accumulare un debito vicino ai 200 euro. In questo caso quante righe ha la tabella?
-
-#### Esempio di SOLUZIONE
+#### Esempio
 
 L'abbonato non paga per due mesi consecutivi e poi salda tutto il debito entro il la scadenza del terzo mese 
 $$
@@ -503,7 +495,12 @@ $$
         \end{array}
 $$
 
+1. L'abbonato non paga per 3 mesi, poi salda il debito entro la scadenza del quarto mese;
+2. L'abbonato non paga per 3 mesi, poi salda il debito e contemporaneamente paga un mese in anticipo entro la scadenza del quarto mese;
+3. L'abbonato non paga per 3 mesi, poi salda le prime 2 rate entro il quarto mese, paga regolarmente per altri 3 mesi e quindi salda il debito entro la scadenza dell'ottavo mese;
+4. L'abbonato non paga nulla fino ad accumulare un debito vicino ai 200 euro. In questo caso quante righe ha la tabella?
 
+#### 
 
 ### ESERCIZIO 20 - Potenze
 

@@ -99,7 +99,7 @@ d) Gli ingredienti della ricetta "Pici cacio e pepe" per 4 persone sono i seguen
 - Pecorino romano stagionatura media, da grattugiare 200 g
 - Pepe nero in grani 5 g
 
-Come cambiano le quantità se le persone sono 3? Quale frazione delle quantità originarie deve essere utilizzata? [Suggerimento: calcola il numero di grammi a persona].
+Come cambiano le quantità, in rapporto alle persone, se le persone sono 3? Quale frazione delle quantità originarie deve essere utilizzata? [Suggerimento: calcola il numero di grammi a persona].
 
 
 
@@ -133,7 +133,7 @@ b) $[\dfrac{7}{15},\dfrac{1}{30},\dfrac{3}{10}]$;     $[\dfrac{4}{6},\dfrac{9}{1
 
 Passi da seguire per trovare la soluzione per la prima coppia di frazioni del punto b).
 
-1. Calcola il $mcm$ dei due numeri $2$ e $5$:   $mcm({2,5}) \Rightarrow 10$: questo sarà il nuovo denominatore di entrambe le frazioni;
+1. Calcola il $MCM$ dei due numeri $2$ e $5$:   $MCM({2,5}) \Rightarrow 10$: questo sarà il nuovo denominatore di entrambe le frazioni;
 2. Per avere il numeratore della prima frazione dividi l'$mcm$ per $2$ e moltiplica il risultato per $7$: $(10:2) \cdot 7 \Rightarrow 35$;
 3. Per avere il numeratore della seconda frazione dividi l'$mcm$ per $5$ e moltiplica il risultato per $3$: $(10:5) \cdot 3 \Rightarrow 6$;
 4. Le nuove frazioni sono: $[\dfrac{35}{10},\dfrac{6}{10}]$.
