@@ -42,15 +42,19 @@ e) In un Comune si svolge una indagine sul numero di giornate con precipitazioni
 a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una tabella le frequenze assolute e relative.
 
 1. Statura degli studenti di una classe, espressa in centimetri: 160, 165, 165, 162, 163, 165, 168, 168, 166, 161, 162, 166, 168, 165, 165, 165, 163, 168, 162, 161, 163, 165, 165, 161, 168, 165, 163, 165.  
-
 2. Pioggia caduta giornalmente nel mese di febbraio in una certa località, espressa in millimetri: 2, 3, 3, 4, 6, 8, 5, 5, 0, 0, 0, 1, 1, 4, 2, 5, 1, 0, 0, 0, 1, 2, 2, 0, 1, 0, 1, 2.  
-
 3. Libri letti in un anno da 40 persone; dati raccolti nella tabella seguente:
 
-   | CARATTERE: Libri letti in un anno |      |      |      |      |
-   | --------------------------------- | :--: | :--: | :--: | :--: |
-   | MODALITA                          | 0-2  | 3-5  | 6-8  | 9-10 |
-   | FREQUENZA ASSOLUTA                |  9   |  21  |  4   |  6   |
+$$
+\text{CARATTERE: Libri letti in un anno} \\
+\begin{array}{l|c|c|c|c|}
+\hline
+\text{Modalità} & 0-2 & 3-5 & 6-8 & 9-10\\
+\hline
+\text{Frequenza Assoluta}  & 9 & 21 & 4 & 6\\
+\hline
+\end{array}
+$$
 
 b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte degli italiani di età compresa tra 16 e 40 anni (campione di 1000 unità) vengono poste le seguenti domande:
 
@@ -61,42 +65,86 @@ b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte de
 1. Completa le seguenti tabelle in cui sono riassunti i risultati dell'indagine.
 2. Calcola la percentuale di persone che conoscono almeno due lingue straniere.
 
-| CARATTERE: Numero di Lingue Straniere Conosciute |      |      |      |      |      |
-| ------------------------------------------------ | :--: | :--: | :--: | ---- | :--: |
-| MODALITA                                         |  0   |  1   |  2   | 3    |  4   |
-| FREQUENZA ASSOLUTA                               | 253  | 536  | 180  |      |  3   |
-| FREQUENZA RELATIVA (%)                           |      |      | 18%  | 2,8% |      |
+$$
+\text{CARATTERE: Numero di Lingue Straniere Conosciute} \\
+\begin{array}{l|c|c|c|}
+\hline
+\text{Modalità} & 0 & 1 & 2 & 3 & 4 \\
+\hline
+\text{Frequenza Assoluta}  & 253 & 536 & 180 & & 3\\
+\hline
+\text{Frequenza Relativa}  &  &  & 18\% & 2,8\% &  \\
+\hline
+\end{array}
+$$
 
-| CARATTERE: Metodo di Apprendimento |          |                     |               |                |
-| ---------------------------------- | :------: | :-----------------: | :-----------: | :------------: |
-| MODALITA                           | A Scuola | Con corsi Specifici | Viaggi Studio | All'Università |
-| FREQUENZA ASSOLUTA                 |   400    |                     |      156      |       3        |
-| FREQUENZA RELATIVA (%)             |  53,54%  |                     |    20,89%     |      0,4%      |
 
-c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (1=elevato, 2=medio, 3=basso), la zona di residenza (1=urbana, 2=periferica) e lo stato di salute (1=buono, 0=cattivo) ed il reddito. 
 
-| Età  | Livello <br />Socio-Economico | Zona di <br />Residenza | Stato di <br />Salute | Reddito <br />(euro) |
-| :--: | :---------------------------: | :---------------------: | :-------------------: | :------------------: |
-|  33  |               1               |            1            |           1           |        75.000        |
-|  35  |               1               |            1            |           1           |       120.000        |
-|  6   |               1               |            1            |           0           |        55.000        |
-|  60  |               1               |            1            |           0           |        66.000        |
-|  18  |               3               |            1            |           1           |        14.000        |
-|  26  |               3               |            1            |           0           |        12.000        |
-|  6   |               3               |            1            |           0           |        17.500        |
-|  31  |               2               |            1            |           1           |        33.000        |
-|  26  |               2               |            1            |           1           |        42.000        |
-|  37  |               2               |            1            |           0           |        47.000        |
-|  23  |               1               |            1            |           0           |        51.000        |
-|  23  |               1               |            1            |           0           |        60.500        |
-|  27  |               1               |            1            |           0           |       140.000        |
-|  9   |               1               |            1            |           1           |        83.000        |
-|  37  |               1               |            2            |           1           |        73.000        |
-|  22  |               1               |            2            |           1           |        68.000        |
-|  67  |               1               |            2            |           1           |        65.000        |
-|  8   |               1               |            2            |           0           |        55.000        |
-|  6   |               1               |            2            |           1           |        59.000        |
-|  15  |               1               |            2            |           1           |        61.000        |
+$$
+\text{CARATTERE: Metodo di Apprendimento} \\
+\begin{array}{l|c|c|c|}
+\hline
+\text{Modalità} & \text{A Scuola} & \text{Con Corsi Specifici} & \text{Viaggi Studio} & \text{All'Università} \\
+\hline
+\text{Frequenza Assoluta}  & 400 &  & 156 & \\
+\hline
+\text{Frequenza Relativa}  & 53,54\% &  & 20,89\% & 0,4\%\\
+\hline
+\end{array}
+$$
+
+
+
+c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (colonna Liv., modalità 1=elevato, 2=medio, 3=basso), la zona di residenza (colonna Res. con modalità 1=urbana, 2=periferica) e lo stato di salute (colonna Salute con modalità 1=buono, 0=cattivo) ed il reddito. 
+
+$$
+\begin{array}{|c|c|c|c|r|}
+\hline
+\text{Eta} & \text{Liv.} & \text{Res.} & \text{Salute} & \text{Reddito} \\
+\hline
+33 & 1 & 1 & 1 & 75.000    \\
+\hline
+35 & 1 & 1 & 1 & 120.000   \\
+\hline                         
+6 & 1 & 1 & 0 & 55.000     \\
+\hline                         
+60 & 1 & 1 & 0 & 66.000    \\
+\hline                         
+18 & 3 & 1 & 1 & 14.000    \\
+\hline                         
+26 & 3 & 1 & 0 & 12.000    \\
+\hline                         
+6 & 3 & 1 & 0 & 17.500     \\
+\hline                         
+31 & 2 & 1 & 1 & 33.000    \\
+\hline                         
+26 & 2 & 1 & 1 & 42.000    \\
+\hline                         
+37 & 2 & 1 & 0 & 47.000   \\
+\hline                         
+23 & 1 & 1 & 0 & 51.000   \\
+\hline                         
+23 & 1 & 1 & 0 & 60.500   \\
+\hline                         
+27 & 1 & 1 & 0 & 140.000  \\
+\hline                         
+9 & 1 & 1 & 1 & 83.000    \\
+\hline                         
+37 & 1 & 2 & 1 & 73.000   \\
+\hline                         
+22 & 1 & 2 & 1 & 68.000   \\
+\hline                         
+67 & 1 & 2 & 1 & 65.000   \\
+\hline                         
+8 & 1 & 2 & 0 & 55.000    \\
+\hline                         
+6 & 1 & 2 & 1 & 59.000    \\
+\hline                         
+15 & 1 & 2 & 1 & 61.000   \\
+\hline
+\end{array}
+$$
+
 
 1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi 0-25, 26-50 e 51-75; 
 2. Calcola le frequenze assolute e relative per determinare la distribuzione del livello socio-economico.
@@ -124,36 +172,62 @@ d) Risolvi il punto c.1) dell'esercizio prendendo ad esempio la sequenza di oper
 
 Il direttore del personale di un’industria ha somministrato un breve questionario a 20 addetti nel quale si chiedeva:
 
-- La qualifica (Operaio, Impiegato, Quadro, Dirigente)
-- Il grado di pesantezza del lavoro svolto (1: ”poco faticoso”, 2: ”moderatamente faticoso”, 3: ”faticoso”, 4:”molto faticoso”, 5: ”estremamente faticoso”)
-- Il numero di figli a carico
-- La retribuzione media oraria (euro/h)
-- La disponibilità’ di un’auto propria (0: “no”, 1: “sì”)
+- La qualifica (colonna "Qualifica", modalità Operaio, Impiegato, Quadro, Dirigente)
+- Il grado di pesantezza del lavoro svolto (colonna "Grado", modalità 1: ”poco faticoso”, 2: ”moderatamente faticoso”, 3: ”faticoso”, 4:”molto faticoso”, 5: ”estremamente faticoso”)
+- Il numero di figli a carico (colonna Figli)
+- La retribuzione media oraria (colonna "Stipendio", in euro/h)
+- La disponibilità’ di un’auto propria (colonna "Auto", 0: “no”, 1: “sì”)
 
  La matrice dei dati è stata la seguente.
 
-| **Unità** | **Qualifica** | **Grado  Pesantezza** | **N.  Figli** | **Retribuzione** | **Disp.  Auto** |
-| --------- | ------------- | --------------------- | ------------- | ---------------- | --------------- |
-| 1         | Operaio       | 2                     | 0             | 22,5             | 0               |
-| 2         | Impiegato     | 2                     | 1             | 23,0             | 1               |
-| 3         | Operaio       | 3                     | 3             | 18,5             | 1               |
-| 4         | Impiegato     | 4                     | 2             | 18,3             | 1               |
-| 5         | Operaio       | 1                     | 0             | 15,0             | 0               |
-| 6         | Impiegato     | 3                     | 1             | 25,7             | 0               |
-| 7         | Impiegato     | 3                     | 0             | 24,2             | 1               |
-| 8         | Operaio       | 1                     | 2             | 16,7             | 1               |
-| 9         | Operaio       | 2                     | 2             | 17,9             | 1               |
-| 10        | Operaio       | 3                     | 1             | 15,0             | 0               |
-| 11        | Impiegato     | 4                     | 2             | 24,6             | 0               |
-| 12        | Impiegato     | 2                     | 0             | 26,8             | 1               |
-| 13        | Impiegato     | 3                     | 2             | 21,5             | 1               |
-| 14        | Dirigente     | 5                     | 2             | 50,3             | 1               |
-| 15        | Quadro        | 3                     | 2             | 23,6             | 1               |
-| 16        | Operaio       | 5                     | 2             | 18,4             | 1               |
-| 17        | Operaio       | 2                     | 1             | 18,9             | 0               |
-| 18        | Operaio       | 4                     | 0             | 19,4             | 0               |
-| 19        | Operaio       | 4                     | 3             | 19,3             | 1               |
-| 20        | Quadro        | 1                     | 1             | 26,0             | 0               |
+$$
+\begin{array}{|c|c|c|r|c|}
+\hline
+\text{Qualifica} & \text{Grado} & \text{Figli} & \text{Stipendio} & \text{Auto} \\
+\hline
+Operaio & 2 & 0 & 22,5 & 0    \\
+\hline
+Impiegato & 2 & 1 & 23 & 1    \\
+\hline
+Operaio & 3 & 3 & 18,5 & 1    \\
+\hline
+Impiegato & 4 & 2 & 18,3 & 1  \\
+\hline
+Operaio & 1 & 0 & 15 & 0      \\
+\hline
+Impiegato & 3 & 1 & 25,7 & 0  \\
+\hline
+Impiegato & 3 & 0 & 24,2 & 1  \\
+\hline
+Operaio & 1 & 2 & 16,7 & 1    \\
+\hline
+Operaio & 2 & 2 & 17,9 & 1    \\
+\hline
+Operaio & 3 & 1 & 15 & 0      \\
+\hline
+Impiegato & 4 & 2 & 24,6 & 0  \\
+\hline
+Impiegato & 2 & 0 & 26,8 & 1  \\
+\hline
+Impiegato & 3 & 2 & 21,5 & 1  \\
+\hline
+Dirigente & 5 & 2 & 50,3 & 1  \\
+\hline
+Quadro & 3 & 2 & 23,6 & 1     \\
+\hline
+Operaio & 5 & 2 & 18,4 & 1    \\
+\hline
+Operaio & 2 & 1 & 18,9 & 0    \\
+\hline
+Operaio & 4 & 0 & 19,4 & 0    \\
+\hline
+Operaio & 4 & 3 & 19,3 & 1    \\
+\hline
+Quadro & 1 & 1 & 26 & 0       \\
+\hline
+\end{array}
+$$
+
 
 a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lavorativa è di 8 ore, calcola:
 
