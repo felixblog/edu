@@ -46,7 +46,7 @@ a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una 
 3. Libri letti in un anno da 40 persone; dati raccolti nella tabella seguente:
 
 $$
-\text{CARATTERE: Libri letti in un anno} \\
+\textbf{CARATTERE: Libri letti in un anno} \\
 \begin{array}{l|c|c|c|c|}
 \hline
 \text{Modalità} & 0-2 & 3-5 & 6-8 & 9-10\\
@@ -66,7 +66,7 @@ b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte de
 2. Calcola la percentuale di persone che conoscono almeno due lingue straniere.
 
 $$
-\text{CARATTERE: Numero di Lingue Straniere Conosciute} \\
+\textbf{CARATTERE: Numero di Lingue Straniere Conosciute} \\
 \begin{array}{l|c|c|c|}
 \hline
 \text{Modalità} & 0 & 1 & 2 & 3 & 4 \\
@@ -81,7 +81,7 @@ $$
 
 
 $$
-\text{CARATTERE: Metodo di Apprendimento} \\
+\textbf{CARATTERE: Metodo di Apprendimento} \\
 \begin{array}{l|c|c|c|}
 \hline
 \text{Modalità} & \text{A Scuola} & \text{Con Corsi Specifici} & \text{Viaggi Studio} & \text{All'Università} \\
@@ -100,7 +100,7 @@ c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 sogg
 $$
 \begin{array}{|c|c|c|c|r|}
 \hline
-\text{Eta} & \text{Liv.} & \text{Res.} & \text{Salute} & \text{Reddito} \\
+\textbf{Eta} & \textbf{Liv.} & \textbf{Res.} & \textbf{Salute} & \textbf{Reddito} \\
 \hline
 33 & 1 & 1 & 1 & 75.000    \\
 \hline
@@ -172,18 +172,18 @@ d) Risolvi il punto c.1) dell'esercizio prendendo ad esempio la sequenza di oper
 
 Il direttore del personale di un’industria ha somministrato un breve questionario a 20 addetti nel quale si chiedeva:
 
-- La qualifica (colonna "Qualifica", modalità Operaio, Impiegato, Quadro, Dirigente)
-- Il grado di pesantezza del lavoro svolto (colonna "Grado", modalità 1: ”poco faticoso”, 2: ”moderatamente faticoso”, 3: ”faticoso”, 4:”molto faticoso”, 5: ”estremamente faticoso”)
-- Il numero di figli a carico (colonna Figli)
-- La retribuzione media oraria (colonna "Stipendio", in euro/h)
-- La disponibilità’ di un’auto propria (colonna "Auto", 0: “no”, 1: “sì”)
+- La qualifica (colonna **Qualifica**, modalità Operaio, Impiegato, Quadro, Dirigente)
+- Il grado di pesantezza del lavoro svolto (colonna **Grado**, modalità 1: ”poco faticoso”, 2: ”moderatamente faticoso”, 3: ”faticoso”, 4:”molto faticoso”, 5: ”estremamente faticoso”)
+- Il numero di figli a carico (colonna **Figli**)
+- La retribuzione media oraria (colonna **Retrib.**, in euro/h)
+- La disponibilità’ di un’auto propria (colonna **Auto**, 0: “no”, 1: “sì”)
 
- La matrice dei dati è stata la seguente.
+ I risultati del questionario sono riassunti nella tabella seguente.
 
 $$
 \begin{array}{|c|c|c|r|c|}
 \hline
-\text{Qualifica} & \text{Grado} & \text{Figli} & \text{Stipendio} & \text{Auto} \\
+\textbf{Qualifica} & \textbf{Grado} & \textbf{Figli} & \textbf{Stipendio} & \textbf{Auto} \\
 \hline
 Operaio & 2 & 0 & 22,5 & 0    \\
 \hline
@@ -244,22 +244,68 @@ b) Considera le classi di retribuzione (fascie) seguenti: 0|-18; 18|-25; 25|-40;
 
 ### ESERCIZIO 4 - Grafici a Linee
 
-a) Considerata la seguente tabella della rilevazione delle vendite di una ditta (in quintali) negli anni indicati.
+a) Considerata la seguente tabella delle rilevazioni delle quantità vendute di una ditta (in quintali) negli anni indicati.
 
-| Anno                        | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
-| :-------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **Quantità Venduta (q.li)** | 320  | 380  | 410  | 390  | 450  | 480  | 470  | 510  | 500  | 480  |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Anno} & \textbf{Quantita} \\
+\hline
+2010 & 320 \\
+\hline
+2011 & 380 \\
+\hline
+2012 & 410 \\
+\hline
+2013 & 390 \\
+\hline
+2014 & 450 \\
+\hline
+2015 & 480 \\
+\hline
+2016 & 470 \\
+\hline
+2017 & 510 \\
+\hline
+2018 & 500 \\
+\hline
+2019 & 480 \\
+\hline
+\end{array}
+$$
 
 1. Rappresenta i dati con un diagramma cartesiano a linee;
 2. Quale è il massimo e quando si è verificato? Quale è il minimo?
 
 b) La tabella seguente riporta le serie storiche delle esportazioni e delle importazioni (in milioni di euro) per l’Italia dal 1998 al 2007 (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Import-Export.xlsx)):
 
-| Anno             | 1998    | 1999    | 2000    | 2001    | 2002    | 2003    | 2004    | 2005    | 2006    | 2007    |
-| ---------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| **Esportazioni** | 220.105 | 221.040 | 260.413 | 272.990 | 269.064 | 264.616 | 284.413 | 299.923 | 332.013 | 358.633 |
-| **Importazioni** | 195.625 | 207.015 | 258.507 | 263.757 | 261.226 | 262.998 | 285.634 | 309.292 | 352.465 | 368.080 |
-
+$$
+\begin{array}{|c|r|}
+\hline
+\textbf{Anno} & \textbf{Esportazioni} & \textbf{Importazioni} \\
+\hline
+1998 & 220.105 & 195.625 \\
+\hline
+1999 & 221.040 & 207.015 \\
+\hline
+2000 & 260.413 & 258.507 \\
+\hline
+2001 & 272.990 & 263.757 \\
+\hline
+2002 & 269.064 & 261.226 \\
+\hline
+2003 & 264.616 & 262.998 \\
+\hline
+2004 & 284.413 & 285.634 \\
+\hline
+2005 & 299.923 & 309.292 \\
+\hline
+2006 & 332.013 & 352.465 \\
+\hline
+2007 & 358.633 & 368.080 \\
+\hline
+\end{array}
+$$
 Rappresenta in un diagramma cartesiano:
 
 1. La serie storica delle Esportazioni;
@@ -280,30 +326,34 @@ Punto b.3)
 
 a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a.
 
-b) Rappresenta mediante un diagramma a barre verticali la seguente tabella della rilevazione dei salari mensili di 250 operai di una ditta:
-
-| Classe di Salario (euro) | N. Operai |
-| :----------------------: | :-------: |
-|      900 \|-- 1000       |    20     |
-|     1.000 \|-- 1.100     |    55     |
-|     1.100 \|-- 1.200     |    125    |
-|     1.200 \|-- 1.300     |    34     |
-|     1.300 \|-- 1.400     |    16     |
-
+b) Rappresenta mediante un diagramma a barre verticali la seguente tabella della rilevazione dei salari mensili (in euro) di 250 operai di una ditta:
+$$
+\begin{array}{|c|r|}
+\hline
+\textbf{Classe di Salario} & \textbf{Operai} \\
+\hline
+  900 \vdash 1000  & 20  \\
+1.000 \vdash 1.100 & 55  \\
+1.100 \vdash 1.200 & 125 \\
+1.200 \vdash 1.300 & 34  \\
+1.300 \vdash 1.400 & 16  \\
+\hline
+\end{array}
+$$
 c) Rappresenta mediante un diagramma a barre orizzontali (a nastro) la seguente tabella che riporta la rilevazione della spesa (migliaia di euro) per spettacoli in alcune regioni italiane nell'anno 2010
 
 | Regioni   | Piemonte | Lombardia | Veneto | Liguria | Lazio  | Puglia | Campania | Sicilia |
 | --------- | -------- | --------- | ------ | ------- | ------ | ------ | -------- | ------- |
 | **Spesa** | 60.202   | 125.911   | 43.439 | 28.383  | 73.555 | 10.748 | 20.568   | 28.031  |
 
-d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica (anno 2010).
+d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica (anno 2010, numeri in migliaia di unità).
 
-|                | Maschi (migliaia) | Femmine (migliaia) |
-| :------------: | :---------------: | :----------------: |
-|  Agricoltura   |       1.165       |        658         |
-|   Industria    |       5.259       |       1.656        |
-|    Servizi     |       7.678       |       5.175        |
-| Altre Attività |        890        |        910         |
+|                | Maschi | Femmine |
+| :------------: | :----: | :-----: |
+|  Agricoltura   | 1.165  |   658   |
+|   Industria    | 5.259  |  1.656  |
+|    Servizi     | 7.678  |  5.175  |
+| Altre Attività |  890   |   910   |
 
 #### Soluzione
 
@@ -333,27 +383,97 @@ Punto b)
 
 ### ESERCIZIO 7 - Grafici a Dispersione
 
-a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) di un collettivo di 8 aziende:
+a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) complessivo di un collettivo di aziende:
 
-| Investimenti  | 17,27    | 18,006   | 13,428   | 14,123   | 28,942   | 17,135   | 12,537   | 24,17    |
-| ------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| **Fatturato** | 2.128,02 | 2.430,05 | 1.623,97 | 1.799,35 | 3.844,14 | 1.696,33 | 1.649,75 | 3.112,98 |
-
+$$
+\begin{array}{|r|r|}
+\hline
+\textbf{Investimenti} & \textbf{Fatturato} \\ 	 
+\hline
+17,27 & 2.128,02  \\
+\hline
+18,006 & 2.430,05  \\
+\hline             
+13,428 & 1.623,97  \\
+\hline             
+14,123 & 1.799,35  \\
+\hline             
+28,942 & 3.844,14  \\
+\hline             
+17,135 & 1.696,33  \\
+\hline             
+12,537 & 1.649,75  \\
+\hline             
+24,17 & 3.112,98   \\
+\hline
+\end{array}
+$$
 Rappresenta i dati con un grafico a dispersione.
 
 b) In uno studio atto a rilevare le relazione fra età e pulsazioni cardiache al minuto e sotto sforzo, sono state effettuate le seguenti rilevazioni:
 
-| Età (Anni)           | 15   | 20   | 25   | 30   | 35   | 40   | 45   | 50   | 55   | 60   | 65   | 70   |
-| -------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **Pulsazioni (min)** | 200  | 195  | 190  | 190  | 180  | 185  | 180  | 175  | 170  | 170  | 165  | 160  |
-
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Eta (Anni)} & \textbf{Pulsazioni (min)} \\ 	 
+\hline
+15 & 200 \\
+\hline
+20 & 195 \\
+\hline
+25 & 190 \\
+\hline
+30 & 190 \\
+\hline
+35 & 180 \\
+\hline
+40 & 185 \\
+\hline
+45 & 180 \\
+\hline
+50 & 175 \\
+\hline
+55 & 170 \\
+\hline
+60 & 170 \\
+\hline
+65 & 165 \\
+\hline
+70 & 160 \\
+\hline
+\end{array}
+$$
 Rappresenta i dati con un grafico a dispersione. Che conclusioni si possono trarre?
 
 c) Consideriamo il peso (in kg) e l'altezza (in cm) di 10 individui riportati nella seguente tabella 
 
-| **Peso**    | 56   | 66   | 84   | 61   | 73   | 90   | 70   | 61   | 75   | 82   |
-| ----------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **Altezza** | 161  | 165  | 186  | 162  | 172  | 191  | 181  | 164  | 179  | 184  |
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Peso} & \textbf{Altezza} \\ 	 
+\hline
+56 & 161  \\
+\hline
+66 & 165  \\
+\hline
+84 & 186  \\
+\hline
+61 & 162  \\
+\hline
+73 & 172  \\
+\hline
+90 & 191  \\
+\hline
+70 & 181  \\
+\hline
+61 & 164  \\
+\hline
+75 & 179  \\
+\hline
+82 & 184  \\
+\hline
+\end{array}
+$$
 
 1. Costruisci il grafico di dispersione per i due caratteri;
 
@@ -371,20 +491,37 @@ Punto a)
 
 a) La tabella seguente riporta tre anni di dati mensili delle vendite di un produttore di birra, in barili.
 
-| ANNO | MESE | BARILI | ANNO | MESE | BARILI | ANNO | MESE | BARILI |
-| ---- | ---- | ------ | ---- | ---- | ------ | ---- | ---- | ------ |
-| 2010 | Gen  | 14.673 | 2011 | Gen  | 13.310 | 2012 | Gen  | 15.188 |
-| 2010 | Feb  | 14.912 | 2011 | Feb  | 14.579 | 2012 | Feb  | 14.999 |
-| 2010 | Mar  | 16.563 | 2011 | Mar  | 16.720 | 2012 | Mar  | 17.654 |
-| 2010 | Apr  | 16.545 | 2011 | Apr  | 17.675 | 2012 | Apr  | 17.860 |
-| 2010 | Mag  | 17.971 | 2011 | Mag  | 18.874 | 2012 | Mag  | 18.216 |
-| 2010 | Giu  | 17.929 | 2011 | Giu  | 18.863 | 2012 | Giu  | 18.092 |
-| 2010 | Lug  | 18.693 | 2011 | Lug  | 18.798 | 2012 | Lug  | 17.174 |
-| 2010 | Ago  | 18.025 | 2011 | Ago  | 17.718 | 2012 | Ago  | 17.502 |
-| 2010 | Set  | 16.291 | 2011 | Set  | 15.715 | 2012 | Set  | 15.635 |
-| 2010 | Ott  | 15.637 | 2011 | Ott  | 14.609 | 2012 | Ott  | 15.071 |
-| 2010 | Nov  | 13.562 | 2011 | Nov  | 13.121 | 2012 | Nov  | 13.649 |
-| 2010 | Dic  | 13.319 | 2011 | Dic  | 13.934 | 2012 | Dic  | 13.309 |
+$$
+\begin{array}{|c|c|r|c|c|r|c|c|r|}
+\hline
+\textbf{Anno} & \textbf{Mese} & \textbf{Barili} & \textbf{Anno} & \textbf{Mese} & \textbf{Barili} & \textbf{Anno} & \textbf{Mese} & \textbf{Barili}\\ 	 
+\hline
+2010 & Gen & 14.673 & 2011 & Gen & 13.310 & 2012 & Gen & 15.188  \\
+\hline
+2010 & Feb & 14.912 & 2011 & Feb & 14.579 & 2012 & Feb & 14.999  \\
+\hline
+2010 & Mar & 16.563 & 2011 & Mar & 16.720 & 2012 & Mar & 17.654  \\
+\hline
+2010 & Apr & 16.545 & 2011 & Apr & 17.675 & 2012 & Apr & 17.860  \\
+\hline
+2010 & Mag & 17.971 & 2011 & Mag & 18.874 & 2012 & Mag & 18.216  \\
+\hline
+2010 & Giu & 17.929 & 2011 & Giu & 18.863 & 2012 & Giu & 18.092  \\
+\hline
+2010 & Lug & 18.693 & 2011 & Lug & 18.798 & 2012 & Lug & 17.174  \\
+\hline
+2010 & Ago & 18.025 & 2011 & Ago & 17.718 & 2012 & Ago & 17.502  \\
+\hline
+2010 & Set & 16.291 & 2011 & Set & 15.715 & 2012 & Set & 15.635  \\
+\hline
+2010 & Ott & 15.637 & 2011 & Ott & 14.609 & 2012 & Ott & 15.071  \\
+\hline
+2010 & Nov & 13.562 & 2011 & Nov & 13.121 & 2012 & Nov & 13.649  \\
+\hline
+2010 & Dic & 13.319 & 2011 & Dic & 13.934 & 2012 & Dic & 13.309  \\
+\hline
+\end{array}
+$$
 
 1. Costruisci la serie storica trimestrale (riepilogativa) delle vendite;
 2. Costruisci il riepilogo annuale;
@@ -412,18 +549,56 @@ a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
 b) Per i primi 15 giorni di un mese viene rilevato il ritardo (in minuti) accumulato da un determinato treno rispetto all’orario previsto di arrivo. Di seguito sono riportati i dati rilevati, che presentano segno negativo nel caso di anticipo sull’orario di arrivo:
 
-| **Giorno**  |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   |  10  |  11  |  12  |  13  |  14  |  15  |
-| :---------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| **Ritardo** |  10  |  15  |  -2  |  0   |  50  |  20  |  0   |  9   |  -5  |  8   |  10  |  20  |  6   |  10  | -10  |
-
+$$
+\begin{array}{|c|r|}
+\hline
+\textbf{Giorno} & \textbf{Ritardo} \\ 	 
+\hline
+1 & 10\phantom{--}   \\
+2 & 15\phantom{--}   \\
+3 & -2\phantom{--}   \\
+4 & 0\phantom{--}    \\
+5 & 50\phantom{--}   \\
+6 & 20\phantom{--}   \\
+7 & 0\phantom{--}    \\
+8 & 9\phantom{--}    \\
+9 & -5\phantom{--}   \\
+10 & 8\phantom{--}   \\
+11 & 10\phantom{--}  \\
+12 & 20\phantom{--}  \\
+13 & 6\phantom{--}   \\
+14 & 10\phantom{--}  \\
+15 & -10\phantom{--} \\
+\hline
+\end{array}
+$$
 Calcola minimo, massimo, la moda, la mediana, la media aritmetica della distribuzione;
 
 c) Per otto famiglie viene rilevato il risparmio medio annuo (in euro) come segue: 
 
-| **Famiglia**  |  A   |   B   |   C   |  D   |   E   |   F   |   G   |   H   |
-| :------------ | :--: | :---: | :---: | :--: | :---: | :---: | :---: | :---: |
-| **Risparmio** | 500  | 5.000 | 2.600 |  0   | 9.200 | 3.000 | 5.400 | 6.300 |
-
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Famiglia} & \textbf{Risparmio} \\
+\hline
+\text{A} & 500    \\
+\hline
+\text{B} & 5.000  \\
+\hline
+\text{C} & 2.600  \\
+\hline
+\text{D} & 0      \\
+\hline
+\text{E} & 9.200  \\
+\hline
+\text{F} & 3.000  \\
+\hline
+\text{G} & 5.400  \\
+\hline
+\text{H} & 6.300  \\
+\hline
+\end{array}
+$$
 Determina moda, media e mediana.
 
 d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano presenti in Italia 5Ml di immigrati).
