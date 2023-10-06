@@ -120,32 +120,49 @@ b) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi il prodotto
 
 c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e si muove del doppio della distanza iniziale verso destra, quindi si gira e si muove del triplo della distanza iniziale ancora verso sinistra. Calcolare lo spostamento della lumaca prima di ogni cambiamento di direzione e scrivere l'espressione che ci dà lo spostamento totale.
 
-### ESERCIZIO 6 - Relazioni di uguaglianza e disuguaglianza
 
-Controlla la verità delle relazioni seguenti:  
 
-a) $-1 > 0;\enspace -7 < -3;\enspace 0 \le 0;\enspace 1 = 1 + 0;\enspace 4-5 \ge 1+3-4;$
+### ESERCIZIO 6 - Valore assoluto, opposto, uguaglianze e disuguaglianze
 
-b) $2+3\text{·}(-1)=11-5-7;\enspace 3^{2}-2\text{·}3-1=\left(3-2\right)^{2}$
+L'opposto di un numero intero è un secondo numero che ha le stesse cifre del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
+
+Il valore assoluto di un numero intero è "il numero senza il segno", ossia il numero stesso se il numero è positivo, l'opposto del numero se è negativo, ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$.
+
+Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
+
+a) Calcola valore assoluto ed opposto delle seguenti espressioni.
+
+$-4$;      $+9$;      $-3+7$;      $(-3+7)\cdot 4$;      $-1 \cdot (-3+7)\cdot (-4)$; 
+
+
+
+La scrittura $3 \gt 5$ afferma che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "valore di verità" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} F $ . Invece $5 = 2 + 2$ afferma una cosa vera e si scrive che $5 = 2 + 2 \longrightarrow T$ , dove $T$ sta per "True", cioè vero. Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow T$ . Osserviamo che $3 \lt 3 \longrightarrow F$ .
+
+I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow T$  e  $3 \le 3 \longrightarrow T$ .
+
+b) Controlla la verità delle seguenti relazioni:
+
+1. $-1 > 0;$     $-7 < -3;$      $0 \le 0;$      $1 = 1 + 0;$      $4-5 \ge 1+3-4;$
+2. $2+3\cdot(-1)=11-5-7;$      $3^{2}-2\text{·}3-1=\left(3-2\right)^{2};$
 
 
 
 ### ESERCIZIO 7 - Espressioni e parentesi
 
-a) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le queste espressioni senza parentesi inutili e di tutte calcola il valore.
-
-1. $4+(3-2)+1;$    $-1(2-3)+5(-6);$    $(2-3)-1-6\cdot 5;$
-2. $(+4)+(+5-9);$    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
-
-b) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutili.
-
-c) Calcola il valore delle espressioni seguenti. 
+a) Calcola il valore delle espressioni seguenti. 
 
 1.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
 
 2.  $(-15):3-6+18:(-6)-(+7 \cdot 3-10)+7\cdot2$.		[$R. -11$];
 
 3.  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$.		[$R. +20$];  
+
+b) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le queste espressioni senza parentesi inutili e di tutte calcola il valore.
+
+1. $4+(3-2)+1;$    $-1(2-3)+5(-6);$    $(2-3)-1-6\cdot 5;$
+2. $(+4)+(+5-9);$    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
+
+c) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutili.
 
 #### Laboratorio GEOGEBRA
 

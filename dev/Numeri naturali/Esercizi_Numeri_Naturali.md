@@ -3,13 +3,23 @@
 
 ### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 
+Le espressioni sono sequenze in cui si alternano numeri ed operazioni (tra due numeri c'è sempre una operazione). L'esecuzione ordinata delle operazioni produce, da ogni espressione, un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non facciano parte di una operazione successiva che abbia priorità maggiore, nel qual caso si passa alla seconda. 
+
+#### ESEMPIO
+
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Poiché il prodotto ha priorità di esecuzione rispetto alla somma il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione eseguita. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \xrightarrow{\cdot} 96 +^{(1)} 5 \xrightarrow{+} 101$.
+
+Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è condiviso con il prodotto. Poiché il prodotto ha priorità di esecuzione rispetto alla somma l'$8$ dovrà essere impiegato nel prodotto. La somma non può essere eseguita (manca il secondo numero), verrà eseguito il prodotto e la somma opererà sul risultato. 
+
+La sequenza delle operazioni eseguibili sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \xrightarrow{\cdot} 5 +^{(1)} 96 \xrightarrow{+} 101$.
+
 a) Calcola il valore delle seguenti espressioni.
 
 1. $6 - 3;$    $6 : 3;$    $6 + 3;$     $6 · 3;$
 
 2. $15 + 10 + 3;$    $8 + 5 + 2 + 4;$    $17 - 9 - 1 - 1;$
 
-3. $8 · 12 + 5;$     $22 + 8 · 12;$
+3. $8 · 12 + 5;$     $5 + 8 · 12;$
 
 4. $6 − 10 : 2 + 3;$
 
@@ -17,7 +27,13 @@ a) Calcola il valore delle seguenti espressioni.
 
 6. $16 : 4 · 8$  
 
-b) Individua quanti e quali numeri ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+#### Uso delle parentesi
+
+Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati nelle operazioni contenute all'interno delle parentesi.
+
+Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra è il prodotto ma il $12$ è dentro la coppia di parentesi per cui l'operazione non è eseguibile (il prodotto è fuori dalla parentesi ed il $12$ è dentro). La prima operazione eseguibile è quindi la somma. La sequenza delle operazioni eseguibili sarà allora:  $8 \cdot^{(2)} (12 +^{(1)} 5) \xrightarrow{+} 8 \cdot^{(1)} (17) \xrightarrow{\cdot} 136$.
+
+b) Individua i numeri, le operazioni di ciascuna delle espressioni seguenti ed il loro ordine di esecuzione e calcolane il valore.
 
 1. $4 + 6·9;$
 2. $(4 + 6)·9;$
@@ -36,7 +52,7 @@ Inserisci le espressioni in GEOGEBRA e calcola il risultato. Ricordare che in GE
 
 Traduci in espressioni le seguenti frasi e calcolane il valore.
 
-a) Dividi 15 per la differenza tra 9 e 4 e poi somma 2; [$R. \,\,\, 15 : (9 - 4) + 2\,\,\, => 5$ ].
+a) Dividi 15 per la differenza tra 9 e 4 e poi somma 2;      [R. $15 : (9 - 4) + 2 \longrightarrow 5$ ].
 
 b) Moltiplica per 7 la differenza tra 10 e 8 e sottrai al risultato 14;
 
@@ -125,7 +141,7 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 ### ESERCIZIO 6 - Operazioni ed espressioni (II)
 
-a) Individua quanti e quali numeri ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. Analizza il loro ordine di esecuzione e calcola il valore dell'espressione.
 
 1. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5];$
 2. $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10];$

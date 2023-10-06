@@ -47,11 +47,17 @@ a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una 
 
 $$
 \textbf{CARATTERE: Libri letti in un anno} \\
-\begin{array}{l|c|c|c|c|}
+\begin{array}{|c|c|}
 \hline
-\text{Modalità} & 0-2 & 3-5 & 6-8 & 9-10\\
+\textbf{Modalita} & \textbf{Frequenza} \\
 \hline
-\text{Frequenza Assoluta}  & 9 & 21 & 4 & 6\\
+0-2 & 9 \\
+\hline
+3-5 & 21 \\
+\hline
+6-8 & 4 \\
+\hline
+9-10 & 6 \\
 \hline
 \end{array}
 $$
@@ -67,33 +73,39 @@ b) In un'indagine statistica sulla conoscenza delle lingue straniere da parte de
 
 $$
 \textbf{CARATTERE: Numero di Lingue Straniere Conosciute} \\
-\begin{array}{l|c|c|c|}
+\begin{array}{|c|c|}
 \hline
-\text{Modalità} & 0 & 1 & 2 & 3 & 4 \\
+\textbf{Modalita} & \textbf{Freq. Ass.} & \textbf{Freq. Rel.} \\
 \hline
-\text{Frequenza Assoluta}  & 253 & 536 & 180 & & 3\\
+0 & 253  \\
 \hline
-\text{Frequenza Relativa}  &  &  & 18\% & 2,8\% &  \\
+1 & 536  \\
+\hline
+2 & 180 & 18\% \\
+\hline
+3 & & 2,8\%  \\
+\hline
+4 & 3  \\
 \hline
 \end{array}
 $$
-
-
 
 $$
 \textbf{CARATTERE: Metodo di Apprendimento} \\
-\begin{array}{l|c|c|c|}
+\begin{array}{|c|c|}
 \hline
-\text{Modalità} & \text{A Scuola} & \text{Con Corsi Specifici} & \text{Viaggi Studio} & \text{All'Università} \\
+\textbf{Modalita} & \textbf{Freq. Ass.} & \textbf{Freq. Rel.} \\
 \hline
-\text{Frequenza Assoluta}  & 400 &  & 156 & \\
+\text{A Scuola} & 400 & 53,54 \%  \\
 \hline
-\text{Frequenza Relativa}  & 53,54\% &  & 20,89\% & 0,4\%\\
+\text{Con Corsi Specifici} &  &   \\
+\hline
+\text{Viaggi Studio} & 156 & 20,89 \%  \\
+\hline
+\text{All'Universita} &  & 0,4 \%  \\
 \hline
 \end{array}
 $$
-
-
 
 c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (colonna Liv., modalità 1=elevato, 2=medio, 3=basso), la zona di residenza (colonna Res. con modalità 1=urbana, 2=periferica) e lo stato di salute (colonna Salute con modalità 1=buono, 0=cattivo) ed il reddito. 
 
@@ -328,7 +340,7 @@ a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze ass
 
 b) Rappresenta mediante un diagramma a barre verticali la seguente tabella della rilevazione dei salari mensili (in euro) di 250 operai di una ditta:
 $$
-\begin{array}{|c|r|}
+\begin{array}{|c|c|}
 \hline
 \textbf{Classe di Salario} & \textbf{Operai} \\
 \hline
@@ -338,22 +350,50 @@ $$
 1.200 \vdash 1.300 & 34  \\
 1.300 \vdash 1.400 & 16  \\
 \hline
-\end{array}
+\end{array}
 $$
 c) Rappresenta mediante un diagramma a barre orizzontali (a nastro) la seguente tabella che riporta la rilevazione della spesa (migliaia di euro) per spettacoli in alcune regioni italiane nell'anno 2010
 
-| Regioni   | Piemonte | Lombardia | Veneto | Liguria | Lazio  | Puglia | Campania | Sicilia |
-| --------- | -------- | --------- | ------ | ------- | ------ | ------ | -------- | ------- |
-| **Spesa** | 60.202   | 125.911   | 43.439 | 28.383  | 73.555 | 10.748 | 20.568   | 28.031  |
-
+$$
+\begin{array}{|c|r|}
+\hline
+\textbf{Regioni} & \textbf{Spesa} \\  	 
+\hline
+\text{Piemonte}  & 60.202   \\
+\hline
+\text{Lombardia}  & 125.911 \\
+\hline
+\text{Veneto}  & 43.439     \\
+\hline
+\text{Liguria}  & 28.383    \\
+\hline
+\text{Lazio}   & 73.555     \\
+\hline
+\text{Puglia}  & 10.748     \\
+\hline
+\text{Campania}  & 20.568   \\
+\hline
+\text{Sicilia} & 28.031     \\
+\hline
+\end{array}
+$$
 d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica (anno 2010, numeri in migliaia di unità).
+$$
+\begin{array}{|c|r|}
+\hline
+\textbf{ } & \textbf{Maschi} & \textbf{Femmine} \\  	 
+\hline
+\text{Agricoltura} & 1.165 & 658  \\
+\hline
+\text{Industria} & 5.259 & 1.656  \\
+\hline
+\text{Servizi} & 7.678 & 5.175    \\
+\hline
+\text{Altre Attivita} & 890 & 910 \\
+\hline
+\end{array}
+$$
 
-|                | Maschi | Femmine |
-| :------------: | :----: | :-----: |
-|  Agricoltura   | 1.165  |   658   |
-|   Industria    | 5.259  |  1.656  |
-|    Servizi     | 7.678  |  5.175  |
-| Altre Attività |  890   |   910   |
 
 #### Soluzione
 
@@ -612,41 +652,28 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 ### ESERCIZIO 10 - Esercizio Riassuntivo
 
-La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file in formato Excel è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
-
-| SESSO | ETA  | TITOLO DI STUDIO     | PROVENIENZA <br /> GEOGRAFICA | FATTURATO<br />(euro) |
-| :---: | :--: | :------------------- | :---------------------------: | --------------------: |
-|   M   |  46  | Lic. Media Superiore |              SUD              |                26,692 |
-|   F   |  29  | Lic. Media Inferiore |             ISOLE             |                 19,74 |
-|   M   |  28  | Lic. Media Superiore |             ISOLE             |                25,717 |
-|   M   |  52  | Laurea               |              SUD              |                 43,67 |
-|   M   |  49  | Laurea               |            CENTRO             |                35,437 |
-|   F   |  29  | Lic. Media Inferiore |            CENTRO             |                 25,91 |
-|   M   |  25  | Lic. Media Superiore |              SUD              |                21,737 |
-|   M   |  27  | Laurea               |            CENTRO             |                24,293 |
-|   F   |  31  | Lic. Media Superiore |            CENTRO             |                26,065 |
-|   M   |  44  | Laurea               |             ISOLE             |                36,199 |
-|   M   |  37  | Lic. Media Inferiore |             NORD              |                19,472 |
-|   F   |  33  | Laurea               |            CENTRO             |                32,579 |
-|   F   |  36  | Laurea               |             NORD              |                18,514 |
-|   F   |  28  | Lic. Media Superiore |            CENTRO             |                27,351 |
-|   M   |  50  | Lic. Media Superiore |            CENTRO             |                33,527 |
-|   F   |  41  | Lic. Media Inferiore |             NORD              |                21,292 |
-|   F   |  24  | Lic. Media Inferiore |             ISOLE             |                16,579 |
-|   F   |  47  | Laurea               |              SUD              |                32,695 |
-|   M   |  44  | Laurea               |            CENTRO             |                34,258 |
-|   M   |  27  | Lic. Media Superiore |              SUD              |                  26,5 |
-|   M   |  27  | Laurea               |             NORD              |                24,811 |
-|   F   |  36  | Lic. Media Superiore |             NORD              |                 35,97 |
-|   M   |  33  | Laurea               |              SUD              |                25,269 |
-|   M   |  33  | Laurea               |            CENTRO             |                23,706 |
-|   M   |  25  | Laurea               |             ISOLE             |                23,326 |
-|   M   |  29  | Laurea               |             NORD              |                25,716 |
-|   M   |  55  | Laurea               |             NORD              |                48,987 |
-|   F   |  44  | Lic. Media Superiore |             NORD              |                38,811 |
-|   F   |  37  | Lic. Media Superiore |              SUD              |                 28,67 |
-|   M   |  55  | Laurea               |              SUD              |                48,428 |
-
+La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file contenente la tabella completa, in formato Excel, è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
+$$
+\begin{array}{|c|c|c|c|c|}
+\hline
+\textbf{Sesso} & \textbf{Eta} & \textbf{Titolo di Studio} & \textbf{Provenienza} & \textbf{Fatturato} \\  	 
+\hline
+M & 46 & \text{Lic.MediaSuperiore} & \text{SUD} & 26.692   \\
+\hline
+F & 29 & \text{Lic.MediaInferiore} & \text{ISOLE} & 19.740  \\
+\hline
+M & 28 & \text{Lic.MediaSuperiore} & \text{ISOLE} & 25.717 \\
+\hline
+M & 52 & \text{Laurea} & \text{SUD} & 43.670                \\
+\hline
+... & ... & ... & ... & ... \\
+\hline
+F & 37 & \text{Lic.MediaSuperiore} & \text{SUD} & 28.670 \\
+\hline
+M & 55 & \text{Laurea} & \text{SUD} & 48.428 \\
+\hline
+\end{array}
+$$
 a) Analizza i caratteri e le modalità della popolazione
 
 1. Quale è  l'unità statistica?  Quale è la popolazione di riferimento?
