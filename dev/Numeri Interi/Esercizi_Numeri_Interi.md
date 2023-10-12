@@ -1,7 +1,3 @@
-
-
-
-
 # Numeri interi e coordinate dei punti nel piano
 
 ## UNITA' 1: Concetto di numero con segno e posizione su una retta

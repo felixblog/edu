@@ -3,6 +3,8 @@
 
 # Numeri Razionali, percentuali ed equivalenze
 
+## UNITA' 1: Il Concetto e l'uso delle Frazioni
+
 ### ESERCIZIO 1 - Il Concetto di Frazione e di Divisione
 
 a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
@@ -25,7 +27,7 @@ b) Scrivi sia con numeri che con lettere le frazioni uguali alle espressioni seg
 
 c) Rispondi alle seguenti domande scrivendo la frazione richiesta. 
 
-1. Quanti quarti d'ora ci sono in 45 minuti? Da quante ore sto aspettando un treno se lo aspetto da 45 minuti?  Perchè?
+1. Quanti quarti d'ora ci sono in 45 minuti? Da quante ore sto aspettando un treno se lo aspetto da 45 minuti?  Perché?
 2.  Quanti euro costa un giocattolo se lo pago con 5 monete da mezzo euro?  E quanti centesimi?
 3. Per ognuna delle seguenti figure, quale frazione di ora è trascorsa?  
 
@@ -51,39 +53,7 @@ c) Rispondi alle seguenti domande scrivendo la frazione richiesta.
    - cinque volte venti centesimi fanno un'euro
    - tre euro meno cinquanta centesimi fanno due euro e mezzo
 
-
-
-
-
-### ESERCIZIO 2 - Frazioni equivalenti e riduzione ai minimi termini
-
-a) Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di 1.  
-
-$[\dfrac{4}{5},\dfrac{8}{10}]$;     $[\dfrac{6}{2},\dfrac{10}{4}]$;     $[\dfrac{0}{15},\dfrac{2}{30}]$;     $[\dfrac{1}{8},\dfrac{2}{9}]$;     $[\dfrac{0}{20},\dfrac{0}{40}]$;  
-
-b) Riduci ai minimi termini le frazioni del punto a). 
-
-#### Esempio di Soluzione
-
-Passi da seguire per trovare la soluzione per la seconda frazione della prima coppia del punto b).
-
-1. Calcola il $MCD$ dei due numeri $8$ e $10$:   $MCD({8,10}) \Rightarrow 2$;
-2. Dividi numeratore e denominatore per il $MCD$:    $8:2 \Rightarrow 4, \;10:2 \Rightarrow 5$;
-3. La soluzione è $\dfrac{4}{5}$.
-
-
-
-### ESERCIZIO 3 - Prodotto di frazioni (I)
-
-Calcola i seguenti prodotti di frazioni.  
-
-a) $\dfrac{1}{2}\cdot4$;     $\dfrac{5}{3}\cdot9$;     $\dfrac{3}{2}\cdot10$.  
-
-b) $\dfrac{3}{8}\cdot\dfrac{12}{15}$;     $\dfrac{7}{10}\cdot\dfrac{20}{21}$.   
-
-
-
-### ESERCIZIO 4 - Problemi con le frazioni (I)
+### ESERCIZIO 2 - Problemi con le frazioni (I)
 
 a) La ricetta di un dolce prevede l'uso di mezza tazza di farina. Di questa, tre quarti va impastata con le uova e la parte rimanente aggiunta in seguito. Quanta parte della tazza va aggiunta in seguito?  
 
@@ -101,9 +71,43 @@ d) Gli ingredienti della ricetta "Pici cacio e pepe" per 4 persone sono i seguen
 
 Come cambiano le quantità, in rapporto alle persone, se le persone sono 3? Quale frazione delle quantità originarie deve essere utilizzata? [Suggerimento: calcola il numero di grammi a persona].
 
+### ESERCIZIO 3 - Ordinamento delle frazioni
+
+Scrivi in ordine crescente le seguenti frazioni.  
+
+a) $\dfrac{3}{2},\dfrac{4}{8},\dfrac{8}{3},\dfrac{7}{7},\dfrac{15}{4};$   
+
+b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfrac{4}{3}.$  
 
 
-### ESERCIZIO 5 - Prodotto di frazioni (II)
+
+## UNITA' 2: Frazioni equivalenti e prodotti di frazioni
+
+### ESERCIZIO 4 - Frazioni equivalenti e riduzione ai minimi termini
+
+a) Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di 1.  
+
+$[\dfrac{4}{5},\dfrac{8}{10}]$;     $[\dfrac{6}{2},\dfrac{10}{4}]$;     $[\dfrac{0}{15},\dfrac{2}{30}]$;     $[\dfrac{1}{8},\dfrac{2}{9}]$;     $[\dfrac{0}{20},\dfrac{0}{40}]$;  
+
+b) Riduci ai minimi termini le frazioni del punto a). 
+
+#### Esempio di Soluzione
+
+Passi da seguire per trovare la soluzione per la seconda frazione della prima coppia del punto b).
+
+1. Calcola il $MCD$ dei due numeri $8$ e $10$:   $MCD({8,10}) \Rightarrow 2$;
+2. Dividi numeratore e denominatore per il $MCD$:    $8:2 \Rightarrow 4, \;10:2 \Rightarrow 5$;
+3. La soluzione è $\dfrac{4}{5}$.
+
+### ESERCIZIO 5 - Prodotto di frazioni (I)
+
+Calcola i seguenti prodotti di frazioni.  
+
+a) $\dfrac{1}{2}\cdot4$;     $\dfrac{5}{3}\cdot9$;     $\dfrac{3}{2}\cdot10$.  
+
+b) $\dfrac{3}{8}\cdot\dfrac{12}{15}$;     $\dfrac{7}{10}\cdot\dfrac{20}{21}$.   
+
+### ESERCIZIO 6 - Prodotto di frazioni (II)
 
 Calcola le seguenti quantità dopo aver scritto l'espressione che la rappresenta.  
 
@@ -115,11 +119,7 @@ c) un quinto dei due terzi di 9; la metà della metà di 20; il doppio di cinque
 
 
 
-### ESERCIZIO 6 - Prodotto di frazioni (III)
-
-Scrivi a parole le espressioni contenute nei punti a) e b) dell'esercizio 3.
-
-
+## UNITA' 3: Somma di frazioni
 
 ### ESERCIZIO 7 - Il minimo comune denominatore
 
@@ -138,19 +138,7 @@ Passi da seguire per trovare la soluzione per la prima coppia di frazioni del pu
 3. Per avere il numeratore della seconda frazione dividi l'$mcm$ per $5$ e moltiplica il risultato per $3$: $(10:5) \cdot 3 \Rightarrow 6$;
 4. Le nuove frazioni sono: $[\dfrac{35}{10},\dfrac{6}{10}]$.
 
-
-
-### ESERCIZIO 8 - Ordinamento delle frazioni
-
-Scrivi in ordine crescente le seguenti frazioni.  
-
-a) $\dfrac{3}{2},\dfrac{4}{8},\dfrac{8}{3},\dfrac{7}{7},\dfrac{15}{4};$   
-
-b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfrac{4}{3}.$  
-
-
-
-### ESERCIZIO 9 - Somma algebrica di frazioni
+### ESERCIZIO 8 - Somma algebrica di frazioni
 
 Calcola le seguenti somme algebriche.
 
@@ -162,9 +150,7 @@ c) $\dfrac{2}{3}-\dfrac{3}{2}$;     $\dfrac{4}{5}+5$;     $-5-\dfrac{7}{8}$;    
 
 d) $-\dfrac{8}{3}+5-\dfrac{2}{5}$;     $12-\dfrac{1}{3}-\dfrac{1}{9}$.
 
-
-
-### ESERCIZIO 10 - Espressioni con somme di frazioni
+### ESERCIZIO 9 - Espressioni con somme di frazioni
 
 a) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -178,7 +164,9 @@ b) Calcola il valore delle seguenti espressioni.
 
 
 
-### ESERCIZIO 11 - Espressioni con le quattro operazioni tra frazioni
+## UNITA' 4: Espressioni con le frazioni
+
+### ESERCIZIO 10 - Espressioni con le quattro operazioni tra frazioni
 
 a) Calcola il valore delle seguenti espressioni.
 
@@ -197,7 +185,7 @@ b) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espre
 
 
 
-### ESERCIZIO 12 - Dalle parole alle espressioni (I)
+### ESERCIZIO 11 - Dalle parole alle espressioni (I)
 
 Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.  
 
@@ -209,7 +197,7 @@ c) Raddoppia il prodotto fra 4/7 e 7/2; Scrivi il Triplo del prodotto fra 5/6 e 
 
  
 
-### ESERCIZIO 13 - Dalle parole alle espressioni (II)
+### ESERCIZIO 12 - Dalle parole alle espressioni (II)
 
 Indicando con $x$ un numero qualsiasi, scrivi le espressioni relative alle frasi seguenti.  
 
@@ -221,7 +209,7 @@ c) La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del reci
 
 
 
-### ESERCIZIO 14 - Rappresentazione delle espressioni
+### ESERCIZIO 13 - Rappresentazione delle espressioni
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
@@ -263,7 +251,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando
 
 
 
-### ESERCIZIO 15 - Problemi con le frazioni (II)
+### ESERCIZIO 14 - Problemi con le frazioni (II)
 
 Per ciascuno dei seguenti problemi:
 
@@ -287,6 +275,25 @@ g) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quant
 
 
 
+## UNITA' 5: Sostituzioni
+
+### ESERCIZIO 15 - Sostituzioni (I)
+
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (la frazione deve essere sostituita tra parentesi tonda).
+
+1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
+2. $-2x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
+3. $(1 - y)y + 3,\ \{y=-\dfrac{5}{2}\}$;
+4. $(1 - y)y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y)y + 3,\ \{y=\dfrac{4}{2}\}$;  
+
+#### Laboratorio GEOGEBRA
+
+Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $Sostituisci(-2 x+x^2+1,{x = \dfrac{2}{5}})$&#9166;
+
+2. $Sostituisci((1 - y) \cdot y + 3,{y = -\dfrac{2}{5}})$
+
 ### ESERCIZIO 16 - Dalle parole alle espressioni (III)
 
 Traduci in espressioni le seguenti frasi e calcola poi il loro valore, sostituendo alle lettere i dati assegnati.  
@@ -307,33 +314,51 @@ g) Moltiplica la differenza tra i 2/5 di a e la metà di b per il doppio di c, s
 
 
 
-### ESERCIZIO 17 - Dalle parole alle espressioni (IV)
+### ESERCIZIO 17 - Sostituzioni (II)
 
-Scrivi le espressioni relative alle seguenti frasi.
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
-a) Dati i numeri a e b, moltiplica la somma dei loro opposti per la somma dei due numeri e sottrai il doppio del prodotto dei due numeri;
+1. $a-\left(b+c\right),\left\{a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right\}$;
+2. $a+\left(-b\right)-c^2,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
+3. $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;
+4. $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$.
 
-b) Dati i numeri a e b, al quadrato della loro somma togli il doppio del prodotto fra la loro somma e la loro differenza;
+b) Organizza le sequenze di sostituzioni seguenti in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dell'espressione sostituita.
 
-c) Al quadrato della somma del cubo di un numero x e del suo doppio togli il cubo della somma del quadrato del numero e 4/3.
+1. $a + \dfrac{1}{2} ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+2. $-\dfrac{1}{2}a + 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+3. $-2a - 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+
+#### Esempio di SOLUZIONE
+
+Sostituzioni del punto b.1) 
+$$
+\begin{array}{r|r}
+a & a + \dfrac{1}{2} \\
+\hline
+0 & \dfrac{1}{2} \phantom{-l} \\
+1 & \dfrac{3}{2} \phantom{-l} \\
+-1 & -\dfrac{1}{2} \phantom{-l} \\
+2 & \dfrac{5}{2} \phantom{-l} \\
+-2 & -\dfrac{3}{2} \phantom{-l} \\
+\end{array}
+$$
+
+c) Disegna su di un piano cartesiano cinque punti; considera come coordinate dei punti i due numeri delle righe della tabella dell'esercizio b.1.
+
+#### Laboratorio GEOGEBRA
+
+Inserisci le coppie di punti nella calcolatrice GRAFICI.
+
+<img src="img\Sostituzioni-II.png" alt="Sostituzioni-II" style="zoom:15%;" />
 
 
 
-### ESERCIZIO 18 - Dalle espressioni alle parole
-
-Scrivi a parole le seguenti espressioni.
-
-a) $\dfrac{1}{3}-\left(-\dfrac{2}{3}+\dfrac{1}{3}\right)$;
-
-b) $\left(-\dfrac{2}{3}+\dfrac{1}{3}\right)\cdot\dfrac{1}{3}-1$;
-
-c) $\dfrac{a}{2}-\left(\dfrac{1}{3}-a\right)$;
-
-d) $\dfrac{1}{3}\dfrac{a}{2}-\left(-\dfrac{1}{3}-a\right)$.
 
 
+## UNITA' 6: Potenze con le frazioni
 
-### ESERCIZIO 19 - Potenze con le frazioni
+### ESERCIZIO 18 - Potenze con le frazioni
 
 a) Calcola il valore delle seguenti potenze.
 
@@ -349,7 +374,7 @@ a) Calcola il valore delle seguenti espressioni applicando le proprietà delle p
 
 
 
-### ESERCIZIO 20 - Espressioni con le frazioni
+### ESERCIZIO 19 - Espressioni con le frazioni
 
 a)  Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -362,6 +387,22 @@ b)  Calcola il valore delle seguenti espressioni contenenti potenze.
 2. $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\left(\dfrac{11}{20}+\dfrac{7}{4}\right)\right\} ^{2}\text{·}\left[\left(\dfrac{10}{7}\right)^{2}\text{·}\left(\dfrac{10}{7}\right)\right]^{0}:\left(\dfrac{10}{7}\right)^{2};$    $ [R. 1]$
 
 
+
+### ESERCIZIO 20 - Proprietà delle potenze
+
+Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
+
+a) $\left[\left(-\dfrac{1}{4}\right)^{3}:\left(-\dfrac{1}{4}\right)\right]^{2};$   $[R. \dfrac{1}{256}]$
+
+b) $\left(-\dfrac{1}{5}\right)^{10}:\left(-\dfrac{1}{5}\right)^{6}\text{·}10^{4};$     $[R. 16]$
+
+c) $\left[-\left(\dfrac{1}{25}\right)^{2}\cdot\left(\dfrac{1}{25}\right)^{3}\right]\text{·}\left(\dfrac{25}{3}\right)^{5};$   $[R. \dfrac{1}{243}]$
+
+d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\right)^{6}\text{·}\left(-\dfrac{1}{2}\right)^{6};$     $[R. 1]$
+
+
+
+## UNITA' 7: Numeri decimali e percentuali
 
 ### ESERCIZIO 21 - Numeri decimali e frazioni
 
@@ -420,24 +461,21 @@ g) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata
 
 
 
-### ESERCIZIO 24 - Sostituzioni (I)
+### ESERCIZIO 24 - Potenze con esponente negativo
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (la frazione deve essere sostituita tra parentesi tonda).
+a) Semplifica le seguenti espressioni usando la definizione di esponente negativo
 
-1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
-2. $-2x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
-3. $(1 - y)y + 3,\ \{y=-\dfrac{5}{2}\}$;
-4. $(1 - y)y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y)y + 3,\ \{y=\dfrac{4}{2}\}$;  
+1. $12^{-2}$;     $11^{-2}$;     $(-4)^{-1}$;     $(-8)^{-2}$;     $ 3\cdot 4^{-1} + 2\cdot 4^{-2}$
 
-#### Laboratorio GEOGEBRA
+2. $\dfrac{1}{5^{-3}}$;     $\dfrac{1}{3^{-3}}$;     $\dfrac{2^{-4}}{3^{-1}}$;     $\dfrac{7^{-2}}{2^{-3}}$ .
 
-Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+b) Scrivi i numeri seguenti in notazione decimale
 
-1. $Sostituisci(-2 x+x^2+1,{x = \dfrac{2}{5}})$&#9166;
+1. $0.51\cdot 10^{-3}$;     $0.07\cdot 10^3$;     $2.37\cdot 10^{-4}$;     $ 0.012\cdot 10^4$.
 
-2. $Sostituisci((1 - y) \cdot y + 3,{y = -\dfrac{2}{5}})$
 
-   
+
+## UNITA' 8: Equivalenze
 
 ### ESERCIZIO 25 - Equivalenze (I)
 
@@ -467,83 +505,15 @@ d) 0,5 dam + 5 m + 6 cm + 1,6 m = ............ dm  &emsp;  [R. 116,6]
 
 
 
-### ESERCIZIO 27 - Proprietà delle potenze
+### ESERCIZIO 27 - Equivalenze (III)
 
-Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
+a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuan cinesi:
 
-a) $\left[\left(-\dfrac{1}{4}\right)^{3}:\left(-\dfrac{1}{4}\right)\right]^{2};$   $[R. \dfrac{1}{256}]$
+1. Quanti dollari posso avere scambiando 10 euro? Quanti yuan con 10 dollari?
 
-b) $\left(-\dfrac{1}{5}\right)^{10}:\left(-\dfrac{1}{5}\right)^{6}\text{·}10^{4};$     $[R. 16]$
+2. 100 dollari a quanti euro equivalgono? ed a quanti yuan?
 
-c) $\left[-\left(\dfrac{1}{25}\right)^{2}\cdot\left(\dfrac{1}{25}\right)^{3}\right]\text{·}\left(\dfrac{25}{3}\right)^{5};$   $[R. \dfrac{1}{243}]$
-
-d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\right)^{6}\text{·}\left(-\dfrac{1}{2}\right)^{6};$     $[R. 1]$
-
-
-
-### ESERCIZIO 28 - Sostituzioni (II)
-
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
-
-1. $a-\left(b+c\right),\left\{a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right\}$;
-2. $a+\left(-b\right)-c^2,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
-3. $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;
-4. $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$.
-
-b) Organizza le sequenze di sostituzioni seguenti in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dell'espressione sostituita.
-
-1. $a + \dfrac{1}{2} ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
-2. $-\dfrac{1}{2}a + 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
-3. $-2a - 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
-
-#### Esempio di SOLUZIONE
-
-Sostituzioni del punto b.1) 
-$$
-\begin{array}{r|r}
-a & a + \dfrac{1}{2} \\
-\hline
-0 & \dfrac{1}{2} \phantom{-l} \\
-1 & \dfrac{3}{2} \phantom{-l} \\
--1 & -\dfrac{1}{2} \phantom{-l} \\
-2 & \dfrac{5}{2} \phantom{-l} \\
--2 & -\dfrac{3}{2} \phantom{-l} \\
-\end{array}
-$$
-
-c) Disegna su di un piano cartesiano cinque punti; considera come coordinate dei punti i due numeri delle righe della tabella dell'esercizio b.1.
-
-#### Laboratorio GEOGEBRA
-
-Inserisci le coppie di punti nella calcolatrice GRAFICI.
-
-<img src="img\Sostituzioni-II.png" alt="Sostituzioni-II" style="zoom:15%;" />
-
-
-
-### ESERCIZIO 29 - Potenze con esponente negativo
-
-a) Semplifica le seguenti espressioni usando la definizione di esponente negativo
-
-1. $12^{-2}$;     $11^{-2}$;     $(-4)^{-1}$;     $(-8)^{-2}$;     $ 3\cdot 4^{-1} + 2\cdot 4^{-2}$
-
-2. $\dfrac{1}{5^{-3}}$;     $\dfrac{1}{3^{-3}}$;     $\dfrac{2^{-4}}{3^{-1}}$;     $\dfrac{7^{-2}}{2^{-3}}$ .
-
-b) Scrivi i numeri seguenti in notazione decimale
-
-1. $0.51\cdot 10^{-3}$;     $0.07\cdot 10^3$;     $2.37\cdot 10^{-4}$;     $ 0.012\cdot 10^4$.
-
-
-
-### ESERCIZIO 30 - Equivalenze (III)
-
-a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuhan cinesi:
-
-1. Quanti dollari posso avere scambiando 10 euro? Quanti yuhan con 10 dollari?
-
-2. 100 dollari a quanti euro equivalgono? ed a quanti yuhan?
-
-3. Quanti euro occorrono per comprare un'automobile cinese da 210.000 yuhan?
+3. Quanti euro occorrono per comprare un'automobile cinese da 210.000 yuan?
 
 4. Quanto costerebbe in Italia una Tesla Model S che negli USA costa 70.000 dollari? 
 
