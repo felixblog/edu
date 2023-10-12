@@ -43,7 +43,7 @@ c) Rispondi alle seguenti domande scrivendo la frazione richiesta.
 
 7. Se parcheggio un'auto dove ogni tre quarti d'ora devo azzerare il disco orario, quante volte dovrò azzerare il disco se la macchina resta parcheggiata 3 ore? Se una "sosta" misura 45 minuti, a quante "soste" corrisponde una fermata di 4 ore?
 
-8. Scrivi in forma simbolica ognuna delle frasi seguenti (utilizza "$=$" per "fa" e non scrivere le unità di misura). Ad esempio scrivi "Mezzo euro più settanta centesimi fa un euro e venti (centesimi)" come $\dfrac{1}{2} + \dfrac{70}{100} = 1 + \dfrac{20}{100}$ .
+8. Scrivi in forma simbolica ognuna delle frasi seguenti (utilizza "$\longrightarrow$" per "fa" e non scrivere le unità di misura). Ad esempio scrivi "Mezzo euro più settanta centesimi fa un euro e venti (centesimi)" come $\dfrac{1}{2} + \dfrac{70}{100} \longrightarrow 1 + \dfrac{20}{100}$ .
 
    - tre quarti d'ora meno un quarto d'ora fa mezz'ora
    - mezz'ora più tre quarti d'ora fa un'ora e un quarto
@@ -168,13 +168,13 @@ d) $-\dfrac{8}{3}+5-\dfrac{2}{5}$;     $12-\dfrac{1}{3}-\dfrac{1}{9}$.
 
 a) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-1. $3-\dfrac{1}{2}+\left[\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right]-1$;    $[R. \dfrac{37}{20}]$  
-2. $\dfrac{1}{10}-\dfrac{3}{5}+\left[\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right]-\left(\dfrac{6}{5}+3\right);$    $[R.-1]$  
+1. $3-\dfrac{1}{2}+\left(\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right)-1$; 				  $[R. \dfrac{37}{20}]$  
+2. $\dfrac{1}{10}-\dfrac{3}{5}+\left(\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right)-\left(\dfrac{6}{5}+3\right);$         $[R.-1]$  
 
 b) Calcola il valore delle seguenti espressioni.  
 
-1. $-\left(1+2\right)-\left(\dfrac{1}{12}+\dfrac{1}{2}\right)+\left(\dfrac{5}{2}+\dfrac{4}{3}\right)-\left[\dfrac{1}{6}+\left(-\dfrac{5}{4}-\dfrac{1}{3}\right)-1\right];$
-2. $7-\left[\left(3+\dfrac{1}{5}-\dfrac{3}{4}-2\right)-\left(\dfrac{2}{5}-6+\dfrac{3}{4}-\dfrac{1}{2}\right)\right]+\dfrac{6}{5}-\left(\dfrac{7}{20}+\dfrac{1}{20}\right).$     $[R. 2]$  
+1. $-\left(1+2\right)-\left(\dfrac{1}{12}+\dfrac{1}{2}\right)+\left(\dfrac{5}{2}+\dfrac{4}{3}\right)-\left(\dfrac{1}{6}+\left(-\dfrac{5}{4}-\dfrac{1}{3}\right)-1\right);$
+2. $7-\left(\left(3+\dfrac{1}{5}-\dfrac{3}{4}-2\right)-\left(\dfrac{2}{5}-6+\dfrac{3}{4}-\dfrac{1}{2}\right)\right)+\dfrac{6}{5}-\left(\dfrac{7}{20}+\dfrac{1}{20}\right).$     $[R. 2]$  
 
 
 
@@ -193,7 +193,7 @@ a) Calcola il valore delle seguenti espressioni.
 b) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$;     $[R. -7]$
-2. $\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$     $[R.\dfrac{15}{2}]$
+2. $\left(\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right):\left(-\dfrac{19}{9}\right).$     $[R.\dfrac{15}{2}]$
 
 
 
@@ -299,11 +299,11 @@ c) Somma il quadruplo del quadrato di a con il doppio di c. [a=1, b=$\dfrac{2}{3
 
 d) Moltiplica la somma del doppio di a e della terza parte di b per la differenza tra il doppio di a e la terza parte di b.  `[`a=1, b=$\dfrac{2}{3}$] [R. $\dfrac{15}{4}$]
 
-e) Sottrai $\dfrac{1}{8}$ di a ai $\dfrac{4}{5}$ di c, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di b. [a=3, b=$-\dfrac{1}{5}$,c=$\dfrac{1}{16}$].     [R. $-\dfrac{65}{3}$]  
+e) Sottrai $\dfrac{1}{8}$ di a ai $\dfrac{4}{5}$ di c, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di b. [a=3, b=$-\dfrac{1}{5}$, c=$\dfrac{1}{16}$].     [R. $-\dfrac{65}{3}$]  
 
-f) Moltiplica la somma del doppio di a e della terza parte di b per la differenza tra il doppio di a e la terza parte di b, sottrai poi al risultato la somma del quadruplo del quadrato di a e del doppio di c. `[`a=1,b=$\dfrac{2}{3}$,c=-2 ][R. $\dfrac{15}{4}$]
+f) Moltiplica la somma del doppio di a e della terza parte di b per la differenza tra il doppio di a e la terza parte di b, sottrai poi al risultato la somma del quadruplo del quadrato di a e del doppio di c. `[`a=1, b=$\dfrac{2}{3}$, c=-2 ][R. $\dfrac{15}{4}$]
 
-g) Moltiplica la differenza tra i 2/5 di a e la metà di b per il doppio di c, somma poi al risultato il quoziente tra 1/4 di a e la differenza tra il doppio di b e 1. [a=$\dfrac{5}{3}$,b=2,c=$\dfrac{3}{4}$].     [R. $-\dfrac{15}{36}$]
+g) Moltiplica la differenza tra i 2/5 di a e la metà di b per il doppio di c, somma poi al risultato il quoziente tra 1/4 di a e la differenza tra il doppio di b e 1. [a=$\dfrac{5}{3}$, b=2, c=$\dfrac{3}{4}$].     [R. $-\dfrac{15}{36}$]
 
 
 
@@ -375,9 +375,9 @@ $\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspa
 
 ### ESERCIZIO 22 - Le percentuali
 
-a) Trasforma in percentuale i numeri seguenti: 2;   0,02;   -1,465;   5;   0.
+a) Trasforma in percentuale i numeri seguenti: $2$;   $0,02$;   $-1,465$;   $5$;   $0$.
 
-b) Trasforma in numeri decimali le percentuali seguenti: 2%;   0,02%;   -30%;   350%;   1000%;   0,0002%.
+b) Trasforma in numeri decimali le percentuali seguenti: $2\%$;   $0,02\%$;   $-30\%$;   $350\%$;   $1000\%$;   $0,0002\%$.
 
 c) Scrivi le seguenti frazioni in percentuali (approssimando):
 
@@ -500,14 +500,14 @@ b) Organizza le sequenze di sostituzioni seguenti in tabelle, mettendo nella pri
 
 Sostituzioni del punto b.1) 
 $$
-\begin{array}{r|c}
-a & a + \dfrac{1}{2}\\
+\begin{array}{r|r}
+a & a + \dfrac{1}{2} \\
 \hline
-0 & \dfrac{1}{2}  \\
-1 & \dfrac{3}{2}  \\
--1 & -\dfrac{1}{2}  \\
-2 & \dfrac{5}{2}  \\
--2 & -\dfrac{3}{2}  \\
+0 & \dfrac{1}{2} \phantom{-l} \\
+1 & \dfrac{3}{2} \phantom{-l} \\
+-1 & -\dfrac{1}{2} \phantom{-l} \\
+2 & \dfrac{5}{2} \phantom{-l} \\
+-2 & -\dfrac{3}{2} \phantom{-l} \\
 \end{array}
 $$
 

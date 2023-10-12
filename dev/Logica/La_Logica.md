@@ -2,7 +2,7 @@
 # Logica
 
 ### ESERCIZIO 1 - Le proposizioni
-a) Indica quali fra le seguenti frasi sono proposizioni (da un punto di vista logico):
+a) Indica quali fra le seguenti frasi, da un punto di vista logico, sono proposizioni:
 1. "Per favore, mi passi l'acqua?";  
 2. "Gli insegnanti della mia classe sono maschi";  
 3. "La matematica è facile";  
@@ -24,8 +24,8 @@ b) Indica il valore di verità delle seguenti proposizioni:
 2. "Ogni trapezio è isoscele oppure rettangolo";  
 3. "La Terra è un pianeta";  
 4. "Marte non è un pianeta";  
-5. "L’uguaglianza x + 2 = 0 è sempre verificata in N";  
-6. "L’uguaglianza 2x = 0 non è mai verificata in N".
+5. "L’uguaglianza $x + 2 = 0$ è sempre verificata in $\mathbb{N}$";  
+6. "L’uguaglianza $2x = 0$ non è mai verificata in $\mathbb{N}$".
 
 
 
@@ -64,7 +64,7 @@ c) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 
 
 
-### ESERCIZIO 3 - Connettivi proposizionali
+### ESERCIZIO 3 - Connettivi proposizionali e forme simboliche I
 a) Scrivi la negazione delle seguenti proposizioni.
 1. "Ieri non ho studiato";  
 2. "Sai che non ho studiato";  
@@ -170,7 +170,7 @@ f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 
 
 
-### ESERCIZIO 4 - Forme Simboliche
+### ESERCIZIO 4 - Forme Simboliche II
 a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  
 $a$: “Aldo ha superato l’esame”, $b$: “Bruno ha superato l’esame”, $c$: “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
 

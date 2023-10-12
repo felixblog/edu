@@ -30,12 +30,12 @@ a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e c
 
 1. $-2x + x^2 + 1,\ [x=2]$;
 2. $y(1 - y) + 3,\ [y=-5]$;
-3. $a − b, \enspace [a = 10, b = 7]$;
+3. $a − b, \enspace [a = 10, b = +7]$;
 4. $(a − b)(a + b), \enspace [a = \dfrac{2}{3}, b = -\dfrac{3}{2}]$;
 
 b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
-1. $a^{2} − b^{2}, [\enspace a = 1, b = 1]; \enspace [a = -3, b = -2]; \enspace [a = -6, b = \dfrac{5}{3}]$;
+1. $a^{2} − b^{2}, [\enspace a = 1, b = +1]; \enspace [a = -3, b = -2]; \enspace [a = -6, b = \dfrac{5}{3}]$;
 2. $2a(b + 1) - 6ab , \enspace [a = -3, b = 0]$;
 3. $((2a)b)^{3}, \enspace [a = 2, b = -\dfrac{3}{2}]$.
 
@@ -45,21 +45,21 @@ b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e c
 
 In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente e, se possibile, esegui le operazioni numeriche.
 
-a) $-2 \cdot 4 + (3 + 2 \cdot 4)$; Sostituisci il numero intero $4$ con $a$;
+a) $-2 \cdot 4 + (3 + 2 \cdot 4)$;  Sostituisci il numero intero $4$ con $a$;
 
-b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$; Sostituisci il numero intero $3$ con $x$;
+b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$;  Sostituisci il numero intero $3$ con $x$;
 
-c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$; Sostituisci il numero intero $-3$ con $y$;
+c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$;  Sostituisci il numero intero $-3$ con $y$;
 
-d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$; Sostituisci la frazione $-\dfrac{5}{3}$ con $a$.
+d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$;  Sostituisci la frazione $-\dfrac{5}{3}$ con $a$.
 
 
 
 ### ESERCIZIO 4 - Dalle espressioni alle parole
 
-Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri $a$ e $b,$ scrivi ...”.
+Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri $a$ e $b$ ...”.
 
-a) $a-\left(b+c\right)$; $a+\left(-b\right)-c$
+a) $a-\left(b+c\right)$;
 
 b) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right);$
 
@@ -79,6 +79,8 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 ### ESERCIZIO 5 - Forma normale dei monomi
 
+Un monomio è un prodotto di numeri e lettere. Un monomio è in forma normale se il prodotto è costituito da un numero seguito dalle lettere in ordine alfabetico.   
+
 a) Scrivi i seguenti monomi in forma normale.
 
 1. $ab\left(-\dfrac{1}{2}\right)a$;
@@ -91,7 +93,7 @@ b) Individua quali tra le seguenti espressioni letterali sono monomi e scrivili 
 1.  $ab\left(-\dfrac{1}{2}\right)a^{2},$     $\dfrac{2}{5}a^2\dfrac{3}{b},$   $abcde$;
 2. $\dfrac{5}{3}b\left(-4\right)a,$      $a + 2a^2,$  $\dfrac{ab^2x}{3}$.
 
-c) b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti dopo averli scritti in forma normale.
+c) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti dopo averli scritti in forma normale.
 
 ​	ESEMPIO: per $2ax$ il coefficiente è $2a$.
 
@@ -107,8 +109,15 @@ a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBR
 
 
 
-
 ### ESERCIZIO 6 - Somme e prodotti di monomi
+
+Due monomi in forma normale si dicono simili se hanno la stessa parte letterale. La somma di più monomi simili è un monomio che ha la parte letterale dei monomi e la parte numerica pari alla somma delle parti numeriche, come illustrano gli esempi seguenti.
+
+$-3x + 2x \longrightarrow -x;$      $5ax^2 + 2ax^2 -10ax^2 \longrightarrow -3ax^2;$       $-3x + 2x^2 \longrightarrow -3x + 2x^2;$ Non è un monomio!
+
+Il prodotto di due o più monomi è sempre un monomio.
+
+$-3x \cdot 2x \longrightarrow -6x^2;$      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6;$
 
 a) Scrivi l'espressione che corrisponde alla somma dei monomi seguenti e semplifica il risultato se possibile.
 
@@ -120,7 +129,7 @@ a) Scrivi l'espressione che corrisponde alla somma dei monomi seguenti e semplif
 
 4. $\dfrac{1}{2}x^{3}y$;      $-x^{3}y$;      $\dfrac{1}{2}$.
 
-b) Calcola i seguenti prodotti di monomi.  
+b) Calcola i seguenti prodotti di monomi. 
 
 1. $2ab\,\cdotp\left(-3a^{2}b\right)$     ;$-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$;  
 

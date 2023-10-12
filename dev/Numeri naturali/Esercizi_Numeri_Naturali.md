@@ -1,17 +1,25 @@
 
 # Numeri naturali, multipli e divisori
 
-### ESERCIZIO 1 - Operazioni ed Espressioni (I)
+## UNITA' 1: Numeri naturali, operazioni ed espressioni
 
 Le espressioni sono sequenze in cui si alternano numeri ed operazioni (tra due numeri c'è sempre una operazione). L'esecuzione ordinata delle operazioni produce, da ogni espressione, un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non facciano parte di una operazione successiva che abbia priorità maggiore, nel qual caso si passa alla seconda. 
 
 #### ESEMPIO
 
-Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Poiché il prodotto ha priorità di esecuzione rispetto alla somma il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione eseguita. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \xrightarrow{\cdot} 96 +^{(1)} 5 \xrightarrow{+} 101$.
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Poiché il prodotto ha priorità di esecuzione rispetto alla somma il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione eseguita. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \longrightarrow 96 +^{(1)} 5 \longrightarrow 101$.
 
 Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è condiviso con il prodotto. Poiché il prodotto ha priorità di esecuzione rispetto alla somma l'$8$ dovrà essere impiegato nel prodotto. La somma non può essere eseguita (manca il secondo numero), verrà eseguito il prodotto e la somma opererà sul risultato. 
 
-La sequenza delle operazioni eseguibili sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \xrightarrow{\cdot} 5 +^{(1)} 96 \xrightarrow{+} 101$.
+La sequenza delle operazioni eseguibili sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \longrightarrow 5 +^{(1)} 96 \longrightarrow 101$.
+
+#### Uso delle parentesi
+
+Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati prioritariamente nelle operazioni contenute all'interno delle parentesi.
+
+Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra è il prodotto ma il $12$ è dentro la coppia di parentesi per cui l'operazione non è eseguibile (il prodotto è fuori dalla parentesi ed il $12$ è dentro). La prima operazione eseguibile è quindi la somma. La sequenza delle operazioni eseguibili sarà allora quella indicata dagli apici:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
+
+### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 
 a) Calcola il valore delle seguenti espressioni.
 
@@ -27,12 +35,6 @@ a) Calcola il valore delle seguenti espressioni.
 
 6. $16 : 4 · 8$  
 
-#### Uso delle parentesi
-
-Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati nelle operazioni contenute all'interno delle parentesi.
-
-Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra è il prodotto ma il $12$ è dentro la coppia di parentesi per cui l'operazione non è eseguibile (il prodotto è fuori dalla parentesi ed il $12$ è dentro). La prima operazione eseguibile è quindi la somma. La sequenza delle operazioni eseguibili sarà allora:  $8 \cdot^{(2)} (12 +^{(1)} 5) \xrightarrow{+} 8 \cdot^{(1)} (17) \xrightarrow{\cdot} 136$.
-
 b) Individua i numeri, le operazioni di ciascuna delle espressioni seguenti ed il loro ordine di esecuzione e calcolane il valore.
 
 1. $4 + 6·9;$
@@ -40,7 +42,8 @@ b) Individua i numeri, le operazioni di ciascuna delle espressioni seguenti ed i
 3. $4 + (6·9);$
 4. $10 - 2 · 3 + 4 · 5;$
 5. $15 + 20 : 4 − 2;$
-6. $15 + 20 : (4 − 2);$  
+6. $15 + 20 : (4 − 2);$
+7. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5;$        $[R. 5];$
 
 #### Laboratorio GEOGEBRA
 
@@ -73,6 +76,8 @@ c) $8·(12 : 6 − 2) + 1;$
 d) $6 − (15 : (2 + 3))$.
 
 
+
+## UNITA' 2: Divisori e multipli
 
 ### ESERCIZIO 4 - Divisori e multipli
 
@@ -117,6 +122,8 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 
 
+## UNITA' 3: Dalle parole ai numeri
+
 ### ESERCIZIO 5 - Dalle parole ai numeri (II)
 
 Scrivi le espressioni  (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore.  
@@ -139,13 +146,14 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 
 
+## UNITA' 4: La struttura delle espressioni
+
 ### ESERCIZIO 6 - Operazioni ed espressioni (II)
 
 a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. Analizza il loro ordine di esecuzione e calcola il valore dell'espressione.
 
-1. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5 \enspace\enspace\enspace[R. 5];$
-2. $4 + 3·(15 : (3 + 1·2) − 1) \enspace\enspace\enspace[R. 10];$
-3. $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2} \enspace\enspace\enspace[R. 10];$
+1. $4 + 3·(15 : (3 + 1·2) − 1);$            $[R. 10];$
+2. $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2};$          $[R. 10];$
 
 b) Calcola il valore delle seguenti espressioni.
 
@@ -155,34 +163,6 @@ b) Calcola il valore delle seguenti espressioni.
 
 #### Laboratorio GEOGEBRA
 Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il risultato. 
-
-
-
-### ESERCIZIO 7 - Sostituzioni
-
-Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
-a) $5 \cdot x, \enspace \{x = 50\};$  
-
-b) $2 \cdot y, \enspace \{y = 32\};$
-
-c) $a − b, \enspace \{a = 10, b = 7\};$
-
-d) $a^{2} − b^{2}, \enspace \{a = 1, b = 1\};$     $a^{2} − b^{2}, \enspace \{a = 3, b = 2\};$
-
-e) $2 \cdot a \cdot (b + 1) - 6ab , \enspace \{a = 3, b = 0\};$
-
-f ) $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-1. $Sostituisci(5 \cdot x,\; {x = 50})$&#9166;
-2. $Sostituisci(2 \cdot y, \; {y = 32})$&#9166;
-
-b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-1. $Sostituisci(a-b,\; \{a = 10, b=7\})$&#9166;
 
 
 
@@ -225,40 +205,70 @@ c)
 
 ![Albero](img\Albero3.png)
 
+
+
+
+
+## UNITA' 5: Le sostituzioni dei numeri alle lettere
+
+### ESERCIZIO 7 - Sostituzioni
+
+Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
+a) $5 \cdot x, \enspace \{x = 50\};$  
+
+b) $2 \cdot y, \enspace \{y = 32\};$
+
+c) $a − b, \enspace \{a = 10, b = 7\};$
+
+d) $a^{2} − b^{2}, \enspace \{a = 1, b = 1\};$     $a^{2} − b^{2}, \enspace \{a = 3, b = 2\};$
+
+e) $2 \cdot a \cdot (b + 1) - 6ab , \enspace \{a = 3, b = 0\};$
+
+f ) $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $Sostituisci(5 \cdot x,\; {x = 50})$&#9166;
+2. $Sostituisci(2 \cdot y, \; {y = 32})$&#9166;
+
+b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $Sostituisci(a-b,\; \{a = 10, b=7\})$&#9166;
+
+
+
+## UNITA' 6: Potenze e loro proprietà
+
 ### ESERCIZIO 10 - Proprietà delle potenze
 
-a) Applicando le proprietà, semplifica le espressioni seguenti utilizzando, per ciascuna di esse, il minor numero possibile di potenze.  
-
-1. $2^{4} · 2^{2}·2; \enspace (3^{4})^{2} · 3^{7}; \enspace  2^{3} · 5^{3}; \enspace 2^{4} · 3^{4};$   
-2. $(7^{2} · 2^{2}) · 7^{2}; \enspace (4^{3})^{2} · 2^{6}; \enspace 6^{5} · 2^{5}; \enspace  (4^{5})^{2};$   
-
-b) Un numero è in notazione scientifica quando è scritto come prodotto di un numero compreso tra 1 (incluso) e 10 e una potenza di 10. Ad esempio 900 si scrive $9\cdot 10^2$. 
+a) Un numero è in notazione scientifica quando è scritto come prodotto di un numero compreso tra 1 (incluso) e 10 e una potenza di 10. Ad esempio 900 si scrive $9\cdot 10^2$. 
 
 1. Scrivi ciascuno dei numeri che seguono in notazione scientifica: $80, 2000000, 5, 6000, 3000000000;$
 2. Scrivi ciascuno dei numeri che seguono come numero intero:  $9\cdot 10^4$, $0\cdot 10^2$, $1\cdot 10^8$, $9\cdot 10^0$, $10\cdot 10^1;$
 3. Calcola il valore delle seguenti espressioni in notazione scientifica: $2 \cdot 10^2 \cdot 2 \cdot 10^3; 3 \cdot 10^1 \cdot 2 \cdot 10^3; 8 \cdot 10^9 : (2 \cdot 10^3).$
 
-c) Quali delle uguaglianze seguenti sono vere? Quali false?  
+b) Quali delle uguaglianze seguenti sono vere? Quali false?  
 
 1. $6^{2} · 6^{4}=6^{8}; \enspace$  
 2. $5^{3} + 5^{4} = 5^{7};$
 3. $(10^{2})^{3} = 1.000.000;$  
 
-d) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
+c) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
 
 1. $2^{5}:2^{4} + 2·2^{2} - 2^{0};$  
 2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5};$  
 3. $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
 
-e) Applicando le proprietà delle potenze, semplifica le seguenti espressioni scrivendole utilizzando il minor numero di potenze.  
+d) Applicando le proprietà, semplifica le espressioni seguenti riscrivendole usando, per ciascuna di esse, il minor numero possibile di potenze.
 
-1. $2^{5}:2^{4} + 2·2^{2} - 2^{0};$  
-
-2. $(3^{4} · 3^{3})^{4} · 3^{5} · (3^{2} )^{4};$   
-
-3. $2^{6} · 3^{6} · (18^{4} · 3^{4});$  
+1. $2^{4} · 2^{2}·2; \enspace (3^{4})^{2} · 3^{7}; \enspace  2^{3} · 5^{3}; \enspace 2^{4} · 3^{4};$   
+2. $(7^{2} · 2^{2}) · 7^{2}; \enspace (4^{3})^{2} · 2^{6}; \enspace 6^{5} · 2^{5}; \enspace  (4^{5})^{2};$  
 
 
+
+## UNITA' 7: Numeri primi, MCM e MCD
 
 ### ESERCIZIO 11 - Fattorizzazione in numeri primi
 
@@ -285,8 +295,6 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D. o massimo fattore comune) delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione;
 
 b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
-
-
 
 #### Laboratorio GEOGEBRA
 

@@ -4,11 +4,7 @@
 
 # Numeri interi e coordinate dei punti nel piano
 
-## UNITA' 1: Concetto di numero con segno e posizione su una retta
-
-I numeri interi, o relativi indicano la misura di uno spostamento, verso destra (DX) o verso sinistra (SX) di una posizione rispetto ad un punto fissato detto "origine". 
-
-### Esercizio 1 - Posizione dei numeri interi su una retta
+### ESERCIZIO 1 - Posizione dei numeri interi su una retta
 
 a) Posiziona su una retta orientata orizzontale i seguenti numeri: $+3, -5, +4, -2, 0, +1, -4$. Per ogni numero fai uno spostamento, a partire dallo zero, verso DX se il numero è positivo e verso SX se è negativo. Alla fine dello spostamento disegna il punto.
 
@@ -21,6 +17,8 @@ b) Posiziona su una retta orientata verticale i numeri: $0, -2, 2, 3, 4, -4$ Fai
 #### Soluzione
 
 <img src="img\Esercizio-1b.png" alt="Esercizio-1b" style="zoom: 5%;" />
+
+
 
 ### ESERCIZIO 2 - Ordinamento dei numeri interi
 
@@ -40,47 +38,18 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 
 
-## UNITA' 2: Opposto, valore assoluto e relazioni
+### ESERCIZIO 3 - Espressioni con somme algebriche I
 
-L'**opposto** di un numero intero è un secondo numero che ha le stesse cifre del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
-
-Il **valore assoluto** di un numero intero è "il numero senza il segno", ossia il numero stesso se il numero è positivo, l'opposto del numero se è negativo, ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$.
-
-Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
-
-La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri e precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "valore di verità" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} F $ . Invece $5 = 2 + 2$ afferma una cosa vera e si scrive che $5 = 2 + 2 \longrightarrow T$ , dove $T$ sta per "True", cioè vero. Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow T$ . Osserviamo che $3 \lt 3 \longrightarrow F$ .
-
-I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow T$  e  $3 \le 3 \longrightarrow T$ .
-
-### ESERCIZIO 3 - Valore assoluto ed opposto 
-
-a) Calcola valore assoluto ed opposto dei seguenti numeri ed espressioni.
-
-$-4$;      $+9$;      $-3+7$;      $(-3+7)\cdot 4$;      $-1 \cdot (-3+7)\cdot (-4)$; 
-
-### ESERCIZIO 4: uguaglianze e disuguaglianze
-
-a) Controlla la verità delle seguenti relazioni:
-
-1. $-1 > 0;$     $-7 < -3;$      $0 \le 0;$      $1 = 1 + 0;$      $4-5 \ge 1+3-4;$
-2. $2+3\cdot(-1)=11-5-7;$      $3^{2}-2\text{·}3-1=\left(3-2\right)^{2};$
-
-
-
-## UNITA' 3: Somma tra numeri interi
-
-Parlando di numeri interi, ricorda che i simboli "$+$" e "$-$" non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "**somma algebrica**" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo.
+Parlando di numeri interi, ricorda che i simboli "$+$" e "$-$" non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "somma algebrica" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo.
 
 #### ESEMPIO
 
-L'espressione $3+2$ contiene due numeri, $3$ e $-2$ in sequenza, ed una operazione chiamata somma algebrica che sta tra il $3$ ed il "$+$" nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{|}}+2$ , come negli esempi seguenti:
+L'espressione $3+2$ contiene due numeri, $3$ e $-2$ in sequenza, ed una somma algebrica tra il $3$ ed il "$+$" nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{|}}+2$ . Altri due esempi che evidenziano la posizione delle somme algebriche:
 
 - $-123\overset{\downarrow}{\phantom{|}}-23$;
 - $1\overset{\downarrow}{\phantom{|}}-2 \overset{\downarrow}{\phantom{|}} + 3 \overset{\downarrow}{\phantom{|}} -4$.
 
-L'operazione di somma algebrica si esegue simulando una sequenza di spostamenti, uno per ogni numero, a partire da $0$ verso destra se il numero è positivo e verso sinistra se è negativo. Lo spostamento (dallo $0$) risultante finale fornisce il valore della somma. 
-
-### ESERCIZIO 5 - Somme algebriche
+Il calcolo della somma algebrica si effettua simulando una sequenza di spostamenti, uno per ogni numero, a partire da $0$ verso destra se il numero è positivo e verso sinistra se è negativo. Lo spostamento (dallo $0$) risultante finale fornisce il valore della somma. 
 
 a) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica e calcola il risultato.
 
@@ -92,7 +61,9 @@ b) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espres
 1. $+5-9;$    $-2+6;$    $12-19+6;$     $-5-9-10;$  
 1. $1 + 2 + 3 - 3 - 2 - 1 - 0;$     $+1 - 1 + 1 - 1 + 1;$     $1 - 2 + 3 - 4 + 5 - 6$.
 
-### ESERCIZIO 6 - Problemi con i numeri interi I
+
+
+### ESERCIZIO 4 - Problemi con i numeri interi I
 
 Scrivi le espressioni (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
 
@@ -141,8 +112,6 @@ Quanti punti ho alla fine delle partite?
 
 
 
-## UNITA' 4: Prodotto e quoziente tra numeri interi
-
 ### ESERCIZIO 5 - Prodotti e quozienti
 
 a) Calcola i seguenti prodotti e quozienti (quanti numeri ed operazioni contiene ciascuna espressione?):
@@ -164,45 +133,47 @@ c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e s
 
 
 
-## UNITA' 5: Espressioni tra numeri interi
+### ESERCIZIO 6 - Valore assoluto, opposto, uguaglianze e disuguaglianze
 
-### ESERCIZIO 6 - Espressioni con le quattro operazioni
+L'opposto di un numero intero è un secondo numero che ha le stesse cifre del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
+
+Il valore assoluto di un numero intero è "il numero senza il segno", ossia il numero stesso se il numero è positivo, l'opposto del numero se è negativo, ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$.
+
+Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
+
+a) Calcola valore assoluto ed opposto delle seguenti espressioni.
+
+$-4$;      $+9$;      $-3+7$;      $(-3+7)\cdot 4$;      $-1 \cdot (-3+7)\cdot (-4)$; 
+
+
+
+La scrittura $3 \gt 5$ afferma che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "valore di verità" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} F $ . Invece $5 = 2 + 2$ afferma una cosa vera e si scrive che $5 = 2 + 2 \longrightarrow T$ , dove $T$ sta per "True", cioè vero. Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow T$ . Osserviamo che $3 \lt 3 \longrightarrow F$ .
+
+I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow T$  e  $3 \le 3 \longrightarrow T$ .
+
+b) Controlla la verità delle seguenti relazioni:
+
+1. $-1 > 0;$     $-7 < -3;$      $0 \le 0;$      $1 = 1 + 0;$      $4-5 \ge 1+3-4;$
+2. $2+3\cdot(-1)=11-5-7;$      $3^{2}-2\text{·}3-1=\left(3-2\right)^{2};$
+
+
+
+### ESERCIZIO 7 - Espressioni e parentesi
 
 a) Calcola il valore delle espressioni seguenti. 
 
-1.  $-7-5\cdot2+16$.		[$R. -1$];
+1.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
 
-2.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
+2.  $(-15):3-6+18:(-6)-(+7 \cdot 3-10)+7\cdot2$.		[$R. -11$];
 
+3.  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$.		[$R. +20$];  
 
-### ESERCIZIO 7 - Espressioni con parentesi
-
-a) Calcola il valore delle espressioni seguenti. 
-
-1.  $(-15):3-6+18:(-6)-(+7 \cdot 3-10)+7\cdot2$.		[$R. -11$];
-
-2.  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$.		[$R. +20$];  
-
-b) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
-
-1.  $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\}.$
-
-2.  $80+[(4+3\text{·}5):(3+2\text{·}8)].$  
-
-3.  $\left\{ -(+5)-[-(-1)]\right\}.$  
-
-c) Calcola il valore delle seguenti espressioni.
-
-1. $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]. \enspace\enspace\enspace [R. 5];$  
-2. $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1). \enspace\enspace\enspace\enspace\enspace\enspace\enspace [R. 21];$  
-3. $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
-
-d) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le espressioni senza le parentesi "inutili" e di tutte calcola il valore.
+b) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le espressioni senza le parentesi "inutili" e di tutte calcola il valore.
 
 1. $4+(3-2)+1;$    $-1(2-3)+5(-6);$    $(2-3)-1-6\cdot 5;$
 2. $(+4)+(+5-9);$    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
 
-e) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutili.
+c) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutili.
 
 #### Laboratorio GEOGEBRA
 
@@ -211,6 +182,8 @@ a) Per risolvere l'esercizio applica il metodo seguente.
 1. Calcola il valore dell'espressione del testo con GEOGEBRA;
 2. Scrivi la stessa espressione senza le parentesi che pensi siano inutili;
 3. Calcola il valore con GEOGEBRA della nuova espressione. Se è lo stesso di quella originale le parentesi sono "inutili", altrimenti no.
+
+
 
 ### ESERCIZIO 8 - Rappresentazione delle espressioni
 
@@ -256,6 +229,8 @@ b.2)
 
 ![Albero](img\Alberi-ES-7b-2.png)
 
+
+
 ### ESERCIZIO 9 - Dalle parole alle espressioni I
 
 Traduci in espressioni le seguenti frasi e calcolane il valore.  
@@ -278,6 +253,8 @@ g) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi a
 #### Esempio di SOLUZIONE
 
 a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
+
+
 
 ### ESERCIZIO 10 - Dalle parole alle espressioni II
 
@@ -303,8 +280,6 @@ a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
 
 
 
-## UNITA' 6: Coordinate di punti nel piano
-
 ### ESERCIZIO 11 - Posizione di coppie di numeri su un piano
 
 a) Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) . La posizione del punto si individua con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo spostamento sarà verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti disegna il punto.
@@ -316,6 +291,8 @@ a) Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un 
 #### SOLUZIONI
 
 <img src="img\Es-11.a.png" alt="Es-11.a" style="zoom:10%;" />   <img src="img\Es-11.b.png" alt="Es-11.b" style="zoom:10%;" />     <img src="img\Es-11.c.png" alt="Es-11.c" style="zoom:10%;" />
+
+
 
 b) La tabella seguente riporta le temperature misurate in una città alle otto del mattino nei primi 5 giorni del mese di Dicembre del 2022.
 $$
@@ -360,6 +337,8 @@ a) Risolvi il punti a.1, a.2 e a.3 dell'esercizio con le istruzioni GEOGEBRA:
 
 b) Inserisci nella prima colonna della tabella GEOGEBRA (colonna "x") i dati del Giorno e nella seconda colonna (la "y") i gradi di temperatura. 
 
+
+
 ### ESERCIZIO 12 - Dai punti alle coppie di coordinate
 
 a) Scrivi le coppie di numeri interi  (coordinate) che individuano i punti in figura.
@@ -374,9 +353,25 @@ a) Risolvi il punto b) dell'esercizio precedente con l'istruzione GEOGEBRA:
 
 $H=(-3,-3)$ &#9166; .
 
-### ESERCIZIO 13 - Espressioni con le potenze
+
+
+### ESERCIZIO 13 - Espressioni con i numeri interi
 
 a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+
+1.  $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\}.$
+
+2.  $80+[(4+3\text{·}5):(3+2\text{·}8)].$  
+
+3.  $\left\{ -(+5)-[-(-1)]\right\}.$  
+
+b) Calcola il valore delle seguenti espressioni.
+
+1. $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]. \enspace\enspace\enspace [R. 5];$  
+2. $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1). \enspace\enspace\enspace\enspace\enspace\enspace\enspace [R. 21];$  
+4. $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
+
+c) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
 
@@ -384,7 +379,7 @@ a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle 
 
 3. $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right). \enspace\enspace\enspace [R. 2];$  
 
-b) Calcola il valore delle seguenti espressioni.
+d) Calcola il valore delle seguenti espressioni.
 
 1. $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}.     \enspace\enspace\enspace [R. +25];$  
 2. $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
@@ -392,9 +387,20 @@ b) Calcola il valore delle seguenti espressioni.
 
 
 
-## UNITA' 7: Sostituzioni con i numeri interi
+### ESERCIZIO 14 - Proprietà delle potenze
+Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.  
 
-### ESERCIZIO 14 - Sostituzioni I - Sostituzioni di una e di due lettere
+a) $(6^{3}:6\text{·}6^{2})^{2};\enspace \:(2^{3})^{4}:4^{4};\enspace \:(4\text{·}3^{2})^{3}$     [Suggerimento: sostituisci $4$ con $2^2$];
+
+b) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};\enspace \:-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
+
+c) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$
+
+d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$
+
+
+
+### ESERCIZIO 15 - Sostituzioni I - Sostituzioni di una e di due lettere
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (i numeri con segno, nell'espressione sostituita, devono essere tra parentesi tonde).
 
@@ -417,7 +423,9 @@ Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcol
 1. $l = 3a\cdot b - 5a^2+3a-1$&#9166;
 2. $Sostituisci(l,\{a = -2, b = -8\})$&#9166;
 
-### ESERCIZIO 15 - Sostituzioni II - Sequenze e tabelle
+
+
+### ESERCIZIO 16 - Sostituzioni II - Sequenze e tabelle
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alla lettera presente uno alla volta i numeri indicati tra le parentesi graffe e calcola il loro valore.
 
@@ -473,7 +481,9 @@ b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice
 
 <img src="img\Tabella-Sostituzioni.png" alt="Tabella-Sostituzioni" style="zoom:80%;" />
 
-### ESERCIZIO 16 - Sostituzioni III - Ricerca di sostituzioni
+
+
+### ESERCIZIO 17 - Sostituzioni III - Ricerca di sostituzioni
 
 a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
@@ -487,7 +497,9 @@ b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostit
 2. $b=a+1;$
 3. $a=-b+2$.
 
-### ESERCIZIO 17 - Dalle parole alle espressioni III
+
+
+### ESERCIZIO 18 - Dalle parole alle espressioni III
 
 Essendo $a$ e $b$ due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni sostituendo alle lettere i numeri assegnati.
 
@@ -507,7 +519,9 @@ b) $3 \cdot a - b + 4 \cdot b;$
 
 c) $(7 \cdot a + b^3) : (a + b);$
 
-### ESERCIZIO 18 - Problemi con i numeri interi II
+
+
+### ESERCIZIO 19 - Problemi con i numeri interi II
 
 a) Un investitore ha comprato il lunedì 800 azioni ad un prezzo di 19 euro ciascuna. Durante la settimana c'è stato un giorno un cui il prezzo è salito di 2 euro ma durante tutti gli altri è sceso di un euro. Quale è il valore delle azioni il venerdì? Di quanto è variato il prezzo dall'inizio?
 
@@ -535,9 +549,7 @@ $$
 
 
 
-## UNITA' 8: Potenze con i numeri interi
-
-### ESERCIZIO 19 - Calcolo di potenze
+### ESERCIZIO 20 - Potenze
 
 a) Calcolare le seguenti potenze di numeri interi.
 
@@ -548,15 +560,3 @@ b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle 
 
 1. $(-6)^9:(-6)^3, (-2)^2\cdot(-2)\cdot(-2)^4,[(-6)^3]^2:(6)^5;$
 2. $[(-5)^4\cdot(4)^4]\cdot(-20)^3, [(2)^3\cdot(5)^3]^2:(-10)^3$.
-
-### ESERCIZIO 20 - Proprietà delle potenze
-
-Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.  
-
-a) $(6^{3}:6\text{·}6^{2})^{2};\enspace \:(2^{3})^{4}:4^{4};\enspace \:(4\text{·}3^{2})^{3}$     [Suggerimento: sostituisci $4$ con $2^2$];
-
-b) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};\enspace \:-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
-
-c) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$
-
-d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$
