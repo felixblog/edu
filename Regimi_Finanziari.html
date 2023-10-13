@@ -3,10 +3,11 @@
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 
-<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
 .mac-os-11 { --title-bar-height:28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; }
 iframe { margin: auto; }
 a.url { word-break: break-all; }
 a:active, a:hover { outline: 0px; }
@@ -86,12 +87,14 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
 #write .footnote-line { white-space: pre-wrap; }
 @media print {
   body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; padding-bottom: 0px !important; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
   .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
   .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
 }
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
 a img, img a { cursor: pointer; }
@@ -168,7 +171,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 @media screen and (max-width: 800px) {
   .typora-export-sidebar { display: none; }
 }
-.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; overflow-wrap: anywhere; }
 .outline-content ul { margin-top: 0px; margin-bottom: 0px; }
 .outline-content strong { font-weight: 400; }
 .outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
@@ -207,7 +210,7 @@ mjx-container { break-inside: avoid; }
     --control-text-color: #777;
 }
 
-@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+@include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
 
 /* open-sans-regular - latin-ext_latin */
   /* open-sans-italic - latin-ext_latin */
@@ -588,157 +591,9 @@ header, .context-menu, .megamenu-content, footer{
 
 
 
-mjx-container[jax="SVG"] {
-  direction: ltr;
-}
-
-mjx-container[jax="SVG"] > svg {
-  overflow: visible;
-  min-height: 1px;
-  min-width: 1px;
-}
-
-mjx-container[jax="SVG"] > svg a {
-  fill: blue;
-  stroke: blue;
-}
-
-mjx-assistive-mml {
-  position: absolute !important;
-  top: 0px;
-  left: 0px;
-  clip: rect(1px, 1px, 1px, 1px);
-  padding: 1px 0px 0px 0px !important;
-  border: 0px !important;
-  display: block !important;
-  width: auto !important;
-  overflow: hidden !important;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
-mjx-assistive-mml[display="block"] {
-  width: 100% !important;
-}
-
-mjx-container[jax="SVG"][display="true"] {
-  display: block;
-  text-align: center;
-  margin: 1em 0;
-}
-
-mjx-container[jax="SVG"][display="true"][width="full"] {
-  display: flex;
-}
-
-mjx-container[jax="SVG"][justify="left"] {
-  text-align: left;
-}
-
-mjx-container[jax="SVG"][justify="right"] {
-  text-align: right;
-}
-
-g[data-mml-node="merror"] > g {
-  fill: red;
-  stroke: red;
-}
-
-g[data-mml-node="merror"] > rect[data-background] {
-  fill: yellow;
-  stroke: none;
-}
-
-g[data-mml-node="mtable"] > line[data-line], svg[data-table] > g > line[data-line] {
-  stroke-width: 70px;
-  fill: none;
-}
-
-g[data-mml-node="mtable"] > rect[data-frame], svg[data-table] > g > rect[data-frame] {
-  stroke-width: 70px;
-  fill: none;
-}
-
-g[data-mml-node="mtable"] > .mjx-dashed, svg[data-table] > g > .mjx-dashed {
-  stroke-dasharray: 140;
-}
-
-g[data-mml-node="mtable"] > .mjx-dotted, svg[data-table] > g > .mjx-dotted {
-  stroke-linecap: round;
-  stroke-dasharray: 0,140;
-}
-
-g[data-mml-node="mtable"] > g > svg {
-  overflow: visible;
-}
-
-[jax="SVG"] mjx-tool {
-  display: inline-block;
-  position: relative;
-  width: 0;
-  height: 0;
-}
-
-[jax="SVG"] mjx-tool > mjx-tip {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-mjx-tool > mjx-tip {
-  display: inline-block;
-  padding: .2em;
-  border: 1px solid #888;
-  font-size: 70%;
-  background-color: #F8F8F8;
-  color: black;
-  box-shadow: 2px 2px 5px #AAAAAA;
-}
-
-g[data-mml-node="maction"][data-toggle] {
-  cursor: pointer;
-}
-
-mjx-status {
-  display: block;
-  position: fixed;
-  left: 1em;
-  bottom: 1em;
-  min-width: 25%;
-  padding: .2em .4em;
-  border: 1px solid #888;
-  font-size: 90%;
-  background-color: #F8F8F8;
-  color: black;
-}
-
-foreignObject[data-mjx-xml] {
-  font-family: initial;
-  line-height: normal;
-  overflow: visible;
-}
-
-mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
-  stroke-width: 3;
-}
-
-g[data-mml-node="xypic"] path {
-  stroke-width: inherit;
-}
-
-.MathJax g[data-mml-node="xypic"] path {
-  stroke-width: inherit;
-}
-mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
-							stroke-width: 0;
-						}
 </style><title>Regimi_Finanziari</title>
 </head>
 <body class='typora-export os-windows'><div class='typora-export-content'>
-<div id='write'  class=''><h1 id='matematica-finanziaria-regimi-finanziari'><span>Matematica Finanziaria: Regimi Finanziari</span></h1><h3 id='esercizio-1---interesse-semplice-montante'><span>ESERCIZIO 1 - Interesse semplice: montante</span></h3><p><span>Calcola l’interesse semplice e il montante dei seguenti capitali (in euro) impiegati alle condizioni indicate: </span></p><p><span>a) 500 per 1 anno al tasso del 12% annuo;</span></p><p><span>b) 1.200 per 8 mesi al tasso dell’11% annuo;</span></p><p><span>c) 400 per 4 mesi e 20 giorni al tasso del 9% annuo;</span></p><p><span>d) 1.500 per 8 mesi al tasso del 3% bimestrale;</span></p><p><span>e) 600 per 7 mesi al tasso del 2,50% trimestrale;</span></p><p><span>f) 845 per 4 mesi e 15 giorni al tasso del 6% semestrale.</span></p><p>&nbsp;</p><h3 id='esercizio-2---interesse-semplice-capitale'><span>ESERCIZIO 2 - Interesse semplice: capitale</span></h3><p><span>a) Determina i capitali che, nel regime dell’interesse semplice, hanno prodotto i seguenti montanti alle condizioni indicate:  </span></p><ol start='' ><li><span>890 in 9 mesi al tasso del 15% annuo  </span></li><li><span>504 in 150 giorni al tasso del 12% annuo  </span></li><li><span>861,42 in 102 giorni al tasso del 3% quadrimestrale</span></li></ol><p><span>b) Calcola quale capitale impiegato al tasso annuo del 10% da in 8 mesi l’interesse semplice di 34 euro.  </span></p><p><span>c) Calcola quale capitale impiegato al tasso annuo del 9% da in 3 mesi e 10 giorni un interesse semplice di 115 euro.</span></p><p><span>d) Il capitale di 6.000 euro ha prodotto l’interesse semplice di 480 euro. Calcola i tassi annui se la durata dell’impiego e stata di:</span></p><ol start='' ><li><span>un anno;</span></li><li><span>10 mesi; </span></li><li><span>8 mesi;</span></li><li><span>4 mesi </span></li></ol><p>&nbsp;</p><h3 id='esercizio-3---interesse-semplice-durata'><span>ESERCIZIO 3 - Interesse semplice: durata</span></h3><p><span>a) Calcola in quanto tempo il capitale di 3.300 euro, impiegato al tasso annuo del 10%, ha prodotto il montante di 3.547 euro  </span></p><p><span>b) Per quanto tempo e necessario lasciare depositato il capitale di 540 euro, al tasso del 4% trimestrale, per poter ritirare il montante di 600 euro? </span></p><p>&nbsp;</p><h3 id='esercizio-4---interesse-semplice-sconto'><span>ESERCIZIO 4 - Interesse semplice: sconto</span></h3><p><span>a) Una cambiale del valore nominale di 510 euro viene scontata, in regime di capitalizzazione semplice, 3 mesi prima della scadenza, al tasso dell’8% annuo. Calcolare la somma scontata e lo sconto. </span></p><p><span>b) Con il pagamento di 840 euro si salda anticipatamente un debito del valore nominale di 863 euro fruendo dello sconto razionale, al tasso dell’8,50% annuo. Determinare il tempo di anticipazione.</span></p><p><span>c) Un debito viene saldato prima della scadenza, fruendo dello sconto razionale al tasso del 16%. Calcolare la scadenza del debito se la somma scontata è pari ai 9/10 del valore nominale. </span></p><p><span>d) Un commerciante per 1&#39;acquisto di una merce deve fare tre pagamenti uguali, di 300 euro ciascuno, scadenti il primo oggi, il secondo fra 2 mesi, il terzo fra 6 mesi. Pagando tutto oggi può fruire dello sconto razionale al tasso del 9% annuo. Calcolare il valore complessivo da pagare oggi.</span></p><p>&nbsp;</p><h3 id='esercizio-5---interesse-composto-montante-i'><span>ESERCIZIO 5 - Interesse composto: montante I</span></h3><p><span>Calcolare il montante ad interesse composto dei seguenti capitali con la calcolatrice e con l’interpolazione:</span></p><p><span>a) 500 euro per 10 anni al tasso dell’8,10% annuo;</span></p><p><span>b) 1.800 euro per 6 anni al tasso del 12,15% annuo;</span></p><p><span>c) 800 euro per 5 anni al tasso del 3,10% semestrale;</span></p><p><span>d) 1.000 euro per 10 anni al tasso del 5,30% quadrimestrale;</span></p><p><span>e) 600 euro per 5 anni e 6 mesi al tasso del 3,50% bimestrale;</span></p><p><span>f) 438 euro per 10 anni e 9 mesi al tasso del 4,16% trimestrale.</span></p><p>&nbsp;</p><h3 id='esercizio-6---interesse-composto-montante-ii'><span>ESERCIZIO 6 - Interesse composto: montante II</span></h3><p><span>a) II capitale di L. 6.000.000 è impiegato ad interesse composto al tasso annuo del 14% per 5 anni. Il montante viene subito reinvestito per altri 4 anni al tasso annuo dell’11%.  </span></p><ol start='' ><li><span>Quale montante si può ritirirare? </span></li><li><span>Quale montante si sarebbe ritirato se per i primi 4anni il tasso fosse stato dell’11% e per i successivi 5 fosse stato del 14%? </span></li></ol><p><span>b) Una persona prende in prestito 20.000 euro al tasso annuo del12% e le investe al tasso annuo del 15%. Quanto guadagna se l&#39;impiego e di 5 anni?</span></p><p>&nbsp;</p><h3 id='esercizio-7---interesse-composto-valore-attuale-i'><span>ESERCIZIO 7 - Interesse composto: valore attuale I</span></h3><p><span>Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:</span></p><p><span>a) 1.200 euro per 5 anni al tasso del 7% annuo;</span></p><p><span>b) 800 euro per 10 anni al tasso del 12% annuo;</span></p><p><span>c) 665 euro per 4 anni e 6 mesi al tasso del 3% trimestrale;</span></p><p><span>d) 3.012 euro per 2 anni e 5 mesi al tasso dell’1,50% mensile.</span></p><p>&nbsp;</p><h3 id='esercizio-8---interesse-composto-valore-attuale-ii'><span>ESERCIZIO 8 - Interesse composto: valore attuale II</span></h3><p><span>a) Scontiamo una cambiale del valore di 20.000 euro scadente fra 5 anni con sconto composto al tasso del 12%. Investiamo subito la somma riscossa al lasso del 16%. Quale guadagno realizzeremo fra 5 anni?</span></p><p><span>b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: L. 30.000.000 alla stipulazione del contralto e tre somme di euro 10.000 ciascuna scadenti fra 2, 4 e 6 anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del 9%. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? </span></p><p>&nbsp;</p><p>&nbsp;</p></div></div>
+<div id='write'  class=''><h1 id='matematica-finanziaria-regimi-finanziari'><span>Matematica Finanziaria: Regimi Finanziari</span></h1><h2 id='unita-1-concetti-fondamentali-e-regime-dellinteresse-semplice'><span>UNITA&#39; 1: Concetti fondamentali e regime dell&#39;interesse semplice </span></h2><h3 id='esercizio-1---interesse-semplice-montante'><span>ESERCIZIO 1 - Interesse semplice: montante</span></h3><p><span>Calcola l’interesse semplice e il montante dei seguenti capitali (in euro) impiegati alle condizioni indicate: </span></p><p><span>a) 500 per 1 anno al tasso del 12% annuo;</span></p><p><span>b) 1.200 per 8 mesi al tasso dell’11% annuo;</span></p><p><span>c) 400 per 4 mesi e 20 giorni al tasso del 9% annuo;</span></p><p><span>d) 1.500 per 8 mesi al tasso del 3% bimestrale;</span></p><p><span>e) 600 per 7 mesi al tasso del 2,50% trimestrale;</span></p><p><span>f) 845 per 4 mesi e 15 giorni al tasso del 6% semestrale.</span></p><p>&nbsp;</p><h3 id='esercizio-2---interesse-semplice-capitale'><span>ESERCIZIO 2 - Interesse semplice: capitale</span></h3><p><span>a) Determina i capitali che, nel regime dell’interesse semplice, hanno prodotto i seguenti montanti alle condizioni indicate:  </span></p><ol start='' ><li><p><span>890 in 9 mesi al tasso del 15% annuo  </span></p></li><li><p><span>504 in 150 giorni al tasso del 12% annuo  </span></p></li><li><p><span>861,42 in 102 giorni al tasso del 3% quadrimestrale</span></p></li></ol><p><span>b) Calcola quale capitale impiegato al tasso annuo del 10% da in 8 mesi l’interesse semplice di 34 euro.  </span></p><p><span>c) Calcola quale capitale impiegato al tasso annuo del 9% da in 3 mesi e 10 giorni un interesse semplice di 115 euro.</span></p><p><span>d) Il capitale di 6.000 euro ha prodotto l’interesse semplice di 480 euro. Calcola i tassi annui se la durata dell’impiego e stata di:</span></p><ol start='' ><li><p><span>un anno;</span></p></li><li><p><span>10 mesi; </span></p></li><li><p><span>8 mesi;</span></p></li><li><p><span>4 mesi </span></p></li></ol><p>&nbsp;</p><h3 id='esercizio-3---interesse-semplice-durata'><span>ESERCIZIO 3 - Interesse semplice: durata</span></h3><p><span>a) Calcola in quanto tempo il capitale di 3.300 euro, impiegato al tasso annuo del 10%, ha prodotto il montante di 3.547 euro  </span></p><p><span>b) Per quanto tempo e necessario lasciare depositato il capitale di 540 euro, al tasso del 4% trimestrale, per poter ritirare il montante di 600 euro? </span></p><p>&nbsp;</p><h3 id='esercizio-4---interesse-semplice-sconto'><span>ESERCIZIO 4 - Interesse semplice: sconto</span></h3><p><span>a) Una cambiale del valore nominale di 510 euro viene scontata, in regime di capitalizzazione semplice, 3 mesi prima della scadenza, al tasso dell’8% annuo. Calcolare la somma scontata e lo sconto. </span></p><p><span>b) Con il pagamento di 840 euro si salda anticipatamente un debito del valore nominale di 863 euro fruendo dello sconto razionale, al tasso dell’8,50% annuo. Determinare il tempo di anticipazione.</span></p><p><span>c) Un debito viene saldato prima della scadenza, fruendo dello sconto razionale al tasso del 16%. Calcolare la scadenza del debito se la somma scontata è pari ai 9/10 del valore nominale. </span></p><p><span>d) Un commerciante per 1&#39;acquisto di una merce deve fare tre pagamenti uguali, di 300 euro ciascuno, scadenti il primo oggi, il secondo fra 2 mesi, il terzo fra 6 mesi. Pagando tutto oggi può fruire dello sconto razionale al tasso del 9% annuo. Calcolare il valore complessivo da pagare oggi.</span></p><p>&nbsp;</p><h2 id='unita-1-regime-dellinteresse-composto'><span>UNITA&#39; 1: Regime dell&#39;interesse composto</span></h2><h3 id='esercizio-5---interesse-composto-montante-i'><span>ESERCIZIO 5 - Interesse composto: montante I</span></h3><p><span>Calcolare il montante ad interesse composto dei seguenti capitali con la calcolatrice e con l’interpolazione:</span></p><p><span>a) 500 euro per 10 anni al tasso dell’8,10% annuo;</span></p><p><span>b) 1.800 euro per 6 anni al tasso del 12,15% annuo;</span></p><p><span>c) 800 euro per 5 anni al tasso del 3,10% semestrale;</span></p><p><span>d) 1.000 euro per 10 anni al tasso del 5,30% quadrimestrale;</span></p><p><span>e) 600 euro per 5 anni e 6 mesi al tasso del 3,50% bimestrale;</span></p><p><span>f) 438 euro per 10 anni e 9 mesi al tasso del 4,16% trimestrale.</span></p><p>&nbsp;</p><h3 id='esercizio-6---interesse-composto-montante-ii'><span>ESERCIZIO 6 - Interesse composto: montante II</span></h3><p><span>a) II capitale di L. 6.000.000 è impiegato ad interesse composto al tasso annuo del 14% per 5 anni. Il montante viene subito reinvestito per altri 4 anni al tasso annuo dell’11%.  </span></p><ol start='' ><li><p><span>Quale montante si può ritirirare? </span></p></li><li><p><span>Quale montante si sarebbe ritirato se per i primi 4anni il tasso fosse stato dell’11% e per i successivi 5 fosse stato del 14%? </span></p></li></ol><p><span>b) Una persona prende in prestito 20.000 euro al tasso annuo del12% e le investe al tasso annuo del 15%. Quanto guadagna se l&#39;impiego e di 5 anni?</span></p><p>&nbsp;</p><h3 id='esercizio-7---interesse-composto-valore-attuale-i'><span>ESERCIZIO 7 - Interesse composto: valore attuale I</span></h3><p><span>Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:</span></p><p><span>a) 1.200 euro per 5 anni al tasso del 7% annuo;</span></p><p><span>b) 800 euro per 10 anni al tasso del 12% annuo;</span></p><p><span>c) 665 euro per 4 anni e 6 mesi al tasso del 3% trimestrale;</span></p><p><span>d) 3.012 euro per 2 anni e 5 mesi al tasso dell’1,50% mensile.</span></p><p>&nbsp;</p><h3 id='esercizio-8---interesse-composto-valore-attuale-ii'><span>ESERCIZIO 8 - Interesse composto: valore attuale II</span></h3><p><span>a) Scontiamo una cambiale del valore di 20.000 euro scadente fra 5 anni con sconto composto al tasso del 12%. Investiamo subito la somma riscossa al lasso del 16%. Quale guadagno realizzeremo fra 5 anni?</span></p><p><span>b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: L. 30.000.000 alla stipulazione del contralto e tre somme di euro 10.000 ciascuna scadenti fra 2, 4 e 6 anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del 9%. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? </span></p><p>&nbsp;</p><p>&nbsp;</p></div></div>
 </body>
 </html>

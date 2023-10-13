@@ -48,7 +48,7 @@ Il **valore assoluto** di un numero intero è un secondo numero corrispondente a
 
 Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
 
-La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri e precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "valore di verità" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} F $ . Invece $5 = 2 + 2$ afferma una cosa vera e si scrive che $5 = 2 + 2 \longrightarrow T$ , dove $T$ sta per "True", cioè vero. Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow T$ . Osserviamo che $3 \lt 3 \longrightarrow F$ .
+La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri e precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "valore di verità" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} F $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow T$ , dove $T$ sta per "True", cioè vero. Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow T$ . Osserviamo che $3 \lt 3 \longrightarrow F$ .
 
 I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow T$  e  $3 \le 3 \longrightarrow T$ .
 
@@ -62,7 +62,7 @@ $-4$;      $+9$;      $+7$;      $7\cdot 4$;      $0$.
 
 
 
-### ESERCIZIO 4: uguaglianze e disuguaglianze
+### ESERCIZIO 4: Uguaglianze e disuguaglianze
 
 a) Controlla la verità delle seguenti relazioni:
 
@@ -192,11 +192,11 @@ a) Calcola il valore delle espressioni seguenti.
 
 b) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-1.  $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\}.$
+1.  $5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8.$
 
 2.  $80+[(4+3\text{·}5):(3+2\text{·}8)].$  
 
-3.  $\left\{ -(+5)-[-(-1)]\right\}.$  
+3.  $-(+5)-(-(-1))$.  
 
 c) Calcola il valore delle seguenti espressioni.
 

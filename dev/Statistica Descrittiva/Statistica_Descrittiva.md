@@ -1,6 +1,8 @@
 
 # Esercizi di Statistica Descrittiva
 
+## UNITA' 1: Popolazioni, caratteri e modalità
+
 ### ESERCIZIO 1 - Popolazioni, caratteri e modalità
 
 a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubblico per le scuole di una determinata città. Individuare:
@@ -36,6 +38,8 @@ d) In una Provincia, si vuole analizzare il numero delle abitazioni occupate in 
 e) In un Comune si svolge una indagine sul numero di giornate con precipitazioni nevose, secondo i mesi dell'anno, negli ultimi 10 anni. Quali sono le unità statistiche? Quali i caratteri?
 
 
+
+## UNITA' 2: Frequenze ed intensità assolute e relative
 
 ### ESERCIZIO 2 - Frequenze assolute e relative
 
@@ -254,6 +258,8 @@ b) Considera le classi di retribuzione (fascie) seguenti: 0|-18; 18|-25; 25|-40;
 
 
 
+## UNITA' 3: Serie, tabelle e grafici dei dati statistici
+
 ### ESERCIZIO 4 - Grafici a Linee
 
 a) Considerata la seguente tabella delle rilevazioni delle quantità vendute di una ditta (in quintali) negli anni indicati.
@@ -391,7 +397,7 @@ $$
 \hline
 \text{Altre Attivita} & 890 & 910 \\
 \hline
-\end{array}
+\end{array}
 $$
 
 
@@ -582,6 +588,8 @@ Punto a.3) serie storica annuale.
 <img src="img\Serie-Annuale.jpg" alt="Serie-Annuale" style="zoom:17%;" />
 
 
+
+## UNITA' 4: Moda, media e mediana
 
 ### ESERCIZIO 9 - Indici di Posizione Centrale - Moda, Mediana, Media
 

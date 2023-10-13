@@ -105,17 +105,7 @@ Passi da seguire per trovare la soluzione per la seconda frazione della prima co
 
 
 
-### ESERCIZIO 5 - Prodotto di frazioni (I)
-
-Calcola i seguenti prodotti di frazioni.  
-
-a) $\dfrac{1}{2}\cdot4$;     $\dfrac{5}{3}\cdot9$;     $\dfrac{3}{2}\cdot10$.  
-
-b) $\dfrac{3}{8}\cdot\dfrac{12}{15}$;     $\dfrac{7}{10}\cdot\dfrac{20}{21}$.   
-
-
-
-### ESERCIZIO 6 - Prodotto di frazioni (II)
+### ESERCIZIO 5 - Prodotto di frazioni
 
 Calcola le seguenti quantità dopo aver scritto l'espressione che la rappresenta.  
 
@@ -124,6 +114,20 @@ a) i cinque dodicesimi di 9; i cinque dodicesimi di 60; i tre quarti del doppio 
 b) la metà di un decimo; i due terzi di 60; i tre quarti del doppio di 20;  
 
 c) un quinto dei due terzi di 9; la metà della metà di 20; il doppio di cinque quinti della metà di 30;  
+
+
+
+### ESERCIZIO 6 - Prodotti e quozienti di frazioni
+
+a) Calcola i seguenti prodotti di frazioni.
+
+1.  $\dfrac{1}{2}\cdot4$;     $\dfrac{5}{3}\cdot9$;     $\dfrac{3}{2}\cdot10$. 
+2. $\dfrac{3}{8}\cdot\dfrac{12}{15}$;     $\dfrac{7}{10}\cdot\dfrac{20}{21}$.
+
+b) Calcola i seguenti quozienti di frazioni.
+
+1.  $\dfrac{1}{2} : \dfrac{1}{4}$;     $\dfrac{5}{3} : \dfrac{1}{9}$;     $\dfrac{3}{2} : 10$.
+2. $\dfrac{8}{3} : \dfrac{15}{12}$;     $\dfrac{7}{10} : \dfrac{20}{21}$. 
 
 
 

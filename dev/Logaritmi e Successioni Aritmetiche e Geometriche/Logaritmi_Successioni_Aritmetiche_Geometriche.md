@@ -1,6 +1,8 @@
 
 # Logaritmi e Successioni Aritmetiche e Geometriche
 
+## UNITA' 1: Logaritmi ed equazioni logaritmiche ed esponenziali
+
 ### ESERCIZIO 1 - Le potenze
 
 Calcola le seguenti espressioni con le potenze.
@@ -59,6 +61,8 @@ a) Utilizzando i logaritmi e la calcolatrice, trova un valore approssimato della
 2. $3^{2x}=5 \cdot 2^{x+1}$;   $3^{x+1} \cdot 5^{2x-1}=15$;   $(1,065)^{2x}=3$;   $(1,086)^{-x}=0,82478$;
 
 
+
+## UNITA' 2: Successioni aritmetiche e geometriche
 
 ### ESERCIZIO 6 - Successioni Aritmetiche
 

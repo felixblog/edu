@@ -1,6 +1,6 @@
 # I Sistemi di I Grado
 
-## UNITA' 1: Concetto di sistema di equazioni e di soluzione
+## UNITA' 1: Equazioni con due incognite e soluzioni
 
 ### ESERCIZIO 1 - Soluzioni di equazioni con due incognite
 
@@ -39,7 +39,9 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 2. $Risolvi(eq1, \{y\})$ &#9166; . 
 
-   
+
+
+## UNITA' 2: Sistema di equazioni e metodo di soluzione
 
 ### ESERCIZIO 3 - Metodo di sostituzione
 
@@ -87,7 +89,7 @@ b) Risolvi i punti a.2) e a.3) dell'esercizio con analoghe sequenze di comandi G
 
 
 
-## UNITA' 2: Problemi di I grado risolubili con un sistema
+## UNITA' 3: Problemi di I grado risolubili con un sistema
 
 ### ESERCIZIO 4 - Problemi vari
 

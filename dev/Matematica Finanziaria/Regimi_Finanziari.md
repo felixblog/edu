@@ -1,7 +1,10 @@
 
 # Matematica Finanziaria: Regimi Finanziari
 
+## UNITA' 1: Concetti fondamentali e regime dell'interesse semplice 
+
 ### ESERCIZIO 1 - Interesse semplice: montante
+
 Calcola l’interesse semplice e il montante dei seguenti capitali (in euro) impiegati alle condizioni indicate: 
 
 a) 500 per 1 anno al tasso del 12% annuo;
@@ -60,6 +63,8 @@ c) Un debito viene saldato prima della scadenza, fruendo dello sconto razionale 
 d) Un commerciante per 1'acquisto di una merce deve fare tre pagamenti uguali, di 300 euro ciascuno, scadenti il primo oggi, il secondo fra 2 mesi, il terzo fra 6 mesi. Pagando tutto oggi può fruire dello sconto razionale al tasso del 9% annuo. Calcolare il valore complessivo da pagare oggi.
 
 
+
+## UNITA' 1: Regime dell'interesse composto
 
 
 ### ESERCIZIO 5 - Interesse composto: montante I
