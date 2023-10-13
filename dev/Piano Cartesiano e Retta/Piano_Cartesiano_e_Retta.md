@@ -1,6 +1,8 @@
 
 # Piano Cartesiano e Retta
 
+## UNITA' 1: Piano cartesiano e coordinate dei punti
+
 ### ESERCIZIO 1 - Punti allineati
 
 Disegna la retta che passa per ciascuno dei seguenti insiemi di punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
@@ -50,6 +52,10 @@ Passo3: Nella vista "algebra", dal menu contestuale all'istruzione del passo 1, 
 Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori della $y$ calcolati e quindi posizionati i punti $(x, y)$ sul piano cartesiano.
 
 <img src="img\Campione-di-punti.png" alt="Campione-di-punti" style="zoom:20%;" />
+
+
+
+## UNITA' 2: La retta e la sua equazione
 
 ### ESERCIZIO 3 - Grafico della retta
 
@@ -152,7 +158,68 @@ b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA r
 
 
 
-### ESERCIZIO 7 - Interpretazione geometrica dei sistemi
+### ESERCIZIO 7 - Problemi sulla retta
+
+a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
+
+1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0$  
+2. $x+3y=-1; \> x-y=7;$
+
+b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
+c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
+
+d) Individua per quali intervalli i polinomi seguenti sono positivi o negativi:
+
+1. $\dfrac{1}{2}x;$   $\dfrac{-1}{3}x - 4$ ;   $11;$
+2. $\dfrac{11}{8}(x-16);$   $-2x + 11$.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a.1) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+
+1. $eq1: y - \dfrac{1}{2}x = 5$  &#9166;   
+2. $Risolvi(\{eq1, x=0\},\{x, y\})$  &#9166;   
+3. $Risolvi(\{eq1, y=0\},\{x, y\})$  &#9166;   
+
+b) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
+
+1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$  &#9166;
+2. $y-y_0 = m(x-x_0)$ &#9166; 
+
+c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
+
+
+
+### ESERCIZIO 8: Rette parallele e perpendicolari
+
+a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
+
+1. $y = 3x - 2;$   $-x + y -4=0;$   $y = \dfrac{2}{3}x;$   $x - y - 5=0;$   $2x+6y-1=0$.
+2. $y = x + \dfrac{1}{3};$   $y = \dfrac{1}{3}x;$   $y = \dfrac{2}{3}x;$   $y = \dfrac{1}{3}x + \dfrac{1}{3};$   $y=+\dfrac{1}{3}$.
+
+b) Scrivi le equazioni di due rette parallele alla retta di equazione $2y +  5 =  0$ e di due parallele alla retta di
+equazione $4x  - 3 = 0$.
+
+c) Stabilisci se la retta che passa per i punti $A(2;  7)$ e $B( 1; 5)$ è parallela alla retta di equazione $y = -4x$.
+
+d) Per ciascuna retta, scrivi l’equazione della parallela e della perpendicolare a essa e passanti per il punto $A$.
+
+1. $y = \dfrac{1}{3}x;$   $A(1; 1)$.
+2. $y + 3x + 2 = 0;$   $A(0; -2)$.
+3. $y - \dfrac{1}{2}x = 5;$   $A(-1; -1)$.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
+
+1. $Retta((1,1),y = \dfrac{1}{3}x)$ &#9166;
+2. $Perpendicoare((1,1),y = \dfrac{1}{3}x)$ &#9166;
+
+
+
+## UNITA' 3: Interpretazione geometrica dei sistemi
+
+### ESERCIZIO 9 - Sistemi di equazioni lineari e piano cartesiano
 
 Dati i sistemi seguenti, per ciascuno di essi disegna le due rette, controlla se la coppia fornita è il loro punto di intersezione e, nel caso non lo fosse, trovalo. 
 
@@ -185,65 +252,6 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 2. $eq2: 6x-9y=2$ &#9166; 
 3. $Sostituisci(eq1, \{x=5, y=-2\})$ &#9166;    (L'uguaglianza è falsa quindi cerchiamo la soluzione con il comando $Risolvi$)
 4. $Risolvi(\{eq1,eq2\}, \{x, y\})$  &#9166;
-
-
-
-### ESERCIZIO 8 - Problemi sulla retta
-
-a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
-
-1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0$  
-2. $x+3y=-1; \> x-y=7;$
-
-b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
-c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
-
-d) Individua per quali intervalli i polinomi seguenti sono positivi o negativi:
-
-1. $\dfrac{1}{2}x;$   $\dfrac{-1}{3}x - 4$ ;   $11;$
-2. $\dfrac{11}{8}(x-16);$   $-2x + 11$.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto a.1) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
-
-1. $eq1: y - \dfrac{1}{2}x = 5$  &#9166;   
-2. $Risolvi(\{eq1, x=0\},\{x, y\})$  &#9166;   
-3. $Risolvi(\{eq1, y=0\},\{x, y\})$  &#9166;   
-
-b) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
-
-1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$  &#9166;
-2. $y-y_0 = m(x-x_0)$ &#9166; 
-
-c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
-
-
-
-### ESERCIZIO 9: Rette parallele e perpendicolari
-
-a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
-
-1. $y = 3x - 2;$   $-x + y -4=0;$   $y = \dfrac{2}{3}x;$   $x - y - 5=0;$   $2x+6y-1=0$.
-2. $y = x + \dfrac{1}{3};$   $y = \dfrac{1}{3}x;$   $y = \dfrac{2}{3}x;$   $y = \dfrac{1}{3}x + \dfrac{1}{3};$   $y=+\dfrac{1}{3}$.
-
-b) Scrivi le equazioni di due rette parallele alla retta di equazione $2y +  5 =  0$ e di due parallele alla retta di
-equazione $4x  - 3 = 0$.
-
-c) Stabilisci se la retta che passa per i punti $A(2;  7)$ e $B( 1; 5)$ è parallela alla retta di equazione $y = -4x$.
-
-d) Per ciascuna retta, scrivi l’equazione della parallela e della perpendicolare a essa e passanti per il punto $A$.
-
-1. $y = \dfrac{1}{3}x;$   $A(1; 1)$.
-2. $y + 3x + 2 = 0;$   $A(0; -2)$.
-3. $y - \dfrac{1}{2}x = 5;$   $A(-1; -1)$.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
-
-1. $Retta((1,1),y = \dfrac{1}{3}x)$ &#9166;
-2. $Perpendicoare((1,1),y = \dfrac{1}{3}x)$ &#9166;
 
 
 

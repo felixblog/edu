@@ -1,6 +1,8 @@
 
 # Insiemi e Relazioni
 
+## UNITA' 1: Insiemi e loro rappresentazione
+
 ### ESERCIZIO 1 - Rappresentazione per Elencazione
 
 a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi A, B e C formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea». 
@@ -108,6 +110,8 @@ b) Risolvi il punto d.2) dell'esercizio prendendo esempio dalla sequenza di coma
 
 
 
+## UNITA' 2: Operazioni tra insiemi
+
 ### ESERCIZIO 5 - Intersezione ed Unione
 
 a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappresentale per elencazione e mediante un diagramma di Eulero-Venn:  
@@ -200,6 +204,8 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 
 
+## UNITA' 3: Le relazioni
+
 ### ESERCIZIO 9 - Le relazioni. Dalla proprietà caratteristica all'elencazione
 
 a) Considera il disegno seguente che illustra i rapporti di parentela tra gli elementi di una famiglia.
@@ -208,10 +214,10 @@ a) Considera il disegno seguente che illustra i rapporti di parentela tra gli el
 
 Se $P = \{Sara, Tommaso, Roberto, Elisa, Anna, Patrizia, Giovanni\}$, elenca le coppie, elementi di  $P \times P$, con le proprietà definite di seguito:
 
-1. R~1~: $«x \: e' \: madre \: di \:y»$;
-2. R~2~: $«x \: e' \: genitore \: di \:y»$;
-3. R~3~: $«x \: e' \: sorella \: di \:y»$;
-4. R~4~: $«x \: e' \: nipote \: di \:y»$;
+1. R~1~: $\text{«x \'e madre di y»}$;
+2. R~2~: $\text{«x \'e genitore di y»}$;;
+3. R~3~: $\text{«x \'e  sorella di y»}$;
+4. R~4~: $\text{«x \'e nipote di y»}$;;
 
 b) Dati gli insiemi $A = \{1, 2, 3, 4, 5\}$ e $B = \{-1, 0, 1, 2\}$, scrivi i sottoinsiemi di $A \times B$ le cui coppie soddisfano le proprietà seguenti:
 

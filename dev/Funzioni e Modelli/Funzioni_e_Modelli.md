@@ -1,5 +1,7 @@
 # Funzioni Elementari e Modelli Matematici
 
+## UNITA' 1: Modelli di relazioni, proporzionalità diretta ed inversa
+
 ### ESERCIZIO 1: Calcolo del valore di una espressione
 
 a) Calcola il valore dell'espressione $x^2$ per i valori della $x$ indicati nella tabella seguente.
@@ -65,6 +67,8 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 3. L'ammontare dell'IVA (al 22%) ed il prezzo (IVA inclusa) di acquisto di una macchina.
 
 
+
+## UNITA' 2: Relazioni lineari tra grandezze
 
 ### ESERCIZIO 4 - Funzioni lineari
 a) Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
@@ -175,6 +179,8 @@ c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata
 
 
 
+## UNITA' 3: Crescenza, decrescenza ed esempi di funzioni
+
 ### ESERCIZIO 11 - Funzioni crescenti e decrescenti
 
 a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate sono crescenti o decrescenti.
@@ -278,21 +284,15 @@ a) Per ciascuno dei grafici seguenti individua:
 
 
 
-### ESERCIZIO 14 - Analisi dei prezzi
-
-a) Una società di film a noleggio ha 1000 abbonati ognuno dei quali paga 15 euro al mese. Sulla base di un indagine, il management ritiene che per ogni 25 centesimi di riduzione del costo mensile di abbonamento si avrebbero 20 tesserati in più. Quale dovrebbe essere il prezzo di abbonamento mensile per avere il massimo numero di abbonati?
-
-b) 50 studenti, contribuendo ciascuno con 5 euro, riescono a raccogliere 250 euro per un regalo. Da questo punto in poi però, decidono che per ogni studente in più che aderisce, la somma da versare diminuirà di 5 centesimi per tutti. Quanti studenti dovranno contribuire per ottenere la somma massima possibile?
-
-
-
-### ESERCIZIO 15 - Applicazioni 
+## UNITA' 4: Applicazioni dei modelli lineari
 
 Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ di volta in volta il numero di oggetti/servizi acquistati o prodotti. La formula che lega i costi ai prodotti in generale è la seguente:
 $$
 y = mx+q
 $$
 dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei costi che varia con il numero degli oggetti/servizi acquistati e $q$ è una parte che non varia (quota fissa).
+
+### ESERCIZIO 14 - Applicazioni varie
 
 a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
 
@@ -309,7 +309,7 @@ c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezi
 
 
 
-### ESERCIZIO 16 - Esercizio Riassuntivo   
+### ESERCIZIO 15 - Esercizio Riassuntivo   
 
 a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e 100 Km percorsi, un totale di 70 euro e la seconda, sempre per un giorno e 350 Km percorsi, 120 euro.
 
@@ -329,3 +329,11 @@ I costi annui si possono calcolare considerando che, dopo 10 anni di utilizzo, i
 a) Disegna le curve dei costi dei punti b) e c) e rileva, per il punto c.2), quali sono graficamente i criteri che se applicati conducono alle decisioni ottimali per il consumatore.
 
 b) Disegna le curve dei Ricavi-Costi-Utile del punto d) ed individua graficamente le regioni dei profitti, delle perdite ed il punto di pareggio.
+
+
+
+### ESERCIZIO 16 - Analisi dei prezzi
+
+a) Una società di film a noleggio ha 1000 abbonati ognuno dei quali paga 15 euro al mese. Sulla base di un indagine, il management ritiene che per ogni 25 centesimi di riduzione del costo mensile di abbonamento si avrebbero 20 tesserati in più. Quale dovrebbe essere il prezzo di abbonamento mensile per avere il massimo numero di abbonati?
+
+b) 50 studenti, contribuendo ciascuno con 5 euro, riescono a raccogliere 250 euro per un regalo. Da questo punto in poi però, decidono che per ogni studente in più che aderisce, la somma da versare diminuirà di 5 centesimi per tutti. Quanti studenti dovranno contribuire per ottenere la somma massima possibile?

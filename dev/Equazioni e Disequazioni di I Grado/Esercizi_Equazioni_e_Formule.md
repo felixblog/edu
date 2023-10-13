@@ -1,6 +1,8 @@
 
 # Equazioni e Disequazioni di I Grado
 
+## UNITA' 1: Concetto di equazione e sue soluzioni
+
 ### ESERCIZIO 1 - Verifica di soluzioni
 
 Controlla se il numero dato è soluzione della equazione.
@@ -39,6 +41,8 @@ Controlla che il comando $PrimoMembro(s1)$&#9166; fornisce $\dfrac{5}{2} \appro
 
 
 
+## UNITA' 2: Metodo risolutivo delle equazioni di I grado
+
 ### ESERCIZIO 2 - Regole delle Equazioni
 
 Risolvi le seguenti equazioni applicando le regole indicate.
@@ -69,8 +73,6 @@ b) Regola della moltiplicazione/divisione e regola della semplificazione.
 6. Trova il numero che diviso per $11$ da $0$:  $0 = \dfrac{v}{11};$
 7. Trova il numero che diviso per $-2$ da $-11$:  $\dfrac{c}{-2} = -11;$
 8. Trova il numero da dividere per $-\dfrac{3}{2}$ per avere $\dfrac{4}{5}$:   $\dfrac{c}{-\dfrac{3}{2}} = \dfrac{4}{5};$
-
-
 
 ### ESERCIZIO 3 - Risoluzione di equazioni
 
@@ -121,6 +123,8 @@ d) ha come soluzione il numero che sommato al suo successivo è uguale a 3;
 e) consiste nell'uguaglianza tra un numero ed il suo opposto.
 
 
+
+## UNITA' 3: Equazioni letterali e formule
 
 ### ESERCIZIO 5 - Equazioni letterali
 
@@ -204,6 +208,8 @@ c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà 
 d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 2100 Km quale è la velocità media dell'aereo?
 
 
+
+## UNITA' 4: Disequazioni ed intervalli
 
 ### ESERCIZIO 8 - Disuguaglianze e disequazioni
 

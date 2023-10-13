@@ -3,17 +3,17 @@
 
 # Numeri Razionali, percentuali ed equivalenze
 
-## UNITA' 1: Il Concetto e l'uso delle Frazioni
+## UNITA' 1: Concetto ed uso delle Frazioni
 
 ### ESERCIZIO 1 - Il Concetto di Frazione e di Divisione
 
 a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
 
-1. Che frazione di figura rappresentano i quadrati rossi, quelli blu e quelli non colorati?
+1. Che frazione di figura rappresentano i quadrati rossi, quelli blu e quelli non colorati? Se ogni quadrato è una mattonella e tutte le mattonelle pesano 18 Kg, quanto pesano le mattonelle bianche? 
 
 ![Frazioni-di-quadrato](img/Frazioni-di-quadrato.png)
 
-2. Quanti colori vedi nella figura? Per ciascun colore scrivi la frazione di figura di quel colore.
+2. Quanti colori vedi nella figura? Per ciascun colore scrivi la frazione di figura di quel colore. Se per dipingere una parete con i quadrati colorati della figura sono servite 12 scatole di colori, quante scatole di colore turchese sono state consumate?
 
 ![Stesso-Colore](img/Stesso-Colore.png)
 
@@ -53,6 +53,8 @@ c) Rispondi alle seguenti domande scrivendo la frazione richiesta.
    - cinque volte venti centesimi fanno un'euro
    - tre euro meno cinquanta centesimi fanno due euro e mezzo
 
+
+
 ### ESERCIZIO 2 - Problemi con le frazioni (I)
 
 a) La ricetta di un dolce prevede l'uso di mezza tazza di farina. Di questa, tre quarti va impastata con le uova e la parte rimanente aggiunta in seguito. Quanta parte della tazza va aggiunta in seguito?  
@@ -70,6 +72,8 @@ d) Gli ingredienti della ricetta "Pici cacio e pepe" per 4 persone sono i seguen
 - Pepe nero in grani 5 g
 
 Come cambiano le quantità, in rapporto alle persone, se le persone sono 3? Quale frazione delle quantità originarie deve essere utilizzata? [Suggerimento: calcola il numero di grammi a persona].
+
+
 
 ### ESERCIZIO 3 - Ordinamento delle frazioni
 
@@ -99,6 +103,8 @@ Passi da seguire per trovare la soluzione per la seconda frazione della prima co
 2. Dividi numeratore e denominatore per il $MCD$:    $8:2 \Rightarrow 4, \;10:2 \Rightarrow 5$;
 3. La soluzione è $\dfrac{4}{5}$.
 
+
+
 ### ESERCIZIO 5 - Prodotto di frazioni (I)
 
 Calcola i seguenti prodotti di frazioni.  
@@ -106,6 +112,8 @@ Calcola i seguenti prodotti di frazioni.
 a) $\dfrac{1}{2}\cdot4$;     $\dfrac{5}{3}\cdot9$;     $\dfrac{3}{2}\cdot10$.  
 
 b) $\dfrac{3}{8}\cdot\dfrac{12}{15}$;     $\dfrac{7}{10}\cdot\dfrac{20}{21}$.   
+
+
 
 ### ESERCIZIO 6 - Prodotto di frazioni (II)
 
@@ -138,6 +146,8 @@ Passi da seguire per trovare la soluzione per la prima coppia di frazioni del pu
 3. Per avere il numeratore della seconda frazione dividi l'$mcm$ per $5$ e moltiplica il risultato per $3$: $(10:5) \cdot 3 \Rightarrow 6$;
 4. Le nuove frazioni sono: $[\dfrac{35}{10},\dfrac{6}{10}]$.
 
+
+
 ### ESERCIZIO 8 - Somma algebrica di frazioni
 
 Calcola le seguenti somme algebriche.
@@ -149,6 +159,8 @@ b) $\dfrac{1}{2}-\dfrac{3}{5}$;     $\dfrac{1}{5}+\dfrac{2}{3}$;     $\dfrac{1}{
 c) $\dfrac{2}{3}-\dfrac{3}{2}$;     $\dfrac{4}{5}+5$;     $-5-\dfrac{7}{8}$;     $2-\dfrac{1}{4}$;     $2+\dfrac{1}{4}$;     $\dfrac{2}{3}+\dfrac{1}{8}-1$;   
 
 d) $-\dfrac{8}{3}+5-\dfrac{2}{5}$;     $12-\dfrac{1}{3}-\dfrac{1}{9}$.
+
+
 
 ### ESERCIZIO 9 - Espressioni con somme di frazioni
 
@@ -293,6 +305,8 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 1. $Sostituisci(-2 x+x^2+1,{x = \dfrac{2}{5}})$&#9166;
 
 2. $Sostituisci((1 - y) \cdot y + 3,{y = -\dfrac{2}{5}})$
+
+
 
 ### ESERCIZIO 16 - Dalle parole alle espressioni (III)
 

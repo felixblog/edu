@@ -1,7 +1,9 @@
 
 # Equazioni di II Grado e Parabola
 
-### ESERCIZIO 1 - I Radicali
+## UNITA' 1: I radicali
+
+### ESERCIZIO 1 - Calcolo di radicali
 
 a) Usando la calcolatrice, trova il valore, approssimato alla quarta cifra decimale, dei radicali riportati di seguito. Fai una prova della correttezza del calcolo dopo aver trovato il numero.
 
@@ -58,6 +60,8 @@ a) Risolvi il secondo esercizio del punto b.1) con la sequenza di operazioni GEO
 
 
 
+## UNITA' 2: Le equazioni di II grado
+
 ### ESERCIZIO 3 - Forma Normale delle Equazioni
 
 a) Per ciascuna delle equazioni seguenti, individua, nel caso sia di secondo grado, i valori di $a$, $b$ e $c$, dopo averla scritta in forma normale.
@@ -113,6 +117,8 @@ b) Risolvi il secondo e terzo esercizio del punto b.1) con la sequenza di operaz
 10. $Risolvi(e2)$  &#9166;	
 
 
+
+## UNITA' 3: La parabola
 
 ### ESERCIZIO 5 - Caratteristiche della Parabola
 

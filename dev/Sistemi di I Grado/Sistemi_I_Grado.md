@@ -1,5 +1,6 @@
-
 # I Sistemi di I Grado
+
+## UNITA' 1: Concetto di sistema di equazioni e di soluzione
 
 ### ESERCIZIO 1 - Soluzioni di equazioni con due incognite
 
@@ -86,7 +87,9 @@ b) Risolvi i punti a.2) e a.3) dell'esercizio con analoghe sequenze di comandi G
 
 
 
-### ESERCIZIO 4 - Problemi di I grado risolubili con un sistema
+## UNITA' 2: Problemi di I grado risolubili con un sistema
+
+### ESERCIZIO 4 - Problemi vari
 
 Risolvere con un sistema i problemi seguenti.  
 

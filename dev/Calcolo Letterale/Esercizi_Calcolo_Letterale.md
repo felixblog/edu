@@ -1,6 +1,8 @@
 
 # Calcolo Letterale
 
+## UNITA' 1: Uso delle lettere nelle espressioni
+
 ### ESERCIZIO 1 - Dalle parole alle espressioni (I)
 
 a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una o più lettere per indicare le quantità sconosciute.
@@ -75,11 +77,21 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 4. il quadrato di un numero meno l'opposto del suo reciproco.
 
-   
+
+
+## UNITA' 2: I Monomi
+
+Un monomio è un prodotto di numeri e lettere. Un monomio è in forma normale se il prodotto è costituito da un numero seguito dalle lettere in ordine alfabetico.
+
+Due monomi in forma normale si dicono simili se hanno la stessa parte letterale. La somma di più monomi simili è un monomio che ha la parte letterale dei monomi e la parte numerica pari alla somma delle parti numeriche, come illustrano gli esempi seguenti.
+
+$-3x + 2x \longrightarrow -x;$      $5ax^2 + 2ax^2 -10ax^2 \longrightarrow -3ax^2;$       $-3x + 2x^2 \longrightarrow -3x + 2x^2;$ Non è un monomio!
+
+Il prodotto di due o più monomi è sempre un monomio.
+
+$-3x \cdot 2x \longrightarrow -6x^2;$      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6;$
 
 ### ESERCIZIO 5 - Forma normale dei monomi
-
-Un monomio è un prodotto di numeri e lettere. Un monomio è in forma normale se il prodotto è costituito da un numero seguito dalle lettere in ordine alfabetico.   
 
 a) Scrivi i seguenti monomi in forma normale.
 
@@ -111,14 +123,6 @@ a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBR
 
 ### ESERCIZIO 6 - Somme e prodotti di monomi
 
-Due monomi in forma normale si dicono simili se hanno la stessa parte letterale. La somma di più monomi simili è un monomio che ha la parte letterale dei monomi e la parte numerica pari alla somma delle parti numeriche, come illustrano gli esempi seguenti.
-
-$-3x + 2x \longrightarrow -x;$      $5ax^2 + 2ax^2 -10ax^2 \longrightarrow -3ax^2;$       $-3x + 2x^2 \longrightarrow -3x + 2x^2;$ Non è un monomio!
-
-Il prodotto di due o più monomi è sempre un monomio.
-
-$-3x \cdot 2x \longrightarrow -6x^2;$      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6;$
-
 a) Scrivi l'espressione che corrisponde alla somma dei monomi seguenti e semplifica il risultato se possibile.
 
 1. $\dfrac{1}{2}x$;      $-3x$;      $7x$;
@@ -143,23 +147,7 @@ a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2
 
 
 
-### ESERCIZIO 7 - Rapporti tra monomi e frazioni algebriche
-
-a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
-
-1. $ax:a$;     $-\dfrac{1}{4}ax:a$;     $a:\dfrac{1}{4}$;
-2. $\dfrac{-\dfrac{1}{4}ax}{a}$;     $\dfrac{1}{7a^2b}\cdot ab^2$;      $\dfrac{5}{2}a^4x:a^3x^2$;
-3. $4a^5b^3 : (-ab^3)$;     $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;     $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$;
-4. $\dfrac{5x^2y}{10x^3y}$;     $\dfrac{7a^2x}{a^2x^2}$;     $-\dfrac{4bx^2}{6b}$.
-
-b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti. 
-
-1. $\dfrac{5}{2}a^4x:a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
-2. $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
-
-
-
-### ESERCIZIO 8 - Dalle parole alle espressioni I
+### ESERCIZIO 7 - Dalle parole alle espressioni I
 
 Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale che fornisce la soluzione di ogni problema. L'espressione richiesta dovrà contenere una lettera che indica la quantità contenuta nel testo da cui dipende la soluzione.
 
@@ -198,7 +186,7 @@ i) Una persona deposita in banca un capitale $C$ su un conto che rende il 5% di 
 
 
 
-### ESERCIZIO 9 - Dalle parole alle espressioni II
+### ESERCIZIO 8 - Dalle parole alle espressioni II
 
 a) Scrivi le espressioni numeriche che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
 
@@ -216,7 +204,7 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 
 
-### ESERCIZIO 10 - Espressioni letterali
+### ESERCIZIO 9 - Espressioni letterali
 
 a) Individua quanti e quali monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
@@ -236,6 +224,26 @@ b) Individua quanti e quali monomi in forma normale ed operazioni contiene ciasc
 a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
 
 
+
+## UNITA' 3: Rapporti tra monomi e frazioni algebriche 
+
+### ESERCIZIO 10 - Rapporti tra monomi e frazioni algebriche
+
+a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
+
+1. $ax:a$;     $-\dfrac{1}{4}ax:a$;     $a:\dfrac{1}{4}$;
+2. $\dfrac{-\dfrac{1}{4}ax}{a}$;     $\dfrac{1}{7a^2b}\cdot ab^2$;      $\dfrac{5}{2}a^4x:a^3x^2$;
+3. $4a^5b^3 : (-ab^3)$;     $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;     $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$;
+4. $\dfrac{5x^2y}{10x^3y}$;     $\dfrac{7a^2x}{a^2x^2}$;     $-\dfrac{4bx^2}{6b}$.
+
+b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti. 
+
+1. $\dfrac{5}{2}a^4x:a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
+2. $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
+
+
+
+## UNITA' 4: Polinomi 
 
 ### ESERCIZIO 11 - Polinomi in forma normale
 
@@ -349,25 +357,7 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 
 
-### ESERCIZIO 16 - Evidenza di fattori
-
-a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
-
-1. $6x^2-12y$;      $-4+6xy$;      $-a-b$;
-2. $a^2 +ax$;      $b^2y - b$;      $-y^2 +2xy + 3y$;
-3. $-8x^2 -12xy$;      $4abc^2-8cba^2$.
-
-#### Laboratorio GEOGEBRA
-
-Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
-
-1. $Fattorizza(6\left(x^{2}-2y\right))$ &#9166; 
-2. $Fattorizza(a^2 + ax)$ &#9166;  
-3. $Fattorizza(-y^2+2xy + 3y)$ &#9166; 
-
-
-
-### ESERCIZIO - 17 Prodotto di polinomi
+### ESERCIZIO - 16 Prodotto di polinomi
 
 Semplifica le seguenti espressioni.  
 
@@ -384,6 +374,26 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 1. $Sviluppa(\left(2a-3b\right)\left(5a+4b\right))$  &#9166; 
 2. $Sviluppa(\,\left(x-3y\right)\left(5x+y\right))$  &#9166; 
 3. $Sviluppa(\left(a^ 3 +2b\right)\left(a^ 3-2b\right)-\left(a^ 5+a\right)\left(a-1\right))$  &#9166; 
+
+
+
+## UNITA' 5: Semplificazione di espressioni letterali 
+
+### ESERCIZIO 17 - Evidenza di fattori
+
+a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
+
+1. $6x^2-12y$;      $-4+6xy$;      $-a-b$;
+2. $a^2 +ax$;      $b^2y - b$;      $-y^2 +2xy + 3y$;
+3. $-8x^2 -12xy$;      $4abc^2-8cba^2$.
+
+#### Laboratorio GEOGEBRA
+
+Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+
+1. $Fattorizza(6\left(x^{2}-2y\right))$ &#9166; 
+2. $Fattorizza(a^2 + ax)$ &#9166;  
+3. $Fattorizza(-y^2+2xy + 3y)$ &#9166; 
 
 
 
