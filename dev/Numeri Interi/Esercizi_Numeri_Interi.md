@@ -2,21 +2,25 @@
 
 ## UNITA' 1: Concetto di numero con segno e posizione su una retta
 
-I numeri interi, o relativi indicano la misura di uno spostamento, verso destra (DX) o verso sinistra (SX) di una posizione rispetto ad un punto fissato detto "origine". 
+Un numero intero, o relativo, è costituito di due parti: un numero naturale ed un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$.  In una espressione con i numeri interi, ogni numero ha un segno, ed ogni segno ha un numero. A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
 
-### Esercizio 1 - Posizione dei numeri interi su una retta
+I numeri interi si interpretano come indicanti delle posizioni su di una retta dove si sia fissato un punto, detto origine, ed una unità di misura. Ogni numero intero indica allora la posizione di un punto ottenuto con uno spostamento, verso destra (DX) o verso sinistra (SX) a seconda se il numero è positivo o negativo, di una distanza pari al numero naturale. Per ottenere la posizione indicata dal numero intero sulla retta, fai uno spostamento, a partire dallo zero, verso DX se il numero è positivo e verso SX se è negativo. Alla fine dello spostamento disegna il punto.
 
-a) Posiziona su una retta orientata orizzontale i seguenti numeri: $+3, -5, +4, -2, 0, +1, -4$. Per ogni numero fai uno spostamento, a partire dallo zero, verso DX se il numero è positivo e verso SX se è negativo. Alla fine dello spostamento disegna il punto.
+### Esercizio 1 - Numeri interi e punti su una retta
+
+a) Disegna su una retta orientata orizzontale i punti indicati dai seguenti numeri: $+3, -5, +4, -2, 0, +1, -4$. 
 
 #### Soluzione
 
 <img src="img\Esercizio-1.png" alt="Esercizio-1" style="zoom:20%;" />
 
-b) Posiziona su una retta orientata verticale i numeri: $0, -2, 2, 3, 4, -4$ Fai uno spostamento a partire dallo zero verso l'alto se il numero è positivo e verso il basso se è negativo. Alla fine dello spostamento disegna il punto.
+b) Disegna su una retta orientata verticale i punti indicati dai seguenti numeri: $0, -2, 2, 3, 4, -4$ Fai uno spostamento a partire dallo zero verso l'alto se il numero è positivo e verso il basso se è negativo. Alla fine dello spostamento disegna il punto.
 
 #### Soluzione
 
 <img src="img\Esercizio-1b.png" alt="Esercizio-1b" style="zoom: 5%;" />
+
+
 
 ### ESERCIZIO 2 - Ordinamento dei numeri interi
 
@@ -38,9 +42,9 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 ## UNITA' 2: Opposto, valore assoluto e relazioni
 
-L'**opposto** di un numero intero è un secondo numero che ha le stesse cifre del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
+L'**opposto** di un numero intero è un secondo numero che ha lo stesso numero naturale del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
 
-Il **valore assoluto** di un numero intero è "il numero senza il segno", ossia il numero stesso se il numero è positivo, l'opposto del numero se è negativo, ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$.
+Il **valore assoluto** di un numero intero è un secondo numero corrispondente al numero naturale "senza il segno" del numero intero. In pratica, se il numero è positivo, il suo valore assoluto è uguale al numero, se il numero è negativo è uguale all'opposto del numero, ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$.
 
 Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
 
@@ -48,18 +52,22 @@ La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri e precisamente c
 
 I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow T$  e  $3 \le 3 \longrightarrow T$ .
 
+
+
 ### ESERCIZIO 3 - Valore assoluto ed opposto 
 
-a) Calcola valore assoluto ed opposto dei seguenti numeri ed espressioni.
+a) Calcola valore assoluto ed opposto dei seguenti numeri e di tutti disegna i punti corrispondenti su una retta orientata orizzontale.
 
-$-4$;      $+9$;      $-3+7$;      $(-3+7)\cdot 4$;      $-1 \cdot (-3+7)\cdot (-4)$; 
+$-4$;      $+9$;      $+7$;      $7\cdot 4$;      $0$.
+
+
 
 ### ESERCIZIO 4: uguaglianze e disuguaglianze
 
 a) Controlla la verità delle seguenti relazioni:
 
-1. $-1 > 0;$     $-7 < -3;$      $0 \le 0;$      $1 = 1 + 0;$      $4-5 \ge 1+3-4;$
-2. $2+3\cdot(-1)=11-5-7;$      $3^{2}-2\text{·}3-1=\left(3-2\right)^{2};$
+1. $-1 > 0;$     $-7 < -3;$      $0 \le 0;$      $1 = 1 + 0;$      $5-4 \ge 1+3-4;$
+2. $2+3=11-5;$      $3^{2}-2\text{·}3-1=\left(3-2\right)^{2};$
 
 
 
@@ -74,23 +82,9 @@ L'espressione $3+2$ contiene due numeri, $3$ e $-2$ in sequenza, ed una operazio
 - $-123\overset{\downarrow}{\phantom{|}}-23$;
 - $1\overset{\downarrow}{\phantom{|}}-2 \overset{\downarrow}{\phantom{|}} + 3 \overset{\downarrow}{\phantom{|}} -4$.
 
-L'operazione di somma algebrica si esegue simulando una sequenza di spostamenti, uno per ogni numero, a partire da $0$ verso destra se il numero è positivo e verso sinistra se è negativo. Lo spostamento (dallo $0$) risultante finale fornisce il valore della somma. 
+L'operazione di somma algebrica si esegue facendo una sequenza di spostamenti di un punto ideale, uno per ogni numero della somma. Ad esempio il risultato della somma $+3-5$ si ottiene spostando il punto ideale dallo $0$ di $3$ unità a destra fino alla posizione $+3$ e da qui verso sinistra di 5 unità raggiungendo la posizione $-2$. Il risultato della somma algebrica sarà quindi $-2$. 
 
 ### ESERCIZIO 5 - Somme algebriche
-
-a) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica e calcola il risultato.
-
-1. $(+2, +8);$   $(+5, -8);$   $(-5, +8);$   $(-5, -8);$
-2. $(0, +2);$   $(-2, 0);$   $(+4, -4);$   $(-4, +4);$
-
-b) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
-
-1. $+5-9;$    $-2+6;$    $12-19+6;$     $-5-9-10;$  
-1. $1 + 2 + 3 - 3 - 2 - 1 - 0;$     $+1 - 1 + 1 - 1 + 1;$     $1 - 2 + 3 - 4 + 5 - 6$.
-
-### ESERCIZIO 6 - Problemi con i numeri interi I
-
-Scrivi le espressioni (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
 
 a) Una lumaca cammina lungo una linea dritta verso destra per 7 cm, poi si gira e cammina verso sinistra per 2 cm, poi si gira e cammina verso destra per 5 cm, poi ancora una volta si gira e cammina per 12 cm verso destra.
 
@@ -101,9 +95,25 @@ Indicando con un numero positivo ogni spostamento verso destra e con uno negativ
 
 <img src="img\lumache.png" alt="e" style="zoom:25%;" /> 
 
-b) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
+b) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica e calcola il risultato.
 
-c) Una azienda negli ha realizzato negli anni i profitti riportati in figura:
+1. $(+2, +8);$   $(+5, -8);$   $(-5, +8);$   $(-5, -8);$
+2. $(0, +2);$   $(-2, 0);$   $(+4, -4);$   $(-4, +4);$
+
+c) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+
+1. $+5-9;$    $-2+6;$    $12-19+6;$     $-5-9-10;$  
+1. $1 + 2 + 3 - 3 - 2 - 1 - 0;$     $+1 - 1 + 1 - 1 + 1;$     $1 - 2 + 3 - 4 + 5 - 6$.
+
+
+
+### ESERCIZIO 6 - Problemi con i numeri interi I
+
+Scrivi le espressioni (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
+
+a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
+
+b) Una azienda negli ha realizzato negli anni i profitti riportati in figura:
 
 <img src="img\profitti.png" alt="profitti" style="zoom:25%;" />
 
@@ -111,9 +121,9 @@ c) Una azienda negli ha realizzato negli anni i profitti riportati in figura:
 2. Quale è stato il calo di profitto tra il 2018 ed il 2019, tra il 2019 ed il 2020 e tra il 2020 ed il 2021?
 3. Quale è stato l'anno peggiore e quale il migliore?
 
-d) Un palo è piantato nel fondo di un fiume. Tre metri di palo sono nel terreno, 10 metri sono nell'acqua e 2 metri sono nell'aria, fuori dall'acqua. Se consideriamo il livello dell'acqua come altezza zero, al di sotto altezze negative ed al di sopra altezze positive, indica a che altezza sono i due capi del palo. 
+c) Un palo è piantato nel fondo di un fiume. Tre metri di palo sono nel terreno, 10 metri sono nell'acqua e 2 metri sono nell'aria, fuori dall'acqua. Se consideriamo il livello dell'acqua come altezza zero, al di sotto altezze negative ed al di sopra altezze positive, indica a che altezza sono i due capi del palo. 
 
-e) In un campionato di calcio si ha la situazione di classifica seguente:
+d) In un campionato di calcio si ha la situazione di classifica seguente:
 
 $$
 \begin{array}{l|c}
@@ -129,7 +139,7 @@ $$
 $$
 Indicando con un numero positivo il distacco tra una squadra e le inseguitrici e con un numero negativo il distacco con le precedenti in classifica, scrivi i distacchi dell'Atalanta e della Juventus. Quale è il nuovo distacco dell'Atalanta dalla Juventus se la prima dimezza il distacco esistente? 
 
-f) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
+e) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
 1. vincita di 40 punti con il primo giocatore; perdita di 170 punti con il secondo giocatore; vincita di 10 punti con il terzo giocatore;
 2. vincita di 60 punti con ciascun giocatore.
 
@@ -171,6 +181,7 @@ a) Calcola il valore delle espressioni seguenti.
 2.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
 
 
+
 ### ESERCIZIO 7 - Espressioni con parentesi
 
 a) Calcola il valore delle espressioni seguenti. 
@@ -207,6 +218,8 @@ a) Per risolvere l'esercizio applica il metodo seguente.
 1. Calcola il valore dell'espressione del testo con GEOGEBRA;
 2. Scrivi la stessa espressione senza le parentesi che pensi siano inutili;
 3. Calcola il valore con GEOGEBRA della nuova espressione. Se è lo stesso di quella originale le parentesi sono "inutili", altrimenti no.
+
+
 
 ### ESERCIZIO 8 - Rappresentazione delle espressioni
 
@@ -274,6 +287,8 @@ g) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi a
 #### Esempio di SOLUZIONE
 
 a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
+
+
 
 ### ESERCIZIO 10 - Dalle parole alle espressioni II
 
@@ -356,6 +371,8 @@ a) Risolvi il punti a.1, a.2 e a.3 dell'esercizio con le istruzioni GEOGEBRA:
 
 b) Inserisci nella prima colonna della tabella GEOGEBRA (colonna "x") i dati del Giorno e nella seconda colonna (la "y") i gradi di temperatura. 
 
+
+
 ### ESERCIZIO 12 - Dai punti alle coppie di coordinate
 
 a) Scrivi le coppie di numeri interi  (coordinate) che individuano i punti in figura.
@@ -369,6 +386,8 @@ b) Scrivi il sottoinsieme delle coppie precedenti che hanno entrambi i numeri ne
 a) Risolvi il punto b) dell'esercizio precedente con l'istruzione GEOGEBRA: 
 
 $H=(-3,-3)$ &#9166; .
+
+
 
 ### ESERCIZIO 13 - Espressioni con le potenze
 
@@ -390,7 +409,7 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 7: Sostituzioni con i numeri interi
 
-### ESERCIZIO 14 - Sostituzioni I - Sostituzioni di una e di due lettere
+### ESERCIZIO 14 - Sostituzioni di una e di due lettere
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (i numeri con segno, nell'espressione sostituita, devono essere tra parentesi tonde).
 
@@ -413,7 +432,9 @@ Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcol
 1. $l = 3a\cdot b - 5a^2+3a-1$&#9166;
 2. $Sostituisci(l,\{a = -2, b = -8\})$&#9166;
 
-### ESERCIZIO 15 - Sostituzioni II - Sequenze e tabelle
+
+
+### ESERCIZIO 15 - Sequenze e tabelle
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alla lettera presente uno alla volta i numeri indicati tra le parentesi graffe e calcola il loro valore.
 
@@ -469,7 +490,7 @@ b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice
 
 <img src="img\Tabella-Sostituzioni.png" alt="Tabella-Sostituzioni" style="zoom:80%;" />
 
-### ESERCIZIO 16 - Sostituzioni III - Ricerca di sostituzioni
+### ESERCIZIO 16 - Ricerca di sostituzioni
 
 a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
@@ -482,6 +503,8 @@ b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostit
 1. $a+b=0;$
 2. $b=a+1;$
 3. $a=-b+2$.
+
+
 
 ### ESERCIZIO 17 - Dalle parole alle espressioni III
 
@@ -502,6 +525,8 @@ a) $3\cdot a - b;$
 b) $3 \cdot a - b + 4 \cdot b;$
 
 c) $(7 \cdot a + b^3) : (a + b);$
+
+
 
 ### ESERCIZIO 18 - Problemi con i numeri interi II
 
@@ -544,6 +569,8 @@ b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle 
 
 1. $(-6)^9:(-6)^3, (-2)^2\cdot(-2)\cdot(-2)^4,[(-6)^3]^2:(6)^5;$
 2. $[(-5)^4\cdot(4)^4]\cdot(-20)^3, [(2)^3\cdot(5)^3]^2:(-10)^3$.
+
+
 
 ### ESERCIZIO 20 - Proprietà delle potenze
 
