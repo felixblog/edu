@@ -5,7 +5,34 @@
 
 ## UNITA' 1: Concetto ed uso delle Frazioni
 
-### ESERCIZIO 1 - Il Concetto di Frazione e di Divisione
+I numeri interi non bastano per indicare tutte le quantità che ci si presentano nelle situazioni della vita quotidiana, neanche nelle più comuni: se diciamo che ad uno sportello c'è una fila di tre quarti d'ora, o di un'ora ed un quarto, stiamo misurando il tempo con delle frazioni, non con dei numeri interi.
+Le frazioni indicano una quantità utilizzando una parte (frazione) di una unità di riferimento, nel caso precedente l'ora.
+La frazione si costruisce prendendo la quantità di riferimento (l'ora), dividendola in parti uguali (quattro) e prendendo, di questa nuova quantità, un certo numero di multipli (tre). Si ottiene così la frazione di  "tre quarti" che si scrive $\dfrac{3}{4}$.
+
+"Tre" è un numerale cardinale e "quarti" un numerale ordinale, chiamati rispettivamente "numeratore" (numero superiore) e "denominatore" (numero inferiore).
+Se cambia l'unità di riferimento cambia anche misura della quantità e magari tale misura diventa un numero intero, come nell'esempio seguente. 
+La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2.
+
+1. Quante uova ha mangiato Pierino? Risposta: 2 (numero intero).te 
+2. Quante scatole di uova ha mangiato Pierino? Risposta: mezza (frazione).
+
+Le risposte sono entrambe corrette e la quantità di uova mangiate di cui si parla è la stessa ma viene indicata in modo diverso: nella prima domanda l'unità di riferimento è l'uovo, nel secondo è la scatola da 4.
+Per costruire la risposta nel secondo caso (frazione) seguiamo il procedimento di cambiare l'unità di riferimento contenuta nella domanda (passiamo dalla scatola all'uovo, che è più piccolo della scatola), contare le unità mangiate ed accoppiarle al totale della scatola: 2/4 che rapidamente diventa 1/2.
+
+Il secondo uso delle frazioni, dopo la misura di quantità, è la rappresentazione di una divisione. Una frazione è anche una divisione che, se eseguita, restituisce un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$.
+
+Il terzo uso delle frazioni è come moltiplicatore di un'altra quantità. Vediamo un esempio.
+Una scatola di uova costa 2 euro. Supponendo che le uova siano uguali, quanto costano le uova che ha mangiato Pierino?
+ragionando a scatole, la metà di 2 euro, cioè $\dfrac{1}{2} \cdot 2 \; \mbox{\euro} \longrightarrow 1 \; \mbox{\euro}$.
+Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali, e comporta il prodotto della frazione per un numero, come negli esempi seguenti.
+
+- Quanti minuti ci sono in 3/4 di ora?
+- Quanti centesimi sono mezzo euro?
+- Quanto pesa un terzo di torta da 750 grammi?
+
+Per trovare il risultato degli esempi si divide la quantità intera per l'risolvere 
+
+### ESERCIZIO 1 - Il Concetto di Frazione
 
 a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
 
@@ -77,7 +104,7 @@ Come cambiano le quantità, in rapporto alle persone, se le persone sono 3? Qual
 
 ### ESERCIZIO 3 - Ordinamento delle frazioni
 
-Scrivi in ordine crescente le seguenti frazioni.  
+Scrivi in ordine crescente le seguenti frazioni, dopo aver trovato, dividendo, il numero decimale corrispondente.
 
 a) $\dfrac{3}{2},\dfrac{4}{8},\dfrac{8}{3},\dfrac{7}{7},\dfrac{15}{4};$   
 
