@@ -167,7 +167,7 @@ Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il 
 
 
 
-### ESERCIZIO 8 - Dalle espressioni ai diagrammi ad albero
+### ESERCIZIO 7 - Dalle espressioni ai diagrammi ad albero
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
 
 a) $4 + 6·9;$
@@ -190,7 +190,7 @@ d)
 
 
 
-### ESERCIZIO 9 - Dai diagrammi ad albero alle espressioni
+### ESERCIZIO 8 - Dai diagrammi ad albero alle espressioni
 Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero: 
 
 a) 
@@ -211,7 +211,7 @@ c)
 
 ## UNITA' 5: Le sostituzioni dei numeri alle lettere
 
-### ESERCIZIO 7 - Sostituzioni
+### ESERCIZIO 9 - Sostituzioni
 
 Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 a) $5 \cdot x, \enspace \{x = 50\};$  

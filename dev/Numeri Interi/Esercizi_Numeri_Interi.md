@@ -48,9 +48,9 @@ Il **valore assoluto** di un numero intero è un secondo numero corrispondente a
 
 Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
 
-La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri e precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "valore di verità" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} F $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow T$ , dove $T$ sta per "True", cioè vero. Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow T$ . Osserviamo che $3 \lt 3 \longrightarrow F$ .
+La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri e precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "valore di verità" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow True$ . Osserviamo che $3 \lt 3 \longrightarrow False$ .
 
-I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow T$  e  $3 \le 3 \longrightarrow T$ .
+I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow True$  e  $3 \le 3 \longrightarrow True$ .
 
 
 
@@ -77,7 +77,7 @@ Parlando di numeri interi, ricorda che i simboli "$+$" e "$-$" non indicano oper
 
 #### ESEMPIO
 
-L'espressione $3+2$ contiene due numeri, $3$ e $-2$ in sequenza, ed una operazione chiamata somma algebrica che sta tra il $3$ ed il "$+$" nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{|}}+2$ , come negli esempi seguenti:
+L'espressione $3+2$ contiene due numeri, $3$ e $+2$ in sequenza, uno dopo l'altro; in mezzo a loro vi è una operazione chiamata somma algebrica (a destra del $3$ ed a sinistra del "$+$") nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{|}}+2$ , come negli esempi seguenti:
 
 - $-123\overset{\downarrow}{\phantom{|}}-23$;
 - $1\overset{\downarrow}{\phantom{|}}-2 \overset{\downarrow}{\phantom{|}} + 3 \overset{\downarrow}{\phantom{|}} -4$.
@@ -113,7 +113,7 @@ Scrivi le espressioni (**NON il solo risultato!**) che, utilizzando i dati conte
 
 a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
 
-b) Una azienda negli ha realizzato negli anni i profitti riportati in figura:
+b) Una azienda ha realizzato negli anni i profitti riportati in figura:
 
 <img src="img\profitti.png" alt="profitti" style="zoom:25%;" />
 
@@ -149,7 +149,7 @@ Quanti punti ho alla fine delle partite?
 
 ## UNITA' 4: Prodotto e quoziente tra numeri interi
 
-### ESERCIZIO 5 - Prodotti e quozienti
+### ESERCIZIO 7 - Prodotti e quozienti
 
 a) Calcola i seguenti prodotti e quozienti (quanti numeri ed operazioni contiene ciascuna espressione?):
 
@@ -172,7 +172,7 @@ c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e s
 
 ## UNITA' 5: Espressioni tra numeri interi
 
-### ESERCIZIO 6 - Espressioni con le quattro operazioni
+### ESERCIZIO 8 - Espressioni con le quattro operazioni
 
 a) Calcola il valore delle espressioni seguenti. 
 
@@ -182,7 +182,7 @@ a) Calcola il valore delle espressioni seguenti.
 
 
 
-### ESERCIZIO 7 - Espressioni con parentesi
+### ESERCIZIO 9 - Espressioni con parentesi
 
 a) Calcola il valore delle espressioni seguenti. 
 
@@ -221,7 +221,7 @@ a) Per risolvere l'esercizio applica il metodo seguente.
 
 
 
-### ESERCIZIO 8 - Rappresentazione delle espressioni
+### ESERCIZIO 10 - Rappresentazione delle espressioni
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
@@ -265,7 +265,7 @@ b.2)
 
 ![Albero](img\Alberi-ES-7b-2.png)
 
-### ESERCIZIO 9 - Dalle parole alle espressioni I
+### ESERCIZIO 11 - Dalle parole alle espressioni I
 
 Traduci in espressioni le seguenti frasi e calcolane il valore.  
 
@@ -290,35 +290,19 @@ a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
 
 
 
-### ESERCIZIO 10 - Dalle parole alle espressioni II
-
-Traduci in espressioni le seguenti frasi indicando con la lettera ‘$x$’ il numero generico citato; calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
-
-a) Aggiungi ad un numero il suo triplo [$x=1$];
-
-b) Sottrai da un numero la sua metà [$x=6$];
-
-c) Moltiplica un numero per 4 e sottrai la sua terza parte sommata a 22 [$x=9$];
-
-d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e somma al risultato 12 [$x=-9$];
-
-e) Somma alla metà di un numero la sua quinta parte e sottrai il numero stesso diminuito di 6 [$x=-20$];
-
-f) Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato [$x=0$];
-
-g) Scrivi due numeri consecutivi [$x=3$]. 
-
-#### Esempio di SOLUZIONE
-
-a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
-
-
-
 ## UNITA' 6: Coordinate di punti nel piano
 
-### ESERCIZIO 11 - Posizione di coppie di numeri su un piano
+Disegnando due rette perpendicolari in un piano, su ciascuna delle quali indichiamo la posizione dei numeri interi a partire dallo 0 con una unità di misura, come fatto nell'esercizio numero 1, è possibile associare ad ogni punto del piano una coppia di numeri e viceversa ad ogni coppia di numeri un punto, in modo da indicare ogni posizione (punto) nel piano con due numeri dette "coordinate del punto". 
 
-a) Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) . La posizione del punto si individua con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo spostamento sarà verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti disegna il punto.
+Dati due numeri, ad esempio $(3,5)$, la posizione del punto associato si individua con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo spostamento sarà verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti si disegna il punto.
+
+Viceversa indicato un punto, la prima coordinata (detta "ascissa") si trova prendendo la distanza del punto dalla retta verticale (sulla perpendicolare), la seconda ("ordinata"), prendendo la distanza (sempre sulla perpendicolare) dalla retta orizzontale.
+
+
+
+### ESERCIZIO 12 - Posizione di coppie di numeri su un piano
+
+a) Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) .
 
 1. $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
 2. $T = \{(-1;0), (1;0), (0;1)\};$
@@ -373,7 +357,7 @@ b) Inserisci nella prima colonna della tabella GEOGEBRA (colonna "x") i dati del
 
 
 
-### ESERCIZIO 12 - Dai punti alle coppie di coordinate
+### ESERCIZIO 13 - Dai punti alle coppie di coordinate
 
 a) Scrivi le coppie di numeri interi  (coordinate) che individuano i punti in figura.
 
@@ -389,7 +373,7 @@ $H=(-3,-3)$ &#9166; .
 
 
 
-### ESERCIZIO 13 - Espressioni con le potenze
+### ESERCIZIO 14 - Espressioni con le potenze
 
 a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -409,7 +393,7 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 7: Sostituzioni con i numeri interi
 
-### ESERCIZIO 14 - Sostituzioni di una e di due lettere
+### ESERCIZIO 15 - Sostituzioni di una e di due lettere
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (i numeri con segno, nell'espressione sostituita, devono essere tra parentesi tonde).
 
@@ -434,7 +418,7 @@ Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcol
 
 
 
-### ESERCIZIO 15 - Sequenze e tabelle
+### ESERCIZIO 16 - Sequenze e tabelle
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alla lettera presente uno alla volta i numeri indicati tra le parentesi graffe e calcola il loro valore.
 
@@ -490,7 +474,33 @@ b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice
 
 <img src="img\Tabella-Sostituzioni.png" alt="Tabella-Sostituzioni" style="zoom:80%;" />
 
-### ESERCIZIO 16 - Ricerca di sostituzioni
+
+
+### ESERCIZIO 17 - Dalle parole alle espressioni II
+
+Traduci in espressioni le seguenti frasi indicando con la lettera ‘$x$’ il numero generico citato; calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
+
+a) Aggiungi ad un numero il suo triplo [$x=1$];
+
+b) Sottrai da un numero la sua metà [$x=6$];
+
+c) Moltiplica un numero per 4 e sottrai la sua terza parte sommata a 22 [$x=9$];
+
+d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e somma al risultato 12 [$x=-9$];
+
+e) Somma alla metà di un numero la sua quinta parte e sottrai il numero stesso diminuito di 6 [$x=-20$];
+
+f) Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato [$x=0$];
+
+g) Scrivi due numeri consecutivi [$x=3$]. 
+
+#### Esempio di SOLUZIONE
+
+a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
+
+
+
+### ESERCIZIO 18 - Ricerca di sostituzioni
 
 a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
@@ -506,7 +516,7 @@ b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostit
 
 
 
-### ESERCIZIO 17 - Dalle parole alle espressioni III
+### ESERCIZIO 19 - Dalle parole alle espressioni III
 
 Essendo $a$ e $b$ due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni sostituendo alle lettere i numeri assegnati.
 
@@ -528,7 +538,7 @@ c) $(7 \cdot a + b^3) : (a + b);$
 
 
 
-### ESERCIZIO 18 - Problemi con i numeri interi II
+### ESERCIZIO 20 - Problemi con i numeri interi II
 
 a) Un investitore ha comprato il lunedì 800 azioni ad un prezzo di 19 euro ciascuna. Durante la settimana c'è stato un giorno un cui il prezzo è salito di 2 euro ma durante tutti gli altri è sceso di un euro. Quale è il valore delle azioni il venerdì? Di quanto è variato il prezzo dall'inizio?
 
@@ -558,7 +568,7 @@ $$
 
 ## UNITA' 8: Potenze con i numeri interi
 
-### ESERCIZIO 19 - Calcolo di potenze
+### ESERCIZIO 21 - Calcolo di potenze
 
 a) Calcolare le seguenti potenze di numeri interi.
 
@@ -572,7 +582,7 @@ b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle 
 
 
 
-### ESERCIZIO 20 - Proprietà delle potenze
+### ESERCIZIO 22 - Proprietà delle potenze
 
 Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.  
 
