@@ -296,7 +296,9 @@ Disegnando due rette perpendicolari in un piano, su ciascuna delle quali indichi
 
 Dati due numeri, ad esempio $(3,5)$, la posizione del punto associato si individua con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo spostamento sarà verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti si disegna il punto.
 
-Viceversa indicato un punto, la prima coordinata (detta "ascissa") si trova prendendo la distanza del punto dalla retta verticale (sulla perpendicolare), la seconda ("ordinata"), prendendo la distanza (sempre sulla perpendicolare) dalla retta orizzontale.
+Viceversa indicato un punto, la prima coordinata (detta "ascissa") si trova prendendo la distanza dalla retta verticale (4 unità nella figura), la seconda ("ordinata"), prendendo la distanza dalla retta orizzontale (2 unità nella figura)..
+
+<img src="img\coordinate.png" alt="coordinate" style="zoom:15%;" />
 
 
 
