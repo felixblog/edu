@@ -417,7 +417,7 @@ b) TERZA MODALITA': Costruisci una tabella con le istruzioni riportate di seguit
 
 4. Nella tabella compaiono i numeri da sostituire ed i valori dell'espressione.
 
-<img src="img/Tabella-Sostituzioni-rat.png" alt="Tabella-Sostituzioni" style="zoom:80%;" />
+<img src="img/Tabella-sostituzioni-rat.png" alt="Tabella-Sostituzioni" style="zoom:80%;" />
 
 
 
