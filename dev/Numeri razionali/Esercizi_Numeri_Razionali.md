@@ -397,11 +397,27 @@ c) Disegna su di un piano cartesiano cinque punti; considera come coordinate dei
 
 #### Laboratorio GEOGEBRA
 
-Inserisci le coppie di punti nella calcolatrice GRAFICI.
+a) PRIMA MODALITA': inserisci le coppie di punti nella calcolatrice GRAFICI.
 
 <img src="img\Sostituzioni-II.png" alt="Sostituzioni-II" style="zoom:15%;" />
 
+b) SECONDA MODALITA': Inserisci l'istruzione seguente (calcolatrice **GRAFICI**):
 
+​	$Compatta((a, a + \dfrac{1}{2}),a,\{0,1,-1,2,-2\})$&#9166;
+
+b) TERZA MODALITA': Costruisci una tabella con le istruzioni riportate di seguito (calcolatrice **CAS**):
+
+1. Inserisci l'espressione letterale $a + \dfrac{1}{2}$, dagli un nome e la lettera da sostituire con l'istruzione seguente:
+
+   $f(a) := a + \dfrac{1}{2}$&#9166;
+
+2. Seleziona "Tabella" e nella prima colonna inserisci i valori $0, 1, -1, 2, -2$;
+
+3. Seleziona "Algebra" e dal menu di inserimento seleziona la voce "Tabella di Valori";
+
+4. Nella tabella compaiono i numeri da sostituire ed i valori dell'espressione.
+
+<img src="img/Tabella-Sostituzioni-rat.png" alt="Tabella-Sostituzioni" style="zoom:80%;" />
 
 
 

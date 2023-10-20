@@ -395,14 +395,28 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 7: Sostituzioni con i numeri interi
 
+In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$. Le operazioni in espressioni non possono essere eseguite (non sono presenti numeri....) fino a quando alle lettere non si sostituiscono dei numeri, ossia non si operi una "sostituzione".
+
+La sostituzione è una operazione che consiste nella sostituzione della o delle lettere con dei numeri, scritti in parentesi graffe, come nell'esempio seguente:
+
+ $2 \cdot c + 1, \{c = -4\} \longrightarrow 2 \cdot (-4) + 1 \longrightarrow -7$.
+
+La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, con il numero racchiuso tra parentesi, ovunque la lettera compare.
+
+ $2 \cdot x + x^2, \{x = 2\} \longrightarrow 2 \cdot (2) + (2)^2 \longrightarrow 4+4 \longrightarrow 8$.
+
+ $2 \cdot x + y^2, \{x = -2, y = -3\} \longrightarrow 2 \cdot (-2) + (-3)^2 \longrightarrow -4+9 \longrightarrow 5$.
+
+.
+
 ### ESERCIZIO 15 - Sostituzioni di una e di due lettere
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (i numeri con segno, nell'espressione sostituita, devono essere tra parentesi tonde).
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 
 1. $x^2,\ \{x=2\};$     $x^2,\ \{x=-2\};$     $-x^2,\ \{x=2\};$     $-x^2,\ \{x=-2\};$
 2. $-2x + x^2 + 1,\ \{x=2\}$.
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore (ogni sostituzione riguarda due lettere).
+b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore (ogni sostituzione riguarda due lettere).
 
 1. $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ \{a=2,\ b=-2\}$  
 2. $3ab-5a^{2}+3a-1,\ \{a=-2,\ b=-8\}$  
