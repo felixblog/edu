@@ -324,22 +324,40 @@ g) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quant
 
 ## UNITA' 5: Sostituzioni
 
+Come già fatto per i numeri interi, anche con le frazioni una  ***sostituzione*** consiste nel rimpiazzare una o più lettere in una espressione letterale con dei numeri razionali racchiusi tra parentesi tonde. 
+
+Oltre che nelle espressioni è possibile fare delle sostituzioni anche nelle relazioni tra espressioni letterali, come negli esempi seguenti.
+
+1. $x + 1 = 5, \; \{x = 4\} \; \longrightarrow \; (4) + 1 = 5 \; \longrightarrow \; 5 = 5 \longrightarrow \; True$;
+2. $x + 1 > 0, \; \{x = -2\} \; \longrightarrow \; (-2) + 1 > 0 \; \longrightarrow \; -1 > 0 \longrightarrow \; False$.
+
+Il risultato finale non è un numero ma il valore di verità della uguaglianza o disuguaglianza.
+
+
+
 ### ESERCIZIO 15 - Sostituzioni (I)
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (la frazione deve essere sostituita tra parentesi tonda).
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
 
 1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
 2. $-2x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
 3. $(1 - y)y + 3,\ \{y=-\dfrac{5}{2}\}$;
-4. $(1 - y)y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y)y + 3,\ \{y=\dfrac{4}{2}\}$;  
+4. $(1 - y)y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y)y + 3,\ \{y=\dfrac{4}{2}\}$.
+
+b) Calcola il valore di verità delle relazioni seguenti dopo aver sostituito alle lettere i numeri come indicato nelle parentesi graffe.
+
+1. $x^2 = 1,\ \{x= 1\}$;     $x^2 = 1,\ \{x=-1\}$;     $-x^2 > -1,\ \{x=\dfrac{0}{2}\}$; 
+2. $x \le 1,\ \{x = -\dfrac{1}{2}\}$;     $x + 1 = 2 \cdot x,\ \{x=-1\}$;     $x + 1 = 2 \cdot x,\ \{x=1\}$. 
 
 #### Laboratorio GEOGEBRA
 
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $Sostituisci(-2 x+x^2+1,{x = \dfrac{2}{5}})$&#9166;
+1. $Sostituisci(-2 x+x^2+1 , \; {x = \dfrac{2}{5}})$&#9166;
 
-2. $Sostituisci((1 - y) \cdot y + 3,{y = -\dfrac{2}{5}})$
+2. $Sostituisci((1 - y) \cdot y + 3, \;  {y = -\dfrac{2}{5}})$&#9166;
+
+3. $Sostituisci(x +1 = 2 \cdot x, \; {x = -1})$
 
 
 

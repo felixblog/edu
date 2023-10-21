@@ -395,13 +395,13 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 7: Sostituzioni con i numeri interi
 
-In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$. Le operazioni in espressioni non possono essere eseguite (non sono presenti numeri....) fino a quando alle lettere non si sostituiscono dei numeri, ossia non si operi una "sostituzione".
+In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$, dette ***espressioni letterali***. Le operazioni nelle espressioni letterali  non possono essere eseguite tutte fino a quando alle lettere non si sostituiscono dei numeri, ossia non si operi una "***sostituzione***".
 
-La sostituzione è una operazione che consiste nella sostituzione della o delle lettere con dei numeri, scritti in parentesi graffe, come nell'esempio seguente:
+La sostituzione è una operazione che consiste nel rimpiazzamento delle lettere con dei numeri, come nell'esempio seguente, dove cosa sostituire è indicato in parentesi graffe:
 
  $2 \cdot c + 1, \{c = -4\} \longrightarrow 2 \cdot (-4) + 1 \longrightarrow -7$.
 
-La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, con il numero racchiuso tra parentesi, ovunque la lettera compare.
+La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, con il numero racchiuso tra parentesi tonde, ovunque la lettera compare.
 
  $2 \cdot x + x^2, \{x = 2\} \longrightarrow 2 \cdot (2) + (2)^2 \longrightarrow 4+4 \longrightarrow 8$.
 
@@ -434,7 +434,7 @@ Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcol
 
 
 
-### ESERCIZIO 16 - Sequenze e tabelle
+### ESERCIZIO 16 - Sequenze di sostituzioni e tabelle
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alla lettera presente uno alla volta i numeri indicati tra le parentesi graffe e calcola il loro valore.
 
