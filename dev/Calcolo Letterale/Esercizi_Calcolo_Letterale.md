@@ -5,9 +5,9 @@
 
 In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$, dette ***espressioni letterali***. 
 
-Consideriamo ad esempio un triangolo che ha una base lunga $a$ metri ed una altezza lunga $b$ metri; l'area del triangolo è data da $\dfrac{a \cdot b}{2}$, che è una espressione letterale, e che ci dice quali operazioni dobbiamo fare con la base e l'altezza per calcolare l'area.
+Consideriamo ad esempio i triangoli; si sa che per tutti i triangoli, qualunque siano le lunghezze delle loro basi e delle loro altezze, le aree si calcolano moltiplicando base per altezza e dividendo per 2. Questa regola la possiamo scrivere indicando con $a$ la lunghezza (in metri) della base di un triangolo qualsiasi, con $b$ la sua altezza e con $\dfrac{a \cdot b}{2}$, che è una espressione letterale, l'area secondo la regola scritta.
 
-Il calcolo non può essere effettuato prima di aver sostituito alle lettere i numeri della base e della altezza di un triangolo specifico ma l'espressione ci dà comunque l'informazione delle operazioni da fare.
+Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice ci dice quali operazioni dobbiamo fare.
 
 
 
