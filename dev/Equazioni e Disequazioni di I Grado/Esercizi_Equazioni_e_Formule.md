@@ -165,7 +165,7 @@ Di seguito sono presentate alcune formule famose provenienti da discipline varie
 2. Interesse semplice: $I = C\cdotp i\cdotp t$;      Montante: $M = C + I$;
 3. Sconto: $S = P_l - P_s$  ($P_l$: Prezzo di listino, $P_s$: Prezzo scontato);     Percentuale di Sconto: $s = \dfrac{S}{P_l}$;
 4. Profitto (Utile): $U = R - C$  ($R$: Ricavi, $C$: Costi);      Utile (in percentuale) sulle vendite: $m = \dfrac{U}{R}$:
-5. Mark-Up (Assoluto): $M = P_{v} - C$  ($P_v$: Prezzo di vendita, $C$: Costo);     Mark-Up (percentuale) $q$: $P_v = C \cdotp (1 + q)$.
+5. Mark-Up (assoluto): $M = P_{v} - C$  ($P_v$: Prezzo di vendita, $C$: Costo);     Mark-Up (percentuale) $q$: $P_v = C \cdotp (1 + q)$.
 6. Velocità: $v = \dfrac{s}{t}$.
 
 a) Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.

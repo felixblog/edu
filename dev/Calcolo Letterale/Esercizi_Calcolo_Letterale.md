@@ -3,6 +3,14 @@
 
 ## UNITA' 1: Uso delle lettere nelle espressioni
 
+In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$, dette ***espressioni letterali***. 
+
+Consideriamo ad esempio un triangolo che ha una base lunga $a$ metri ed una altezza lunga $b$ metri; l'area del triangolo è data da $\dfrac{a \cdot b}{2}$, che è una espressione letterale, e che ci dice quali operazioni dobbiamo fare con la base e l'altezza per calcolare l'area.
+
+Il calcolo non può essere effettuato prima di aver sostituito alle lettere i numeri della base e della altezza di un triangolo specifico ma l'espressione ci dà comunque l'informazione delle operazioni da fare.
+
+
+
 ### ESERCIZIO 1 - Dalle parole alle espressioni (I)
 
 a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una o più lettere per indicare le quantità sconosciute.
@@ -49,9 +57,9 @@ In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la le
 
 a) $-2 \cdot 4 + (3 + 2 \cdot 4)$;  Sostituisci il numero intero $4$ con $a$;
 
-b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$;  Sostituisci il numero intero $3$ con $x$;
+b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$;  Sostituisci il numero intero $3$ con $x$ e $-3$ con $-x$;
 
-c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$;  Sostituisci il numero intero $-3$ con $y$;
+c) $2 + 7 \cdot 3^2 -8 \cdot 5 - 3 \cdot (1 + 2 \cdot 3)^2$;  Sostituisci il numero intero $-3$ con $y$ e $3$ con $-y$;
 
 d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$;  Sostituisci la frazione $-\dfrac{5}{3}$ con $a$.
 
@@ -81,15 +89,29 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 ## UNITA' 2: I Monomi
 
-Un monomio è un prodotto di numeri e lettere. Un monomio è in forma normale se il prodotto è costituito da un numero seguito dalle lettere in ordine alfabetico.
+Un monomio è un prodotto di numeri e lettere. Un monomio è in forma normale se il primo fattore è un numero e gli altri sono lettere in ordine alfabetico.
 
-Due monomi in forma normale si dicono simili se hanno la stessa parte letterale. La somma di più monomi simili è un monomio che ha la parte letterale dei monomi e la parte numerica pari alla somma delle parti numeriche, come illustrano gli esempi seguenti.
+#### ESEMPIO
 
-$-3x + 2x \longrightarrow -x;$      $5ax^2 + 2ax^2 -10ax^2 \longrightarrow -3ax^2;$       $-3x + 2x^2 \longrightarrow -3x + 2x^2;$ Non è un monomio!
+$ab\dfrac{1}{2}a \longrightarrow \text{Forma non Normale}$;
+
+$\dfrac{1}{2}aab \longrightarrow \dfrac{1}{2}a^2b \longrightarrow \text{Forma Normale}$.
+
+Le operazioni con i monomi sono la somma algebrica, la moltiplicazione, divisione e potenza. 
+
+La somma di due monomi non è un monomio a meno che i due monomi non siano simili, ossia abbiano la stessa parte letterale. La somma di più monomi simili è un monomio che ha come parte letterale quella degli addendi e come parte numerica la somma delle parti numeriche degli addendi, come illustrano gli esempi seguenti.
+
+$-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$; 
+
+$5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;       
+
+$-3x + 2x^2 \longrightarrow -3x + 2x^2 \longrightarrow \text{Non è un monomio!}$ .
 
 Il prodotto di due o più monomi è sempre un monomio.
 
-$-3x \cdot 2x \longrightarrow -6x^2;$      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6;$
+$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$.
+
+
 
 ### ESERCIZIO 5 - Forma normale dei monomi
 
@@ -225,9 +247,15 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,
 
 
 
-## UNITA' 3: Rapporti tra monomi e frazioni algebriche 
+## UNITA' 3: Rapporti tra monomi e frazioni algebriche
 
-### ESERCIZIO 10 - Rapporti tra monomi e frazioni algebriche
+Il rapporto tra due monomi non è sempre un monomio. Lo è solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi non sono più presenti lettere al denominatore.
+
+Se ciò non accade il rapporto tra i due monomi di dice ***frazione algebrica***.
+
+
+
+### ESERCIZIO 10 - Rapporti tra monomi e semplificazioni
 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
 
@@ -244,6 +272,8 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 
 ## UNITA' 4: Polinomi 
+
+La somma di più monomi non tutti simili si dice polinomio. Un polinomio è in forma normale se in esso non sono presenti monomi simili (sono già stati sommati tra di loro!).
 
 ### ESERCIZIO 11 - Polinomi in forma normale
 
