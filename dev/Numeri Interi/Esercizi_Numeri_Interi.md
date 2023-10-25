@@ -306,15 +306,15 @@ Viceversa indicato un punto, la prima coordinata (detta "ascissa") si trova pren
 
 a) Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) .
 
-1. $Q = \{(1;1), (-1;1), (-1;-1), (1;-1)\};$
-2. $T = \{(-1;0), (1;0), (0;1)\};$
-3. $R = \{(-3;-1), (-1; -1), (0;-1), (1;-1), (2;-1), (3;-1)\}$.
+1. $Q = \{(1,1), (-1,1), (-1,-1), (1,-1)\};$
+2. $T = \{(-1,0), (1,0), (0,1)\};$
+3. $R = \{(-3,-1), (-1, -1), (0,-1), (1,-1), (2,-1), (3,-1)\}$.
 
 #### SOLUZIONI
 
 <img src="img\Es-11.a.png" alt="Es-11.a" style="zoom:10%;" />   <img src="img\Es-11.b.png" alt="Es-11.b" style="zoom:10%;" />     <img src="img\Es-11.c.png" alt="Es-11.c" style="zoom:10%;" />
 
-b) La tabella seguente riporta le temperature misurate in una città alle otto del mattino nei primi 5 giorni del mese di Dicembre del 2022.
+b) La tabella seguente riporta le temperature misurate in una città alle otto del mattino nei primi 10 giorni del mese di Dicembre del 2022.
 $$
 \begin{array}{c|r}
 \text{Giorno} & \text{Gradi} \\

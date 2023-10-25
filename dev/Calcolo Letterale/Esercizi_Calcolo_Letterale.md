@@ -5,9 +5,11 @@
 
 In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$, dette ***espressioni letterali***. 
 
-Consideriamo ad esempio i triangoli; si sa che per tutti i triangoli, qualunque siano le lunghezze delle loro basi e delle loro altezze, le aree si calcolano moltiplicando base per altezza e dividendo per 2. Questa regola la possiamo scrivere indicando con $a$ la lunghezza (in metri) della base di un triangolo qualsiasi, con $b$ la sua altezza e con $\dfrac{a \cdot b}{2}$, che è una espressione letterale, l'area secondo la regola scritta.
+A cosa servono? Consideriamo ad esempio i triangoli; si sa che se conosciamo la base e l'altezza di un triangolo possiamo calcolare la sua area moltiplicando base per altezza e dividendo per 2, e questo vale per tutti i triangoli. Questa regola la possiamo scrivere indicando con $a$ la lunghezza (in metri) della base di un triangolo qualsiasi, con $b$ la sua altezza e con $\dfrac{a \cdot b}{2}$, che è una espressione letterale, l'area secondo la regola scritta.
 
-Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice ci dice quali operazioni dobbiamo fare.
+Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
+
+Le lettere servono quindi a specificare come calcolare certe quantità conoscendone altre, da cui le prime dipendono.  
 
 
 
@@ -89,17 +91,27 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 ## UNITA' 2: I Monomi
 
-Un monomio è un prodotto di numeri e lettere. Un monomio è in forma normale se il primo fattore è un numero e gli altri sono lettere in ordine alfabetico.
+Abbiamo già detto che una espressione letterale non può essere calcolata, cioè non da come risultato un numero, finché a tutte le lettere non sostituiamo dei numeri. Però, vediamo con un esempio, anche con le sole lettere alcune considerazioni si possono fare.
 
 #### ESEMPIO
 
-$ab\dfrac{1}{2}a \longrightarrow \text{Forma non Normale}$;
+Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, una somma di $s$ euro. Se vinco due volte, in totale prenderò $s + s$ euro, che non so quanto fa, ma è sicuramente uguale a $2 \cdot s$ euro. Se vinco ancora una volta, in totale avrò vinto $2 \cdot s + s$ euro che, qualunque sia la somma settimanale $s$, è uguale a $3 \cdot s$ euro, che possiamo scrivere $3s$ euro.
 
-$\dfrac{1}{2}aab \longrightarrow \dfrac{1}{2}a^2b \longrightarrow \text{Forma Normale}$.
+Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio.
 
-Le operazioni con i monomi sono la somma algebrica, la moltiplicazione, divisione e potenza. 
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri sono lettere, in ordine alfabetico.
 
-La somma di due monomi non è un monomio a meno che i due monomi non siano simili, ossia abbiano la stessa parte letterale. La somma di più monomi simili è un monomio che ha come parte letterale quella degli addendi e come parte numerica la somma delle parti numeriche degli addendi, come illustrano gli esempi seguenti.
+#### ESEMPIO
+
+$\dfrac{ab}{2} \longrightarrow \text{Forma non Normale}$;
+
+$\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab \longrightarrow \text{Forma Normale}$.
+
+$ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2 \longrightarrow \text{Forma Normale}$.
+
+Una espressione letterale è fatta di somme, prodotti e rapporti di monomi: $a + b$,  $2 \cdot s + 3 \cdot s + 1$ etc. 
+
+Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere (e lo stesso numero di ciascuna lettera), ossia, si dice, sono ***simili***.  La somma di più monomi simili è un monomio che ha come parte letterale quella degli addendi e come parte numerica la somma delle parti numeriche degli addendi, come illustrano gli esempi seguenti.
 
 $-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$; 
 

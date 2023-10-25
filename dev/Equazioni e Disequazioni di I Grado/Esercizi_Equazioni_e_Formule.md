@@ -3,35 +3,40 @@
 
 ## UNITA' 1: Concetto di equazione e sue soluzioni
 
+Capita frequentemente di risolvere problemi nei quali si cerca un numero sapendo che deve soddisfare una certa condizione. Vediamo un esempio: "Ho comprato un paio di pantaloni ai saldi sui quali c'era il $30 \%$ di sconto ed ho risparmiato $30$ euro. Quanto li ho pagati?"
+
+Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato ($30$ euro) ma non gli elementi che lo determinano, nel caso specifico, il risparmio sul prezzo di listino. Se indichiamo la somma risparmiata con la lettera $r$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot r = 30$.
+
+Il nostro problema si risolve quindi col trovare un numero che sostituito alla lettera $r$ soddisfi (ossia renda vera) la condizione (che dipende da $r$), e questo numero è $100$, infatti $30 \% \cdot 100 = 30$. La condizione si definisce ***equazione*** ed il numero $100$ è la ***soluzione*** dell'equazione perché la sostituzione di $r$ con $100$ rende l'equazione una uguaglianza vera.
+
+In generale una ***equazione*** (di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera.
+
+ 
+
 ### ESERCIZIO 1 - Verifica di soluzioni
 
-Controlla se il numero dato è soluzione della equazione.
+a) Controlla se il numero dato è soluzione delle seguenti equazioni.
 
-a) $6,\enspace x + 12 = 28;$  
+1. $6,\enspace x + 12 = 28$;
+2. $110,\enspace x - 50 = 60;$  
+3. $-8,\enspace 2b + 3 = -15;$ 
+4. $-2,\enspace 5t - 3 = -16$.
 
-b) $110,\enspace x - 50 = 60;$  
+b) Controlla se il numero dato è soluzione delle seguenti equazioni.
 
-c) $-8,\enspace 2b + 3 = -15;$ 
-
-d) $-2,\enspace 5t - 3 = -16;$    
-
-e) $5,\enspace 0.5x = 2.9$ 
-
-f) $6,\enspace 33 - \dfrac{x}{2} = 30$  
-
-g) $5,\enspace 0.5x = 2.9$
-
-h) $1,\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$
-
-i) $\dfrac{7}{3},\enspace -4 = a + \dfrac{5}{3}$
+1. $\{x=5\},\enspace 0.5x = 2.9$;
+2. $\{x=6\},\enspace 33 - \dfrac{x}{2} = 30$;
+3. $\{x=5\},\enspace 0.5x = 2.9$;
+4. $\{a=1\},\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$;
+5. $\{a=\dfrac{7}{3}\},\enspace -4 = a + \dfrac{5}{3}$
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti a), b), c) dell'esercizio con il comando GEOGEBRA seguente:
+a) Risolvi i punti dell'esercizio con il comando GEOGEBRA seguente:
 
 1. $Sostituisci(x + 12 = 28, x=6)$ &#9166; 
 
-b) Risolvi i punti e), f), g) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+b) Risolvi i punti b.1 e b.2 con la sequenza di comandi GEOGEBRA riportata di seguito.
 
 1. $e1: 0,5x = 2,9$ &#9166; 
 2. $s1: Sostituisci(e1, x=5)$ &#9166; 
