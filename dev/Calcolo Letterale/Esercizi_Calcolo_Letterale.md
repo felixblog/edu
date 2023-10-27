@@ -40,16 +40,16 @@ b) Come il punto precedente, scrivi l'espressione letterale corrispondente ad og
 
 a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
-1. $-2x + x^2 + 1,\ [x=2]$;
-2. $y(1 - y) + 3,\ [y=-5]$;
-3. $a − b, \enspace [a = 10, b = +7]$;
-4. $(a − b)(a + b), \enspace [a = \dfrac{2}{3}, b = -\dfrac{3}{2}]$;
+1. $-2x + x^2 + 1,\ \{x=2\}$;
+2. $y(1 - y) + 3,\ \{y=-5\}$;
+3. $a − b, \enspace \{a = 10, b = +7\}$;
+4. $(a − b)(a + b), \enspace \{a = \dfrac{2}{3}, b = -\dfrac{3}{2}\}$;
 
 b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
-1. $a^{2} − b^{2}, [\enspace a = 1, b = +1]; \enspace [a = -3, b = -2]; \enspace [a = -6, b = \dfrac{5}{3}]$;
-2. $2a(b + 1) - 6ab , \enspace [a = -3, b = 0]$;
-3. $((2a)b)^{3}, \enspace [a = 2, b = -\dfrac{3}{2}]$.
+1. $a^{2} − b^{2}, \{\enspace a = 1, b = +1\}; \enspace \{a = -3, b = -2\}; \enspace \{a = -6, b = \dfrac{5}{3}\}$;
+2. $2a(b + 1) - 6ab , \enspace \{a = -3, b = 0\}$;
+3. $((2a)b)^{3}, \enspace \{a = 2, b = -\dfrac{3}{2}\}$.
 
 
 
@@ -57,7 +57,7 @@ b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e c
 
 In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente e, se possibile, esegui le operazioni numeriche.
 
-a) $-2 \cdot 4 + (3 + 2 \cdot 4)$;  Sostituisci il numero intero $4$ con $a$;
+a) $-2 \cdot 4 + (3 + 2 \cdot 4)$;  Sostituisci il numero intero $+4$ con $a$;
 
 b) $-7 \cdot 5 - 3 \cdot (3 + 2 \cdot 3) - 10$;  Sostituisci il numero intero $3$ con $x$ e $-3$ con $-x$;
 
@@ -99,29 +99,17 @@ Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, u
 
 Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio.
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri sono lettere, in ordine alfabetico.
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Anche un singolo numero può essere considerato un monomio, che presenta la sola parte numerica. 
 
 #### ESEMPIO
 
-$\dfrac{ab}{2} \longrightarrow \text{Forma non Normale}$;
+$\dfrac{ab}{2}$ : **Forma non normale**;
 
-$\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab \longrightarrow \text{Forma Normale}$.
+$\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab$: **Forma normale**;
 
-$ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2 \longrightarrow \text{Forma Normale}$.
+$ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: **Forma Normale**.
 
-Una espressione letterale è fatta di somme, prodotti e rapporti di monomi: $a + b$,  $2 \cdot s + 3 \cdot s + 1$ etc. 
-
-Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere (e lo stesso numero di ciascuna lettera), ossia, si dice, sono ***simili***.  La somma di più monomi simili è un monomio che ha come parte letterale quella degli addendi e come parte numerica la somma delle parti numeriche degli addendi, come illustrano gli esempi seguenti.
-
-$-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$; 
-
-$5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;       
-
-$-3x + 2x^2 \longrightarrow -3x + 2x^2 \longrightarrow \text{Non è un monomio!}$ .
-
-Il prodotto di due o più monomi è sempre un monomio.
-
-$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$.
+Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di monomi: $a + b$,  $2 \cdot s + 3 \cdot s + 1$ etc. 
 
 
 
@@ -155,29 +143,17 @@ a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBR
 
 
 
-### ESERCIZIO 6 - Somme e prodotti di monomi
+### ESERCIZIO 6 - Prodotti di monomi
 
-a) Scrivi l'espressione che corrisponde alla somma dei monomi seguenti e semplifica il risultato se possibile.
-
-1. $\dfrac{1}{2}x$;      $-3x$;      $7x$;
-
-2. $\dfrac{1}{2}xy$;      $-3xy$;      $7xy$;
-
-3. $-3a^{2}x$;      $7ax$;      $1$;
-
-4. $\dfrac{1}{2}x^{3}y$;      $-x^{3}y$;      $\dfrac{1}{2}$.
-
-b) Calcola i seguenti prodotti di monomi. 
+a) Calcola i seguenti prodotti di monomi. 
 
 1. $2ab\,\cdotp\left(-3a^{2}b\right)$     ;$-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$;  
 
 2. $2a^{2}\,\cdotp\left(-4a^{5}b^{3}\right)$;     $-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$;  
 
-3. $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
+a) Calcola i seguenti prodotti di monomi. 
 
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2}xy -3xy + 7xy$  &#9166; 
+1. $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
 
 
 
@@ -238,7 +214,41 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 
 
-### ESERCIZIO 9 - Espressioni letterali
+## UNITA' 3: Somme di Monomi
+
+Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere (e lo stesso numero di ciascuna lettera), ossia, si dice, sono ***simili***.  La somma di più monomi simili è un monomio che ha come parte letterale quella degli addendi e come parte numerica la somma delle parti numeriche degli addendi, come illustrano gli esempi seguenti.
+
+$-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$; 
+
+$5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;       
+
+$-3x + 2x^2 \longrightarrow -3x + 2x^2 \longrightarrow \text{Non è un monomio!}$ .
+
+Il prodotto di due o più monomi è sempre un monomio.
+
+$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$.
+
+
+
+### ESERCIZIO 9 - Somme di monomi
+
+a) Scrivi l'espressione che corrisponde alla somma dei monomi seguenti e semplifica il risultato se possibile.
+
+1. $\dfrac{1}{2}x$;      $-3x$;      $7x$;
+
+2. $\dfrac{1}{2}xy$;      $-3xy$;      $7xy$;
+
+3. $-3a^{2}x$;      $7ax$;      $1$;
+
+4. $\dfrac{1}{2}x^{3}y$;      $-x^{3}y$;      $\dfrac{1}{2}$.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2}xy -3xy + 7xy$  &#9166; 
+
+
+
+### ESERCIZIO 10 - Espressioni letterali
 
 a) Individua quanti e quali monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
@@ -263,11 +273,11 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,
 
 Il rapporto tra due monomi non è sempre un monomio. Lo è solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi non sono più presenti lettere al denominatore.
 
-Se ciò non accade il rapporto tra i due monomi di dice ***frazione algebrica***.
+Se ciò non accade il rapporto tra i due monomi non è un monomio ma una espressione letterale detta ***frazione algebrica***.
 
 
 
-### ESERCIZIO 10 - Rapporti tra monomi e semplificazioni
+### ESERCIZIO 11 - Rapporti tra monomi e semplificazioni
 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
 
@@ -285,9 +295,11 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 ## UNITA' 4: Polinomi 
 
-La somma di più monomi non tutti simili si dice polinomio. Un polinomio è in forma normale se in esso non sono presenti monomi simili (sono già stati sommati tra di loro!).
+La somma di più monomi non tutti simili si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Un polinomio è in ***forma normale*** se in esso non sono presenti monomi simili (sono già stati sommati tra di loro!). Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
 
-### ESERCIZIO 11 - Polinomi in forma normale
+La somma di due polinomi è un polinomio che si trova sommando tra di loro tutti i monomi dei due polinomi;
+
+### ESERCIZIO 12 - Polinomi in forma normale
 
 Riduci i seguenti polinomi in forma normale.
 
@@ -306,7 +318,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO 12 - Rappresentazione delle espressioni letterali
+### ESERCIZIO 13 - Rappresentazione delle espressioni letterali
 
 a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
 
@@ -344,18 +356,38 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-### ESERCIZIO 13 - Somma di polinomi
+### ESERCIZIO 14 - Somma di polinomi
 
-Esegui le seguenti somme algebriche tra polinomi.
-
-
-a) $\left(4x^{3}-5x^{2}+2\right)+\left(-3x^{3}+2x^{2}-2\right)$  
-
-b) $\left(3a^{3}+5a^{2}-2a+1\right)-\left(3a^{3}-2a^{2}+5a-7\right)$  
+Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
 
 
+a) $4x^{3}-5x^{2}+2$;     $-3x^{3}+2x^{2}-2$  
 
-### ESERCIZIO 14 - Dalle parole alle espressioni III
+b) $3a^{3}+5a^{2}-2a+1$;     $3a^{3}-2a^{2}+5a-7$  
+
+
+
+## UNITA' 5: Prodotti e rapporti di polinomi
+
+Il prodotto di un monomio per un polinomio è un polinomio che si ottiene sommando tra di loro i prodotti del monomio per i termini del polinomio.
+
+#### ESEMPIO
+
+$a(b+c) \longrightarrow ab + ac$;     $2(1+x+x^2) \longrightarrow 2+ 2x + 2x^2$;     $a^2(ab^2 -\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$;    
+
+il monomio mentre il rapporto tra due polinomi non è sempre un polinomio.
+
+Il prodotto di due polinomi si ottiene moltiplicando il secondo polinomio per tutti i monomi del primo e sommando i risultati.
+
+#### ESEMPIO
+
+$(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
+
+$(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x \longrightarrow 1 + x - x -x^2 \longrightarrow 1 - x^2$;
+
+
+
+### ESERCIZIO 15 - Dalle parole alle espressioni III
 
 Dati i polinomi seguenti:
 
@@ -377,7 +409,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 15 - Prodotto di monomi per polinomi
+### ESERCIZIO 16 - Prodotto di monomi per polinomi
 
 a) Scrivi il polinomio risultato dei prodotti seguenti.
 
@@ -399,7 +431,7 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 
 
-### ESERCIZIO - 16 Prodotto di polinomi
+### ESERCIZIO - 17 Prodotto di polinomi
 
 Semplifica le seguenti espressioni.  
 
@@ -421,7 +453,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 ## UNITA' 5: Semplificazione di espressioni letterali 
 
-### ESERCIZIO 17 - Evidenza di fattori
+### ESERCIZIO 18 - Evidenza di fattori
 
 a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
 
@@ -439,7 +471,7 @@ Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di ist
 
 
 
-### ESERCIZIO - 18 Frazioni Algebriche
+### ESERCIZIO - 19 Frazioni Algebriche
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.
 
