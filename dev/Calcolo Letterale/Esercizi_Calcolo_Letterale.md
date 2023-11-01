@@ -91,7 +91,7 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 ## UNITA' 2: I Monomi
 
-Abbiamo già detto che una espressione letterale non può essere calcolata, cioè non da come risultato un numero, finché a tutte le lettere non sostituiamo dei numeri. Però, vediamo con un esempio, anche con le sole lettere alcune considerazioni si possono fare.
+Abbiamo già detto che una espressione letterale non può essere calcolata, cioè non da come risultato un numero, finché a tutte le lettere non sostituiamo dei numeri. Però vediamo, con un esempio, che anche con le sole lettere alcune considerazioni si possono fare.
 
 #### ESEMPIO
 
@@ -99,15 +99,15 @@ Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, u
 
 Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio.
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Anche un singolo numero può essere considerato un monomio, che presenta la sola parte numerica. 
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio la somma degli esponenti delle sue lettere. Anche un singolo numero può essere considerato un monomio, che presenta la sola parte numerica (ed ha parte letterale di grado zero). 
 
 #### ESEMPIO
 
-$\dfrac{ab}{2}$ : **Forma non normale**;
+$\dfrac{ab}{2}$ : grado 2, **Forma non normale**;
 
 $\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab$: **Forma normale**;
 
-$ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: **Forma Normale**.
+$ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: grado 4, **Forma Normale**.
 
 Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di monomi: $a + b$,  $2 \cdot s + 3 \cdot s + 1$ etc. 
 
@@ -222,7 +222,7 @@ $-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$;
 
 $5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;       
 
-$-3x + 2x^2 \longrightarrow -3x + 2x^2 \longrightarrow \text{Non è un monomio!}$ .
+$-3x + 2x^2 \longrightarrow -3x + 2x^2$: **Non è un monomio!** .
 
 Il prodotto di due o più monomi è sempre un monomio.
 
@@ -265,7 +265,7 @@ b) Individua quanti e quali monomi in forma normale ed operazioni contiene ciasc
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a: a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
+a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
 
 
 
@@ -297,7 +297,9 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 La somma di più monomi non tutti simili si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Un polinomio è in ***forma normale*** se in esso non sono presenti monomi simili (sono già stati sommati tra di loro!). Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
 
-La somma di due polinomi è un polinomio che si trova sommando tra di loro tutti i monomi dei due polinomi;
+Un polinomio è in forma normale se tutti i monomi sono in forma normale e sono ordinati per grado crescente. Il grado di un polinomio è quello del monomio di grado massimo. 
+
+
 
 ### ESERCIZIO 12 - Polinomi in forma normale
 
@@ -356,18 +358,9 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-### ESERCIZIO 14 - Somma di polinomi
+## UNITA' 5: Somme prodotti e rapporti di polinomi
 
-Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
-
-
-a) $4x^{3}-5x^{2}+2$;     $-3x^{3}+2x^{2}-2$  
-
-b) $3a^{3}+5a^{2}-2a+1$;     $3a^{3}-2a^{2}+5a-7$  
-
-
-
-## UNITA' 5: Prodotti e rapporti di polinomi
+La somma di due polinomi è un polinomio che si trova sommando tra di loro tutti i monomi dei due polinomi. 
 
 Il prodotto di un monomio per un polinomio è un polinomio che si ottiene sommando tra di loro i prodotti del monomio per i termini del polinomio.
 
@@ -384,6 +377,17 @@ Il prodotto di due polinomi si ottiene moltiplicando il secondo polinomio per tu
 $(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
 
 $(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x \longrightarrow 1 + x - x -x^2 \longrightarrow 1 - x^2$;
+
+
+
+### ESERCIZIO 14 - Somma di polinomi
+
+Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
+
+
+a) $4x^{3}-5x^{2}+2$;     $-3x^{3}+2x^{2}-2$  
+
+b) $3a^{3}+5a^{2}-2a+1$;     $3a^{3}-2a^{2}+5a-7$  
 
 
 
@@ -433,7 +437,7 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 ### ESERCIZIO - 17 Prodotto di polinomi
 
-Semplifica le seguenti espressioni.  
+Scrivi i risultati dei prodotti seguenti in forma normale.  
 
 a) $\left(2a-3b\right)\left(5a+4b\right)$;     $\left(x-3y\right)\left(5x+y\right)$  
 

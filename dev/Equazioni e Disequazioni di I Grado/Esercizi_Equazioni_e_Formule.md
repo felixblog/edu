@@ -7,11 +7,15 @@ Capita frequentemente di risolvere problemi nei quali si cerca un numero sapendo
 
 Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato ($30$ euro) ma non gli elementi che lo determinano, nel caso specifico, il risparmio sul prezzo di listino. Se indichiamo la somma risparmiata con la lettera $r$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot r = 30$.
 
-Il nostro problema si risolve quindi col trovare un numero che sostituito alla lettera $r$ soddisfi (ossia renda vera) la condizione (che dipende da $r$), e questo numero è $100$, infatti $30 \% \cdot 100 = 30$. La condizione si definisce ***equazione*** ed il numero $100$ è la ***soluzione*** dell'equazione perché la sostituzione di $r$ con $100$ rende l'equazione una uguaglianza vera.
+Il nostro problema si risolve quindi col trovare un numero che messo al posto della lettera $r$, e quindi moltiplicato per $30 \%$ dia come risultato $30$, cioè renda vera (o soddisfi) la condizione che dipende da $r$. Questo numero è $100$, infatti $30 \% \cdot 100 = 30 \longrightarrow True$. La condizione si definisce ***equazione*** ed il numero $100$ è la ***soluzione*** dell'equazione perché la sostituzione di $r$ con $100$ rende l'equazione una uguaglianza vera.
 
-In generale una ***equazione*** (di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera.
+In generale una ***equazione*** (di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
 
- 
+Le equazioni più semplici che esistano sono quelle elementari del tipo $x = -3$ oppure $\dfrac{2}{3} = x$. In questi casi la soluzione è ovvia ed è l'unico numero presente nell'equazione che se sostituito all'incognita conduce all'uguaglianza, come ad esempio: $\dfrac{2}{3} = \dfrac{2}{3} \longrightarrow True$.
+
+Le equazioni immediatamente più complesse sono quelle del tipo $3x = -3$ e $10 = x + 4$ per le quali vedremo un metodo risolutivo nella prossima unità.
+
+
 
 ### ESERCIZIO 1 - Verifica di soluzioni
 
@@ -47,6 +51,100 @@ Controlla che il comando $PrimoMembro(s1)$&#9166; fornisce $\dfrac{5}{2} \appro
 
 
 ## UNITA' 2: Metodo risolutivo delle equazioni di I grado
+
+La soluzione alle equazioni molto semplici può essere trovata per tentativi, ossia con una ricerca "euristica". Ad esempio il numero che raddoppiato è uguale a $10$ è $5$, oppure il numero che sommato a $3$ è uguale ad $1$ è $-2$. Trovare questi numeri significa risolvere le equazioni $2x = 10$ e $3 + x = 1$, che sono molto semplici.
+
+Se però l'equazione è anche di poco più complessa, trovare la soluzione senza un metodo diventa impossibile.  Il metodo per risolvere le equazioni è basato sull'applicazione ripetuta di tre regole di "equivalenza", che consentono di trasformare una equazione in modo che la nuova equazione abbia le stesse soluzioni della precedente.
+
+### REGOLA DELLA SOMMA
+
+Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione; la nuova equazione avrà le stesse soluzioni della equazione originaria.
+
+#### ESEMPIO
+
+a) $3 + x = 1$	Regola della somma con $-3$;
+
+b) $3 + x -3 = 1 -3$.
+
+L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $-2$
+
+### REGOLA DELLA MOLTIPLICAZIONE/DIVISIONE
+
+Possiamo moltiplicare/dividere entrambi i membri di una equazione per una stessa espressione ottenendo una nuova equazione; la nuova equazione avrà le stesse soluzioni della equazione originaria.
+
+ESEMPIO
+
+a) $2x = 10$	Regola della moltiplicazione/divisione per $\dfrac{1}{2}$
+
+b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$.
+
+L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $5$.
+
+### REGOLA DELLA SEMPLIFICAZIONE
+
+Possiamo effettuare operazioni algebriche su uno o entrambi i membri di una equazione ottenendo una nuova equazione; la nuova equazione avrà le stesse soluzioni della equazione originaria.
+
+Scegliendo opportunamente le espressioni da sommare o moltiplicare e poi semplificando di passaggio in passaggio si semplificano le espressioni che costituiscono i due membri dell'equazione fino ad ottenere due membri semplicissimi dove da una parte c'è il monomio elementare $x$ e dall'altra un numero.
+
+#### ESEMPIO
+
+a) $3 + x -3 = 1 -3$	Regola della semplificazione
+
+b) $x = -2$
+
+L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $-2$.
+
+La strategia risolutiva delle equazioni è quella di applicare ripetutamente le regole scegliendo opportunamente le espressioni da moltiplicare o sommare in modo da semplificare l'equazione fino ad arrivare ad una equazione elementare la cui soluzione è ovvia.
+
+#### ESEMPIO 1
+
+I passi per risolvere L'equazione $2x = 10$ sono i seguenti:
+
+a) $2x = 10$	Regola della moltiplicazione/divisione per $\dfrac{1}{2}$. Si sceglie il reciproco del coefficiente di $x$ in modo che dopo la semplificazione il coefficiente della $x$ sia $1$.
+
+b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$	Regola della semplificazione
+
+c) $x = 5$	L'equazione è elementare e la soluzione è $5$.
+
+#### ESEMPIO 2
+
+I passi per risolvere L'equazione $3 + x = 1$ sono i seguenti:
+
+a) $3 + x = 1$	Regola della somma con $-3$. Si sceglie $-3$ perché è l'opposto di $3$ e dopo la semplificazione il numero scompare dal membro sinistro e ricompare al membro destro col segno cambiato.
+
+b) $3 + x -3 = 1 -3$	Regola della semplificazione
+
+c) $x = -2$	L'equazione è elementare e la soluzione è $-2$.
+
+#### ESEMPIO 3
+
+a) $10 = 3 + 7x$	Regola della somma con $-3$. Si sceglie $-3$ perché è l'opposto di $3$ e dopo la semplificazione il numero scompare dal membro sinistro e compare al membro destro col segno cambiato.
+
+b) $10 - 3 = 3 + 7x -3$	Regola della semplificazione
+
+c) $7 = 7x$	Regola della moltiplicazione/divisione con $7$
+
+d) $\dfrac{1}{7} \cdot 7 = \dfrac{1}{7} \cdot7x$	Regola della semplificazione
+
+e) $x = 1$	L'equazione è elementare e la soluzione è 1$.
+
+La strategia risolutiva è quella di scrivere le espressioni in entrambi i membri come polinomi (somma di monomi), trasportare i monomi che contengono l'incognita tutti in un membro ed i numeri nell'altro membro e quindi ricondursi ad una situazione simile a quella dell'esempio 1 per poi applicare la regola della moltiplicazione/divisione ed arrivare ad una equazione elementare.
+
+#### ESEMPIO 4
+
+a) $2(10 + x) = 3 + 7x$	Con la regola della semplificazione moltiplichiamo il numero per il polinomio al primo membro;
+
+b) $20 + 2x = 3 + 7x$	Regola del trasporto $20 \longrightarrow DX, +7x \longrightarrow SX$;
+
+b) $-7x + 2x = 3 -20$	    Semplificazione;
+
+c) $-5x = -17$	Regola della moltiplicazione/divisione con $-\dfrac{1}{5}$
+
+d) $-\dfrac{1}{5} \cdot (-5x) = -\dfrac{1}{5} \cdot (-17)$	Regola della semplificazione
+
+e) $x = \dfrac{17}{5}$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.
+
+
 
 ### ESERCIZIO 2 - Regole delle Equazioni
 
@@ -173,7 +271,7 @@ Di seguito sono presentate alcune formule famose provenienti da discipline varie
 5. Mark-Up (assoluto): $M = P_{v} - C$  ($P_v$: Prezzo di vendita, $C$: Costo);     Mark-Up (percentuale) $q$: $P_v = C \cdotp (1 + q)$.
 6. Velocità: $v = \dfrac{s}{t}$.
 
-a) Risolvi ciascuna formula (equazione) considerando la lettera indicata come l'incognita.
+a) Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
 
 1. $M = C + I, ~~~ incognita ~~ C;$
 1. $A = b \cdot h, ~~~ incognita ~~ b$;
