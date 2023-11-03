@@ -1,6 +1,6 @@
 # I Sistemi di I Grado
 
-## UNITA' 1: Equazioni con due incognite e soluzioni
+## UNITA' 1: Equazioni con due incognite e loro soluzioni
 
 ### ESERCIZIO 1 - Soluzioni di equazioni con due incognite
 
@@ -42,6 +42,35 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 
 ## UNITA' 2: Sistema di equazioni e metodo di soluzione
+
+Un ***sistema*** di equazioni è un gruppo (due) di equazioni di cui si cercano le soluzioni comuni, ossia le soluzioni di tutte le equazioni. Mentre una equazione ha solitamente infinite soluzioni, due equazioni hanno solitamente (ossia tranne casi particolari) una sola soluzione. Per trovarla si utilizza un metodo detto di ***sostituzione*** che si articola in 4 passi. Per illustrare il metodo risolveremo il sistema seguente:
+
+$$\left\{  
+\begin{array}{c} 
+2x+y=-1 \\  
+x-3y=10\\   
+\end{array} 
+\right.$$
+
+**PASSO 1** (esplicitazione): si sceglie una equazione, si sceglie una incognita e si risolve come se questa fosse l'unica incognita, trovando come soluzione una espressione letterale. Ad esempio consideriamo la prima equazione e risolviamo rispetto alla $y$ ottenendo la soluzione $-1-2x$:
+
+a) $y = -1 - 2x$.
+
+**PASSO 2**: (sostituzione): si sostituisce la soluzione trovata, $-1-2x$, al posto dell'incognita $y$ nell'altra equazione ovunque questa compaia, ottenendo una equazione con una sola incognita:
+
+b) $x - 3(-1-2x) = 10$
+
+**PASSO 3**: (risoluzione): si risolve l'equazione. La soluzione numerica è una delle componenti della coppia di numeri soluzione del sistema.
+
+c) $x +3 +6x = 10 \longrightarrow 7x = 7 \longrightarrow x = 1$.
+
+**PASSO 4**: (completamento): si trova l'altra componente sostituendo il numero all'incognita nell'espressione trovata alla fine del PASSO 1:
+
+d) $y = -1 - 2(1) \longrightarrow y = -3$.
+
+La soluzione del sistema è la coppia $(1, -3)$.
+
+
 
 ### ESERCIZIO 3 - Metodo di sostituzione
 

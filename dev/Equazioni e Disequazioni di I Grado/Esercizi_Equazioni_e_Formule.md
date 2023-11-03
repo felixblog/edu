@@ -11,7 +11,7 @@ Il nostro problema si risolve quindi col trovare un numero che messo al posto de
 
 In generale una ***equazione*** (di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
 
-Le equazioni più semplici che esistano sono quelle elementari del tipo $x = -3$ oppure $\dfrac{2}{3} = x$. In questi casi la soluzione è ovvia ed è l'unico numero presente nell'equazione che se sostituito all'incognita conduce all'uguaglianza, come ad esempio: $\dfrac{2}{3} = \dfrac{2}{3} \longrightarrow True$.
+Le equazioni più semplici che esistano sono quelle ***elementari*** del tipo $x = -3$ oppure $\dfrac{2}{3} = x$. In questi casi la soluzione è ovvia ed è l'unico numero presente nell'equazione che se sostituito all'incognita conduce all'uguaglianza, come ad esempio: $\dfrac{2}{3} = \dfrac{2}{3} \longrightarrow True$.
 
 Le equazioni immediatamente più complesse sono quelle del tipo $3x = -3$ e $10 = x + 4$ per le quali vedremo un metodo risolutivo nella prossima unità.
 
@@ -54,95 +54,89 @@ Controlla che il comando $PrimoMembro(s1)$&#9166; fornisce $\dfrac{5}{2} \appro
 
 La soluzione alle equazioni molto semplici può essere trovata per tentativi, ossia con una ricerca "euristica". Ad esempio il numero che raddoppiato è uguale a $10$ è $5$, oppure il numero che sommato a $3$ è uguale ad $1$ è $-2$. Trovare questi numeri significa risolvere le equazioni $2x = 10$ e $3 + x = 1$, che sono molto semplici.
 
-Se però l'equazione è anche di poco più complessa, trovare la soluzione senza un metodo diventa impossibile.  Il metodo per risolvere le equazioni è basato sull'applicazione ripetuta di tre regole di "equivalenza", che consentono di trasformare una equazione in modo che la nuova equazione abbia le stesse soluzioni della precedente.
-
-### REGOLA DELLA SOMMA
-
-Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione; la nuova equazione avrà le stesse soluzioni della equazione originaria.
-
-#### ESEMPIO
-
-a) $3 + x = 1$	Regola della somma con $-3$;
-
-b) $3 + x -3 = 1 -3$.
-
-L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $-2$
-
-### REGOLA DELLA MOLTIPLICAZIONE/DIVISIONE
-
-Possiamo moltiplicare/dividere entrambi i membri di una equazione per una stessa espressione ottenendo una nuova equazione; la nuova equazione avrà le stesse soluzioni della equazione originaria.
-
-ESEMPIO
-
-a) $2x = 10$	Regola della moltiplicazione/divisione per $\dfrac{1}{2}$
-
-b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$.
-
-L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $5$.
+Se però l'equazione è anche di poco più complessa, trovare la soluzione senza un metodo diventa impossibile. Il metodo per risolvere le equazioni è basato sull'applicazione ripetuta di tre ***regole di equivalenza***, che consentono di trasformare una equazione in una nuova equazione, più vicina ad una equazione elementare, che però abbia le stesse soluzioni di quella originaria.
 
 ### REGOLA DELLA SEMPLIFICAZIONE
 
-Possiamo effettuare operazioni algebriche su uno o entrambi i membri di una equazione ottenendo una nuova equazione; la nuova equazione avrà le stesse soluzioni della equazione originaria.
-
-Scegliendo opportunamente le espressioni da sommare o moltiplicare e poi semplificando di passaggio in passaggio si semplificano le espressioni che costituiscono i due membri dell'equazione fino ad ottenere due membri semplicissimi dove da una parte c'è il monomio elementare $x$ e dall'altra un numero.
-
-#### ESEMPIO
-
-a) $3 + x -3 = 1 -3$	Regola della semplificazione
-
-b) $x = -2$
-
-L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $-2$.
-
-La strategia risolutiva delle equazioni è quella di applicare ripetutamente le regole scegliendo opportunamente le espressioni da moltiplicare o sommare in modo da semplificare l'equazione fino ad arrivare ad una equazione elementare la cui soluzione è ovvia.
+Possiamo effettuare operazioni algebriche su uno o entrambi i membri di una equazione ottenendo una nuova equazione che ha le stesse soluzioni di quella originaria.
 
 #### ESEMPIO 1
 
-I passi per risolvere L'equazione $2x = 10$ sono i seguenti:
+a) $3 + x -3 = 1 -3$  Possiamo eseguire le somme algebriche tra $3$ e $-3$ e tra $1$ e $-3$ ed ottenere l'equazione b).
 
-a) $2x = 10$	Regola della moltiplicazione/divisione per $\dfrac{1}{2}$. Si sceglie il reciproco del coefficiente di $x$ in modo che dopo la semplificazione il coefficiente della $x$ sia $1$.
+b) $x = -2$   Nuova equazione
 
-b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$	Regola della semplificazione
+L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo in entrambe ad $x$ il numero $-2$.
 
-c) $x = 5$	L'equazione è elementare e la soluzione è $5$.
+### REGOLA DEL TRASPORTO (SOMMA)
+
+Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione che ha le stesse soluzioni della equazione originaria.
 
 #### ESEMPIO 2
 
-I passi per risolvere L'equazione $3 + x = 1$ sono i seguenti:
+a) $3 + x = 1$   Sommando a questa prima equazione $-3$ si ottiene l'equazione b);
 
-a) $3 + x = 1$	Regola della somma con $-3$. Si sceglie $-3$ perché è l'opposto di $3$ e dopo la semplificazione il numero scompare dal membro sinistro e ricompare al membro destro col segno cambiato.
+b) $3 + x -3 = 1 -3$. Nuova equazione
 
-b) $3 + x -3 = 1 -3$	Regola della semplificazione
+L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo in entrambe ad $x$ il numero $-2$. Se applichiamo alla b) la regola della semplificazione al membro sinistro otteniamo la c)
 
-c) $x = -2$	L'equazione è elementare e la soluzione è $-2$.
+c) $x = 1 - 3$. 
+
+Questa equazione ha le stesse soluzioni della a) ed il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro destro il suo opposto cioè $-3$. Questo succede sempre applicando in sequenza le regole della somma e della semplificazione, per cui si può enunciare la seguente regola, detta ***regola del trasporto***:
+
+Possiamo trasportare una espressione da un membro ad un altro cambiando il suo segno (da termine di una somma di un membro a termine di una somma nell'altro, col segno opposto). La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+
+### REGOLA DELLA MOLTIPLICAZIONE/DIVISIONE
+
+Possiamo moltiplicare/dividere entrambi i membri di una equazione per una stessa espressione (diversa da zero); otteniamo una nuova equazione che ha le stesse soluzioni della equazione originaria.
 
 #### ESEMPIO 3
 
-a) $10 = 3 + 7x$	Regola della somma con $-3$. Si sceglie $-3$ perché è l'opposto di $3$ e dopo la semplificazione il numero scompare dal membro sinistro e compare al membro destro col segno cambiato.
+a) $2x = 10$    Se moltiplichiamo per il reciproco di 2 ossia $\dfrac{1}{2}$ otteniamo la nuova equazione b).
 
-b) $10 - 3 = 3 + 7x -3$	Regola della semplificazione
+b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$.   Se applichiamo la regola della semplificazione otteniamo l'equazione c) che ha le stesse soluzioni di b).
 
-c) $7 = 7x$	Regola della moltiplicazione/divisione con $7$
+c) $x = 5$.
 
-d) $\dfrac{1}{7} \cdot 7 = \dfrac{1}{7} \cdot7x$	Regola della semplificazione
+L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $5$.
 
-e) $x = 1$	L'equazione è elementare e la soluzione è 1$.
+La strategia per risolvere le equazioni consiste nell'applicare ripetutamente le regole scegliendo opportunamente le espressioni da moltiplicare o sommare in modo da semplificare l'equazione riducendo entrambi i membri a polinomi (somma di monomi). A questo punto si trasportano i monomi che contengono l'incognita tutti in un solo membro e quelli che non la contengono tutti nell'altro; i monomi con l'incognita si sommano tra di loro dando come risultato un solo monomio; anche i numeri si sommano e si arriva ad una equazione come: $m \cdot x = q$, dove $m$ e $q$ sono due numeri.
 
-La strategia risolutiva è quella di scrivere le espressioni in entrambi i membri come polinomi (somma di monomi), trasportare i monomi che contengono l'incognita tutti in un membro ed i numeri nell'altro membro e quindi ricondursi ad una situazione simile a quella dell'esempio 1 per poi applicare la regola della moltiplicazione/divisione ed arrivare ad una equazione elementare.
+A questa equazione si applica la regola della moltiplicazione e divisione per $\dfrac{1}{m}$, quindi la semplificazione e si ottiene una equazione elementare con la soluzione $\dfrac{q}{m}$, come riportato di seguito:
+
+a) $m \cdot x = q$;   Regola della moltiplicazione/divisione per $\dfrac{1}{m}$; 
+
+b) $\dfrac{1}{m} \cdot mx = \dfrac{1}{m} \cdot q$;   Regola della semplificazione; 
+
+c) $x = \dfrac{q}{m}$;   La soluzione è $\dfrac{q}{m}$. 
 
 #### ESEMPIO 4
 
-a) $2(10 + x) = 3 + 7x$	Con la regola della semplificazione moltiplichiamo il numero per il polinomio al primo membro;
+I passi per risolvere L'equazione $3 + 2x = 1$ sono i seguenti:
 
-b) $20 + 2x = 3 + 7x$	Regola del trasporto $20 \longrightarrow DX, +7x \longrightarrow SX$;
+a) $3 + 2x = 1$	Regola della somma con $-3$. Si sceglie $-3$ perché è l'opposto di $3$ e dopo la semplificazione il numero scompare dal membro sinistro e rimane solo il monomio con l'incognita.
 
-b) $-7x + 2x = 3 -20$	    Semplificazione;
+b) $3 + 2x -3 = 1 -3$    Regola della semplificazione
 
-c) $-5x = -17$	Regola della moltiplicazione/divisione con $-\dfrac{1}{5}$
+c) $2x = -2$    Regola della moltiplicazione/divisione per $\dfrac{1}{2}$;
 
-d) $-\dfrac{1}{5} \cdot (-5x) = -\dfrac{1}{5} \cdot (-17)$	Regola della semplificazione
+d) $\dfrac{1}{2} \cdot 2x = \dfrac{1}{2} \cdot (-2)$   Regola della semplificazione;
 
-e) $x = \dfrac{17}{5}$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.
+e) $x = -1$   Equazione elementare, soluzione $-1$.
+
+#### ESEMPIO 5
+
+a) $2(10 + x) = 3 + 7x$    Con la regola della semplificazione moltiplichiamo il numero per il polinomio al primo membro;
+
+b) $20 + 2x = 3 + 7x$     Spostiamo il $3$ a sinistra sommando $-3$ e $2x$ a destra sommando $-2x$;
+
+c) $20 + 2x -3 -2x = 3 + 7x -3 -2x$     Facendo la semplificazione si ottiene la prossima equazione;
+
+d) $17 = 5x$	Regola della moltiplicazione/divisione per $\dfrac{1}{5}$
+
+e) $\dfrac{1}{5} \cdot 17 = \dfrac{1}{5} \cdot 5x$	Regola della semplificazione
+
+f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.
 
 
 
@@ -213,21 +207,35 @@ b) Risolvi le equazioni del punto b) con sequenze di comandi GEOGEBRA analoghe a
 
 ### ESERCIZIO 4 - Scrittura di equazioni
 
-Scrivi le equazioni con le caratteristiche richieste da ciascuno dei punti seguenti:
+a) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche richieste.
 
-a) ha come (unica) soluzione il numero -3; ha come soluzione un numero che ha il doppio uguale a 6;
+1. Ha come (unica) soluzione il numero -3;
+2. ha come soluzione un numero che ha il doppio uguale a 6;
+3. ha come soluzione il numero il cui doppio meno 5 è uguale al numero stesso.
 
-b) ha come soluzione il numero -3 e ha l'incognita in entrambi i membri;
+b) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche richieste e trova la sua soluzione.
 
-c) ha come soluzione il numero il cui doppio meno 5 è uguale al numero stesso;
-
-d) ha come soluzione il numero che sommato al suo successivo è uguale a 3;
-
-e) consiste nell'uguaglianza tra un numero ed il suo opposto.
+1. Ha come soluzione il numero -3 e ha l'incognita in entrambi i membri;
+2. ha come soluzione il numero che sommato al suo successivo è uguale a 3;
+3. consiste nell'uguaglianza tra un numero ed il suo opposto.
 
 
 
 ## UNITA' 3: Equazioni letterali e formule
+
+Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, l'incognita. Oltre a queste però si usano anche equazioni in cui compaiono altre lettere, oltre a quella che ha il ruolo di incognita, come ad esempio $1-ax=b$, dove l'incognita è $x$.
+
+Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; la soluzione sarà una espressione letterale e non numerica.
+
+a) $1-ax=b$;   Con la regola del trasporto portiamo 1 a destra;
+
+b) $-ax=b-1$;   Con la regola della moltiplicazione/divisione moltiplichiamo tutto per il reciproco del coefficiente di $x$;
+
+c) $-ax(-\dfrac{1}{a})=-\dfrac{1}{a}(b-1)$  Semplificando
+
+d) $x = -\dfrac{1}{a}(b-1)$.
+
+   
 
 ### ESERCIZIO 5 - Equazioni letterali
 
@@ -275,9 +283,9 @@ a) Risolvi le equazioni letterali proposte considerando di volta in volta ciascu
 
 1. $M = C + I, ~~~ incognita ~~ C;$
 1. $A = b \cdot h, ~~~ incognita ~~ b$;
-3. $A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ b;\enspace\enspace A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ h$;
+3. $A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ b$;    $A = \dfrac{b \cdot h}{2},   ~~ incognita ~~ h$;
 2. $S = P_l - P_s, ~~~ incognita ~~ P_s;$
-2. $I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;
+2. $I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;       $I = C\cdotp i\cdotp t ,~~~ incognita ~~ C$;
 3. $\dfrac{P_l - P_s}{P_l}= s ~~~ incognita ~~ P_s;$
 3. $\dfrac{P_l - P_s}{P_l}= s ~~~ incognita ~~ P_l $;
 4. $P_v = C \cdotp (1 + q) ~~~ incognita ~~ C;$
@@ -293,8 +301,8 @@ b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
 a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $a: (P_{l} - P_{s})/P_{l}= s$ &#9166; 
-2. $Risolvi(a, P_{l})$ &#9166; 
+1. $eq1: (P_{l} - P_{s})/P_{l}= s$ &#9166; 
+2. $Risolvi(eq1, P_{l})$ &#9166; 
 
 
 
