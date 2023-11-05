@@ -2,6 +2,35 @@
 
 ## UNITA' 1: Modelli di relazioni, proporzionalità diretta ed inversa
 
+Nei capitoli precedenti abbiamo incontrato problemi come quelli riportati di seguito:
+
+a) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
+
+b) In 4 giorni 16 operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
+
+Questi problemi hanno in comune la loro richiesta di individuare una espressione letterale che esprima la misura di una quantità (ad esempio il numero di torte di quest'anno, detta ***variabile dipendente***) che dipende da un'altra quantità (numero di torte dello scorso anno, detta ***variabile indipendente***) che non conosciamo. Avere la soluzione del problema è utile in quanto ci consente di sapere, per i valori della variabile indipendente che ci interessano, quelli della variabile dipendente. Nel caso del primo problema una casistica è riportata nella tabella seguente.
+
+$$
+\begin{array}{c|c}
+\hline
+\textbf{N. Torte } & \textbf{N. Torte} \\
+\textbf{Scorso Anno } & \textbf{Anno in Corso} \\
+x & y = 150\% \cdot x \\ 
+\hline 
+10 & 15 \\ 
+30 &  45\\ 
+50 & 75 \\  
+100 &  150 \\  
+200 & 300 \\  
+\end{array}
+$$
+
+La relazione tra $x$ e $y = 150 \% \cdot x$ è detta ***modello matematico del problema*** e, nel caso del primo problema come si vede dalla tabella, la relazione tra $x$ ed $y$ è crescente, poiché $y$ cresce al crescere di $x$.
+
+Si può inoltre osservare che il rapporto tra $y$ e $x$ è costante e vale $150 \% = 0,15$, ossia $\dfrac{y}{x} = 0,15$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali***. 
+
+
+
 ### ESERCIZIO 1: Calcolo del valore di una espressione
 
 a) Calcola il valore dell'espressione $x^2$ per i valori della $x$ indicati nella tabella seguente.
@@ -38,45 +67,77 @@ b) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 
 
-### ESERCIZIO 2 - Proporzionalità diretta ed inversa
+### ESERCIZIO 2 - Proporzionalità diretta
 
-a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per 38 ore viene pagato 475 euro, quanto prenderà se lavora 30 ore? 
+a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475\, \mbox{\euro}$ euro, quanto prenderà se lavora $30$ ore? 
 
-b) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenta durante il viaggio. Se viaggia 4 ore ad 80 Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a 60 Km l'ora?
+b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6$ m^2^ ?
 
-c) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di 16 metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di 6 m^2^ ?
-
-d) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di 30 Kg è di 18 mg, quale è la dose per un bambino di 45 Kg?  
+c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
 
 
 
-### ESERCIZIO 3 - Formule della proporzionalità
+## UNITA' 2: Proporzionalità inversa
+
+Consideriamo ora il problema seguente: 
+
+In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
+
+Se indichiamo con la lettera $x$ il numero di operai di una cantiere e con $t$ il numero di giorni di lavoro dell cantiere, la relazione è $\dfrac{1}{16 \cdot 4} = \dfrac{1}{t \cdot x}$ che equivale a $t \cdot x = 64$, ossia $x \longrightarrow t = \dfrac{64}{x}$
+$$
+\begin{array}{c|c}
+\hline
+\textbf{N. Operai } & \textbf{N. Giorni} \\
+x & t = \dfrac{64}{x} \\ 
+\hline 
+2 &  32\\ 
+4 & 16 \\ 
+8 & 8 \\  
+16 &  4 \\  
+\end{array}
+$$
+
+Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante ed uguale a $64$. Quando al variare di due quantità il loro prodotto resta costante si dice che le due quantità sono ***inversamente proporzionali***.
+
+
+
+### ESERCIZIO 3 - Proporzionalità inversa
+
+a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
+
+b) Un negozio di bricolage acquista $2.871$ Kg di chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9, 11, 29, 33$.
+
+c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $10, 25, 33, 50 \%$ . Quale sarebbe lo sconto di una giacca da $300\, \mbox{\euro}$ nei vari casi?
+
+
+
+### ESERCIZIO 4 - Formule di proporzionalità
 
 a) Esprimi con una formula le relazioni tra le quantità nei casi riportati di seguito.
 
-1. La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per 38 ore viene pagato 475 euro, quale sarà la sua retribuzione $y$ per $x$ ore di lavoro?
-2. I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Se una parete di 16 metri quadrati richiede due litri di vernice, quanti litri $y$ di vernice sono necessari per una parete di $x$ m^2^ ?
-3. Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia 4 ore ad 80 Km l'ora per raggiungere la destinazione, a che velocità $v$ dovrà andare per percorrere il tragitto in $t$ ore?
+1. La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475$ euro, quale sarà la sua retribuzione $y$ per $x$ ore di lavoro?
+2. I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Se una parete di $16$ metri quadrati richiede due litri di vernice, quanti litri $y$ di vernice sono necessari per una parete di $x$ m^2^ ?
+3. Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, a che velocità $v$ dovrà andare per percorrere il tragitto in $t$ ore?
 
-b) Per ciascuno dei punti dell'esercizio a) fare una tabella ed un grafico cartesiano con 5 valori scelti a caso.  La relazione tra la variabile dipendente e quella indipendente è crescente o descrescente?
+b) Per ciascuno dei punti dell'esercizio a) fare una tabella ed un grafico cartesiano con $5$ valori scelti a caso.  La relazione tra la variabile dipendente e quella indipendente è crescente o decrescente?
 
 c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che rappresentano le quantità:
 
-1. L'ammontare dell'IVA da pagare (aliquota 22%) varia direttamente con il costo (imponibile) di acquisto di una macchina.
+1. L'ammontare dell'IVA da pagare (aliquota $22\%$) varia direttamente con il costo (imponibile) di acquisto di una macchina.
 2. Le ore impiegate da un pendolare per recarsi da casa al posto di lavoro variano inversamente alla velocità (media) di percorrenza del tragitto.
-3. L'ammontare dell'IVA (al 22%) ed il prezzo (IVA inclusa) di acquisto di una macchina.
+3. L'ammontare dell'IVA (al $22\%$) ed il prezzo (IVA inclusa) di acquisto di una macchina.
 
 
 
-## UNITA' 2: Relazioni lineari tra grandezze
+## UNITA' 3: Relazioni lineari tra grandezze
 
-### ESERCIZIO 4 - Funzioni lineari
+### ESERCIZIO 5 - Funzioni lineari
 a) Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
 
 1. $f(x) = x$;
 2. $f(x) = -x$;
 3. $f(x) = \dfrac{1}{2} x$;
-4. $f(x) = 2x +1$;
+4. $f(x) = -2x +1$;
 5. $f(x) = 4x$.
 
 b) Individua quali delle successioni trovate sono crescenti e quali decrescenti.
@@ -92,7 +153,7 @@ a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di 
 
 
 
-### ESERCIZIO 5 - Dipendenza lineare
+### ESERCIZIO 6 - Dipendenza lineare
 
 a) Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 
@@ -114,19 +175,19 @@ Compariranno i punti sul grafico. Se i punti sono allineati la dipendenza è lin
 
 
 
-### ESERCIZIO 6 - Interesse semplice
+### ESERCIZIO 7 - Interesse semplice
 
-Una persona prende in prestito da una finanziaria 1.000 euro (capitale) per pagare un corso di formazione. Dovrà restituire il capitale dopo 5 anni in una unica soluzione ma pagare trimestralmente l'1% dell'importo ricevuto, a titolo di interesse, finchè non estingue il debito.
+Una persona prende in prestito da una finanziaria $1.000 \, \mbox{\euro}$ (capitale) per pagare un corso di formazione. Dovrà restituire il capitale dopo $5$ anni in una unica soluzione ma pagare trimestralmente l'$1\%$ dell'importo ricevuto, a titolo di interesse, finché non estingue il debito.
 
 a) Se $I_n$ è l'ammontare degli interessi pagati fino all'$n$-esimo trimestre e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
 
-b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri? Quale sarà l'importo totale degli interessi pagati dopo 5 anni?
+b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri? Quale sarà l'importo totale degli interessi pagati dopo $5$ anni?
 
 
 
-### ESERCIZIO 7 - Prezzo delle bibite
+### ESERCIZIO 8 - Prezzo delle bibite
 
-In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
+In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4\, \mbox{\euro}$, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
 
 a) Detti $P_n = 40 + 5 \cdot n, \: n=0, 1, 2,...,6$ una successione di prezzi delle lattine, e $Q_n = 141 -12 \cdot n$ le corrispondenti quantità vendute, calcola la quantità venduta per i prezzi $\{40, 35, 30, 25, 20, 15, 10\}$, e riporta i risultati sulla tabella seguente.
 $$
@@ -147,7 +208,7 @@ d) Quali considerazioni si possono fare a proposito della crescenza o decrescenz
 
 
 
-### ESERCIZIO 8 - Consumo di carburante
+### ESERCIZIO 9 - Consumo di carburante
 
 Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda ha osservato che il trattore consuma $25$ litri di gasolio l'ora e, all'inizio dell'attività di aratura, ha una scorta di $1500$ litri di gasolio. Considerato che ogni giorno lavorativo il trattore ara per circa $6$ ore, calcolare:
 
@@ -159,7 +220,7 @@ c) il numero di giorni necessari per l'esaurimento completo della scorta.
 
 
 
-### ESERCIZIO 9 - Studio epidemiologico
+### ESERCIZIO 10 - Studio epidemiologico
 
 Uno scienziato studia la diffusione di una epidemia in una piccola città con un modello lineare. Lo scienziato stima che all'inizio dello studio c'erano $3.700$ casi e $45$ nuovi casi al giorno. 
 
@@ -169,7 +230,7 @@ b) Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la 
 
 
 
-### ESERCIZIO 10 - La dipendenza quadratica
+### ESERCIZIO 11 - La dipendenza quadratica
 
 a) L'area di un quadrato dipende dalla lunghezza del suo lato. Scrivi la funzione che calcola l'area $y$ di due quadrati uguali, ciascuno con un lato lungo $x$ metri.
 
@@ -179,9 +240,9 @@ c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata
 
 
 
-## UNITA' 3: Crescenza, decrescenza ed esempi di funzioni
+## UNITA' 4: Crescenza, decrescenza ed esempi di funzioni
 
-### ESERCIZIO 11 - Funzioni crescenti e decrescenti
+### ESERCIZIO 12 - Funzioni crescenti e decrescenti
 
 a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate sono crescenti o decrescenti.
 
@@ -190,7 +251,7 @@ a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate 
 
 
 
-### ESERCIZIO 11 - La funzione valore assoluto
+### ESERCIZIO 13 - La funzione valore assoluto
 
 Per ogni funzione costruisci una tabella con cinque valori di $x$ (positivi, negativi o nulli) e rappresenta il grafico
 
@@ -213,7 +274,7 @@ a) Risolvi il punto a) dell'esercizio con i seguenti comandi GEOGEBRA:
 
 
 
-### ESERCIZIO 12 - Le funzioni definite a tratti
+### ESERCIZIO 14 - Le funzioni definite a tratti
 
 a) Calcola il valore della funzione seguente per $n \in \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$: 
 $$
@@ -263,7 +324,7 @@ c) Risolvi il punto c) dell'esercizio con la sequenza seguente di comandi GEOGEB
 
 
 
-### ESERCIZIO 13 - Analisi qualitativa del grafico di funzioni
+### ESERCIZIO 15 - Analisi qualitativa del grafico di funzioni
 
 a) Per ciascuno dei grafici seguenti individua:  
 
@@ -284,7 +345,7 @@ a) Per ciascuno dei grafici seguenti individua:
 
 
 
-## UNITA' 4: Applicazioni dei modelli lineari
+## UNITA' 5: Applicazioni dei modelli lineari
 
 Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ di volta in volta il numero di oggetti/servizi acquistati o prodotti. La formula che lega i costi ai prodotti in generale è la seguente:
 $$
@@ -292,7 +353,7 @@ y = mx+q
 $$
 dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei costi che varia con il numero degli oggetti/servizi acquistati e $q$ è una parte che non varia (quota fissa).
 
-### ESERCIZIO 14 - Applicazioni varie
+### ESERCIZIO 16 - Applicazioni varie
 
 a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
 
@@ -309,7 +370,7 @@ c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezi
 
 
 
-### ESERCIZIO 15 - Esercizio Riassuntivo   
+### ESERCIZIO 17 - Esercizio Riassuntivo   
 
 a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e 100 Km percorsi, un totale di 70 euro e la seconda, sempre per un giorno e 350 Km percorsi, 120 euro.
 
@@ -332,7 +393,7 @@ b) Disegna le curve dei Ricavi-Costi-Utile del punto d) ed individua graficament
 
 
 
-### ESERCIZIO 16 - Analisi dei prezzi
+### ESERCIZIO 18 - Analisi dei prezzi
 
 a) Una società di film a noleggio ha 1000 abbonati ognuno dei quali paga 15 euro al mese. Sulla base di un indagine, il management ritiene che per ogni 25 centesimi di riduzione del costo mensile di abbonamento si avrebbero 20 tesserati in più. Quale dovrebbe essere il prezzo di abbonamento mensile per avere il massimo numero di abbonati?
 

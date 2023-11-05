@@ -2,6 +2,39 @@
 
 ## UNITA' 1: Equazioni con due incognite e loro soluzioni
 
+Fino ad ora abbiamo visto equazioni di I grado con una sola incognita, ma una equazione di primo grado può avere due incognite, come ad esempio $x + y = 5$. Le soluzioni di equazioni del genere sono sempre numeri che sostituiti alle incognite rendono l'equazione una uguaglianza vera, ma stavolta i numeri da sostituire sono due, uno per incognita, per cui una soluzione è sempre una ***coppia di numeri*** che sostituita ordinatamente alle incognite (il primo elemento della coppia per la prima lettera, la $x$, ed il secondo per la seconda, la $y$) rende l'equazione vera.
+
+La tabella seguente riporta alcuni esempi di sostituzioni di coppie di numeri nell'equazione $x + y = 5$.
+
+$$
+\textbf{Sostituzioni} \\
+\begin{array}{|c|c|}
+\hline
+(x, y) & x + y = 5 \\
+\hline 
+(0, 5) & 0 + 5 = 5 \longrightarrow True \\
+\hline 
+(1, 4) & 1 + 4 = 5 \longrightarrow True \\
+\hline 
+(-1, 6) & (-1) + 6 = 5 \longrightarrow True \\
+\hline 
+(2, 6) & 2 + 6 = 5 \longrightarrow False \\
+\hline 
+(-2, 7) & (-2) + 7 = 5 \longrightarrow True \\
+\hline 
+(3, 3) & 3 + 3 = 5 \longrightarrow False \\
+\hline\end{array}
+$$
+Come si può notare a differenza delle equazioni con una sola incognita, dove c'è di norma una sola soluzione, le soluzioni alle equazioni con due incognite sono più di una, sono ***infinite***.
+
+L'operazione di risolvere una equazione con due incognite rispetto ad una delle incognite viene detta ***esplicitazione dell'equazione*** rispetto all'incognita.
+
+#### ESEMPIO
+
+Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che viene detta esplicitazione dell'equazione rispetto all'incognita $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria.
+
+
+
 ### ESERCIZIO 1 - Soluzioni di equazioni con due incognite
 
 a) Verifica di quale equazione è soluzione la coppia di numeri proposta nei punti seguenti.    
@@ -43,7 +76,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 ## UNITA' 2: Sistema di equazioni e metodo di soluzione
 
-Un ***sistema*** di equazioni è un gruppo (due) di equazioni di cui si cercano le soluzioni comuni, ossia le soluzioni di tutte le equazioni. Mentre una equazione ha solitamente infinite soluzioni, due equazioni hanno solitamente (ossia tranne casi particolari) una sola soluzione. Per trovarla si utilizza un metodo detto di ***sostituzione*** che si articola in 4 passi. Per illustrare il metodo risolveremo il sistema seguente:
+Un ***sistema*** di equazioni è un gruppo (due) di equazioni (in due incognite) di cui si cercano le soluzioni comuni, ossia le soluzioni di tutte le equazioni. Mentre una equazione ha solitamente infinite soluzioni, due equazioni hanno solitamente (ossia tranne casi particolari) una sola soluzione. Per trovarla si utilizza un metodo detto di ***sostituzione*** che si articola in 4 passi. Per illustrare il metodo risolveremo il sistema seguente:
 
 $$\left\{  
 \begin{array}{c} 
