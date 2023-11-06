@@ -292,19 +292,23 @@ a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
 
 ## UNITA' 6: Coordinate di punti nel piano
 
-Disegnando due rette perpendicolari in un piano, su ciascuna delle quali indichiamo la posizione dei numeri interi a partire dallo 0 con una unità di misura, come fatto nell'esercizio numero 1, è possibile associare ad ogni punto del piano una coppia di numeri e viceversa ad ogni coppia di numeri un punto, in modo da indicare ogni posizione (punto) nel piano con due numeri dette "coordinate del punto". 
+Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna la posizione dei numeri interi a partire dal loro incrocio su cui segnamo lo $0$, come fatto nell'esercizio numero 1 e come è fatto nella figura seguente,
 
-Dati due numeri, ad esempio $(3,5)$, la posizione del punto associato si individua con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo spostamento sarà verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti si disegna il punto.
+<img src="../Piano Cartesiano e Retta/img/coordinate.png" alt="coordinate" style="zoom:15%;" />
 
-Viceversa indicato un punto, la prima coordinata (detta "ascissa") si trova prendendo la distanza dalla retta verticale (4 unità nella figura), la seconda ("ordinata"), prendendo la distanza dalla retta orizzontale (2 unità nella figura)..
+ad ogni punto del piano risulta associata una coppia di numeri, detta ***coppia di coordinate***, che lo individua univocamente e che ne indica la posizione. La costruzione si chiama ***sistema di riferimento (piano) cartesiano***.
 
-<img src="img\coordinate.png" alt="coordinate" style="zoom:15%;" />
+La posizione di un punto, avendo una coppia di coordinate, si determina con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo in verticale, a partire dall'incrocio degli assi, verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti si disegna il punto.
+
+Avendo un punto, le sue coordinate (la coppia) si determinano al contrario raggiungendo la posizione del punto con due spostamenti a partire dall'origine, il primo in orizzontale ed il secondo in verticale: la lunghezza degli spostamenti, con il segno, fornisce le due coordinate.  
+
+La prima coordinata della coppia viene chiamata ***ascissa*** e la seconda ***ordinata***.
 
 
 
-### ESERCIZIO 12 - Posizione di coppie di numeri su un piano
+### ESERCIZIO 12 - Posizionamento di punti su un piano cartesiano
 
-a) Per ogni coppa di numeri interi riportata di seguito, disegna un punto su un piano con due rette perpendicolari (riferimento cartesiano) .
+a) Per ogni coppa di numeri interi riportata di seguito, disegna il punto corrispondente su un piano di riferimento cartesiano .
 
 1. $Q = \{(1,1), (-1,1), (-1,-1), (1,-1)\};$
 2. $T = \{(-1,0), (1,0), (0,1)\};$
@@ -588,24 +592,24 @@ $$
 
 a) Calcolare le seguenti potenze di numeri interi.
 
-1. $(-2)^3, (-2)^4, (+2)^5, (-1)^4, (-5)^0;$
-2. $-1^7, -1^6, (-1)^6, (-1)^7$.
+1. $(-2)^3,$    $(-2)^4,$    $(+2)^5,$    $(-1)^4,$    $(-5)^0;$
+2. $-1^7,$    $-1^6,$    $(-1)^6,$    $(-1)^7$.
 
 b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle potenze.
 
-1. $(-6)^9:(-6)^3, (-2)^2\cdot(-2)\cdot(-2)^4,[(-6)^3]^2:(6)^5;$
-2. $[(-5)^4\cdot(4)^4]\cdot(-20)^3, [(2)^3\cdot(5)^3]^2:(-10)^3$.
+1. $(-6)^9:(-6)^3,$    $(-2)^2\cdot(-2)\cdot(-2)^4,$    $[(-6)^3]^2:(6)^5;$
+2. $[(-5)^4\cdot(4)^4] : (-20)^3$,     $[(2)^3\cdot(5)^3]^2:(-10)^3$.
 
 
 
 ### ESERCIZIO 22 - Proprietà delle potenze
 
-Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.  
+a) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
 
-a) $(6^{3}:6\text{·}6^{2})^{2};\enspace \:(2^{3})^{4}:4^{4};\enspace \:(4\text{·}3^{2})^{3}$     [Suggerimento: sostituisci $4$ con $2^2$];
+1. $(6^{3}:6\text{·}6^{2})^{2};$    $(2^{3})^{4}:4^{4};$    $(4\text{·}3^{2})^{3};$     [Suggerimento: sostituisci $4$ con $2^2$];
+2. $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};$    $[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
 
-b) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};\enspace \:-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
+b) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
 
-c) $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$
-
-d) $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$
+1. $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$
+2. $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$

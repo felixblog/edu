@@ -1,7 +1,42 @@
 
 # Piano Cartesiano e Retta
 
-## UNITA' 1: Piano cartesiano e coordinate dei punti
+## UNITA' 1: Piano cartesiano ed equazioni con due incognite
+
+Un ***piano cartesiano*** è costituito da un piano sul quale sono state disegnate due rette perpendicolari, su ciascuna delle quali è possibile indicare le posizioni dei numeri a partire dallo 0, in modo che ad ogni punto sia associabile una coppia di numeri e viceversa ad ogni coppia di numeri (coordinate) corrisponda un punto.
+
+<p align="center"><img src="img\coordinate.png" alt="coordinate" style="zoom:15%;" /> </p>
+
+Una equazione con due incognite, come ad esempio $x + y = 5$ è una relazione tra due numeri, il numero $x$ ed il numero $y$ che può immediatamente essere "letta" come una proprietà dei punti del piano: ci saranno punti che soddisfano l'equazione, se le loro coordinate sostituite alle incognite dell'equazione la rendono vera (ossia sono soluzione) e punti che non la soddisfano. Le coppie di numeri che rendono vera l'equazione, ossia le sue soluzioni, individuano un sottoinsieme dei punti del piano cartesiano definito dall'equazione.
+
+#### ESEMPIO
+
+Data l'equazione $y = 3x$, la tabella seguente presenta un campione di sei punti di cui tre sono soluzione e tre non lo sono.
+$$
+\textbf{Sostituzioni} \\
+\begin{array}{|c|c|}
+\hline
+\mathbf{(x, y)} & \mathbf{y = 3x} \\
+\hline 
+(0, 0) & 0 = 3 \cdot 0 \longrightarrow True \\
+\hline 
+(1, -3) & -3 = 3 \cdot 1 \longrightarrow False \\
+\hline 
+(-1, -3) & -3 = 3 \cdot (-1) \longrightarrow True \\
+\hline 
+(2, 6) & 6 = 3 \cdot 2 \longrightarrow True \\
+\hline 
+(-2, 0) & 0 = 3 \cdot (-2) \longrightarrow False \\
+\hline 
+(3, 6) & 6 = 3 \cdot 3 \longrightarrow False \\
+\hline\end{array}
+$$
+
+<img src="img/Soluzioni-e-no.png" alt="Soluzioni-e-no" style="zoom:15%;" />
+
+Si verifica allora che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti del piano allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.
+
+
 
 ### ESERCIZIO 1 - Punti allineati
 
@@ -27,21 +62,22 @@ b) Risolvi il punto c) con la sequenza di istruzioni seguente:
 
 ### ESERCIZIO 2 - Campione di punti
 
-a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione (una retta). Per ognuno, trova un campione di 5 punti che vi appartiene e riporta i punti su di un piano cartesiano.  
+a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione (una retta). Per ognuno, trova un campione di 3 punti che vi appartiene e riporta i punti su di un piano cartesiano.
 
-1. $A = \{(x; y): y = -1\};$
+1. $A = \{(x, y): y = 3x\};$
 
-2. $B = \{(x; y): y = 3x\};$
+2. $B = \{(x, y): y = x + 1\};$
 
-3. $C = \{(x; y): y = -x + 1\};$
+3. $C = \{(x, y): x + y = 1\}$.
 
-4. $E = \{(x; y): x + y = 1\}$.
+b) Trova tre punti di ciascuno degli insiemi seguenti.
 
-b) Ricalcola il campione richiesto nel punto a) dell'esercizio in modo che sia presente il punto che l'insieme ha in comune con l'asse verticale. 
+1. $A = \{(x, y): y = -1 + 0 \cdot x\};$
+2. $B = \{(x, y): x = -1 + 0 \cdot y\}$.
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punti dell'esercizio d) seguendo le indicazioni riportate in ciascun passo. 
+a) Risolvi il punto dell'esercizio a.2) seguendo le indicazioni riportate in ciascun passo. 
 
 Passo 1: Inserisci l'equazione dell'esercizio, mediante l'istruzione $f: y=x+1$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
 
@@ -57,7 +93,73 @@ Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori del
 
 ## UNITA' 2: La retta e la sua equazione
 
-### ESERCIZIO 3 - Grafico della retta
+Una retta geometrica è un insieme di punti allineati. In un piano cartesiano, i punti di una retta hanno le coordinate che sono soluzioni di una equazione della forma che segue:
+$$
+y = mx+q
+$$
+detta ***equazione (in forma esplicita) della retta***. Le lettere $m$ e $q$ rappresentano due numeri qualsiasi per cui quelle che seguono sono tutte equazioni di rette.
+
+#### ESEMPI
+
+Individuiamo $m$ e $q$ nelle equazioni che seguono:
+
+1. $y = 3x -5$,    $m = 3$ e $q = -5$;
+2. $y = -\dfrac{5}{4}x$,    $m = -\dfrac{5}{4}$ e $q = 0$;
+3. $y = \dfrac{2}{3},$    $m = 0$ e $q = \dfrac{2}{3}$.
+
+Sono due i primi problemi che ci si presentano quando si parla di rette ed equazioni:
+
+1. Data una equazione di I grado, disegnare nel piano la retta geometrica associata;
+2. Data una retta geometrica (cioè almeno le coordinate di due punti su cui passa la retta) scrivere l'equazione associata, in forma esplicita.
+
+Risolviamo il primo problema. 
+
+Per disegnare in un piano cartesiano la retta geometrica corrispondente ad una equazione in forma esplicita basta trovare due soluzioni sostituendo all'incognita $x$ due numeri in successione e calcolando il corrispondente valore della $y$.
+
+#### ESEMPIO
+
+Data l'equazione $y = -2x -1$ diamo ad $x$ i valori $0$ ed $1$ e calcoliamo la corrispondente $y$:
+
+a) $y = -2x -1, \{x = 0\} \longrightarrow y = -2 \cdot (0) -1 \longrightarrow y = -1$;
+
+b) $y = -2x -1, \{x = 1\} \longrightarrow y = -2 \cdot (1) -1 \longrightarrow y = -3$.
+
+Organizzando i punti in tabella:
+$$
+y = -2x -1 \\
+\begin{array}{c|c}
+x & y \\
+\hline 
+0 & -1 \\
+1 & -3 \\
+\end{array}
+$$
+<img src="img/Retta-per-2-punti.png" alt="Retta-per-2-punti" style="zoom:15%;" />
+
+#### ESEMPIO
+
+Scriviamo in forma esplicita l'equazione $-2y + 3 = 4x$.
+
+a)  $-2y + 3 = 4x$;
+
+b)  $-2y = 4x - 3$;
+
+c)  $-\dfrac{1}{2} \cdot (-2y) = -\dfrac{1}{2} \cdot (4x - 3)$;
+
+d) $y = -2x + \dfrac{3}{2}$.
+
+
+
+### ESERCIZIO 3 - Dalla retta generica alle rette specifiche
+
+Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri
+
+1. $m=1, \; q=1;$       $m=-1, \;  q=0;$       $m=0, \; q=-2;$
+2. $m=\dfrac{1}{2}, \; q=2;$       $m=-\dfrac{3}{4}, \; q= -5;$        $m=-\dfrac{2}{5}, \; q= -\dfrac{1}{3}$.
+
+
+
+### ESERCIZIO 5 - Grafico della retta
 
 a) Disegna le due rette rappresentate dalle seguenti equazioni trovando almeno due punti per i quali passa ciascuna di esse.
 
@@ -88,26 +190,43 @@ b) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y = \dfrac{1
 
 
 
-### ESERCIZIO 4 - Coefficiente angolare di una retta
+## UNITA' 4: Dalla retta all'equazione
+
+Le lettere $m$ e $q$ nell'equazione della retta generica indicano due numeri molto importanti che si chiamano rispettivamente ***coefficiente angolare*** ed ***intercetta all'asse delle $\mathbf{y}$***. Ribadiamo che per poter parlare di coefficiente angolare ed intercetta all'asse delle $y$ l'equazione deve essere nella forma $y = \text{numero} \cdot x + \text{numero}$.
+
+L'equazione $y = mx + q$ + detta ***generica*** perché avendo solo lettere, non indica nessuna retta del piano. In questo caso, poiché le equazioni delle rette hanno tutte la stessa forma, l'unica cosa che le distingue sono i valori delle lettere $m$ e $q$. Ogni volta che sostituiamo ad $m$ e $q$ due numeri, otteniamo una retta specifica che è possibile disegnare nel piano.
+
+Per avere la retta specifica che passa per due punti di cui abbiamo le coordinate i numeri $m$ e $q$ si calcolano con le formule seguenti. Se i punti hanno coordinate $(x_1, y_1)$ e $(x_2, y_2)$ abbiamo:
+$$
+\left\{  
+\begin{array}{l} 
+m = \dfrac{y_2 - y_1}{x_2 - x_1} \\  
+q = y_2 - m \cdot x_2 \\   
+\end{array} 
+\right.
+$$
+
+
+### ESERCIZIO 6 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
-a) $\{(4; -5), (2; 3)\};$ 
+a) $\{(4, -5), (2, 3)\};$ 
 
-b) $\{(-3; 1), (-1; -2)\};$
+b) $\{(-3, 1), (-1, -2)\};$
 
-c) $\{(4; 1/2), (2/3; -2)\}$.  
+c) $\{(4, \dfrac{1}{2}), (\dfrac{2}{3}, -2)\}$.  
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-2 - 1}{-1 - \dfrac{1}{2}}$ &#9166; .
 
-### ESERCIZIO 5 - Equazione della retta passante per due punti
+### ESERCIZIO 7 - Equazione della retta passante per due punti
 
 a) Scrivi l'equazione della retta passante per i punti A e B dati nei casi seguenti.  
 
-1. $A(1/2; 1),\enspace B(-1;-2);$  
-2. $A(-2; 0),\enspace B(-2; 10);$   
-3. $A(1;-1),\enspace B(-1/2;1/2);$    
+1. $A(\dfrac{1}{2}, 1)$,    $B(-1,-2);$  
+2. $A(-2, 0),$     $B(-2, 10);$   
+3. $A(1,-1),$     $B(-\dfrac{1}{2}, \dfrac{1}{2});$    
 
 b) Scrivi l'equazione della retta che compare in ciascuna delle figure seguenti. 
 
@@ -127,22 +246,13 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 
 
-### ESERCIZIO 6 - Forma implicita ed esplicita
+### ESERCIZIO 4 - Retta in forma esplicita
 
-a) Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri
+Scrivi in forma esplicita le seguenti equazioni. Quanto valgono $m$ e $q$ in ciascun caso?
 
-1. $m=1, \; q=1;$       $m=-1, \;  q=0;$       $m=0, \; q=-2;$
-2. $m=\dfrac{1}{2}, \; q=2;$       $m=-\dfrac{3}{4}, \; q= -5;$        $m=-\dfrac{2}{5}, \; q= -\dfrac{1}{3};$
+a) $y - \dfrac{1}{2}x = 5$,   $y +\dfrac{-1}{3}x - 4 = 0$  
 
-b) Scrivi in forma implicita le seguenti equazioni di rette
-
-1. $y = \dfrac{1}{2}x$,   $y = \dfrac{-1}{3}x - 4$  
-2. $y = \dfrac{11}{8}x$,   $y = 11$  
-
-c) Scrivi in forma esplicita le seguenti equazioni. Quanto valgono $m$ e $q$ in ciascun caso?
-
-1. $y - \dfrac{1}{2}x = 5$,   $y +\dfrac{-1}{3}x - 4 = 0$  
-2. $y - x +2 = 0$,   $y - 4 = x + 9$  
+b) $y - x +2 = 0$,   $y - 4 = x + 9$  
 
 #### Laboratorio GEOGEBRA
 
@@ -158,7 +268,15 @@ b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA r
 
 
 
-### ESERCIZIO 7 - Problemi sulla retta
+## UNITA' 5: Significato geometrico di m e q
+
+
+
+Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q$ è quello di metterla nella forma desiderata, detta ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come $\text{monomio in x} + \text{numero}$ e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
+
+
+
+### ESERCIZIO 8 - Intersezione con gli assi e parallelismo
 
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
@@ -190,7 +308,7 @@ c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),
 
 
 
-### ESERCIZIO 8: Rette parallele e perpendicolari
+### ESERCIZIO 9: Rette parallele e perpendicolari
 
 a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
 
@@ -217,28 +335,30 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 
 
-## UNITA' 3: Interpretazione geometrica dei sistemi
+## UNITA' 3: Intersezione di due rette
 
-### ESERCIZIO 9 - Sistemi di equazioni lineari e piano cartesiano
+
+
+### ESERCIZIO 10 - Sistemi di equazioni lineari e piano cartesiano
 
 Dati i sistemi seguenti, per ciascuno di essi disegna le due rette, controlla se la coppia fornita è il loro punto di intersezione e, nel caso non lo fosse, trovalo. 
 
-a)  $$ (3;1) \enspace \enspace \left\{  
-\begin{array}{c} 
+a)  $$ (3,1) \enspace \enspace \left\{  
+\begin{array}{l} 
 5x-3y=12 \\  
 x-2y=1 \\   
 \end{array} 
 \right.$$
 
-b)  $$ (5;-2) \enspace \left\{  
-\begin{array}{c} 
+b)  $$ (5,-2) \enspace \left\{  
+\begin{array}{l} 
 3x+2y=-1 \\  
 6x-9y=2 \\   
 \end{array} 
 \right.$$
 
-c)  $$ (9;2) \enspace \enspace \left\{  
-\begin{array}{c} 
+c)  $$ (9,2) \enspace \enspace \left\{  
+\begin{array}{l} 
 x+3y=-1 \\  
 x-y=7 \\  
 \end{array} 
@@ -255,7 +375,7 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 10 - Pendenza di una linea
+### ESERCIZIO 11 - Pendenza di una linea
 
 a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione $3x + 4y = 12$.
 

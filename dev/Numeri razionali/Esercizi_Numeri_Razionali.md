@@ -19,22 +19,24 @@ La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2.
 Le risposte sono entrambe corrette (la quantità di uova mangiate di cui si parla è la stessa) ma viene indicata in modo diverso: nella prima domanda l'unità di riferimento è l'uovo, nel secondo è la scatola da 4.
 Per costruire la risposta nel secondo caso (frazione) seguiamo il procedimento di cambiare l'unità di riferimento contenuta nella domanda (passiamo dalla scatola all'uovo, che è più piccolo della scatola), contare le unità mangiate ed accoppiarle al totale della scatola: 2/4 che rapidamente diventa 1/2.
 
-Il secondo uso delle frazioni, dopo la misura di quantità, è la rappresentazione di una divisione. Una frazione è anche una divisione che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
+Il secondo uso delle frazioni, dopo la misura delle quantità, è la rappresentazione di una divisione. Una frazione è anche una divisione che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
 $\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
 
 $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
-Il terzo uso delle frazioni è come moltiplicatore di un'altra quantità. Vediamo un esempio.
-Una scatola di uova costa 2 euro. Supponendo che le uova siano uguali, quanto costano le uova che ha mangiato Pierino?
-ragionando a scatole, la metà di 2 euro, cioè $\dfrac{1}{2} \cdot 2 \; \mbox{\euro} \longrightarrow 1 \; \mbox{\euro}$.
+Il terzo uso delle frazioni è come moltiplicatore di una quantità. Vediamo un esempio.
+Una scatola di uova costa 2 euro. Se una scatola di uova contiene quattro uova uguali, quanto costano le uova che ha mangiato Pierino?
+Ragionando a scatole, la metà di 2 euro, cioè $\dfrac{1}{2} \cdot 2 \; \mbox{\euro} \longrightarrow 1 \; \mbox{\euro}$.
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali, e comporta il prodotto della frazione per un numero, come negli esempi seguenti.
 
-- Quanti minuti ci sono in 3/4 di ora?
+- Quanti minuti ci sono in $\dfrac{3}{4}$ d'ora?
 - Quanti centesimi sono mezzo euro?
 - Quanto pesa un terzo di torta da 750 grammi?
 
-Per trovare il risultato degli esempi si divide la quantità intera per l'risolvere 
+Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: in mezzo euro ci sono $100 : 2 \cdot 1 \longrightarrow 50$ centesimi, ed un terzo di torta pesa $750 : 3 \longrightarrow 250$ grammi.
+
+ 
 
 ### ESERCIZIO 1 - Il Concetto di Frazione
 
