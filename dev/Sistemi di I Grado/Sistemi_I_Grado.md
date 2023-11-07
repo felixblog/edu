@@ -40,9 +40,9 @@ La ricerca di soluzioni si fa scegliendo un numero a caso come primo elemento de
 
 Per trovare due soluzioni dell'equazione $x + y = 5$ sostituiamo ad $x$ in sequenza i due valori $0$ ed $1$ e risolviamo l'equazione così ottenuta rispetto ad $y$.
 
-a) $x + y = 5 \longrightarrow 0 + y = 5 \longrightarrow y = 5$;
+a) $x + y = 5, \{x = 0\} \longrightarrow (0) + y = 5 \longrightarrow y = 5$;
 
-b) $x + y = 5 \longrightarrow 1 + y = 5 \longrightarrow y = 5 -1 \longrightarrow y = 4$;
+b) $x + y = 5, \{x = 1\} \longrightarrow (1) + y = 5 \longrightarrow y = 5 -1 \longrightarrow y = 4$;
 
 Le due soluzioni trovate sono $(0,5)$ e $(1, 4)$.
 
@@ -138,7 +138,7 @@ c) $x +3 +6x = 10 \longrightarrow 7x = 7 \longrightarrow x = 1$.
 
 **PASSO 4**: (completamento): si sostituisce il numero alla incognita nella coppia trovata alla fine del PASSO 1:
 
-d) $(x, -1-2x) \longrightarrow (1, -1 - 2(1)) \longrightarrow (1, -3)$.
+d) $(x, -1-2x), \{x = 1\} \longrightarrow (1, -1 - 2(1)) \longrightarrow (1, -3)$.
 
 La soluzione letterale diventa la una soluzione numerica del sistema, in questo caso la coppia $(1, -3)$.
 

@@ -1,24 +1,26 @@
-# Numeri interi e coordinate dei punti nel piano
+# Numeri interi e coordinate dei punti
 
-## UNITA' 1: Concetto di numero con segno e posizione su una retta
+## UNITA' 1: Concetto di numeri con segno e punti su una retta
 
 Un numero intero, o relativo, è costituito di due parti: un numero naturale ed un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$.  In una espressione con i numeri interi, ogni numero ha un segno, ed ogni segno ha un numero. A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
 
-I numeri interi si interpretano come indicanti delle posizioni su di una retta dove si sia fissato un punto, detto origine, ed una unità di misura. Ogni numero intero indica allora la posizione di un punto ottenuto con uno spostamento, verso destra (DX) o verso sinistra (SX) a seconda se il numero è positivo o negativo, di una distanza pari al numero naturale. Per ottenere la posizione indicata dal numero intero sulla retta, fai uno spostamento, a partire dallo zero, verso DX se il numero è positivo e verso SX se è negativo. Alla fine dello spostamento disegna il punto.
+E' molto utile mettere in corrispondenza I numeri interi con i punti di una retta. Se su una retta fissiamo un punto particolare, che chiameremo ***origine***, una unità di misura ed un verso, a destra, abbiamo un sistema di riferimento ad una dimensione detto ***retta orientata***. Possiamo allora indicare la posizione di ogni punto (che dista dall'origine un numero intero) con un numero, che è la distanza del punto dall'origine e con un segno, positivo se il punto è a destra dell'origine, negativo se è a sinistra. Questo numero si chiama ***coordinata del punto***.
+
+#### ESEMPIO
+
+Indicando i nomi dei punti con le lettere maiuscole, nella figura sono posizionati 3 punti (oltre all'origine) sulla retta con le loro coordinate.
+
+<img src="img/Punti-su-Retta.png" alt="Punti-su-Retta" style="zoom:25%;" />
+
+Il punto $Q$ ha la coordinata positiva perché è a destra di $O$, il punto $R$ ha coordinata $-6$ perché il segmento $\overline{OR}$ è lungo 6 ed il punto $R$ è a destra di $O$.
+
+
 
 ### Esercizio 1 - Numeri interi e punti su una retta
 
-a) Disegna su una retta orientata orizzontale i punti indicati dai seguenti numeri: $+3, -5, +4, -2, 0, +1, -4$. 
+a) Disegna su una retta orientata orizzontale i punti $A, B, C, D, E, F, G$ indicati dai numeri: $+3, -5, +4, -2, 0, +1, -4$. 
 
-#### Soluzione
-
-<img src="img\Esercizio-1.png" alt="Esercizio-1" style="zoom:20%;" />
-
-b) Disegna su una retta orientata verticale i punti indicati dai seguenti numeri: $0, -2, 2, 3, 4, -4$ Fai uno spostamento a partire dallo zero verso l'alto se il numero è positivo e verso il basso se è negativo. Alla fine dello spostamento disegna il punto.
-
-#### Soluzione
-
-<img src="img\Esercizio-1b.png" alt="Esercizio-1b" style="zoom: 5%;" />
+b) Disegna su una retta orientata ***verticale*** i punti $P, Q, R, S, T, U$ indicati dai seguenti numeri: $0, -2, 2, 3, 4, -4$. Fai uno spostamento a partire dallo zero verso l'alto se il numero è positivo e verso il basso se è negativo. Alla fine dello spostamento disegna il punto.
 
 
 
@@ -292,27 +294,36 @@ a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
 
 ## UNITA' 6: Coordinate di punti nel piano
 
-Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna la posizione dei numeri interi a partire dal loro incrocio su cui segnamo lo $0$, come fatto nell'esercizio numero 1 e come è fatto nella figura seguente,
+Nell'unità 1 abbiamo visto come con un solo numero sia possibile indicare la posizione di un punto (che ha una distanza intera dall'origine) su una retta. Ora ci chiediamo come sia possibile fare la stessa cosa se il punto è su un piano, ossia come possiamo indicare la posizione dei punti in un piano bidimensionale.
 
-<img src="../Piano Cartesiano e Retta/img/coordinate.png" alt="coordinate" style="zoom:15%;" />
+Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna retta la posizione dei numeri interi a partire dal punto di incrocio, che diciamo ***origine degli assi***, come fatto nell'unità 1, abbiamo la figura seguente, detta ***sistema di riferimento cartesiano***.
 
-ad ogni punto del piano risulta associata una coppia di numeri, detta ***coppia di coordinate***, che lo individua univocamente e che ne indica la posizione. La costruzione si chiama ***sistema di riferimento (piano) cartesiano***.
+<img src="img/coordinate.png" alt="coordinate" style="zoom:15%;" />
 
-La posizione di un punto, avendo una coppia di coordinate, si determina con due spostamenti: il primo, in orizzontale a partire dall'incrocio degli assi,  a destra, se il primo numero è positivo, a sinistra se è negativo. Il secondo in verticale, a partire dall'incrocio degli assi, verso l'alto, se il secondo numero è positivo, verso il basso se è negativo. Alla fine dei due spostamenti si disegna il punto.
+Come si vede, se il punto di cui cerchiamo la posizione non è sulla retta orizzontale ma ha anche una altezza, come il punto $P$, per trovare la sua posizione servono due numeri, e sono i numeri che si trovano immaginando che una formica partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento la formica arriva sotto il punto e con il secondo, in verticale, raggiunge il punto.
 
-Avendo un punto, le sue coordinate (la coppia) si determinano al contrario raggiungendo la posizione del punto con due spostamenti a partire dall'origine, il primo in orizzontale ed il secondo in verticale: la lunghezza degli spostamenti, con il segno, fornisce le due coordinate.  
+Se ad esempio la formica deve raggiungere il punto $P$ partendo dall'origine degli assi, si muoverà di $4$ unità a destra e di $2$ unità in alto, per cui il punto $P$ avrà come coordinate i due numero $4$ e $2$ che si scrivono tra parentesi tonde: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa*** e la seconda ***ordinata***.
 
-La prima coordinata della coppia viene chiamata ***ascissa*** e la seconda ***ordinata***.
-
+Nel caso del punto $P$ le coordinate sono entrambe positive, ma nel caso del punto $Q$ la prima è negativa perché lo spostamento orizzontale è verso sinistra. Analogamente per l'altezza, gli spostamenti verso l'alto corrispondono ad una coordinata (ordinata) positiva, mentre gli spostamenti verso il basso corrispondono ad ordinate negative. I segni delle coordinate sono riportati nella tabella che segue.
+$$
+\begin{array}{c|c}
+		\textbf{Direzione} & \textbf{Segno}\\
+        \hline        
+        Destra & + 		\\
+        Sinistra & - 	\\
+        Alto & + \\ 
+        Basso & - \\ 
+        \end{array}
+$$
 
 
 ### ESERCIZIO 12 - Posizionamento di punti su un piano cartesiano
 
-a) Per ogni coppa di numeri interi riportata di seguito, disegna il punto corrispondente su un piano di riferimento cartesiano .
+a) Posiziona quattro punti su un piano di riferimento cartesiano in corrispondenza delle coordinate $(1,1), (-1,1), (-1,-1), (1,-1)$.
 
-1. $Q = \{(1,1), (-1,1), (-1,-1), (1,-1)\};$
-2. $T = \{(-1,0), (1,0), (0,1)\};$
-3. $R = \{(-3,-1), (-1, -1), (0,-1), (1,-1), (2,-1), (3,-1)\}$.
+b) Posiziona tre punti su un piano di riferimento cartesiano in corrispondenza delle coordinate $(-1,0), (1,0), (0,1)$.
+
+c) Posiziona sei punti su un piano di riferimento cartesiano in corrispondenza delle coordinate $(-3,-1), (-1, -1), (0,-1), (1,-1), (2,-1), (3,-1)$.
 
 #### SOLUZIONI
 
@@ -353,11 +364,12 @@ Considera i due numeri di ogni colonna una coppia di coordinate (es. $(1,5), (2,
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punti a.1, a.2 e a.3 dell'esercizio con le istruzioni GEOGEBRA: 
+a) Risolvi il punto a.1 dell'esercizio con le istruzioni GEOGEBRA: 
 
-1. $Q=\{(1,1),(-1,1),(-1,-1), (1, -1)\}$ &#9166; .
-2. $T=\{(-1,0),(1,0),(0,-1)\}$ &#9166; .
-3. $R=\{(-3,-1),(-1,-1),(0,-1), (1,-1), (2,-1), (3,-1)\}$ &#9166; .
+1. $(1,1)$  &#9166; 
+2. $(-1,1)$  &#9166; 
+3. $(-1,-1)$  &#9166; 
+4. $(1, -1)$ &#9166; .
 
 b) Inserisci nella prima colonna della tabella GEOGEBRA (colonna "x") i dati del Giorno e nella seconda colonna (la "y") i gradi di temperatura. 
 
