@@ -4,23 +4,29 @@
 
 Un numero intero, o relativo, è costituito di due parti: un numero naturale ed un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$.  In una espressione con i numeri interi, ogni numero ha un segno, ed ogni segno ha un numero. A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
 
-E' molto utile mettere in corrispondenza I numeri interi con i punti di una retta. Se su una retta fissiamo un punto particolare, che chiameremo ***origine***, una unità di misura ed un verso, a destra, abbiamo un sistema di riferimento ad una dimensione detto ***retta orientata***. Possiamo allora indicare la posizione di ogni punto (che dista dall'origine un numero intero) con un numero, che è la distanza del punto dall'origine e con un segno, positivo se il punto è a destra dell'origine, negativo se è a sinistra. Questo numero si chiama ***coordinata del punto***.
+E' molto utile mettere in corrispondenza I numeri interi con alcuni punti di una retta. Consideriamo una retta orizzontale e fissiamo un punto particolare, che chiameremo ***origine*** $O$, un segmento come ***unità di misura*** delle distanze ed un ***verso***, a destra, come in figura. 
+
+<img src="img/Retta-Orientata.png" alt="Retta-Orientata" style="zoom:25%;" />
+
+Questo disegno ci da un ***sistema di riferimento*** (ad una dimensione) per indicare la ***posizione*** di ogni punto che dista un multiplo dell'unità di misura dall'origine.
 
 #### ESEMPIO
 
-Indicando i nomi dei punti con le lettere maiuscole, nella figura sono posizionati 3 punti (oltre all'origine) sulla retta con le loro coordinate.
+Indicando i nomi dei punti con le lettere maiuscole e l'origine con la lettera $O$, nella figura sono indicati 3 punti, $R$, $P$ e $Q$ e tra parentesi la loro posizione mediante la loro coordinata.
 
 <img src="img/Punti-su-Retta.png" alt="Punti-su-Retta" style="zoom:25%;" />
 
-Il punto $Q$ ha la coordinata positiva perché è a destra di $O$, il punto $R$ ha coordinata $-6$ perché il segmento $\overline{OR}$ è lungo 6 ed il punto $R$ è a destra di $O$.
+Il punto $Q$ ha come coordinata $4$ perché è a quattro unità a destra dell'origine $O$, il punto $R$ ha coordinata $-6$ perché è a $6$ unità a sinistra dell'origine e così via.
+
+La posizione dei punti è indicata da un numero relativo dove il "numero" è la distanza del punto dall'origine ed il segno indica se il  punto è a destra (segno positivo) o a sinistra (negativo) dall'origine. Questo numero si chiama ***coordinata del punto*** su una ***retta orientata***.
 
 
 
 ### Esercizio 1 - Numeri interi e punti su una retta
 
-a) Disegna su una retta orientata orizzontale i punti $A, B, C, D, E, F, G$ indicati dai numeri: $+3, -5, +4, -2, 0, +1, -4$. 
+a) Disegna su una retta orientata orizzontale i punti $A, B, C, D, E, F, G$ ciascuno nella posizione indicata dalla coordinata corrispondente: $+3, -5, +4, -2, 0, +1, -4$. 
 
-b) Disegna su una retta orientata ***verticale*** i punti $P, Q, R, S, T, U$ indicati dai seguenti numeri: $0, -2, 2, 3, 4, -4$. Fai uno spostamento a partire dallo zero verso l'alto se il numero è positivo e verso il basso se è negativo. Alla fine dello spostamento disegna il punto.
+b) Disegna su una retta orientata ***verticale*** i punti $P, Q, R, S, T, U$ ciascuno nella posizione indicata dalla coordinata corrispondente: $0, -2, 2, 3, 4, -4$. Fai uno spostamento a partire dallo zero verso l'alto se il numero è positivo e verso il basso se è negativo. Alla fine dello spostamento disegna il punto.
 
 
 
@@ -300,7 +306,7 @@ Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna retta l
 
 <img src="img/coordinate.png" alt="coordinate" style="zoom:15%;" />
 
-Come si vede, se il punto di cui cerchiamo la posizione non è sulla retta orizzontale ma ha anche una altezza, come il punto $P$, per trovare la sua posizione servono due numeri, e sono i numeri che si trovano immaginando che una formica partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento la formica arriva sotto il punto e con il secondo, in verticale, raggiunge il punto.
+Come si vede, se il punto di cui cerchiamo la posizione non è sulla retta orizzontale ma ha anche una altezza, come il punto $P$, per trovare la sua posizione servono due numeri, e sono i numeri che si trovano immaginando che una formica partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento la formica arriva sotto il punto (o sopra!) e con il secondo, in verticale, raggiunge il punto.
 
 Se ad esempio la formica deve raggiungere il punto $P$ partendo dall'origine degli assi, si muoverà di $4$ unità a destra e di $2$ unità in alto, per cui il punto $P$ avrà come coordinate i due numero $4$ e $2$ che si scrivono tra parentesi tonde: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa*** e la seconda ***ordinata***.
 
@@ -315,6 +321,7 @@ $$
         Basso & - \\ 
         \end{array}
 $$
+
 
 
 ### ESERCIZIO 12 - Posizionamento di punti su un piano cartesiano
