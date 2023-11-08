@@ -12,7 +12,19 @@ Questo disegno ci da un ***sistema di riferimento*** (ad una dimensione) per ind
 
 #### ESEMPIO
 
-Indicando i nomi dei punti con le lettere maiuscole e l'origine con la lettera $O$, nella figura sono indicati 3 punti, $R$, $P$ e $Q$ e tra parentesi la loro posizione mediante la loro coordinata.
+Consideriamo il problema seguente. Su una strada dritta ci sono delle buche ed una squadra di operai su un piccolo camion deve riparare il manto stradale, come nella figura seguente.
+
+<img src="img/Buche-1.png" alt="Buche-1" style="zoom:25%;" />
+
+Come indicare alla squadra dove si trovano le buche?
+
+Se introduciamo sulla strada un sistema di riferimento (unità di misura il $Km$) la posizione delle buche sarà associata a dei numeri interi, che indicheranno la distanza dall'origine in $Km$, positiva se a destra e negativa se a sinistra.
+
+<img src="img/Buche-2.png" alt="Buche-2" style="zoom:25%;" />
+
+Potremo quindi dire alla squadra che la buca 2 si trova a $3 \;Km$ a sinistra del punto di riferimento preso come origine, ossia ha coordinata $-3$ e così via.
+
+In generale un sistema di riferimento su una retta consente di dare una posizione ai punti. Nella figura sono indicati 3 punti, $R$, $P$ e $Q$ e tra parentesi la loro posizione mediante la loro coordinata.
 
 <img src="img/Punti-su-Retta.png" alt="Punti-su-Retta" style="zoom:25%;" />
 
@@ -302,11 +314,11 @@ a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
 
 Nell'unità 1 abbiamo visto come con un solo numero sia possibile indicare la posizione di un punto (che ha una distanza intera dall'origine) su una retta. Ora ci chiediamo come sia possibile fare la stessa cosa se il punto è su un piano, ossia come possiamo indicare la posizione dei punti in un piano bidimensionale.
 
-Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna retta la posizione dei numeri interi a partire dal punto di incrocio, che diciamo ***origine degli assi***, come fatto nell'unità 1, abbiamo la figura seguente, detta ***sistema di riferimento cartesiano***.
+Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna retta la posizione dei numeri interi a partire dal punto di incrocio, che diciamo ***origine degli assi***, come fatto nell'unità 1, abbiamo la figura seguente, detta ***sistema di riferimento cartesiano nel piano***.
 
 <img src="img/coordinate.png" alt="coordinate" style="zoom:15%;" />
 
-Come si vede, se il punto di cui cerchiamo la posizione non è sulla retta orizzontale ma ha anche una altezza, come il punto $P$, per trovare la sua posizione servono due numeri, e sono i numeri che si trovano immaginando che una formica partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento la formica arriva sotto il punto (o sopra!) e con il secondo, in verticale, raggiunge il punto.
+Come si vede, se il punto di cui cerchiamo la posizione non è sulla retta orizzontale ma ha anche una altezza, come il punto $P$, per trovare la sua posizione servono due numeri, e sono i numeri che si trovano immaginando che una formica partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento la formica arriva sotto (o sopra!) il punto e con il secondo, in verticale, lo raggiunge.
 
 Se ad esempio la formica deve raggiungere il punto $P$ partendo dall'origine degli assi, si muoverà di $4$ unità a destra e di $2$ unità in alto, per cui il punto $P$ avrà come coordinate i due numero $4$ e $2$ che si scrivono tra parentesi tonde: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa*** e la seconda ***ordinata***.
 
@@ -336,7 +348,7 @@ c) Posiziona sei punti su un piano di riferimento cartesiano in corrispondenza d
 
 <img src="img\Es-11.a.png" alt="Es-11.a" style="zoom:10%;" />   <img src="img\Es-11.b.png" alt="Es-11.b" style="zoom:10%;" />     <img src="img\Es-11.c.png" alt="Es-11.c" style="zoom:10%;" />
 
-b) La tabella seguente riporta le temperature misurate in una città alle otto del mattino nei primi 10 giorni del mese di Dicembre del 2022.
+d) La tabella seguente riporta le temperature misurate in una città alle otto del mattino nei primi 10 giorni del mese di Dicembre del 2022.
 $$
 \begin{array}{c|r}
 \text{Giorno} & \text{Gradi} \\
@@ -371,14 +383,14 @@ Considera i due numeri di ogni colonna una coppia di coordinate (es. $(1,5), (2,
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a.1 dell'esercizio con le istruzioni GEOGEBRA: 
+a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA: 
 
 1. $(1,1)$  &#9166; 
 2. $(-1,1)$  &#9166; 
 3. $(-1,-1)$  &#9166; 
 4. $(1, -1)$ &#9166; .
 
-b) Inserisci nella prima colonna della tabella GEOGEBRA (colonna "x") i dati del Giorno e nella seconda colonna (la "y") i gradi di temperatura. 
+b) Risolvi il punto d) dell'esercizio visualizzando una tabella; inserisci nella prima colonna della tabella GEOGEBRA (colonna "x") i dati del Giorno e nella seconda colonna (la "y") i gradi di temperatura. 
 
 
 
