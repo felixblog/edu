@@ -322,7 +322,7 @@ Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna retta l
 
 Consideriamo il problema seguente. In una città ci sono delle buche sulle strade ed una squadra di operai su un piccolo camion deve riparare il manto stradale. Per semplicità facciamo finta che le strade della città siano tutte dritte, alcune orizzontali ed alcune verticali, come a Manhattan, e che le buche siano negli incroci, come nella figura seguente.
 
-<img src="img/Citta-Buche.png" alt="Buche-1" style="zoom:15%;" />
+<img src="img\Citta-Buche.png" alt="Buche-1" style="zoom:15%;" />
 
 Come indicare alla squadra dove si trovano le buche se non abbiamo nessun un punto di riferimento?
 
@@ -330,7 +330,7 @@ Se scegliamo nella città un punto di riferimento come una scuola o un edificio 
 
 
 
-<img src="img/Citta-Buche-2.png" alt="Buche-2" style="zoom:15%;" />
+<img src="img\Citta-Buche-2.png" alt="Buche-2" style="zoom:15%;" />
 
 Potremo quindi dire alla squadra che la buca 2 si trova a $6 \;Km$ a destra della scuola ed a $4 Km$ sopra la scuola, ossia ha coordinate $(6, 4)$ mentre la buca 1 è a $2 \; Km$ a sinistra della scuola ed a $6 \; Km$ in basso, cioè le coordinate sono $(-2, -6)$ e così via.
 
