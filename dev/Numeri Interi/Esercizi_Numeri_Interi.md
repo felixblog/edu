@@ -2,7 +2,9 @@
 
 ## UNITA' 1: Concetto di numeri con segno e punti su una retta
 
-Un numero intero, o relativo, è costituito di due parti: un numero naturale ed un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$.  In una espressione con i numeri interi, ogni numero ha un segno, ed ogni segno ha un numero. A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
+Un numero intero, o relativo, è un numero costituito di due parti: la prima parte è un numero naturale e la seconda è un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$.  
+
+In una espressione con i numeri interi, ogni numero ha un segno, ed ogni segno ha un numero. A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
 
 E' molto utile mettere in corrispondenza I numeri interi con alcuni punti di una retta. Consideriamo una retta orizzontale e fissiamo un punto particolare, che chiameremo ***origine*** $O$, un segmento come ***unità di misura*** delle distanze ed un ***verso***, a destra, come in figura. 
 
@@ -16,9 +18,9 @@ Consideriamo il problema seguente. Su una strada dritta ci sono delle buche ed u
 
 <img src="img/Buche-1.png" alt="Buche-1" style="zoom:25%;" />
 
-Come indicare alla squadra dove si trovano le buche?
+Come indicare alla squadra dove si trovano le buche se non abbiamo nessun punto di riferimento?
 
-Se introduciamo sulla strada un sistema di riferimento (unità di misura il $Km$) la posizione delle buche sarà associata a dei numeri interi, che indicheranno la distanza dall'origine in $Km$, positiva se a destra e negativa se a sinistra.
+Se scegliamo nella città un punto di riferimento come una scuola o un edificio che la squadra conosce (diventa la nostra ***origine***) e misuriamo le distanze in $Km$, introduciamo nella città un sistema di riferimento e la posizione delle buche sarà indicata da dei numeri interi, che misureranno la distanza dall'origine, positiva se a destra e negativa se a sinistra.
 
 <img src="img/Buche-2.png" alt="Buche-2" style="zoom:25%;" />
 
@@ -62,13 +64,13 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 ## UNITA' 2: Opposto, valore assoluto e relazioni
 
-L'**opposto** di un numero intero è un secondo numero che ha lo stesso numero naturale del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
+L'**opposto** di un numero intero è un secondo numero intero che ha lo stesso numero naturale del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
 
-Il **valore assoluto** di un numero intero è un secondo numero corrispondente al numero naturale "senza il segno" del numero intero. In pratica, se il numero è positivo, il suo valore assoluto è uguale al numero, se il numero è negativo è uguale all'opposto del numero, ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$.
+Il **valore assoluto** di un numero intero è un secondo numero intero sempre positivo, corrispondente al numero naturale del primo (si dice anche che il valore assoluto di un numero è il numero "senza il segno"). 
 
-Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
+Detto in altro modo, se il numero è positivo, il suo valore assoluto è uguale al numero, se il numero è negativo è uguale all'opposto del numero, ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$. Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
 
-La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri e precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "valore di verità" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow True$ . Osserviamo che $3 \lt 3 \longrightarrow False$ .
+La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow True$ . Osserviamo che $3 \lt 3 \longrightarrow False$ .
 
 I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow True$  e  $3 \le 3 \longrightarrow True$ .
 
@@ -93,11 +95,11 @@ a) Controlla la verità delle seguenti relazioni:
 
 ## UNITA' 3: Somma tra numeri interi
 
-Parlando di numeri interi, ricorda che i simboli "$+$" e "$-$" non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "**somma algebrica**" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo.
+Nel "mondo" dei numeri interi, i simboli "$+$" e "$-$" che troviamo nelle espressioni non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "**somma algebrica**" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo.
 
 #### ESEMPIO
 
-L'espressione $3+2$ contiene due numeri, $3$ e $+2$ in sequenza, uno dopo l'altro; in mezzo a loro vi è una operazione chiamata somma algebrica (a destra del $3$ ed a sinistra del "$+$") nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{|}}+2$ , come negli esempi seguenti:
+L'espressione $3-2$ nel "mondo" dei numeri naturali contiene due numeri, $3$ e $2$ ed una operazione, la sottrazione. Nel mondo dei numeri interi contiene due numeri, $3$ e $-2$ in sequenza, uno dopo l'altro; in mezzo a loro vi è una operazione chiamata somma algebrica (a destra del $3$ ed a sinistra del "$-$") nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{|}} -2$ , come negli esempi seguenti:
 
 - $-123\overset{\downarrow}{\phantom{|}}-23$;
 - $1\overset{\downarrow}{\phantom{|}}-2 \overset{\downarrow}{\phantom{|}} + 3 \overset{\downarrow}{\phantom{|}} -4$.
@@ -312,17 +314,31 @@ a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
 
 ## UNITA' 6: Coordinate di punti nel piano
 
-Nell'unità 1 abbiamo visto come con un solo numero sia possibile indicare la posizione di un punto (che ha una distanza intera dall'origine) su una retta. Ora ci chiediamo come sia possibile fare la stessa cosa se il punto è su un piano, ossia come possiamo indicare la posizione dei punti in un piano bidimensionale.
+Nell'unità 1 abbiamo visto come, se il nostro mondo è limitato agli spostamenti su una retta, con un solo numero sia possibile indicare la posizione di un punto (che ha una distanza intera dall'origine). Ora ci chiediamo come sia possibile fare la stessa cosa se dobbiamo indicare la posizione dei punti su un piano, che ha due dimensioni.
 
 Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna retta la posizione dei numeri interi a partire dal punto di incrocio, che diciamo ***origine degli assi***, come fatto nell'unità 1, abbiamo la figura seguente, detta ***sistema di riferimento cartesiano nel piano***.
 
-<img src="img/coordinate.png" alt="coordinate" style="zoom:15%;" />
+#### ESEMPIO
 
-Come si vede, se il punto di cui cerchiamo la posizione non è sulla retta orizzontale ma ha anche una altezza, come il punto $P$, per trovare la sua posizione servono due numeri, e sono i numeri che si trovano immaginando che una formica partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento la formica arriva sotto (o sopra!) il punto e con il secondo, in verticale, lo raggiunge.
+Consideriamo il problema seguente. In una città ci sono delle buche sulle strade ed una squadra di operai su un piccolo camion deve riparare il manto stradale. Per semplicità facciamo finta che le strade della città siano tutte dritte, alcune orizzontali ed alcune verticali, come a Manhattan, e che le buche siano negli incroci, come nella figura seguente.
 
-Se ad esempio la formica deve raggiungere il punto $P$ partendo dall'origine degli assi, si muoverà di $4$ unità a destra e di $2$ unità in alto, per cui il punto $P$ avrà come coordinate i due numero $4$ e $2$ che si scrivono tra parentesi tonde: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa*** e la seconda ***ordinata***.
+<img src="img/Citta-Buche.png" alt="Buche-1" style="zoom:15%;" />
 
-Nel caso del punto $P$ le coordinate sono entrambe positive, ma nel caso del punto $Q$ la prima è negativa perché lo spostamento orizzontale è verso sinistra. Analogamente per l'altezza, gli spostamenti verso l'alto corrispondono ad una coordinata (ordinata) positiva, mentre gli spostamenti verso il basso corrispondono ad ordinate negative. I segni delle coordinate sono riportati nella tabella che segue.
+Come indicare alla squadra dove si trovano le buche se non abbiamo nessun un punto di riferimento?
+
+Se scegliamo nella città un punto di riferimento come una scuola o un edificio che la squadra conosce (diventa la nostra origine) e misuriamo le distanze in $Km$, introduciamo nella città un sistema di riferimento e la posizione delle buche sarà indicata da dei numeri interi, che misureranno la distanza dall'origine (in $Km$), come nella figura seguente.
+
+
+
+<img src="img/Citta-Buche-2.png" alt="Buche-2" style="zoom:15%;" />
+
+Potremo quindi dire alla squadra che la buca 2 si trova a $6 \;Km$ a destra della scuola ed a $4 Km$ sopra la scuola, ossia ha coordinate $(6, 4)$ mentre la buca 1 è a $2 \; Km$ a sinistra della scuola ed a $6 \; Km$ in basso, cioè le coordinate sono $(-2, -6)$ e così via.
+
+Come si vede, a differenza dell'Unità 1, se i punti di cui vogliamo indicare la posizione non sono vincolati a stare su una retta ma possono stare su un piano, per trovare la loro posizione servono due numeri, e sono i numeri che si trovano immaginando che un oggetto che so muove partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento il mezzo arriva sotto (o sopra!) il punto e con il secondo, in verticale, lo raggiunge.
+
+Se ad esempio il mezzo deve raggiungere la buca 1 partendo dall'origine degli assi, si muoverà di $2$ unità a sinistra $6$ unità in basso, per cui la posizione della buca 1 avrà come coordinate i due numero $-2$ e $-6$ che si scrivono tra parentesi tonde separate da una virgola: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa*** e la seconda ***ordinata***.
+
+I segni delle coordinate, a seconda che la posizione si trovi a destra. sinistra, alto o basso rispetto all'origine, sono riportati nella tabella che segue.
 $$
 \begin{array}{c|c}
 		\textbf{Direzione} & \textbf{Segno}\\
