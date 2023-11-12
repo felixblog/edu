@@ -3,7 +3,47 @@
 
 ## UNITA' 1: Insiemi e loro rappresentazione
 
-### ESERCIZIO 1 - Rappresentazione per Elencazione
+Un ***insieme*** è qualcosa di cui tutti abbiamo un'idea e precisamente è un gruppo di oggetti, concreti o astratti (come lettere dell'alfabeto, numeri, etc.); gli oggetti che formano l'insieme sono detti ***elementi*** dell'insieme.
+
+Un po' più complesso è trovare un modo per descrivere (o rappresentare) un insieme; vi sono tre modi:
+
+1. graficamente;
+2. per elencazione;
+3. mediante proprietà caratteristica degli elementi.
+
+Rappresentare un insieme in modo grafico significa disegnare un ellisse (che rappresenta l'insieme) con all'interno dei punti che rappresentano gli elementi ed il relativo nome univoco.
+
+#### ESEMPIO
+
+L'insieme delle vocali è rappresentato graficamente dalla figura seguente.
+
+<img src="img/venn-1.png" alt="venn-1" style="zoom:15%;" />
+
+Rappresentare un insieme per elencazione significa elencare gli elementi identificati dai loro nomi univoci (non ci possono essere due elementi che hanno lo stesso nome) racchiusi tra parentesi graffe.
+
+#### ESEMPIO
+
+Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, o, u\}$; se vogliamo darli un nome (di solito i nomi iniziano con la lettera maiuscola) scriviamo $Vocali = \{ a, e, i, o, u\}$.
+
+
+
+Una proprietà è ***caratteristica*** degli oggetti di un insieme se consente di individuare tali oggetti tra tutti gli altri che non sono elementi dell'insieme. Una proprietà di un oggetto si esprime attraverso una frase che contiene una lettera e che sarà vera se e solo se al posto della lettera si sostituisce il nome di un oggetto dell'insieme e falso altrimenti.
+
+#### ESEMPIO
+
+Presupponendo che tutti sappiano quali sono le vocali, la proprietà caratteristica dell'insieme delle vocali è data dalla proposizione: "$\text{`x' e' una vocale}$", perché sostituendo:
+
+$\text{"x" e' una vocale}, \{x = u\} \longrightarrow \text{"u" e' una vocale} \longrightarrow True$.
+
+$\text{`x' e' una vocale}, \{x = b\} \longrightarrow \text{`b' e' una vocale} \longrightarrow False$.
+
+Quindi l'insieme delle vocali è indicato come $V = \{x: x \; \acute{e} \; una \; vocale\}$ e si legge "V è l'insieme delle x tali che x è una vocale".
+
+In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... 
+
+
+
+### ESERCIZIO 1 - Rappresentazione per Elencazione.
 
 a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi A, B e C formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea». 
 

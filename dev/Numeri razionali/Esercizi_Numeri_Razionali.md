@@ -6,37 +6,39 @@
 ## UNITA' 1: Concetto ed uso delle Frazioni
 
 I numeri interi non bastano per indicare tutte le quantità che ci si presentano nelle situazioni della vita quotidiana, neanche nelle più comuni: se diciamo che ad uno sportello c'è una fila di tre quarti d'ora, o di un'ora ed un quarto, stiamo misurando il tempo con delle frazioni, non con dei numeri interi.
-Le frazioni indicano una quantità utilizzando una parte (frazione) di una unità di riferimento, nel caso precedente l'ora.
-La frazione si costruisce prendendo la quantità di riferimento (l'ora), dividendola in parti uguali (quattro) e prendendo, di questa nuova quantità, un certo numero di multipli (tre). Si ottiene così la frazione di  "tre quarti" che si scrive $\dfrac{3}{4}$.
 
-"Tre" è un numerale cardinale e "quarti" un numerale ordinale, chiamati rispettivamente "numeratore" (numero superiore) e "denominatore" (numero inferiore).
-Se cambia l'unità di riferimento cambia anche misura della quantità e magari tale misura diventa un numero intero, come nell'esempio seguente. 
-La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2.
+Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale cardinale "Tre" CHE STA SOPRA la linea di frazione, ed il numerale ordinale "quarti" CHE STA SOTTO, chiamati rispettivamente "numeratore" (numero superiore) e "denominatore" (numero inferiore).
 
-1. Quante uova ha mangiato Pierino? Risposta: 2 (numero intero);
-2. Quante scatole di uova ha mangiato Pierino? Risposta: mezza (frazione).
+Le frazioni possono essere considerate sotto tre aspetti diversi.
 
-Le risposte sono entrambe corrette (la quantità di uova mangiate di cui si parla è la stessa) ma viene indicata in modo diverso: nella prima domanda l'unità di riferimento è l'uovo, nel secondo è la scatola da 4.
-Per costruire la risposta nel secondo caso (frazione) seguiamo il procedimento di cambiare l'unità di riferimento contenuta nella domanda (passiamo dalla scatola all'uovo, che è più piccolo della scatola), contare le unità mangiate ed accoppiarle al totale della scatola: 2/4 che rapidamente diventa 1/2.
+Il primo, che corrisponde all'uso più frequente che se ne fa nella vita quotidiana, è la suddivisione di una quantità di riferimento per prenderne un certo numero di parti, come in "tre quarti d'ora". Infatti un ora ha 60 minuti e per trovare i minuti di tre quarti d'ora prendiamo 60, li dividiamo in 4 parti uguali e ne prendiamo 3.
 
-Il secondo uso delle frazioni, dopo la misura delle quantità, è la rappresentazione di una divisione. Una frazione è anche una divisione che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
+Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
+
+- Quanti centesimi ci sono in mezzo euro?
+- Quanto pesa un terzo di torta da 750 grammi?
+
+Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: in mezzo euro ci sono 
+
+$100 : 2 \cdot 1 \longrightarrow 50$ centesimi, ed un terzo di torta pesa $750 : 3 \cdot 1 \longrightarrow 250$ grammi.
+
+Il secondo aspetto che vediamo è quello delle frazioni come divisioni. Una frazione è anche una divisione che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
 $\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
 
 $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
-Il terzo uso delle frazioni è come moltiplicatore di una quantità. Vediamo un esempio.
-Una scatola di uova costa 2 euro. Se una scatola di uova contiene quattro uova uguali, quanto costano le uova che ha mangiato Pierino?
-Ragionando a scatole, la metà di 2 euro, cioè $\dfrac{1}{2} \cdot 2 \; \mbox{\euro} \longrightarrow 1 \; \mbox{\euro}$.
-Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali, e comporta il prodotto della frazione per un numero, come negli esempi seguenti.
+Il terzo aspetto delle frazioni è l'uso che se ne fa per misurare una quantità, e qui interviene l'unità di misura. Facciamo un esempio.
 
-- Quanti minuti ci sono in $\dfrac{3}{4}$ d'ora?
-- Quanti centesimi sono mezzo euro?
-- Quanto pesa un terzo di torta da 750 grammi?
+La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2.
 
-Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: in mezzo euro ci sono $100 : 2 \cdot 1 \longrightarrow 50$ centesimi, ed un terzo di torta pesa $750 : 3 \longrightarrow 250$ grammi.
+1. Quante uova ha mangiato Pierino? Risposta: 2 (numero intero);
+2. Quante scatole di uova ha mangiato Pierino? Risposta: mezza (numero frazionario).
 
- 
+Le risposte sono entrambe corrette (la quantità di uova mangiate di cui si parla è la stessa) ma viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
+Per costruire la risposta nel secondo caso (frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> (passiamo dalla scatola all'uovo, che è più piccolo della scatola), contare le unità mangiate ed accoppiarle al totale della scatola: 2/4 che rapidamente diventa 1/2: se cambia l'unità di misura cambia anche misura della quantità che passa da numero intero a frazione.
+
+
 
 ### ESERCIZIO 1 - Il Concetto di Frazione
 

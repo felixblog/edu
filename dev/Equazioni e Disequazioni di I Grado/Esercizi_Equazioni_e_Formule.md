@@ -11,7 +11,14 @@ Il nostro problema si risolve quindi col trovare un numero che messo al posto de
 
 In generale una ***equazione*** (di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
 
-Le equazioni più semplici che esistano sono quelle ***elementari*** del tipo $x = -3$ oppure $\dfrac{2}{3} = x$. In questi casi la soluzione è ovvia ed è l'unico numero presente nell'equazione che se sostituito all'incognita conduce all'uguaglianza, come ad esempio: $\dfrac{2}{3} = \dfrac{2}{3} \longrightarrow True$.
+I problemi che ci si pongono di fronte ad una equazione sono due:
+
+1. ***Verifica di Soluzione***: Dato un numero, controllare se è una soluzione dell'equazione;
+2. ***Ricerca di soluzioni***: Data una equazione, trovare le sue soluzioni.
+
+Per rispondere alla prima domanda basta sostituire alla incognita il numero e controllare che l'uguaglianza risulti vera, qualunque sia l'equazione.
+
+Ricercare le soluzioni è un compito molto più complesso. Procedendo per gradi, le equazioni più semplici da risolvere sono quelle ***elementari*** del tipo $x = -3$ oppure $\dfrac{2}{3} = x$. In questi casi la soluzione è ovvia ed è l'unico numero presente nell'equazione che una volta sostituita all'incognita produce: $\dfrac{2}{3} = \dfrac{2}{3} \longrightarrow True$.
 
 Le equazioni immediatamente più complesse sono quelle del tipo $3x = -3$ e $10 = x + 4$ per le quali vedremo un metodo risolutivo nella prossima unità.
 
@@ -225,17 +232,17 @@ b) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche ri
 
 Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, l'incognita. Oltre a queste però si usano anche equazioni in cui compaiono altre lettere, oltre a quella che ha il ruolo di incognita, come ad esempio $1-ax=b$, dove l'incognita è $x$.
 
-Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; la soluzione sarà una espressione letterale e non numerica.
+Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (monomi, polinomi e frazioni algebriche) e la soluzione sarà una espressione letterale e non numerica.
 
 a) $1-ax=b$;   Con la regola del trasporto portiamo 1 a destra;
 
-b) $-ax=b-1$;   Con la regola della moltiplicazione/divisione moltiplichiamo tutto per il reciproco del coefficiente di $x$;
+b) $-ax=b-1$;   Con la regola della moltiplicazione/divisione moltiplichiamo tutto per il reciproco del coefficiente di $x$ (frazione algebrica);
 
 c) $-ax(-\dfrac{1}{a})=-\dfrac{1}{a}(b-1)$  Semplificando
 
 d) $x = -\dfrac{1}{a}(b-1)$.
 
-   
+
 
 ### ESERCIZIO 5 - Equazioni letterali
 
