@@ -3,7 +3,13 @@
 
 ## UNITA' 1: Numeri naturali, operazioni ed espressioni
 
-Le espressioni sono sequenze in cui si alternano numeri ed operazioni (tra due numeri c'è sempre una operazione). L'esecuzione ordinata delle operazioni produce, da ogni espressione, un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non facciano parte di una operazione successiva che abbia priorità maggiore, nel qual caso si passa alla seconda. 
+I numeri naturali sono $0$, $1$, $2$, $3$, ... e così via (si ottengono sommando uno in più al precedente). Sono i numeri che servono a contare gli oggetti nella vita quotidiana. Si possono sommare, sottrarre, moltiplicare e dividere secondo le regole note.
+
+ $12 + 4 \longrightarrow 16$;       $12 - 4 \longrightarrow 8$;      $12 \cdot 4 \longrightarrow 48$;      $12 : 4 \longrightarrow 3$. 
+
+Negli esempi visti, ad esempio $12 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni più complesse in cui compaiono due operazioni, come $12 \cdot 4 + 5$; in questo caso il numero $4$ fa parte sia di una moltiplicazione che di una somma. 
+
+Le espressioni sono sequenze di numeri ed operazioni alternate (tra due numeri c'è sempre una operazione). L'esecuzione ordinata delle operazioni di una espressione produce un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
 
 #### ESEMPIO
 
@@ -18,6 +24,8 @@ La sequenza delle operazioni eseguibili sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati prioritariamente nelle operazioni contenute all'interno delle parentesi.
 
 Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra è il prodotto ma il $12$ è dentro la coppia di parentesi per cui l'operazione non è eseguibile (il prodotto è fuori dalla parentesi ed il $12$ è dentro). La prima operazione eseguibile è quindi la somma. La sequenza delle operazioni eseguibili sarà allora quella indicata dagli apici:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
+
+
 
 ### ESERCIZIO 1 - Operazioni ed Espressioni (I)
 
