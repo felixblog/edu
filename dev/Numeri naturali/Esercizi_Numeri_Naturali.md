@@ -268,9 +268,56 @@ d) Applicando le proprietà, semplifica le espressioni seguenti riscrivendole us
 
 
 
-## UNITA' 7: Numeri primi, MCM e MCD
+## UNITA' 7: Insiemi e loro rappresentazione
 
-### ESERCIZIO 11 - Fattorizzazione in numeri primi
+Un ***insieme*** è qualcosa di cui tutti abbiamo un'idea e precisamente è un gruppo di oggetti, concreti o astratti (come lettere dell'alfabeto, numeri, etc.); gli oggetti che formano l'insieme sono detti ***elementi*** dell'insieme.
+
+Vediamo due modi per descrivere (o ***rappresentare***) un insieme:
+
+1. graficamente, mediante un diagramma di Venn;
+2. per elencazione.
+
+
+
+Rappresentare un insieme in modo grafico significa disegnare un cerchio o ellisse (che rappresenta l'insieme) con all'interno gli elementi rappresentati con dei punti ed il loro nome (univoco) o dal nome soltanto.
+
+#### ESEMPIO
+
+L'insieme delle vocali, che chiameremo $V$, è rappresentato graficamente dalla figura seguente.
+
+<img src="../Insiemi e Relazioni/img/venn-1.png" alt="venn-1" style="zoom:15%;" />
+
+
+
+Rappresentare un insieme per elencazione significa scrivere la sequenza degli elementi identificati dai loro nomi univoci (in un insieme ***non ci possono essere due elementi uguali***) separati da virgola e racchiusi tra parentesi graffe.
+
+#### ESEMPIO
+
+Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, o, u\}$; se vogliamo dare il nome $V$ all'insieme (di solito i nomi degli insiemi sono maiuscoli) scriviamo $V = \{ a, e, i, o, u\}$.
+
+
+
+### ESERCIZIO 11 - Rappresentazione per Elencazione.
+
+a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi $A$, $B$ e $C$ formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea».
+
+b) Rappresenta per elencazione i seguenti insiemi:  
+
+1. I naturali non maggiori di 8;  
+2. I naturali dispari compresi fra 30 e 40;  
+3. I multipli pari di 7 minori di 40;  
+4. I divisori di 42;  
+5. I divisori dispari di 42:  
+6. I giorni della settimana che iniziano per «b»;  
+7. Le vocali della parola «farfalla»
+
+
+
+
+
+## UNITA' 8: Numeri primi, MCM e MCD
+
+### ESERCIZIO 12 - Fattorizzazione in numeri primi
 
 a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
 
@@ -290,7 +337,7 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-### ESERCIZIO 12 - Minimo Comune Multiplo e Massimo Comune Divisore
+### ESERCIZIO 13 - Minimo Comune Multiplo e Massimo Comune Divisore
 
 a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D. o massimo fattore comune) delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione;
 
@@ -308,8 +355,7 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-
-### ESERCIZIO 13 - Evidenza del Fattore Comune
+### ESERCIZIO 14 - Evidenza del Fattore Comune
 
 a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
 
