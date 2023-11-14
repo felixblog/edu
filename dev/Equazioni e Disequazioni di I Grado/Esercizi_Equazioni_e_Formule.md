@@ -3,11 +3,11 @@
 
 ## UNITA' 1: Concetto di equazione e sue soluzioni
 
-Capita frequentemente di risolvere problemi nei quali si cerca un numero sapendo che deve soddisfare una certa condizione. Vediamo un esempio: "Ho comprato un paio di pantaloni ai saldi sui quali c'era il $30 \%$ di sconto ed ho risparmiato $30$ euro. Quanto li ho pagati?"
+Capita frequentemente di risolvere problemi nei quali si cerca un numero sapendo che deve soddisfare una certa condizione. Vediamo un esempio: "Ho comprato un paio di pantaloni ai saldi sui quali c'era il $30 \%$ di sconto ed ho risparmiato $30$ euro. Quanto costavano di listino?"
 
-Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato ($30$ euro) ma non gli elementi che lo determinano, nel caso specifico, il risparmio sul prezzo di listino. Se indichiamo la somma risparmiata con la lettera $r$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot r = 30$.
+Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato ($30$ euro) ma non gli elementi che lo determinano, nel caso specifico, il prezzo di listino. Se indichiamo il prezzo con la lettera $p$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot p = 30$.
 
-Il nostro problema si risolve quindi col trovare un numero che messo al posto della lettera $r$, e quindi moltiplicato per $30 \%$ dia come risultato $30$, cioè renda vera (o soddisfi) la condizione che dipende da $r$. Questo numero è $100$, infatti $30 \% \cdot 100 = 30 \longrightarrow True$. La condizione si definisce ***equazione*** ed il numero $100$ è la ***soluzione*** dell'equazione perché la sostituzione di $r$ con $100$ rende l'equazione una uguaglianza vera.
+Il nostro problema si risolve quindi col trovare un numero che messo al posto della lettera $p$, e quindi moltiplicato per $30 \%$ dia come risultato $30$, cioè renda vera (o soddisfi) la condizione che dipende da $p$. Questo numero è $100$, infatti $30 \% \cdot 100 = 30 \longrightarrow True$. La condizione si definisce ***equazione*** ed il numero $100$ è la ***soluzione*** dell'equazione perché la sostituzione di $r$ con $100$ rende l'equazione una uguaglianza vera.
 
 In generale una ***equazione*** (di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
 
@@ -75,7 +75,7 @@ b) $x = -2$   Nuova equazione
 
 L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo in entrambe ad $x$ il numero $-2$.
 
-### REGOLA DEL TRASPORTO (SOMMA)
+### REGOLA DELLA SOMMA (TRASPORTO)
 
 Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione che ha le stesse soluzioni della equazione originaria.
 
@@ -89,9 +89,9 @@ L'equazione b) ha le stesse soluzioni della a), come si può controllare sostitu
 
 c) $x = 1 - 3$. 
 
-Questa equazione ha le stesse soluzioni della a) ed il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro destro il suo opposto cioè $-3$. Questo succede sempre applicando in sequenza le regole della somma e della semplificazione, per cui si può enunciare la seguente regola, detta ***regola del trasporto***:
+Questa equazione ha le stesse soluzioni della a) ed il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro destro il suo opposto cioè $-3$. Questo succede sempre applicando in sequenza le regole della somma e della semplificazione, per cui si può enunciare la seguente regola, detta del trasporto, che è quella più spesso applicata:
 
-Possiamo trasportare una espressione da un membro ad un altro cambiando il suo segno (da termine di una somma di un membro a termine di una somma nell'altro, col segno opposto). La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+***Regola del Trasporto***: Possiamo trasportare una espressione da un membro ad un altro cambiando il suo segno (da termine di una somma di un membro a termine di una somma nell'altro, col segno opposto). La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
 
 ### REGOLA DELLA MOLTIPLICAZIONE/DIVISIONE
 

@@ -36,7 +36,7 @@ La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2.
 2. Quante scatole di uova ha mangiato Pierino? Risposta: mezza (numero frazionario).
 
 Le risposte sono entrambe corrette (la quantità di uova mangiate di cui si parla è la stessa) ma viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
-Per costruire la risposta nel secondo caso (frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> (passiamo dalla scatola all'uovo, che è più piccolo della scatola), contare le unità mangiate ed accoppiarle al totale della scatola: 2/4 che rapidamente diventa 1/2: se cambia l'unità di misura cambia anche misura della quantità che passa da numero intero a frazione.
+Per costruire la risposta nel secondo caso (frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> (passiamo dalla scatola all'uovo, che è più piccolo della scatola e ci consente di avere due misure intere), contare le unità mangiate, <u>la parte</u>, e rapportarle <u>al tutto</u> della scatola: 2/4 che rapidamente diventa 1/2: se cambia l'unità di misura cambia anche misura della quantità che passa da numero intero a frazione.
 
 
 
@@ -60,7 +60,7 @@ b) Scrivi sia con numeri che con lettere le frazioni uguali alle espressioni seg
 4. Il doppio di un quinto; due volte un quinto; due su cinque; la quinta parte di due; due diviso cinque;
 5. Sessanta quindicesimi; la quindicesima parte di sessanta; sessanta diviso trenta; la sessantesima parte di trenta.
 
-c) Rispondi alle seguenti domande scrivendo la frazione richiesta. 
+c) Rispondi alle seguenti domande scrivendo il numero intero, il numero decimale o la frazione richiesta. 
 
 1. Quanti quarti d'ora ci sono in 45 minuti? Da quante ore sto aspettando un treno se lo aspetto da 45 minuti?  Perché?
 2.  Quanti euro costa un giocattolo se lo pago con 5 monete da mezzo euro?  E quanti centesimi?
