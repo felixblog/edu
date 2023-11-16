@@ -69,7 +69,7 @@ Possiamo effettuare operazioni algebriche su uno o entrambi i membri di una equa
 
 #### ESEMPIO 1
 
-a) $3 + x -3 = 1 -3$  Possiamo eseguire le somme algebriche tra $3$ e $-3$ e tra $1$ e $-3$ ed ottenere l'equazione b).
+a) $3 + 2x -3 -x = 1 -3$  Possiamo eseguire le somme algebriche tra $3$ e $-3$ , $2x$ e $-x$ e tra $1$ e $-3$ ed ottenere l'equazione b).
 
 b) $x = -2$   Nuova equazione
 

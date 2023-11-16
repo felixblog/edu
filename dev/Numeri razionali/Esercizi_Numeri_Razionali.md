@@ -11,18 +11,18 @@ Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo u
 
 Le frazioni possono essere considerate sotto tre aspetti diversi.
 
-Il primo, che corrisponde all'uso più frequente che se ne fa nella vita quotidiana, è la suddivisione di una quantità di riferimento per prenderne un certo numero di parti, come in "tre quarti d'ora". Infatti un ora ha 60 minuti e per trovare i minuti di tre quarti d'ora prendiamo 60, li dividiamo in 4 parti uguali e ne prendiamo 3.
+Il primo, che corrisponde all'uso più frequente che se ne fa nella vita quotidiana, è la frazione come fattore per "scalare", verso il basso o l'alto, una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4parti uguali e prendendone 3.
 
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
-- Quanti centesimi ci sono in mezzo euro?
 - Quanto pesa un terzo di torta da 750 grammi?
+- Quanto valgono 25 centesimi (di euro)?
 
-Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: in mezzo euro ci sono 
+Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: un terzo di torta pesa $750 : 3 \cdot 1 \longrightarrow 250$ grammi.
 
-$100 : 2 \cdot 1 \longrightarrow 50$ centesimi, ed un terzo di torta pesa $750 : 3 \cdot 1 \longrightarrow 250$ grammi.
+Il secondo aspetto che vediamo è quello delle frazioni come divisioni. Una frazione è anche una divisione che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato è la ricerca di quante volte il denominatore deve essere sommato per avere il numeratore: $\dfrac{4}{2} \longrightarrow 2$ significa che $2$ deve essere sommato due volte a se stesso per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
-Il secondo aspetto che vediamo è quello delle frazioni come divisioni. Una frazione è anche una divisione che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
+Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
 $\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
 
@@ -35,8 +35,8 @@ La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2.
 1. Quante uova ha mangiato Pierino? Risposta: 2 (numero intero);
 2. Quante scatole di uova ha mangiato Pierino? Risposta: mezza (numero frazionario).
 
-Le risposte sono entrambe corrette (la quantità di uova mangiate di cui si parla è la stessa) ma viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
-Per costruire la risposta nel secondo caso (frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> (passiamo dalla scatola all'uovo, che è più piccolo della scatola e ci consente di avere due misure intere), contare le unità mangiate, <u>la parte</u>, e rapportarle <u>al tutto</u> della scatola: 2/4 che rapidamente diventa 1/2: se cambia l'unità di misura cambia anche misura della quantità che passa da numero intero a frazione.
+Le risposte sono entrambe corrette, misurano la stessa quantità di uova mangiate che viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
+Per costruire la risposta nel secondo caso (ossia una frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> (passiamo dalla scatola all'uovo, che è più piccolo della scatola e ci consente di avere due misure intere), contare le unità mangiate, ossia <u>la parte</u>, e rapportarle <u>al tutto</u> della scatola: 2/4 che rapidamente diventa 1/2. Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
 
 
 
@@ -122,6 +122,26 @@ b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfra
 
 ## UNITA' 2: Frazioni equivalenti e prodotti di frazioni
 
+Due frazioni si dicono equivalenti se indicano la stessa quantità. Poiché una frazione è una divisione, la quantità espressa è anche il risultato decimale della divisione, per cui il modo più immediato per controllare se due frazioni sono equivalenti è fare la divisione e confrontare i risultati:
+
+$\dfrac{3}{4} \longrightarrow 0,75$,  $\dfrac{6}{8} \longrightarrow 0,75$, quindi $\dfrac{3}{4}$ e $\dfrac{6}{8}$ sono equivalenti, mentre nessuna delle due è equivalente a $\dfrac{2}{3} \longrightarrow 0,66666$. Se consideriamo una frazione, ci sono infinite frazioni equivalenti ad essa, tutte ottenute moltiplicando o dividendo numeratore e denominatore per uno stesso numero. Una frazione che non ha divisori comuni tra numeratore e denominatore si dice ***ridotta ai minimi termini*** e chiamiamo ***semplificazione*** l'operazione di divisione successiva di numeratore e denominatore per uno stesso divisore finché la frazione non è ridotta ai minimi termini.
+
+#### ESEMPIO
+
+Semplificazione della frazione $\dfrac{36}{45}$dividendo due volte per 3:   $\dfrac{36}{45} \longrightarrow \dfrac{12}{15} \longrightarrow \dfrac{4}{5}$.
+
+Le frazioni, come tutti i numeri, si possono moltiplicare tra di loro, ed il risultato è una frazione. Il significato è quello di prendere una frazione di una quantità, a sua volta una frazione. 
+
+Il prodotto si esegue "per linee parallele", ossia si moltiplicano i numeratori dei fattori tra di loro e lo stesso per i denominatori, come si vede dagli esempi seguenti.
+
+#### ESEMPIO
+
+$\dfrac{1}{2} \cdot \dfrac{3}{4} \longrightarrow \dfrac{1 \cdot 3}{2 \cdot 4} \longrightarrow \dfrac{3}{8}$;           $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right) \longrightarrow -\dfrac{3 \cdot 2}{4 \cdot 3} \longrightarrow -\dfrac{6}{12}$;           $-\dfrac{2}{3} \cdot \left(-\dfrac{4}{5}\right) \longrightarrow +\dfrac{2 \cdot 4}{3 \cdot 5} \longrightarrow \dfrac{8}{15}$
+
+
+
+
+
 ### ESERCIZIO 4 - Frazioni equivalenti e riduzione ai minimi termini
 
 a) Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di 1.  
@@ -168,6 +188,22 @@ b) Calcola i seguenti quozienti di frazioni.
 
 ## UNITA' 3: Somma di frazioni
 
+Sommare due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
+
+$\dfrac{1}{4} + \dfrac{1}{4} \longrightarrow \dfrac{2}{4}=\dfrac{1}{2}$,        $\dfrac{4}{7} + \dfrac{3}{7} \longrightarrow \dfrac{7}{7} = 1$.
+
+Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{2} + \dfrac{1}{3}$ ?
+
+Possiamo operare in due passi. Cerchiamo due frazioni equivalenti a quelle da sommare ma con denominatore uguale e poi sommiamo queste, sicuri che la quantità risultato sarà la stessa della somma originaria. Resta da trovare quale debba essere il denominatore uguale. In prima battuta possiamo considerare il ***prodotto dei due denominatori***, per cui:
+
+$\dfrac{1}{2} + \dfrac{1}{3} \xrightarrow{\text{step 1}} \dfrac{1 \cdot 3}{2 \cdot 3} + \dfrac{1 \cdot 2}{3 \cdot 2} \longrightarrow \dfrac{3}{6} + \dfrac{2}{6} \xrightarrow{\text{step 2}} \dfrac{5}{6}$.
+
+Il denominatore deve essere $6$ per cui il fattore moltiplicativo della prima frazione sarà il risultato di $6 : 2 \longrightarrow 3$  mentre quello della seconda sarà $6 : 3 \longrightarrow 2$. 
+
+OSSERVAZIONE: In realtà il procedimento si può migliorare scegliendo come denominatore il ***minimo comune multiplo*** dei denominatori, ma funziona anche solo con il prodotto. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore uguale al $MCM$ dei denominatori è detta operazione di ***riduzione al minimo comune denominatore***.
+
+ 
+
 ### ESERCIZIO 7 - Il minimo comune denominatore
 
 Riduci le frazioni di ognuno dei seguenti gruppi al minimo comune denominatore.  
@@ -180,7 +216,7 @@ b) $[\dfrac{7}{15},\dfrac{1}{30},\dfrac{3}{10}]$;     $[\dfrac{4}{6},\dfrac{9}{1
 
 Passi da seguire per trovare la soluzione per la prima coppia di frazioni del punto b).
 
-1. Calcola il $MCM$ dei due numeri $2$ e $5$:   $MCM({2,5}) \Rightarrow 10$: questo sarà il nuovo denominatore di entrambe le frazioni;
+1. Calcola l'$MCM$ dei due numeri $2$ e $5$:   $MCM({2,5}) \Rightarrow 10$: questo sarà il nuovo denominatore di entrambe le frazioni;
 2. Per avere il numeratore della prima frazione dividi l'$mcm$ per $2$ e moltiplica il risultato per $7$: $(10:2) \cdot 7 \Rightarrow 35$;
 3. Per avere il numeratore della seconda frazione dividi l'$mcm$ per $5$ e moltiplica il risultato per $3$: $(10:5) \cdot 3 \Rightarrow 6$;
 4. Le nuove frazioni sono: $[\dfrac{35}{10},\dfrac{6}{10}]$.
@@ -215,7 +251,21 @@ b) Calcola il valore delle seguenti espressioni.
 
 
 
-## UNITA' 4: Espressioni con le frazioni
+## UNITA' 4: Divisione tra frazioni ed espressioni con le frazioni
+
+Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{3}{4} : \dfrac{1}{2}$. 
+
+Cosa rappresenta la divisione tra frazioni?
+
+Stiamo mettendo in rapporto tra di loro due quantità per vedere quante volte la seconda (cioè $\dfrac{1}{2}$) "entra" nella prima, $\dfrac{3}{4}$ ossia quante volte deve essere moltiplicato $\dfrac{1}{2}$, o che frazione di $\dfrac{1}{2}$ deve essere presa, per avere $\dfrac{3}{4}$.
+
+Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore cioè:
+
+$\dfrac{3}{4} : \dfrac{1}{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{2}{1} \longrightarrow \dfrac{6}{4} = \dfrac{3}{2} = 1.5$ 
+
+Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezzo; la mezza volta è $\dfrac{1}{4}$ da sommare a $\dfrac{1}{2}$.
+
+ 
 
 ### ESERCIZIO 10 - Espressioni con le quattro operazioni tra frazioni
 
@@ -445,6 +495,10 @@ b) TERZA MODALITA': Costruisci una tabella con le istruzioni riportate di seguit
 
 ## UNITA' 6: Potenze con le frazioni
 
+Le potenze con le frazioni si calcolano in due modi diversi. La prima è applicando la definizione:  $\left(\dfrac{3}{4}\right)^{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{3}{4} \longrightarrow \dfrac{9}{16}$. La seconda è applicando una trasformazione con la proprietà della "potenza di un rapporto" che è il rapporto di due potenze: $\left(\dfrac{3}{4}\right)^{2} \longrightarrow \dfrac{3^2}{4^2} \longrightarrow \dfrac{9}{16}$.
+
+ 
+
 ### ESERCIZIO 18 - Potenze con le frazioni
 
 a) Calcola il valore delle seguenti potenze.
@@ -490,6 +544,10 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 
 ## UNITA' 7: Numeri decimali e percentuali
+
+Nella vita pratica si fa un notevole uso delle percentuali, che sono un modo di usare le frazioni. Quando diciamo "il 10% di 50" intendiamo una frazione di 50 ottenuta prendendo "10 centesimi di 50" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
+
+
 
 ### ESERCIZIO 21 - Numeri decimali e frazioni
 
