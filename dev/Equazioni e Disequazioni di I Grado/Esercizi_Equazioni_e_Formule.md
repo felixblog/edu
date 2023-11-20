@@ -35,11 +35,11 @@ a) Controlla se il numero dato è soluzione delle seguenti equazioni.
 
 b) Controlla se il numero dato è soluzione delle seguenti equazioni.
 
-1. $\{x=5\},\enspace 0.5x = 2.9$;
-2. $\{x=6\},\enspace 33 - \dfrac{x}{2} = 30$;
-3. $\{x=5\},\enspace 0.5x = 2.9$;
-4. $\{a=1\},\enspace \dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}$;
-5. $\{a=\dfrac{7}{3}\},\enspace -4 = a + \dfrac{5}{3}$
+1. $0.5x = 2.9, \; \{x=5\}$;
+2. $33 - \dfrac{x}{2} = 30, \; \{x=6\}$;
+3. $0.5x = 2.9, \; \{x=5\}$;
+4. $\dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}, \; \{a=1\}$;
+5. $-4 = a + \dfrac{5}{3}, \; \{a=\dfrac{7}{3}\}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -234,13 +234,21 @@ Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, 
 
 Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (monomi, polinomi e frazioni algebriche) e la soluzione sarà una espressione letterale e non numerica.
 
-a) $1-ax=b$;   Con la regola del trasporto portiamo 1 a destra;
+a) $1-ax=b$;   Con la regola del trasporto portiamo $1$ a destra;
 
-b) $-ax=b-1$;   Con la regola della moltiplicazione/divisione moltiplichiamo tutto per il reciproco del coefficiente di $x$ (frazione algebrica);
+b) $-ax=b-1$;   Con la regola della moltiplicazione/divisione dividiamo tutto per il coefficiente di $x$;
 
-c) $-ax(-\dfrac{1}{a})=-\dfrac{1}{a}(b-1)$  Semplificando
+c) $\dfrac{-ax}{-a}=\dfrac{b-1}{-a}$;  Semplificando
 
-d) $x = -\dfrac{1}{a}(b-1)$.
+d) $x = -\dfrac{b-1}{a}$.
+
+#### Laboratorio GEOGEBRA
+
+Per risolvere con GEOGEBRA l'istruzione è:
+
+$Risolvi(1-ax=b, x)$ &#9166;
+
+$= \bigg\{ x = \dfrac{-b+1}{a}\bigg\}$
 
 
 

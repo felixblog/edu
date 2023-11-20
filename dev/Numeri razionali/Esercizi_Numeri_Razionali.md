@@ -9,9 +9,7 @@ I numeri interi non bastano per indicare tutte le quantità che ci si presentano
 
 Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale cardinale "Tre" CHE STA SOPRA la linea di frazione, ed il numerale ordinale "quarti" CHE STA SOTTO, chiamati rispettivamente "numeratore" (numero superiore) e "denominatore" (numero inferiore).
 
-Le frazioni possono essere considerate sotto tre aspetti diversi.
-
-Il primo, che corrisponde all'uso più frequente che se ne fa nella vita quotidiana, è la frazione come fattore per "scalare", verso il basso o l'alto, una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4parti uguali e prendendone 3.
+Comunemente le frazioni si usano in almeno tre modi. Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
 
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
@@ -20,7 +18,7 @@ Questo tipo di ragionamento è molto comune, soprattutto quando si usano le perc
 
 Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: un terzo di torta pesa $750 : 3 \cdot 1 \longrightarrow 250$ grammi.
 
-Il secondo aspetto che vediamo è quello delle frazioni come divisioni. Una frazione è anche una divisione che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato è la ricerca di quante volte il denominatore deve essere sommato per avere il numeratore: $\dfrac{4}{2} \longrightarrow 2$ significa che $2$ deve essere sommato due volte a se stesso per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+Il secondo uso che vediamo è quello delle frazioni come divisioni. Una frazione è anche una divisione, che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato è la ricerca di quante volte il denominatore deve essere sommato con  se stesso per avere il numeratore: $\dfrac{4}{2} \longrightarrow 2$ significa che $2$ deve essere sommato due volte con se stesso per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
 Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
@@ -28,15 +26,15 @@ $\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow Fals
 
 $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
-Il terzo aspetto delle frazioni è l'uso che se ne fa per misurare una quantità, e qui interviene l'unità di misura. Facciamo un esempio.
+Il terzo uso che si fa delle frazioni è per misurare una quantità, e qui interviene l'unità di misura. Facciamo un esempio.
 
 La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2.
 
 1. Quante uova ha mangiato Pierino? Risposta: 2 (numero intero);
 2. Quante scatole di uova ha mangiato Pierino? Risposta: mezza (numero frazionario).
 
-Le risposte sono entrambe corrette, misurano la stessa quantità di uova mangiate che viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
-Per costruire la risposta nel secondo caso (ossia una frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> (passiamo dalla scatola all'uovo, che è più piccolo della scatola e ci consente di avere due misure intere), contare le unità mangiate, ossia <u>la parte</u>, e rapportarle <u>al tutto</u> della scatola: 2/4 che rapidamente diventa 1/2. Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
+Le risposte sono entrambe corrette, misurano la stessa quantità di uova mangiate che però viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
+Per costruire la risposta nel secondo caso (della frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> passando dalla scatola all'uovo, che è più piccolo della scatola, e quindi ci consente di avere due misure intere, per la scatola (<u>il tutto</u>) e per la sua mangiata (<u>la parte</u>). A questo punto per misurare la parte mangiata la rapportiamo al tutto: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
 
 
 
@@ -172,17 +170,12 @@ c) un quinto dei due terzi di 9; la metà della metà di 20; il doppio di cinque
 
 
 
-### ESERCIZIO 6 - Prodotti e quozienti di frazioni
+### ESERCIZIO 6 - Prodotti di frazioni
 
 a) Calcola i seguenti prodotti di frazioni.
 
 1.  $\dfrac{1}{2}\cdot4$;     $\dfrac{5}{3}\cdot9$;     $\dfrac{3}{2}\cdot10$. 
-2. $\dfrac{3}{8}\cdot\dfrac{12}{15}$;     $\dfrac{7}{10}\cdot\dfrac{20}{21}$.
-
-b) Calcola i seguenti quozienti di frazioni.
-
-1.  $\dfrac{1}{2} : \dfrac{1}{4}$;     $\dfrac{5}{3} : \dfrac{1}{9}$;     $\dfrac{3}{2} : 10$.
-2. $\dfrac{8}{3} : \dfrac{15}{12}$;     $\dfrac{7}{10} : \dfrac{20}{21}$. 
+2.  $\dfrac{3}{8}\cdot\dfrac{12}{15}$;     $\dfrac{7}{10}\cdot\dfrac{20}{21}$.
 
 
 
@@ -200,7 +193,7 @@ $\dfrac{1}{2} + \dfrac{1}{3} \xrightarrow{\text{step 1}} \dfrac{1 \cdot 3}{2 \cd
 
 Il denominatore deve essere $6$ per cui il fattore moltiplicativo della prima frazione sarà il risultato di $6 : 2 \longrightarrow 3$  mentre quello della seconda sarà $6 : 3 \longrightarrow 2$. 
 
-OSSERVAZIONE: In realtà il procedimento si può migliorare scegliendo come denominatore il ***minimo comune multiplo*** dei denominatori, ma funziona anche solo con il prodotto. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore uguale al $MCM$ dei denominatori è detta operazione di ***riduzione al minimo comune denominatore***.
+OSSERVAZIONE: In realtà il procedimento si può migliorare scegliendo come denominatore il ***minimo comune multiplo*** dei denominatori, ma per la somma si può usare anche solo con il prodotto, che è più facile da trovare rispetto al $MCM$. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore, uguale al $MCM$ dei denominatori, è detta operazione di ***riduzione al minimo comune denominatore***.
 
  
 
@@ -257,7 +250,7 @@ Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un e
 
 Cosa rappresenta la divisione tra frazioni?
 
-Stiamo mettendo in rapporto tra di loro due quantità per vedere quante volte la seconda (cioè $\dfrac{1}{2}$) "entra" nella prima, $\dfrac{3}{4}$ ossia quante volte deve essere moltiplicato $\dfrac{1}{2}$, o che frazione di $\dfrac{1}{2}$ deve essere presa, per avere $\dfrac{3}{4}$.
+Come per qualsiasi altra divisione, stiamo mettendo in rapporto tra di loro due quantità per vedere quante volte la seconda (cioè $\dfrac{1}{2}$) "entra" nella prima, $\dfrac{3}{4}$ ossia quante volte deve essere moltiplicato $\dfrac{1}{2}$, o che frazione di $\dfrac{1}{2}$ deve essere considerata, per avere $\dfrac{3}{4}$.
 
 Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore cioè:
 
@@ -269,17 +262,19 @@ Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezz
 
 ### ESERCIZIO 10 - Espressioni con le quattro operazioni tra frazioni
 
-a) Calcola il valore delle seguenti espressioni.
+a) Calcola i seguenti quozienti di frazioni.
+
+1.  $\dfrac{1}{2} : \dfrac{1}{4}$;     $\dfrac{5}{3} : \dfrac{1}{9}$;     $\dfrac{3}{2} : 10$.
+2.  $-\dfrac{8}{3} : \left(-\dfrac{15}{12}\right)$;     $\dfrac{7}{10} : \left(-\dfrac{20}{21}\right)$;
+3.  $\dfrac{2}{5}:4$;    $\left(-1\right):\left(-5\right)$.
+
+b) Calcola il valore delle seguenti espressioni.
 
 1. $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right)$;    $[R. \dfrac{2}{9}]$  
 2. $\dfrac{2}{5}\cdot\left(-\dfrac{15}{4}\right)\cdot\left(-\dfrac{2}{3}\right)$;    $[R. 1]$  
-3. $\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right);$     $[R. 3]$  
-4. $\dfrac{2}{4}:\dfrac{1}{2}$;
-5. $\dfrac{4}{5}:\left(-\dfrac{12}{25}\right)$;
-6. $\dfrac{2}{5}:4$;
-7. $\left(-1\right):\left(-5\right)$.   
+3. $\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right)$.     $[R. 3]$  
 
-b) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+c) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$;     $[R. -7]$
 2. $\left(\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right):\left(-\dfrac{19}{9}\right).$     $[R.\dfrac{15}{2}]$

@@ -293,7 +293,7 @@ Rappresentare un insieme in modo grafico significa disegnare un cerchio o elliss
 
 L'insieme delle vocali, che chiameremo $V$, è rappresentato graficamente dalla figura seguente.
 
-<img src="../Insiemi e Relazioni/img/venn-1.png" alt="venn-1" style="zoom:15%;" />
+<img src="../Insiemi e Relazioni/img/venn-1.png" alt="venn-1" style="zoom:10%;" />
 
 
 
@@ -318,8 +318,6 @@ b) Rappresenta per elencazione i seguenti insiemi:
 5. I divisori dispari di 42:  
 6. I giorni della settimana che iniziano per «b»;  
 7. Le vocali della parola «farfalla»
-
-
 
 
 
