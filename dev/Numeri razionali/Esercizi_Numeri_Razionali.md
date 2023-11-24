@@ -617,31 +617,73 @@ b) Scrivi i numeri seguenti in notazione decimale
 
 ## UNITA' 8: Equivalenze
 
+Abbiamo già detto che le frazioni, come gli altri numeri, misurano delle quantità e che la misura dipende dall'unità di misura che utilizziamo. Ora vediamo come passare da una unità di misura ad un'altra.
+
+Nei due esempi seguenti cercheremo di trovare la misura di una (sola) durata temporale con due unità di misura diverse: le ore ed i minuti. 
+
+#### ESEMPIO 1
+
+Quanti minuti ci sono in tre quarti d'ora?
+
+Prima di rispondere alla domanda scriviamo il problema sotto forma di una uguaglianza: $\dfrac{3}{4}\;h = ?\;min$;  il nostro problema è quello di cercare il numero da sostituire al punto interrogativo
+
+Partiamo dalla relazione fondamentale che lega le ore ai minuti e cioè: $1\;h=60\;min$. Per avere su lato sinistro dell'uguaglianza l'espressione $\dfrac{3}{4}\;h$ moltiplichiamo a sinistra ed a destra per $\dfrac{3}{4}$, ottenendo:
+
+$\dfrac{3}{4} \cdot 1\;h = \dfrac{3}{4} \cdot 60 \;min$, e calcolando i prodotti $\dfrac{3}{4}\;h = 75\; min$, da cui si ricava che $? = 75$.
+
+#### ESEMPIO 2
+
+Che frazione di ora equivale a 10 minuti?
+
+Possiamo scrivere la domanda come $? \; h = 10\;min$ e cerchiamo il numero da mettere al posto del punto interrogativo. Come prima partiamo dalla relazione che lega le ore ai minuti: $1\;h=60\;min$ e con moltiplicazioni e divisioni scriviamo l'espressione $10\;min$ sulla destra. Per far questo dividiamo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;h = \dfrac{60}{60}\;min$ cioè $\dfrac{1}{60}\;h = 1\;min$. 
+
+Un minuto equivale ad un sessantesimo di ora. A questo punto moltiplichiamo per $10$ sia a sinistra che a destra: $10 \cdot \dfrac{1}{60}\;h = 10 \cdot1\;min$ $\longrightarrow$$\dfrac{10}{60}\;h = 10 \cdot1\;min$$\longrightarrow$$\dfrac{1}{6}\;h = 10\;min$. Quindi $10$ minuti equivalgono ad un sesto di ora.
+
+#### ESEMPIO 3
+
+Quanto misura, in trimestri, un periodo di 3 anni e 9 mesi?
+
+In questo caso abbiamo un periodo espresso come somma (di due periodi): il primo misurato in anni ed il secondo in mesi. Troviamo separatamente l'equivalente in trimestri di entrambi e poi sommiamo, risolviamo cioè le due equivalenze: $3\;anno = ?\;trim$ e $9 \;mese = ?\;trim$.
+
+Partiamo dalle due equivalenze:
+
+a) $1\;anno = 4\;trim$ e 
+
+b) $1\;trim = 3\;mese$.
+
+Moltiplicando la prima per $3$ abbiamo $3 \cdot 1\;anno = 3 \cdot 4\;trim$ $\longrightarrow$ $3\;anno = 12\;trim$ dividendo la seconda per $3$ e poi moltiplicando per $9$ abbiamo:
+
+$\dfrac{1}{3}\;trim = \dfrac{3}{3}\;mese$ $\longrightarrow$ $9 \cdot \dfrac{1}{3}\;trim = 9 \cdot \dfrac{3}{3}\;mese$    ed eseguendo le moltiplicazioni otteniamo $3\;trim = 9 \;mese$ per cui il risultato è:
+
+$3\;anni \;e\; 9 \;mesi = 12\;trim + 3\;trim \longrightarrow 15\;trim$.
+
+
+
 ### ESERCIZIO 25 - Equivalenze (I)
 
-a) Quanti secondi ci sono in due ore e mezzo? Quanto pesano due etti e mezzo di salame in Kg ?
+a) Risolvi le seguenti equivalenze.
 
-b) A quanti minuti corrispondono 10 ore? A quante ore corrispondono 10 minuti ?
+1. Quanti minuti ci sono in due ore e mezzo?
+2. Quanto pesano due etti e mezzo di salame in Kg? 
+3. A quanti minuti corrispondono 10 ore? 
+4. A quante ore corrispondono 10 minuti ? A quanti secondi equivalgono 10 minuti?
 
-c) Una moneta da 1 centesimo pesa 2,30 grammi. Quanto peserebbero cinque euro e mezzo in centesimi? 
+b) Risolvi le seguenti equivalenze.
 
-d) Un periodo di un anno 5 mesi e 22 giorni quanto dura in mesi? ed in trimestri?
-
-e) A quante ore corrispondono x minuti ?
+1. Una moneta da 1 centesimo pesa 2,30 grammi. Quanto peserebbero cinque euro e mezzo in centesimi?
+2. Un periodo di un anno 5 mesi quanto dura in mesi? ed in trimestri?
+3. A quanto equivale un periodo di 2 anni, 6 mesi e 22 giorni in trimestri? (Considerare un mese di 30 giorni).
 
 
 
 ### ESERCIZIO 26 - Equivalenze (II)
 
-Esegui le seguenti operazioni facendo prima le equivalenze.
+a) Risolvi le seguenti equivalenze trovando la misura da scrivere al posto dei puntini.
 
-a) 7 Km + 14 m + 12 dam = ............ dam &emsp;  [R. 713,4]  
-
-b) 15 dm + 70 cm - 100 mm = ............ m  &emsp;  [R. 2,1]  
-
-c) 27 dam + 3 200 cm + 2 hm = ............ m  &emsp;  [R. 502]  
-
-d) 0,5 dam + 5 m + 6 cm + 1,6 m = ............ dm  &emsp;  [R. 116,6]  
+1. 7 Km + 14 m + 12 dam = ............ dam &emsp;  [R. 713,4]  
+2. 15 dm + 70 cm - 100 mm = ............ m  &emsp;  [R. 2,1]  
+3. 27 dam + 3 200 cm + 2 hm = ............ m  &emsp;  [R. 502]  
+4. 0,5 dam + 5 m + 6 cm + 1,6 m = ............ dm  &emsp;  [R. 116,6]  
 
 
 
