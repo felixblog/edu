@@ -185,15 +185,17 @@ Sommare due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
 
 $\dfrac{1}{4} + \dfrac{1}{4} \longrightarrow \dfrac{2}{4}=\dfrac{1}{2}$,        $\dfrac{4}{7} + \dfrac{3}{7} \longrightarrow \dfrac{7}{7} = 1$.
 
-Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{2} + \dfrac{1}{3}$ ?
+Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{4} + \dfrac{1}{6}$ ?
 
 Possiamo operare in due passi. Cerchiamo due frazioni equivalenti a quelle da sommare ma con denominatore uguale e poi sommiamo queste, sicuri che la quantità risultato sarà la stessa della somma originaria. Resta da trovare quale debba essere il denominatore uguale. In prima battuta possiamo considerare il ***prodotto dei due denominatori***, per cui:
 
-$\dfrac{1}{2} + \dfrac{1}{3} \xrightarrow{\text{step 1}} \dfrac{1 \cdot 3}{2 \cdot 3} + \dfrac{1 \cdot 2}{3 \cdot 2} \longrightarrow \dfrac{3}{6} + \dfrac{2}{6} \xrightarrow{\text{step 2}} \dfrac{5}{6}$.
+$\dfrac{1}{4} + \dfrac{1}{6} \xrightarrow{\text{step 1}} \dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4} \longrightarrow \dfrac{6}{24} + \dfrac{4}{24} \xrightarrow{\text{step 2}} \dfrac{10}{24} \longrightarrow \dfrac{5}{12}$.
 
-Il denominatore deve essere $6$ per cui il fattore moltiplicativo della prima frazione sarà il risultato di $6 : 2 \longrightarrow 3$  mentre quello della seconda sarà $6 : 3 \longrightarrow 2$. 
+Le due nuove frazioni si ottengono moltiplicando tutta la prima per il denominatore della seconda e viceversa.
 
-OSSERVAZIONE: In realtà il procedimento si può migliorare scegliendo come denominatore il ***minimo comune multiplo*** dei denominatori, ma per la somma si può usare anche solo con il prodotto, che è più facile da trovare rispetto al $MCM$. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore, uguale al $MCM$ dei denominatori, è detta operazione di ***riduzione al minimo comune denominatore***.
+Intuitivamente, se consideriamo gli addendi come frazioni di ore abbiamo che un quarto d'ora sono $15$ minuti ed un sesto di ora sono $10$ minuti. La somma dei due fa $25$ minuti che in ore sono $\dfrac{25}{60}$ di ora, cioè $\dfrac{5}{12}$ di ora.
+
+OSSERVAZIONE: In realtà il procedimento si può migliorare scegliendo come denominatore il ***minimo comune multiplo*** dei denominatori, più difficile però da da trovare rispetto al prodotto dei denominatori. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore, uguale all'$MCM$ o al prodotto dei denominatori, è detta operazione di ***riduzione al minimo comune denominatore***.
 
  
 
