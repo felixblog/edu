@@ -37,8 +37,7 @@ b) Controlla se il numero dato è soluzione delle seguenti equazioni.
 
 1. $0.5x = 2.9, \; \{x=5\}$;
 2. $33 - \dfrac{x}{2} = 30, \; \{x=6\}$;
-3. $0.5x = 2.9, \; \{x=5\}$;
-4. $\dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}, \; \{a=1\}$;
+3. $\dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}, \; \{a=1\}$;
 5. $-4 = a + \dfrac{5}{3}, \; \{a=\dfrac{7}{3}\}$.
 
 #### Laboratorio GEOGEBRA
@@ -75,11 +74,27 @@ b) $x = -2$   Nuova equazione
 
 L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo in entrambe ad $x$ il numero $-2$.
 
-### REGOLA DELLA SOMMA (TRASPORTO)
+### REGOLA DEL TRASPORTO (DELLA SOMMA)
 
-Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione che ha le stesse soluzioni della equazione originaria.
+Possiamo trasportare una espressione da un membro ad un altro cambiando il suo segno e sommandola ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
 
 #### ESEMPIO 2
+
+a) $3 + x = 1$   Trasportando $+3$ a sinistra e sommandolo ad $1$ si ottiene l'equazione b);
+
+b) $x = 1 -3$. Nuova equazione
+
+L'equazione b) ha le stesse soluzioni della a). Se applichiamo alla b) la regola della semplificazione al membro sinistro otteniamo la c)
+
+c) $x = -2$. 
+
+Questa equazione ha le stesse soluzioni della a).
+
+In realtà la vera regola è quella della somma:
+
+***Regola della Somma***: Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione che ha le stesse soluzioni della equazione originaria.
+
+#### ESEMPIO 3
 
 a) $3 + x = 1$   Sommando a questa prima equazione $-3$ si ottiene l'equazione b);
 
@@ -89,9 +104,9 @@ L'equazione b) ha le stesse soluzioni della a), come si può controllare sostitu
 
 c) $x = 1 - 3$. 
 
-Questa equazione ha le stesse soluzioni della a) ed il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro destro il suo opposto cioè $-3$. Questo succede sempre applicando in sequenza le regole della somma e della semplificazione, per cui si può enunciare la seguente regola, detta del trasporto, che è quella più spesso applicata:
+Il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro destro il suo opposto cioè $-3$. Questo succede sempre applicando in sequenza le regole della somma e della semplificazione, per questo è stata coniata la regola del trasporto, che è quella più spesso applicata.
 
-***Regola del Trasporto***: Possiamo trasportare una espressione da un membro ad un altro cambiando il suo segno (da termine di una somma di un membro a termine di una somma nell'altro, col segno opposto). La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+#### 
 
 ### REGOLA DELLA MOLTIPLICAZIONE/DIVISIONE
 
