@@ -516,7 +516,7 @@ a) Calcola il valore delle seguenti espressioni applicando le proprietà delle p
 
 a)  Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-1. $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \left(\dfrac{23}{5}\right)^2]$
+1. $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \dfrac{529}{25} = \left(\dfrac{23}{5}\right)^2]$
 2. $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. \dfrac{7}{9}]$
 
 b)  Calcola il valore delle seguenti espressioni contenenti potenze.

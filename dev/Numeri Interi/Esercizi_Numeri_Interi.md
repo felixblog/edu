@@ -104,7 +104,11 @@ L'espressione $3-2$ nel "mondo" dei numeri naturali contiene due numeri, $3$ e $
 - $-123\overset{\downarrow}{\phantom{|}}-23$;
 - $1\overset{\downarrow}{\phantom{|}}-2 \overset{\downarrow}{\phantom{|}} + 3 \overset{\downarrow}{\phantom{|}} -4$.
 
-L'operazione di somma algebrica si esegue facendo una sequenza di spostamenti di un punto ideale, uno per ogni numero della somma. Ad esempio il risultato della somma $+3-5$ si ottiene spostando il punto ideale dallo $0$ di $3$ unità a destra fino alla posizione $+3$ e da qui verso sinistra di 5 unità raggiungendo la posizione $-2$. Il risultato della somma algebrica sarà quindi $-2$. 
+L'operazione di somma algebrica si esegue facendo una sequenza di spostamenti di un punto ideale, uno per ogni numero della somma. Il risultato della somma $3-2$ si ottiene spostando il punto ideale dallo $0$ di $3$ unità a destra fino alla posizione $+3$ e da qui verso sinistra di $2$ unità raggiungendo la posizione $1$, che è il risultato della somma algebrica.
+
+Lo stesso risultato si ottiene con $-2+3$ (due unità a sinistra e tre a destra) e la somma algebrica è sempre posizionata dove indica la freccia $-2\overset{\downarrow}{\phantom{|}} +3$ e come si vede, a differenza della sottrazione, la somma algebrica è commutativa.
+
+ 
 
 ### ESERCIZIO 5 - Somme algebriche
 
@@ -452,20 +456,24 @@ La sostituzione è una operazione che consiste nel rimpiazzamento delle lettere 
 
  $2 \cdot c + 1, \{c = -4\} \longrightarrow 2 \cdot (-4) + 1 \longrightarrow -7$.
 
-La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, con il numero racchiuso tra parentesi tonde, ovunque la lettera compare.
+La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, facendo attenzione a non alterare la sequenza di operazioni presenti nell'espressione. Per evitare ciò la sostituzione di un numero che ha il segno va fatta con il numero racchiuso tra parentesi tonde. 
 
- $2 \cdot x + x^2, \{x = 2\} \longrightarrow 2 \cdot (2) + (2)^2 \longrightarrow 4+4 \longrightarrow 8$.
+ $2 \cdot x + x^2, \{x = +2\} \longrightarrow 2 \cdot (+2) + (+2)^2 \longrightarrow 4+(4) \longrightarrow 4 + 4 \longrightarrow 8$.
 
- $2 \cdot x + y^2, \{x = -2, y = -3\} \longrightarrow 2 \cdot (-2) + (-3)^2 \longrightarrow -4+9 \longrightarrow 5$.
+ $2 \cdot x - y^2, \{x = -2, y = -3\} \longrightarrow 2 \cdot (-2) - (-3)^2 \longrightarrow -4 - (9) \longrightarrow -4-9 \longrightarrow -13$.
 
-.
+Si può evitare di racchiudere il numero tra parentesi solo se si sta sostituendo un numero positivo e lo si sostituisce senza il segno "$+$", come nell'esempio seguente.
+
+ $2 \cdot x + x^2, \{x = 2\} \longrightarrow 2 \cdot 2 + 2^2 \longrightarrow 4 + 4 \longrightarrow 8$.
+
+
 
 ### ESERCIZIO 15 - Sostituzioni di una e di due lettere
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 
 1. $x^2,\ \{x=2\};$     $x^2,\ \{x=-2\};$     $-x^2,\ \{x=2\};$     $-x^2,\ \{x=-2\};$
-2. $-2x + x^2 + 1,\ \{x=2\}$.
+2. $-2x + x^2 + 1,\ \{x=2\}$;     $-2x + x^2 + 1,\ \{x=-2\}$.
 
 b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore (ogni sostituzione riguarda due lettere).
 
