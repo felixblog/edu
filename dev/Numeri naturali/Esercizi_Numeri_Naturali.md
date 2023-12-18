@@ -3,13 +3,23 @@
 
 ## UNITA' 1: Numeri naturali, operazioni ed espressioni
 
-I numeri naturali sono $0$, $1$, $2$, $3$, ... e così via (si ottengono sommando uno in più al precedente). Sono i numeri che servono a contare gli oggetti nella vita quotidiana. Si possono sommare, sottrarre, moltiplicare e dividere secondo le regole note.
+I numeri naturali sono $0$, $1$, $2$, $3$, ... e così via (si ottengono sommando uno in più al precedente). Sono i numeri che servono a contare gli oggetti nella vita quotidiana. Sui numeri naturali è possibile fare delle **operazioni**: si possono infatti sommare, sottrarre, moltiplicare e dividere secondo le regole note.
 
- $12 + 4 \longrightarrow 16$;       $12 - 4 \longrightarrow 8$;      $12 \cdot 4 \longrightarrow 48$;      $12 : 4 \longrightarrow 3$. 
+#### Le Operazioni
 
-Negli esempi visti, ad esempio $12 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni più complesse in cui compaiono due operazioni, come $12 \cdot 4 + 5$; in questo caso il numero $4$ fa parte sia di una moltiplicazione che di una somma. 
+Sommiamo due numeri quando vogliamo contare gli elementi di due insiemi disgiunti che si uniscono: ad esempio uno studente ha tre libri, un altro ne ha <u>altri</u> quattro ed insieme hanno $3 + 4 \longrightarrow 7$ libri.
 
-Le espressioni sono sequenze di numeri ed operazioni alternate (tra due numeri c'è sempre una operazione). L'esecuzione ordinata delle operazioni di una espressione produce un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
+Sottraiamo due numeri quando contiamo gli elementi di un insieme che non fanno parte di un suo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine; i libri integri sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un insieme finito ha un numero di elementi sempre minore (o al più uguale) a quello dell'insieme, non è possibile sottrarre da un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
+
+Moltiplichiamo due numeri naturali quando vogliamo contare gli elementi di un insieme formato dall'unione di tanti insiemi (gruppi) distinti tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta un gruppo di 9 libri; il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$.
+
+La divisione è l'operazione inversa della moltiplicazione e ci consente di contare i gruppi di oggetti, quando conosciamo il numero totale degli elementi e gli elementi di ciascun gruppo: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per 4; se le gambe sono 100 le pecore sono $100 : 4 \longrightarrow 25$. Da questo esempio di vede come non è possibile dividere un primo numero per un secondo numero se il primo non è un multiplo del secondo, ossia il risultato di $100 : 3$ non è un numero naturale.  
+
+Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni più complesse in cui compaiono due operazioni, come $12 \cdot 3 + 4$; in questo caso il numero $3$ fa parte sia di una moltiplicazione che di una somma. 
+
+#### Le espressioni
+
+Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due numeri c'è sempre una operazione). L'esecuzione ordinata delle operazioni di una espressione produce un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
 
 #### ESEMPIO
 
@@ -23,7 +33,7 @@ La sequenza delle operazioni eseguibili sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12
 
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati prioritariamente nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra è il prodotto ma il $12$ è dentro la coppia di parentesi per cui l'operazione non è eseguibile (il prodotto è fuori dalla parentesi ed il $12$ è dentro). La prima operazione eseguibile è quindi la somma. La sequenza delle operazioni eseguibili sarà allora quella indicata dagli apici:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
+Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto, ed anche in generale come priorità il prodotto deve essere eseguito prima della somma, ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione eseguibile è quindi la somma. La sequenza delle operazioni eseguibili sarà allora quella indicata dagli apici:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
 
 
 
@@ -86,6 +96,12 @@ d) $6 − (15 : (2 + 3))$.
 
 
 ## UNITA' 2: Divisori e multipli
+
+Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo.
+
+$100 : 4 \longrightarrow 25$; $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
+
+
 
 ### ESERCIZIO 4 - Divisori e multipli
 
