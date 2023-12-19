@@ -97,9 +97,7 @@ d) $6 − (15 : (2 + 3))$.
 
 ## UNITA' 2: Divisori e multipli
 
-Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo.
-
-$100 : 4 \longrightarrow 25$; $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
+Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo. Un multiplo di un secondo numero è un numero che sta nella tabellina del secondo numero: $8$ è multiplo di $2$ e di $4$, $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
 
 
 
@@ -301,17 +299,13 @@ Vediamo due modi per descrivere (o ***rappresentare***) un insieme:
 1. graficamente, mediante un diagramma di Venn;
 2. per elencazione.
 
-
-
 Rappresentare un insieme in modo grafico significa disegnare un cerchio o ellisse (che rappresenta l'insieme) con all'interno gli elementi rappresentati con dei punti ed il loro nome (univoco) o dal nome soltanto.
 
 #### ESEMPIO
 
 L'insieme delle vocali, che chiameremo $V$, è rappresentato graficamente dalla figura seguente.
 
-<img src="../Insiemi e Relazioni/img/venn-1.png" alt="venn-1" style="zoom:10%;" />
-
-
+<img src="img\venn-1.png" alt="venn-1" style="zoom:10%;" />
 
 Rappresentare un insieme per elencazione significa scrivere la sequenza degli elementi identificati dai loro nomi univoci (in un insieme ***non ci possono essere due elementi uguali***) separati da virgola e racchiusi tra parentesi graffe.
 
