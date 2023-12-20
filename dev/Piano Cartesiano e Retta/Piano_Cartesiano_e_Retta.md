@@ -159,6 +159,28 @@ Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scri
 
 
 
+### ESERCIZIO 4 - Retta in forma esplicita
+
+Scrivi in forma esplicita le seguenti equazioni. Quanto valgono $m$ e $q$ in ciascun caso?
+
+a) $y - \dfrac{1}{2}x = 5$,   $y +\dfrac{-1}{3}x - 4 = 0$  
+
+b) $y - x +2 = 0$,   $y - 4 = x + 9$  
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a.2.1 dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
+
+1. $eq1: y=m x+q$  &#9166;   
+2. $Sostituisci(eq1,\{m=-1,q=\dfrac{1}{2}\})$ &#9166;   
+
+b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
+
+1. $Risolvi(y-x+2=0,y)$ &#9166;   
+2. $Risolvi(y-4=x+9,y)$  &#9166;
+
+
+
 ### ESERCIZIO 5 - Grafico della retta
 
 a) Disegna le due rette rappresentate dalle seguenti equazioni trovando almeno due punti per i quali passa ciascuna di esse.
@@ -246,31 +268,7 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 
 
-### ESERCIZIO 4 - Retta in forma esplicita
-
-Scrivi in forma esplicita le seguenti equazioni. Quanto valgono $m$ e $q$ in ciascun caso?
-
-a) $y - \dfrac{1}{2}x = 5$,   $y +\dfrac{-1}{3}x - 4 = 0$  
-
-b) $y - x +2 = 0$,   $y - 4 = x + 9$  
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto a.2.1 dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
-
-1. $eq1: y=m x+q$  &#9166;   
-2. $Sostituisci(eq1,\{m=-1,q=\dfrac{1}{2}\})$ &#9166;   
-
-b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
-
-1. $Risolvi(y-x+2=0,y)$ &#9166;   
-2. $Risolvi(y-4=x+9,y)$  &#9166;
-
-
-
 ## UNITA' 5: Significato geometrico di m e q
-
-
 
 Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q$ è quello di metterla nella forma desiderata, detta ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come $\text{monomio in x} + \text{numero}$ e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
 
