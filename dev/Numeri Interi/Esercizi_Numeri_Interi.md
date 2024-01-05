@@ -154,11 +154,11 @@ d) In un campionato di calcio si ha la situazione di classifica seguente:
 $$
 \begin{array}{l|c}
 		\textbf{SQUADRA} & \textbf{PUNTI} \\
-        \hline        
+        \hline        
         Inter & 45 		\\
-        Juventus & 41 	\\
-        Roma & 40  		\\
-        Atalanta & 33  	\\
+        Juventus & 41 	\\
+        Roma & 40  		\\
+        Atalanta & 33  	\\
         Napoli & 29 	\\
         Fiorentina & 25 \\
         \end{array}
@@ -482,7 +482,10 @@ b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 3. $(a+b)(a-b)+ab-a^{2},\ \{a=6,\ b=-3\}$  
 4. $(x^{2}+a)x-a(x-1):(x+1)+4a,\ \{x=1,a=-9\}$
 
-C) Scrivere gli alberi relativi alle espressioni numeriche dei punti a.1 ed a.2.
+C) Scrivi le espressioni letterali ottenute sostituendo ai numeri interi le lettere indicate negli esercizi seguenti. Fai attenzione a non cambiare, con la sostituzione, le operazioni contenute nell'espressione. 
+
+1. Sostituisci $x$ al numero intero $-2$ nelle espressioni $6 \cdot (4-2):2$ e $-4 +2 -2(4(-2)-(2-2))$;
+2. Sostituisci $y$ al numero intero $+3$ nelle espressioni $2 \cdot 3 \cdot (4-3 \cdot 5):2$ e $-4 +3 -3(4(9 + 3)-(2^3-2))$
 
 #### Laboratorio GEOGEBRA
 

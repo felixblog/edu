@@ -248,17 +248,17 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 4: Divisione tra frazioni ed espressioni con le frazioni
 
-Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{3}{4} : \dfrac{1}{2}$. 
+Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{6}{4} : \dfrac{1}{2}$. 
 
 Cosa rappresenta la divisione tra frazioni?
 
-Come per qualsiasi altra divisione, stiamo mettendo in rapporto tra di loro due quantità per vedere quante volte la seconda (cioè $\dfrac{1}{2}$) "entra" nella prima, $\dfrac{3}{4}$ ossia quante volte deve essere moltiplicato $\dfrac{1}{2}$, o che frazione di $\dfrac{1}{2}$ deve essere considerata, per avere $\dfrac{3}{4}$.
+Come per qualsiasi altra divisione, stiamo mettendo in rapporto tra di loro due quantità per vedere quante volte la seconda (cioè $\dfrac{1}{2}$) "entra" nella prima, $\dfrac{6}{4}$ ossia quante volte deve essere moltiplicato $\dfrac{1}{2}$, o che frazione di $\dfrac{1}{2}$ deve essere considerata, per avere $\dfrac{6}{4}$.
 
-Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore cioè:
+Per vedere come si calcola vediamo prima la divisione tra due numeri interi. $6 : 2$ è la metà di $6$ cioè $3$. E' la stessa cosa dire "un mezzo di 6", $\dfrac{1}{2} \cdot 6 \longrightarrow 3$; $6 : 3$ è come dire "un terzo di 6": $\dfrac{1}{3} \cdot 6 \longrightarrow 2$ e così via. La divisione si può calcolare moltiplicando il dividendo per il reciproco del divisore che sarà di volta in volta $\dfrac{1}{2}, \dfrac{1}{3}, \dfrac{1}{5}$.
 
-$\dfrac{3}{4} : \dfrac{1}{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{2}{1} \longrightarrow \dfrac{6}{4} = \dfrac{3}{2} = 1.5$ 
+Vediamo adesso la divisione tra una frazione ed un numero intero: $\dfrac{6}{4} : 2 \longrightarrow \dfrac{6}{4} \cdot \dfrac{1}{2} \longrightarrow \dfrac{3}{4}$  Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore. Questo vale per tutte le divisioni tra frazioni: si trasforma in moltiplicazione per il reciproco del divisore: $\dfrac{3}{4} : \dfrac{1}{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{2}{1} \longrightarrow \dfrac{6}{4} \longrightarrow \dfrac{3}{2} = 1.5$ 
 
-Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezzo; la mezza volta è $\dfrac{1}{4}$ da sommare a $\dfrac{1}{2}$.
+Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezzo (e considerato che la metà di $\dfrac{1}{2}$ è $\dfrac{1}{4}$ abbiamo che  $\dfrac{3}{4} =  \dfrac{1}{2} + \dfrac{1}{4}$.
 
  
 
