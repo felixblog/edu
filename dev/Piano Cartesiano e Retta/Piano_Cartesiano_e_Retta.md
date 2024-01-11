@@ -272,7 +272,11 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q$ è quello di metterla nella forma desiderata, detta ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come "$\text{monomio in x} + \text{numero}$" e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
 
-Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. Se proviamo a disegnare (anche con GEOGEBRA) le tre rette seguenti, che hanno tutte lo stesso coefficiente angolare ma diversi $q$, vedremo il grafico seguente:
+Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. 
+
+#### ESEMPIO
+
+Se proviamo a disegnare (anche con GEOGEBRA) le tre rette seguenti, che hanno tutte lo stesso coefficiente angolare ma diversi $q$, vedremo il grafico seguente:
 
 1. $y = 3x -2$,    $m = 3$ e $q = -2$;
 2. $y = 3x$,    $m = 3$ e $q = 0$;
@@ -290,7 +294,9 @@ Il coefficiente angolare invece determina l'angolo di inclinazione della retta r
 
 <img src="img/m.png" alt="m" style="zoom:20%;" />
 
+Poiché l'inclinazione di una retta sull'asse orizzontale dipende dal suo coefficiente angolare, abbiamo che tutte le retta che hanno lo stesso coefficiente angolare hanno la stessa inclinazione, per cui sono tutte parallele. Questo lo si vede anche dalla prima figura. In pratica la condizione di parallelismo di due rette è: "due rette sono parallele se e solo se le loro equazioni in forma esplicita hanno lo stesso coefficiente angolare".
 
+Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$.
 
 
 
@@ -354,6 +360,27 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 
 ## UNITA' 3: Intersezione di due rette
+
+Due rette in un piano cartesiano, non parallele ne coincidenti, geometricamente si intersecano in un punto. Dal punto di vista algebrico, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite.  
+
+#### ESEMPIO
+
+Consideriamo le due rette che fanno parte del sistema seguente.
+
+$$\left\{  
+\begin{array}{c} 
+2x+y=-1 \\  
+x-3y=10\\   
+\end{array} 
+\right.$$
+
+La soluzione del sistema è data dalla coppia $(1,-3)$, come si ricava da GEOGEBRA con l'istruzione $Risolvi(\{2x+y=-1,x-3y=10\}, \{x,y\})$. 
+
+Il loro grafico è il seguente.
+
+<img src="img/Interzezione-Rette.png" alt="Interzezione-Rette" style="zoom:20%;" />
+
+Come si vede la soluzione del sistema coincide con le coordinate del punto di intersezione delle due rette.
 
 
 
