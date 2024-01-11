@@ -34,7 +34,7 @@ $$
 
 <img src="img/Soluzioni-e-no.png" alt="Soluzioni-e-no" style="zoom:15%;" />
 
-Si verifica allora che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti del piano allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.
+Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.
 
 
 
@@ -79,7 +79,7 @@ b) Trova tre punti di ciascuno degli insiemi seguenti.
 
 a) Risolvi il punto dell'esercizio a.2) seguendo le indicazioni riportate in ciascun passo. 
 
-Passo 1: Inserisci l'equazione dell'esercizio, mediante l'istruzione $f: y=x+1$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
+Passo 1: Inserisci l'equazione dell'esercizio, mediante l'istruzione $f: y=x+1$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
 
 Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i 5 valori $0,1,-1, 2, -2;$
 
@@ -198,7 +198,7 @@ b) Disegna le due rette rappresentate dalle seguenti equazioni trovando due punt
 
 a) Risolvi il punto a) dell'esercizio seguendo le indicazioni riportate in ciascun passo. 
 
-Passo 1: Inserisci l'istruzione $f: y=-2x$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
+Passo 1: Inserisci l'istruzione $f: y=-2x$&#9166; (oppure digita l'equazione e dal menu contestuale scegli "Aggiungi etichetta");
 
 Passo 2: Crea una tabella, inserendo nella colonna delle $x$ i valori $0,1,-1;$
 
@@ -270,7 +270,27 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 ## UNITA' 5: Significato geometrico di m e q
 
-Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q$ è quello di metterla nella forma desiderata, detta ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come $\text{monomio in x} + \text{numero}$ e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
+Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q$ è quello di metterla nella forma desiderata, detta ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come "$\text{monomio in x} + \text{numero}$" e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
+
+Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. Se proviamo a disegnare (anche con GEOGEBRA) le tre rette seguenti, che hanno tutte lo stesso coefficiente angolare ma diversi $q$, vedremo il grafico seguente:
+
+1. $y = 3x -2$,    $m = 3$ e $q = -2$;
+2. $y = 3x$,    $m = 3$ e $q = 0$;
+3. $y = 3x + \dfrac{2}{3},$    $m = 0$ e $q = \dfrac{2}{3}$.
+
+<img src="img/q.png" alt="q" style="zoom: 20%;" />
+
+L'altezza dei punti di intersezione corrisponde a $(0,q)$ dove $q$ è parametro di ogni retta.
+
+Il coefficiente angolare invece determina l'angolo di inclinazione della retta rispetto all'asse orizzontale. Se $m$ è positivo la retta è inclinata verso l'alto; se è negativo è inclinata verso il basso e se è pari a zero la retta è orizzontale, come si vede dal grafico seguente dove sono disegnate le rette
+
+1. $y = 3x -2$,    $m = 3$ e $q = -2$;
+2. $y = -3x -2$,    $m = -3$ e $q = -2$;
+3. $y = 0x -2$,    $m = 0$ e $q = -2$.
+
+<img src="img/m.png" alt="m" style="zoom:20%;" />
+
+
 
 
 
@@ -299,7 +319,7 @@ a) Risolvi il punto a.1) dell'esercizio con la sequenza di istruzioni GEOGEBRA r
 
 b) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
 
-1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$  &#9166;
+1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$  &#9166;
 2. $y-y_0 = m(x-x_0)$ &#9166; 
 
 c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
@@ -368,7 +388,7 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 1. $eq1: 3x+2y=-1$ &#9166;
 2. $eq2: 6x-9y=2$ &#9166; 
-3. $Sostituisci(eq1, \{x=5, y=-2\})$ &#9166;    (L'uguaglianza è falsa quindi cerchiamo la soluzione con il comando $Risolvi$)
+3. $Sostituisci(eq1, \{x=5, y=-2\})$ &#9166;    (L'uguaglianza è falsa quindi cerchiamo la soluzione con il comando $Risolvi$)
 4. $Risolvi(\{eq1,eq2\}, \{x, y\})$  &#9166;
 
 
