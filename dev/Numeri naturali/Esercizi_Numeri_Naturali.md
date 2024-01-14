@@ -11,9 +11,11 @@ Sommiamo due numeri quando vogliamo contare gli elementi di due insiemi disgiunt
 
 Sottraiamo due numeri quando contiamo gli elementi di un insieme che non fanno parte di un suo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine; i libri integri sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un insieme finito ha un numero di elementi sempre minore (o al più uguale) a quello dell'insieme, non è possibile sottrarre da un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
 
-Moltiplichiamo due numeri naturali quando vogliamo contare gli elementi di un insieme formato dall'unione di tanti insiemi (gruppi) distinti tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta un gruppo di 9 libri; il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$.
+Moltiplichiamo due numeri naturali quando vogliamo contare gli elementi di un insieme formato dall'unione di tanti insiemi distinti tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta 9 libri; il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$, ossia uniamo 5 insiemi di 9 libri ciascuno.
 
-La divisione è l'operazione inversa della moltiplicazione e ci consente di contare i gruppi di oggetti, quando conosciamo il numero totale degli elementi e gli elementi di ciascun gruppo: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per 4; se le gambe sono 100 le pecore sono $100 : 4 \longrightarrow 25$. Da questo esempio di vede come non è possibile dividere un primo numero per un secondo numero se il primo non è un multiplo del secondo, ossia il risultato di $100 : 3$ non è un numero naturale.  
+La divisione è l'operazione inversa della moltiplicazione; facciamo un esempio con 12 caramelle da dividere in parti uguali tra 3 bambini: ogni bambino avrà 4 caramelle. Con la divisione contiamo quanti elementi ha ogni sottoinsieme di un insieme (le caramelle) se le dividiamo in parti uguali tra un numero fissato di sottoinsiemi.
+
+Osserviamo che sempre con la divisione possiamo sapere anche quanti sono i sottoinsiemi: se abbiamo 12 caramelle da dividere per un certo numero di bambini ed ognuno di loro avrà 3 caramelle, quanti sono i bambini? Sono 4. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per 4; se le gambe sono 100 le pecore sono $100 : 4 \longrightarrow 25$.  
 
 Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni più complesse in cui compaiono due operazioni, come $12 \cdot 3 + 4$; in questo caso il numero $3$ fa parte sia di una moltiplicazione che di una somma. 
 
@@ -23,17 +25,29 @@ Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due nume
 
 #### ESEMPIO
 
-Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Poiché il prodotto ha priorità di esecuzione rispetto alla somma il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione eseguita. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \longrightarrow 96 +^{(1)} 5 \longrightarrow 101$.
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Poiché quando c'è un numero condiviso il numero deve essere usato nel prodotto (ha priorità nell'uso del numero), il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \longrightarrow 96 +^{(1)} 5 \longrightarrow 101$.
 
-Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è condiviso con il prodotto. Poiché il prodotto ha priorità di esecuzione rispetto alla somma l'$8$ dovrà essere impiegato nel prodotto. La somma non può essere eseguita (manca il secondo numero), verrà eseguito il prodotto e la somma opererà sul risultato. 
+Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ fa parte sia della somma del del prodotto. Poiché il prodotto ha priorità nell'uso del numero, l'$8$ dovrà essere impiegato nel prodotto. La somma non può essere eseguita (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
 
 La sequenza delle operazioni eseguibili sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \longrightarrow 5 +^{(1)} 96 \longrightarrow 101$.
 
-#### Uso delle parentesi
+#### Uso delle parentesi e priorità
 
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati prioritariamente nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto, ed anche in generale come priorità il prodotto deve essere eseguito prima della somma, ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione eseguibile è quindi la somma. La sequenza delle operazioni eseguibili sarà allora quella indicata dagli apici:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
+Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà allora quella indicata dagli apici:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
+
+Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti o divisioni e somme o sottrazioni vincono i prodotti e le divisioni, mentre tra prodotti e divisioni oppure tra somme e sottrazioni si fa quella che viene prima leggendo da sinistra a destra.
+
+#### ESEMPI
+
+a) $8 \cdot^{(1)} 12 : ^{(2)} 3 \longrightarrow 96 :^{(1)} 3 \longrightarrow 32$.
+
+b) $12 :^{(1)} 3 : ^{(2)} 2 \longrightarrow 4 :^{(1)} 2 \longrightarrow 2$.
+
+c) $12 - ^{(1)} 8 + ^{(2)} 1 \longrightarrow 4 +^{(1)} 1 \longrightarrow 5$.
+
+d) $8 - ^{(2)} 12 : ^{(1)} 3 \longrightarrow 8 -^{(1)} 4 \longrightarrow 4$.
 
 
 
@@ -134,7 +148,7 @@ b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $a=floor(\dfrac{100}{25}))$&#9166;    		// Parte intera della divisione tra 100 e 25 
+1. $a=floor(\dfrac{100}{25}))$&#9166;    		// Parte intera della divisione tra 100 e 25 
 
 ​       $Successione(25k, \; k, \; 1, \; a)$&#9166;	// Lista dei multipli
 
