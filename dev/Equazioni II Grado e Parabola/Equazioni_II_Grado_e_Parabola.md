@@ -3,6 +3,31 @@
 
 ## UNITA' 1: I radicali
 
+Diverse lezioni fa abbiamo visto il significato ed il calcolo delle potenze. Abbiamo visto come calcolare il ***valore*** della potenza $a^n$ se conosciamo $a$, la ***base*** della potenza (numero intero) e $n$, l'***esponente*** (numero intero), ad esempio
+
+a) $3^2 \longrightarrow 9$;      $3^{-2} \longrightarrow \dfrac{1}{3^2} \longrightarrow \dfrac{1}{9}$;
+
+b) $(-3)^2 \longrightarrow 9$;      $(-3)^{-2} \longrightarrow \dfrac{1}{(-3)^2} \longrightarrow \dfrac{1}{9}$.
+
+Adesso ci occupiamo del problema inverso, trovare la ***base*** di una potenza, conoscendo il suo ***valore*** e l'***esponente***. In pratica trovare il numero che sostituito alla $x$ ci da il valore della potenza, ad esempio $x^2 \longrightarrow 9$, oppure $x^3 \longrightarrow 8$.
+
+Facendo qualche tentativo si vede che nel primo caso $x = 3$, perché $3^2 \longrightarrow 9$ e nel secondo $x = 2$ perché $2^3 \longrightarrow 8$ (facendo più attenzione notiamo che nel primo caso anche $x = -3$ risolve il problema perché anche $(-3)^2 \longrightarrow 9$).
+
+Questi numeri si chiamano **radici** rispettivamente di $9$ e di $8$ e precisamente $3$ è radice quadrata di $9$ e $2$ è radice cubica di $8$ e si indicano $\sqrt[2]{9} = 3$ e $\sqrt[3]{8} = 2$.
+
+In generale la radice n-esima di un numero $b$ si scrive utilizzando l'espressione $\sqrt[n]{b}$ , detta **radicale**, con $n$ detto *indice* del radicale. La radice n-esima di $b$ è un numero positivo $a$ tale che $a^n= b$. Tranne che in casi particolari le radici si trovano con la calcolatrice o con GEOGEBRA, trasformando il radicale in potenza.
+
+Oltre che con il caratteristico simbolo di radice, i radicali si possono infatti scrivere come potenze; ad esempio $\sqrt[2]{9}$ si può scrivere anche $9^{\frac{1}{2}} \longrightarrow 3$ e $\sqrt[3]{8} = 8^{\frac{1}{3}} \longrightarrow 2$, ossia con esponenti frazionari corrispondenti al reciproco dell'indice del radicale.
+
+Abbiamo poi che si può scrivere $8^{\frac{2}{3}} = \sqrt[3]{8^2} \longrightarrow \sqrt[3]{64} \longrightarrow 4$. Cioè in generale:
+$$
+x^{\frac{m}{n}} = \sqrt[n]{x^m}
+$$
+
+Osserviamo che se l'indice del radicale è pari ed il numero sotto la radice è negativo non esiste nessun numero corrispondente al radicale. Ad esempio $\sqrt[2]{-4}$ non è un numero perché se esistesse $a$ tale che $\sqrt[2]{-4}=a$ allora $a^2 = -4$ e questo numero non esiste.
+
+ 
+
 ### ESERCIZIO 1 - Calcolo di radicali
 
 a) Usando la calcolatrice, trova il valore, approssimato alla quarta cifra decimale, dei radicali riportati di seguito. Fai una prova della correttezza del calcolo dopo aver trovato il numero.
@@ -15,8 +40,9 @@ b) Calcola $\sqrt[n]{x}$ in ciascuno dei casi seguenti:  $n=2, x=1;$   $n=3, x=8
 
 c) Stabilisci quali delle relazioni seguenti sono vere.
 
-1. $\sqrt[2]{4}+2=0;$  $\sqrt[5]{4}-5=0;$  $\sqrt[4]{2}-\sqrt[2]{4}=0;$ 
-2. $\sqrt[2]{25}=\sqrt[2]{36}-1;$  $\sqrt[5]{1}-1=0$.
+1. $\sqrt[2]{4}+2=0;$     $\sqrt[2]{4}-5=0;$     $\sqrt[4]{2}-\sqrt[2]{-4}=0;$ 
+2. $\sqrt[2]{25}=\sqrt[2]{36}-1;$     $\sqrt[5]{1}-1=0$;
+3. $\sqrt[2]{-4}=-2$;    $\sqrt[2]{4} = -2$;     $2 - \sqrt[2]{4}=0$.
 
 #### Laboratorio GEOGEBRA
 
@@ -30,7 +56,7 @@ b) Risolvi il quarto esercizio del punto a.1) con una sequenza di operazioni GEO
 
 c) Risolvi il punto c.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $\sqrt4 + 2==0$&#9166;    $4^\frac{1}{5}-5==0$&#9166;    $2^\frac{1}{4}-4^\frac{1}{2}==0$&#9166; 
+1. $\sqrt4 + 2==0$&#9166;    $4^\frac{1}{5}-5==0$&#9166;    $2^\frac{1}{4}-4^\frac{1}{2}==0$&#9166; 
 
 
 
@@ -61,6 +87,47 @@ a) Risolvi il secondo esercizio del punto b.1) con la sequenza di operazioni GEO
 
 
 ## UNITA' 2: Le equazioni di II grado
+
+Le equazioni di II grado, con una sola incognita, sono equazioni in cui l'incognita compare al quadrato (e non con esponente più alto).
+
+Le seguenti sono equazioni di II grado:
+
+a) $x^2 - 4 = 0$;
+
+b) $x^2 = -1$;
+
+c) $x(x + 3) = 0$;
+
+d) $x^2 -5x + 6 = 0$;
+
+e) $x^2 + x + 1 = 0$.
+
+Le equazioni di II grado possono avere due soluzioni, una sola soluzione o nessuna soluzione. Un esempio di equazione che ha due soluzioni è la a) e le soluzioni sono $2$ e $-2$, infatti sostituendo, ad esempio $-2$ si ottiene $(-2)^2 - 4 = 0 \longrightarrow 4 - 4 = 0$ che è vera.
+
+Un esempio di equazione che non ha soluzione è la b) perché non c'è nessun numero che al quadrato possa dare $-1$. Prima di scrivere le formule per calcolare le soluzioni di una equazione di II grado bisogna esaminare la loro forma "standard" detta *normale*.
+
+Una equazione di II grado è in forma normale se è scritta come un polinomio uguale a zero, ossia ha la forma generica:
+$$
+ax^2+bx+c=0
+$$
+con $a$, $b$, e $c$ numeri detti ***coefficienti***. Ad esempio, tra le equazioni di esempio la a), d) ed e) sono in forma normale, le altre no. Per mettere la b) in forma normale basta trasportare il $-1$ a sinistra. Nella a) quindi abbiamo che $\{a = 1, b=0, c=-4\}$, mentre nella d) abbiamo $\{a = 1, b=-5, c=6\}$. 
+
+Per trovare le soluzioni di una equazione di II grado in forma normale si possono applicare le formule seguenti (dette ***risolutive***):
+$$
+x_1 = \dfrac{-b+\sqrt{b^2 - 4ac}}{2a} \\
+x_2 = \dfrac{-b-\sqrt{b^2 - 4ac}}{2a}
+$$
+Per calcolare le soluzioni della equazione d) basta sostituire i numeri specifici ai coefficienti generici ottenendo:
+$$
+x_1 = \dfrac{-(-5)+\sqrt{(-5)^2 - 4\cdot 1 \cdot 6}}{2 \cdot 1} \longrightarrow \dfrac{5+\sqrt{25-24}}{2} \\
+x_2 = \dfrac{-(-5)-\sqrt{(-5)^2 - 4\cdot 1 \cdot 6}}{2 \cdot 1} \longrightarrow \dfrac{5-\sqrt{25-24}}{2}
+$$
+
+Facendo il calcolo si ottiene $x_1=3$, $x_2 = 2$.
+
+L'esistenza o la non esistenza delle soluzioni dipende dalla quantità sotto radice $b^2-4ac$. Se la quantità è negativa la sua radice quadrata non esiste e quindi non esiste la soluzione dell'equazione.
+
+
 
 ### ESERCIZIO 3 - Forma Normale delle Equazioni
 
