@@ -5,7 +5,7 @@
 
 Capita frequentemente di risolvere problemi nei quali si cerca un numero sapendo che deve soddisfare una certa condizione. Vediamo un esempio: "Ho comprato un paio di pantaloni ai saldi sui quali c'era il $30 \%$ di sconto ed ho risparmiato $30$ euro. Quanto costavano di listino?"
 
-Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato ($30$ euro) ma non gli elementi che lo determinano, nel caso specifico, il prezzo di listino. Se indichiamo il prezzo con la lettera $p$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot p = 30$.
+Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato ($30$ euro) ma non tutti gli elementi che lo determinano, nel caso specifico, il prezzo di listino. Se indichiamo il prezzo con la lettera $p$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot p = 30$.
 
 Il nostro problema si risolve quindi col trovare un numero che messo al posto della lettera $p$, e quindi moltiplicato per $30 \%$ dia come risultato $30$, cioè renda vera (o soddisfi) la condizione che dipende da $p$. Questo numero è $100$, infatti $30 \% \cdot 100 = 30 \longrightarrow True$. La condizione si definisce ***equazione*** ed il numero $100$ è la ***soluzione*** dell'equazione perché la sostituzione di $r$ con $100$ rende l'equazione una uguaglianza vera.
 
@@ -52,7 +52,7 @@ b) Risolvi i punti b.1 e b.2 con la sequenza di comandi GEOGEBRA riportata di se
 2. $s1: Sostituisci(e1, x=5)$ &#9166; 
 3. $PrimoMembro(s1) == SecondoMembro(s1)$ &#9166;
 
-Controlla che il comando $PrimoMembro(s1)$&#9166; fornisce $\dfrac{5}{2} \approx 2,5$ mentre $SecondoMembro(s1)$&#9166; fornisce $\dfrac{29}{10} \approx 2,9$  
+Controlla che il comando $PrimoMembro(s1)$&#9166; fornisce $\dfrac{5}{2} \approx 2,5$ mentre $SecondoMembro(s1)$&#9166; fornisce $\dfrac{29}{10} \approx 2,9$  
 
 
 
@@ -350,7 +350,29 @@ d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 21
 
 
 
-## UNITA' 4: Disequazioni ed intervalli
+## UNITA' 4: Diseguaglianze ed intervalli
+
+La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $1+2 \lt 5 \longrightarrow True$ . Osserviamo che $1+2 \lt 3 \longrightarrow False$ .
+
+I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow True$  e  $3 \le 3 \longrightarrow True$​ .
+
+Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per se non è ne vera ne falsa in quanto non contiene solo numeri, ma è importante perché con essa possiamo porci un problema , che è quello di trova i numeri che sostituiti alla lettera $x$​ rendono la relazione vera.
+
+La scrittura $x \lt -2$ si chiama "disequazione" ed i numeri che la rendono vera si chiamano "soluzioni" della disequazione. Come si vede, le soluzioni della disequazione sono tutti i numeri che sono minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
+
+Per indicare questo insieme si utilizza anche un'altra notazione, detta "**intervallo**": $(-\infty, -2)$; in questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo indicare anche $-2$ scriviamo $(-\infty, -2]$.
+
+Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via.
+
+Gli intervalli si possono rappresentare anche graficamente su una retta. Il grafico dell'intervallo $[0,3]$ è:
+
+<img src="img\diseq-0-3.png" alt="diseq-0-3" style="zoom:75%;" />
+
+Nella simbologia grafica usata da GEOGEBRA ogni estremo del segmento è un puntino pieno se il numero fa parte dell'intervallo mentre è vuoto se non vi fa parte, come nell'esempio seguente dove è rappresentato l'intervallo $(3, 5]$.
+
+<img src="img/diseq-3-5.png" alt="diseq-3-5" style="zoom:75%;" />
+
+
 
 ### ESERCIZIO 8 - Disuguaglianze e disequazioni
 
@@ -368,8 +390,6 @@ b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
 
 1.  $x + 1 \gt 0; x + 3 \le 4$;
 2.  $2x-1 \lt 6; x^2 + 2x -1 \ge 0$; 
-
-
 
 ### ESERCIZIO 9 - Soluzione di Disequazioni I
 
@@ -420,7 +440,7 @@ Per il presente laboratorio, utilizzare la versione on-line di GEOGEBRA Classic 
 
 a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
-1. $a : 0 <= x <= 3$ &#9166; 
+1. $a : 0 \le x \and x \le 3$ &#9166; 
 2. $a(2)$ &#9166;
 
 Per rappresenta graficamente l'intervallo:
@@ -433,6 +453,8 @@ Per rappresenta graficamente l'intervallo:
 b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($b, c$, etc.).
 
 
+
+## UNITA' 5: Disequazioni di I grado con una incognita
 
 ### ESERCIZIO 11 - Soluzione di Disequazioni II
 

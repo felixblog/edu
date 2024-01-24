@@ -258,7 +258,7 @@ Per vedere come si calcola vediamo prima la divisione tra due numeri interi. $6 
 
 Vediamo adesso la divisione tra una frazione ed un numero intero: $\dfrac{6}{4} : 2 \longrightarrow \dfrac{6}{4} \cdot \dfrac{1}{2} \longrightarrow \dfrac{3}{4}$  Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore. Questo vale per tutte le divisioni tra frazioni: si trasforma in moltiplicazione per il reciproco del divisore: $\dfrac{3}{4} : \dfrac{1}{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{2}{1} \longrightarrow \dfrac{6}{4} \longrightarrow \dfrac{3}{2} = 1.5$ 
 
-Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezzo (e considerato che la metà di $\dfrac{1}{2}$ è $\dfrac{1}{4}$ abbiamo che  $\dfrac{3}{4} =  \dfrac{1}{2} + \dfrac{1}{4}$.
+Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezzo (e considerato che la metà di $\dfrac{1}{2}$ è $\dfrac{1}{4}$ abbiamo che  $\dfrac{3}{4} =  \dfrac{1}{2} + \dfrac{1}{4}$.
 
  
 
@@ -593,13 +593,15 @@ c) Considerando che Il grafico in figura riporta il fatturato di una azienda neg
 
 ![Grafico1](img\Ist-1.png)
 
-d) Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+d) Comprando si Amazon si pagano, separatamente dal costo del prodotto, i costi di trasporto. Se per il trasporto, separato,  di due prodotti si pagano 5 euro, il primo costa 450 euro ed il secondo 60 euro, quanto incide il costo del trasporto sull'acquisto di ciascun prodotto? Quanto, nei due casi, sulla spesa totale?
 
-e) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
+e) Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
 
-f) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
+f) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
 
-g) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+g) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
+
+h) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
 
 
 
