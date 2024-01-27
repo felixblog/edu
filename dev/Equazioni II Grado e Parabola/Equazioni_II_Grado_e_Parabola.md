@@ -125,7 +125,9 @@ $$
 
 Facendo il calcolo si ottiene $x_1=3$, $x_2 = 2$.
 
-L'esistenza o la non esistenza delle soluzioni dipende dalla quantità sotto radice $b^2-4ac$. Se la quantità è negativa la sua radice quadrata non esiste e quindi non esiste la soluzione dell'equazione.
+L'esistenza o la non esistenza delle soluzioni dipende dalla quantità sotto radice $b^2-4ac$​. Se la quantità è negativa la sua radice quadrata non esiste e quindi non esiste la soluzione dell'equazione.
+
+Quando una equazione di II grado è in forma normale, è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama polinomio "associato" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "radici" del polinomio.
 
 
 
@@ -187,6 +189,43 @@ b) Risolvi il secondo e terzo esercizio del punto b.1) con la sequenza di operaz
 
 ## UNITA' 3: La parabola
 
+Una equazione con due incognite, come ad esempio $x + y = 5$ è una relazione tra due numeri, il numero $x$ ed il numero $y$ che divide i punti del piano in due parti: quelli che hanno le coordinate sono soluzione dell'equazione e quelli che non lo sono. Consideriamo ora un tipo particolare di equazione  con due incognite:
+$$
+y = ax^2 + by + c
+$$
+dove $ax^2 + by + c$ è un polinomio in $x$ come quello associato alle equazioni di II grado in forma normale. Se disegniamo sul piano cartesiano le soluzioni delle equazioni di questo tipo, otteniamo sempre delle figure come queste:
+
+<img src="img/Parabola-3.png" alt="Parabola-3" style="zoom:20%;" />
+<img src="img/Parabola-4.png" alt="Parabola-4" style="zoom:20%;" />
+
+Questa forma è chiamata "Parabola". Ha una parte che "scende" fino ad un minimo, detto "vertice" e poi risale. In alcuni casi, come quello della prima figura, il vertice è nel semipiano delle $y$​ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
+
+Il vertice è un punto importante della parabola che ha le coordinate date dalla formula seguente:
+$$
+V = (-\dfrac{b}{2a}, -\dfrac{b^2 - 4ac}{4a})
+$$
+Come si vede dalle figure, una parabola può incrociare entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse orizzontale e con il secondo troviamo l'intersezione con l'asse verticale:
+
+$$
+\left\{  
+\begin{array}{c} 
+y = ax^2+by+c  \\  
+y =0			\\   
+\end{array} 
+\right.
+$$
+
+$$
+\left\{  
+\begin{array}{c} 
+y = ax^2+by+c \\  
+x=0			\\   
+\end{array} 
+\right.
+$$
+
+
+
 ### ESERCIZIO 5 - Caratteristiche della Parabola
 
 a) Determina tre punti delle parabole seguenti:
@@ -200,7 +239,7 @@ b) Determina l'intersezione con gli assi delle parabole seguenti.
 1. Parabole del punto a.2) dell'esercizio;
 2. Parabole del punto a.3) dell'esercizio.
 
-c) Determina vertice ed asse di simmetria delle parabole seguenti.
+c) Determina il vertice delle parabole seguenti.
 
 1. Parabole del punto a.2) dell'esercizio;
 2. Parabole del punto a.3) dell'esercizio.
@@ -227,27 +266,7 @@ a) Disegna con GEOGEBRA il grafico della parabola $y=\dfrac{1}{4}x^2-9$ e calcol
 
 
 
-### ESERCIZIO 6 - Equazioni di II Grado e Parabole Associate
-
-a) Discuti la presenza di una, due o nessuna soluzione delle equazioni seguenti dopo aver disegnato la parabola associata.
-
-$2x^2 + x = 0;$   $\dfrac{x^2}{4} - 81 = 0;$   $x^2 -5 = 0;$   $x^2 +x +1 = 0;$   $-x^2 +4x -4 = 0;$
-
-b) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
-
-1. $x^2-x;$   $-x^2-x;$   $x^2-4;$ 
-2. $\dfrac{1}{4}x^2-9;$   $-\dfrac{5}{2}x^2-5x;$   $x^2+x+1;$ (polinomi delle parabole dell'esercizio 5, punto a.3)).
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il primo punto dell'esercizio b.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
-
-1. $x^2-x \ge 0 $   &#9166; 
-
-<img src="img\Disequazione-1.png" alt="Disequazione-1" style="zoom:20%;" />
-
-
-### ESERCIZIO 7 - Problemi sulla Parabola
+### ESERCIZIO 6 - Problemi sulla Parabola
 
 a) Scrivi l'equazione della parabola che passa per tre punti nei casi riportati di seguito e fanne un grafico approssimativo.
 
@@ -272,9 +291,9 @@ a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA r
 
 
 
-### ESERCIZIO 8 - Retta e Parabola
+### ESERCIZIO 7 - Retta e Parabola
 
-a) Risolvi i seguenti sistemi Retta-Parabola e rappresenta graficamente le due curve
+a) Trova le coordinate dei punti di intersezione tra le parabole e le rette nei casi seguenti e rappresenta graficamente le due curve
 
 1. $$\left\{  
    \begin{array}{c} 
@@ -298,3 +317,31 @@ Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA ripo
 2. $y=x$&#9166;  
 
 <img src="img\Retta-Parabola-1.png" alt="Retta-Parabola" style="zoom:20%;" />
+
+
+
+## UNITA' 4: Intervalli di positività e relazione con le equazioni di II grado
+
+
+
+### ESERCIZIO 8 - Equazioni di II Grado e Parabole Associate
+
+a) Discuti la presenza di una, due o nessuna soluzione delle equazioni seguenti dopo aver disegnato la parabola associata.
+
+$2x^2 + x = 0;$   $\dfrac{x^2}{4} - 81 = 0;$   $x^2 -5 = 0;$   $x^2 +x +1 = 0;$   $-x^2 +4x -4 = 0;$
+
+b) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
+
+1. $x^2-x;$   $-x^2-x;$   $x^2-4;$ 
+2. $\dfrac{1}{4}x^2-9;$   $-\dfrac{5}{2}x^2-5x;$   $x^2+x+1;$ (polinomi delle parabole dell'esercizio 5, punto a.3)).
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il primo punto dell'esercizio b.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
+
+1. $x^2-x \ge 0 $   &#9166; 
+
+<img src="img\Disequazione-1.png" alt="Disequazione-1" style="zoom:20%;" />
+
+
+

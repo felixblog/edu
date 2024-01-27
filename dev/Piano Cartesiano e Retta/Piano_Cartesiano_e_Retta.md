@@ -361,7 +361,7 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 ## UNITA' 3: Intersezione di due rette
 
-Due rette in un piano cartesiano, non parallele ne coincidenti, geometricamente si intersecano in un punto. Dal punto di vista algebrico, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite.  
+Due rette in un piano cartesiano, non parallele ne coincidenti, geometricamente si intersecano in un punto. Dal punto di vista algebrico, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite. 
 
 #### ESEMPIO
 
@@ -381,6 +381,29 @@ Il loro grafico è il seguente.
 <img src="img/Interzezione-Rette.png" alt="Interzezione-Rette" style="zoom:20%;" />
 
 Come si vede la soluzione del sistema coincide con le coordinate del punto di intersezione delle due rette.
+
+Anche gli assi cartesiani sono rette ed hanno la loro equazione associata. L'equazione associata all'asse orizzontale, l'asse delle $x$, è $y=0$ mentre quella associata all'asse verticale (delle $y$) è $x=0$: come si può verificare facilmente, le coordinate di tutti i punti posizionati sull'asse verticale, ad esempio $(0, -3)$ oppure $(0, 5)$, sono soluzione dell'equazione $x + 0 \cdot y = 0 \longrightarrow x=0$ e tutti quelli posizionati sull'asse orizzontale, esempio $(-5, 0)$ oppure $(1,0)$ sono soluzione di $y + 0 \cdot x = 0 \longrightarrow y=0$.
+
+Se quindi si vuole risolvere l'importante problema di individuare le coordinate dei punti di intersezione di una retta, ad esempio $y -3x = 1$ con gli assi coordinati bisogna risolvere i due sistemi:
+$$
+\left\{  
+\begin{array}{c} 
+y -3x = 1  \\  
+y =0			\\   
+\end{array} 
+\right.
+$$
+
+$$
+\left\{  
+\begin{array}{c} 
+y -3x = 1 \\  
+x=0			\\   
+\end{array} 
+\right.
+$$
+
+che hanno come soluzione rispettivamente $(-\dfrac{1}{3}, 0)$ e $(0, 1)$.
 
 
 
@@ -434,6 +457,10 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 
 1. scrivi la formula che calcola lo spazio s percorso dopo t ore 
 2. riporta in un piano cartesiano con il tempo sull'asse orizzontale e lo spazio su quello verticale, il grafico dell'equazione trovata. Quale è il significato fisico del coefficiente angolare?
+
+
+
+## UNITA' 3: Intervalli di positività e negatività
 
 
 
