@@ -13,7 +13,7 @@ Le lettere servono quindi a specificare come calcolare certe quantità conoscend
 
 
 
-### ESERCIZIO 1 - Dalle parole alle espressioni (I)
+### ESERCIZIO 1.1 - Dalle parole alle espressioni (I)
 
 a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una o più lettere per indicare le quantità sconosciute.
 
@@ -36,7 +36,7 @@ b) Come il punto precedente, scrivi l'espressione letterale corrispondente ad og
 
 
 
-### ESERCIZIO 2 - Dalle lettere ai numeri
+### ESERCIZIO 1.2 - Dalle lettere ai numeri
 
 a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
@@ -53,7 +53,7 @@ b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e c
 
 
 
-### ESERCIZIO 3 - Dai numeri alle lettere
+### ESERCIZIO 1.3 - Dai numeri alle lettere
 
 In ciascuna delle espressioni seguenti, sostituisci il numero indicato con la lettera corrispondente e, se possibile, esegui le operazioni numeriche.
 
@@ -67,7 +67,7 @@ d)  $\dfrac{5}{3} \cdot 4 + (-\dfrac{5}{3} \cdot 2 + 2) \cdot (-5)^2$;  Sostitui
 
 
 
-### ESERCIZIO 4 - Dalle espressioni alle parole
+### ESERCIZIO 1.4 - Dalle espressioni alle parole
 
 Traduci in parole le espressioni seguenti cominciando con: “Dati i numeri $a$ e $b$ ...”.
 
@@ -113,7 +113,7 @@ Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di mon
 
 
 
-### ESERCIZIO 5 - Forma normale dei monomi
+### ESERCIZIO 2.1 - Forma normale dei monomi
 
 a) Scrivi i seguenti monomi in forma normale.
 
@@ -143,7 +143,7 @@ a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBR
 
 
 
-### ESERCIZIO 6 - Prodotti di monomi
+### ESERCIZIO 2.2 - Prodotti di monomi
 
 a) Calcola i seguenti prodotti di monomi. 
 
@@ -157,7 +157,7 @@ a) Calcola i seguenti prodotti di monomi.
 
 
 
-### ESERCIZIO 7 - Dalle parole alle espressioni I
+### ESERCIZIO 2.3 - Dalle parole alle espressioni I
 
 Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale che fornisce la soluzione di ogni problema. L'espressione richiesta dovrà contenere una lettera che indica la quantità contenuta nel testo da cui dipende la soluzione.
 
@@ -196,7 +196,7 @@ i) Una persona deposita in banca un capitale $C$ su un conto che rende il 5% di 
 
 
 
-### ESERCIZIO 8 - Dalle parole alle espressioni II
+### ESERCIZIO 2.4 - Dalle parole alle espressioni II
 
 a) Scrivi le espressioni numeriche che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
 
@@ -230,7 +230,7 @@ $-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \l
 
 
 
-### ESERCIZIO 9 - Somme di monomi
+### ESERCIZIO 3.1 - Somme di monomi
 
 a) Scrivi l'espressione che corrisponde alla somma dei monomi seguenti e semplifica il risultato se possibile.
 
@@ -248,7 +248,7 @@ a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2
 
 
 
-### ESERCIZIO 10 - Espressioni letterali
+### ESERCIZIO 3.2 - Espressioni letterali
 
 a) Individua quanti e quali monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
@@ -269,7 +269,7 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}x\,\cd
 
 
 
-## UNITA' 3: Rapporti tra monomi e frazioni algebriche
+## UNITA' 4: Rapporti tra monomi e frazioni algebriche
 
 Il rapporto tra due monomi non è sempre un monomio. Lo è solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi non sono più presenti lettere al denominatore.
 
@@ -277,7 +277,7 @@ Se ciò non accade il rapporto tra i due monomi non è un monomio ma una espress
 
 
 
-### ESERCIZIO 11 - Rapporti tra monomi e semplificazioni
+### ESERCIZIO 4.1 - Rapporti tra monomi e semplificazioni
 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
 
@@ -293,7 +293,7 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 
 
-## UNITA' 4: Polinomi 
+## UNITA' 5: Polinomi 
 
 La somma di più monomi non tutti simili si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Un polinomio è in ***forma normale*** se in esso non sono presenti monomi simili (sono già stati sommati tra di loro!). Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
 
@@ -301,7 +301,7 @@ Un polinomio è in forma normale se tutti i monomi sono in forma normale e sono 
 
 
 
-### ESERCIZIO 12 - Polinomi in forma normale
+### ESERCIZIO 5.1 - Polinomi in forma normale
 
 Riduci i seguenti polinomi in forma normale.
 
@@ -320,7 +320,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO 13 - Rappresentazione delle espressioni letterali
+### ESERCIZIO 5.2 - Rappresentazione delle espressioni letterali
 
 a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
 
@@ -358,7 +358,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-## UNITA' 5: Somme prodotti e rapporti di polinomi
+## UNITA' 6: Somme prodotti e rapporti di polinomi
 
 La somma di due polinomi è un polinomio che si trova sommando tra di loro tutti i monomi dei due polinomi. 
 
@@ -380,7 +380,7 @@ $(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot 
 
 
 
-### ESERCIZIO 14 - Somma di polinomi
+### ESERCIZIO 6.1 - Somma di polinomi
 
 Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
 
@@ -391,7 +391,7 @@ b) $3a^{3}+5a^{2}-2a+1$;     $3a^{3}-2a^{2}+5a-7$
 
 
 
-### ESERCIZIO 15 - Dalle parole alle espressioni III
+### ESERCIZIO 6.2 - Dalle parole alle espressioni III
 
 Dati i polinomi seguenti:
 
@@ -413,7 +413,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 16 - Prodotto di monomi per polinomi
+### ESERCIZIO 6.3 - Prodotto di monomi per polinomi
 
 a) Scrivi il polinomio risultato dei prodotti seguenti.
 
@@ -435,7 +435,7 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 
 
-### ESERCIZIO - 17 Prodotto di polinomi
+### ESERCIZIO - 6.4 Prodotto di polinomi
 
 Scrivi i risultati dei prodotti seguenti in forma normale.  
 
@@ -455,9 +455,9 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 5: Semplificazione di espressioni letterali 
+## UNITA' 7: Semplificazione di espressioni letterali 
 
-### ESERCIZIO 18 - Evidenza di fattori
+### ESERCIZIO 7.1 - Evidenza di fattori
 
 a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
 
@@ -475,7 +475,7 @@ Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di ist
 
 
 
-### ESERCIZIO - 19 Frazioni Algebriche
+### ESERCIZIO - 7.2 Frazioni Algebriche
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.
 

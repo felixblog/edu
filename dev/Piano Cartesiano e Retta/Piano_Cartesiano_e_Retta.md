@@ -38,7 +38,7 @@ Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di og
 
 
 
-### ESERCIZIO 1 - Punti allineati
+### ESERCIZIO 1.1 - Punti allineati
 
 Disegna la retta che passa per ciascuno dei seguenti insiemi di punti allineati. Descrivi a parole le caratteristiche di ciascuna retta.  
 
@@ -60,7 +60,7 @@ b) Risolvi il punto c) con la sequenza di istruzioni seguente:
 
 <img src="img\Retta1.png" alt="Retta1" style="zoom:20%;" />
 
-### ESERCIZIO 2 - Campione di punti
+### ESERCIZIO 1.2 - Campione di punti
 
 a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione (una retta). Per ognuno, trova un campione di 3 punti che vi appartiene e riporta i punti su di un piano cartesiano.
 
@@ -150,7 +150,7 @@ d) $y = -2x + \dfrac{3}{2}$.
 
 
 
-### ESERCIZIO 3 - Dalla retta generica alle rette specifiche
+### ESERCIZIO 2.1 - Dalla retta generica alle rette specifiche
 
 Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri
 
@@ -159,7 +159,7 @@ Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scri
 
 
 
-### ESERCIZIO 4 - Retta in forma esplicita
+### ESERCIZIO 2.2 - Retta in forma esplicita
 
 Scrivi in forma esplicita le seguenti equazioni. Quanto valgono $m$ e $q$ in ciascun caso?
 
@@ -181,7 +181,7 @@ b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA r
 
 
 
-### ESERCIZIO 5 - Grafico della retta
+### ESERCIZIO 2.3 - Grafico della retta
 
 a) Disegna le due rette rappresentate dalle seguenti equazioni trovando almeno due punti per i quali passa ciascuna di esse.
 
@@ -229,7 +229,7 @@ q = y_2 - m \cdot x_2 \\
 $$
 
 
-### ESERCIZIO 6 - Coefficiente angolare di una retta
+### ESERCIZIO 4.1 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
 a) $\{(4, -5), (2, 3)\};$ 
@@ -242,7 +242,7 @@ c) $\{(4, \dfrac{1}{2}), (\dfrac{2}{3}, -2)\}$.
 
 a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-2 - 1}{-1 - \dfrac{1}{2}}$ &#9166; .
 
-### ESERCIZIO 7 - Equazione della retta passante per due punti
+### ESERCIZIO 4.2 - Equazione della retta passante per due punti
 
 a) Scrivi l'equazione della retta passante per i punti A e B dati nei casi seguenti.  
 
@@ -300,7 +300,7 @@ Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il co
 
 
 
-### ESERCIZIO 8 - Intersezione con gli assi e parallelismo
+### ESERCIZIO 5.1 - Intersezione con gli assi e parallelismo
 
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
@@ -332,7 +332,7 @@ c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),
 
 
 
-### ESERCIZIO 9: Rette parallele e perpendicolari
+### ESERCIZIO 5.2 - Rette parallele e perpendicolari
 
 a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
 
@@ -359,7 +359,7 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 
 
-## UNITA' 3: Intersezione di due rette
+## UNITA' 6: Intersezione di due rette
 
 Due rette in un piano cartesiano, non parallele ne coincidenti, geometricamente si intersecano in un punto. Dal punto di vista algebrico, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite. 
 
@@ -407,7 +407,7 @@ che hanno come soluzione rispettivamente $(-\dfrac{1}{3}, 0)$ e $(0, 1)$.
 
 
 
-### ESERCIZIO 10 - Sistemi di equazioni lineari e piano cartesiano
+### ESERCIZIO 6.1 - Sistemi di equazioni lineari e piano cartesiano
 
 Dati i sistemi seguenti, per ciascuno di essi disegna le due rette, controlla se la coppia fornita è il loro punto di intersezione e, nel caso non lo fosse, trovalo. 
 
@@ -443,7 +443,7 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 11 - Pendenza di una linea
+### ESERCIZIO 6.2 - Pendenza di una linea
 
 a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione $3x + 4y = 12$.
 
@@ -460,11 +460,11 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 
 
 
-## UNITA' 3: Intervalli di positività e negatività
+## UNITA' 7: Intervalli di positività e negatività
 
 
 
-### ESERCIZIO 12 - Intervallo di Positività
+### ESERCIZIO 7.1 - Intervallo di Positività
 
 Per ciascuna delle rette seguenti, disegna il grafico e trova l'intervallo dell'asse delle $x$ in cui la retta è nel semipiano positivo.
 

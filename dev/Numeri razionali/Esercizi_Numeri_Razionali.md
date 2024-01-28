@@ -38,7 +38,7 @@ Per costruire la risposta nel secondo caso (della frazione) seguiamo il procedim
 
 
 
-### ESERCIZIO 1 - Il Concetto di Frazione
+### ESERCIZIO 1.1 - Il Concetto di Frazione
 
 a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
 
@@ -88,7 +88,7 @@ c) Rispondi alle seguenti domande scrivendo il numero intero, il numero decimale
 
 
 
-### ESERCIZIO 2 - Problemi con le frazioni (I)
+### ESERCIZIO 1.2 - Problemi con le frazioni (I)
 
 a) La ricetta di un dolce prevede l'uso di mezza tazza di farina. Di questa, tre quarti va impastata con le uova e la parte rimanente aggiunta in seguito. Quanta parte della tazza va aggiunta in seguito?  
 
@@ -108,7 +108,7 @@ Come cambiano le quantità, in rapporto alle persone, se le persone sono 3? Qual
 
 
 
-### ESERCIZIO 3 - Ordinamento delle frazioni
+### ESERCIZIO 1.3 - Ordinamento delle frazioni
 
 Scrivi in ordine crescente le seguenti frazioni, dopo aver trovato, dividendo, il numero decimale corrispondente.
 
@@ -140,7 +140,7 @@ $\dfrac{1}{2} \cdot \dfrac{3}{4} \longrightarrow \dfrac{1 \cdot 3}{2 \cdot 4} \l
 
 
 
-### ESERCIZIO 4 - Frazioni equivalenti e riduzione ai minimi termini
+### ESERCIZIO 2.1 - Frazioni equivalenti e riduzione ai minimi termini
 
 a) Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di 1.  
 
@@ -158,7 +158,7 @@ Passi da seguire per trovare la soluzione per la seconda frazione della prima co
 
 
 
-### ESERCIZIO 5 - Prodotto di frazioni
+### ESERCIZIO 2.2 - Prodotto di frazioni
 
 Calcola le seguenti quantità dopo aver scritto l'espressione che la rappresenta.  
 
@@ -170,7 +170,7 @@ c) un quinto dei due terzi di 9; la metà della metà di 20; il doppio di cinque
 
 
 
-### ESERCIZIO 6 - Prodotti di frazioni
+### ESERCIZIO 2.3 - Prodotti di frazioni
 
 a) Calcola i seguenti prodotti di frazioni.
 
@@ -199,7 +199,7 @@ OSSERVAZIONE: In realtà il procedimento si può migliorare scegliendo come deno
 
  
 
-### ESERCIZIO 7 - Il minimo comune denominatore
+### ESERCIZIO 3.1 - Il minimo comune denominatore
 
 Riduci le frazioni di ognuno dei seguenti gruppi al minimo comune denominatore.  
 
@@ -218,7 +218,7 @@ Passi da seguire per trovare la soluzione per la prima coppia di frazioni del pu
 
 
 
-### ESERCIZIO 8 - Somma algebrica di frazioni
+### ESERCIZIO 3.2 - Somma algebrica di frazioni
 
 Calcola le seguenti somme algebriche.
 
@@ -232,7 +232,7 @@ d) $-\dfrac{8}{3}+5-\dfrac{2}{5}$;     $12-\dfrac{1}{3}-\dfrac{1}{9}$.
 
 
 
-### ESERCIZIO 9 - Espressioni con somme di frazioni
+### ESERCIZIO 3.3 - Espressioni con somme di frazioni
 
 a) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -262,7 +262,7 @@ Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezz
 
  
 
-### ESERCIZIO 10 - Espressioni con le quattro operazioni tra frazioni
+### ESERCIZIO 4.1 - Espressioni con le quattro operazioni tra frazioni
 
 a) Calcola i seguenti quozienti di frazioni.
 
@@ -283,7 +283,7 @@ c) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espre
 
 
 
-### ESERCIZIO 11 - Dalle parole alle espressioni (I)
+### ESERCIZIO 4.2 - Dalle parole alle espressioni (I)
 
 Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.  
 
@@ -295,7 +295,7 @@ c) Raddoppia il prodotto fra 4/7 e 7/2; Scrivi il Triplo del prodotto fra 5/6 e 
 
  
 
-### ESERCIZIO 12 - Dalle parole alle espressioni (II)
+### ESERCIZIO 4.3 - Dalle parole alle espressioni (II)
 
 Indicando con $x$ un numero qualsiasi, scrivi le espressioni relative alle frasi seguenti.  
 
@@ -307,7 +307,7 @@ c) La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del reci
 
 
 
-### ESERCIZIO 13 - Rappresentazione delle espressioni
+### ESERCIZIO 4.4 - Rappresentazione delle espressioni
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
@@ -349,7 +349,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando
 
 
 
-### ESERCIZIO 14 - Problemi con le frazioni (II)
+### ESERCIZIO 4.5 - Problemi con le frazioni (II)
 
 Per ciascuno dei seguenti problemi:
 
@@ -386,7 +386,7 @@ Il risultato finale non è un numero ma il valore di verità della uguaglianza o
 
 
 
-### ESERCIZIO 15 - Sostituzioni (I)
+### ESERCIZIO 5.1 - Sostituzioni (I)
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
 
@@ -412,7 +412,7 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 
 
-### ESERCIZIO 16 - Dalle parole alle espressioni (III)
+### ESERCIZIO 5.2 - Dalle parole alle espressioni (III)
 
 Traduci in espressioni le seguenti frasi e calcola poi il loro valore, sostituendo alle lettere i dati assegnati.  
 
@@ -432,7 +432,7 @@ g) Moltiplica la differenza tra i 2/5 di a e la metà di b per il doppio di c, s
 
 
 
-### ESERCIZIO 17 - Sostituzioni (II)
+### ESERCIZIO 5.3 - Sostituzioni (II)
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
@@ -496,7 +496,7 @@ Le potenze con le frazioni si calcolano in due modi diversi. La prima è applica
 
  
 
-### ESERCIZIO 18 - Potenze con le frazioni
+### ESERCIZIO 6.1 - Potenze con le frazioni
 
 a) Calcola il valore delle seguenti potenze.
 
@@ -512,7 +512,7 @@ a) Calcola il valore delle seguenti espressioni applicando le proprietà delle p
 
 
 
-### ESERCIZIO 19 - Espressioni con le frazioni
+### ESERCIZIO 6.2 - Espressioni con le frazioni
 
 a)  Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -526,7 +526,7 @@ b)  Calcola il valore delle seguenti espressioni contenenti potenze.
 
 
 
-### ESERCIZIO 20 - Proprietà delle potenze
+### ESERCIZIO 6.3 - Proprietà delle potenze
 
 Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
 
@@ -546,7 +546,7 @@ Nella vita pratica si fa un notevole uso delle percentuali, che sono un modo di 
 
 
 
-### ESERCIZIO 21 - Numeri decimali e frazioni
+### ESERCIZIO 7.1 - Numeri decimali e frazioni
 
 a) Scrivi le seguenti frazioni in forma decimale (arrotonda alla terza cifra decimale):  $\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
 
@@ -556,7 +556,7 @@ $\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspa
 
 
 
-### ESERCIZIO 22 - Le percentuali
+### ESERCIZIO 7.2 - Le percentuali
 
 a) Trasforma in percentuale i numeri seguenti: $2$;   $0,02$;   $-1,465$;   $5$;   $0$.
 
@@ -570,7 +570,7 @@ d) Nell'esercizio 1, punto a.1, che percentuale di quadrati ha il colore rosso? 
 
 
 
-### ESERCIZIO 23 - Problemi con le percentuali
+### ESERCIZIO 7.3 - Problemi con le percentuali
 
 a) Calcola la percentuale nei casi seguenti.
 
@@ -605,7 +605,7 @@ h) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata
 
 
 
-### ESERCIZIO 24 - Potenze con esponente negativo
+### ESERCIZIO 7.4 - Potenze con esponente negativo
 
 a) Semplifica le seguenti espressioni usando la definizione di esponente negativo
 
@@ -681,7 +681,7 @@ $15\;trim  = \dfrac{15}{4}\;anno \cong 3.75\;anno$
 
 
 
-### ESERCIZIO 25 - Equivalenze (I)
+### ESERCIZIO 8.1 - Equivalenze (I)
 
 a) Risolvi le seguenti equivalenze.
 
@@ -698,7 +698,7 @@ b) Risolvi le seguenti equivalenze.
 
 
 
-### ESERCIZIO 26 - Equivalenze (II)
+### ESERCIZIO 8.2 - Equivalenze (II)
 
 a) Risolvi le seguenti equivalenze trovando la misura da scrivere al posto dei puntini.
 
@@ -709,7 +709,7 @@ a) Risolvi le seguenti equivalenze trovando la misura da scrivere al posto dei p
 
 
 
-### ESERCIZIO 27 - Equivalenze (III)
+### ESERCIZIO 8.3 - Equivalenze (III)
 
 a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuan cinesi:
 

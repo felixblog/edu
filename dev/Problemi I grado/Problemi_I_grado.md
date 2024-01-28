@@ -3,7 +3,7 @@
 
 ## UNITA' 1: I problemi su numeri, rapporti e percentuali
 
-### ESERCIZIO 1 - Problemi sui numeri
+### ESERCIZIO 1.1 - Problemi sui numeri
 
 Risolvi i problemi seguenti.
 
@@ -18,7 +18,7 @@ d) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.
 
 
 
-### ESERCIZIO 2 - Problemi sui rapporti
+### ESERCIZIO 1.2 - Problemi sui rapporti
 Per ciascuno dei seguenti problemi:
 
 1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
@@ -43,7 +43,7 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 
 
 
 
-### ESERCIZIO 3 - Problemi su sconti e percentuali
+### ESERCIZIO 1.3 - Problemi su sconti e percentuali
 Risolvi i seguenti problemi
 
 a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?  
@@ -56,7 +56,7 @@ d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al
 
 
 
-### ESERCIZIO 4 - Problemi risolubili senza l'uso di equazioni
+### ESERCIZIO 1.4 - Problemi risolubili senza l'uso di equazioni
 
 Risolvi i problemi seguenti.
 
@@ -77,7 +77,7 @@ f) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spe
 ## UNITA' 2: I problemi sulle età
 
 
-### ESERCIZIO 5 - Problemi sulla rappresentazione dell'età I
+### ESERCIZIO 2.1 - Problemi sulla rappresentazione dell'età I
 Rappresenta l’età indicata sulla base dell’età attuale.
 
 a) Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]  
@@ -93,7 +93,7 @@ e) $y$ anni fa se ora ha $p$ anni.  &emsp;  [R. $p-y$].
 
 
 
-### ESERCIZIO 6 - Problemi sulla rappresentazione dell'età II
+### ESERCIZIO 2.2 - Problemi sulla rappresentazione dell'età II
 Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni.
 
 a) Tra 5 anni se aveva 20 anni 10 anni fa.  
@@ -105,7 +105,7 @@ c) 5 anni fa se avrà venti anni tra $y$ anni.
 
 
 
-### ESERCIZIO 7 - Problemi sull'età
+### ESERCIZIO 2.3 - Problemi sull'età
 Risolvi i seguenti problemi.
 
 a) Luca ha 53 anni e sua figlia ne ha 21. Fra quanti anni l’età di Luca sarà i 5/3 dell’età di sua figlia?  
@@ -120,7 +120,7 @@ c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre 
 
 La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di $n$ unità è data dalla somma delle singole produttività. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
-### ESERCIZIO 8 - Problemi sul lavoro I
+### ESERCIZIO 3.1 - Problemi sul lavoro I
 Per ciascuno dei seguenti problemi:
 
 1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
@@ -141,7 +141,7 @@ d) Sei operaie confezionano 120 paia di guanti in 20 giorni. Quanti giorni occor
 
 
 
-### ESERCIZIO 9 - Problemi sul lavoro II
+### ESERCIZIO 3.2 - Problemi sul lavoro II
 Risolvi i seguenti problemi.
 
 a) In una fabbrica ci sono 2 macchine, la prima produce 10 pezzi all’ora, la seconda 7 pezzi all’ora.
@@ -154,7 +154,7 @@ b) I dipendenti di una azienda ricevono uno stipendio medio mensile di € 1300.
 ## UNITA' 4: I problemi su moto e velocità
 
 
-### ESERCIZIO 10 - Problemi sul moto e sulla velocità
+### ESERCIZIO 4.1 - Problemi sul moto e sulla velocità
 Risolvi i seguenti problemi.
 
 a) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di 100 Km/h superiore a quella del più lento. Dopo 5 ore di volo i due distano 2000 Km. Trova la velocità di ciascun aereo.  
@@ -171,7 +171,7 @@ e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore vie
 
 ## UNITA' 5: I problemi su interesse ed investimenti
 
-### ESERCIZIO 11 - Problemi su interesse ed investimenti I
+### ESERCIZIO 5.1 - Problemi su interesse ed investimenti I
 Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplifica.
 
 a) 2000€ al 5%; &emsp; [R. 100€]     
@@ -186,7 +186,7 @@ e) C€ al 7%, 2C€ al 5% e  0.07C al 3%;
 
 &emsp;
 
-### ESERCIZIO 12 - Problemi su interesse ed investimenti II
+### ESERCIZIO 5.2 - Problemi su interesse ed investimenti II
 Risolvi i seguenti problemi.
 
 a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di 5 a 3. La prima somma è stata investita al tasso del 4% e la seconda al tasso del 2%. L’interesse annuale della prima eccede quello della seconda di 112 euro. Quali sono stati i due investimenti? [R. 16.800, 28-000]  
@@ -199,7 +199,7 @@ c) Il signor Black ha investito 3000 euro al tasso del 3% e 1000 euro al tasso d
 
 ## UNITA' 6: Problemi su monete e miscele
 
-### ESERCIZIO 13 - Problemi sulle monete
+### ESERCIZIO 6.1 - Problemi sulle monete
 Trova il valore complessivo di monete e francobolli nei casi seguenti:
 
 a) 3 centesimi e 5 pezzi da 10 centesimi (in centesimi);  
@@ -210,7 +210,7 @@ c) q monete da 25 centesimi 7 centesimi (in centesimi).
 
 
 
-### ESERCIZIO 14- Problemi sulle miscele I
+### ESERCIZIO 6.2 - Problemi sulle miscele I
 Scrivi l’espressione del valore totale della merce in centesimi e semplifica (ricorda di trasformare tutte le grandezze nella stessa unità di misura).
 
 a) $n$ Kg di caffè del costo di ¢ 90 l’etto e $n + 3$ Kg di caffè del costo di € 1,05 il Kg;  
@@ -223,7 +223,7 @@ d) $x$ dozzine di matite del valore di ¢ 20 l’una e 3 dozzine a ¢ 60 la dozz
 
 
 
-### ESERCIZIO 15 - Problemi sulle miscele II
+### ESERCIZIO 6.3 - Problemi sulle miscele II
 Risolvi i seguenti problemi.
 
 a) Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di 0,23 e 1,20 euro al Kg.  
@@ -233,7 +233,7 @@ b) In una fattoria vi sono tra maiali e galline 45 animali. Quanti sono i maiali
 
 
 
-### ESERCIZIO 16 - Problemi vari
+### ESERCIZIO 6.4 - Problemi vari
 Per ciascuno dei seguenti problemi:
 
 1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;

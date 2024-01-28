@@ -36,7 +36,7 @@ La posizione dei punti è indicata da un numero relativo dove il "numero" è la 
 
 
 
-### Esercizio 1 - Numeri interi e punti su una retta
+### Esercizio 1.1 - Numeri interi e punti su una retta
 
 a) Disegna su una retta orientata orizzontale i punti $A, B, C, D, E, F, G$ ciascuno nella posizione indicata dalla coordinata corrispondente: $+3, -5, +4, -2, 0, +1, -4$. 
 
@@ -44,7 +44,7 @@ b) Disegna su una retta orientata ***verticale*** i punti $P, Q, R, S, T, U$ cia
 
 
 
-### ESERCIZIO 2 - Ordinamento dei numeri interi
+### ESERCIZIO 1.2 - Ordinamento dei numeri interi
 
 Scrivi in ordine:
 
@@ -76,7 +76,7 @@ I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale",
 
 
 
-### ESERCIZIO 3 - Valore assoluto ed opposto 
+### ESERCIZIO 2.1 - Valore assoluto ed opposto 
 
 a) Calcola valore assoluto ed opposto dei seguenti numeri e di tutti disegna i punti corrispondenti su una retta orientata orizzontale.
 
@@ -84,7 +84,7 @@ $-4$;      $+9$;      $+7$;      $7\cdot 4$;      $0$.
 
 
 
-### ESERCIZIO 4: Uguaglianze e disuguaglianze
+### ESERCIZIO 2.2: Uguaglianze e disuguaglianze
 
 a) Controlla la verità delle seguenti relazioni:
 
@@ -110,7 +110,7 @@ Lo stesso risultato si ottiene con $-2+3$ (due unità a sinistra e tre a destra)
 
  
 
-### ESERCIZIO 5 - Somme algebriche
+### ESERCIZIO 3.1 - Somme algebriche
 
 a) Una lumaca cammina lungo una linea dritta verso destra per 7 cm, poi si gira e cammina verso sinistra per 2 cm, poi si gira e cammina verso destra per 5 cm, poi ancora una volta si gira e cammina per 12 cm verso destra.
 
@@ -133,7 +133,7 @@ c) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espres
 
 
 
-### ESERCIZIO 6 - Problemi con i numeri interi I
+### ESERCIZIO 3.2 - Problemi con i numeri interi I
 
 Scrivi le espressioni (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
 
@@ -175,7 +175,7 @@ Quanti punti ho alla fine delle partite?
 
 ## UNITA' 4: Prodotto e quoziente tra numeri interi
 
-### ESERCIZIO 7 - Prodotti e quozienti
+### ESERCIZIO 4.1 - Prodotti e quozienti
 
 a) Calcola i seguenti prodotti e quozienti (quanti numeri ed operazioni contiene ciascuna espressione?):
 
@@ -198,7 +198,7 @@ c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e s
 
 ## UNITA' 5: Espressioni tra numeri interi
 
-### ESERCIZIO 8 - Espressioni con le quattro operazioni
+### ESERCIZIO 5.1 - Espressioni con le quattro operazioni
 
 a) Calcola il valore delle espressioni seguenti. 
 
@@ -208,7 +208,7 @@ a) Calcola il valore delle espressioni seguenti.
 
 
 
-### ESERCIZIO 9 - Espressioni con parentesi
+### ESERCIZIO 5.2 - Espressioni con parentesi
 
 a) Calcola il valore delle espressioni seguenti. 
 
@@ -247,7 +247,7 @@ a) Per risolvere l'esercizio applica il metodo seguente.
 
 
 
-### ESERCIZIO 10 - Rappresentazione delle espressioni
+### ESERCIZIO 5.3 - Rappresentazione delle espressioni
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
@@ -291,7 +291,7 @@ b.2)
 
 ![Albero](img\Alberi-ES-7b-2.png)
 
-### ESERCIZIO 11 - Dalle parole alle espressioni I
+### ESERCIZIO 5.4 - Dalle parole alle espressioni I
 
 Traduci in espressioni le seguenti frasi e calcolane il valore.  
 
@@ -356,7 +356,7 @@ $$
 
 
 
-### ESERCIZIO 12 - Posizionamento di punti su un piano cartesiano
+### ESERCIZIO 6.1 - Posizionamento di punti su un piano cartesiano
 
 a) Posiziona quattro punti su un piano di riferimento cartesiano in corrispondenza delle coordinate $(1,1), (-1,1), (-1,-1), (1,-1)$.
 
@@ -414,7 +414,7 @@ b) Risolvi il punto d) dell'esercizio visualizzando una tabella; inserisci nella
 
 
 
-### ESERCIZIO 13 - Dai punti alle coppie di coordinate
+### ESERCIZIO 6.2 - Dai punti alle coppie di coordinate
 
 a) Scrivi le coppie di numeri interi  (coordinate) che individuano i punti in figura.
 
@@ -427,24 +427,6 @@ b) Scrivi il sottoinsieme delle coppie precedenti che hanno entrambi i numeri ne
 a) Risolvi il punto b) dell'esercizio precedente con l'istruzione GEOGEBRA: 
 
 $H=(-3,-3)$ &#9166; .
-
-
-
-### ESERCIZIO 14 - Espressioni con le potenze
-
-a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
-
-1. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
-
-2. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right]+\left[3^{2}\cdot2^{2}:\left(6^{3}:6^{2}\right)\right]. \enspace\enspace\enspace [R. 12];$  
-
-3. $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right). \enspace\enspace\enspace [R. 2];$  
-
-b) Calcola il valore delle seguenti espressioni.
-
-1. $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}.     \enspace\enspace\enspace [R. +25];$  
-2. $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
-3. $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
 
 
 
@@ -468,7 +450,7 @@ Si può evitare di racchiudere il numero tra parentesi solo se si sta sostituend
 
 
 
-### ESERCIZIO 15 - Sostituzioni di una e di due lettere
+### ESERCIZIO 7.1 - Sostituzioni di una e di due lettere
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 
@@ -485,7 +467,7 @@ b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 C) Scrivi le espressioni letterali ottenute sostituendo ai numeri interi le lettere indicate negli esercizi seguenti. Fai attenzione a non cambiare, con la sostituzione, le operazioni contenute nell'espressione. 
 
 1. Sostituisci $x$ al numero intero $-2$ nelle espressioni $6 \cdot (4-2):2$ e $-4 +2 -2(4(-2)-(2-2))$;
-2. Sostituisci $y$ al numero intero $+3$ nelle espressioni $2 \cdot 3 \cdot (4-3 \cdot 5):2$ e $-4 +3 -3(4(9 + 3)-(2^3-2))$
+2. Sostituisci $y$ al numero intero $+3$ nelle espressioni $2 \cdot 3 \cdot (4-3 \cdot 5):2$ e $-4 +3 -3(4(9 + 3)-(2^3-2))$
 
 #### Laboratorio GEOGEBRA
 
@@ -496,7 +478,7 @@ Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcol
 
 
 
-### ESERCIZIO 16 - Sequenze di sostituzioni e tabelle
+### ESERCIZIO 7.2 - Sequenze di sostituzioni e tabelle
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alla lettera presente uno alla volta i numeri indicati tra le parentesi graffe e calcola il loro valore.
 
@@ -554,7 +536,7 @@ b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice
 
 
 
-### ESERCIZIO 17 - Dalle parole alle espressioni II
+### ESERCIZIO 7.3 - Dalle parole alle espressioni II
 
 Traduci in espressioni le seguenti frasi indicando con la lettera ‘$x$’ il numero generico citato; calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
 
@@ -578,7 +560,7 @@ a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
 
 
 
-### ESERCIZIO 18 - Ricerca di sostituzioni
+### ESERCIZIO 7.4 - Ricerca di sostituzioni
 
 a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
 
@@ -594,7 +576,7 @@ b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostit
 
 
 
-### ESERCIZIO 19 - Dalle parole alle espressioni III
+### ESERCIZIO 7.5 - Dalle parole alle espressioni III
 
 Essendo $a$ e $b$ due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni sostituendo alle lettere i numeri assegnati.
 
@@ -616,7 +598,7 @@ c) $(7 \cdot a + b^3) : (a + b);$
 
 
 
-### ESERCIZIO 20 - Problemi con i numeri interi II
+### ESERCIZIO 7.6 - Problemi con i numeri interi II
 
 a) Un investitore ha comprato il lunedì 800 azioni ad un prezzo di 19 euro ciascuna. Durante la settimana c'è stato un giorno un cui il prezzo è salito di 2 euro ma durante tutti gli altri è sceso di un euro. Quale è il valore delle azioni il venerdì? Di quanto è variato il prezzo dall'inizio?
 
@@ -646,7 +628,7 @@ $$
 
 ## UNITA' 8: Potenze con i numeri interi
 
-### ESERCIZIO 21 - Calcolo di potenze
+### ESERCIZIO 8.1 - Calcolo di potenze
 
 a) Calcolare le seguenti potenze di numeri interi.
 
@@ -660,7 +642,7 @@ b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle 
 
 
 
-### ESERCIZIO 22 - Proprietà delle potenze
+### ESERCIZIO 8.2 - Proprietà delle potenze
 
 a) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
 
@@ -671,3 +653,22 @@ b) Semplifica le espressioni seguenti applicando le proprietà delle potenze e c
 
 1. $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$
 2. $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$
+
+
+
+### ESERCIZIO 8.3 - Espressioni con le potenze
+
+a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+
+1. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
+
+2. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right]+\left[3^{2}\cdot2^{2}:\left(6^{3}:6^{2}\right)\right]. \enspace\enspace\enspace [R. 12];$  
+
+3. $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right). \enspace\enspace\enspace [R. 2];$  
+
+b) Calcola il valore delle seguenti espressioni.
+
+1. $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}.     \enspace\enspace\enspace [R. +25];$  
+2. $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
+3. $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
+
