@@ -51,7 +51,7 @@ d) $8 - ^{(2)} 12 : ^{(1)} 3 \longrightarrow 8 -^{(1)} 4 \longrightarrow 4$.
 
 
 
-### ESERCIZIO 1 - Operazioni ed Espressioni (I)
+### ESERCIZIO 1.1 - Operazioni ed Espressioni (I)
 
 a) Calcola il valore delle seguenti espressioni.
 
@@ -83,7 +83,7 @@ Inserisci le espressioni in GEOGEBRA e calcola il risultato. Ricordare che in GE
 
 
 
-### ESERCIZIO 2 - Dalle parole ai numeri (I)
+### ESERCIZIO 1.2 - Dalle parole ai numeri (I)
 
 Traduci in espressioni le seguenti frasi e calcolane il valore.
 
@@ -95,7 +95,7 @@ c) Sottrai 3 al risultato della divisione di 12 per la differenza tra 5 ed 1.
 
 
 
-### ESERCIZIO 3 - Dai numeri alle parole
+### ESERCIZIO 1.3 - Dai numeri alle parole
 
 Scrivi a parole le seguenti espressioni:  
 
@@ -115,7 +115,7 @@ Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per 
 
 
 
-### ESERCIZIO 4 - Divisori e multipli
+### ESERCIZIO 2.1 - Divisori e multipli
 
 a) Scrivi tutti i divisori di ciascuno dei numeri 6, 15, 18, 21, 24, 25;
 
@@ -160,7 +160,7 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 ## UNITA' 3: Dalle parole ai numeri
 
-### ESERCIZIO 5 - Dalle parole ai numeri (II)
+### ESERCIZIO 3.1 - Dalle parole ai numeri (II)
 
 Scrivi le espressioni  (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore.  
 
@@ -184,7 +184,7 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 ## UNITA' 4: La struttura delle espressioni
 
-### ESERCIZIO 6 - Operazioni ed espressioni (II)
+### ESERCIZIO 4.1 - Operazioni ed espressioni (II)
 
 a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. Analizza il loro ordine di esecuzione e calcola il valore dell'espressione.
 
@@ -203,7 +203,7 @@ Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il 
 
 
 
-### ESERCIZIO 7 - Dalle espressioni ai diagrammi ad albero
+### ESERCIZIO 4.2 - Dalle espressioni ai diagrammi ad albero
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
 
 a) $4 + 6·9;$
@@ -226,7 +226,7 @@ d)
 
 
 
-### ESERCIZIO 8 - Dai diagrammi ad albero alle espressioni
+### ESERCIZIO 4.3 - Dai diagrammi ad albero alle espressioni
 Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero: 
 
 a) 
@@ -247,7 +247,7 @@ c)
 
 ## UNITA' 5: Le sostituzioni dei numeri alle lettere
 
-### ESERCIZIO 9 - Sostituzioni
+### ESERCIZIO 5.1 - Sostituzioni
 
 Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 a) $5 \cdot x, \enspace \{x = 50\};$  
@@ -277,7 +277,7 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 ## UNITA' 6: Potenze e loro proprietà
 
-### ESERCIZIO 10 - Proprietà delle potenze
+### ESERCIZIO 6.1 - Proprietà delle potenze
 
 a) Un numero è in notazione scientifica quando è scritto come prodotto di un numero compreso tra 1 (incluso) e 10 e una potenza di 10. Ad esempio 900 si scrive $9\cdot 10^2$. 
 
@@ -329,7 +329,7 @@ Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, 
 
 
 
-### ESERCIZIO 11 - Rappresentazione per Elencazione.
+### ESERCIZIO 7.1 - Rappresentazione per Elencazione.
 
 a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi $A$, $B$ e $C$ formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea».
 
@@ -347,7 +347,7 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 ## UNITA' 8: Numeri primi, MCM e MCD
 
-### ESERCIZIO 12 - Fattorizzazione in numeri primi
+### ESERCIZIO 8.1 - Fattorizzazione in numeri primi
 
 a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
 
@@ -367,7 +367,7 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-### ESERCIZIO 13 - Minimo Comune Multiplo e Massimo Comune Divisore
+### ESERCIZIO 8.2 - Minimo Comune Multiplo e Massimo Comune Divisore
 
 a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D. o massimo fattore comune) delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione;
 
@@ -385,7 +385,7 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-### ESERCIZIO 14 - Evidenza del Fattore Comune
+### ESERCIZIO 8.3 - Evidenza del Fattore Comune
 
 a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
 
