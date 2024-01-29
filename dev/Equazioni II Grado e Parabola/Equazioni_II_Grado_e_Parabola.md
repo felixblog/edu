@@ -197,12 +197,20 @@ dove $ax^2 + bx + c$ è un polinomio in $x$ come quello associato alle equazioni
 
 Se disegniamo sul piano cartesiano le soluzioni delle equazioni di questo tipo, otteniamo sempre delle figure come queste:
 
-<img src="img/Parabola-3.png" alt="Parabola-3" style="zoom:20%;" />
-<img src="img/Parabola-4.png" alt="Parabola-4" style="zoom:20%;" />
+<img src="img/Parabola-3.png" alt="Parabola-3" style="zoom:20%;" /><img src="img/Parabola-4.png" alt="Parabola-4" style="zoom:20%;" />
 
 Questa forma è chiamata "Parabola". Prendendo in esame quelle che hanno $a > 0$, osserviamo che hanno una parte che "scende" fino ad un minimo, detto "vertice" e poi risale. In alcuni casi, come quello della prima figura, una parte della parabola è nel semipiano delle $y$ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
 
-Come si vede dalle figure, una parabola può incrociare entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse orizzontale e con il secondo troviamo l'intersezione con l'asse verticale:
+Come si vede dalle figure, una parabola può incrociare entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse verticale e con il secondo troviamo l'intersezione con l'asse orizzontale:
+
+$$
+\left\{  
+\begin{array}{c} 
+y = ax^2+by+c \\  
+x=0			\\   
+\end{array} 
+\right.
+$$
 
 $$
 \left\{  
@@ -213,14 +221,17 @@ y =0			\\
 \right.
 $$
 
-$$
-\left\{  
-\begin{array}{c} 
-y = ax^2+by+c \\  
-x=0			\\   
-\end{array} 
-\right.
-$$
+Risolvendo il primo per sostituzione, la seconda equazione è elementare e sostituendo $0$ al posto della y nella prima otteniamo la soluzione $(0,c)$ che ci dà il punto di intersezione della parabola con l'asse verticale.
+
+Per risolvere il secondo sistema, sostituendo $0$ al posto della $y$ nella prima equazione abbiamo da risolvere una equazione di II grado. Le soluzioni di questa equazione sono proprio le ascisse dei punti di intersezione dell'equazione con l'asse orizzontale.
+
+#### ESEMPIO
+
+Troviamo i punti di intersezione della parabola $y=x^2 -5x +6$ con l'asse orizzontale (il grafico è in figura di sopra).
+
+Le soluzioni dell'equazione $x^2 -5x +6 = 0$ esistono e sono due, corrispondenti ai numeri $2$ e $3$ per cui i punti di intersezione sono $(2,0)$ e $(3,0)$.
+
+Troviamo adesso i punti di intersezione della parabola $y = x^2+1$. L'equazione $x^2 + 1 = 0$ non ha soluzioni ed infatti dal grafico si vede la parabola non interseca l'asse orizzontale.
 
 Il punto più "basso" delle parabole, è detto vertice, è un punto importante che ha le coordinate che si possono calcolare a partire dall'equazione della parabola mediante le formule seguenti:
 $$
