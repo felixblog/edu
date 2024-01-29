@@ -31,7 +31,7 @@ Si può inoltre osservare che il rapporto tra $y$ e $x$ è costante e vale $150 
 
 
 
-### ESERCIZIO 1: Calcolo del valore di una espressione
+### ESERCIZIO 1.1: Calcolo del valore di una espressione
 
 a) Calcola il valore dell'espressione $x^2$ per i valori della $x$ indicati nella tabella seguente.
 $$
@@ -67,7 +67,7 @@ b) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 
 
-### ESERCIZIO 2 - Proporzionalità diretta
+### ESERCIZIO 1.2 - Proporzionalità diretta
 
 a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475\, \mbox{\euro}$ euro, quanto prenderà se lavora $30$ ore? 
 
@@ -101,7 +101,7 @@ Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante 
 
 
 
-### ESERCIZIO 3 - Proporzionalità inversa
+### ESERCIZIO 2.1 - Proporzionalità inversa
 
 a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
 
@@ -111,7 +111,7 @@ c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $1
 
 
 
-### ESERCIZIO 4 - Formule di proporzionalità
+### ESERCIZIO 2.2 - Formule di proporzionalità
 
 a) Esprimi con una formula le relazioni tra le quantità nei casi riportati di seguito.
 
@@ -131,7 +131,7 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 
 ## UNITA' 3: Relazioni lineari tra grandezze
 
-### ESERCIZIO 5 - Funzioni lineari
+### ESERCIZIO 3.1 - Funzioni lineari
 a) Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
 
 1. $f(x) = x$;
@@ -153,7 +153,7 @@ a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di 
 
 
 
-### ESERCIZIO 6 - Dipendenza lineare
+### ESERCIZIO 3.2 - Dipendenza lineare
 
 a) Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
 
@@ -175,7 +175,7 @@ Compariranno i punti sul grafico. Se i punti sono allineati la dipendenza è lin
 
 
 
-### ESERCIZIO 7 - Interesse semplice
+### ESERCIZIO 3.3 - Interesse semplice
 
 Una persona prende in prestito da una finanziaria $1.000 \, \mbox{\euro}$ (capitale) per pagare un corso di formazione. Dovrà restituire il capitale dopo $5$ anni in una unica soluzione ma pagare trimestralmente l'$1\%$ dell'importo ricevuto, a titolo di interesse, finché non estingue il debito.
 
@@ -185,7 +185,7 @@ b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 
 
 
-### ESERCIZIO 8 - Prezzo delle bibite
+### ESERCIZIO 3.4 - Prezzo delle bibite
 
 In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4\, \mbox{\euro}$, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
 
@@ -208,7 +208,7 @@ d) Quali considerazioni si possono fare a proposito della crescenza o decrescenz
 
 
 
-### ESERCIZIO 9 - Consumo di carburante
+### ESERCIZIO 3.5 - Consumo di carburante
 
 Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda ha osservato che il trattore consuma $25$ litri di gasolio l'ora e, all'inizio dell'attività di aratura, ha una scorta di $1500$ litri di gasolio. Considerato che ogni giorno lavorativo il trattore ara per circa $6$ ore, calcolare:
 
@@ -220,7 +220,7 @@ c) il numero di giorni necessari per l'esaurimento completo della scorta.
 
 
 
-### ESERCIZIO 10 - Studio epidemiologico
+### ESERCIZIO 3.6 - Studio epidemiologico
 
 Uno scienziato studia la diffusione di una epidemia in una piccola città con un modello lineare. Lo scienziato stima che all'inizio dello studio c'erano $3.700$ casi e $45$ nuovi casi al giorno. 
 
@@ -230,7 +230,7 @@ b) Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la 
 
 
 
-### ESERCIZIO 11 - La dipendenza quadratica
+### ESERCIZIO 3.7 - La dipendenza quadratica
 
 a) L'area di un quadrato dipende dalla lunghezza del suo lato. Scrivi la funzione che calcola l'area $y$ di due quadrati uguali, ciascuno con un lato lungo $x$ metri.
 
@@ -242,7 +242,7 @@ c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata
 
 ## UNITA' 4: Crescenza, decrescenza ed esempi di funzioni
 
-### ESERCIZIO 12 - Funzioni crescenti e decrescenti
+### ESERCIZIO 4.1 - Funzioni crescenti e decrescenti
 
 a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate sono crescenti o decrescenti.
 
@@ -251,7 +251,7 @@ a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate 
 
 
 
-### ESERCIZIO 13 - La funzione valore assoluto
+### ESERCIZIO 4.2 - La funzione valore assoluto
 
 Per ogni funzione costruisci una tabella con cinque valori di $x$ (positivi, negativi o nulli) e rappresenta il grafico
 
@@ -274,7 +274,7 @@ a) Risolvi il punto a) dell'esercizio con i seguenti comandi GEOGEBRA:
 
 
 
-### ESERCIZIO 14 - Le funzioni definite a tratti
+### ESERCIZIO 4.3 - Le funzioni definite a tratti
 
 a) Calcola il valore della funzione seguente per $n \in \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$: 
 $$
@@ -324,7 +324,7 @@ c) Risolvi il punto c) dell'esercizio con la sequenza seguente di comandi GEOGEB
 
 
 
-### ESERCIZIO 15 - Analisi qualitativa del grafico di funzioni
+### ESERCIZIO 4.4 - Analisi qualitativa del grafico di funzioni
 
 a) Per ciascuno dei grafici seguenti individua:  
 
@@ -353,7 +353,7 @@ y = mx+q
 $$
 dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei costi che varia con il numero degli oggetti/servizi acquistati e $q$ è una parte che non varia (quota fissa).
 
-### ESERCIZIO 16 - Applicazioni varie
+### ESERCIZIO 5.1 - Applicazioni varie
 
 a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
 
@@ -370,7 +370,7 @@ c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezi
 
 
 
-### ESERCIZIO 17 - Esercizio Riassuntivo   
+### ESERCIZIO 5.2 - Esercizio Riassuntivo   
 
 a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e 100 Km percorsi, un totale di 70 euro e la seconda, sempre per un giorno e 350 Km percorsi, 120 euro.
 
@@ -393,7 +393,7 @@ b) Disegna le curve dei Ricavi-Costi-Utile del punto d) ed individua graficament
 
 
 
-### ESERCIZIO 18 - Analisi dei prezzi
+### ESERCIZIO 5.3 - Analisi dei prezzi
 
 a) Una società di film a noleggio ha 1000 abbonati ognuno dei quali paga 15 euro al mese. Sulla base di un indagine, il management ritiene che per ogni 25 centesimi di riduzione del costo mensile di abbonamento si avrebbero 20 tesserati in più. Quale dovrebbe essere il prezzo di abbonamento mensile per avere il massimo numero di abbonati?
 

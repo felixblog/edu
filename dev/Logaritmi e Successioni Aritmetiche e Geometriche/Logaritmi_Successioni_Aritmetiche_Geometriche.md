@@ -3,7 +3,7 @@
 
 ## UNITA' 1: Logaritmi ed equazioni logaritmiche ed esponenziali
 
-### ESERCIZIO 1 - Le potenze
+### ESERCIZIO 1.1 - Le potenze
 
 Calcola le seguenti espressioni con le potenze.
 
@@ -14,7 +14,7 @@ b) $\left(2^{-2} \cdot 2 \cdot 2^{\frac{1}{3}}\right)^{-\frac{3}{2}}$;    $4^{\f
 
 
 
-### ESERCIZIO 2 - I logaritmi
+### ESERCIZIO 1.2 - I logaritmi
 
 a) Calcola i logaritmi riportati di seguito utilizzando la definizione.
 
@@ -33,7 +33,7 @@ c) Applica le proprietà dei logaritmi per scrivere le seguenti espressioni sott
 
 
 
-### ESERCIZIO 3 - Equazioni esponenziali
+### ESERCIZIO 1.3 - Equazioni esponenziali
 
 Risolvi le seguenti equazioni esponenziali applicando le proprietà delle potenze.
 
@@ -43,7 +43,7 @@ b) $3^{2x-1}=1$;   $3^{x+3}=\left(\dfrac{1}{9}\right)^x$;   $0,4^{x-1}=0,16^{2x}
 
 
 
-### ESERCIZIO 4 - Equazioni logaritmiche
+### ESERCIZIO 1.4 - Equazioni logaritmiche
 
 Risolvi le seguenti equazioni logaritmiche.
 
@@ -64,7 +64,7 @@ a) Utilizzando i logaritmi e la calcolatrice, trova un valore approssimato della
 
 ## UNITA' 2: Successioni aritmetiche e geometriche
 
-### ESERCIZIO 6 - Successioni Aritmetiche
+### ESERCIZIO 2.1 - Successioni Aritmetiche
 
 a) Scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
 
@@ -74,7 +74,7 @@ a) Scrivi i primi 10 termini delle successioni indicate di seguito e calcolane l
 
 
 
-### ESERCIZIO 7 - Successioni Geometriche
+### ESERCIZIO 2.2 - Successioni Geometriche
 
 a) Scrivi i primi 5 termini delle successioni indicate di seguito e calcolane la somma.
 

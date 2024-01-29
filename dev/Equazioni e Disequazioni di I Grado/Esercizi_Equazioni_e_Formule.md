@@ -9,7 +9,7 @@ Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un pai
 
 Il nostro problema si risolve quindi col trovare un numero che messo al posto della lettera $p$, e quindi moltiplicato per $30 \%$ dia come risultato $30$, cioè renda vera (o soddisfi) la condizione che dipende da $p$. Questo numero è $100$, infatti $30 \% \cdot 100 = 30 \longrightarrow True$. La condizione si definisce ***equazione*** ed il numero $100$ è la ***soluzione*** dell'equazione perché la sostituzione di $r$ con $100$ rende l'equazione una uguaglianza vera.
 
-In generale una ***equazione*** (di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
+In generale una ***equazione*** (numerica di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
 
 I problemi che ci si pongono di fronte ad una equazione sono due:
 
@@ -76,7 +76,7 @@ L'equazione b) ha le stesse soluzioni della a), come si può controllare sostitu
 
 ### REGOLA DEL TRASPORTO (DELLA SOMMA)
 
-Possiamo trasportare una espressione da un membro ad un altro cambiando il suo segno e sommandola ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+Possiamo trasportare una espressione, parte di una somma, da un membro ad un altro cambiando il suo segno e sommandola ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
 
 #### ESEMPIO 2
 

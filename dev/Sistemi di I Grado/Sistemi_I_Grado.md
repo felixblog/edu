@@ -48,7 +48,7 @@ Le due soluzioni trovate sono $(0,5)$ e $(1, 4)$.
 
 
 
-### ESERCIZIO 1 - Verifica di soluzioni di equazioni con due incognite
+### ESERCIZIO 1.1 - Verifica di soluzioni di equazioni con due incognite
 
 a) Verifica di quale equazione è soluzione la coppia di numeri proposta nei punti seguenti.    
 
@@ -70,7 +70,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 
 
-### ESERCIZIO 2: Ricerca di soluzioni di equazioni con due incognite
+### ESERCIZIO 1.2: Ricerca di soluzioni di equazioni con due incognite
 
 a) Trova tre soluzioni dell'equazione $x-2y=1$;
 
@@ -94,7 +94,7 @@ La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equ
 
 Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che viene detta esplicitazione dell'equazione rispetto all'incognita $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria.
 
-### ESERCIZIO 3 - Esplicitazione di incognita
+### ESERCIZIO 2.1 - Esplicitazione di incognita
 
 Risolvi le equazioni seguenti come se la lettera $y$ fosse l'unica incognita.    
 
@@ -144,7 +144,7 @@ La soluzione letterale diventa la una soluzione numerica del sistema, in questo 
 
 
 
-### ESERCIZIO 4 - Metodo di sostituzione
+### ESERCIZIO 3.1 - Metodo di sostituzione
 
 a) Risolvi i sistemi seguenti con il metodo di sostituzione. 
 
@@ -192,7 +192,7 @@ b) Risolvi i punti a.2) e a.3) dell'esercizio con analoghe sequenze di comandi G
 
 ## UNITA' 4: Problemi di I grado risolubili con un sistema
 
-### ESERCIZIO 5 - Problemi vari
+### ESERCIZIO 4.1 - Problemi vari
 
 Risolvere con un sistema i problemi seguenti.  
 
@@ -214,7 +214,7 @@ f) Due serbatoi hanno capacità rispettivamente proporzionali a 7 e 4. Il serbat
 
 
 
-### ESERCIZIO 6 - Sistemi con tre incognite
+### ESERCIZIO 4.2 - Sistemi con tre incognite
 
 Risolvere i sistemi seguenti con il metodo di sostituzione. 
 

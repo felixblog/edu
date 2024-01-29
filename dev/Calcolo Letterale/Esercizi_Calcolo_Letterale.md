@@ -99,7 +99,9 @@ Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, u
 
 Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio.
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio la somma degli esponenti delle sue lettere. Anche un singolo numero può essere considerato un monomio, che presenta la sola parte numerica (ed ha parte letterale di grado zero). 
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio la somma degli esponenti delle sue lettere. Anche un singolo numero può essere considerato un monomio, che presenta la sola parte numerica (ed ha parte letterale di grado zero).
+
+Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
 #### ESEMPIO
 
@@ -298,6 +300,8 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 La somma di più monomi non tutti simili si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Un polinomio è in ***forma normale*** se in esso non sono presenti monomi simili (sono già stati sommati tra di loro!). Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
 
 Un polinomio è in forma normale se tutti i monomi sono in forma normale e sono ordinati per grado crescente. Il grado di un polinomio è quello del monomio di grado massimo. 
+
+Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $1-2x$, $2x-\dfrac{2}{3}x^3+6x^5$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
 
 
 

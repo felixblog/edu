@@ -43,7 +43,7 @@ Quindi l'insieme delle vocali è indicato come $V = \{x: x \; \acute{e} \; una \
 
 
 
-### ESERCIZIO 1 - Rappresentazione per Elencazione.
+### ESERCIZIO 1.1 - Rappresentazione per Elencazione.
 
 a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi $A$, $B$ e $C$ formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea».
 
@@ -76,7 +76,7 @@ b) Risolvi il punto c) dell'esercizio prendendo ad esempio i comandi GEOGEBRA ri
 
 
 
-### ESERCIZIO 2 - Rappresentazione mediante proprietà caratteristica
+### ESERCIZIO 1.2 - Rappresentazione mediante proprietà caratteristica
 
 a) Rappresenta gli insiemi seguenti mediante una proprietà caratteristica dei loro elementi.  
 1. $A = \{martedi, mercoledi\}$;  
@@ -92,7 +92,7 @@ a) Rappresenta gli insiemi seguenti mediante una proprietà caratteristica dei l
 
 
 
-### ESERCIZIO 3 - Dalla proprietà caratteristica all'elencazione
+### ESERCIZIO 1.3 - Dalla proprietà caratteristica all'elencazione
 
 a) Scrivi la rappresentazione per elencazione dei seguenti insiemi.  
 1. $A = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «avvocato»\}$;  
@@ -116,7 +116,7 @@ b) Utilizzando le istruzioni GEOGEBRA del punto precedente, risolvi il punto a) 
 
  
 
-### ESERCIZIO 4 - I Sottoinsiemi
+### ESERCIZIO 1.4 - I Sottoinsiemi
 
 a) Considera i seguenti insiemi: $A = \{SERA\}$, $B = \{S, E, R, A\}$, $C = \{A, R, S, E\}$, $D = \{R, E, S, A\}$, $E = \{RESA\}$.  
 1. Descrivi a parole i loro elementi  
@@ -152,7 +152,7 @@ b) Risolvi il punto d.2) dell'esercizio prendendo esempio dalla sequenza di coma
 
 ## UNITA' 2: Operazioni tra insiemi
 
-### ESERCIZIO 5 - Intersezione ed Unione
+### ESERCIZIO 2.1 - Intersezione ed Unione
 
 a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappresentale per elencazione e mediante un diagramma di Eulero-Venn:  
 1. $A = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «tegame»\}$, $B = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «gomito»\}$.
@@ -178,7 +178,7 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 
 
-### ESERCIZIO 6 - Problemi su intersezione ed unione
+### ESERCIZIO 2.2 - Problemi su intersezione ed unione
 
 a) Un’indagine di mercato compiuta su 90 famiglie ha evidenziato che 59 possiedono il robot da cucina, 80 hanno il forno a microonde o il robot da cucina e 24 possiedono entrambi gli elettrodomestici.  
 Quante famiglie hanno solo il robot e quante solo il forno? Quante non possiedono nessuno di questi elettrodomestici? [R. 35; 21; 10]  
@@ -191,7 +191,7 @@ d) In una sala sono presenti 62 persone, ognuna delle quali ha almeno una delle 
 
 
 
-### ESERCIZIO 7 - Differenza e Complemento
+### ESERCIZIO 2.3 - Differenza e Complemento
 
 a) Dati A = {x: x è residente in Veneto} e B = {x: x è residente a Venezia}, descrivi a parole A - B e B - A.
 
@@ -221,7 +221,7 @@ a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comand
 
 
 
-### ESERCIZIO 8 - Prodotto Cartesiano
+### ESERCIZIO 2.4 - Prodotto Cartesiano
 
 a) Dati gli insiemi A e B, rappresenta il prodotto A x B per elencazione e con un diagramma cartesiano nei casi seguenti.
 
@@ -239,14 +239,14 @@ b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e q
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito (utilizza una singola lettera minuscola al posto dei nomi delle squadre):
 
-1. $l_A=\{a, b\}$  &#9166;   $l_B=\{4, 6\}$  &#9166;
+1. $l_A=\{a, b\}$  &#9166;   $l_B=\{4, 6\}$  &#9166;
 2. $Compatta(Compatta((h,k),h,l_A), k, l_B\})$ &#9166;   
 
 
 
 ## UNITA' 3: Le relazioni
 
-### ESERCIZIO 9 - Le relazioni. Dalla proprietà caratteristica all'elencazione
+### ESERCIZIO 3.1 - Le relazioni. Dalla proprietà caratteristica all'elencazione
 
 a) Considera il disegno seguente che illustra i rapporti di parentela tra gli elementi di una famiglia.
 
@@ -285,13 +285,13 @@ Tenendo conto dei fatti precedenti, elenca gli elementi di:
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A = \{1, 2, 3, 4, 5\}$  &#9166;   $l_B = \{-1, 0, 1, 2\}$  &#9166;
+1. $l_A = \{1, 2, 3, 4, 5\}$  &#9166;   $l_B = \{-1, 0, 1, 2\}$  &#9166;
 2. $l_C = Singola(Compatta(Compatta((h, k), h, l_A), k, l_B))$ &#9166;   
 3. $TieniSe(x(A) + y(A) == 4, A, l_C)$   &#9166;
 
 
 
-### ESERCIZIO 10 - Rappresentazione delle relazioni
+### ESERCIZIO 3.2 - Rappresentazione delle relazioni
 
 a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}$ e $B = \{2, 4, 5\}$, rappresenta la relazione in $A \times B$, definita dalla proprietà caratteristica «La somma di x e y è dispari», in forma sagittale, cartesiana, tabellare, tabellare a doppia entrata.
 
@@ -301,9 +301,9 @@ b) Scrivi in forma sagittale, cartesiana e tabellare la relazione $R = \{(Franco
 
 
 
-### ESERCIZIO 11 - Dall'elencazione alla proprietà caratteristica
+### ESERCIZIO 3.3 - Dall'elencazione alla proprietà caratteristica
 
-a) Rappresenta le relazioni seguenti mediante una proprietà caratteristica dei loro elementi, dopo aver trovato gli insiemi del prodotto cartesiano su cui si basa la relazione.
+a) Riflettendo sui nomi utilizzati, rappresenta le relazioni seguenti mediante una proprietà caratteristica dei loro elementi, dopo aver trovato gli insiemi del prodotto cartesiano su cui si basa la relazione.
 
 1. $A = \{(lunedi, martedi), (mercoledi, giovedi), (venerdi, sabato)\}$;  
 2. $B = \{(Nord, Sud), (Est, Ovest)\}$;  

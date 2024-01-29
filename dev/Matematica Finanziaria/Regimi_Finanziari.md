@@ -3,7 +3,7 @@
 
 ## UNITA' 1: Concetti fondamentali e regime dell'interesse semplice 
 
-### ESERCIZIO 1 - Interesse semplice: montante
+### ESERCIZIO 1.1 - Interesse semplice: montante
 
 Calcola l’interesse semplice e il montante dei seguenti capitali (in euro) impiegati alle condizioni indicate: 
 
@@ -22,7 +22,7 @@ f) 845 per 4 mesi e 15 giorni al tasso del 6% semestrale.
 
 
 
-### ESERCIZIO 2 - Interesse semplice: capitale
+### ESERCIZIO 1.2 - Interesse semplice: capitale
 a) Determina i capitali che, nel regime dell’interesse semplice, hanno prodotto i seguenti montanti alle condizioni indicate:  
 
 1. 890 in 9 mesi al tasso del 15% annuo  
@@ -43,7 +43,7 @@ d) Il capitale di 6.000 euro ha prodotto l’interesse semplice di 480 euro. Cal
 
 
 
-### ESERCIZIO 3 - Interesse semplice: durata
+### ESERCIZIO 1.3 - Interesse semplice: durata
 
 a) Calcola in quanto tempo il capitale di 3.300 euro, impiegato al tasso annuo del 10%, ha prodotto il montante di 3.547 euro  
 
@@ -52,7 +52,7 @@ b) Per quanto tempo e necessario lasciare depositato il capitale di 540 euro, al
 
 
 
-### ESERCIZIO 4 - Interesse semplice: sconto
+### ESERCIZIO 1.4 - Interesse semplice: sconto
 
 a) Una cambiale del valore nominale di 510 euro viene scontata, in regime di capitalizzazione semplice, 3 mesi prima della scadenza, al tasso dell’8% annuo. Calcolare la somma scontata e lo sconto. 
 
@@ -64,10 +64,10 @@ d) Un commerciante per 1'acquisto di una merce deve fare tre pagamenti uguali, d
 
 
 
-## UNITA' 1: Regime dell'interesse composto
+## UNITA' 2: Regime dell'interesse composto
 
 
-### ESERCIZIO 5 - Interesse composto: montante I
+### ESERCIZIO 2.1 - Interesse composto: montante I
 
 Calcolare il montante ad interesse composto dei seguenti capitali con la calcolatrice e con l’interpolazione:
 
@@ -86,7 +86,7 @@ f) 438 euro per 10 anni e 9 mesi al tasso del 4,16% trimestrale.
 
 
 
-### ESERCIZIO 6 - Interesse composto: montante II
+### ESERCIZIO 2.2 - Interesse composto: montante II
 a) II capitale di L. 6.000.000 è impiegato ad interesse composto al tasso annuo del 14% per 5 anni. Il montante viene subito reinvestito per altri 4 anni al tasso annuo dell’11%.  
 1. Quale montante si può ritirirare? 
 2. Quale montante si sarebbe ritirato se per i primi 4anni il tasso fosse stato dell’11% e per i successivi 5 fosse stato del 14%? 
@@ -96,7 +96,7 @@ b) Una persona prende in prestito 20.000 euro al tasso annuo del12% e le investe
 
 
 
-### ESERCIZIO 7 - Interesse composto: valore attuale I
+### ESERCIZIO 2.3 - Interesse composto: valore attuale I
 
 Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:
 
@@ -111,7 +111,7 @@ d) 3.012 euro per 2 anni e 5 mesi al tasso dell’1,50% mensile.
 
 
 
-### ESERCIZIO 8 - Interesse composto: valore attuale II
+### ESERCIZIO 2.4 - Interesse composto: valore attuale II
 a) Scontiamo una cambiale del valore di 20.000 euro scadente fra 5 anni con sconto composto al tasso del 12%. Investiamo subito la somma riscossa al lasso del 16%. Quale guadagno realizzeremo fra 5 anni?
 
 b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: L. 30.000.000 alla stipulazione del contralto e tre somme di euro 10.000 ciascuna scadenti fra 2, 4 e 6 anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del 9%. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? 
