@@ -28,7 +28,7 @@ Osserviamo che se l'indice del radicale è pari ed il numero sotto la radice è 
 
  
 
-### ESERCIZIO 1 - Calcolo di radicali
+### ESERCIZIO 1.1 - Calcolo di radicali
 
 a) Usando la calcolatrice, trova il valore, approssimato alla quarta cifra decimale, dei radicali riportati di seguito. Fai una prova della correttezza del calcolo dopo aver trovato il numero.
 
@@ -60,7 +60,7 @@ c) Risolvi il punto c.1) dell'esercizio con la sequenza di operazioni GEOGEBRA r
 
 
 
-### ESERCIZIO 2 - Operazioni e Semplificazioni di Radicali
+### ESERCIZIO 1.2 - Operazioni e Semplificazioni di Radicali
 
 a) Scrivi ciascuno dei radicali seguenti in forma di potenza e semplifica, dopo aver eventualmente scomposto la base in fattori primi. 
 
@@ -131,7 +131,7 @@ Quando una equazione di II grado è in forma normale, è scritta come un polinom
 
 
 
-### ESERCIZIO 3 - Forma Normale delle Equazioni
+### ESERCIZIO 2.1 - Forma Normale delle Equazioni
 
 a) Per ciascuna delle equazioni seguenti, individua, nel caso sia di secondo grado, i valori di $a$, $b$ e $c$, dopo averla scritta in forma normale.
 
@@ -151,7 +151,7 @@ a) Scrivi le equazioni dei punti a.1), a.2), a.3) dell'esercizio in forma normal
 
 
 
-### ESERCIZIO 4 - Soluzioni delle Equazioni di II Grado
+### ESERCIZIO 2.2 - Soluzioni delle Equazioni di II Grado
 
 a) Trova, se esistono, le soluzioni delle equazioni seguenti.
 
@@ -189,7 +189,7 @@ b) Risolvi il secondo e terzo esercizio del punto b.1) con la sequenza di operaz
 
 ## UNITA' 3: La parabola
 
-In questa unità vogliamo studiare le proprietà di una figura geometrica che è definita, nel piano cartesiano, dalle soluzioni di un particolare tipo di equazione con due incognite. Come per le rette, i cui punti hanno le coordinate che sono soluzioni di una equazione di I grado della forma, ad esempio $x + y = 5$, le parabole sono figure i cui punti hanno le coordinate che sono soluzioni di equazioni quali $y = 2x^2 + 1$, $y=x^2 -5x +6$ oppure $y = -x^2-3$, cioè della forma generale:
+In questa unità vogliamo studiare le proprietà di una figura geometrica che è definita, nel piano cartesiano, dalle soluzioni di un particolare tipo di equazione con due incognite. Come per le rette, i cui punti hanno le coordinate che sono soluzioni di una equazione di I grado della forma, ad esempio $x + y = 5$, le parabole sono figure i cui punti hanno le coordinate che sono soluzioni di equazioni quali $y = 2x^2 + 1$, $y=x^2 -5x +6$ oppure $y = -x^2-3$, cioè della forma generale:
 $$
 y = ax^2 + bx + c
 $$
@@ -234,7 +234,7 @@ A differenza delle figure precedenti, dove la parabola era rivolta verso l'alto,
 
  
 
-### ESERCIZIO 5 - Caratteristiche della Parabola
+### ESERCIZIO 3.1 - Caratteristiche della Parabola
 
 a) Determina tre punti delle parabole seguenti:
 
@@ -274,7 +274,7 @@ a) Disegna con GEOGEBRA il grafico della parabola $y=\dfrac{1}{4}x^2-9$ e calcol
 
 
 
-### ESERCIZIO 6 - Problemi sulla Parabola
+### ESERCIZIO 3.2 - Problemi sulla Parabola
 
 a) Scrivi l'equazione della parabola che passa per tre punti nei casi riportati di seguito e fanne un grafico approssimativo.
 
@@ -299,7 +299,7 @@ a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA r
 
 
 
-### ESERCIZIO 7 - Retta e Parabola
+### ESERCIZIO 3.3 - Retta e Parabola
 
 a) Trova le coordinate dei punti di intersezione tra le parabole e le rette nei casi seguenti e rappresenta graficamente le due curve
 
@@ -332,7 +332,7 @@ Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA ripo
 
 
 
-### ESERCIZIO 8 - Equazioni di II Grado e Parabole Associate
+### ESERCIZIO 4.1 - Equazioni di II Grado e Parabole Associate
 
 a) Discuti la presenza di una, due o nessuna soluzione delle equazioni seguenti dopo aver disegnato la parabola associata.
 

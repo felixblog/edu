@@ -1,7 +1,10 @@
 
 # Logica
 
-### ESERCIZIO 1 - Le proposizioni
+## UNITA' 1: Le proposizioni
+
+### ESERCIZIO 1.1 - Le proposizioni logiche
+
 a) Indica quali fra le seguenti frasi, da un punto di vista logico, sono proposizioni:
 1. "Per favore, mi passi l'acqua?";  
 2. "Gli insegnanti della mia classe sono maschi";  
@@ -30,7 +33,7 @@ b) Indica il valore di verità delle seguenti proposizioni:
 
 
 
-### ESERCIZIO 2 - Proposizioni semplici e composte
+### ESERCIZIO 1.2 - Proposizioni semplici e composte
 a) Nelle seguenti proposizioni composte indica quali sono le proposizioni elementari.
 1. «Il gatto è un mammifero e il topo è un roditore»;  
 2. «Se passi a prendermi, allora andiamo a passeggio insieme»;  
@@ -63,8 +66,10 @@ c) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 
 
 
+## UNITA' 2: Connettivi e Forme Simboliche
 
-### ESERCIZIO 3 - Connettivi proposizionali e forme simboliche I
+
+### ESERCIZIO 2.1 - Connettivi proposizionali e forme simboliche I
 a) Scrivi la negazione delle seguenti proposizioni.
 1. "Ieri non ho studiato";  
 2. "Sai che non ho studiato";  
@@ -170,7 +175,7 @@ f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 
 
 
-### ESERCIZIO 4 - Forme Simboliche II
+### ESERCIZIO 2.2 - Forme Simboliche II
 a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  
 $a$: “Aldo ha superato l’esame”, $b$: “Bruno ha superato l’esame”, $c$: “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
 
@@ -196,8 +201,10 @@ b) Posto $c$: "Carlo è ligure" e $d$: "Diego è piemontese", scrivere in forma 
 
 
 
+## UNITA' 3: Tabelle di Verità
 
-### ESERCIZIO 5 - Tabelle di verità, tautologie e contraddizioni
+
+### ESERCIZIO 3.1 - Tabelle di verità, tautologie e contraddizioni
 a) Costruisci le tabelle di verità delle proposizioni seguenti.
 1. $ \lnot p \to q;  \lnot q \to \lnot p; p \lor (p \land q); $  
 2. $ \lnot ( \lnot p \land \lnot q);  \lnot (\lnot p \lor \lnot q); (p \to q) \land p; $
@@ -226,7 +233,9 @@ b) Trovare la tabella di verità della prima formula del punto a.2) dell'eserciz
 
 
 
-### ESERCIZIO 6 - Forme di ragionamento
+## UNITA' 4: Regole di Deduzione e Ragionamento
+
+### ESERCIZIO 4.1 - Forme di ragionamento
 
 a) Individuando premesse e conclusione, tradurre nel linguaggio della logica proposizionale gli enunciati delle seguenti argomentazioni.
 1. Se piove non esco di casa. Piove o tira vento. Esco di casa. Quindi tira vento. 
