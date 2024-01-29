@@ -272,7 +272,7 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q$ è quello di metterla nella forma desiderata, detta ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come "$\text{monomio in x} + \text{numero}$" e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
 
-Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. 
+Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. Le coordinate complete del punto di intersezione della retta con l'asse delle $y$ sono $(0,q)$.
 
 #### ESEMPIO
 
@@ -296,43 +296,11 @@ Il coefficiente angolare invece determina l'angolo di inclinazione della retta r
 
 Poiché l'inclinazione di una retta sull'asse orizzontale dipende dal suo coefficiente angolare, abbiamo che tutte le retta che hanno lo stesso coefficiente angolare hanno la stessa inclinazione, per cui sono tutte parallele. Questo lo si vede anche dalla prima figura. In pratica la condizione di parallelismo di due rette è: "due rette sono parallele se e solo se le loro equazioni in forma esplicita hanno lo stesso coefficiente angolare".
 
-Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$.
+Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$
 
 
 
-### ESERCIZIO 5.1 - Intersezione con gli assi e parallelismo
-
-a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
-
-1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0$  
-2. $x+3y=-1; \> x-y=7;$
-
-b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
-c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
-
-d) Individua per quali intervalli i polinomi seguenti sono positivi o negativi:
-
-1. $\dfrac{1}{2}x;$   $\dfrac{-1}{3}x - 4$ ;   $11;$
-2. $\dfrac{11}{8}(x-16);$   $-2x + 11$.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto a.1) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
-
-1. $eq1: y - \dfrac{1}{2}x = 5$  &#9166;   
-2. $Risolvi(\{eq1, x=0\},\{x, y\})$  &#9166;   
-3. $Risolvi(\{eq1, y=0\},\{x, y\})$  &#9166;   
-
-b) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
-
-1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$  &#9166;
-2. $y-y_0 = m(x-x_0)$ &#9166; 
-
-c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
-
-
-
-### ESERCIZIO 5.2 - Rette parallele e perpendicolari
+### ESERCIZIO 5.1 - Rette parallele e perpendicolari
 
 a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
 
@@ -443,7 +411,39 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 6.2 - Pendenza di una linea
+### ESERCIZIO 6.2 - Intersezione con gli assi e parallelismo
+
+a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
+
+1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0$  
+2. $x+3y=-1; \> x-y=7;$
+
+b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
+c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
+
+d) Individua per quali intervalli i polinomi seguenti sono positivi o negativi:
+
+1. $\dfrac{1}{2}x;$   $\dfrac{-1}{3}x - 4$ ;   $11;$
+2. $\dfrac{11}{8}(x-16);$   $-2x + 11$.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a.1) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+
+1. $eq1: y - \dfrac{1}{2}x = 5$  &#9166;   
+2. $Risolvi(\{eq1, x=0\},\{x, y\})$  &#9166;   
+3. $Risolvi(\{eq1, y=0\},\{x, y\})$  &#9166;   
+
+b) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito: 
+
+1. $m := -1$ &#9166;    $x_0:=0$ &#9166;    $y_0:=3$  &#9166;
+2. $y-y_0 = m(x-x_0)$ &#9166; 
+
+c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),y - \dfrac{1}{2}x = 5)$.
+
+
+
+### ESERCIZIO 6.3 - Pendenza di una linea
 
 a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione $3x + 4y = 12$.
 

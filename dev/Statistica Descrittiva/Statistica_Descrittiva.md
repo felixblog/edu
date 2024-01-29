@@ -3,7 +3,7 @@
 
 ## UNITA' 1: Popolazioni, caratteri e modalità
 
-### ESERCIZIO 1 - Popolazioni, caratteri e modalità
+### ESERCIZIO 1.1 - Popolazioni, caratteri e modalità
 
 a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubblico per le scuole di una determinata città. Individuare:
 
@@ -41,7 +41,7 @@ e) In un Comune si svolge una indagine sul numero di giornate con precipitazioni
 
 ## UNITA' 2: Frequenze ed intensità assolute e relative
 
-### ESERCIZIO 2 - Frequenze assolute e relative
+### ESERCIZIO 2.1 - Frequenze assolute e relative
 
 a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una tabella le frequenze assolute e relative.
 
@@ -184,7 +184,7 @@ d) Risolvi il punto c.1) dell'esercizio prendendo ad esempio la sequenza di oper
 
 
 
-### ESERCIZIO 3 - Intensità Assolute e Relative
+### ESERCIZIO 2.2 - Intensità Assolute e Relative
 
 Il direttore del personale di un’industria ha somministrato un breve questionario a 20 addetti nel quale si chiedeva:
 
@@ -260,7 +260,7 @@ b) Considera le classi di retribuzione (fascie) seguenti: 0|-18; 18|-25; 25|-40;
 
 ## UNITA' 3: Serie, tabelle e grafici dei dati statistici
 
-### ESERCIZIO 4 - Grafici a Linee
+### ESERCIZIO 3.1 - Grafici a Linee
 
 a) Considerata la seguente tabella delle rilevazioni delle quantità vendute di una ditta (in quintali) negli anni indicati.
 
@@ -340,7 +340,7 @@ Punto b.3)
 
 <img src="img\Grafico-Doppia-Serie.jpg" alt="Grafico-Doppia-Serie" style="zoom:13%;" />
 
-### ESERCIZIO 5 - Grafici a Barre
+### ESERCIZIO 3.2 - Grafici a Barre
 
 a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a.
 
@@ -413,7 +413,7 @@ Punto c)
 
 
 
-### ESERCIZIO 6 - Grafici a Torta
+### ESERCIZIO 3.3 - Grafici a Torta
 
 a) Rappresenta con un diagramma a torta le tabelle delle frequenze percentuali richieste nei punti 1., 2., 3., dell'esercizio 2.a). 
 
@@ -427,7 +427,7 @@ Punto b)
 
 
 
-### ESERCIZIO 7 - Grafici a Dispersione
+### ESERCIZIO 3.4 - Grafici a Dispersione
 
 a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) complessivo di un collettivo di aziende:
 
@@ -533,7 +533,7 @@ Punto a)
 
 
 
-### ESERCIZIO 8 - Serie e Tabelle Statistiche
+### ESERCIZIO 3.5 - Serie e Tabelle Statistiche
 
 a) La tabella seguente riporta tre anni di dati mensili delle vendite di un produttore di birra, in barili.
 
@@ -591,7 +591,7 @@ Punto a.3) serie storica annuale.
 
 ## UNITA' 4: Moda, media e mediana
 
-### ESERCIZIO 9 - Indici di Posizione Centrale - Moda, Mediana, Media
+### ESERCIZIO 4.1 - Indici di Posizione Centrale - Moda, Mediana, Media
 
 a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
@@ -658,7 +658,7 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 
 
-### ESERCIZIO 10 - Esercizio Riassuntivo
+### ESERCIZIO 4.2 - Esercizio Riassuntivo
 
 La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file contenente la tabella completa, in formato Excel, è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
 $$

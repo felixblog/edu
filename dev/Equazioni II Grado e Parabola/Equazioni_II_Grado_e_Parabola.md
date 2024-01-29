@@ -189,21 +189,19 @@ b) Risolvi il secondo e terzo esercizio del punto b.1) con la sequenza di operaz
 
 ## UNITA' 3: La parabola
 
-Una equazione con due incognite, come ad esempio $x + y = 5$ è una relazione tra due numeri, il numero $x$ ed il numero $y$ che divide i punti del piano in due parti: quelli che hanno le coordinate sono soluzione dell'equazione e quelli che non lo sono. Consideriamo ora un tipo particolare di equazione  con due incognite:
+In questa unità vogliamo studiare le proprietà di una figura geometrica che è definita, nel piano cartesiano, dalle soluzioni di un particolare tipo di equazione con due incognite. Come per le rette, i cui punti hanno le coordinate che sono soluzioni di una equazione di I grado della forma, ad esempio $x + y = 5$, le parabole sono figure i cui punti hanno le coordinate che sono soluzioni di equazioni quali $y = 2x^2 + 1$, $y=x^2 -5x +6$ oppure $y = -x^2-3$, cioè della forma generale:
 $$
-y = ax^2 + by + c
+y = ax^2 + bx + c
 $$
-dove $ax^2 + by + c$ è un polinomio in $x$ come quello associato alle equazioni di II grado in forma normale. Se disegniamo sul piano cartesiano le soluzioni delle equazioni di questo tipo, otteniamo sempre delle figure come queste:
+dove $ax^2 + bx + c$ è un polinomio in $x$ come quello associato alle equazioni di II grado in forma normale.
+
+Se disegniamo sul piano cartesiano le soluzioni delle equazioni di questo tipo, otteniamo sempre delle figure come queste:
 
 <img src="img/Parabola-3.png" alt="Parabola-3" style="zoom:20%;" />
 <img src="img/Parabola-4.png" alt="Parabola-4" style="zoom:20%;" />
 
-Questa forma è chiamata "Parabola". Ha una parte che "scende" fino ad un minimo, detto "vertice" e poi risale. In alcuni casi, come quello della prima figura, il vertice è nel semipiano delle $y$​ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
+Questa forma è chiamata "Parabola". Prendendo in esame quelle che hanno $a > 0$, osserviamo che hanno una parte che "scende" fino ad un minimo, detto "vertice" e poi risale. In alcuni casi, come quello della prima figura, una parte della parabola è nel semipiano delle $y$ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
 
-Il vertice è un punto importante della parabola che ha le coordinate date dalla formula seguente:
-$$
-V = (-\dfrac{b}{2a}, -\dfrac{b^2 - 4ac}{4a})
-$$
 Come si vede dalle figure, una parabola può incrociare entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse orizzontale e con il secondo troviamo l'intersezione con l'asse verticale:
 
 $$
@@ -224,7 +222,17 @@ x=0			\\
 \right.
 $$
 
+Il punto più "basso" delle parabole, è detto vertice, è un punto importante che ha le coordinate che si possono calcolare a partire dall'equazione della parabola mediante le formule seguenti:
+$$
+V = (-\dfrac{b}{2a}, -\dfrac{b^2 - 4ac}{4a})
+$$
+Se consideriamo le parabole che hanno il coefficiente di $x^2$ negativo, come ad esempio $y = -\dfrac{1}{4}x^2 +9$, abbiamo la figura seguente:
 
+<img src="img/Parabola-5.png" alt="Parabola-5" style="zoom:30%;" />
+
+A differenza delle figure precedenti, dove la parabola era rivolta verso l'alto, questa è rivolta verso il basso. Il vertice, che in questo caso ha coordinate $(0,10)$ corrisponde al punto più alto dell parabola. La parabola ha un ramo ascendente (crescente) ed un altro discendente (decrescente).
+
+ 
 
 ### ESERCIZIO 5 - Caratteristiche della Parabola
 
