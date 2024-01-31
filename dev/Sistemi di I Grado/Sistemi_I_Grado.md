@@ -122,11 +122,11 @@ x-3y=10\\
 \end{array} 
 \right.$$
 
-**PASSO 1** (esplicitazione): si sceglie una equazione, si sceglie una incognita e si risolve come se questa fosse l'unica incognita, trovando come soluzione una espressione letterale. Ad esempio consideriamo la prima equazione e risolviamo rispetto alla $y$ ottenendo la soluzione $-1-2x$:
+**PASSO 1** (esplicitazione): si sceglie una equazione, si sceglie una incognita e si risolve come se questa fosse l'unica incognita, trovando come soluzione una **espressione letterale**. Ad esempio consideriamo la prima equazione e risolviamo rispetto alla $y$ ottenendo la soluzione $-1-2x$:
 
 a) $y = -1 - 2x$.
 
-La nostra equazione con due incognite avrà quindi una soluzione letterale della forma $(x, -1-2x)$.
+La nostra equazione con due incognite avrà quindi una **soluzione letterale** della forma $(x, -1-2x)$.
 
 **PASSO 2**: (sostituzione): si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare) perché la soluzione deve rendere vera anche la seconda equazione. Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
 
@@ -136,11 +136,11 @@ b) $x - 3(-1-2x) = 10$
 
 c) $x +3 +6x = 10 \longrightarrow 7x = 7 \longrightarrow x = 1$.
 
-**PASSO 4**: (completamento): si sostituisce il numero alla incognita nella coppia trovata alla fine del PASSO 1:
+**PASSO 4**: (completamento): si sostituisce il numero alla incognita nella soluzione letterale trovata alla fine del PASSO 1, che diventa così una soluzione numerica:
 
 d) $(x, -1-2x), \{x = 1\} \longrightarrow (1, -1 - 2(1)) \longrightarrow (1, -3)$.
 
-La soluzione letterale diventa la una soluzione numerica del sistema, in questo caso la coppia $(1, -3)$.
+La coppia $(1, -3)$ è una soluzione numerica di entrambe le equazioni e di conseguenza del sistema.
 
 
 

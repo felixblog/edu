@@ -320,7 +320,7 @@ a) $2 \cdot 3 - 7;$      b) $15 - 7 \cdot 2;$      c) $16 : (-2) + 10;$
 
 Nell'unità 1 abbiamo visto come, se il nostro mondo è limitato agli spostamenti su una retta, con un solo numero sia possibile indicare la posizione di un punto (che ha una distanza intera dall'origine). Ora ci chiediamo come sia possibile fare la stessa cosa se dobbiamo indicare la posizione dei punti su un piano, che ha due dimensioni.
 
-Se in un piano disegnamo due rette perpendicolari, indicando su ciascuna retta la posizione dei numeri interi a partire dal punto di incrocio, che diciamo ***origine degli assi***, come fatto nell'unità 1, abbiamo la figura seguente, detta ***sistema di riferimento cartesiano nel piano***.
+Se in un piano disegniamo due rette perpendicolari, una orizzontale ed una verticale, indicando su ciascuna retta la posizione dei numeri interi a partire dal punto di incrocio, che diciamo ***origine degli assi***, come fatto nell'unità 1, abbiamo la figura seguente, detta ***sistema di riferimento cartesiano nel piano***.
 
 #### ESEMPIO
 
@@ -340,7 +340,7 @@ Potremo quindi dire alla squadra che la buca 2 si trova a $6 \;Km$ a destra dell
 
 Come si vede, a differenza dell'Unità 1, se i punti di cui vogliamo indicare la posizione non sono vincolati a stare su una retta ma possono stare su un piano, per trovare la loro posizione servono due numeri, e sono i numeri che si trovano immaginando che un oggetto che so muove partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento il mezzo arriva sotto (o sopra!) il punto e con il secondo, in verticale, lo raggiunge.
 
-Se ad esempio il mezzo deve raggiungere la buca 1 partendo dall'origine degli assi, si muoverà di $2$ unità a sinistra $6$ unità in basso, per cui la posizione della buca 1 avrà come coordinate i due numero $-2$ e $-6$ che si scrivono tra parentesi tonde separate da una virgola: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa*** e la seconda ***ordinata***.
+Se ad esempio il mezzo deve raggiungere la buca 1 partendo dall'origine degli assi, si muoverà di $2$ unità a sinistra $6$ unità in basso, per cui la posizione della buca 1 avrà come coordinate i due numero $-2$ e $-6$ che si scrivono tra parentesi tonde separate da una virgola: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa***, o coordinata $x$, e la seconda ***ordinata***, o coordinata $y$.
 
 I segni delle coordinate, a seconda che la posizione si trovi a destra. sinistra, alto o basso rispetto all'origine, sono riportati nella tabella che segue.
 $$
@@ -353,6 +353,8 @@ $$
         Basso & - \\ 
         \end{array}
 $$
+
+Dalla tabella precedente si vede che tutti i punti del piano che sono al di sopra dell'asse coordinato orizzontale hanno la coordinata $y$ positiva mentre tutti quelli che stanno sotto l'asse orizzontale hanno coordinata $y$ negativa. Il primo insieme si chiama ***semipiano delle $y$ positive***, il secondo ***semipiano delle $y$ negative***.
 
 
 

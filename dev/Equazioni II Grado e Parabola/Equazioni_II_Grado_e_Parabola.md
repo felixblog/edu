@@ -127,7 +127,7 @@ Facendo il calcolo si ottiene $x_1=3$, $x_2 = 2$.
 
 L'esistenza o la non esistenza delle soluzioni dipende dalla quantità sotto radice $b^2-4ac$​. Se la quantità è negativa la sua radice quadrata non esiste e quindi non esiste la soluzione dell'equazione.
 
-Quando una equazione di II grado è in forma normale, è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama polinomio "associato" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "radici" del polinomio.
+Quando una equazione di II grado è in forma normale, è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama "***polinomio associato***" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "***radici del polinomio***"; le radici di un polinomio sono i numeri che sostituiti alla lettera $x$ rende il polinomio uguale a zero.
 
 
 
@@ -161,7 +161,7 @@ a) Trova, se esistono, le soluzioni delle equazioni seguenti.
 3. Equazioni dei punti a.3, a.4 e a.5 dell'esercizio 3.
 4. $3(x-x^2)-\dfrac{4}{3} = \dfrac{1}{2}x - 1;$   $\dfrac{x+4}{5}+\dfrac{33}{10}=(2+x)(2-x);$   $\dfrac{4}{3}x(12-x)=45$.
 
-b) Scrivi l'equazione, calcola il valore del discriminante e trova le soluzioni, nei casi in cui i coefficienti della forma normale a, b, c abbiano i valori riportati di seguito:
+b) Scrivi l'equazione e trova le soluzioni, nei casi in cui i coefficienti della forma normale $a$, $b$, $c$ abbiano i valori riportati di seguito:
 
 1. $a=2, b=8, c=1;$   $a=3, b=-1, c=2;$
 2. $a=2, b=8, c=10;$   $a=0, b=-1, c=2$.
@@ -184,6 +184,12 @@ b) Risolvi il secondo e terzo esercizio del punto b.1) con la sequenza di operaz
 8. $Sostituisci(d, l2)$  &#9166;
 9. $e_2: Sostituisci(e,l2)$  &#9166;	
 10. $Risolvi(e2)$  &#9166;	
+
+### ESERCIZIO 2.3 - Radici di polinomi
+
+a) Trova, se esistono, le radici dei polinomi seguenti.
+
+1. $2 + x;$   $\dfrac{x^2}{4} - 9;$   $4x^2 - \dfrac{25}{4}$.
 
 
 
@@ -231,7 +237,7 @@ Troviamo i punti di intersezione della parabola $y=x^2 -5x +6$ con l'asse orizzo
 
 Le soluzioni dell'equazione $x^2 -5x +6 = 0$ esistono e sono due, corrispondenti ai numeri $2$ e $3$ per cui i punti di intersezione sono $(2,0)$ e $(3,0)$.
 
-Troviamo adesso i punti di intersezione della parabola $y = x^2+1$. L'equazione $x^2 + 1 = 0$ non ha soluzioni ed infatti dal grafico si vede la parabola non interseca l'asse orizzontale.
+Troviamo adesso i punti di intersezione della parabola $y = x^2+1$. L'equazione $x^2 + 1 = 0$ non ha soluzioni ed infatti dal grafico si vede la parabola non interseca l'asse orizzontale.
 
 Il punto più "basso" delle parabole, è detto vertice, è un punto importante che ha le coordinate che si possono calcolare a partire dall'equazione della parabola mediante le formule seguenti:
 $$
@@ -341,7 +347,17 @@ Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA ripo
 
 ## UNITA' 4: Intervalli di positività e relazione con le equazioni di II grado
 
+Come per l'equazione della retta, anche per la parabola si definisce intervallo di positività un intervallo sull'asse delle $x$ per ogni numero del quale il valore della $y$, ossia il valore del polinomio caratteristico è positivo.
 
+####  ESEMPIO
+
+Consideriamo la parabola $y = \dfrac{1}{4}x^2-9$ con il grafico riportato nella figura di sotto.
+
+<img src="img\Parabola-1.png" alt="Parabola" style="zoom:20%;" />
+
+Gli intervalli di positività sono due: $[6,+\infty]$ e $[-\infty,-6]$; gli estremi $6$ e $-6$ sono radici del polinomio associato per cui la $y$ è uguale a zero.
+
+ 
 
 ### ESERCIZIO 4.1 - Equazioni di II Grado e Parabole Associate
 
