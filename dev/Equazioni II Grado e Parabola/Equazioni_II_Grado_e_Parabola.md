@@ -205,7 +205,9 @@ Se disegniamo sul piano cartesiano le soluzioni delle equazioni di questo tipo, 
 
 <img src="img/Parabola-3.png" alt="Parabola-3" style="zoom:20%;" /><img src="img/Parabola-4.png" alt="Parabola-4" style="zoom:20%;" />
 
-Questa forma è chiamata "Parabola". Prendendo in esame quelle che hanno $a > 0$, osserviamo che hanno una parte che "scende" fino ad un minimo, detto "vertice" e poi risale. In alcuni casi, come quello della prima figura, una parte della parabola è nel semipiano delle $y$ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
+Questa forma è chiamata **parabola** ed il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione della parabola si chiama **grafico della parabola**.
+
+Prendendo in esame le equazioni che hanno la $a > 0$, osserviamo che i grafici hanno una parte che "scende" fino ad un minimo, detto "vertice" e poi risale. In alcuni casi, come quello della prima figura, una parte della parabola è nel semipiano delle $y$ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
 
 Come si vede dalle figure, una parabola può incrociare entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse verticale e con il secondo troviamo l'intersezione con l'asse orizzontale:
 

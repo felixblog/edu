@@ -340,7 +340,7 @@ Potremo quindi dire alla squadra che la buca 2 si trova a $6 \;Km$ a destra dell
 
 Come si vede, a differenza dell'Unità 1, se i punti di cui vogliamo indicare la posizione non sono vincolati a stare su una retta ma possono stare su un piano, per trovare la loro posizione servono due numeri, e sono i numeri che si trovano immaginando che un oggetto che so muove partendo dall'origine raggiunga la posizione del punto con due movimenti: il primo in orizzontale ed il secondo in verticale. Con il primo movimento il mezzo arriva sotto (o sopra!) il punto e con il secondo, in verticale, lo raggiunge.
 
-Se ad esempio il mezzo deve raggiungere la buca 1 partendo dall'origine degli assi, si muoverà di $2$ unità a sinistra $6$ unità in basso, per cui la posizione della buca 1 avrà come coordinate i due numero $-2$ e $-6$ che si scrivono tra parentesi tonde separate da una virgola: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa***, o coordinata $x$, e la seconda ***ordinata***, o coordinata $y$.
+Se ad esempio il mezzo deve raggiungere la buca 1 partendo dall'origine degli assi, si muoverà di $2$ unità a sinistra $6$ unità in basso, per cui la posizione della buca 1 avrà come coordinate i due numero $-2$ e $-6$ che si scrivono tra parentesi tonde separate da una virgola: $(4, 2)$. Questi due numeri costituiscono una coppia detta ***coppia di coordinate***: la prima coordinata della coppia viene chiamata ***ascissa***, o coordinata $x$, e la seconda ***ordinata***, o coordinata $y$.
 
 I segni delle coordinate, a seconda che la posizione si trovi a destra. sinistra, alto o basso rispetto all'origine, sono riportati nella tabella che segue.
 $$
@@ -354,7 +354,15 @@ $$
         \end{array}
 $$
 
-Dalla tabella precedente si vede che tutti i punti del piano che sono al di sopra dell'asse coordinato orizzontale hanno la coordinata $y$ positiva mentre tutti quelli che stanno sotto l'asse orizzontale hanno coordinata $y$ negativa. Il primo insieme si chiama ***semipiano delle $y$ positive***, il secondo ***semipiano delle $y$ negative***.
+Dalla tabella precedente si vede che tutti i punti del piano che sono al di sopra dell'asse coordinato orizzontale hanno la coordinata $y$ positiva mentre tutti quelli che stanno sotto l'asse orizzontale hanno coordinata $y$ negativa. Il primo insieme si chiama ***semipiano delle $y$ positive***, il secondo ***semipiano delle $y$ negative***. Inoltre, tutti i punti che stanno a destra dell'asse verticale hanno la coordinata $x$ positiva mentre quelli che stanno a sinistra hanno la stessa coordinata negativa.
+
+In base al segno delle coordinate si suddivide il piano in quattro **quadranti** come nella figura seguente.
+
+
+
+<img src="img/quadranti.png" alt="quadranti" style="zoom:15%;" /> 
+
+Il primo è quello che ha i punti con entrambe le coordinate positive, il secondo quello con i punti che hanno la prima negativa e la seconda positiva ecc. 
 
 
 

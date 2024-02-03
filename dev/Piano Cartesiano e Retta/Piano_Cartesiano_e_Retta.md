@@ -36,6 +36,8 @@ $$
 
 Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.
 
+Il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione della retta si chiama **grafico della retta**.
+
 
 
 ### ESERCIZIO 1.1 - Punti allineati
@@ -298,9 +300,7 @@ Poiché l'inclinazione di una retta sull'asse orizzontale dipende dal suo coeffi
 
 Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$
 
-Osserviamo infine che anche gli assi coordinati sono delle rette e come tali hanno una equazione. I punti dell'asse orizzontale (delle $x$) hanno la prima coordinata qualsiasi e la seconda coordinata uguale a zero, per cui l'equazione è $y = 0 \cdot x + 0 \longrightarrow y = 0$ mentre i punti sull'asse verticale (delle $y$) hanno $y$ qualsiasi ma la $x$ uguale a $0$, cioè $x + 0 \cdot y = 0 \longrightarrow x = 0$.
 
-  
 
 ### ESERCIZIO 5.1 - Rette parallele e perpendicolari
 
@@ -463,6 +463,10 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minut
 
 
 ## UNITA' 7: Intervalli di positività e negatività
+
+Un problema importante è quello di individuare i punti della retta, o più precisamente le $x$ dei punti della retta che stanno nel semipiano positivo. In altre parole, se $y=mx+q$ è l'equazione di una retta e $(x,y)$ è un punto del suo grafico, studiare l'insieme $\{x: mx+q>0\}$.
+
+Per trovare questo insieme, basta risolvere la disequazione $mx + q > 0$. Vediamo qualche esempio.
 
 
 
