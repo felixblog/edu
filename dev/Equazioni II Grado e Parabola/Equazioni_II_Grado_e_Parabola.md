@@ -127,7 +127,7 @@ Facendo il calcolo si ottiene $x_1=3$, $x_2 = 2$.
 
 L'esistenza o la non esistenza delle soluzioni dipende dalla quantità sotto radice $b^2-4ac$​. Se la quantità è negativa la sua radice quadrata non esiste e quindi non esiste la soluzione dell'equazione.
 
-Quando una equazione di II grado è in forma normale, è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama "***polinomio associato***" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "***radici del polinomio***"; le radici di un polinomio sono i numeri che sostituiti alla lettera $x$ rende il polinomio uguale a zero.
+Quando una equazione di II grado è in forma normale, è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama "***polinomio associato***" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "***radici del polinomio***"; le radici di un polinomio sono i numeri che sostituiti alla lettera $x$ rende il polinomio uguale a zero.
 
 
 
@@ -212,7 +212,7 @@ Come si vede dalle figure, una parabola può incrociare entrambi gli assi coordi
 $$
 \left\{  
 \begin{array}{c} 
-y = ax^2+by+c \\  
+y = ax^2+bx+c \\  
 x=0			\\   
 \end{array} 
 \right.
@@ -221,7 +221,7 @@ $$
 $$
 \left\{  
 \begin{array}{c} 
-y = ax^2+by+c  \\  
+y = ax^2+bx+c  \\  
 y =0			\\   
 \end{array} 
 \right.
@@ -289,34 +289,7 @@ a) Disegna con GEOGEBRA il grafico della parabola $y=\dfrac{1}{4}x^2-9$ e calcol
 
 <img src="img\Parabola-1.png" alt="Parabola" style="zoom:20%;" />
 
-
-
-### ESERCIZIO 3.2 - Problemi sulla Parabola
-
-a) Scrivi l'equazione della parabola che passa per tre punti nei casi riportati di seguito e fanne un grafico approssimativo.
-
-1. $A(0;0), B(-1;1), C(1;1);$
-2. $A(-2;9), B(0;3), C(1;4);$
-3. $A(1;\dfrac{11}{2}), B(2;8), C(\dfrac{3}{2};\dfrac{13}{2});$
-
-b) Scrivi l'equazione della parabola che passa per il vertice ed un altro punto nei casi riportati di seguito.
-
-1. $V(0;1), P(1;0)$
-2. $V(0;2), P(1,6)$
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
-
-1. $e1: 0 = a(0)^2+b(0)+c$   &#9166; 
-2. $f: 1 = a(-1)^2+b(-1)+c$   &#9166;
-3. $g: 1 = a(1)^2+b(1)+c$   &#9166;
-4. $s: Singola(Risolvi(\{e1,f,g\},\{a,b,c\}))$ &#9166;  
-5. $Sostituisci(y= ax^2 + bx+c,s)$ &#9166;  
-
-
-
-### ESERCIZIO 3.3 - Retta e Parabola
+### ESERCIZIO 3.2 - Retta e Parabola
 
 a) Trova le coordinate dei punti di intersezione tra le parabole e le rette nei casi seguenti e rappresenta graficamente le due curve
 
@@ -347,11 +320,11 @@ Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA ripo
 
 ## UNITA' 4: Intervalli di positività e relazione con le equazioni di II grado
 
-Come per l'equazione della retta, anche per la parabola si definisce intervallo di positività un intervallo sull'asse delle $x$ per ogni numero del quale il valore della $y$, ossia il valore del polinomio caratteristico è positivo.
+Come per l'equazione della retta, anche per la parabola si definisce ***intervallo di positività*** un intervallo sull'asse delle $x$ per ogni numero del quale il valore della $y$, ossia il valore del polinomio associato, è positivo.
 
 ####  ESEMPIO
 
-Consideriamo la parabola $y = \dfrac{1}{4}x^2-9$ con il grafico riportato nella figura di sotto.
+Consideriamo la parabola $y = \dfrac{1}{4}x^2-9$ con il grafico riportato nella figura di sotto.
 
 <img src="img\Parabola-1.png" alt="Parabola" style="zoom:20%;" />
 
@@ -363,7 +336,11 @@ Gli intervalli di positività sono due: $[6,+\infty]$ e $[-\infty,-6]$; gli estr
 
 a) Discuti la presenza di una, due o nessuna soluzione delle equazioni seguenti dopo aver disegnato la parabola associata.
 
-$2x^2 + x = 0;$   $\dfrac{x^2}{4} - 81 = 0;$   $x^2 -5 = 0;$   $x^2 +x +1 = 0;$   $-x^2 +4x -4 = 0;$
+1. $2x^2 + x = 0;$   
+2. $\dfrac{x^2}{4} - 81 = 0$;
+3. $x^2 -5 = 0$;
+4. $x^2 +x +1 = 0$;
+5. $-x^2 +4x -4 = 0;$
 
 b) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
 
@@ -380,3 +357,31 @@ a) Risolvi il primo punto dell'esercizio b.1) con la sequenza di operazioni GEOG
 
 
 
+## UNITA' 5: Problemi vari sulla parabola
+
+
+
+### ESERCIZIO 5.1 - Parabola passante per tre punti
+
+a) Scrivi l'equazione della parabola che passa per tre punti nei casi riportati di seguito e fanne un grafico approssimativo.
+
+1. $A(0;0), B(-1;1), C(1;1);$
+2. $A(-2;9), B(0;3), C(1;4);$
+3. $A(1;\dfrac{11}{2}), B(2;8), C(\dfrac{3}{2};\dfrac{13}{2});$
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
+
+1. $e1: 0 = a(0)^2+b(0)+c$   &#9166; 
+2. $f: 1 = a(-1)^2+b(-1)+c$   &#9166;
+3. $g: 1 = a(1)^2+b(1)+c$   &#9166;
+4. $s: Singola(Risolvi(\{e1,f,g\},\{a,b,c\}))$ &#9166;  
+5. $Sostituisci(y= ax^2 + bx+c,s)$ &#9166;  
+
+### ESERCIZIO 5.2 - Parabola passante il vertice ed un altro punto
+
+a) Scrivi l'equazione della parabola che passa per il vertice ed un altro punto nei casi riportati di seguito.
+
+1. $V(0;1), P(1;0)$
+2. $V(0;2), P(1,6)$

@@ -24,7 +24,7 @@ Le equazioni immediatamente più complesse sono quelle del tipo $3x = -3$ e $10 
 
 
 
-### ESERCIZIO 1 - Verifica di soluzioni
+### ESERCIZIO 1.1 - Verifica di soluzioni
 
 a) Controlla se il numero dato è soluzione delle seguenti equazioni.
 
@@ -162,7 +162,7 @@ f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5
 
 
 
-### ESERCIZIO 2 - Regole delle Equazioni
+### ESERCIZIO 2.1 - Regole delle Equazioni
 
 Risolvi le seguenti equazioni applicando le regole indicate.
 
@@ -193,7 +193,7 @@ b) Regola della moltiplicazione/divisione e regola della semplificazione.
 7. Trova il numero che diviso per $-2$ da $-11$:  $\dfrac{c}{-2} = -11;$
 8. Trova il numero da dividere per $-\dfrac{3}{2}$ per avere $\dfrac{4}{5}$:   $\dfrac{c}{-\dfrac{3}{2}} = \dfrac{4}{5};$
 
-### ESERCIZIO 3 - Risoluzione di equazioni
+### ESERCIZIO 2.2 - Risoluzione di equazioni
 
 a) Risolvi le seguenti equazioni scrivendo a fianco di ogni passaggio la proprietà dell'uguaglianza utilizzata.
 
@@ -227,7 +227,7 @@ b) Risolvi le equazioni del punto b) con sequenze di comandi GEOGEBRA analoghe a
 
 
 
-### ESERCIZIO 4 - Scrittura di equazioni
+### ESERCIZIO 2.3 - Scrittura di equazioni
 
 a) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche richieste.
 
@@ -267,7 +267,7 @@ $= \bigg\{ x = \dfrac{-b+1}{a}\bigg\}$
 
 
 
-### ESERCIZIO 5 - Equazioni letterali
+### ESERCIZIO 3.1 - Equazioni letterali
 
 a) Risolvi le seguenti equazioni considerando la lettera $x$ come (unica) incognita.
 
@@ -297,7 +297,7 @@ Controlla che la soluzione è corretta sostituendo all'incognita la soluzione tr
 
 
 
-### ESERCIZIO 6 - Formule e formule inverse
+### ESERCIZIO 3.2 - Formule e formule inverse
 
 Di seguito sono presentate alcune formule famose provenienti da discipline varie:
 
@@ -336,7 +336,7 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 
 
 
-### ESERCIZIO 7 - Applicazione di formule
+### ESERCIZIO 3.3 - Applicazione di formule
 
 Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico. 
 
@@ -374,7 +374,7 @@ Nella simbologia grafica usata da GEOGEBRA ogni estremo del segmento è un punti
 
 
 
-### ESERCIZIO 8 - Disuguaglianze e disequazioni
+### ESERCIZIO 4.1 - Disuguaglianze e disequazioni
 
 a) Indicare quali delle seguenti disuguaglianze sono vere e quali false.  
 
@@ -391,7 +391,7 @@ b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
 1.  $x + 1 \gt 0; x + 3 \le 4$;
 2.  $2x-1 \lt 6; x^2 + 2x -1 \ge 0$; 
 
-### ESERCIZIO 9 - Soluzione di Disequazioni I
+### ESERCIZIO 4.2 - Soluzione di Disequazioni I
 
 a) Nei casi riportati di seguito, determina quali tra i valori indicati nell'insieme è soluzione della disequazione associata.
 
@@ -412,7 +412,7 @@ a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di coman
 
 
 
-### ESERCIZIO 10 - Intervalli e disequazioni elementari
+### ESERCIZIO 4.3 - Intervalli e disequazioni elementari
 
 a) In ciascuno dei casi riportati di seguito determina se il numero indicato appartiene all'intervallo associato.
 
@@ -456,7 +456,7 @@ b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA ana
 
 ## UNITA' 5: Disequazioni di I grado con una incognita
 
-### ESERCIZIO 11 - Soluzione di Disequazioni II
+### ESERCIZIO 5.1 - Soluzione di Disequazioni II
 
 a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
 

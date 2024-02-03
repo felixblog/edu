@@ -272,7 +272,7 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q$ è quello di metterla nella forma desiderata, detta ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come "$\text{monomio in x} + \text{numero}$" e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
 
-Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. Le coordinate complete del punto di intersezione della retta con l'asse delle $y$ sono $(0,q)$.
+Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. Le coordinate complete del punto di intersezione della retta con l'asse delle $y$ sono $(0,q)$.
 
 #### ESEMPIO
 
@@ -298,7 +298,9 @@ Poiché l'inclinazione di una retta sull'asse orizzontale dipende dal suo coeffi
 
 Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$
 
+Osserviamo infine che anche gli assi coordinati sono delle rette e come tali hanno una equazione. I punti dell'asse orizzontale (delle $x$) hanno la prima coordinata qualsiasi e la seconda coordinata uguale a zero, per cui l'equazione è $y = 0 \cdot x + 0 \longrightarrow y = 0$ mentre i punti sull'asse verticale (delle $y$) hanno $y$ qualsiasi ma la $x$ uguale a $0$, cioè $x + 0 \cdot y = 0 \longrightarrow x = 0$.
 
+  
 
 ### ESERCIZIO 5.1 - Rette parallele e perpendicolari
 
