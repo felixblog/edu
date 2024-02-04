@@ -125,9 +125,9 @@ $$
 
 Facendo il calcolo si ottiene $x_1=3$, $x_2 = 2$.
 
-L'esistenza o la non esistenza delle soluzioni dipende dalla quantità sotto radice $b^2-4ac$​. Se la quantità è negativa la sua radice quadrata non esiste e quindi non esiste la soluzione dell'equazione.
+L'esistenza o la non esistenza delle soluzioni dipende dalla quantità sotto radice $b^2-4ac$: se la quantità è negativa la sua radice quadrata non esiste e quindi non esiste la soluzione dell'equazione.
 
-Quando una equazione di II grado è in forma normale, è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama "***polinomio associato***" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "***radici del polinomio***"; le radici di un polinomio sono i numeri che sostituiti alla lettera $x$ rende il polinomio uguale a zero.
+Quando una equazione di II grado è in forma normale, è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama "***polinomio associato***" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "***radici del polinomio***"; le radici di un polinomio sono quindi i numeri che sostituiti alla lettera $x$ rende il polinomio uguale a zero.
 
 
 
@@ -205,7 +205,7 @@ Se disegniamo sul piano cartesiano le soluzioni delle equazioni di questo tipo, 
 
 <img src="img/Parabola-3.png" alt="Parabola-3" style="zoom:20%;" /><img src="img/Parabola-4.png" alt="Parabola-4" style="zoom:20%;" />
 
-Questa forma è chiamata **parabola** ed il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione della parabola si chiama **grafico della parabola**.
+Questa forma è chiamata **parabola** ed il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione della parabola si chiama "grafico dell'equazione della parabola" o più semplicemente **grafico della parabola**.
 
 Prendendo in esame le equazioni che hanno la $a > 0$, osserviamo che i grafici hanno una parte che "scende" fino ad un minimo, detto "vertice" e poi risale. In alcuni casi, come quello della prima figura, una parte della parabola è nel semipiano delle $y$ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
 

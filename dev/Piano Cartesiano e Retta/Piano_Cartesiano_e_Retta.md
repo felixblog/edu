@@ -36,7 +36,7 @@ $$
 
 Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.
 
-Il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione della retta si chiama **grafico della retta**.
+Il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione della retta si chiama "grafico dell'equazione della retta" o più semplicemente **grafico della retta**.
 
 
 
@@ -331,7 +331,7 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 ## UNITA' 6: Intersezione di due rette
 
-Due rette in un piano cartesiano, non parallele ne coincidenti, geometricamente si intersecano in un punto. Dal punto di vista algebrico, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite. 
+Due rette in un piano cartesiano, non parallele ne coincidenti, geometricamente si intersecano in un punto. Dal punto di vista delle equazioni, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite. 
 
 #### ESEMPIO
 
