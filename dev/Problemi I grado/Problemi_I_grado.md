@@ -1,19 +1,21 @@
 
 # Problemi di I grado
 
-## UNITA' 1: I problemi su numeri, rapporti e percentuali
+## UNITA' 1: Problemi ed equazioni
+
+
 
 ### ESERCIZIO 1.1 - Problemi sui numeri
 
 Risolvi i problemi seguenti.
 
-a) Trova un numero che aumentato di 5 è uguale alla propria metà.   
+a) Trova un numero che aumentato di 5 è uguale alla propria metà.
 
 b) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?
 
-c) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.    
+c) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.
 
-d) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.  
+d) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.
 
 
 
