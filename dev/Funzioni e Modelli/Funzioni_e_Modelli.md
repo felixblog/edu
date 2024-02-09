@@ -1,6 +1,6 @@
 # Funzioni Elementari e Modelli Matematici
 
-## UNITA' 1: Modelli di relazioni, proporzionalità diretta ed inversa
+## UNITA' 1: Modelli matematici di relazioni
 
 Nei capitoli precedenti abbiamo incontrato problemi come quelli riportati di seguito:
 
@@ -26,8 +26,6 @@ x & y = 150\% \cdot x \\
 $$
 
 La relazione tra $x$ e $y = 150 \% \cdot x$ è detta ***modello matematico del problema*** e, nel caso del primo problema come si vede dalla tabella, la relazione tra $x$ ed $y$ è crescente, poiché $y$ cresce al crescere di $x$.
-
-Si può inoltre osservare che il rapporto tra $y$ e $x$ è costante e vale $150 \% = 0,15$, ossia $\dfrac{y}{x} = 0,15$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali***. 
 
 
 
@@ -67,17 +65,9 @@ b) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 
 
-### ESERCIZIO 1.2 - Proporzionalità diretta
+## UNITA' 2: Proporzionalità diretta ed inversa
 
-a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475\, \mbox{\euro}$ euro, quanto prenderà se lavora $30$ ore? 
-
-b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6$ m^2^ ?
-
-c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
-
-
-
-## UNITA' 2: Proporzionalità inversa
+Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 150\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $150 \% = 0,15$, ossia $\dfrac{y}{x} = 0,15$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $0,15$.
 
 Consideriamo ora il problema seguente: 
 
@@ -97,11 +87,21 @@ x & t = \dfrac{64}{x} \\
 \end{array}
 $$
 
-Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante ed uguale a $64$. Quando al variare di due quantità il loro prodotto resta costante si dice che le due quantità sono ***inversamente proporzionali***.
+Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante ed uguale a $64$. Quando al variare di due quantità il loro **prodotto** resta costante si dice che le due quantità sono ***inversamente proporzionali***.
 
 
 
-### ESERCIZIO 2.1 - Proporzionalità inversa
+### ESERCIZIO 2.1 - Proporzionalità diretta
+
+a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475\, \mbox{\euro}$ euro, quanto prenderà se lavora $30$ ore? 
+
+b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6$ m^2^ ?
+
+c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
+
+
+
+### ESERCIZIO 2.2 - Proporzionalità inversa
 
 a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
 
@@ -111,7 +111,7 @@ c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $1
 
 
 
-### ESERCIZIO 2.2 - Formule di proporzionalità
+### ESERCIZIO 2.3 - Formule di proporzionalità
 
 a) Esprimi con una formula le relazioni tra le quantità nei casi riportati di seguito.
 
@@ -130,6 +130,16 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 
 
 ## UNITA' 3: Relazioni lineari tra grandezze
+
+Una funzione tra due grandezze $x$ ed $y$ si dice "lineare" se la variabile (dipendente) $y$ è uguale ad un polinomio di primo grado nella variabile indipendente $x$, come nel caso di 
+$$
+y = mx+q
+$$
+dove $m$ e $q$ sono due numeri.
+
+Come si ricorderà, la precedente è proprio l'equazione di una retta in forma esplicita e quindi il grafico di una funzione lineare in un piano cartesiano è una retta. 
+
+
 
 ### ESERCIZIO 3.1 - Funzioni lineari
 a) Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
@@ -345,7 +355,7 @@ a) Per ciascuno dei grafici seguenti individua:
 
 
 
-## UNITA' 5: Applicazioni dei modelli lineari
+## UNITA' 5: Applicazioni dei modelli lineari: modelli decisionali
 
 Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ di volta in volta il numero di oggetti/servizi acquistati o prodotti. La formula che lega i costi ai prodotti in generale è la seguente:
 $$
@@ -358,7 +368,7 @@ dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei 
 a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
 
 1. Scrivere le formule che, al variare di $x$, numero di ore di affitto a semestre, esprime i costi nel caso dei membri e degli esterni.
-2. Individuare quale è il numero semestrale minimo di ore di campo da affittare perché convenga l'iscrizione al circolo.  
+2. Individuare quale è il numero semestrale minimo di ore di campo da affittare perché convenga l'iscrizione al circolo. (*Suggerimento*: si scrivano i costi mensili in entrambi i casi e si confrontino i grafici dei costi.)  
 
 b) Una sala chirurgica ambulatoriale prevede, da parte del paziente, il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato 250 euro per un intervento di 30 minuti ed un altro 450 euro per uno di 90 minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di 45 minuti.
 

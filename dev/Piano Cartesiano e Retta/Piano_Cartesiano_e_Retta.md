@@ -468,19 +468,19 @@ Un problema importante che ci si pone quando abbiamo l'equazione di una retta è
 
 #### ESEMPIO
 
-Consideriamo la retta del grafico seguente.
+Consideriamo la figura seguente che riporta il grafico della retta $y = -2x -1$..
 
 <img src="img/Positivita.png" alt="Positivita" style="zoom: 15%;" />
 
-Il punto della retta $(1,-3)$ non sta nel semipiano positivo, quindi $1$, l'ascissa del punto, non è nell'intervallo di positività della retta; la stessa cosa si può dire di $(0,1)$: $0$ non è nell'intervallo di positività della retta. Invece $(-2, 3)$ è nel semipiano positivo, quindi $-2$ è nell'intervallo di positività della retta.
+Il punto della retta $(1,-3)$ non sta nel semipiano positivo, quindi $1$, l'ascissa del punto, non è nell'intervallo di positività della retta; la stessa cosa si può dire di $(0,-1)$: $0$ non è nell'intervallo di positività della retta. Invece $(-2, 3)$ è nel semipiano positivo, quindi $-2$ è nell'intervallo di positività della retta.
 
-Sempre in riferimento alla figura, poiché la retta interseca l'asse orizzontale nel punto $(-\dfrac{1}{2},0)$ possiamo dire che l'intervallo di positività della retta $y = -2x -1$ è formato da tutte le $x$ minori di $-\dfrac{1}{2}$, ossia è l'intervallo $(-\infty, -\dfrac{1}{2})$​.
+Sempre in riferimento alla figura, poiché la retta interseca l'asse orizzontale nel punto $(-\dfrac{1}{2},0)$ possiamo dire che l'intervallo di positività della retta $y = -2x -1$ è formato da tutte le $x$ minori di $-\dfrac{1}{2}$, ossia è l'intervallo $(-\infty, -\dfrac{1}{2})$​ dell'asse delle $x$ (orizzontale).
 
 
 
-Per trovare l'intervallo di positività di una retta avendo la sua equazione (in forma esplicita) è quindi necessario disegnare il grafico della retta, controllare se la retta è inclinata verso l'alto o il basso, quindi trovare il punto di intersezione $(x_0, 0)$ con l'asse orizzontale: se l'inclinazione è verso l'alto l'intervallo di positività sarà $(x_0,+\infty)$ mentre se è inclinata verso il basso sarà $(-\infty, x_0)$.
+Per trovare l'intervallo di positività di una retta avendo la sua equazione (in forma esplicita) è quindi necessario disegnare il grafico della retta, controllare se la retta è inclinata verso l'alto o il basso, quindi trovare il punto di intersezione $(x_0, 0)$ con l'asse delle $x$: se l'inclinazione è verso l'alto l'intervallo di positività sarà $(x_0,+\infty)$ mentre se è inclinata verso il basso sarà $(-\infty, x_0)$.
 
-Se la retta non interseca l'asse delle $x$ il suo grafico sarà o tutto nel semipiano positivo o tutto in quello negativo. Nel primo caso l'intervallo di positività sarà $(-\infty, +\infty)$, mentre nel secondo sarà l'insieme vuoto $(0,0)$ 
+Se la retta non interseca l'asse delle $x$, il suo grafico sarà o tutto nel semipiano positivo o tutto in quello negativo. Nel primo caso l'intervallo di positività sarà $(-\infty, +\infty)$, mentre nel secondo sarà l'insieme vuoto $(0,0)$ 
 
 
 
