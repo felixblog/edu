@@ -4,28 +4,35 @@
 
 Nei capitoli precedenti abbiamo incontrato problemi come quelli riportati di seguito:
 
-a) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
+a) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il $150\%$ in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
 
-b) In 4 giorni 16 operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
+b) In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
 
-Questi problemi hanno in comune la loro richiesta di individuare una espressione letterale che esprima la misura di una quantità (ad esempio il numero di torte di quest'anno, detta ***variabile dipendente***) che dipende da un'altra quantità (numero di torte dello scorso anno, detta ***variabile indipendente***) che non conosciamo. Avere la soluzione del problema è utile in quanto ci consente di sapere, per i valori della variabile indipendente che ci interessano, quelli della variabile dipendente. Nel caso del primo problema una casistica è riportata nella tabella seguente.
+Questi problemi hanno in comune la richiesta di scrivere una espressione letterale che calcola una quantità (ad esempio il numero di torte di quest'anno, detta ***variabile dipendente***) che dipende da un'altra quantità (numero di torte dello scorso anno, detta ***variabile indipendente***). Se ho questa espressione posso sapere, per i valori della variabile indipendente che ci interessano, quelli della variabile dipendente. 
 
+La relazione tra il numero delle le torte dello scorso anno $x$ e quelle di quest'anno $y$ è $y = 250 \% \cdot x$ detta ***modello matematico del problema***. Per calcolare quante torte venderò quest'anno (variabile dipendente), devo calcolare l'espressione $250\% \cdot x$ dopo aver sostituito alla $x$ il numero delle torte dell'scorso anno, ad esempio $30$, per cui $250\% \cdot x, \{x = 30\} \longrightarrow 2,5 \cdot 30 \longrightarrow 75$.
+
+Un esempio di calcolo per alcuni valori di $x$ è nella tabella seguente​.​
 $$
 \begin{array}{c|c}
 \hline
 \textbf{N. Torte } & \textbf{N. Torte} \\
 \textbf{Scorso Anno } & \textbf{Anno in Corso} \\
-x & y = 150\% \cdot x \\ 
+x & y = 250\% \cdot x \\ 
 \hline 
-10 & 15 \\ 
-30 &  45\\ 
-50 & 75 \\  
-100 &  150 \\  
-200 & 300 \\  
+10 & 25 \\ 
+30 &  75\\ 
+50 & 125 \\  
+100 &  250 \\  
+200 & 500 \\  
 \end{array}
 $$
 
-La relazione tra $x$ e $y = 150 \% \cdot x$ è detta ***modello matematico del problema*** e, nel caso del primo problema come si vede dalla tabella, la relazione tra $x$ ed $y$ è crescente, poiché $y$ cresce al crescere di $x$.
+ Per semplicità, alle espressioni letterali si dà un nome, ad esempio $f$, come nell'esempio seguente:
+$$
+f(x) = 250\% \cdot x 
+$$
+La $x$ tra parentesi indica la lettera da sostituire per calcolare i valori, per cui $f(50) = 250 \% \cdot 50 \longrightarrow 125$. 
 
 
 
@@ -54,11 +61,12 @@ Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola $c(75)$, $c(15
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a) dell'esercizio con il comando $Compatta((k,k^2),k,\{0,1,-1,2,-2\})$&#9166;
+a) Risolvi il punto a) dell'esercizio con i comandi: 
 
-<img src="img\Valore-di-Espressione.png" alt="Valore-di-Espressione" style="zoom:15%;" />
+1. $f(x) := x^2$ &#9166; 
+2. $\{f(0), f(1), f(-1), f(2), f(-2) \}$ &#9166;
 
-b) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA:
+b) Risolvi il punto d) dell'esercizio con i comandi:
 
 1. $c(x) := 0.32x + 50$ &#9166; 
 2. $\{c(75), c(150), c(225), c(650)\}$ &#9166; . 
@@ -67,7 +75,7 @@ b) Risolvi il punto d) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 ## UNITA' 2: Proporzionalità diretta ed inversa
 
-Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 150\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $150 \% = 0,15$, ossia $\dfrac{y}{x} = 0,15$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $0,15$.
+Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 150\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $150 \% = 0,15$, ossia $\dfrac{y}{x} = 0,15$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $0,15$ della seconda.
 
 Consideriamo ora il problema seguente: 
 
@@ -87,7 +95,13 @@ x & t = \dfrac{64}{x} \\
 \end{array}
 $$
 
-Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante ed uguale a $64$. Quando al variare di due quantità il loro **prodotto** resta costante si dice che le due quantità sono ***inversamente proporzionali***.
+Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante ed uguale a $64$​. Quando al variare di due quantità il loro **prodotto** resta costante si dice che le due quantità sono ***inversamente proporzionali***.
+
+Un caso molto importante di proporzionalità diretta lo abbiamo nel caso di un oggetto che si muove con velocità fissa (costante), senza accelerare, ad esempio una macchina che viaggia su una strada sempre con la stessa velocità di $60 \; Km/h$. 
+
+In $10$ minuti, (che corrispondono a $10 \cdot \dfrac{1}{60} \cong 0,166$ ore, la macchina percorre $0,166 \cdot 60 \cong 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta t$ è una durata di tempo (nel nostro caso $10$ minuti), $v = 80\; Km/h$ è la velocità e $\Delta s$ è lo spazio percorso.
+
+Poiché la velocità è costante, si dice che la macchina percorre "spazi uguali in tempi uguali", cioè sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti, la macchina, in $10$ minuti, farà sempre $10$ Km, cosa che non succede se la macchina accelera.
 
 
 
@@ -131,7 +145,7 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 
 ## UNITA' 3: Relazioni lineari tra grandezze
 
-Una funzione tra due grandezze $x$ ed $y$ si dice "lineare" se la variabile (dipendente) $y$ è uguale ad un polinomio di primo grado nella variabile indipendente $x$, come nel caso di 
+Una funzione tra due grandezze $x$ ed $y$ si dice "lineare" se la variabile (dipendente) $y$ è uguale ad un polinomio di primo grado nella variabile indipendente $x$, come nel caso di 
 $$
 y = mx+q
 $$
@@ -154,10 +168,10 @@ b) Individua quali delle successioni trovate sono crescenti e quali decrescenti.
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$ (usa la calcolatrice **GRAFICI**):
+a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$.
 
 1. $f(x) := x$ &#9166; 
-2. $Compatta((k,f(k)),k,\{0,2, -2, 4, -4\})$ &#9166; 
+2. $\{(0,f(0)), (2, f(-2)), (-2, f(-2)), (4,f(4)), (-4, f(-4)) \})$ &#9166; 
 
 <img src="img\Dipendenza-Lineare.png" alt="Dipendenza-Lineare" style="zoom:15%;" />
 
@@ -316,7 +330,7 @@ d) QUOTA ISCRIZIONE. L'iscrizione ad una piscina costa 250 euro per le 12 settim
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a) dell'esercizio con la seguente sequenza di comandi GEOGEBRA:
+a) Risolvi il punto a) dell'esercizio con la seguente sequenza di comandi GEOGEBRA (calcolatrice GRAFICA):
 
 1. $f(n) := Se(n<0, 1, 3n+1)$
 2. $d = \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$ &#9166; 
