@@ -8,9 +8,9 @@ a) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di to
 
 b) In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
 
-Questi problemi hanno in comune la richiesta di scrivere una espressione letterale che calcola una quantità (il numero di torte di quest'anno) che **dipende** da un'altra quantità (numero di torte dello scorso anno). Il numero di torte di quest'anno si chiama ***variabile dipendente*** e quello dell'anno scorso ***variabile indipendente***. Se ho questa espressione posso calcolare la quantità della variabile dipendente sapendo la quantità della variabile indipendente, . 
+Questi problemi hanno in comune la richiesta di scrivere una espressione letterale che calcola una quantità (il numero di torte di quest'anno) che **dipende** da un'altra quantità (numero di torte dello scorso anno). Il numero di torte di quest'anno si chiama ***variabile dipendente*** e quello dell'anno scorso ***variabile indipendente***. Se ho questa espressione posso calcolare la quantità della variabile dipendente sapendo la quantità della variabile indipendente, . 
 
-Se chiamo $x$ il numero delle le torte dello scorso anno $x$ ed $y$ quello di quest'anno, la relazione tra $y$ ed $x$ è $y = 250 \% \cdot x$. Questa equazione si chiama ***modello matematico del problema***. Per calcolare quante torte venderò quest'anno devo calcolare l'espressione $250\% \cdot x$ all'interno dell'equazione (elementare) dopo aver sostituito alla $x$ il numero delle torte dell'scorso anno, ad esempio $30$, per cui $ y = 250\% \cdot x, \{x = 30\} \longrightarrow y = 2,5 \cdot 30 \longrightarrow y = 75$.
+Se chiamo $x$ il numero delle le torte dello scorso anno $x$ ed $y$ quello di quest'anno, la relazione tra $y$ ed $x$ è $y = 250 \% \cdot x$. Questa equazione si chiama ***modello matematico del problema***. Per calcolare quante torte venderò quest'anno devo calcolare l'espressione $250\% \cdot x$ all'interno dell'equazione (elementare) dopo aver sostituito alla $x$ il numero delle torte dell'scorso anno, ad esempio $30$, per cui $ y = 250\% \cdot x, \{x = 30\} \longrightarrow y = 2,5 \cdot 30 \longrightarrow y = 75$.
 
 Un esempio di calcolo per alcuni valori possibili di $x$ è nella tabella seguente​.​
 $$
@@ -36,11 +36,11 @@ La $x$ tra parentesi indica la lettera da sostituire per calcolare i valori, per
 $$
 f(50) = 125
 $$
-L'espressione $f(x)$ ha la capacità di associare ad un numero messo al posto di $x$ un solo altro numero risultato del calcolo dell'espressione; questa corrispondenza, si chiama ***<u>funzione</u>*** tra la variabile $x$ e la variabile $y$ e si indica
+L'espressione $f(x)$ ha la capacità di associare ad un numero messo al posto di $x$ un solo altro numero risultato del calcolo dell'espressione; questa corrispondenza, si chiama ***<u>funzione</u>*** tra la variabile $x$ e la variabile $y$ e si indica
 $$
 y = f(x)
 $$
-La tabella delle torte è un esempio di calcolo della funzione $f(x) = 250\% \cdot x$ su un campione di valori possibili della $x$.
+La tabella delle torte è un esempio di calcolo della funzione $f(x) = 250\% \cdot x$ su un campione di valori possibili della $x$.
 
 
 
@@ -153,7 +153,7 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 
 ## UNITA' 3: Relazioni lineari tra grandezze
 
-Una funzione tra due grandezze $x$ ed $y$ si dice "lineare" se la grandezza (dipendente) $y$ è uguale ad un polinomio di primo grado nella grandezza indipendente $x$​, come nel caso dell'equazione seguente:
+Una funzione tra due grandezze $x$ ed $y$ si dice "lineare" se l'espressione che definisce la funzione è un polinomio di primo grado nella grandezza indipendente $x$​, come nel caso dell'equazione seguente:
 $$
 y = 3x -5
 $$
@@ -163,7 +163,27 @@ y = mx+q
 $$
 dove $m$ e $q$ sono due numeri.
 
-Come si ricorderà, la precedente è proprio l'equazione di una retta in forma esplicita e quindi il grafico di una funzione lineare in un piano cartesiano è una retta.
+Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$. Vediamo un esempio.
+
+#### ESEMPIO
+
+Una palestra applica i prezzi seguenti: per entrare bisogna iscriversi e l'iscrizione costa $40$ euro a semestre; ogni ingresso poi costa $12$ euro. Scrivi la formula che calcola il costo semestrale al variare del numero di ingressi $x$.
+
+Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori seguenti:
+$$
+\begin{array}{c|c|c}
+\hline
+\textbf{Caso } & \textbf{N. Ingressi } & \textbf{Costo} \\
+& x & f(x) = 40 +12x \\ 
+\hline 
+1 & 5 & 100 \\ 
+2 & 10 & 160 \\ 
+3 & 15 & 220 \\  
+4 & 20 &  280 \\  
+5 & 25 &  340 \\  
+\end{array}
+$$
+Se consideriamo la differenza tra $5$ e $15$ ingressi ($\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), ossia $10$ ingressi, abbiamo un incremento di costo di $120$ euro ($\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$) ed il rapporto è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$; lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$), ossia $15$ ingressi, comporta un incremento di costo di $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante.
 
 
 
