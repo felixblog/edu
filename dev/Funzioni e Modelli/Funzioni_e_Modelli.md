@@ -8,11 +8,11 @@ a) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di to
 
 b) In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
 
-Questi problemi hanno in comune la richiesta di scrivere una espressione letterale che calcola una quantità (ad esempio il numero di torte di quest'anno, detta ***variabile dipendente***) che dipende da un'altra quantità (numero di torte dello scorso anno, detta ***variabile indipendente***). Se ho questa espressione posso sapere, per i valori della variabile indipendente che ci interessano, quelli della variabile dipendente. 
+Questi problemi hanno in comune la richiesta di scrivere una espressione letterale che calcola una quantità (il numero di torte di quest'anno) che **dipende** da un'altra quantità (numero di torte dello scorso anno). Il numero di torte di quest'anno si chiama ***variabile dipendente*** e quello dell'anno scorso ***variabile indipendente***. Se ho questa espressione posso calcolare la quantità della variabile dipendente sapendo la quantità della variabile indipendente, . 
 
-La relazione tra il numero delle le torte dello scorso anno $x$ e quelle di quest'anno $y$ è $y = 250 \% \cdot x$ detta ***modello matematico del problema***. Per calcolare quante torte venderò quest'anno (variabile dipendente), devo calcolare l'espressione $250\% \cdot x$ dopo aver sostituito alla $x$ il numero delle torte dell'scorso anno, ad esempio $30$, per cui $250\% \cdot x, \{x = 30\} \longrightarrow 2,5 \cdot 30 \longrightarrow 75$.
+Se chiamo $x$ il numero delle le torte dello scorso anno $x$ ed $y$ quello di quest'anno, la relazione tra $y$ ed $x$ è $y = 250 \% \cdot x$. Questa equazione si chiama ***modello matematico del problema***. Per calcolare quante torte venderò quest'anno devo calcolare l'espressione $250\% \cdot x$ all'interno dell'equazione (elementare) dopo aver sostituito alla $x$ il numero delle torte dell'scorso anno, ad esempio $30$, per cui $ y = 250\% \cdot x, \{x = 30\} \longrightarrow y = 2,5 \cdot 30 \longrightarrow y = 75$.
 
-Un esempio di calcolo per alcuni valori di $x$ è nella tabella seguente​.​
+Un esempio di calcolo per alcuni valori possibili di $x$ è nella tabella seguente​.​
 $$
 \begin{array}{c|c}
 \hline
@@ -30,9 +30,17 @@ $$
 
  Per semplicità, alle espressioni letterali si dà un nome, ad esempio $f$, come nell'esempio seguente:
 $$
-f(x) = 250\% \cdot x 
+f(x) = 250\% \cdot x
 $$
-La $x$ tra parentesi indica la lettera da sostituire per calcolare i valori, per cui $f(50) = 250 \% \cdot 50 \longrightarrow 125$. 
+La $x$ tra parentesi indica la lettera da sostituire per calcolare i valori, per cui $f(50)$ significa automaticamente la sostituzione e calcolo seguente: $f(50) = 250 \% \cdot x, \{x = 50\} \longrightarrow 250 \% \cdot 50 \longrightarrow 125$, cioè in breve
+$$
+f(50) = 125
+$$
+L'espressione $f(x)$ ha la capacità di associare ad un numero messo al posto di $x$ un solo altro numero risultato del calcolo dell'espressione; questa corrispondenza, si chiama ***<u>funzione</u>*** tra la variabile $x$ e la variabile $y$ e si indica
+$$
+y = f(x)
+$$
+La tabella delle torte è un esempio di calcolo della funzione $f(x) = 250\% \cdot x$ su un campione di valori possibili della $x$.
 
 
 
@@ -145,13 +153,17 @@ c) Esprimi le relazioni seguenti con una formula dopo aver scelto le lettere che
 
 ## UNITA' 3: Relazioni lineari tra grandezze
 
-Una funzione tra due grandezze $x$ ed $y$ si dice "lineare" se la variabile (dipendente) $y$ è uguale ad un polinomio di primo grado nella variabile indipendente $x$, come nel caso di 
+Una funzione tra due grandezze $x$ ed $y$ si dice "lineare" se la grandezza (dipendente) $y$ è uguale ad un polinomio di primo grado nella grandezza indipendente $x$​, come nel caso dell'equazione seguente:
+$$
+y = 3x -5
+$$
+ed in generale
 $$
 y = mx+q
 $$
 dove $m$ e $q$ sono due numeri.
 
-Come si ricorderà, la precedente è proprio l'equazione di una retta in forma esplicita e quindi il grafico di una funzione lineare in un piano cartesiano è una retta. 
+Come si ricorderà, la precedente è proprio l'equazione di una retta in forma esplicita e quindi il grafico di una funzione lineare in un piano cartesiano è una retta.
 
 
 
@@ -171,7 +183,7 @@ b) Individua quali delle successioni trovate sono crescenti e quali decrescenti.
 a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$.
 
 1. $f(x) := x$ &#9166; 
-2. $\{(0,f(0)), (2, f(-2)), (-2, f(-2)), (4,f(4)), (-4, f(-4)) \})$ &#9166; 
+2. $\{(0,f(0)), (2, f(-2)), (-2, f(-2)), (4,f(4)), (-4, f(-4)) \})$ &#9166; 
 
 <img src="img\Dipendenza-Lineare.png" alt="Dipendenza-Lineare" style="zoom:15%;" />
 
