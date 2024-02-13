@@ -163,7 +163,7 @@ y = mx+q
 $$
 dove $m$ e $q$ sono due numeri.
 
-Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$. Vediamo un esempio.
+Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$. Vediamo un esempio.
 
 #### ESEMPIO
 
@@ -188,7 +188,7 @@ Se consideriamo la differenza tra $5$ e $15$ ingressi ($\Delta x = x_3 - x_1 \lo
 
 
 ### ESERCIZIO 3.1 - Funzioni lineari
-a) Costruisci una tabella ed un grafico cartesiano assegnando cinque valori (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
+a) Costruisci una tabella ed un grafico cartesiano assegnando cinque numeri a scelta (positivi e negativi) a $x$ per ciascuna delle funzioni riportate di seguito:
 
 1. $f(x) = x$;
 2. $f(x) = -x$;
@@ -206,6 +206,13 @@ a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di 
 2. $\{(0,f(0)), (2, f(-2)), (-2, f(-2)), (4,f(4)), (-4, f(-4)) \})$ &#9166; 
 
 <img src="img\Dipendenza-Lineare.png" alt="Dipendenza-Lineare" style="zoom:15%;" />
+
+Risultato analogo si ottiene con i passi seguenti.
+
+1. Inserisci la funzione $f(x) := \dfrac{1}{2}x$ &#9166; 
+2. Seleziona lo strumento GEOGEBRA "Tabella";
+3. Inserisci nella prima colonna della tabella GEOGEBRA "$x$" i $5$ numeri a scelta;
+4. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
 
 
 
@@ -245,22 +252,22 @@ b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 
 In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4\, \mbox{\euro}$, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
 
-a) Detti $P_n = 40 + 5 \cdot n, \: n=0, 1, 2,...,6$ una successione di prezzi delle lattine, e $Q_n = 141 -12 \cdot n$ le corrispondenti quantità vendute, calcola la quantità venduta per i prezzi $\{40, 35, 30, 25, 20, 15, 10\}$, e riporta i risultati sulla tabella seguente.
+a) Indicando con $p$ il prezzo di una lattina e con $q$ il numero di lattine settimanali vendute, calcola le quantità vendute per i prezzi riportati in tabella.
 $$
-\begin{array}{r|c|c}  n & P_{n} & Q_{n}\\
+\begin{array}{c|c}  p & q\\
 \hline
-0 & 40 & 141\\
-1 & 35 & ...\\
-... & 30 & ...\\
-... & ... & ...\\
-... & ... & ...\\
+40 & 141\\
+45 & ...\\
+50 & ...\\
+55 & ...\\
+60 & ...\\
 \end{array}
 $$
-b) Detto $x$ il prezzo e $y$ la quantità settimanale venduta, disegna in un grafico cartesiano i punti della curva di domanda presenti nella tabella precedente.
+b) Posiziona i punti della curva di domanda della tabella precedente in un grafico cartesiano dove sull'asse orizzontale è riportata la quantità $q$ e su quello verticale il prezzo $p$​;
 
-c) Disegna il grafico cartesiano della curva di domanda delle bibite.
+c) Scrivi la funzione che lega la quantità di lattine vendute alla settimana $q$ (variabile dipendente) al prezzo $p$ (variabile indipendente) delle lattine; [R. $q = -\dfrac{12}{5}p + 237$].
 
-d) Quali considerazioni si possono fare a proposito della crescenza o decrescenza delle successioni?
+d) Se il prezzo diminuisse, cosa ci si può aspettare dalla quantità?
 
 
 
