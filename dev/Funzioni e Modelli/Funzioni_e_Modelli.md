@@ -71,10 +71,13 @@ Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola $c(75)$, $c(15
 
 a) Risolvi il punto a) dell'esercizio con i comandi: 
 
-1. $f(x) := x^2$ &#9166; 
-2. $\{f(0), f(1), f(-1), f(2), f(-2) \}$ &#9166;
+1. Inserisci la funzione $f(x) := x^2$​ &#9166; 
+2. Seleziona lo strumento GEOGEBRA "Tabella";
+3. Inserisci nella prima colonna della tabella GEOGEBRA "x" i valori della prima colonna della tabella dell'esercizio;
+4. Seleziona lo strumento GEOGEBRA "Algebra" e sul menu di riga della funzione $f(x)$ scegli "Tabella di valori";
+5. Viene automaticamente riempita la colonna dei valori di $f(x)$.
 
-b) Risolvi il punto d) dell'esercizio con i comandi:
+b) Risolvi il punto d) dell'esercizio con i comandi seguenti:
 
 1. $c(x) := 0.32x + 50$ &#9166; 
 2. $\{c(75), c(150), c(225), c(650)\}$ &#9166; . 
@@ -211,8 +214,8 @@ Risultato analogo si ottiene con i passi seguenti.
 
 1. Inserisci la funzione $f(x) := \dfrac{1}{2}x$ &#9166; 
 2. Seleziona lo strumento GEOGEBRA "Tabella";
-3. Inserisci nella prima colonna della tabella GEOGEBRA "$x$" i $5$ numeri a scelta;
-4. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
+3. Inserisci nella prima colonna della tabella GEOGEBRA "$x$" i $5$ numeri a scelta;
+4. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
 
 
 
@@ -226,7 +229,7 @@ b) Individua quali delle successioni indicate dalle tabelle sono crescenti e qua
 
 #### Laboratorio GEOGEBRA
 
-Risolvi l'esercizio ripercorrendo i passi seguenti.
+Risolvi l'esercizio eseguendo i passi seguenti.
 
 1. Seleziona lo strumento GEOGEBRA "Tabella";
 2. Inserisci nella prima colonna della tabella GEOGEBRA "x" i valori della prima colonna della prima tabella dell'esercizio;
@@ -250,9 +253,9 @@ b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 
 ### ESERCIZIO 3.4 - Prezzo delle bibite
 
-In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4\, \mbox{\euro}$, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti ci dice si che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che per ogni $5 \textcent$ in più le vendite settimanali si ridurrebbero di $12$ lattine.
+In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4\, \mbox{\euro}$, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti dice che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che ogni $5 \textcent$ di aumento sul prezzo, farebbe scendere le vendite settimanali di $12$ lattine.
 
-a) Indicando con $p$ il prezzo di una lattina e con $q$ il numero di lattine settimanali vendute, calcola le quantità vendute per i prezzi riportati in tabella.
+a) Indicando con $p$ il prezzo di una lattina e con $q$ il numero di lattine settimanali vendute, calcola le quantità vendute per i prezzi riportati in tabella.
 $$
 \begin{array}{c|c}  p & q\\
 \hline
@@ -265,7 +268,7 @@ $$
 $$
 b) Posiziona i punti della curva di domanda della tabella precedente in un grafico cartesiano dove sull'asse orizzontale è riportata la quantità $q$ e su quello verticale il prezzo $p$​;
 
-c) Scrivi la funzione che lega la quantità di lattine vendute alla settimana $q$ (variabile dipendente) al prezzo $p$ (variabile indipendente) delle lattine; [R. $q = -\dfrac{12}{5}p + 237$].
+c) Scrivi la funzione che lega la quantità di lattine vendute alla settimana $q$ (variabile dipendente) al prezzo $p$ (variabile indipendente) delle lattine; [R. $q = -\dfrac{12}{5}p + 237$].
 
 d) Se il prezzo diminuisse, cosa ci si può aspettare dalla quantità?
 
@@ -287,7 +290,7 @@ c) il numero di giorni necessari per l'esaurimento completo della scorta.
 
 Uno scienziato studia la diffusione di una epidemia in una piccola città con un modello lineare. Lo scienziato stima che all'inizio dello studio c'erano $3.700$ casi e $45$ nuovi casi al giorno. 
 
-a) Calcola il numero dei casi dopo $5, 10, 15$ ed $x$ giorni;
+a) Calcola il numero dei casi dopo $5, 10, 15$ ed $x$ giorni. Organizza i risultati in una tabella.
 
 b) Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la malattia richiede un trattamento con un farmaco ospedaliero. All'inizio dello studio, l'ospedale cittadino aveva $500$ dosi del farmaco. Secondo il modello dal punto precedente, quanti giorni possono passare prima che il farmaco finisca?
 
