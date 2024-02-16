@@ -90,9 +90,15 @@ Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute d
 
 Consideriamo ora il problema seguente: 
 
-In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
+Vediamo ora una situazione in cui al crescere di una quantità, l'altra diminuisce in modo che se una raddoppia l'altra si dimezza.
 
-Se indichiamo con la lettera $x$ il numero di operai di una cantiere e con $t$ il numero di giorni di lavoro dell cantiere, la relazione è $\dfrac{1}{16 \cdot 4} = \dfrac{1}{t \cdot x}$ che equivale a $t \cdot x = 64$, ossia $x \longrightarrow t = \dfrac{64}{x}$
+#### ESEMPIO
+
+In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$​ operai?
+
+Per analizzare questo problema, introduciamo una misura del lavoro necessario per realizzare qualcosa, il **giorno-persona**. Un giorno persona è la quantità di lavoro espresso da un lavoratore in un giorno, per cui se due persone lavorano due giorni per realizzare qualcosa, quel qualcosa richiede $4$ giorni persona di lavoro per essere realizzata. 
+
+Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non ili lavoro complessivo necessario, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $x \longrightarrow t = \dfrac{64}{x}$. Se calcoliamo la durata della costruzione in vari casi, abbiamo la tabella seguente.
 $$
 \begin{array}{c|c}
 \hline
@@ -112,7 +118,7 @@ Un caso molto importante di proporzionalità diretta lo abbiamo nel caso di un o
 
 In $10$ minuti, (che corrispondono a $10 \cdot \dfrac{1}{60} \cong 0,166$ ore, la macchina percorre $0,166 \cdot 60 \cong 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta t$ è una durata di tempo (nel nostro caso $10$ minuti), $v = 80\; Km/h$ è la velocità e $\Delta s$ è lo spazio percorso.
 
-Poiché la velocità è costante, si dice che la macchina percorre "spazi uguali in tempi uguali", cioè sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti, la macchina, in $10$ minuti, farà sempre $10$ Km, cosa che non succede se la macchina accelera.
+Poiché la velocità è costante, si dice che la macchina percorre "spazi uguali in tempi uguali", cioè sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti, la macchina, in $10$ minuti, farà sempre $10$​ Km, cosa che non succede se la macchina accelera.
 
 
 
@@ -188,7 +194,7 @@ $$
 $$
 Se consideriamo la differenza tra $5$ e $15$ ingressi, ossia $10$ ingressi ($\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), il costo passa da $100$ a $220$ euro, con un aumento di $\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$ euro; il rapporto tra i due incrementi è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$. 
 
-Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro.
+Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro.
 
 
 
