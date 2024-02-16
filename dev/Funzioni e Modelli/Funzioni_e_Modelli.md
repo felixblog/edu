@@ -86,7 +86,7 @@ b) Risolvi il punto d) dell'esercizio con i comandi seguenti:
 
 ## UNITA' 2: Proporzionalità diretta ed inversa
 
-Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 150\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $150 \% = 0,15$, ossia $\dfrac{y}{x} = 0,15$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $0,15$ della seconda.
+Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 250\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $250 \% = 2,5$, ossia $\dfrac{y}{x} = 2,5$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $2,5$ della seconda.
 
 Consideriamo ora il problema seguente: 
 
@@ -166,7 +166,7 @@ y = mx+q
 $$
 dove $m$ e $q$ sono due numeri.
 
-Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$. Vediamo un esempio.
+Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$, ed è pari ad $m$. Vediamolo con un esempio.
 
 #### ESEMPIO
 
@@ -186,7 +186,9 @@ $$
 5 & 25 &  340 \\  
 \end{array}
 $$
-Se consideriamo la differenza tra $5$ e $15$ ingressi ($\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), ossia $10$ ingressi, abbiamo un incremento di costo di $120$ euro ($\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$) ed il rapporto è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$; lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$), ossia $15$ ingressi, comporta un incremento di costo di $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante.
+Se consideriamo la differenza tra $5$ e $15$ ingressi, ossia $10$ ingressi ($\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), il costo passa da $100$ a $220$ euro, con un aumento di $\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$ euro; il rapporto tra i due incrementi è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$. 
+
+Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro.
 
 
 
