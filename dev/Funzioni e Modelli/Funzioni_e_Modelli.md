@@ -86,19 +86,27 @@ b) Risolvi il punto d) dell'esercizio con i comandi seguenti:
 
 ## UNITA' 2: Proporzionalità diretta ed inversa
 
-Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 250\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $250 \% = 2,5$, ossia $\dfrac{y}{x} = 2,5$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $2,5$ della seconda.
+Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 250\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $250 \% = 2,5$, ossia $\dfrac{y}{x} = 2,5$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $2,5$​ della seconda.
 
-Consideriamo ora il problema seguente: 
+Un altro importante esempio di grandezze direttamente proporzionali sono le distanze percorse ed il tempo impiegato per percorrerle quando ci si muove a velocità fissa (costante).
 
-Vediamo ora una situazione in cui al crescere di una quantità, l'altra diminuisce in modo che se una raddoppia l'altra si dimezza.
+#### ESEMPIO
+
+Consideriamo il caso di una automobile che si muove sempre con la stessa velocità (costante), senza accelerare, a $60 \; Km/h$. 
+
+In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \cong 0,166$ ore, la macchina percorre $0,166 \cdot 60 \cong 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre nel tempo $\Delta t$ (nel nostro caso $10$ minuti), alla velocità $v = 60\; Km/h.$ 
+
+Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti del viaggio, la macchina, farà sempre $10$ Km, cosa che non succede se la macchina accelera. Questa caratteristica è specifica dei movimenti a velocità costante, detti "**moti uniformi**": si dice anche che la macchina percorre "spazi uguali in tempi uguali" e se il tempo aumenta, aumenta anche lo spazio. $\blacksquare$
+
+Vediamo ora una situazione diversa, in cui al crescere di una quantità, l'altra diminuisce in modo che se una raddoppia l'altra si dimezza.
 
 #### ESEMPIO
 
 In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$​ operai?
 
-Per analizzare questo problema, introduciamo una misura del lavoro necessario per realizzare qualcosa, il **giorno-persona**. Un giorno persona è la quantità di lavoro espresso da un lavoratore in un giorno, per cui se due persone lavorano due giorni per realizzare qualcosa, quel qualcosa richiede $4$ giorni persona di lavoro per essere realizzata. 
+Per analizzare questo problema, introduciamo una misura del lavoro necessario per realizzare qualcosa, il **giorno-persona**. Un giorno persona è la quantità di lavoro espresso da un lavoratore in un giorno, per cui se due persone lavorano due giorni per realizzare qualcosa, quel qualcosa richiede $4$ giorni persona di lavoro per essere realizzata. 
 
-Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non ili lavoro complessivo necessario, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $x \longrightarrow t = \dfrac{64}{x}$. Se calcoliamo la durata della costruzione in vari casi, abbiamo la tabella seguente.
+Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non il lavoro complessivo necessario per realizzare la stessa opera, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $x \longrightarrow t = \dfrac{64}{x}$. Se calcoliamo la durata della costruzione in vari casi, abbiamo la tabella seguente.
 $$
 \begin{array}{c|c}
 \hline
@@ -112,13 +120,26 @@ x & t = \dfrac{64}{x} \\
 \end{array}
 $$
 
-Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante ed uguale a $64$​. Quando al variare di due quantità il loro **prodotto** resta costante si dice che le due quantità sono ***inversamente proporzionali***.
+Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante ed uguale a $64$​​. Quando al variare di due quantità il loro **prodotto** resta costante si dice che le due quantità sono ***inversamente proporzionali***.
 
-Un caso molto importante di proporzionalità diretta lo abbiamo nel caso di un oggetto che si muove con velocità fissa (costante), senza accelerare, ad esempio una macchina che viaggia su una strada sempre con la stessa velocità di $60 \; Km/h$. 
+Un altro caso importante di grandezze inversamente proporzionali è quello del tempo e della velocità nei moti uniformi.
 
-In $10$ minuti, (che corrispondono a $10 \cdot \dfrac{1}{60} \cong 0,166$ ore, la macchina percorre $0,166 \cdot 60 \cong 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta t$ è una durata di tempo (nel nostro caso $10$ minuti), $v = 80\; Km/h$ è la velocità e $\Delta s$ è lo spazio percorso.
+#### ESEMPIO
 
-Poiché la velocità è costante, si dice che la macchina percorre "spazi uguali in tempi uguali", cioè sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti, la macchina, in $10$ minuti, farà sempre $10$​ Km, cosa che non succede se la macchina accelera.
+Una macchina va da Latina a Roma la mattina e percorre la distanza di $60 \; Km$ in un'ora, andando ad una velocità media di $60 \; Km/h$. La sera rientra a Latina andando a $120 \; Km/h$​. Quanto tempo impiega?
+
+La formula di riferimento è sempre $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre (nei nostri due casi di andata e ritorno $60 \;Km$).
+
+$$
+\begin{array}{c|c}
+\hline\textbf{Velocita (Km/h) } & \textbf{Durata (h)} \\
+\hline
+60 & 1 \\
+120 & 0,5 \\
+\end{array}
+$$
+
+Come si vede la velocità raddoppia ed il tempo si dimezza. $\blacksquare$
 
 
 
@@ -129,8 +150,6 @@ a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lav
 b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6$ m^2^ ?
 
 c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
-
-
 
 ### ESERCIZIO 2.2 - Proporzionalità inversa
 
