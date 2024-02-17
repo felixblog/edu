@@ -71,16 +71,15 @@ Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola $c(75)$, $c(15
 
 a) Risolvi il punto a) dell'esercizio con i comandi: 
 
-1. Inserisci la funzione $f(x) := x^2$​ &#9166; 
-2. Seleziona lo strumento GEOGEBRA "Tabella";
-3. Inserisci nella prima colonna della tabella GEOGEBRA "x" i valori della prima colonna della tabella dell'esercizio;
-4. Seleziona lo strumento GEOGEBRA "Algebra" e sul menu di riga della funzione $f(x)$ scegli "Tabella di valori";
+1. Seleziona lo strumento GEOGEBRA "Tabella";
+2. Inserisci nella prima colonna della tabella GEOGEBRA "x" i valori della prima colonna della tabella dell'esercizio;
+3. Seleziona lo strumento GEOGEBRA "Algebra" ed inserisci la funzione $f(x) := x^2$;
+4. Sul menu di riga della funzione $f(x)$ scegli "Tabella di valori";
 5. Viene automaticamente riempita la colonna dei valori di $f(x)$.
 
-b) Risolvi il punto d) dell'esercizio con i comandi seguenti:
+b) Risolvi il punto d) dell'esercizio analogamente al precedente la con la funzione $c(x)$:
 
-1. $c(x) := 0.32x + 50$ &#9166; 
-2. $\{c(75), c(150), c(225), c(650)\}$ &#9166; . 
+1. $c(x) := 0.32x + 50$ &#9166;
 
 
 
@@ -96,7 +95,7 @@ Consideriamo il caso di una automobile che si muove sempre con la stessa velocit
 
 In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \cong 0,166$ ore, la macchina percorre $0,166 \cdot 60 \cong 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre nel tempo $\Delta t$ (nel nostro caso $10$ minuti), alla velocità $v = 60\; Km/h.$ 
 
-Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti del viaggio, la macchina, farà sempre $10$ Km, cosa che non succede se la macchina accelera. Questa caratteristica è specifica dei movimenti a velocità costante, detti "**moti uniformi**": si dice anche che la macchina percorre "spazi uguali in tempi uguali" e se il tempo aumenta, aumenta anche lo spazio. $\blacksquare$
+Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti del viaggio, la macchina, farà sempre $10$ Km, cosa che non succede se la macchina accelera. Questa caratteristica è specifica dei movimenti a velocità costante, detti "**moti uniformi**": si dice anche che la macchina percorre "spazi uguali in tempi uguali" e se il tempo aumenta, aumenta anche lo spazio. $ \bullet$
 
 Vediamo ora una situazione diversa, in cui al crescere di una quantità, l'altra diminuisce in modo che se una raddoppia l'altra si dimezza.
 
@@ -106,7 +105,9 @@ In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebb
 
 Per analizzare questo problema, introduciamo una misura del lavoro necessario per realizzare qualcosa, il **giorno-persona**. Un giorno persona è la quantità di lavoro espresso da un lavoratore in un giorno, per cui se due persone lavorano due giorni per realizzare qualcosa, quel qualcosa richiede $4$ giorni persona di lavoro per essere realizzata. 
 
-Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non il lavoro complessivo necessario per realizzare la stessa opera, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $x \longrightarrow t = \dfrac{64}{x}$. Se calcoliamo la durata della costruzione in vari casi, abbiamo la tabella seguente.
+Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non il lavoro complessivo necessario per realizzare la stessa opera, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $t = \dfrac{64}{x}$. $ \bullet$
+
+ Se calcoliamo la durata della costruzione in vari casi, abbiamo la tabella seguente.
 $$
 \begin{array}{c|c}
 \hline
@@ -139,7 +140,7 @@ $$
 \end{array}
 $$
 
-Come si vede la velocità raddoppia ed il tempo si dimezza. $\blacksquare$
+Come si vede la velocità raddoppia ed il tempo si dimezza. $ \bullet$
 
 
 
@@ -210,10 +211,10 @@ $$
 4 & 20 &  280 \\  
 5 & 25 &  340 \\  
 \end{array}
-$$
+$$ { \bullet$}
 Se consideriamo la differenza tra $5$ e $15$ ingressi, ossia $10$ ingressi ($\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), il costo passa da $100$ a $220$ euro, con un aumento di $\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$ euro; il rapporto tra i due incrementi è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$. 
 
-Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro.
+Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro. $ \bullet$
 
 
 
@@ -232,17 +233,13 @@ b) Individua quali delle successioni trovate sono crescenti e quali decrescenti.
 
 a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di volta in volta la funzione $f(x)$.
 
-1. $f(x) := x$ &#9166; 
-2. $\{(0,f(0)), (2, f(-2)), (-2, f(-2)), (4,f(4)), (-4, f(-4)) \})$ &#9166; 
+1. Seleziona lo strumento GEOGEBRA "Tabella";
+2. Inserisci nella prima colonna della tabella GEOGEBRA "$x$" i $5$​ numeri a scelta;
+3. Seleziona lo strumento GEOGEBRA "Algebra" ed inserisci la funzione $f(x) := \dfrac{1}{2}x$;
+4. Sul menu di riga della funzione $f(x)$ scegli "Tabella di valori";
+5. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
 
 <img src="img\Dipendenza-Lineare.png" alt="Dipendenza-Lineare" style="zoom:15%;" />
-
-Risultato analogo si ottiene con i passi seguenti.
-
-1. Inserisci la funzione $f(x) := \dfrac{1}{2}x$ &#9166; 
-2. Seleziona lo strumento GEOGEBRA "Tabella";
-3. Inserisci nella prima colonna della tabella GEOGEBRA "$x$" i $5$ numeri a scelta;
-4. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
 
 
 
@@ -358,8 +355,16 @@ c) $y = -2|x|$.
 
 a) Risolvi il punto a) dell'esercizio con i seguenti comandi GEOGEBRA:
 
+1. Seleziona lo strumento GEOGEBRA "Tabella";
+2. Inserisci nella prima colonna della tabella GEOGEBRA "$x$" i $5$​ numeri a scelta;
+3. Seleziona lo strumento GEOGEBRA "Algebra" ed inserisci la funzione $f(x) := 2 \cdot |x|$;
+4. Sul menu di riga della funzione $f(x)$ scegli "Tabella di valori";
+5. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
+
+Alla stessa conclusione si arriva con la sequenza di comandi seguente (calcolatrice GRAFICA):
+
 1. $f(x) := 2 \cdot |x|$ &#9166; 
-2. $L=Successione((k,f(k)),k,-5,5,1)$ &#9166; 
+2. $Compatta( (k,f(k)), k, d )$ &#9166; 
 
 
 
@@ -401,9 +406,11 @@ d) QUOTA ISCRIZIONE. L'iscrizione ad una piscina costa 250 euro per le 12 settim
 
 a) Risolvi il punto a) dell'esercizio con la seguente sequenza di comandi GEOGEBRA (calcolatrice GRAFICA):
 
-1. $f(n) := Se(n<0, 1, 3n+1)$
-2. $d = \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$ &#9166; 
-3. $Compatta( (k,f(k)), k, d )$ &#9166;
+1. Seleziona lo strumento GEOGEBRA "Tabella";
+2. Inserisci nella prima colonna della tabella GEOGEBRA "$x$​" i numeri $\{0, 1, -1, 2, -2, 3, -3, 4, -4\}$​;
+3. Seleziona lo strumento GEOGEBRA "Algebra" ed inserisci la funzione $f(n) := Se(n<0, 1, 3n+1)$;
+4. Sul menu di riga della funzione $f(x)$ scegli "Tabella di valori";
+5. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
 
 <img src="img\funzione-definita-tratti-successione.png" alt="funzione-definita-tratti-successione" style="zoom:15%;" />    <img src="img\funzione-definita-tratti.png" alt="funzione-definita-tratti" style="zoom:15%;" />
 
@@ -411,9 +418,11 @@ b) Risolvi il punto b) dell'esercizio con il comando GEOGEBRA: $f(x) := Se(n<=-1
 
 c) Risolvi il punto c) dell'esercizio con la sequenza seguente di comandi GEOGEBRA:
 
-1. $c(x) := Se(1000<=x<10000, 50x, Se(10001<=x<20000, 40x, Se(20001<=x<50000, 35x)))$
-2. $d = \{2000, 5500, 7000, 23000, 45000\}$ &#9166; 
-3. $Compatta( (x,c(x)), k, d )$ &#9166;
+1. Seleziona lo strumento GEOGEBRA "Tabella";
+2. Inserisci nella prima colonna della tabella GEOGEBRA "$x$" i numeri $\{2000, 5500, 7000, 23000, 45000\}$;
+3. Inserisci la funzione $c(x) := Se(1000<=x<10000, 50x, Se(10001<=x<20000, 40x, Se(20001<=x<50000, 35x)))$&#9166;
+4. Seleziona lo strumento GEOGEBRA "Algebra" e sul menu di riga della funzione $f(x)$ scegli "Tabella di valori";
+5. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
 
 
 
@@ -444,7 +453,9 @@ Negli esercizi che seguono $y$ indica il costo sostenuto da un soggetto ed $x$ d
 $$
 y = mx+q
 $$
-dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei costi che varia con il numero degli oggetti/servizi acquistati e $q$ è una parte che non varia (quota fissa).
+dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei costi che varia con il numero degli oggetti/servizi acquistati e $q$​ è una parte che non varia (quota fissa).
+
+
 
 ### ESERCIZIO 5.1 - Applicazioni varie
 

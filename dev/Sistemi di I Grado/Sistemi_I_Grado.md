@@ -44,7 +44,7 @@ a) $x + y = 5, \{x = 0\} \longrightarrow (0) + y = 5 \longrightarrow y = 5$;
 
 b) $x + y = 5, \{x = 1\} \longrightarrow (1) + y = 5 \longrightarrow y = 5 -1 \longrightarrow y = 4$;
 
-Le due soluzioni trovate sono $(0,5)$ e $(1, 4)$.
+Le due soluzioni trovate sono $(0,5)$ e $(1, 4)$. $ \bullet$
 
 
 
@@ -82,17 +82,19 @@ b) Trova due soluzioni dell'equazione $y+3(y+x)=-1$.
 
 Spesso è utile scrivere una equazione con due incognite in una forma diversa da quella originale, detta ***forma esplicita*** (rispetto ad una incognita). L'equazione in forma esplicita deve essere equivalente a quella originale, ossia deve avere le stesse soluzioni, ma una forma diversa: $y = \text{... in x}$.
 
-#### ESEMPI
+#### ESEMPIO
 
-Equazione originale: $y + x = 1$,  forma esplicita (rispetto ad $y$):  $y = 1 - x$.
-
-Equazione originale: $0 = 2y + x$,  forma esplicita (rispetto ad $y$):  $y = -\dfrac{1}{2}x$.
-
-La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equazione rispetto all'incognita da esplicitare come se questa fosse l'unica incognita.
+Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che viene detta esplicitazione dell'equazione rispetto all'incognita $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria. $ \bullet$
 
 #### ESEMPIO
 
-Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che viene detta esplicitazione dell'equazione rispetto all'incognita $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria.
+Equazione originale: $0 = 2y + x$,  forma esplicita (rispetto ad $y$):  $y = -\dfrac{1}{2}x$.
+
+La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equazione rispetto all'incognita da esplicitare come se questa fosse l'unica incognita. $ \bullet$
+
+
+
+
 
 ### ESERCIZIO 2.1 - Esplicitazione di incognita
 
@@ -140,7 +142,7 @@ c) $x +3 +6x = 10 \longrightarrow 7x = 7 \longrightarrow x = 1$.
 
 d) $(x, -1-2x), \{x = 1\} \longrightarrow (1, -1 - 2(1)) \longrightarrow (1, -3)$.
 
-La coppia $(1, -3)$ è una soluzione numerica di entrambe le equazioni e di conseguenza del sistema.
+La coppia $(1, -3)$ è una soluzione numerica di entrambe le equazioni e di conseguenza del sistema.
 
 
 
