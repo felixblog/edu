@@ -3,6 +3,36 @@
 
 ## UNITA' 1: Problemi ed equazioni
 
+### ESERCIZIO 1.4 - Problemi risolubili con e senza l'uso di equazioni
+
+Risolvi i problemi seguenti sia impostando una equazione che senza usare le equazioni.
+
+a) Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro. Antonio ha 12 euro in più di Maria. Quanti euro ha  Maria?
+
+b) Un padre ha il doppio dell'età del figlio. Sapendo che il padre ha 32 anni più del figlio, calcola l'età di entrambi. [Sugg. Se il padre ha il doppio dell'età del figlio, la differenza tra l'età del padre e quella del figlio è uguale all'età del figlio.]
+
+c) In una industria ci sono operai ed impiegati; gli operai superano di 1000 il numero degli impiegati; sapendo che gli operai sono il quintuplo degli impiegati, calcola il numero degli impiegati e degli operai.
+
+d) Con 20 kg di frutta si confeziona della marmellata. Aggiungendo lo zucchero e facendo bollire si ottiene 1 kg di marmellata ogni 2 kg di frutta. Si sistema la marmellata ottenuta in barattoli che contengono 5 hg di marmellata ognuno. Quanti barattoli sono necessari?
+
+e) La somma di quattro numeri è di 190; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo. Calcola i quattro numeri.
+
+f) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i regali per i clienti da più di un anno?
+
+
+
+### ESERCIZIO 1.3 - Problemi su sconti e percentuali
+
+Risolvi i seguenti problemi
+
+a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?  
+
+b) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?  
+
+c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del 40%, quale dei due è più conveniente?
+
+d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?          [R. € 80 000]
+
 
 
 ### ESERCIZIO 1.1 - Problemi sui numeri
@@ -41,38 +71,6 @@ c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell�
 d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
 
 e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
-
-
-
-
-### ESERCIZIO 1.3 - Problemi su sconti e percentuali
-Risolvi i seguenti problemi
-
-a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?  
-
-b) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?  
-
-c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del 40%, quale dei due è più conveniente?
-
-d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?          [R. € 80 000]
-
-
-
-### ESERCIZIO 1.4 - Problemi risolubili senza l'uso di equazioni
-
-Risolvi i problemi seguenti.
-
-a) Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro. Antonio ha 12 euro in più di Maria. Quanti euro ha  Maria?
-
-b) Un padre ha il doppio dell'età del figlio. Sapendo che il padre ha 32 anni più del figlio, calcola l'età di entrambi. [Sugg. Se il padre ha il doppio dell'età del figlio, la differenza tra l'età del padre e quella del figlio è uguale all'età del figlio.]
-
-c) In una industria ci sono operai ed impiegati; gli operai superano di 1000 il numero degli impiegati; sapendo che gli operai sono il quintuplo degli impiegati, calcola il numero degli impiegati e degli operai.
-
-d) Con 20 kg di frutta si confeziona della marmellata. Aggiungendo lo zucchero e facendo bollire si ottiene 1 kg di marmellata ogni 2 kg di frutta. Si sistema la marmellata ottenuta in barattoli che contengono 5 hg di marmellata ognuno. Quanti barattoli sono necessari?
-
-e) La somma di quattro numeri è di 190; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo. Calcola i quattro numeri.
-
-f) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i regali per i clienti da più di un anno?
 
 
 
