@@ -3,21 +3,69 @@
 
 ## UNITA' 1: Problemi ed equazioni
 
-### ESERCIZIO 1.4 - Problemi risolubili con e senza l'uso di equazioni
+In questo capitolo si esamineranno una serie di problemi risolubili mediante una equazione di I grado. Vediamo subito un esempio.
 
-Risolvi i problemi seguenti sia impostando una equazione che senza usare le equazioni.
+#### ESEMPIO 1
 
-a) Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro. Antonio ha 12 euro in più di Maria. Quanti euro ha  Maria?
+Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?
 
-b) Un padre ha il doppio dell'età del figlio. Sapendo che il padre ha 32 anni più del figlio, calcola l'età di entrambi. [Sugg. Se il padre ha il doppio dell'età del figlio, la differenza tra l'età del padre e quella del figlio è uguale all'età del figlio.]
+La soluzione di questo problema è semplice, ma vediamo alcune sue caratteristiche. La prima cosa da notare è <u>cosa ci chiede di trovare</u>, ossia l'**obiettivo** da trovare, che è la soluzione dell'esercizio: l'età della figlia di Maria.
 
-c) In una industria ci sono operai ed impiegati; gli operai superano di 1000 il numero degli impiegati; sapendo che gli operai sono il quintuplo degli impiegati, calcola il numero degli impiegati e degli operai.
+Per calcolare l'obiettivo ci vengono fornite certe informazioni; la prima è una "**condizione**" che deve essere soddisfatta, ossia che deve essere "vera", qualunque sia il valore dell'obiettivo: $50$ è il doppio della quantità 'obiettivo.
 
-d) Con 20 kg di frutta si confeziona della marmellata. Aggiungendo lo zucchero e facendo bollire si ottiene 1 kg di marmellata ogni 2 kg di frutta. Si sistema la marmellata ottenuta in barattoli che contengono 5 hg di marmellata ognuno. Quanti barattoli sono necessari?
+Considerata la condizione, l'obiettivo può essere $10$? No, perché il doppio di $10$ non è $50$ e quindi non soddisfa la condizione (non <u>rende la condizione vera</u>). Può essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Può solo essere $25$ ossia la metà di $50$​, che sarà l'età della figlia di Maria.
 
-e) La somma di quattro numeri è di 190; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo. Calcola i quattro numeri.
+Se indichiamo con "$x$" la quantità obiettivo che stiamo cercando, la traduzione in simboli della condizione è:
+$$
+50 = 2 \cdot x
+$$
+Questa è una equazione (detta "equazione risolutiva del problema"), che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$. Come si vede la soluzione dell'equazione è la quantità obiettivo che stavamo cercando , cioè la soluzione del problema. $ \bullet$
 
-f) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i regali per i clienti da più di un anno?
+Questo è un caso particolarmente semplice perché la condizione è direttamente contenuta nel testo. In altri casi bisogna far ricorso a conoscenze pregresse. Vediamo un secondo esempio.
+
+#### ESEMPIO 2
+
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono stati i costi?
+
+La quantità obiettivo è data dai costi annui, ma per risolvere questo problema è necessario individuare una condizione che sia vera qualunque sia il valore della quantità obiettivo. Tale condizione, che "condiziona" i nostri costi, è la formula che lega ricavi (fatturato), utile e costi in un periodo:
+$$
+Utile = Ricavi - Costi
+$$
+Indicando con $x$ l'obiettivo (i costi), abbiamo che la soluzione del problema è data dalla soluzione dell'equazione seguente:
+$$
+2.100.000 \cdot 20\%= 2.100.000 - x
+$$
+cioè $x = 2.100.000 - 420.000 \longrightarrow 1.680.000$ euro. $ \bullet$
+
+In altri problemi, oltre alla quantità obiettivo, abbiamo altre quantità da considerare che dipendono dall'obiettivo e che fanno parte della condizione.
+
+#### ESEMPIO 3
+
+In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati; sapendo che gli operai sono il quintuplo degli impiegati, calcola il numero degli impiegati e degli operai.
+
+Gli obiettivi sembrano due, numero degli impiegati e numero degli operai, ma in realtà questi non sono "indipendenti", cioè se ne conosciamo uno l'altro lo troviamo facilmente, perchè se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via. 
+
+Possiamo dire quindi che se gli impiegati sono $x$, gli operai sono $1000 + x$, in cui si vede chiaramente che il numero degli operai "dipende" dal numero degli impiegati.
+
+La condizione cui devono sottostare il numero degli operai e degli impiegati è che "gli operai sono il quintuplo degli impiegati", qualunque sia il loro numero. Tradotto in simboli abbiamo:
+$$
+1000 + x = 5 \cdot x
+$$
+Questa equazione ha soluzione $x = \dfrac{1000}{4} \longrightarrow 250$. $ \bullet$​
+
+
+
+### ESERCIZIO 1.4 - Problemi risolubili con una equazione di I grado
+
+a) Risolvi i problemi seguenti impostando una equazione.
+
+1. Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro. Antonio ha 12 euro in più di Maria. Quanti euro ha  Maria? 
+2. Un padre ha il doppio dell'età del figlio. Sapendo che il padre ha 32 anni più del figlio, calcola l'età di entrambi. [Sugg. Se il padre ha il doppio dell'età del figlio, la differenza tra l'età del padre e quella del figlio è uguale all'età del figlio.]
+3. Con 20 kg di frutta si confeziona della marmellata. Aggiungendo lo zucchero e facendo bollire si ottiene 1 kg di marmellata ogni 2 kg di frutta. Si sistema la marmellata ottenuta in barattoli che contengono 5 hg di marmellata ognuno. Quanti barattoli sono necessari?
+4. La somma di quattro numeri è di 190; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo. Calcola i quattro numeri.
+5. Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i regali per i clienti da più di un anno?
+
+b) Risolvi i problemi seguenti a.1), a.2) a.3) ed a.4) senza usare le equazioni.
 
 
 
