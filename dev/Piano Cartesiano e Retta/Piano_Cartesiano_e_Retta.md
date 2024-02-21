@@ -34,9 +34,9 @@ $$
 
 <img src="img/Soluzioni-e-no.png" alt="Soluzioni-e-no" style="zoom:15%;" />
 
-Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.
+Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite. $ \bullet$
 
-Il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione della retta si chiama "grafico dell'equazione della retta" o più semplicemente **grafico della retta**.
+Il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione di I grado si chiama "grafico dell'equazione" e poiché il grafico è geometricamente una retta, si chiama **grafico della retta**.
 
 
 
@@ -93,13 +93,13 @@ Passo 4: Verrà riempita una nuova colonna $f(x)$ della tabella con i valori del
 
 
 
-## UNITA' 2: La retta e la sua equazione
+## UNITA' 2: Dall'equazione alla retta
 
 Una retta geometrica è un insieme di punti allineati. In un piano cartesiano, i punti di una retta hanno le coordinate che sono soluzioni di una equazione della forma che segue:
 $$
 y = mx+q
 $$
-detta ***equazione (in forma esplicita) della retta***. Le lettere $m$ e $q$ rappresentano due numeri qualsiasi per cui quelle che seguono sono tutte equazioni di rette.
+detta ***equazione (generica) della retta in forma esplicita***. Le lettere $m$ e $q$ rappresentano due numeri qualsiasi per cui quelle che seguono sono tutte equazioni di rette.
 
 #### ESEMPI
 
@@ -112,7 +112,7 @@ Individuiamo $m$ e $q$ nelle equazioni che seguono:
 Sono due i primi problemi che ci si presentano quando si parla di rette ed equazioni:
 
 1. Data una equazione di I grado, disegnare nel piano la retta geometrica associata;
-2. Data una retta geometrica (cioè almeno le coordinate di due punti su cui passa la retta) scrivere l'equazione associata, in forma esplicita.
+2. Data una retta geometrica (cioè le coordinate di due punti su cui passa la retta) scrivere l'equazione associata, in forma esplicita.
 
 Risolviamo il primo problema. 
 
@@ -136,7 +136,11 @@ x & y \\
 1 & -3 \\
 \end{array}
 $$
+Abbiamo il risultato seguente. $ \bullet$
+
 <img src="img/Retta-per-2-punti.png" alt="Retta-per-2-punti" style="zoom:15%;" />
+
+
 
 #### ESEMPIO
 
@@ -148,7 +152,7 @@ b)  $-2y = 4x - 3$;
 
 c)  $-\dfrac{1}{2} \cdot (-2y) = -\dfrac{1}{2} \cdot (4x - 3)$;
 
-d) $y = -2x + \dfrac{3}{2}$.
+d) $y = -2x + \dfrac{3}{2}$. $ \bullet$
 
 
 
@@ -216,11 +220,11 @@ b) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y = \dfrac{1
 
 ## UNITA' 4: Dalla retta all'equazione
 
-Le lettere $m$ e $q$ nell'equazione della retta generica indicano due numeri molto importanti che si chiamano rispettivamente ***coefficiente angolare*** ed ***intercetta all'asse delle $\mathbf{y}$***. Ribadiamo che per poter parlare di coefficiente angolare ed intercetta all'asse delle $y$ l'equazione deve essere nella forma $y = \text{numero} \cdot x + \text{numero}$.
+Le lettere $m$ e $q$ nell'equazione della retta generica indicano due numeri molto importanti che si chiamano rispettivamente ***coefficiente angolare*** ed ***intercetta all'asse delle $\mathbf{y}$***. Ricorda che per poter parlare di coefficiente angolare ed intercetta all'asse delle $y$, l'equazione deve essere nella forma $y = \text{numero} \cdot x + \text{numero}$.
 
-L'equazione $y = mx + q$ + detta ***generica*** perché avendo solo lettere, non indica nessuna retta del piano. In questo caso, poiché le equazioni delle rette hanno tutte la stessa forma, l'unica cosa che le distingue sono i valori delle lettere $m$ e $q$. Ogni volta che sostituiamo ad $m$ e $q$ due numeri, otteniamo una retta specifica che è possibile disegnare nel piano.
+L'equazione $y = mx + q$ si chiama ***generica*** perché avendo solo lettere, non indica nessuna retta del piano. Poiché le rette hanno equazioni esplicite tutte della stessa forma, l'unica cosa che le distingue sono i valori delle lettere $m$ e $q$ e ogni volta che sostituiamo ad $m$ e $q$ due numeri, otteniamo una retta specifica che è possibile disegnare nel piano.
 
-Per avere la retta specifica che passa per due punti di cui abbiamo le coordinate i numeri $m$ e $q$ si calcolano con le formule seguenti. Se i punti hanno coordinate $(x_1, y_1)$ e $(x_2, y_2)$ abbiamo:
+Per avere la retta specifica che passa per due punti di cui abbiamo le coordinate, diciamo $(x_1, y_1)$ e $(x_2, y_2)$, i numeri $m$ e $q$ si calcolano con le formule seguenti. :
 $$
 \left\{  
 \begin{array}{l} 
@@ -229,6 +233,21 @@ q = y_2 - m \cdot x_2 \\
 \end{array} 
 \right.
 $$
+
+#### ESEMPIO
+
+Se abbiamo i punti $P_1 = (0,0)$ e $P_2 = (2,1)$, e $x_1=0, y_1=0, x_2=2, y_2=1$, sostituendo nelle formule precedenti:
+$$
+\left\{  
+\begin{array}{l} 
+m = \dfrac{1 - 0}{2 - 0} =\dfrac{1}{2} \\  
+q = 1 - \dfrac{1}{2} 2 = 0 \\   
+\end{array} 
+\right.
+$$
+
+Per cui l'equazione della a retta cercata è $y = \dfrac{1}{2}x$.  $ \bullet$
+
 
 
 ### ESERCIZIO 4.1 - Coefficiente angolare di una retta
@@ -286,9 +305,13 @@ Se proviamo a disegnare (anche con GEOGEBRA) le tre rette seguenti, che hanno tu
 
 <img src="img/q.png" alt="q" style="zoom: 20%;" />
 
-L'altezza dei punti di intersezione corrisponde a $(0,q)$ dove $q$ è parametro di ogni retta.
+L'altezza dei punti di intersezione corrisponde a $(0,q)$ dove $q$ è parametro di ogni retta. $ \bullet$
 
-Il coefficiente angolare invece determina l'angolo di inclinazione della retta rispetto all'asse orizzontale. Se $m$ è positivo la retta è inclinata verso l'alto; se è negativo è inclinata verso il basso e se è pari a zero la retta è orizzontale, come si vede dal grafico seguente dove sono disegnate le rette
+Il coefficiente angolare determina l'angolo di inclinazione della retta rispetto all'asse orizzontale. Se $m$ è positivo la retta è inclinata verso l'alto; se è negativo è inclinata verso il basso e se è pari a zero la retta è orizzontale.
+
+#### ESEMPIO
+
+Osserviamo il grafico seguente dove sono disegnate le rette riportate di sotto.
 
 1. $y = 3x -2$,    $m = 3$ e $q = -2$;
 2. $y = -3x -2$,    $m = -3$ e $q = -2$;
@@ -296,7 +319,7 @@ Il coefficiente angolare invece determina l'angolo di inclinazione della retta r
 
 <img src="img/m.png" alt="m" style="zoom:20%;" />
 
-Poiché l'inclinazione di una retta sull'asse orizzontale dipende dal suo coefficiente angolare, abbiamo che tutte le retta che hanno lo stesso coefficiente angolare hanno la stessa inclinazione, per cui sono tutte parallele. Questo lo si vede anche dalla prima figura. In pratica la condizione di parallelismo di due rette è: "due rette sono parallele se e solo se le loro equazioni in forma esplicita hanno lo stesso coefficiente angolare".
+Poiché l'inclinazione di una retta sull'asse orizzontale dipende dal suo coefficiente angolare, abbiamo che tutte le retta che hanno lo stesso coefficiente angolare hanno la stessa inclinazione, per cui sono tutte parallele. Questo lo si vede anche dalla prima figura. In pratica la condizione di parallelismo di due rette è: "due rette sono parallele se e solo se le loro equazioni in forma esplicita hanno lo stesso coefficiente angolare". $ \bullet$
 
 Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$
 
@@ -350,7 +373,7 @@ Il loro grafico è il seguente.
 
 <img src="img/Interzezione-Rette.png" alt="Interzezione-Rette" style="zoom:20%;" />
 
-Come si vede la soluzione del sistema coincide con le coordinate del punto di intersezione delle due rette.
+Come si vede la soluzione del sistema coincide con le coordinate del punto di intersezione delle due rette. $ \bullet$
 
 Anche gli assi cartesiani sono rette ed hanno la loro equazione associata. L'equazione associata all'asse orizzontale, l'asse delle $x$, è $y=0$ mentre quella associata all'asse verticale (delle $y$) è $x=0$: come si può verificare facilmente, le coordinate di tutti i punti posizionati sull'asse verticale, ad esempio $(0, -3)$ oppure $(0, 5)$, sono soluzione dell'equazione $x + 0 \cdot y = 0 \longrightarrow x=0$ e tutti quelli posizionati sull'asse orizzontale, esempio $(-5, 0)$ oppure $(1,0)$ sono soluzione di $y + 0 \cdot x = 0 \longrightarrow y=0$.
 
@@ -474,7 +497,7 @@ Consideriamo la figura seguente che riporta il grafico della retta $y = -2x -1$.
 
 Il punto della retta $(1,-3)$ non sta nel semipiano positivo, quindi $1$, l'ascissa del punto, non è nell'intervallo di positività della retta; la stessa cosa si può dire di $(0,-1)$: $0$ non è nell'intervallo di positività della retta. Invece $(-2, 3)$ è nel semipiano positivo, quindi $-2$ è nell'intervallo di positività della retta.
 
-Sempre in riferimento alla figura, poiché la retta interseca l'asse orizzontale nel punto $(-\dfrac{1}{2},0)$ possiamo dire che l'intervallo di positività della retta $y = -2x -1$ è formato da tutte le $x$ minori di $-\dfrac{1}{2}$, ossia è l'intervallo $(-\infty, -\dfrac{1}{2})$​ dell'asse delle $x$ (orizzontale).
+Sempre in riferimento alla figura, poiché la retta interseca l'asse orizzontale nel punto $(-\dfrac{1}{2},0)$ possiamo dire che l'intervallo di positività della retta $y = -2x -1$ è formato da tutte le $x$ minori di $-\dfrac{1}{2}$, ossia è l'intervallo $(-\infty, -\dfrac{1}{2})$ dell'asse delle $x$ (orizzontale). $ \bullet$
 
 
 

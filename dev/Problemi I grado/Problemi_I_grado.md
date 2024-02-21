@@ -113,8 +113,8 @@ Le parole chiave per determinare quale quantità sconosciuta ti viene chiesto di
 - **Quanti soldi** erano rimasti?  La quantità è l'"Importo Monetario";
 - **Trova** le **dimensioni** del rettangolo  Si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - **Quali** sono le **lunghezze** delle due barre?  Si parla di due quantità, entrambe "Lunghezza di Barra";
-- **Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato";
--  **Determinare l'aumento percentuale** del prezzo unitario -> Una quantità: "Percentuale di aumento del prezzo".
+- **Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato". Dell'importo risparmiato conosciamo anche la misura, $200$ euro, della durata no;
+-  **Determinare l'aumento percentuale** del prezzo unitario. Una quantità: "Percentuale di aumento del prezzo".
 
 Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre misure. Più particolari sono le percentuali, indicate come "percentuali", che sono dei rapporti. $ \bullet$
 
@@ -124,7 +124,7 @@ Come si vede, le somme di denaro vengono indicate come "importi", i periodi di t
 
 ​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
 
-La prima è l'"Importo Eredità del Marito" e la sua misura è 20.000 euro, la seconda è l'"Importo Eredità Figlio" che misura 12.000.
+La prima è l'"Importo Eredità del Marito" e la sua misura è 20.000 euro, la seconda è l'"Importo Eredità Figlio" che misura 12.000 euro.
 
 - Di quali quantità si parla nella frase seguente?
 
@@ -206,7 +206,7 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 
 
 
 
-## UNITA' 3: I problemi sulle età
+## UNITA' 3: Problemi sulle età
 
 
 ### ESERCIZIO 3.1 - Problemi sulla rappresentazione dell'età I
@@ -248,7 +248,7 @@ c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre 
 
 
 
-## UNITA' 4: I problemi sulla produttività del lavoro
+## UNITA' 4: Problemi sulla produttività del lavoro
 
 La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di $n$ unità è data dalla somma delle singole produttività. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
@@ -283,7 +283,7 @@ b) I dipendenti di una azienda ricevono uno stipendio medio mensile di € 1300.
 
 
 
-## UNITA' 5: I problemi su moto e velocità
+## UNITA' 5: Problemi su moto e velocità
 
 
 ### ESERCIZIO 5.1 - Problemi sul moto e sulla velocità
@@ -301,7 +301,7 @@ e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore vie
 
 
 
-## UNITA' 6: I problemi su interesse ed investimenti
+## UNITA' 6: Problemi su interesse ed investimenti
 
 ### ESERCIZIO 6.1 - Problemi su interesse ed investimenti I
 Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplifica.
