@@ -104,15 +104,14 @@ Bisogna individuare:
 2. Di quali quantità si conosce anche la misura (detta anche valore o **dato**) e di quali no;
 2. Quali sono le dipendenze tra le quantità. 
 
-Analizzando la domanda che viene posta, la prima cosa da fare è individuare la quantità richiesta, distinguendo tra il suo concetto ("Quantità di ...qualcosa") e la sua misura ("Valore della quantità"), che è un numero e dipende dall'unità di misura.
-Le parole chiave per determinare quale quantità sconosciuta ti viene chiesto di trovare sono "quanti", "quanto", "cos'è", "trova", "quanto tempo".
+Una quantità è diversa da un numero: la quantità è un concetto (abbiamo lunghezze, pesi, importi, ecc.) il numero corrispondente è la sua misura (o valore della quantità), dipende dall'unità di misura e può essere noto oppure no.
 
 #### ESEMPIO 1
 
 - **Quanti giornali** ha venduto?  La quantità è il "Numero di Copie Vendute"
 - **Quanti soldi** erano rimasti?  La quantità è l'"Importo Monetario";
-- **Trova** le **dimensioni** del rettangolo  Si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
-- **Quali** sono le **lunghezze** delle due barre?  Si parla di due quantità, entrambe "Lunghezza di Barra";
+- **Trova le dimensioni** del rettangolo  Si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
+- **Quali** sono le **lunghezze** delle due barre?  Si parla di due quantità, entrambe "Lunghezza di una Barra";
 - **Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato". Dell'importo risparmiato conosciamo anche la misura, $200$ euro, della durata no;
 -  **Determinare l'aumento percentuale** del prezzo unitario. Una quantità: "Percentuale di aumento del prezzo".
 
@@ -159,15 +158,15 @@ Se $LunPalo$ lo chiamiamo $x$, la dipendenza è indicata con con l'espressione $
 
 L'ultimo passo è quello della traduzione della condizione da testo in simboli matematici. La condizione può essere una uguaglianza di una quantità, scritta come espressione letterale in $x$, con un numero o con un'altra quantità.
 
-ESEMPIO 4
+#### ESEMPIO 4
 
- "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga 5 metri."
+ "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri."
 
 Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$ da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo l'equazione:
 $$
 x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
 $$
-che ha soluzione $12$. Il grafico delle dipendenze è il seguente.
+che ha soluzione $12$. Il grafico delle dipendenze è il seguente. $ \bullet$
 
 ```mermaid
 graph LR

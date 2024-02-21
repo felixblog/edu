@@ -1,6 +1,6 @@
 # Funzioni Elementari e Modelli Matematici
 
-## UNITA' 1: Modelli matematici di relazioni
+## UNITA' 1: Modelli matematici e funzioni
 
 Nei capitoli precedenti abbiamo incontrato problemi come quelli riportati di seguito:
 
@@ -32,15 +32,15 @@ $$
 $$
 f(x) = 250\% \cdot x
 $$
-La $x$ tra parentesi indica la lettera da sostituire per calcolare i valori, per cui $f(50)$ significa automaticamente la sostituzione e calcolo seguente: $f(50) = 250 \% \cdot x, \{x = 50\} \longrightarrow 250 \% \cdot 50 \longrightarrow 125$, cioè in breve
+La $x$ tra parentesi indica la lettera da sostituire per calcolare i valori, per cui $f(50)$ indica il numero ottenuto dalle operazioni di sostituzione e calcolo come nel caso seguente: $f(50) = 250 \% \cdot x, \{x = 50\} \longrightarrow 250 \% \cdot 50 \longrightarrow 125$, cioè in breve
 $$
 f(50) = 125
 $$
-L'espressione $f(x)$ ha la capacità di associare ad un numero messo al posto di $x$ un solo altro numero risultato del calcolo dell'espressione; questa corrispondenza, si chiama ***<u>funzione</u>*** tra la variabile $x$ e la variabile $y$ e si indica
-$$
-y = f(x)
-$$
-La tabella delle torte è un esempio di calcolo della funzione $f(x) = 250\% \cdot x$ su un campione di valori possibili della $x$.
+Quello appena visto è un esempio di ***funzione***, che si definisce come "**una regola che associa ad un primo numero un solo altro secondo numero**".
+
+Nei casi che vedremo, la regola consiste nella sostituzione del primo numero alla lettera di una espressione letterale e nel calcolo dell'espressione numerica che si ottiene: il risultato è il secondo numero associato al primo.
+
+La tabella delle torte è un esempio di calcolo della funzione $f(x) = 250\% \cdot x$ su un campione di valori possibili della $x$, per cui a $10$ è associato $25$, a $100$ è associato $250$ etc.
 
 
 
@@ -192,13 +192,11 @@ y = mx+q
 $$
 dove $m$ e $q$ sono due numeri.
 
-Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$, ed è pari ad $m$. Vediamolo con un esempio.
-
-#### ESEMPIO
+#### ESEMPIO 1
 
 Una palestra applica i prezzi seguenti: per entrare bisogna iscriversi e l'iscrizione costa $40$ euro a semestre; ogni ingresso poi costa $12$ euro. Scrivi la formula che calcola il costo semestrale al variare del numero di ingressi $x$.
 
-Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori seguenti:
+Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori riportati nella tabella seguente. $ \bullet$
 $$
 \begin{array}{c|c|c}
 \hline
@@ -211,8 +209,13 @@ $$
 4 & 20 &  280 \\  
 5 & 25 &  340 \\  
 \end{array}
-$$ { \bullet$}
-Se consideriamo la differenza tra $5$ e $15$ ingressi, ossia $10$ ingressi ($\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), il costo passa da $100$ a $220$ euro, con un aumento di $\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$ euro; il rapporto tra i due incrementi è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$. 
+$$
+
+Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$, ed è pari ad $m$​. Vediamolo con un esempio.
+
+#### ESEMPIO 2
+
+Riprendiamo l'esempio precedente. Se consideriamo la differenza tra $5$ e $15$ ingressi ($10$ ingressi, $\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), il costo passa da $100$ a $220$ euro, con un aumento di $\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$ euro; il rapporto tra i due incrementi è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$. 
 
 Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro. $ \bullet$
 
