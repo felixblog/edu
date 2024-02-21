@@ -95,8 +95,68 @@ d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al
 
 ## UNITA' 2: Un metodo per risolvere i problemi
 
+Vediamo ora un metodo per affrontare i problemi di I grado.
+
+La prima cosa da fare è leggere attentamente il problema, tante volte quante sono necessarie, per capire cosa dice, ossia quale situazione descrive, e cosa ci chiede.
+
+Bisogna individuare:
+1. Quali sono le caratteristiche quantitative (o **quantità**) degli oggetti o degli insiemi di cui si parla nel problema, sia quale è la quantità richiesta, che tutte le altre;
+2. Di quali quantità si conosce anche la misura (detta anche valore o **dato**) e di quali no;
+2. Quali sono le dipendenze tra le quantità. 
+
+Analizzando la domanda che viene posta, la prima cosa da fare è individuare la quantità richiesta, distinguendo tra il suo concetto ("Quantità di ...qualcosa") e la sua misura ("Valore della quantità"), che è un numero e dipende dall'unità di misura.
+Le parole chiave per determinare quale quantità sconosciuta ti viene chiesto di trovare sono "quanti", "quanto", "cos'è", "trova", "quanto tempo".
+
+#### ESEMPIO 1
+
+- *Quanti* **giornali** ha venduto?  La quantità è il "Numero di Copie Vendute"
+- *Quanti* **soldi** erano rimasti?  La quantità è l'"Importo Monetario";
+- *Trova* le **dimensioni** del rettangolo  Si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
+- *Quali* sono le **lunghezze** delle due barre?  Si parla di due quantità, entrambe "Lunghezza di Barra";
+- Quanto **tempo** impiegherà Franco **a risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato";
+-  *Determinare* l'**aumento percentuale** del prezzo unitario -> Una quantità: "Percentuale di aumento del prezzo".
+
+Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre misure. Più particolari sono le percentuali, indicate come "percentuali", che sono dei rapporti. $ \bullet$
+
+#### ESEMPIO 2
+
+- Quali quantità sono presenti nella frase seguente? 
+
+​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
+
+La prima è l'"Importo Eredità del Marito" e la sua misura è 20.000 euro, la seconda è l'"Importo Eredità Figlio" che misura 12.000.
+
+- Di quali quantità si parla nella frase seguente?
+
+  "Una trave di cemento è i due terzi del camion che la trasporta"
+
+Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lunghezza del Camion", "Rapporto Lunghezze Trave-Camion"; di queste conosciamo la misura (o il valore) solo della terza, e le quantità non sono indipendenti l'una dall'altra, ma la Lunghezza della Trave è uguale alla Lunghezza del Camion per due terzi. $ \bullet$
+
+Per analizzare le dipendenze si possono utilizzare dei diagrammi che riportano le due quantità ed una freccia che entra nella quantità che dipende da quella da cui esce la freccia.
+
+#### ESEMPIO 3
+
+"Una trave di cemento è i due terzi del camion che la trasporta"
+
+```mermaid
+graph LR
+A[Lunghezza Camion] --> B[Lunghezza Trave]
+```
+
+Abbiamo che $LCamion = \dfrac{2}{3} \cdot LTrave$.
+
+"Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua."
+
+Qui abbiamo tre quantità, la lunghezza del palo, che chiameremo $LPalo$, quella della parte nel terreno, $LPaloInTerreno$ e quella della parte nell'acqua, $LPaloInAcqua$. Le ultime due dipendono dalla prima:
+
+```mermaid
+graph LR
+A[LPalo] --> B[LPaloInTerreno]
+A[LPalo] --> C[LPaloInAcqua]
+```
 
 ### ESERCIZIO 2.4 - Problemi sui rapporti
+
 Per ciascuno dei seguenti problemi:
 
 1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
