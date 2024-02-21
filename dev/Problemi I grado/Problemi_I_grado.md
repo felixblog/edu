@@ -109,12 +109,12 @@ Le parole chiave per determinare quale quantità sconosciuta ti viene chiesto di
 
 #### ESEMPIO 1
 
-- *Quanti* **giornali** ha venduto?  La quantità è il "Numero di Copie Vendute"
-- *Quanti* **soldi** erano rimasti?  La quantità è l'"Importo Monetario";
-- *Trova* le **dimensioni** del rettangolo  Si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
-- *Quali* sono le **lunghezze** delle due barre?  Si parla di due quantità, entrambe "Lunghezza di Barra";
-- Quanto **tempo** impiegherà Franco **a risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato";
--  *Determinare* l'**aumento percentuale** del prezzo unitario -> Una quantità: "Percentuale di aumento del prezzo".
+- **Quanti giornali** ha venduto?  La quantità è il "Numero di Copie Vendute"
+- **Quanti soldi** erano rimasti?  La quantità è l'"Importo Monetario";
+- **Trova** le **dimensioni** del rettangolo  Si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
+- **Quali** sono le **lunghezze** delle due barre?  Si parla di due quantità, entrambe "Lunghezza di Barra";
+- **Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato";
+-  **Determinare l'aumento percentuale** del prezzo unitario -> Una quantità: "Percentuale di aumento del prezzo".
 
 Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre misure. Più particolari sono le percentuali, indicate come "percentuali", che sono dei rapporti. $ \bullet$
 
@@ -143,17 +143,43 @@ graph LR
 A[Lunghezza Camion] --> B[Lunghezza Trave]
 ```
 
-Abbiamo che $LCamion = \dfrac{2}{3} \cdot LTrave$.
+Abbiamo che $LunCamion = \dfrac{2}{3} \cdot LunTrave$.
 
 "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua."
 
-Qui abbiamo tre quantità, la lunghezza del palo, che chiameremo $LPalo$, quella della parte nel terreno, $LPaloInTerreno$ e quella della parte nell'acqua, $LPaloInAcqua$. Le ultime due dipendono dalla prima:
+Qui abbiamo tre quantità, la lunghezza del palo, che chiameremo $LunPalo$, quella della parte nel terreno, $LunPaloInTerreno$ e quella della parte nell'acqua, $LunPaloInAcqua$. Le ultime due dipendono dalla prima:
 
 ```mermaid
 graph LR
-A[LPalo] --> B[LPaloInTerreno]
-A[LPalo] --> C[LPaloInAcqua]
+A[LunPalo] --> B[LunPaloInTerreno]
+A[LunPalo] --> C[LunPaloInAcqua]
 ```
+
+Se $LunPalo$ lo chiamiamo $x$, la dipendenza è indicata con con l'espressione $LunPaloInTerreno: \dfrac{1}{3}x$ e $LunPaloInAcqua: \dfrac{1}{4}x$. $ \bullet$
+
+L'ultimo passo è quello della traduzione della condizione da testo in simboli matematici. La condizione può essere una uguaglianza di una quantità, scritta come espressione letterale in $x$, con un numero o con un'altra quantità.
+
+ESEMPIO 4
+
+ "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga 5 metri."
+
+Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$ da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo l'equazione:
+$$
+x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
+$$
+che ha soluzione $12$. Il grafico delle dipendenze è il seguente.
+
+```mermaid
+graph LR
+A[LunPalo] --> B[LunPaloInTerreno]
+A[LunPalo] --> C[LunPaloInAcqua]
+B[LunPaloInTerreno] --> D[LunPaloEmergente]
+C[LunPaloInAcqua] --> D[LunPaloEmergente]
+A[LunPalo] --> D[LunPaloEmergente]
+D[LunPaloEmergente] -->|=| E((5))
+```
+
+
 
 ### ESERCIZIO 2.4 - Problemi sui rapporti
 
