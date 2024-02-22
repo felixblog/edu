@@ -100,11 +100,11 @@ Vediamo ora un metodo per affrontare i problemi di I grado.
 La prima cosa da fare è leggere attentamente il problema, tante volte quante sono necessarie, per capire cosa dice, ossia quale situazione descrive, e cosa ci chiede.
 
 Bisogna individuare:
-1. Quali sono le caratteristiche quantitative (o **quantità**) degli oggetti o degli insiemi di cui si parla nel problema, sia quale è la quantità richiesta, che tutte le altre;
-2. Di quali quantità si conosce anche la misura (detta anche valore o **dato**) e di quali no;
-2. Quali sono le dipendenze tra le quantità. 
+1. Quali sono le caratteristiche quantitative (o **quantità** o **grandezze**) degli oggetti o degli insiemi di cui si parla nel problema, sia quella richiesta, che tutte le altre;
+2. Di quali grandezze o quantità si conosce anche la **misura** (detta anche **valore** o **dato**) e di quali no;
+2. Quali sono le dipendenze tra le grandezze. 
 
-Una quantità è diversa da un numero: la quantità è un concetto (abbiamo lunghezze, pesi, importi, ecc.) il numero corrispondente è la sua misura (o valore della quantità), dipende dall'unità di misura e può essere noto oppure no.
+Una grandezza è diversa da un numero: la grandezza (quantità) è un concetto (abbiamo lunghezze, pesi, importi, ecc.) il numero corrispondente è la sua misura, dipende dall'unità di misura e può essere noto oppure no.
 
 #### ESEMPIO 1
 
@@ -115,7 +115,7 @@ Una quantità è diversa da un numero: la quantità è un concetto (abbiamo lung
 - **Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato". Dell'importo risparmiato conosciamo anche la misura, $200$ euro, della durata no;
 -  **Determinare l'aumento percentuale** del prezzo unitario. Una quantità: "Percentuale di aumento del prezzo".
 
-Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre misure. Più particolari sono le percentuali, indicate come "percentuali", che sono dei rapporti. $ \bullet$
+Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre grandezze. Più particolari sono le percentuali, indicate come "percentuali", che sono dei rapporti. $ \bullet$
 
 #### ESEMPIO 2
 
@@ -123,7 +123,7 @@ Come si vede, le somme di denaro vengono indicate come "importi", i periodi di t
 
 ​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
 
-La prima è l'"Importo Eredità del Marito" e la sua misura è 20.000 euro, la seconda è l'"Importo Eredità Figlio" che misura 12.000 euro.
+La prima è l'"Importo Eredità del Marito", è una grandezza monetaria e la sua misura è 20.000 euro, la seconda è l'"Importo Eredità Figlio" che misura 12.000 euro.
 
 - Di quali quantità si parla nella frase seguente?
 
@@ -131,7 +131,7 @@ La prima è l'"Importo Eredità del Marito" e la sua misura è 20.000 euro, la s
 
 Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lunghezza del Camion", "Rapporto Lunghezze Trave-Camion"; di queste conosciamo la misura (o il valore) solo della terza, e le quantità non sono indipendenti l'una dall'altra, ma la Lunghezza della Trave è uguale alla Lunghezza del Camion per due terzi. $ \bullet$
 
-Per analizzare le dipendenze si possono utilizzare dei diagrammi che riportano le due quantità ed una freccia che entra nella quantità che dipende da quella da cui esce la freccia.
+Per analizzare le dipendenze si possono utilizzare dei diagrammi che riportano le due quantità ed una freccia: la freccia entra nella grandezza che dipende da quelle da cui esce.
 
 #### ESEMPIO 3
 
@@ -160,7 +160,7 @@ L'ultimo passo è quello della traduzione della condizione da testo in simboli m
 
 #### ESEMPIO 4
 
- "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri."
+"Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri."
 
 Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo l'equazione:
 $$
