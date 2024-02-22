@@ -162,7 +162,7 @@ L'ultimo passo è quello della traduzione della condizione da testo in simboli m
 
  "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri."
 
-Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$ da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo l'equazione:
+Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo l'equazione:
 $$
 x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
 $$
@@ -205,33 +205,58 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 
 
 
 
-## UNITA' 3: Problemi sulle età
+## UNITA' 3: Problemi sulle età, sconti e percentuali
+
+#### ESEMPIO 1
+
+Problema: Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?
+
+Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con $P_l$, di cui conosciamo anche la misura, $48$ euro, prezzo scontato, $Ps$, che conosciamo essere di $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, cioè:
+$$
+s\% = \dfrac{P_l-P_s}{P_l}
+$$
+
+```mermaid
+graph LR
+A[Prezzo Iniziale] --> B[Sconto]
+C[Prezzo Finale] --> B[Sconto]
+A[Prezzo Iniziale] -->E[Perc Sconto] 
+B[Sconto] -->E[Perc Sconto]
+
+```
+
+Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$.
+
+
 
 
 ### ESERCIZIO 3.1 - Problemi sulla rappresentazione dell'età I
-Rappresenta l’età indicata sulla base dell’età attuale.
+a) Rappresenta l’età indicata sulla base dell’età attuale nei casi seguenti.
 
-a) Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]  
+1. Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]
+2. 10 anni fa se adesso ha $x$ anni;  &emsp;  [R. $x-10$]
+3. Tra $y$ anni se l’età attuale è 40 anni;  &emsp; [R. $x+40$]
+4. $y$ anni fa se attualmente ha 40 anni.  &emsp;  [R. $40-y$]
 
-b) 10 anni fa se adesso ha $x$ anni;  &emsp;  [R. $x-10$]  
+f) Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni.
 
-c) Tra $y$ anni se l’età attuale è 40 anni;  &emsp; ; [R. $x+40$]  
-
-d) $y$ anni fa se attualmente ha 40 anni;  &emsp;  [R. $40-y$]   
-
-e) $y$ anni fa se ora ha $p$ anni.  &emsp;  [R. $p-y$].
+1. Tra 5 anni se aveva 20 anni 10 anni fa;
+2. Tra $y$ anni se aveva 30 anni 5 anni fa;
+3. 5 anni fa se avrà venti anni tra $y$ anni.
 
 
 
+### ESERCIZIO 3.2 - Problemi su sconti e percentuali
 
-### ESERCIZIO 3.2 - Problemi sulla rappresentazione dell'età II
-Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni.
+Risolvi i problemi seguenti.
 
-a) Tra 5 anni se aveva 20 anni 10 anni fa.  
+a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?  
 
-b) Tra $y$ anni se aveva 30 anni 5 anni fa.  
+b) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?  
 
-c) 5 anni fa se avrà venti anni tra $y$ anni.
+c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del 40%, quale dei due è più conveniente?
+
+d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?
 
 
 
@@ -239,11 +264,11 @@ c) 5 anni fa se avrà venti anni tra $y$ anni.
 ### ESERCIZIO 3.3 - Problemi sull'età
 Risolvi i seguenti problemi.
 
-a) Luca ha 53 anni e sua figlia ne ha 21. Fra quanti anni l’età di Luca sarà i 5/3 dell’età di sua figlia?  
+a) Luca ha $53$ anni e sua figlia ne ha $21$. Fra quanti anni l’età di Luca sarà i $\dfrac{5}{3}$ dell’età di sua figlia?  
 
-b) La differenza fra l’età di Paolo e quella di Marco è di 15 anni. Quanti anni ha Paolo, sapendo che Marco ne ha il doppio?  
+b) La differenza fra l’età di Paolo e quella di Marco è di $15$ anni. Quanti anni ha Paolo, sapendo che Marco ne ha il doppio?  
 
-c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre. La sorella di mezzo ha cinque anni in meno della sorella maggiore. Quanti anni ha la sorella maggiore?
+c) Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre. La sorella di mezzo ha cinque anni in meno della sorella maggiore. Quanti anni ha la sorella maggiore?
 
 
 
@@ -252,23 +277,13 @@ c) Tre sorelle hanno una età complessiva pari a 75 anni. La maggiore delle tre 
 La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di $n$ unità è data dalla somma delle singole produttività. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
 ### ESERCIZIO 4.1 - Problemi sul lavoro I
-Per ciascuno dei seguenti problemi:
+a) Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Quanto impiegherebbero se lavorassero insieme?  
 
-1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
+b) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
 
-2) individua le dipendenze tra le quantità ed i vincoli che le determinano;
+c) In $a$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $12$ operai? [R. $\dfrac{4}{3} a$]  
 
-3) risolvi il problema rispondendo alla domanda.
-
-
-
-a) Giacomo dipinge una parete in 3 ore. Giovanni fa lo stesso lavoro in 5 ore. Quanto impiegherebbero se lavorassero insieme?  
-
-b) Lavorando insieme, la stampante A e la stampante B finirebbero il compito in 24 minuti. La stampante A da sola finirebbe la stampa in 60 minuti. Quante pagine dovrebbero essere stampate se la stampante B stampa 5 pagine al minuto in più rispetto ad A?  
-
-c) In $a$ giorni 16 operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro 12 operai? [R. $\dfrac{4}{3} a$]  
-
-d) Sei operaie confezionano 120 paia di guanti in 20 giorni. Quanti giorni occorrono a 3 operaie per confezionare 30 paia di guanti dello stesso tipo? [R. 10].
+d) Sei operaie confezionano $120$ paia di guanti in $20$ giorni. Quanti giorni occorrono a $3$ operaie per confezionare $30$ paia di guanti dello stesso tipo? [R. $10$].
 
 
 
@@ -303,17 +318,13 @@ e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore vie
 ## UNITA' 6: Problemi su interesse ed investimenti
 
 ### ESERCIZIO 6.1 - Problemi su interesse ed investimenti I
-Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplifica.
+a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplificala nelle situazioni seguenti.
 
-a) 2000€ al 5%; &emsp; [R. 100€]     
-
-b) (C + 200)€  al 6%;   &emsp;   [R. 12€ + 0,06C€]  
-
-c) C€ al 5% più 2C€ al 5%; &emsp;   [R. (3/20)C€]  
-
-d) C€ al 3% e (2C — 400)€ al 6%; &emsp;  
-
-e) C€ al 7%, 2C€ al 5% e  0.07C al 3%; 
+1. 2000€ al 5%; &emsp; [R. 100€]
+2. (C + 200)€  al 6%;   &emsp;   [R. 12€ + 0,06C€]  
+3. C€ al 5% più 2C€ al 5%; &emsp;   [R. (3/20)C€]  
+4. C€ al 3% e (2C — 400)€ al 6%; &emsp;  
+5. C€ al 7%, 2C€ al 5% e  0.07C al 3%; 
 
 &emsp;
 
@@ -341,39 +352,31 @@ c) q monete da 25 centesimi 7 centesimi (in centesimi).
 
 
 
-### ESERCIZIO 7.2 - Problemi sulle miscele I
-Scrivi l’espressione del valore totale della merce in centesimi e semplifica (ricorda di trasformare tutte le grandezze nella stessa unità di misura).
+### ESERCIZIO 7.2 - Problemi sulle miscele
+a) Scrivi l’espressione del valore totale della merce in euro al chilo e semplifica (ricorda di trasformare tutte le grandezze nella stessa unità di misura).
 
-a) $n$ Kg di caffè del costo di ¢ 90 l’etto e $n + 3$ Kg di caffè del costo di € 1,05 il Kg;  
+1. 3 Kg di te al costo di un euro e cinquanta l’etto;
+2. $n$ Kg di caffè del costo di 90¢ l’etto;
+3. $n + 3$ Kg di caffè del costo di 1,05€ il Kg;
+4. $n$ Kg al costo di 1,75€ al Kg;  
 
-b) 3 Kg di te al costo di € 1,50 l’etto ed $n$ Kg al costo di € 1,75 al Kg;  
+b) Scrivi l’espressione del valore totale della merce in centesimi e semplifica
 
-c) $n$ francobolli del costo di ¢ 35 ciascuno e $20 – n$ francobolli del costo di ¢ 50 l’uno;  
+1. $n$ francobolli del costo di ¢ 35 ciascuno;
+2. $20 – n$ francobolli del costo di ¢ 50 l’uno;
+3. $x$ dozzine di matite del valore di ¢ 20 l’una;
+4. 3 dozzine di matite a ¢ 60 la dozzina.
 
-d) $x$ dozzine di matite del valore di ¢ 20 l’una e 3 dozzine a ¢ 60 la dozzina.
+c) Risolvi i seguenti problemi.
 
-
-
-### ESERCIZIO 7.3 - Problemi sulle miscele II
-Risolvi i seguenti problemi.
-
-a) Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di 0,23 e 1,20 euro al Kg.  
-La miscela di 30 Kg ha un valore di 1,02 euro al Kg. Quanti Kg di ciascun caffè ha utilizzato?  
-
-b) In una fattoria vi sono tra maiali e galline 45 animali. Quanti sono i maiali e quante le galline sapendo che la somma complessiva delle zampe è 116? [R. 32 galline e 13 maiali]
+1. Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di 0,23 e 1,20 euro al Kg.  
+   La miscela di 30 Kg ha un valore di 1,02 euro al Kg. Quanti Kg di ciascun caffè ha utilizzato?
+2. In una fattoria vi sono tra maiali e galline 45 animali. Quanti sono i maiali e quante le galline sapendo che la somma complessiva delle zampe è 116? [R. 32 galline e 13 maiali]
 
 
 
 ### ESERCIZIO 7.4 - Problemi vari
-Per ciascuno dei seguenti problemi:
-
-1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
-
-2) individua le dipendenze tra le quantità ed i vincoli che le determinano;
-
-3) risolvi il problema rispondendo alla domanda.
-
-
+Risolvi i seguenti problemi.
 
 a) Un mattone pesa un chilo più mezzo mattone: quanto pesa il mattone?  
 
