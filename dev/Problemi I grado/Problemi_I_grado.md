@@ -11,15 +11,17 @@ Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la fig
 
 La soluzione di questo problema è semplice, ma vediamo alcune sue caratteristiche. La prima cosa da notare è <u>cosa ci chiede di trovare</u>, ossia quale è la **quantità richiesta**, soluzione dell'esercizio, in questo caso gli anni della figlia di Maria.
 
-Per calcolare tale quantità ci vengono fornite certe informazioni; la prima è una "**condizione**" che deve essere soddisfatta dalla quantità richiesta: $50$ è il doppio degli anni della figlia di Maria.
+Per calcolare tale quantità ci vengono fornite certe informazioni e precisamente due fatti; "Maria ha 50anni" e "Maria ha il doppio degli anni di sua figlia". Messe insieme le possiamo vedere come una **condizione**" che deve essere soddisfatta dalla quantità richiesta: $50$ è il doppio degli anni della figlia di Maria.
 
-Considerata la condizione, l'obiettivo può essere $10$? No, perché il doppio di $10$ non è $50$ e quindi non soddisfa la condizione (non <u>rende la condizione vera</u>). Può essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Può solo essere $25$ ossia la metà di $50$​, che sarà l'età della figlia di Maria.
+Considerata la condizione, la quantità richiesta può essere $10$? No, perché il doppio di $10$ non è $50$ e quindi non soddisfa la condizione (cioè non <u>rende la condizione vera</u>). Può essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Può solo essere $25$ ossia la metà di $50$​, che sarà l'età della figlia di Maria.
 
 Se indichiamo con "$x$" la quantità richiesta, la traduzione in simboli della condizione è:
 $$
 50 = 2 \cdot x
 $$
-Questa è una equazione (detta "equazione risolutiva del problema"), che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$. Come si vede la soluzione dell'equazione è la quantità richiesta che stavamo cercando, cioè la soluzione del problema. $ \bullet$
+Questa è una equazione (detta "equazione risolutiva del problema"), che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$.
+
+Come si vede la soluzione dell'equazione è la quantità richiesta che stavamo cercando, cioè la soluzione del problema. $ \bullet$
 
 Questo è un caso particolarmente semplice perché la condizione è direttamente contenuta nel testo. In altri problemi bisogna far ricorso a conoscenze pregresse. Vediamo un secondo esempio.
 
@@ -93,23 +95,26 @@ d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al
 
 
 
-## UNITA' 2: Un metodo per risolvere i problemi
+## UNITA' 2: Grandezze e misure
 
-Vediamo ora un metodo per affrontare i problemi di I grado.
+Torniamo ora sul procedimento che abbiamo usato per impostare l'equazione dei problemi ed analizziamolo meglio.
 
-La prima cosa da fare è leggere attentamente il problema, tante volte quante sono necessarie, per capire cosa dice, ossia quale situazione descrive, e cosa ci chiede.
+La prima cosa da fare è leggere attentamente il problema, tante volte quante sono necessarie per capire cosa dice, ossia quale situazione descrive, e cosa ci chiede.
 
 Bisogna individuare:
-1. Quali sono le caratteristiche quantitative (o **quantità** o **grandezze**) degli oggetti o degli insiemi di cui si parla nel problema, sia quella richiesta, che tutte le altre;
+1. Quali sono le **quantità** o **grandezze**, proprietà di oggetti o insiemi, di cui si parla nel problema: sia la quantità richiesta, che tutte le altre;
 2. Di quali grandezze o quantità si conosce anche la **misura** (detta anche **valore** o **dato**) e di quali no;
-2. Quali sono le dipendenze tra le grandezze. 
 
-Una grandezza è diversa da un numero: la grandezza (quantità) è un concetto (abbiamo lunghezze, pesi, importi, ecc.) il numero corrispondente è la sua misura, dipende dall'unità di misura e può essere noto oppure no.
+Una grandezza non è "un numero": la grandezza (o quantità) è un concetto, una proprietà quantitativa di qualcosa, come la lunghezza di una strada, la lunghezza dei lati di un rettangolo etc., oppure il peso di una persona, di un etto e mezzo di prosciutto, di oggetti, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
+
+Il numero che è associato alla grandezza è la sua misura, ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$​; la misura dipende dall'unità con cui misuriamo e può essere contenuta nel testo del problema oppure no.
+
+Alle quantità deve essere dato un nome preciso ed appropriato. 
 
 #### ESEMPIO 1
 
-- **Quanti giornali** ha venduto?  La quantità è il "Numero di Copie Vendute"
-- **Quanti soldi** erano rimasti?  La quantità è l'"Importo Monetario";
+- **Quanti giornali** ha venduto?  La quantità richiesta è il "Numero di Copie Vendute"
+- **Quanti soldi** erano rimasti?  La quantità richiesta è l'"Importo Monetario";
 - **Trova le dimensioni** del rettangolo  Si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - **Quali** sono le **lunghezze** delle due barre?  Si parla di due quantità, entrambe "Lunghezza di una Barra";
 - **Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato". Dell'importo risparmiato conosciamo anche la misura, $200$ euro, della durata no;
@@ -133,7 +138,49 @@ Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lung
 
 Per analizzare le dipendenze si possono utilizzare dei diagrammi che riportano le due quantità ed una freccia: la freccia entra nella grandezza che dipende da quelle da cui esce.
 
-#### ESEMPIO 3
+### ESERCIZIO 2.1 - Grandezze e misure
+
+a) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
+
+1. Un palo è conficcato nel terreno per un terzo della sua lunghezza e per un quarto è immerso nell’acqua di un fiume. Il fiume è profondo $3 \; m$.
+2. Una cassa contiene 140 palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
+3. Tre sorelle hanno una età complessiva pari a $75$​ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre.
+4. Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \; \dfrac{Km}{h}$ superiore a quella del più lento.
+
+b) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
+
+1. La signora Mueller ha investito una somma complessiva di 4000 euro. Su di una parte ha guadagnato il 4% mentre sulla rimanente ha perso il 3%.
+2. Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Il primo dipinge la recinzione di un giardino in 12 ore, il secondo lo fa nel doppio del tempo.
+
+### ESERCIZIO 2.4 - Problemi sui rapporti
+
+a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
+
+b) L’altezza di un armadio sta all’altezza del soffitto come 7 sta a 10. Calcola l’altezza dell’armadio e la lunghezza della parete che rimane scoperta:
+
+1. se il soffitto è alto 3 metri [R. 210 cm; 90 cm];  
+2. se l'armadio è alto 140 cm;
+3. se il soffitto è alto h cm.  
+
+c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la sua lunghezza sapendo che la parte che emerge è lunga 5 metri. &emsp;  [R. 12]  
+
+d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
+
+e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
+
+
+
+## UNITA' 3: Un metodo per risolvere i problemi
+
+Dopo aver individuato le grandezze nel testo del problema si passa a capire:
+
+1. quali sono le dipendenze tra le grandezze;
+2. da quale grandezza le altre dipendono;
+3. quale è la relazione di uguaglianza o condizione che le lega. 
+
+Le grandezze nel testo di un problema non sono indipendenti l'una dalle altre, come si vede dagli esempi seguenti.
+
+#### ESEMPIO 1
 
 "Una trave di cemento è i due terzi del camion che la trasporta"
 
@@ -142,7 +189,9 @@ graph LR
 A[Lunghezza Camion] --> B[Lunghezza Trave]
 ```
 
-Abbiamo che $LunCamion = \dfrac{2}{3} \cdot LunTrave$.
+Abbiamo che $LunCamion = \dfrac{2}{3} \cdot LunTrave$​.
+
+#### ESEMPIO 2
 
 "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua."
 
@@ -156,9 +205,11 @@ A[LunPalo] --> C[LunPaloInAcqua]
 
 Se $LunPalo$ lo chiamiamo $x$, la dipendenza è indicata con con l'espressione $LunPaloInTerreno: \dfrac{1}{3}x$ e $LunPaloInAcqua: \dfrac{1}{4}x$. $ \bullet$
 
-L'ultimo passo è quello della traduzione della condizione da testo in simboli matematici. La condizione può essere una uguaglianza di una quantità, scritta come espressione letterale in $x$, con un numero o con un'altra quantità.
+Dopo aver trovato una grandezza da cui le altre dipendono, chiamiamo questa $x$ e scriviamo le espressioni contenenti la $x$ che forniscono la misura delle altre.
 
-#### ESEMPIO 4
+L'ultimo passo è quello di individuare una relazione di uguaglianza tra le grandezze o tra una di queste ed un numero. Questa è la condizione che deve essere soddisfatta  (cioè deve essere vera) da parte del numero soluzione del problema. Tale condizione può essere scritta nel testo del problema o deve essere una formula conosciuta, come negli esempi seguenti. 
+
+#### ESEMPIO 3
 
 "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri."
 
@@ -178,38 +229,9 @@ A[LunPalo] --> D[LunPaloEmergente]
 D[LunPaloEmergente] -->|=| E((5))
 ```
 
+#### ESEMPIO 4
 
-
-### ESERCIZIO 2.4 - Problemi sui rapporti
-
-Per ciascuno dei seguenti problemi:
-
-1) individua le quantità di cui si parla nel testo specificando un loro nome significativo, la loro unità di misura ed il valore;
-
-2) individua le dipendenze tra le quantità ed i vincoli che le determinano;
-
-4) risolvi il problema rispondendo alla domanda.
-
-a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
-
-b) L’altezza di un armadio sta all’altezza del soffitto come 7 sta a 10. Calcola l’altezza dell’armadio e la lunghezza della parete che rimane scoperta:
-1. se il soffitto è alto 3 metri [R. 210 cm; 90 cm];  
-2. se l'armadio è alto 140 cm;
-3. se il soffitto è alto h cm.  
-
-c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la sua lunghezza sapendo che la parte che emerge è lunga 5 metri. &emsp;  [R. 12]  
-
-d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
-
-e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
-
-
-
-## UNITA' 3: Problemi sulle età, sconti e percentuali
-
-#### ESEMPIO 1
-
-Problema: Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?
+Problema: Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
 
 Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con $P_l$, di cui conosciamo anche la misura, $48$ euro, prezzo scontato, $Ps$, che conosciamo essere di $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, cioè:
 $$
@@ -227,7 +249,40 @@ B[Sconto] -->E[Perc Sconto]
 
 Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$.
 
+#### ESEMPIO 5
 
+L'area di un triangolo misura $24 \; m^2$ ed uno dei suoi lati $6 \; m^2$. Quale è l'altezza?
+
+In un triangolo l'altezza $h$ è legata all'area $A$ ed al lato $l$ mediante la nota formula:
+$$
+A = \dfrac{l \cdot h}{2}
+$$
+Sostituendo alle lettere i numeri e chiamando $x$ l'altezza
+$$
+24 = \dfrac{6 \cdot x}{2}
+$$
+che ha come soluzione $8$.
+
+
+
+### ESERCIZIO 3.1 - Problemi sui rapporti
+
+a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
+
+b) L’altezza di un armadio sta all’altezza del soffitto come 7 sta a 10. Calcola l’altezza dell’armadio e la lunghezza della parete che rimane scoperta:
+1. se il soffitto è alto 3 metri [R. 210 cm; 90 cm];  
+2. se l'armadio è alto 140 cm;
+3. se il soffitto è alto h cm.  
+
+c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la sua lunghezza sapendo che la parte che emerge è lunga 5 metri. &emsp;  [R. 12]  
+
+d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
+
+e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
+
+
+
+## UNITA' 4: Problemi sulle età, sconti e percentuali
 
 
 ### ESERCIZIO 3.1 - Problemi sulla rappresentazione dell'età I
@@ -272,11 +327,11 @@ c) Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tr
 
 
 
-## UNITA' 4: Problemi sulla produttività del lavoro
+## UNITA' 5: Problemi sulla produttività del lavoro
 
 La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di $n$ unità è data dalla somma delle singole produttività. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
-### ESERCIZIO 4.1 - Problemi sul lavoro I
+### ESERCIZIO 5.1 - Problemi sul lavoro I
 a) Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Quanto impiegherebbero se lavorassero insieme?  
 
 b) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
@@ -287,7 +342,7 @@ d) Sei operaie confezionano $120$ paia di guanti in $20$ giorni. Quanti giorni o
 
 
 
-### ESERCIZIO 4.2 - Problemi sul lavoro II
+### ESERCIZIO 5.2 - Problemi sul lavoro II
 Risolvi i seguenti problemi.
 
 a) In una fabbrica ci sono 2 macchine, la prima produce 10 pezzi all’ora, la seconda 7 pezzi all’ora.
@@ -297,10 +352,10 @@ b) I dipendenti di una azienda ricevono uno stipendio medio mensile di € 1300.
 
 
 
-## UNITA' 5: Problemi su moto e velocità
+## UNITA' 6: Problemi su moto e velocità
 
 
-### ESERCIZIO 5.1 - Problemi sul moto e sulla velocità
+### ESERCIZIO 6.1 - Problemi sul moto e sulla velocità
 Risolvi i seguenti problemi.
 
 a) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di 100 Km/h superiore a quella del più lento. Dopo 5 ore di volo i due distano 2000 Km. Trova la velocità di ciascun aereo.  
@@ -315,9 +370,9 @@ e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore vie
 
 
 
-## UNITA' 6: Problemi su interesse ed investimenti
+## UNITA' 7: Problemi su interesse ed investimenti
 
-### ESERCIZIO 6.1 - Problemi su interesse ed investimenti I
+### ESERCIZIO 7.1 - Problemi su interesse ed investimenti I
 a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplificala nelle situazioni seguenti.
 
 1. 2000€ al 5%; &emsp; [R. 100€]
@@ -328,7 +383,7 @@ a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da o
 
 &emsp;
 
-### ESERCIZIO 6.2 - Problemi su interesse ed investimenti II
+### ESERCIZIO 7.2 - Problemi su interesse ed investimenti II
 Risolvi i seguenti problemi.
 
 a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di 5 a 3. La prima somma è stata investita al tasso del 4% e la seconda al tasso del 2%. L’interesse annuale della prima eccede quello della seconda di 112 euro. Quali sono stati i due investimenti? [R. 16.800, 28-000]  
@@ -339,9 +394,9 @@ c) Il signor Black ha investito 3000 euro al tasso del 3% e 1000 euro al tasso d
 
 
 
-## UNITA' 7: Problemi su monete e miscele
+## UNITA' 8: Problemi su monete e miscele
 
-### ESERCIZIO 7.1 - Problemi sulle monete
+### ESERCIZIO 8.1 - Problemi sulle monete
 Trova il valore complessivo di monete e francobolli nei casi seguenti:
 
 a) 3 centesimi e 5 pezzi da 10 centesimi (in centesimi);  
@@ -352,7 +407,7 @@ c) q monete da 25 centesimi 7 centesimi (in centesimi).
 
 
 
-### ESERCIZIO 7.2 - Problemi sulle miscele
+### ESERCIZIO 8.2 - Problemi sulle miscele
 a) Scrivi l’espressione del valore totale della merce in euro al chilo e semplifica (ricorda di trasformare tutte le grandezze nella stessa unità di misura).
 
 1. 3 Kg di te al costo di un euro e cinquanta l’etto;
@@ -375,7 +430,7 @@ c) Risolvi i seguenti problemi.
 
 
 
-### ESERCIZIO 7.4 - Problemi vari
+### ESERCIZIO 8.3 - Problemi vari
 Risolvi i seguenti problemi.
 
 a) Un mattone pesa un chilo più mezzo mattone: quanto pesa il mattone?  
