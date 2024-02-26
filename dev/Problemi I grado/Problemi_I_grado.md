@@ -152,22 +152,6 @@ b) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un 
 1. La signora Mueller ha investito una somma complessiva di 4000 euro. Su di una parte ha guadagnato il 4% mentre sulla rimanente ha perso il 3%.
 2. Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Il primo dipinge la recinzione di un giardino in 12 ore, il secondo lo fa nel doppio del tempo.
 
-### ESERCIZIO 2.4 - Problemi sui rapporti
-
-a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
-
-b) L’altezza di un armadio sta all’altezza del soffitto come 7 sta a 10. Calcola l’altezza dell’armadio e la lunghezza della parete che rimane scoperta:
-
-1. se il soffitto è alto 3 metri [R. 210 cm; 90 cm];  
-2. se l'armadio è alto 140 cm;
-3. se il soffitto è alto h cm.  
-
-c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la sua lunghezza sapendo che la parte che emerge è lunga 5 metri. &emsp;  [R. 12]  
-
-d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
-
-e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
-
 
 
 ## UNITA' 3: Un metodo per risolvere i problemi
@@ -213,7 +197,7 @@ L'ultimo passo è quello di individuare una relazione di uguaglianza tra le gran
 
 "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri."
 
-Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo che la condizione è l'uguaglianza della parte rimanente a $5$ per cui l'equazione è la seguente.
+Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo che la condizione è l'uguaglianza della parte rimanente a $5$ per cui l'equazione è la seguente.
 $$
 x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
 $$
@@ -271,7 +255,7 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 
 ## UNITA' 4: Problemi sulle età, sconti e percentuali
 
 
-### ESERCIZIO 3.1 - Problemi sulla rappresentazione dell'età I
+### ESERCIZIO 4.1 - Problemi sulla rappresentazione dell'età I
 a) Rappresenta l’età indicata sulla base dell’età attuale nei casi seguenti.
 
 1. Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]
@@ -287,7 +271,7 @@ f) Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni
 
 
 
-### ESERCIZIO 3.2 - Problemi su sconti e percentuali
+### ESERCIZIO 4.2 - Problemi su sconti e percentuali
 
 Risolvi i problemi seguenti.
 
@@ -302,7 +286,7 @@ d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al
 
 
 
-### ESERCIZIO 3.3 - Problemi sull'età
+### ESERCIZIO 4.3 - Problemi sull'età
 Risolvi i seguenti problemi.
 
 a) Luca ha $53$ anni e sua figlia ne ha $21$. Fra quanti anni l’età di Luca sarà i $\dfrac{5}{3}$ dell’età di sua figlia?  
@@ -317,7 +301,10 @@ c) Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tr
 
 La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di $n$ unità è data dalla somma delle singole produttività. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
+
+
 ### ESERCIZIO 5.1 - Problemi sul lavoro I
+
 a) Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Quanto impiegherebbero se lavorassero insieme?  
 
 b) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
