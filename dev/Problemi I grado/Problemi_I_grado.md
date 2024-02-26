@@ -213,11 +213,11 @@ L'ultimo passo è quello di individuare una relazione di uguaglianza tra le gran
 
 "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri."
 
-Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo l'equazione:
+Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo che la condizione è l'uguaglianza della parte rimanente a $5$ per cui l'equazione è la seguente.
 $$
 x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
 $$
-che ha soluzione $12$. Il grafico delle dipendenze è il seguente. $ \bullet$
+La soluzione è $12$. Il grafico delle dipendenze è il seguente. $ \bullet$
 
 ```mermaid
 graph LR
@@ -233,7 +233,7 @@ D[LunPaloEmergente] -->|=| E((5))
 
 Problema: Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
 
-Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con $P_l$, di cui conosciamo anche la misura, $48$ euro, prezzo scontato, $Ps$, che conosciamo essere di $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, cioè:
+Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con $P_l$, di cui conosciamo anche la misura, $48$ euro, prezzo scontato, $Ps$, che conosciamo essere di $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, per cui l'equazione, che nel nostro caso si presenta già in forma elementare, è la seguente.
 $$
 s\% = \dfrac{P_l-P_s}{P_l}
 $$
@@ -248,20 +248,6 @@ B[Sconto] -->E[Perc Sconto]
 ```
 
 Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$.
-
-#### ESEMPIO 5
-
-L'area di un triangolo misura $24 \; m^2$ ed uno dei suoi lati $6 \; m^2$. Quale è l'altezza?
-
-In un triangolo l'altezza $h$ è legata all'area $A$ ed al lato $l$ mediante la nota formula:
-$$
-A = \dfrac{l \cdot h}{2}
-$$
-Sostituendo alle lettere i numeri e chiamando $x$ l'altezza
-$$
-24 = \dfrac{6 \cdot x}{2}
-$$
-che ha come soluzione $8$.
 
 
 
