@@ -335,6 +335,24 @@ c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata
 
 ## UNITA' 4: Crescenza, decrescenza ed esempi di funzioni
 
+Un concetto molto importante nell'analisi di una funzione è quello di "crescenza" e "decrescenza". Una funzione si dice **crescente** in un intervallo di numeri, ad esempio tra $-2$ e $2$,  $[-2, 2]$ se passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ aumenta; si dice decrescente se, sempre passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ diminuisce. Vediamo un esempio.
+
+#### ESEMPIO
+
+La funzione $f(x) = 2x+ 3$ ha i valori riportati di seguito:
+
+<img src="img/Crescenti.png" alt="Crescenti" style="zoom:15%;" />
+
+La funzione è crescente (in particolare nell'intervallo $[-1, 2]$​).
+
+La funzione $f(x) = x^2 + 1$:
+
+<img src="img/Crescenti2.png" alt="Crescenti2" style="zoom:15%;" />
+
+E' decrescente nell'intervallo $(-\infty, 0)$ e crescente in $[0, \infty)$.
+
+
+
 ### ESERCIZIO 4.1 - Funzioni crescenti e decrescenti
 
 a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate sono crescenti o decrescenti.
@@ -346,13 +364,13 @@ a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate 
 
 ### ESERCIZIO 4.2 - La funzione valore assoluto
 
-Per ogni funzione costruisci una tabella con cinque valori di $x$ (positivi, negativi o nulli) e rappresenta il grafico
+a) Per ogni funzione costruisci una tabella con cinque valori di $x$ (positivi, negativi o nulli) e rappresenta il grafico
 
-a) $y = 2|x|$;
+1. $y = 2|x|$;
+2. $y = 1 + |x|$;
+3. $y = -2|x|$.
 
-b) $y = 1 + |x|$;
-
-c) $y = -2|x|$.
+b) Per ciascuno dei grafici precedenti individua gli intervalli dove la funzione è crescente e dove è decrescente. 
 
 #### Laboratorio GEOGEBRA
 
