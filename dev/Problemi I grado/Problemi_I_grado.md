@@ -1,7 +1,7 @@
 
 # Problemi di I grado
 
-## UNITA' 1: Problemi ed equazioni
+## UNITA' 1: Problemi ed equazioni: quantità e misure
 
 In questo capitolo vedremo una serie di problemi che si possono risolvere con una equazione di I grado. Vediamo subito un esempio.
 
@@ -9,49 +9,86 @@ In questo capitolo vedremo una serie di problemi che si possono risolvere con un
 
 Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?
 
-La soluzione di questo problema è semplice, ma vediamo alcune sue caratteristiche. La prima cosa da notare è <u>cosa ci chiede di trovare</u>, ossia quale è la **quantità richiesta**, soluzione dell'esercizio, in questo caso gli anni della figlia di Maria.
+Questo problema si può risolvere senza fare calcoli particolari, ma analizziamo cosa ci chiede e cosa dobbiamo fare per trovarlo. La prima cosa da individuare è <u>cosa ci chiede di trovare</u>, ossia quale è la **quantità richiesta** soluzione dell'esercizio, in questo caso gli <u>anni della figlia di Maria</u>. 
 
-Per calcolare tale quantità ci vengono fornite certe informazioni e precisamente due fatti; "Maria ha 50anni" e "Maria ha il doppio degli anni di sua figlia". Messe insieme le possiamo vedere come una **condizione**" che deve essere soddisfatta dalla quantità richiesta: $50$ è il doppio degli anni della figlia di Maria.
+Oltre a questa vediamo che si parla di un'altra quantità, o grandezza, diversa dalla prima, gli <u>anni di Maria</u>. 
 
-Considerata la condizione, la quantità richiesta può essere $10$? No, perché il doppio di $10$ non è $50$ e quindi non soddisfa la condizione (cioè non <u>rende la condizione vera</u>). Può essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Può solo essere $25$ ossia la metà di $50$​, che sarà l'età della figlia di Maria.
+Tra gli anni della figlia e quelli di Maria c'è una relazione: gli anni di Maria sono il doppio di quelli della figlia (e quelli della figlia sono la metà di quelli di Maria). Noi non sappiamo quanti anni ha Maria, o la figlia, ma questo fatto ci dice che **una delle due grandezze dipende dall'altra** ossia che se la figlia ha $20$ anni, Maria ne ha $40$ e se Maria ne ha $60$, la figlia ne avrà $30$: le due quantità sono vincolate ad essere così.
 
-Se indichiamo con "$x$" la quantità richiesta, la traduzione in simboli della condizione è:
+Decidiamo di chiamare gli anni della figlia con una lettera, detta "incognita", diciamo $x$. Allora gli anni di Maria saranno calcolati dall'espressione $2 \cdot x$.
+
+Per completare il ragionamento osserviamo che il problema parla di un altro fatto: "Maria ha 50 anni". Questo secondo fatto obbliga gli anni di Maria ad essere uguali ad un numero specifico, cioè è una **condizione**" che impone un vincolo agli anni di Maria e quindi a quelli della figlia: infatti, gli anni della figlia possono essere $10$? No, perché il doppio di $10$ non è $50$ (non <u>rende la condizione vera</u>); possono essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Possono solo essere $25$ ossia la metà di $50$, che è l'unico numero possibile per l'età della figlia di Maria.
+
+La traduzione in simboli della condizione è:
 $$
 50 = 2 \cdot x
 $$
-Questa è una equazione (detta "equazione risolutiva del problema"), che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$.
+Questa è l'"equazione risolutiva del problema", che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$. $ \bullet$
 
-Come si vede la soluzione dell'equazione è la quantità richiesta che stavamo cercando, cioè la soluzione del problema. $ \bullet$
 
-Questo è un caso particolarmente semplice perché la condizione è direttamente contenuta nel testo. In altri problemi bisogna far ricorso a conoscenze pregresse. Vediamo un secondo esempio.
+
+Il metodo per risolvere questi problemi si articola in quattro passi:
+
+**PASSO 1: Quantità o grandezze**
+
+**PASSO 2: Dipendenze**
+
+**PASSO 3: Incognita**
+
+**PASSO 4: Condizione**
+
+Il primo passo è l'individuazione delle quantità nel testo del problema. Dopo aver letto attentamente il problema, tante volte quante sono necessarie per capire cosa dice, ossia quale situazione descrive, e cosa ci chiede, bisogna individuare:
+
+1. Quali sono le **quantità** o **grandezze** di cui si parla nel testo del problema, sia la quantità richiesta, che tutte le altre;
+2. Di quali grandezze o quantità si conosce anche la **misura** (detta anche **valore** o **dato**) e di quali no;
+
+Una grandezza non è solo un "numero": la grandezza (o quantità) è un concetto, una proprietà quantitativa di qualcosa, come ad esempio la lunghezza di una strada, la lunghezza dei lati di un rettangolo, il peso di una persona, di un etto e mezzo di prosciutto, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
+
+Il numero che è associato alla grandezza è la sua misura, ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$​; la misura dipende dall'unità con cui misuriamo e può essere contenuta nel testo del problema oppure no.
+
+Alle quantità deve essere dato un nome preciso ed appropriato. 
 
 #### ESEMPIO 2
 
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono stati i costi?
+- Nella domanda "**Quanti giornali** ha venduto?", la quantità richiesta è il "Numero di Copie Vendute";
+- Nella domanda "**Quanti soldi** erano rimasti?", la quantità richiesta è l'"Importo Monetario Rimasto";
+- In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
+- In "**Quali** sono le **lunghezze** delle due barre?", si parla di due quantità, "Lunghezza della Prima Barra" e "Lunghezza della seconda Barra";
+- In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
 
-La quantità richiesta è data dai costi annui, ma per risolvere questo problema è necessario individuare una condizione che determini il valore della quantità richiesta. Tale condizione (che "condiziona" i nostri costi) è la formula che lega ricavi (fatturato), utile e costi in un periodo:
-$$
-Utile = Ricavi - Costi
-$$
-Indicando con $x$ i costi, abbiamo che la soluzione del problema è data dalla soluzione dell'equazione seguente:
-$$
-2.100.000 \cdot 20\%= 2.100.000 - x
-$$
-cioè $x = 2.100.000 - 420.000 \longrightarrow 1.680.000$ euro. $ \bullet$
+Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre grandezze. $ \bullet$
 
 #### ESEMPIO 3
 
-In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati; sapendo che gli operai sono il quintuplo degli impiegati, calcola il numero degli impiegati e degli operai.
+- Quali quantità sono presenti nella frase seguente? 
 
-Stavolta le quantità richieste sembrano due, numero degli impiegati e numero degli operai, ma in realtà queste quantità non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via. 
+​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
 
-Possiamo dire quindi che se gli impiegati sono $x$, l'espressione (letterale) che ci consente di calcolare il numero degli operai è $1000 + x$, in cui si vede chiaramente che il numero degli operai "dipende" dal numero degli impiegati.
+La prima è l'"Importo Eredità del Marito", è una grandezza monetaria e la sua misura è 20.000 euro, la seconda è l'"Importo Eredità Figlio" che misura 12.000 euro.
 
-La condizione cui devono sottostare il numero degli operai e degli impiegati è che, qualunque siano i numeri, "gli operai sono il quintuplo degli impiegati". Tradotto in simboli abbiamo:
-$$
-1000 + x = 5 \cdot x
-$$
-Questa equazione ha soluzione $x = \dfrac{1000}{4} \longrightarrow 250$. $ \bullet$​
+- Di quali quantità si parla nella frase seguente?
+
+  "Una trave di cemento è i due terzi del camion che la trasporta"
+
+Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lunghezza del Camion", "Rapporto Lunghezze Trave-Camion"; di queste conosciamo la misura (o il valore) solo della terza, e le quantità non sono indipendenti l'una dall'altra, ma la Lunghezza della Trave è uguale alla Lunghezza del Camion per due terzi. $ \bullet$
+
+
+
+### ESERCIZIO 1.1 - Grandezze e misure
+
+a) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
+
+1. Un palo è conficcato nel terreno per un terzo della sua lunghezza e per un quarto è immerso nell’acqua di un fiume. Il fiume è profondo $3 \; m$.
+2. Una cassa contiene 140 palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
+3. Tre sorelle hanno una età complessiva pari a $75$​ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre.
+4. Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \; \dfrac{Km}{h}$ superiore a quella del più lento.
+
+b) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
+
+1. La signora Mueller ha investito una somma complessiva di $4000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$.
+2. Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Il primo dipinge la recinzione di un giardino in $12$ ore, il secondo lo fa nel doppio del tempo.
+
+
 
 
 
@@ -95,72 +132,12 @@ d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al
 
 
 
-## UNITA' 2: Grandezze e misure
-
-Torniamo ora sul procedimento che abbiamo usato per impostare l'equazione dei problemi ed analizziamolo meglio.
-
-La prima cosa da fare è leggere attentamente il problema, tante volte quante sono necessarie per capire cosa dice, ossia quale situazione descrive, e cosa ci chiede.
-
-Bisogna individuare:
-1. Quali sono le **quantità** o **grandezze**, proprietà di oggetti o insiemi, di cui si parla nel problema: sia la quantità richiesta, che tutte le altre;
-2. Di quali grandezze o quantità si conosce anche la **misura** (detta anche **valore** o **dato**) e di quali no;
-
-Una grandezza non è "un numero": la grandezza (o quantità) è un concetto, una proprietà quantitativa di qualcosa, come la lunghezza di una strada, la lunghezza dei lati di un rettangolo etc., oppure il peso di una persona, di un etto e mezzo di prosciutto, di oggetti, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
-
-Il numero che è associato alla grandezza è la sua misura, ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$​; la misura dipende dall'unità con cui misuriamo e può essere contenuta nel testo del problema oppure no.
-
-Alle quantità deve essere dato un nome preciso ed appropriato. 
-
-#### ESEMPIO 1
-
-- **Quanti giornali** ha venduto?  La quantità richiesta è il "Numero di Copie Vendute"
-- **Quanti soldi** erano rimasti?  La quantità richiesta è l'"Importo Monetario";
-- **Trova le dimensioni** del rettangolo  Si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
-- **Quali** sono le **lunghezze** delle due barre?  Si parla di due quantità, entrambe "Lunghezza di una Barra";
-- **Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?  Si parla di due quantità: la "Durata periodo di risparmio" e l'"Importo Risparmiato". Dell'importo risparmiato conosciamo anche la misura, $200$ euro, della durata no;
--  **Determinare l'aumento percentuale** del prezzo unitario. Una quantità: "Percentuale di aumento del prezzo".
-
-Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre grandezze. Più particolari sono le percentuali, indicate come "percentuali", che sono dei rapporti. $ \bullet$
-
-#### ESEMPIO 2
-
-- Quali quantità sono presenti nella frase seguente? 
-
-​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
-
-La prima è l'"Importo Eredità del Marito", è una grandezza monetaria e la sua misura è 20.000 euro, la seconda è l'"Importo Eredità Figlio" che misura 12.000 euro.
-
-- Di quali quantità si parla nella frase seguente?
-
-  "Una trave di cemento è i due terzi del camion che la trasporta"
-
-Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lunghezza del Camion", "Rapporto Lunghezze Trave-Camion"; di queste conosciamo la misura (o il valore) solo della terza, e le quantità non sono indipendenti l'una dall'altra, ma la Lunghezza della Trave è uguale alla Lunghezza del Camion per due terzi. $ \bullet$
-
-Per analizzare le dipendenze si possono utilizzare dei diagrammi che riportano le due quantità ed una freccia: la freccia entra nella grandezza che dipende da quelle da cui esce.
-
-### ESERCIZIO 2.1 - Grandezze e misure
-
-a) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
-
-1. Un palo è conficcato nel terreno per un terzo della sua lunghezza e per un quarto è immerso nell’acqua di un fiume. Il fiume è profondo $3 \; m$.
-2. Una cassa contiene 140 palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
-3. Tre sorelle hanno una età complessiva pari a $75$​ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre.
-4. Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \; \dfrac{Km}{h}$ superiore a quella del più lento.
-
-b) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
-
-1. La signora Mueller ha investito una somma complessiva di 4000 euro. Su di una parte ha guadagnato il 4% mentre sulla rimanente ha perso il 3%.
-2. Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Il primo dipinge la recinzione di un giardino in 12 ore, il secondo lo fa nel doppio del tempo.
-
-
-
-## UNITA' 3: Un metodo per risolvere i problemi
+## UNITA' 2: Dipendenze tra grandezze
 
 Dopo aver individuato le grandezze nel testo del problema si passa a capire:
 
 1. quali sono le dipendenze tra le grandezze;
 2. da quale grandezza le altre dipendono;
-3. quale è la relazione di uguaglianza o condizione che le lega. 
 
 Le grandezze nel testo di un problema non sono indipendenti l'una dalle altre, come si vede dagli esempi seguenti.
 
@@ -175,7 +152,7 @@ A[Lunghezza Camion] --> B[Lunghezza Trave]
 
 Abbiamo che $LunCamion = \dfrac{2}{3} \cdot LunTrave$​.
 
-#### ESEMPIO 2
+
 
 "Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua."
 
@@ -189,7 +166,109 @@ A[LunPalo] --> C[LunPaloInAcqua]
 
 Se $LunPalo$ lo chiamiamo $x$, la dipendenza è indicata con con l'espressione $LunPaloInTerreno: \dfrac{1}{3}x$ e $LunPaloInAcqua: \dfrac{1}{4}x$. $ \bullet$
 
-Dopo aver trovato una grandezza da cui le altre dipendono, chiamiamo questa $x$ e scriviamo le espressioni contenenti la $x$ che forniscono la misura delle altre.
+Dopo aver trovato una grandezza da cui le altre dipendono, chiamiamo questa $x$ e scriviamo le espressioni contenenti la $x$​ che forniscono la misura delle altre.
+
+#### ESEMPIO 2
+
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono le dipendenze tra le grandezze?
+
+Nel testo si parla di due grandezze, "Fatturato" ed "Utile", ed una relazione tra di loro.
+```mermaid
+graph LR
+A[Fatturato] --> B[Utile]
+```
+
+Per cui  $Utile= 20 \% \cdot Fatturato$. $ \bullet$
+
+
+
+In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati. Quali sono le quantità e le loro relazioni?
+
+Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1000$. $ \bullet$
+
+
+
+"Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le grandezze e quali sono le relazioni tra di loro?"
+
+Le misure delle grandezze coinvolte sono espresse in relazione alla lunghezza del palo: $LunPaloInTerreno = \dfrac{1}{3}LunPalo$ e  $LunPaloInAcqua = \dfrac{1}{4}LunPalo$. L'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, è uguale a tutto il palo meno la parte in acqua e la parte in terra, per cui Il grafico delle dipendenze è il seguente. $ \bullet$
+```mermaid
+graph LR
+A[LunPalo] --> B[LunPaloInTerreno]
+A[LunPalo] --> C[LunPaloInAcqua]
+B[LunPaloInTerreno] --> D[LunPaloEmergente]
+C[LunPaloInAcqua] --> D[LunPaloEmergente]
+A[LunPalo] --> D[LunPaloEmergente]
+D[LunPaloEmergente] -->|=| E((5))
+```
+
+#### ESEMPIO 3
+
+"Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Come calcoliamo la percentuale di sconto?"
+
+Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con $P_l$, di cui conosciamo anche la misura, $48$ euro, prezzo scontato, $Ps$, che conosciamo essere di $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, per cui l'equazione, che nel nostro caso si presenta già in forma elementare, è la seguente.
+$$
+s\% = \dfrac{P_l-P_s}{P_l}
+$$
+
+```mermaid
+graph LR
+A[Prezzo Iniziale] --> B[Sconto]
+C[Prezzo Finale] --> B[Sconto]
+A[Prezzo Iniziale] -->E[Perc Sconto] 
+B[Sconto] -->E[Perc Sconto]
+
+```
+
+Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$.
+
+
+
+### ESERCIZIO 3.1 - Problemi sui rapporti
+
+a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
+
+b) L’altezza di un armadio sta all’altezza del soffitto come 7 sta a 10. Calcola l’altezza dell’armadio e la lunghezza della parete che rimane scoperta:
+1. se il soffitto è alto 3 metri [R. 210 cm; 90 cm];  
+2. se l'armadio è alto 140 cm;
+3. se il soffitto è alto h cm.  
+
+c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la sua lunghezza sapendo che la parte che emerge è lunga 5 metri. &emsp;  [R. 12]  
+
+d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
+
+e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
+
+
+
+## UNITA' 3: Incognite
+
+#### ESEMPIO 4
+
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono stati i costi?
+
+La quantità richiesta è data dai costi annui, ma per risolvere questo problema è necessario individuare una condizione che determini il valore della quantità richiesta. Tale condizione (che "condiziona" i nostri costi) è la formula che lega ricavi (fatturato), utile e costi in un periodo:
+$$
+Utile = Ricavi - Costi
+$$
+Indicando con $x$ i costi, abbiamo che la soluzione del problema è data dalla soluzione dell'equazione seguente:
+$$
+2.100.000 \cdot 20\%= 2.100.000 - x
+$$
+cioè $x = 2.100.000 - 420.000 \longrightarrow 1.680.000$ euro. $ \bullet$
+
+#### ESEMPIO 5
+
+In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati; sapendo che gli operai sono il quintuplo degli impiegati, calcola il numero degli impiegati e degli operai.
+
+Stavolta le quantità richieste sembrano due, numero degli impiegati e numero degli operai, ma in realtà queste quantità non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via. 
+
+Possiamo dire quindi che se gli impiegati sono $x$, l'espressione (letterale) che ci consente di calcolare il numero degli operai è $1000 + x$, in cui si vede chiaramente che il numero degli operai "dipende" dal numero degli impiegati.
+
+La condizione cui devono sottostare il numero degli operai e degli impiegati è che, qualunque siano i numeri, "gli operai sono il quintuplo degli impiegati". Tradotto in simboli abbiamo:
+$$
+1000 + x = 5 \cdot x
+$$
+Questa equazione ha soluzione $x = \dfrac{1000}{4} \longrightarrow 250$. $ \bullet$
 
 L'ultimo passo è quello di individuare una relazione di uguaglianza tra le grandezze o tra una di queste ed un numero. Questa è la condizione che deve essere soddisfatta  (cioè deve essere vera) da parte del numero soluzione del problema. Tale condizione può essere scritta nel testo del problema o deve essere una formula conosciuta, come negli esempi seguenti. 
 
@@ -235,27 +314,24 @@ Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \
 
 
 
-### ESERCIZIO 3.1 - Problemi sui rapporti
+### ESERCIZIO 4.0 - Dalle parole alle espressioni (I)
 
-a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
+a) Se la somma di due numeri è pari ad $x$ scrivi l'espressione che calcola:
 
-b) L’altezza di un armadio sta all’altezza del soffitto come 7 sta a 10. Calcola l’altezza dell’armadio e la lunghezza della parete che rimane scoperta:
-1. se il soffitto è alto 3 metri [R. 210 cm; 90 cm];  
-2. se l'armadio è alto 140 cm;
-3. se il soffitto è alto h cm.  
+1. La somma di $x$​ e $15$;
+2. Un terzo della somma di $x$ e $15$​; 
+3. Il triplo della somma di $x$ e $15$.
 
-c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la sua lunghezza sapendo che la parte che emerge è lunga 5 metri. &emsp;  [R. 12]  
+b) Se la lunghezza di un tavolo è $x \; cm$ scrivi l'espressione che esprime le grandezze seguenti.
 
-d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
-
-e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
-
+1. La metà della lunghezza del tavolo più $10$;
+2. Il doppio della lunghezza del tavolo meno un terzo della stessa;
+3. La metà della metà della lunghezza del tavolo.
 
 
-## UNITA' 4: Problemi sulle età, sconti e percentuali
 
+### ESERCIZIO 3.1 - Problemi sulla rappresentazione dell'età I
 
-### ESERCIZIO 4.1 - Problemi sulla rappresentazione dell'età I
 a) Rappresenta l’età indicata sulla base dell’età attuale nei casi seguenti.
 
 1. Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]
@@ -271,7 +347,7 @@ f) Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni
 
 
 
-### ESERCIZIO 4.2 - Problemi su sconti e percentuali
+### ESERCIZIO 3.2 - Problemi su sconti e percentuali
 
 Risolvi i problemi seguenti.
 

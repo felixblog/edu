@@ -382,11 +382,6 @@ a) Risolvi il punto a) dell'esercizio con i seguenti comandi GEOGEBRA:
 4. Sul menu di riga della funzione $f(x)$ scegli "Tabella di valori";
 5. Automaticamente saranno calcolati nella colonna con intestazione $f(x)$ i corrispondenti valori della funzione.
 
-Alla stessa conclusione si arriva con la sequenza di comandi seguente (calcolatrice GRAFICA):
-
-1. $f(x) := 2 \cdot |x|$ &#9166; 
-2. $Compatta( (k,f(k)), k, d )$ &#9166; 
-
 
 
 <img src="img\valore-assoluto-successione.png" style="zoom: 13%;" />           <img src="img\valore-assoluto.png" style="zoom: 13%;" />

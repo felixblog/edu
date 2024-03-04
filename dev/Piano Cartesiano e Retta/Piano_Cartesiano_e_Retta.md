@@ -440,10 +440,13 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
-1. $y - \dfrac{1}{2}x = 5; \> y +\dfrac{-1}{3}x - 4 = 0$  
-2. $x+3y=-1; \> x-y=7;$
+1. $y - \dfrac{1}{2}x = 5$;
+2. $ y +\dfrac{-1}{3}x - 4 = 0$;  
+3. $x+3y=-1$;
+4. $x-y=7$.
 
 b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
+
 c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
 
 d) Individua per quali intervalli i polinomi seguenti sono positivi o negativi:
