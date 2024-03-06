@@ -299,7 +299,7 @@ La produttività (di periodo) di una unità produttiva è data dal rapporto tra 
 
 Usando questi concetti si possono risolvere dei problemi che riguardano la produttività del lavoro.
 
-ESEMPIO 1
+#### ESEMPIO 1
 
 Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Quanto impiegherebbero se lavorassero insieme?
 
@@ -309,17 +309,17 @@ Il prodotto di Giacomo è una parete; il tempo è $3$ ore e la sua produttività
 
 <img src="img/Parete.png" alt="Parete" style="zoom:80%;" />
 
-La somma delle produttività deve essere uguale alla produttività del gruppo, per cui l'equazione è $\dfrac{1}{t}=\dfrac{8}{15}$, che ha soluzione $\dfrac{15}{8}$, ossia $1,8$ ore.
+La somma delle produttività deve essere uguale alla produttività del gruppo, per cui l'equazione è $\dfrac{1}{t}=\dfrac{8}{15}$, che ha soluzione $\dfrac{15}{8}$, ossia $1,8$ ore. $ \bullet$
 
 
 
 ### ESERCIZIO 5.1 - Problemi sul lavoro I
 
-b) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
+a) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
 
-c) In $a$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $12$ operai? [R. $\dfrac{4}{3} a$]  
+b) In $a$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $12$ operai? [R. $\dfrac{4}{3} a$]  
 
-d) Sei operaie confezionano $120$ paia di guanti in $20$ giorni. Quanti giorni occorrono a $3$ operaie per confezionare $30$ paia di guanti dello stesso tipo? [R. $10$].
+c) Sei operaie confezionano $120$ paia di guanti in $20$ giorni. Quanti giorni occorrono a $3$ operaie per confezionare $30$ paia di guanti dello stesso tipo? [R. $10$].
 
 
 
