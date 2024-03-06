@@ -1,0 +1,50 @@
+<mxfile host="Electron" modified="2024-03-06T10:40:39.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="73nKmfVlNE_LODzfHWHp" version="23.1.5" type="device">
+  <diagram name="Diagrammi" id="adNDURB259T_IiHdilrD">
+    <mxGraphModel dx="1050" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X9VETM2yg6u4_EDR-1ea-2" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Anni Maria&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$e1:2 \cdot x$$&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;$$e2:50$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="470" y="68" width="107" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-3" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Anni Figlia Maria&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$x$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="93" width="107" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ibqwqm7O7WYa_dijnDCt-3" target="X9VETM2yg6u4_EDR-1ea-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="303" as="sourcePoint" />
+            <mxPoint x="550" y="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-6" value="$$e1$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ibqwqm7O7WYa_dijnDCt-4">
+          <mxGeometry x="-0.0622" y="2" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-5" value="Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="28" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-8" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Lunghezza Trave&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$e:\dfrac{2}{3} \cdot x$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="225" width="107" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-9" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Lunghezza Camion&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$x$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="107" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ibqwqm7O7WYa_dijnDCt-9" target="ibqwqm7O7WYa_dijnDCt-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="460" as="sourcePoint" />
+            <mxPoint x="560" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-11" value="$$e$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ibqwqm7O7WYa_dijnDCt-10">
+          <mxGeometry x="-0.0622" y="2" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibqwqm7O7WYa_dijnDCt-12" value="Una trave di cemento è i due terzi del camion che la trasporta" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="185" width="500" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

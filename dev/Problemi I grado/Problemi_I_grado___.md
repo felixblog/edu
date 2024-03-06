@@ -50,10 +50,10 @@ Alle quantità deve essere dato un nome preciso ed appropriato.
 
 #### ESEMPIO 2
 
-- Nella domanda "**Quanti anni** ha la figlia di Maria?", la quantità richiesta è il "Età (anni) della figlia di Maria";
 - Nella domanda "**Quanti giornali** ha venduto?", la quantità richiesta è il "Numero di Copie Vendute";
 - Nella domanda "**Quanti soldi** erano rimasti?", la quantità richiesta è l'"Importo Monetario Rimasto";
 - In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
+- In "**Quali** sono le **lunghezze** delle due barre?", si parla di due quantità, "Lunghezza della Prima Barra" e "Lunghezza della seconda Barra";
 - In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
 
 Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre grandezze. $ \bullet$
@@ -64,7 +64,7 @@ Come si vede, le somme di denaro vengono indicate come "importi", i periodi di t
 
 ​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
 
-La prima è l'"Importo Eredità del Marito"; è una grandezza monetaria e la sua misura è 20.000 euro. La seconda è l'"Importo Eredità Figlio" che misura 12.000 euro.
+La prima è l'"Importo Eredità del Marito", è una grandezza monetaria e la sua misura è 20.000 euro, la seconda è l'"Importo Eredità Figlio" che misura 12.000 euro.
 
 - Di quali quantità si parla nella frase seguente?
 
@@ -88,165 +88,245 @@ b) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un 
 1. La signora Mueller ha investito una somma complessiva di $4000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$.
 2. Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Il primo dipinge la recinzione di un giardino in $12$ ore, il secondo lo fa nel doppio del tempo.
 
-c) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
 
-1. Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro.
-2. Antonio ha 12 euro in più di Maria. 
-3. Un padre ha il doppio dell'età del figlio.
-4. Abbiamo quattro numeri; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo.
+
+
+
+### ESERCIZIO 1.1 - Primi problemi
+
+a) Risolvi i problemi seguenti impostando una equazione.
+
+1. Trova un numero che aumentato di 5 è uguale alla propria metà.
+2. Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro. Antonio ha 12 euro in più di Maria. Quanti euro ha  Maria? 
+3. Un padre ha il doppio dell'età del figlio. Sapendo che il padre ha 32 anni più del figlio, calcola l'età di entrambi. [Sugg. Se il padre ha il doppio dell'età del figlio, la differenza tra l'età del padre e quella del figlio è uguale all'età del figlio.]
+4. Con 20 kg di frutta si confeziona della marmellata. Aggiungendo lo zucchero e facendo bollire si ottiene 1 kg di marmellata ogni 2 kg di frutta. Si sistema la marmellata ottenuta in barattoli che contengono 5 hg di marmellata ognuno. Quanti barattoli sono necessari?
+5. La somma di quattro numeri è di 190; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo. Calcola i quattro numeri.
+
+b) Risolvi i problemi seguenti a.2), a.3) ed a.4) senza usare le equazioni.
+
+
+
+### ESERCIZIO 1.2 - Problemi sui numeri
+
+Risolvi i problemi seguenti.
+
+a) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?
+
+b) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.
+
+c) Trova due numeri sapendo che la loro somma è 18 ed il loro rapporto è 8.
+
+
+
+### ESERCIZIO 1.3 - Problemi su sconti e percentuali
+
+Risolvi i problemi seguenti.
+
+a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?  
+
+b) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?  
+
+c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del 40%, quale dei due è più conveniente?
+
+d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?
 
 
 
 ## UNITA' 2: Dipendenze tra grandezze
 
-Le grandezze di cui si parla nel testo di un problema non sono indipendenti l'una dalle altre e dopo averle individuate, si passa a capire come dipendono tra di loro. Facciamo alcuni esempi.
+Dopo aver individuato le grandezze nel testo del problema si passa a capire:
+
+1. quali sono le dipendenze tra le grandezze;
+2. da quale grandezza le altre dipendono;
+
+Le grandezze nel testo di un problema non sono indipendenti l'una dalle altre, come si vede dagli esempi seguenti.
 
 #### ESEMPIO 1
 
-"Una trave di cemento è i due terzi del camion che la trasporta. E' più lunga la trave o il camion?"
+"Una trave di cemento è i due terzi del camion che la trasporta"
 
-<img src="img/camion-trave-1.png" alt="camion-trave-1" style="zoom:80%;" />
+```mermaid
+graph LR
+A[Lunghezza Camion] --> B[Lunghezza Trave]
+```
 
-Si vede chiaramente che la lunghezza della trave dipende da quella del camion e che se il camion, ad esempio è lungo $15 \;m$ la trave è lunga $10 \;m$ e quindi è più lungo il camion.$ \bullet$​
+Abbiamo che $LunCamion = \dfrac{2}{3} \cdot LunTrave$​.
+
+
+
+"Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua."
+
+Qui abbiamo tre quantità, la lunghezza del palo, che chiameremo $LunPalo$, quella della parte nel terreno, $LunPaloInTerreno$ e quella della parte nell'acqua, $LunPaloInAcqua$. Le ultime due dipendono dalla prima:
+
+```mermaid
+graph LR
+A[LunPalo] --> B[LunPaloInTerreno]
+A[LunPalo] --> C[LunPaloInAcqua]
+```
+
+Se $LunPalo$ lo chiamiamo $x$, la dipendenza è indicata con con l'espressione $LunPaloInTerreno: \dfrac{1}{3}x$ e $LunPaloInAcqua: \dfrac{1}{4}x$. $ \bullet$
+
+Dopo aver trovato una grandezza da cui le altre dipendono, chiamiamo questa $x$ e scriviamo le espressioni contenenti la $x$​ che forniscono la misura delle altre.
 
 #### ESEMPIO 2
 
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono le dipendenze tra le grandezze?
+
+Nel testo si parla di due grandezze, "Fatturato" ed "Utile", ed una relazione tra di loro.
+```mermaid
+graph LR
+A[Fatturato] --> B[Utile]
+```
+
+Per cui  $Utile= 20 \% \cdot Fatturato$. $ \bullet$
+
+
+
 In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati. Quali sono le quantità e le loro relazioni?
 
-Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. $ \bullet$
-
-<img src="img/Impiegati-Operai-1.png" alt="Impiegati-Operai-1" style="zoom:80%;" />
+Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1000$. $ \bullet$
 
 
 
-Ogni grandezza ha un riquadro; se il riquadro ha una freccia entrante vuol dire che la misura della grandezza dipende da un'altra grandezza e si calcola in base ad una espressione. Oltre ad una espressione, la grandezza può avere come misura un numero, un dato che fa parte del testo e che viene riportato nel riquadro. 
+"Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le grandezze e quali sono le relazioni tra di loro?"
+
+Le misure delle grandezze coinvolte sono espresse in relazione alla lunghezza del palo: $LunPaloInTerreno = \dfrac{1}{3}LunPalo$ e  $LunPaloInAcqua = \dfrac{1}{4}LunPalo$. L'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, è uguale a tutto il palo meno la parte in acqua e la parte in terra, per cui Il grafico delle dipendenze è il seguente. $ \bullet$
+```mermaid
+graph LR
+A[LunPalo] --> B[LunPaloInTerreno]
+A[LunPalo] --> C[LunPaloInAcqua]
+B[LunPaloInTerreno] --> D[LunPaloEmergente]
+C[LunPaloInAcqua] --> D[LunPaloEmergente]
+A[LunPalo] --> D[LunPaloEmergente]
+D[LunPaloEmergente] -->|=| E((5))
+```
 
 #### ESEMPIO 3
 
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono le dipendenze tra le grandezze?
+"Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Come calcoliamo la percentuale di sconto?"
 
-Nel testo si parla di due grandezze, "Fatturato" ed "Utile", ed una relazione tra di loro. $ \bullet$
-
-<img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
-
-#### ESEMPIO 4
-
-Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le grandezze e quali sono le relazioni tra di loro?
-
-Le misure delle grandezze coinvolte sono espresse in relazione alla lunghezza del palo come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra. $ \bullet$
-
-<img src="img/Palo-1.png" alt="Palo-1" style="zoom:80%;" />
-
-#### ESEMPIO 5
-
-Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è il diagramma per il calcolo della percentuale di sconto?
-
-Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro, Prezzo Scontato o  $Ps$, che è $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, 
+Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con $P_l$, di cui conosciamo anche la misura, $48$ euro, prezzo scontato, $Ps$, che conosciamo essere di $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, per cui l'equazione, che nel nostro caso si presenta già in forma elementare, è la seguente.
 $$
 s\% = \dfrac{P_l-P_s}{P_l}
 $$
 
-Il diagramma delle dipendenze è quindi il seguente. $ \bullet$
+```mermaid
+graph LR
+A[Prezzo Iniziale] --> B[Sconto]
+C[Prezzo Finale] --> B[Sconto]
+A[Prezzo Iniziale] -->E[Perc Sconto] 
+B[Sconto] -->E[Perc Sconto]
 
-<img src="img/Sconto-1.png" alt="Sconto-1" style="zoom:80%;" />
+```
+
+Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$.
 
 
 
-### ESERCIZIO 2.1 - Dipendenze tra grandezze
+### ESERCIZIO 3.1 - Problemi sui rapporti
 
-Per ciascuna delle descrizioni seguenti individua le grandezze coinvolte, la loro eventuale misura e disegna il diagramma delle dipendenze.
+a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro. Se la legge divide la proprietà in rapporto al lascito testamentario, quanto dovrebbero avere il marito ed il figlio?  &emsp;  [R. 10.250 e 6.150 euro]  
 
-a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro e la legge divide la proprietà in rapporto al lascito testamentario.  
+b) L’altezza di un armadio sta all’altezza del soffitto come 7 sta a 10. Calcola l’altezza dell’armadio e la lunghezza della parete che rimane scoperta:
+1. se il soffitto è alto 3 metri [R. 210 cm; 90 cm];  
+2. se l'armadio è alto 140 cm;
+3. se il soffitto è alto h cm.  
 
-b) Una cassa contiene 140 palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
+c)  Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la sua lunghezza sapendo che la parte che emerge è lunga 5 metri. &emsp;  [R. 12]  
 
-c) Tre sorelle hanno una età complessiva pari a $75$​ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre.
+d)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]   
 
-e)  Una somma di 1750 euro deve essere divisa tra due persone e la seconda ha i tre quarti di quanto ha la prima.
+e)  Una somma di 1750 euro deve essere divisa tra due persone in proporzione di 3 su 4. Quanto deve ricevere ciascuno?
 
 
 
 ## UNITA' 3: Incognite
 
-
-
-#### ESEMPIO 1
-
-Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza del camion è $18$ metri. Quale è la misura della lunghezza della trave?
-
-<img src="img/camion-trave-2.png" alt="camion-trave-2" style="zoom:80%;" />
-
-Abbiamo che $\text{Lunghezza Trave} = \dfrac{2}{3} \cdot 21 \longrightarrow 14$. $ \bullet$
-
-
-
-#### ESEMPIO 2
-
-Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza della trave è $18$ metri. Quanto è lungo il camion?
-
-<img src="img/camion-trave-3.png" alt="camion-trave-3" style="zoom:80%;" />
-
-#### ESEMPIO 3
-
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Se indichiamo con $x$ la misura del costo sostenuto, quale è il diagramma delle dipendenze?
-
-Nel testo si parla di "Fatturato", "Utile" e "Costo"., ed una relazione tra di loro.
-Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\text{Utile} = \text{Fatturato} -\text{Costo}$, per cui abbiamo il diagramma seguente:
-
-<img src="img/Fatturato-Utile-2.png" alt="Fatturato-Utile-2" style="zoom:80%;" />
-
-e l'equazione:
-$$
-2.100.000 - C = 20\% \cdot 2.100.000
-$$
-che ha soluzione $C = 1.680.000$. $ \bullet$
-
-
-
-
 #### ESEMPIO 4
 
-In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati e sono anche il quintuplo degli impiegati. Disegna il diagramma delle dipendenze.
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono stati i costi?
 
-Le quantità presenti sono due, numero degli impiegati e numero degli operai, sono dipendenti tra di loro e ci sono due modi di calcolare il numero di impiegati: sono sia $1000$ in più degli impiegati che cinque volte gli impiegati (se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$, ma anche $500$, se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$, ma anche $3000$ e così via. 
-
-Possiamo dire quindi che se gli impiegati sono $x$, l'espressione (letterale) che ci consente di calcolare il numero degli operai è $1000 + x$ ma anche $5 \cdot x$ perché sono anche il quintuplo degli impiegati, quindi il diagramma è il seguente:
-
-<img src="img/Impiegati-Operai-2.png" alt="Impiegati-Operai-2" style="zoom:80%;" />
-
-L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$. $ \bullet$
-
-
-
+La quantità richiesta è data dai costi annui, ma per risolvere questo problema è necessario individuare una condizione che determini il valore della quantità richiesta. Tale condizione (che "condiziona" i nostri costi) è la formula che lega ricavi (fatturato), utile e costi in un periodo:
+$$
+Utile = Ricavi - Costi
+$$
+Indicando con $x$ i costi, abbiamo che la soluzione del problema è data dalla soluzione dell'equazione seguente:
+$$
+2.100.000 \cdot 20\%= 2.100.000 - x
+$$
+cioè $x = 2.100.000 - 420.000 \longrightarrow 1.680.000$ euro. $ \bullet$
 
 #### ESEMPIO 5
 
-Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri.
+In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati; sapendo che gli operai sono il quintuplo degli impiegati, calcola il numero degli impiegati e degli operai.
 
-Riprendendo l'esempio precedente, qui si aggiunge il fatto che la misura della parte emergente è $5$ metri. Quindi abbiamo il diagramma seguente
+Stavolta le quantità richieste sembrano due, numero degli impiegati e numero degli operai, ma in realtà queste quantità non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via. 
 
-<img src="img/Palo-2.png" alt="Palo-2" style="zoom:80%;" />
+Possiamo dire quindi che se gli impiegati sono $x$, l'espressione (letterale) che ci consente di calcolare il numero degli operai è $1000 + x$, in cui si vede chiaramente che il numero degli operai "dipende" dal numero degli impiegati.
 
-e l'equazione risolutiva è:
+La condizione cui devono sottostare il numero degli operai e degli impiegati è che, qualunque siano i numeri, "gli operai sono il quintuplo degli impiegati". Tradotto in simboli abbiamo:
+$$
+1000 + x = 5 \cdot x
+$$
+Questa equazione ha soluzione $x = \dfrac{1000}{4} \longrightarrow 250$. $ \bullet$
+
+L'ultimo passo è quello di individuare una relazione di uguaglianza tra le grandezze o tra una di queste ed un numero. Questa è la condizione che deve essere soddisfatta  (cioè deve essere vera) da parte del numero soluzione del problema. Tale condizione può essere scritta nel testo del problema o deve essere una formula conosciuta, come negli esempi seguenti. 
+
+#### ESEMPIO 3
+
+"Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri."
+
+Riprendendo l'ESEMPIO 3, l'ultimo pezzo del palo, la parte che emerge, che chiamiamo $LunPaloEmergente$, da una parte è uguale a tutto il palo meno la parte in acqua e la parte in terra, cioè $x - \dfrac{1}{4}x - \dfrac{1}{3}x$ e dall'altra è uguale a $5$ metri. Quindi abbiamo che la condizione è l'uguaglianza della parte rimanente a $5$ per cui l'equazione è la seguente.
 $$
 x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
 $$
-La soluzione è $12$. $ \bullet$
+La soluzione è $12$. Il grafico delle dipendenze è il seguente. $ \bullet$
 
+```mermaid
+graph LR
+A[LunPalo] --> B[LunPaloInTerreno]
+A[LunPalo] --> C[LunPaloInAcqua]
+B[LunPaloInTerreno] --> D[LunPaloEmergente]
+C[LunPaloInAcqua] --> D[LunPaloEmergente]
+A[LunPalo] --> D[LunPaloEmergente]
+D[LunPaloEmergente] -->|=| E((5))
+```
 
+#### ESEMPIO 4
 
-#### ESEMPIO 6
+Problema: Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
 
-Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
-
-Per risolvere il problema basta propagare i valori.
+Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con $P_l$, di cui conosciamo anche la misura, $48$ euro, prezzo scontato, $Ps$, che conosciamo essere di $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, per cui l'equazione, che nel nostro caso si presenta già in forma elementare, è la seguente.
 $$
 s\% = \dfrac{P_l-P_s}{P_l}
 $$
 
-<img src="img/Sconto-2.png" alt="Sconto-2" style="zoom:80%;" />
+```mermaid
+graph LR
+A[Prezzo Iniziale] --> B[Sconto]
+C[Prezzo Finale] --> B[Sconto]
+A[Prezzo Iniziale] -->E[Perc Sconto] 
+B[Sconto] -->E[Perc Sconto]
 
-Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$. $ \bullet$
+```
+
+Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$.
+
+
+
+### ESERCIZIO 4.0 - Dalle parole alle espressioni (I)
+
+a) Se la somma di due numeri è pari ad $x$ scrivi l'espressione che calcola:
+
+1. La somma di $x$​ e $15$;
+2. Un terzo della somma di $x$ e $15$​; 
+3. Il triplo della somma di $x$ e $15$.
+
+b) Se la lunghezza di un tavolo è $x \; cm$ scrivi l'espressione che esprime le grandezze seguenti.
+
+1. La metà della lunghezza del tavolo più $10$;
+2. Il doppio della lunghezza del tavolo meno un terzo della stessa;
+3. La metà della metà della lunghezza del tavolo.
 
 
 
@@ -282,7 +362,7 @@ d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al
 
 
 
-### ESERCIZIO 3.3 - Problemi sull'età
+### ESERCIZIO 4.3 - Problemi sull'età
 Risolvi i seguenti problemi.
 
 a) Luca ha $53$ anni e sua figlia ne ha $21$. Fra quanti anni l’età di Luca sarà i $\dfrac{5}{3}$ dell’età di sua figlia?  
@@ -295,25 +375,13 @@ c) Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tr
 
 ## UNITA' 5: Problemi sulla produttività del lavoro
 
-La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$. La produttività $\Pi$ di un gruppo (o squadra) di $n$ unità produttive è data dalla somma delle singole produttività ed è ovviamente maggiore di quella di ciascuno. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$​.
-
-Usando questi concetti si possono risolvere dei problemi che riguardano la produttività del lavoro.
-
-ESEMPIO 1
-
-Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Quanto impiegherebbero se lavorassero insieme?
-
-Il prodotto di Giacomo è una parete; il tempo è $3$ ore e la sua produttività $\pi_1=\dfrac{1}{3}$ di parete l'ora. Analogamente per Giovanni abbiamo $\pi_2=\dfrac{1}{5}$ di parete l'ora. Insieme costituiscono un gruppo che deve produrre lo stesso prodotto (la stessa parete) in un tempo $t$ con una produttività di gruppo che è la somma delle due, cioè $\Pi = \dfrac{1}{3} + \dfrac{1}{5} \longrightarrow \dfrac{8}{15}$​.
-
-
-
-<img src="img/Parete.png" alt="Parete" style="zoom:80%;" />
-
-La somma delle produttività deve essere uguale alla produttività del gruppo, per cui l'equazione è $\dfrac{1}{t}=\dfrac{8}{15}$, che ha soluzione $\dfrac{15}{8}$, ossia $1,8$ ore.
+La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$; la produttività $\Pi$ di un insieme di $n$ unità è data dalla somma delle singole produttività. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$
 
 
 
 ### ESERCIZIO 5.1 - Problemi sul lavoro I
+
+a) Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Quanto impiegherebbero se lavorassero insieme?  
 
 b) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
 
@@ -326,10 +394,10 @@ d) Sei operaie confezionano $120$ paia di guanti in $20$ giorni. Quanti giorni o
 ### ESERCIZIO 5.2 - Problemi sul lavoro II
 Risolvi i seguenti problemi.
 
-a) In una fabbrica ci sono $2$ macchine, la prima produce $10$ pezzi all’ora, la seconda $7$ pezzi all’ora.
-Le due macchine hanno prodotto in tutto $191$ pezzi lavorando complessivamente $23$ ore. Determina il numero dei pezzi prodotti dall’una e dall’altra macchina.  
+a) In una fabbrica ci sono 2 macchine, la prima produce 10 pezzi all’ora, la seconda 7 pezzi all’ora.
+Le due macchine hanno prodotto in tutto 191 pezzi lavorando complessivamente 23 ore. Determina il numero dei pezzi prodotti dall’una e dall’altra macchina.  
 
-b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\euro}\; 1300$. Poiché l’azienda aumenta la produzione, vengono assunti nuovi dipendenti pari al $14\%$ del personale e viene concesso un aumento di stipendio del $4\%$ a tutti. Se mensilmente l’azienda spende ora $231.192$ euro, quanti erano inizialmente i dipendenti? [R. 150]
+b) I dipendenti di una azienda ricevono uno stipendio medio mensile di € 1300. Poiché l’azienda aumenta la produzione, vengono assunti nuovi dipendenti pari al 14% del personale e viene concesso un aumento di stipendio del 4% a tutti. Se mensilmente l’azienda spende ora 231.192 euro, quanti erano inizialmente i dipendenti? [R. 150]
 
 
 
