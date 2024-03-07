@@ -295,9 +295,27 @@ c) Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tr
 
 ## UNITA' 5: Problemi sulla produttività del lavoro
 
-La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$. La produttività $\Pi$ di un gruppo (o squadra) di $n$ unità produttive è data dalla somma delle singole produttività ed è ovviamente maggiore di quella di ciascuno. Se le produttività delle unità sono tutte uguali: $\Pi = n\pi$ ossia $\Pi = \dfrac{nq}{t}$​.
+La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$.
 
-Usando questi concetti si possono risolvere dei problemi che riguardano la produttività del lavoro.
+Se abbiamo un gruppo (o squadra) di unità, il prodotto totale della squadra è la somma dei prodotti, nel caso di due unità $q_1$ e $q_2$, dei singoli.
+$$
+Q = q_1 + q_2
+$$
+Abbiamo due casi:
+
+1. le unità lavorano insieme (per la stessa durata di tempo $t$) ed allora, dividendo per $t$, abbiamo che la produttività totale è la somma delle singole produttività $\pi_1$ e $\pi_2$:
+
+$$
+\Pi = \pi_1 + \pi_2 \\
+$$
+
+2. le unità non lavorano in squadra (ossia per la stessa durata di tempo), ma per tempi diversi, ad esempio $t_1$ e $t_2$; allora dalla somma delle produzioni, poiché $q_1=\pi_1 \cdot t_1$ e $q_2=\pi_2 \cdot t_2$ abbiamo che:
+
+$$
+Q = \pi_1 \cdot t_1 + \pi_2 \cdot q_2
+$$
+
+Usando queste formule si possono risolvere dei problemi che riguardano la produttività del lavoro.
 
 #### ESEMPIO 1
 
@@ -329,7 +347,7 @@ Risolvi i seguenti problemi.
 a) In una fabbrica ci sono $2$ macchine, la prima produce $10$ pezzi all’ora, la seconda $7$ pezzi all’ora.
 Le due macchine hanno prodotto in tutto $191$ pezzi lavorando complessivamente $23$ ore. Determina il numero dei pezzi prodotti dall’una e dall’altra macchina.  
 
-b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\euro}\; 1300$. Poiché l’azienda aumenta la produzione, vengono assunti nuovi dipendenti pari al $14\%$ del personale e viene concesso un aumento di stipendio del $4\%$ a tutti. Se mensilmente l’azienda spende ora $231.192$ euro, quanti erano inizialmente i dipendenti? [R. 150]
+b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\euro}\; 1300$. Poiché l’azienda aumenta la produzione, vengono assunti nuovi dipendenti pari al $14\%$ del personale e viene concesso un aumento di stipendio del $4\%$ a tutti. Se mensilmente l’azienda spende ora $231.192$ euro, quanti erano inizialmente i dipendenti? [R. $150$]
 
 
 
@@ -339,15 +357,15 @@ b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\e
 ### ESERCIZIO 6.1 - Problemi sul moto e sulla velocità
 Risolvi i seguenti problemi.
 
-a) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di 100 Km/h superiore a quella del più lento. Dopo 5 ore di volo i due distano 2000 Km. Trova la velocità di ciascun aereo.  
+a) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \;Km/h$ superiore a quella del più lento. Dopo $5$ ore di volo i due distano $2000 \;Km$. Trova la velocità di ciascun aereo.  
 
-b) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di 40 Km/h mentre l’altra a 20 Km/h. Se la distanza tra le due città è di 150 Km quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso?  
+b) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di $40 \;Km/h$ mentre l’altra a $20 \;Km/h$. Se la distanza tra le due città è di $150 \;Km$ quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso?  
 
-c) Un viaggiatore impiega 12 ore per un tragitto di andata e ritorno, con una velocità di 20 Km/h per l’andata e 30 Km/h per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
+c) Un viaggiatore impiega $12$ ore per un tragitto di andata e ritorno, con una velocità di $20 \;Km/h$ per l’andata e $30 \;Km/h$ per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
 
-d) Un postino che viaggia a 30 Km/h è in viaggio da 3 ore. Un altro postino, inviato per raggiungerlo, viaggia a 50 Km/h. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
+d) Un postino che viaggia a $30 \;Km/h$ è in viaggio da $3$ ore. Un altro postino, inviato per raggiungerlo, viaggia a $50 \;Km/h$. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
 
-e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore viene riempita da un secondo rubinetto se i due rubinetti, aperti insieme, la riempiono in 4 ore? (Indica con $x$ il numero di ore richiesto e determina la percentuale di cisterna che ogni rubinetto riesce a riempire ogni ora). [R. 20 ore]
+e) Una cisterna viene riempita da un primo rubinetto in $5$ ore. In quante ore viene riempita da un secondo rubinetto se i due rubinetti, aperti insieme, la riempiono in $4$ ore? (Indica con $x$ il numero di ore richiesto e determina la percentuale di cisterna che ogni rubinetto riesce a riempire ogni ora). [R. $20$ ore]
 
 
 
@@ -356,22 +374,22 @@ e) Una cisterna viene riempita da un primo rubinetto in 5 ore. In quante ore vie
 ### ESERCIZIO 7.1 - Problemi su interesse ed investimenti I
 a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplificala nelle situazioni seguenti.
 
-1. 2000€ al 5%; &emsp; [R. 100€]
-2. (C + 200)€  al 6%;   &emsp;   [R. 12€ + 0,06C€]  
-3. C€ al 5% più 2C€ al 5%; &emsp;   [R. (3/20)C€]  
-4. C€ al 3% e (2C — 400)€ al 6%; &emsp;  
-5. C€ al 7%, 2C€ al 5% e  0.07C al 3%; 
+1. $2.000$ € al $5\%$; &emsp; [R. $\text{100€}$]
+2. $C + 200$ €  al $6\%$;   &emsp;   [R. $12 + 0,06C$ €]
+3. $C$ € al $5\%$ più $2C$ € al 5%; &emsp;   [R. $\dfrac{3}{20}C$ €]
+4. $C$ € al $3\%$ e $2C\;—\;400$ € al $6\%$;
+5. $C$ € al $7\%$, $2C$ € al $5\%$ e  $0.07C$ € al $3\%$.
 
-&emsp;
+
 
 ### ESERCIZIO 7.2 - Problemi su interesse ed investimenti II
 Risolvi i seguenti problemi.
 
-a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di 5 a 3. La prima somma è stata investita al tasso del 4% e la seconda al tasso del 2%. L’interesse annuale della prima eccede quello della seconda di 112 euro. Quali sono stati i due investimenti? [R. 16.800, 28-000]  
+a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di $5$ a $3$. La prima somma è stata investita al tasso del $4\%$ e la seconda al tasso del $2\%$. L’interesse annuale della prima eccede quello della seconda di $112$ euro. Quali sono stati i due investimenti? [R. $16.800$, $28.000$]  
 
-b) La signora Mueller ha investito una somma complessiva di 4000 euro. Su di una parte ha guadagnato il 4% mentre sulla rimanente ha perso il 3%. Sommando guadagni e perdite il suo reddito dell’anno è stato di 55 euro. Trova l’ammontare dei due capitali. [R. 2500, 1500]  
+b) La signora Mueller ha investito una somma complessiva di $4.000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$. Sommando guadagni e perdite il suo reddito dell’anno è stato di $55$ euro. Trova l’ammontare dei due capitali. [R. $2.500$, $1.500$]  
 
-c) Il signor Black ha investito 3000 euro al tasso del 3% e 1000 euro al tasso del 4%. Quanto deve investire al tasso del 6% in modo che il suo ricavato annuo sia del 5% dell’intero investimento?
+c) Il signor Black ha investito $3.000$ euro al tasso del $3\%$ e $1.000$ euro al tasso del $4\%$. Quanto deve investire al tasso del $6\%$ in modo che il suo ricavato annuo sia del $5\%$ dell’intero investimento?
 
 
 
@@ -399,7 +417,7 @@ a) Scrivi l’espressione del valore totale della merce in euro al chilo e sempl
 b) Scrivi l’espressione del valore totale della merce in centesimi e semplifica
 
 1. $n$ francobolli del costo di ¢ 35 ciascuno;
-2. $20 – n$ francobolli del costo di ¢ 50 l’uno;
+2. $20 \:–\; n$ francobolli del costo di ¢ 50 l’uno;
 3. $x$ dozzine di matite del valore di ¢ 20 l’una;
 4. 3 dozzine di matite a ¢ 60 la dozzina.
 
