@@ -101,7 +101,7 @@ y = mx+q
 $$
 detta ***equazione (generica) della retta in forma esplicita***. Le lettere $m$ e $q$ rappresentano due numeri qualsiasi per cui quelle che seguono sono tutte equazioni di rette.
 
-#### ESEMPI
+#### ESEMPIO 1
 
 Individuiamo $m$ e $q$ nelle equazioni che seguono:
 
@@ -118,7 +118,7 @@ Risolviamo il primo problema.
 
 Per disegnare in un piano cartesiano la retta geometrica corrispondente ad una equazione in forma esplicita basta trovare due soluzioni sostituendo all'incognita $x$ due numeri in successione e calcolando il corrispondente valore della $y$.
 
-#### ESEMPIO
+#### ESEMPIO 2
 
 Data l'equazione $y = -2x -1$ diamo ad $x$ i valori $0$ ed $1$ e calcoliamo la corrispondente $y$:
 
@@ -142,7 +142,7 @@ Abbiamo il risultato seguente. $ \bullet$
 
 
 
-#### ESEMPIO
+#### ESEMPIO 3
 
 Scriviamo in forma esplicita l'equazione $-2y + 3 = 4x$.
 
@@ -295,7 +295,7 @@ Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q
 
 Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. Le coordinate complete del punto di intersezione della retta con l'asse delle $y$ sono $(0,q)$.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Se proviamo a disegnare (anche con GEOGEBRA) le tre rette seguenti, che hanno tutte lo stesso coefficiente angolare ma diversi $q$, vedremo il grafico seguente:
 
@@ -309,7 +309,7 @@ L'altezza dei punti di intersezione corrisponde a $(0,q)$ dove $q$ è parametro 
 
 Il coefficiente angolare determina l'angolo di inclinazione della retta rispetto all'asse orizzontale. Se $m$ è positivo la retta è inclinata verso l'alto; se è negativo è inclinata verso il basso e se è pari a zero la retta è orizzontale.
 
-#### ESEMPIO
+#### ESEMPIO 2
 
 Osserviamo il grafico seguente dove sono disegnate le rette riportate di sotto.
 
@@ -449,11 +449,6 @@ b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto 
 
 c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
 
-d) Individua per quali intervalli i polinomi seguenti sono positivi o negativi:
-
-1. $\dfrac{1}{2}x;$   $\dfrac{-1}{3}x - 4$ ;   $11;$
-2. $\dfrac{11}{8}(x-16);$   $-2x + 11$.
-
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a.1) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
@@ -512,12 +507,17 @@ Se la retta non interseca l'asse delle $x$, il suo grafico sarà o tutto nel sem
 
 ### ESERCIZIO 7.1 - Intervallo di Positività
 
-Per ciascuna delle rette seguenti, disegna il grafico e trova l'intervallo di positività.
+a) Per ciascuna delle rette seguenti, disegna il grafico e trova l'intervallo di positività.
 
-a) $y = x -1$;
+1. $y = x -1$;
+2. $y + 2x = 1$;
+3. $y = -3$​;
+4. $y = 1$.
 
-b) $y + 2x = 1$;
+b) Individua per quali intervalli dell'asse delle $x$ i polinomi seguenti sono positivi o negativi.
 
-c) $y = -3$​;
-
-c) $y = 1$.
+1. $\dfrac{1}{2}x$;
+2. $\dfrac{-1}{3}x - 4$;
+3. $11;$
+4. $\dfrac{11}{8}(x-16)$;
+5. $-2x + 11$.
