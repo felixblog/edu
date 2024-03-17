@@ -13,11 +13,11 @@ Questo problema si può risolvere senza fare calcoli particolari, ma analizziamo
 
 Oltre a questa vediamo che si parla di un'altra quantità, o grandezza, diversa dalla prima, gli <u>anni di Maria</u>. 
 
-Tra gli anni della figlia e quelli di Maria c'è una relazione: gli anni di Maria sono il doppio di quelli della figlia (e quelli della figlia sono la metà di quelli di Maria). Noi non sappiamo quanti anni ha Maria, o la figlia, ma questo fatto ci dice che **una delle due grandezze dipende dall'altra** ossia che se la figlia ha $20$ anni, Maria ne ha $40$ e se Maria ne ha $60$, la figlia ne avrà $30$: le due quantità sono vincolate ad essere così.
+Tra gli anni della figlia e quelli di Maria c'è una relazione: gli anni di Maria sono il doppio di quelli della figlia (e quelli della figlia sono la metà di quelli di Maria). Noi non sappiamo quanti anni ha Maria, o la figlia, ma questo fatto ci dice che **una delle due quantità si calcola conoscendo l'altra** ossia che se la figlia ha $20$ anni, Maria ne ha $40$ e se Maria ne ha $60$, la figlia ne avrà $30$: le due quantità sono vincolate ad essere così.
 
 Decidiamo di chiamare gli anni della figlia con una lettera, detta "incognita", diciamo $x$. Allora gli anni di Maria saranno calcolati dall'espressione $2 \cdot x$.
 
-Per completare il ragionamento osserviamo che il problema parla di un altro fatto: "Maria ha 50 anni". Questo secondo fatto obbliga gli anni di Maria ad essere uguali ad un numero specifico, cioè è una **condizione**" che impone un vincolo agli anni di Maria e quindi a quelli della figlia: infatti, gli anni della figlia possono essere $10$? No, perché il doppio di $10$ non è $50$ (non <u>rende la condizione vera</u>); possono essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Possono solo essere $25$ ossia la metà di $50$, che è l'unico numero possibile per l'età della figlia di Maria.
+Per completare il ragionamento osserviamo che il problema parla di un altro **fatto**, ci dà un'altra **informazione** che non abbiamo ancora utilizzato: "Maria ha 50 anni". Questo secondo fatto obbliga gli anni di Maria ad essere uguali ad un numero specifico: è un vincolo, una **condizione** sugli anni di Maria e di conseguenza su quelli della figlia. Possono infatti, gli anni della figlia essere uguali a $10$? No, perché il doppio di $10$ non è $50$ (la condizione non è resa vera); possono essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Possono solo essere $25$ ossia la metà di $50$, unico numero possibile per l'età della figlia di Maria.
 
 La traduzione in simboli della condizione è:
 $$
@@ -29,24 +29,24 @@ Questa è l'"equazione risolutiva del problema", che sarà vera quando $x=\dfrac
 
 Il metodo per risolvere questi problemi si articola in quattro passi:
 
-**PASSO 1: Quantità o grandezze**
+**PASSO 1: Quantità**
 
-**PASSO 2: Dipendenze**
+**PASSO 2: Relazioni**
 
 **PASSO 3: Incognita**
 
 **PASSO 4: Condizione**
 
-Il primo passo è l'individuazione delle quantità nel testo del problema. Dopo aver letto attentamente il problema, tante volte quante sono necessarie per capire cosa dice, ossia quale situazione descrive, e cosa ci chiede, bisogna individuare:
+Il primo passo è l'individuazione delle quantità nel testo del problema. Dopo aver letto attentamente il problema, tante volte quante sono necessarie per capire cosa dice, ossia quale situazione descrive e cosa ci chiede, bisogna individuare:
 
-1. Quali sono le **quantità** o **grandezze** di cui si parla nel testo del problema, sia la quantità richiesta, che tutte le altre;
-2. Di quali grandezze o quantità si conosce anche la **misura** (detta anche **valore** o **dato**) e di quali no;
+1. Quali sono le **quantità** di cui si parla nel testo del problema, sia la quantità richiesta, che tutte le altre;
+2. Di quali grandezze o quantità si conosce anche la **misura** (detta anche **valore noto** o **dato**) e di quali no.
 
-Una grandezza non è solo un "numero": la grandezza (o quantità) è un concetto, una proprietà quantitativa di qualcosa, come ad esempio la lunghezza di una strada, la lunghezza dei lati di un rettangolo, il peso di una persona, di un etto e mezzo di prosciutto, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
+Una quantità non è solo un "numero": la quantità è un concetto, una proprietà quantitativa di qualcosa, come ad esempio la lunghezza di una strada, la lunghezza dei lati di un rettangolo, il peso di una persona, di un etto e mezzo di prosciutto, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
 
-Il numero che è associato alla grandezza è la sua misura, ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$​; la misura dipende dall'unità con cui misuriamo e può essere contenuta nel testo del problema oppure no.
+Il numero che è associato alla grandezza è la sua misura, ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$; la misura dipende dall'unità con cui misuriamo e può essere **nota**, perché è contenuta nel testo del problema, oppure no.
 
-Alle quantità deve essere dato un nome preciso ed appropriato. 
+Alle quantità deve essere dato un nome preciso ed appropriato.
 
 #### ESEMPIO 2
 
@@ -56,7 +56,7 @@ Alle quantità deve essere dato un nome preciso ed appropriato.
 - In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
 
-Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi ed altre grandezze. $ \bullet$
+Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi eccetera. In generale il peso, la lunghezza, l'importo, si chiamano **grandezze**, mentre nelle situazioni specifiche indicate nei problemi le chiamiamo quantità. $ \bullet$
 
 #### ESEMPIO 3
 
@@ -64,7 +64,7 @@ Come si vede, le somme di denaro vengono indicate come "importi", i periodi di t
 
 ​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
 
-La prima è l'"Importo Eredità del Marito"; è una grandezza monetaria e la sua misura è 20.000 euro. La seconda è l'"Importo Eredità Figlio" che misura 12.000 euro.
+La prima è l'"Importo Eredità del Marito"; è una grandezza monetaria e la sua misura è 20.000 euro. La seconda è l'"Importo Eredità Figlio" che misura 12.000 euro. Tutte le quantità sono note.
 
 - Di quali quantità si parla nella frase seguente?
 
@@ -97,13 +97,13 @@ c) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un 
 
 
 
-## UNITA' 2: Dipendenze tra grandezze
+## UNITA' 2: Relazioni tra grandezze
 
-Le grandezze di cui si parla nel testo di un problema non sono indipendenti l'una dalle altre e dopo averle individuate, si passa a capire come dipendono tra di loro. Facciamo alcuni esempi.
+Le grandezze di cui si parla nel testo di un problema non sono indipendenti l'una dalle altre, ossia se sappiamo quanto misura una possiamo calcolare quanto misurano le altre. Facciamo alcuni esempi.
 
 #### ESEMPIO 1
 
-"Una trave di cemento è i due terzi del camion che la trasporta. E' più lunga la trave o il camion?"
+"Una trave di cemento è i due terzi del camion che la trasporta. E' più lunga la trave o il camion? E se il camion è lungo $15 \; m$ quanto è lunga la trave?"
 
 <img src="img/camion-trave-1.png" alt="camion-trave-1" style="zoom:80%;" />
 
@@ -113,27 +113,27 @@ Si vede chiaramente che la lunghezza della trave dipende da quella del camion e 
 
 In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati. Quali sono le quantità e le loro relazioni?
 
-Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. $ \bullet$
+Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. Osserviamo che nessuna delle due quantità è nota. $ \bullet$
 
 <img src="img/Impiegati-Operai-1.png" alt="Impiegati-Operai-1" style="zoom:80%;" />
 
 
 
-Ogni grandezza ha un riquadro; se il riquadro ha una freccia entrante vuol dire che la misura della grandezza dipende da un'altra grandezza e si calcola in base ad una espressione. Oltre ad una espressione, la grandezza può avere come misura un numero, un dato che fa parte del testo e che viene riportato nel riquadro. 
+Ogni quantità ha un riquadro; se il riquadro ha una freccia entrante vuol dire che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione. Oltre ad una espressione, la grandezza può avere come misura un numero, un dato che fa parte del testo e che viene riportato nel riquadro. 
 
 #### ESEMPIO 3
 
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono le dipendenze tra le grandezze?
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono le relazioni tra le quantità?
 
-Nel testo si parla di due grandezze, "Fatturato" ed "Utile", ed una relazione tra di loro. $ \bullet$
+Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tra di loro. Solo il fatturato è noto.$ \bullet$
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
 #### ESEMPIO 4
 
-Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le grandezze e quali sono le relazioni tra di loro?
+Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le quantità e quali sono le relazioni tra di loro?
 
-Le misure delle grandezze coinvolte sono espresse in relazione alla lunghezza del palo come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra. $ \bullet$
+Le misure delle quantità coinvolte sono espresse in relazione alla lunghezza del palo come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra. $ \bullet$
 
 <img src="img/Palo-1.png" alt="Palo-1" style="zoom:80%;" />
 
@@ -152,9 +152,9 @@ Il diagramma delle dipendenze è quindi il seguente. $ \bullet$
 
 
 
-### ESERCIZIO 2.1 - Dipendenze tra grandezze
+### ESERCIZIO 2.1 - Relazioni tra grandezze
 
-Per ciascuna delle descrizioni seguenti individua le grandezze coinvolte, la loro eventuale misura e disegna il diagramma delle dipendenze.
+Per ciascuna delle descrizioni seguenti individua le quantità coinvolte, la loro eventuale misura e disegna il diagramma delle dipendenze.
 
 a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro e la legge divide la proprietà in rapporto al lascito testamentario.  
 
@@ -166,7 +166,7 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone e la seconda ha i 
 
 
 
-## UNITA' 3: Incognite
+## UNITA' 3: Incognite ed Equazioni
 
 
 
@@ -176,7 +176,7 @@ Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza d
 
 <img src="img/camion-trave-2.png" alt="camion-trave-2" style="zoom:80%;" />
 
-Abbiamo che $\text{Lunghezza Trave} = \dfrac{2}{3} \cdot 21 \longrightarrow 14$. $ \bullet$
+Abbiamo che $\text{Lunghezza Trave} : Sostituisci(\dfrac{2}{3} \cdot x, \{x = 18\}) \longrightarrow \dfrac{2}{3} \cdot 18 \longrightarrow 12$. $ \bullet$
 
 
 
@@ -184,22 +184,26 @@ Abbiamo che $\text{Lunghezza Trave} = \dfrac{2}{3} \cdot 21 \longrightarrow 14$.
 
 Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza della trave è $18$ metri. Quanto è lungo il camion?
 
+Come nel problema precedente, ma stavolta il vincolo è che la lunghezza della trave è $18 \;m$ per cui l'equazione è $\dfrac{2}{3} \cdot x = 18$. 
+
 <img src="img/camion-trave-3.png" alt="camion-trave-3" style="zoom:80%;" />
+
+La soluzione è quindi $\text{Lunghezza Camion} : Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow 27$. $ \bullet$
 
 #### ESEMPIO 3
 
 Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Se indichiamo con $x$ la misura del costo sostenuto, quale è il diagramma delle dipendenze?
 
-Nel testo si parla di "Fatturato", "Utile" e "Costo"., ed una relazione tra di loro.
-Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\text{Utile} = \text{Fatturato} -\text{Costo}$, per cui abbiamo il diagramma seguente:
+Nel testo si parla di "Fatturato", "Utile", "Costo", ed una relazione tra di loro.
+Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\text{Utile} = \text{Fatturato} -\text{Costo}$. Il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema ($e_2)$, mentre il secondo ci permette di impostare una espressione per l'utile $(e_1)$ generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente:
 
 <img src="img/Fatturato-Utile-2.png" alt="Fatturato-Utile-2" style="zoom:80%;" />
 
-e l'equazione:
+Le due espressioni devono essere uguali per cui abbiamo l'equazione:
 $$
 2.100.000 - C = 20\% \cdot 2.100.000
 $$
-che ha soluzione $C = 1.680.000$. $ \bullet$
+che ha soluzione $Risolvi(2.100.000 - C = 20 \cdot \dfrac{1}{100} \cdot 2.100.000, \{C\}) \longrightarrow C=1.680.000$. $ \bullet$
 
 
 
@@ -252,7 +256,7 @@ Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \
 
 ### ESERCIZIO 3.1 - Problemi sulla rappresentazione dell'età I
 
-a) Rappresenta l’età indicata sulla base dell’età attuale nei casi seguenti.
+a) Scrivi l'espressione che calcola l’età indicata sulla base dell’età attuale nei casi seguenti.
 
 1. Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]
 2. 10 anni fa se adesso ha $x$ anni;  &emsp;  [R. $x-10$]
@@ -303,16 +307,16 @@ Q = q_1 + q_2
 $$
 Abbiamo due casi:
 
-1. le unità lavorano insieme (per la stessa durata di tempo $t$) ed allora, dividendo per $t$, abbiamo che la produttività totale è la somma delle singole produttività $\pi_1$ e $\pi_2$:
+1. le unità lavorano insieme (per la stessa durata di tempo $t$) ed allora, dividendo per $t$, abbiamo che la produttività totale è la somma delle singole produttività $\pi_1$ e $\pi_2$:
 
 $$
 \Pi = \pi_1 + \pi_2 \\
 $$
 
-2. le unità non lavorano in squadra (ossia per la stessa durata di tempo), ma per tempi diversi, ad esempio $t_1$ e $t_2$; allora dalla somma delle produzioni, poiché $q_1=\pi_1 \cdot t_1$ e $q_2=\pi_2 \cdot t_2$ abbiamo che:
+2. le unità non lavorano in squadra (ossia per la stessa durata di tempo), ma per tempi diversi, ad esempio $t_1$ e $t_2$; allora dalla somma delle produzioni, poiché $q_1=\pi_1 \cdot t_1$ e $q_2=\pi_2 \cdot t_2$ abbiamo che:
 
 $$
-Q = \pi_1 \cdot t_1 + \pi_2 \cdot q_2
+Q = \pi_1 \cdot t_1 + \pi_2 \cdot t_2
 $$
 
 Usando queste formule si possono risolvere dei problemi che riguardano la produttività del lavoro.
@@ -374,11 +378,11 @@ e) Una cisterna viene riempita da un primo rubinetto in $5$ ore. In quante ore v
 ### ESERCIZIO 7.1 - Problemi su interesse ed investimenti I
 a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplificala nelle situazioni seguenti.
 
-1. $2.000$ € al $5\%$; &emsp; [R. $\text{100€}$]
-2. $C + 200$ €  al $6\%$;   &emsp;   [R. $12 + 0,06C$ €]
-3. $C$ € al $5\%$ più $2C$ € al 5%; &emsp;   [R. $\dfrac{3}{20}C$ €]
-4. $C$ € al $3\%$ e $2C\;—\;400$ € al $6\%$;
-5. $C$ € al $7\%$, $2C$ € al $5\%$ e  $0.07C$ € al $3\%$.
+1. $2.000$ € al $5\%$; &emsp; [R. $\text{100€}$]
+2. $C + 200$ €  al $6\%$;   &emsp;   [R. $12 + 0,06C$ €]
+3. $C$ € al $5\%$ più $2C$ € al 5%; &emsp;   [R. $\dfrac{3}{20}C$ €]
+4. $C$ € al $3\%$ e $2C\;—\;400$ € al $6\%$;
+5. $C$ € al $7\%$, $2C$ € al $5\%$ e  $0.07C$ € al $3\%$.
 
 
 
