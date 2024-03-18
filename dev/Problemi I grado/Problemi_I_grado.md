@@ -11,7 +11,7 @@ Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la fig
 
 Questo problema si può risolvere senza fare calcoli particolari, ma analizziamo cosa ci chiede e cosa dobbiamo fare per trovarlo. La prima cosa da individuare è <u>cosa ci chiede di trovare</u>, ossia quale è la **quantità richiesta** soluzione dell'esercizio, in questo caso gli <u>anni della figlia di Maria</u>. 
 
-Oltre a questa vediamo che si parla di un'altra quantità, o grandezza, diversa dalla prima, gli <u>anni di Maria</u>. 
+Oltre a questa vediamo che si parla di un'altra quantità, diversa dalla prima, gli <u>anni di Maria</u>. 
 
 Tra gli anni della figlia e quelli di Maria c'è una relazione: gli anni di Maria sono il doppio di quelli della figlia (e quelli della figlia sono la metà di quelli di Maria). Noi non sappiamo quanti anni ha Maria, o la figlia, ma questo fatto ci dice che **una delle due quantità si calcola conoscendo l'altra** ossia che se la figlia ha $20$ anni, Maria ne ha $40$ e se Maria ne ha $60$, la figlia ne avrà $30$: le due quantità sono vincolate ad essere così.
 
@@ -40,11 +40,11 @@ Il metodo per risolvere questi problemi si articola in quattro passi:
 Il primo passo è l'individuazione delle quantità nel testo del problema. Dopo aver letto attentamente il problema, tante volte quante sono necessarie per capire cosa dice, ossia quale situazione descrive e cosa ci chiede, bisogna individuare:
 
 1. Quali sono le **quantità** di cui si parla nel testo del problema, sia la quantità richiesta, che tutte le altre;
-2. Di quali grandezze o quantità si conosce anche la **misura** (detta anche **valore noto** o **dato**) e di quali no.
+2. Di quali quantità si conosce anche la **misura** (detta anche **valore noto** o **dato**) e di quali no.
 
 Una quantità non è solo un "numero": la quantità è un concetto, una proprietà quantitativa di qualcosa, come ad esempio la lunghezza di una strada, la lunghezza dei lati di un rettangolo, il peso di una persona, di un etto e mezzo di prosciutto, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
 
-Il numero che è associato alla grandezza è la sua misura, ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$; la misura dipende dall'unità con cui misuriamo e può essere **nota**, perché è contenuta nel testo del problema, oppure no.
+Il numero che è associato alla quantità è la sua misura, ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$; la misura dipende dall'unità con cui misuriamo e può essere **nota**, perché è contenuta nel testo del problema, oppure no.
 
 Alle quantità deve essere dato un nome preciso ed appropriato.
 
@@ -64,7 +64,7 @@ Come si vede, le somme di denaro vengono indicate come "importi", i periodi di t
 
 ​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
 
-La prima è l'"Importo Eredità del Marito"; è una grandezza monetaria e la sua misura è 20.000 euro. La seconda è l'"Importo Eredità Figlio" che misura 12.000 euro. Tutte le quantità sono note.
+La prima è l'"Importo Eredità del Marito"; è una quantità monetaria e la sua misura è 20.000 euro. La seconda è l'"Importo Eredità Figlio" che misura 12.000 euro. Tutte le quantità sono note.
 
 - Di quali quantità si parla nella frase seguente?
 
@@ -74,21 +74,21 @@ Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lung
 
 
 
-### ESERCIZIO 1.1 - Grandezze e misure
+### ESERCIZIO 1.1 - Quantità e loro misure
 
-a) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
+a) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle quantità un nome appropriato.
 
 1. Un palo è conficcato nel terreno per un terzo della sua lunghezza e per un quarto è immerso nell’acqua di un fiume. Il fiume è profondo $3 \; m$.
 2. Una cassa contiene 140 palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
 3. Tre sorelle hanno una età complessiva pari a $75$​ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre.
 4. Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \; \dfrac{Km}{h}$ superiore a quella del più lento.
 
-b) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
+b) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle quantità un nome appropriato.
 
 1. La signora Mueller ha investito una somma complessiva di $4000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$.
 2. Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Il primo dipinge la recinzione di un giardino in $12$ ore, il secondo lo fa nel doppio del tempo.
 
-c) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle grandezze un nome appropriato.
+c) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle quantità un nome appropriato.
 
 1. Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro.
 2. Antonio ha 12 euro in più di Maria. 
@@ -97,9 +97,9 @@ c) Quante grandezze riesci ad individuare nelle descrizioni seguenti? Scrivi un 
 
 
 
-## UNITA' 2: Relazioni tra grandezze
+## UNITA' 2: Relazioni tra quantità
 
-Le grandezze di cui si parla nel testo di un problema non sono indipendenti l'una dalle altre, ossia se sappiamo quanto misura una possiamo calcolare quanto misurano le altre. Facciamo alcuni esempi.
+Le quantità di cui si parla nel testo di un problema non sono indipendenti l'una dalle altre, ossia se sappiamo quanto misura una possiamo calcolare quanto misurano le altre. Facciamo alcuni esempi.
 
 #### ESEMPIO 1
 
@@ -119,7 +119,7 @@ Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendent
 
 
 
-Ogni quantità ha un riquadro; se il riquadro ha una freccia entrante vuol dire che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione. Oltre ad una espressione, la grandezza può avere come misura un numero, un dato che fa parte del testo e che viene riportato nel riquadro. 
+Ogni quantità ha un riquadro; se il riquadro ha una freccia entrante vuol dire che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione. Oltre ad una espressione, la quantità può avere come misura un numero, un dato che fa parte del testo e che viene riportato nel riquadro. 
 
 #### ESEMPIO 3
 
@@ -152,7 +152,7 @@ Il diagramma delle dipendenze è quindi il seguente. $ \bullet$
 
 
 
-### ESERCIZIO 2.1 - Relazioni tra grandezze
+### ESERCIZIO 2.1 - Relazioni tra quantità
 
 Per ciascuna delle descrizioni seguenti individua le quantità coinvolte, la loro eventuale misura e disegna il diagramma delle dipendenze.
 
@@ -411,7 +411,7 @@ c) q monete da 25 centesimi 7 centesimi (in centesimi).
 
 
 ### ESERCIZIO 8.2 - Problemi sulle miscele
-a) Scrivi l’espressione del valore totale della merce in euro al chilo e semplifica (ricorda di trasformare tutte le grandezze nella stessa unità di misura).
+a) Scrivi l’espressione del valore totale della merce in euro al chilo e semplifica (ricorda di trasformare tutte le quantità nella stessa unità di misura).
 
 1. 3 Kg di te al costo di un euro e cinquanta l’etto;
 2. $n$ Kg di caffè del costo di 90¢ l’etto;
