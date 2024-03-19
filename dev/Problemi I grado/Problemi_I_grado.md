@@ -119,15 +119,19 @@ Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendent
 
 
 
-Ogni quantità ha un riquadro; se il riquadro ha una freccia entrante vuol dire che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione. Oltre ad una espressione, la quantità può avere come misura un numero, un dato che fa parte del testo e che viene riportato nel riquadro. 
+Il diagramma in figura è detto diagramma delle dipendenze, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso sia una quantità nota. Se il rettangolo ha una freccia entrante vuol dire che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione. 
+
+Se una quantità ha più espressioni/numeri che ne determinano il valore questi devono essere tutti uguali tra di loro. 
 
 #### ESEMPIO 3
 
 Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono le relazioni tra le quantità?
 
-Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tra di loro. Solo il fatturato è noto.$ \bullet$
+Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tra di loro. Solo il fatturato è noto.
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
+
+Nel rettangolo del Fatturato abbiamo che $x = 2.100.000$ per cui in quello dell'Utile $20\% \cdot x,\{x=2.100.000\} \longrightarrow 20\% \cdot 2.100.000 \longrightarrow 420.000$. $ \bullet$
 
 #### ESEMPIO 4
 
