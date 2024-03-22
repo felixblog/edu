@@ -33,7 +33,7 @@ Il metodo per risolvere questi problemi si articola in quattro passi:
 
 **PASSO 2: Relazioni**
 
-**PASSO 3: Incognita**
+**PASSO 3: Incognita e Propagazione**
 
 **PASSO 4: Condizione**
 
@@ -131,7 +131,7 @@ Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tr
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
-Nel rettangolo del Fatturato abbiamo che $x = 2.100.000$ per cui in quello dell'Utile $20\% \cdot x,\{x=2.100.000\} \longrightarrow 20\% \cdot 2.100.000 \longrightarrow 420.000$. $ \bullet$
+Nel rettangolo del Fatturato abbiamo che $x = 2.100.000$ per cui in quello dell'Utile $20\% \cdot x,\{x=2.100.000\} \longrightarrow 20\% \cdot 2.100.000 \longrightarrow 420.000$. $ \bullet$
 
 #### ESEMPIO 4
 
@@ -172,7 +172,7 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone e la seconda ha i 
 
 ## UNITA' 3: Incognite ed Equazioni
 
-
+Dopo aver individuato le relazioni presenti tra le quantità, bisogna propagare, ossia dedurre, calcolare, tutte le misure che è possibile a partire dalle quantità note.
 
 #### ESEMPIO 1
 
@@ -182,9 +182,45 @@ Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza d
 
 Abbiamo che $\text{Lunghezza Trave} : Sostituisci(\dfrac{2}{3} \cdot x, \{x = 18\}) \longrightarrow \dfrac{2}{3} \cdot 18 \longrightarrow 12$. $ \bullet$
 
-
-
 #### ESEMPIO 2
+
+Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
+
+Per risolvere il problema basta propagare i valori.
+$$
+s\% = \dfrac{P_l-P_s}{P_l}
+$$
+
+<img src="img/Sconto-2.png" alt="Sconto-2" style="zoom:80%;" />
+
+Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$. $ \bullet$
+
+
+
+Se sono rimaste quantità incognite, chiamiamo con una lettera, tradizionalmente la $x$, la quantità da cui le altre dipendono, e scriviamo, utilizzando la $x$, le espressioni letterali che calcolano il valore delle quantità incognite.
+
+#### ESEMPIO 3
+
+Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza della trave è $18$ metri.
+
+La lunghezza del camion è incognita; se la chiamiamo $x$ abbiamo che la lunghezza della trave è $\dfrac{2}{3} \cdot x$. $ \bullet$
+
+<img src="img/camion-trave-3.png" alt="camion-trave-3" style="zoom:80%;" />
+
+#### ESEMPIO 4
+
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Se indichiamo con $x$ la misura del costo sostenuto, quale è il diagramma delle dipendenze?
+
+Nel testo si parla di "Fatturato", "Utile", "Costo", ed una relazione tra di loro.
+Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\text{Utile} = \text{Fatturato} -\text{Costo}$. Il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema ($e_2)$, mentre il secondo ci permette di impostare una espressione per l'utile $(e_1)$ generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
+
+<img src="img/Fatturato-Utile-2.png" alt="Fatturato-Utile-2" style="zoom:80%;" />
+
+
+
+A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità, probabilmente la quantità richiesta, che avrà un riquadro con due scompartimenti, in cui figurano due espressioni che calcolano la quantità, una letterale e l'altra numerica o letterale. Queste due espressioni dovranno essere uguali e questa uguaglianza ci fornisce l'equazione cercata.    
+
+#### ESEMPIO 5
 
 Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza della trave è $18$ metri. Quanto è lungo il camion?
 
@@ -194,25 +230,26 @@ Come nel problema precedente, ma stavolta il vincolo è che la lunghezza della t
 
 La soluzione è quindi $\text{Lunghezza Camion} : Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow 27$. $ \bullet$
 
-#### ESEMPIO 3
 
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Se indichiamo con $x$ la misura del costo sostenuto, quale è il diagramma delle dipendenze?
 
-Nel testo si parla di "Fatturato", "Utile", "Costo", ed una relazione tra di loro.
-Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\text{Utile} = \text{Fatturato} -\text{Costo}$. Il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema ($e_2)$, mentre il secondo ci permette di impostare una espressione per l'utile $(e_1)$ generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente:
+#### ESEMPIO 6
+
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quale è il costo sostenuto?
+
+Il diagramma è quello dell'esempio 4.
 
 <img src="img/Fatturato-Utile-2.png" alt="Fatturato-Utile-2" style="zoom:80%;" />
 
-Le due espressioni devono essere uguali per cui abbiamo l'equazione:
+Le due espressioni dell'utile devono essere uguali per cui abbiamo l'equazione:
 $$
 2.100.000 - C = 20\% \cdot 2.100.000
 $$
-che ha soluzione $Risolvi(2.100.000 - C = 20 \cdot \dfrac{1}{100} \cdot 2.100.000, \{C\}) \longrightarrow C=1.680.000$. $ \bullet$
+che ha soluzione $Risolvi(2.100.000 - C = 20 \cdot \dfrac{1}{100} \cdot 2.100.000, \{C\}) \longrightarrow C=1.680.000$. $ \bullet$​
 
 
 
 
-#### ESEMPIO 4
+#### ESEMPIO 7
 
 In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati e sono anche il quintuplo degli impiegati. Disegna il diagramma delle dipendenze.
 
@@ -227,7 +264,7 @@ L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$. $ \bullet$
 
 
 
-#### ESEMPIO 5
+#### ESEMPIO 8
 
 Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri.
 
@@ -243,23 +280,36 @@ La soluzione è $12$. $ \bullet$
 
 
 
-#### ESEMPIO 6
+### ESERCIZIO 3.1 - Incognite ed equazioni I
 
-Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
+a) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.
 
-Per risolvere il problema basta propagare i valori.
-$$
-s\% = \dfrac{P_l-P_s}{P_l}
-$$
+b) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?
 
-<img src="img/Sconto-2.png" alt="Sconto-2" style="zoom:80%;" />
+c)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]
 
-Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$. $ \bullet$
+d) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \;Km/h$ superiore a quella del più lento. Dopo $5$ ore di volo i due distano $2000 \;Km$. Trova la velocità di ciascun aereo. 
+
+e) In una fattoria vi sono tra maiali e galline 45 animali. Quanti sono i maiali e quante le galline sapendo che la somma complessiva delle zampe è 116? 		[R. 32 galline e 13 maiali]
+
+f) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?
 
 
 
-### ESERCIZIO 3.1 - Problemi sulla rappresentazione dell'età I
+### ESERCIZIO 3.2 - Incognite ed equazioni II
 
+Risolvi i problemi seguenti.
+
+a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto? 
+
+b) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?
+
+c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del 40%, quale dei due è più conveniente?
+
+
+
+
+### ESERCIZIO 3.3 - Problemi sull'età
 a) Scrivi l'espressione che calcola l’età indicata sulla base dell’età attuale nei casi seguenti.
 
 1. Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]
@@ -267,37 +317,17 @@ a) Scrivi l'espressione che calcola l’età indicata sulla base dell’età att
 3. Tra $y$ anni se l’età attuale è 40 anni;  &emsp; [R. $x+40$]
 4. $y$ anni fa se attualmente ha 40 anni.  &emsp;  [R. $40-y$]
 
-f) Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni.
+b) Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni.
 
 1. Tra 5 anni se aveva 20 anni 10 anni fa;
 2. Tra $y$ anni se aveva 30 anni 5 anni fa;
 3. 5 anni fa se avrà venti anni tra $y$ anni.
 
+c) Risolvi i seguenti problemi.
 
-
-### ESERCIZIO 3.2 - Problemi su sconti e percentuali
-
-Risolvi i problemi seguenti.
-
-a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto?  
-
-b) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?  
-
-c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del 40%, quale dei due è più conveniente?
-
-d) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?
-
-
-
-
-### ESERCIZIO 3.3 - Problemi sull'età
-Risolvi i seguenti problemi.
-
-a) Luca ha $53$ anni e sua figlia ne ha $21$. Fra quanti anni l’età di Luca sarà i $\dfrac{5}{3}$ dell’età di sua figlia?  
-
-b) La differenza fra l’età di Paolo e quella di Marco è di $15$ anni. Quanti anni ha Paolo, sapendo che Marco ne ha il doppio?  
-
-c) Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre. La sorella di mezzo ha cinque anni in meno della sorella maggiore. Quanti anni ha la sorella maggiore?
+1. Luca ha $53$ anni e sua figlia ne ha $21$. Fra quanti anni l’età di Luca sarà i $\dfrac{5}{3}$ dell’età di sua figlia?  
+2. La differenza fra l’età di Paolo e quella di Marco è di $15$ anni. Quanti anni ha Paolo, sapendo che Marco ne ha il doppio?  
+3. Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre. La sorella di mezzo ha cinque anni in meno della sorella maggiore. Quanti anni ha la sorella maggiore?
 
 
 
@@ -365,15 +395,13 @@ b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\e
 ### ESERCIZIO 6.1 - Problemi sul moto e sulla velocità
 Risolvi i seguenti problemi.
 
-a) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \;Km/h$ superiore a quella del più lento. Dopo $5$ ore di volo i due distano $2000 \;Km$. Trova la velocità di ciascun aereo.  
+a) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di $40 \;Km/h$ mentre l’altra a $20 \;Km/h$. Se la distanza tra le due città è di $150 \;Km$ quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso?  
 
-b) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di $40 \;Km/h$ mentre l’altra a $20 \;Km/h$. Se la distanza tra le due città è di $150 \;Km$ quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso?  
+b) Un viaggiatore impiega $12$ ore per un tragitto di andata e ritorno, con una velocità di $20 \;Km/h$ per l’andata e $30 \;Km/h$ per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
 
-c) Un viaggiatore impiega $12$ ore per un tragitto di andata e ritorno, con una velocità di $20 \;Km/h$ per l’andata e $30 \;Km/h$ per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
+c) Un postino che viaggia a $30 \;Km/h$ è in viaggio da $3$ ore. Un altro postino, inviato per raggiungerlo, viaggia a $50 \;Km/h$. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
 
-d) Un postino che viaggia a $30 \;Km/h$ è in viaggio da $3$ ore. Un altro postino, inviato per raggiungerlo, viaggia a $50 \;Km/h$. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
-
-e) Una cisterna viene riempita da un primo rubinetto in $5$ ore. In quante ore viene riempita da un secondo rubinetto se i due rubinetti, aperti insieme, la riempiono in $4$ ore? (Indica con $x$ il numero di ore richiesto e determina la percentuale di cisterna che ogni rubinetto riesce a riempire ogni ora). [R. $20$ ore]
+d) Una cisterna viene riempita da un primo rubinetto in $5$ ore. In quante ore viene riempita da un secondo rubinetto se i due rubinetti, aperti insieme, la riempiono in $4$ ore? (Indica con $x$ il numero di ore richiesto e determina la percentuale di cisterna che ogni rubinetto riesce a riempire ogni ora). [R. $20$ ore]
 
 
 
@@ -429,11 +457,8 @@ b) Scrivi l’espressione del valore totale della merce in centesimi e semplific
 3. $x$ dozzine di matite del valore di ¢ 20 l’una;
 4. 3 dozzine di matite a ¢ 60 la dozzina.
 
-c) Risolvi i seguenti problemi.
-
-1. Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di 0,23 e 1,20 euro al Kg.  
-   La miscela di 30 Kg ha un valore di 1,02 euro al Kg. Quanti Kg di ciascun caffè ha utilizzato?
-2. In una fattoria vi sono tra maiali e galline 45 animali. Quanti sono i maiali e quante le galline sapendo che la somma complessiva delle zampe è 116? [R. 32 galline e 13 maiali]
+c) Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di 0,23 e 1,20 euro al Kg.  
+La miscela di 30 Kg ha un valore di 1,02 euro al Kg. Quanti Kg di ciascun caffè ha utilizzato?
 
 
 
