@@ -64,7 +64,7 @@ Come si vede, le somme di denaro vengono indicate come "importi", i periodi di t
 
 ​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
 
-La prima è l'"Importo Eredità del Marito"; è una quantità monetaria e la sua misura è 20.000 euro. La seconda è l'"Importo Eredità Figlio" che misura 12.000 euro. Tutte le quantità sono note.
+La prima è "Importo Eredità del Marito"; è una quantità monetaria e la sua misura è 20.000 euro. La seconda è "Importo Eredità Figlio" che misura 12.000 euro. Entrambe sono note.
 
 - Di quali quantità si parla nella frase seguente?
 
@@ -103,7 +103,9 @@ Le quantità di cui si parla nel testo di un problema non sono indipendenti l'un
 
 #### ESEMPIO 1
 
-"Una trave di cemento è i due terzi del camion che la trasporta. E' più lunga la trave o il camion? E se il camion è lungo $15 \; m$ quanto è lunga la trave?"
+"Una trave di cemento è i due terzi del camion che la trasporta. E' più lunga la trave o il camion? E se il camion è lungo $15 \; m$​ quanto è lunga la trave?"
+
+Chiamando con $l$ la lunghezza del camion abbiamo che
 
 <img src="img/camion-trave-1.png" alt="camion-trave-1" style="zoom:80%;" />
 
@@ -119,35 +121,59 @@ Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendent
 
 
 
-Il diagramma in figura è detto diagramma delle dipendenze, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso sia una quantità nota. Se il rettangolo ha una freccia entrante vuol dire che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione. 
-
-Se una quantità ha più espressioni/numeri che ne determinano il valore questi devono essere tutti uguali tra di loro. 
-
 #### ESEMPIO 3
 
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quali sono le relazioni tra le quantità?
+Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?
 
-Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tra di loro. Solo il fatturato è noto.
+Indicando con la lettera $f$ il numero degli anno della figlia di Maria, abbiamo la situazione seguente. $ \bullet$
 
-<img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
-
-Nel rettangolo del Fatturato abbiamo che $x = 2.100.000$ per cui in quello dell'Utile $20\% \cdot x,\{x=2.100.000\} \longrightarrow 20\% \cdot 2.100.000 \longrightarrow 420.000$. $ \bullet$
+<img src="img/Maria-Figlia-1.png" alt="Maria-Figlia-1" style="zoom:80%;" />
 
 #### ESEMPIO 4
 
-Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le quantità e quali sono le relazioni tra di loro?
+Una azienda ha avuto, nell'anno appena trascorso, un utile pari al $20\%$ del fatturato. Quali sono le relazioni tra le quantità?
 
-Le misure delle quantità coinvolte sono espresse in relazione alla lunghezza del palo come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra. $ \bullet$
+Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tra di loro. se chiamiamo con la lettera $x$ il fatturato, abbiamo il diagramma seguente. $ \bullet$
 
-<img src="img/Palo-1.png" alt="Palo-1" style="zoom:80%;" />
+<img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
+
+Il diagramma in figura è detto **diagramma delle dipendenze**, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso sia una quantità nota. Se il rettangolo ha una freccia entrante vuol dire che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione. 
+
+Se una quantità ha più espressioni/numeri che ne determinano il valore questi devono essere tutti uguali tra di loro. 
+
+
 
 #### ESEMPIO 5
 
+Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le quantità e quali sono le relazioni tra di loro?
+
+Le misure delle quantità coinvolte sono espresse tutte in relazione alla lunghezza del palo, che per semplicità chiamiamo con la lettera $x$, come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra. $ \bullet$
+
+<img src="img/Palo-1.png" alt="Palo-1" style="zoom:80%;" />
+
+Non sempre il testo del problema contiene tutte le informazioni per individuare le relazioni di dipendenza tra le quantità e scrivere quindi le espressioni che le esprimono; molte volte si fa riferimento a formule, contenenti le quantità, che si suppongono note, come ad esempio quelle per il calcolo dell'area di un rettangolo o di un triangolo o il calcolo della percentuale di sconto. Vediamo un esempio
+
+#### ESEMPIO 6
+
+Un viale di forma rettangolare, che conduce alla porta di ingresso di una casa, ha un'area di $24 \; m^2$ ed è largo $3$ metri. Quanto è lungo?
+
+Il problema non indica la relazione tra la larghezza e la lunghezza del viale, ma presuppone che chi legge sappia che l'area $A$ di un rettangolo di lunghezza $l$ e di altezza $h$ si calcola moltiplicando le due quantità secondo la formula seguente:
+$$
+A = l \cdot h
+$$
+ In questo caso è proprio la formula che ci dice che l'area $A$ dipende dalle due quantità secondo il diagramma seguente:
+
+<img src="img/Viale-1.png" alt="Viale-1" style="zoom:80%;" />
+
+
+
+#### ESEMPIO 7
+
 Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è il diagramma per il calcolo della percentuale di sconto?
 
-Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro, Prezzo Scontato o  $Ps$, che è $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s\%$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, 
+Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro, Prezzo Scontato o  $Ps$, che è $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, 
 $$
-s\% = \dfrac{P_l-P_s}{P_l}
+s = \dfrac{P_l-P_s}{P_l}
 $$
 
 Il diagramma delle dipendenze è quindi il seguente. $ \bullet$
@@ -180,7 +206,7 @@ Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza d
 
 <img src="img/camion-trave-2.png" alt="camion-trave-2" style="zoom:80%;" />
 
-Abbiamo che $\text{Lunghezza Trave} : Sostituisci(\dfrac{2}{3} \cdot x, \{x = 18\}) \longrightarrow \dfrac{2}{3} \cdot 18 \longrightarrow 12$. $ \bullet$
+Riprendendo il diagramma dell'unità precedente abbiamo che la propagazione produce $Sostituisci(\dfrac{2}{3} \cdot l,\{l=18\}) \longrightarrow 12$. $ \bullet$
 
 #### ESEMPIO 2
 
@@ -188,24 +214,30 @@ Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è l
 
 Per risolvere il problema basta propagare i valori.
 $$
-s\% = \dfrac{P_l-P_s}{P_l}
+s = \dfrac{P_l-P_s}{P_l}
 $$
 
 <img src="img/Sconto-2.png" alt="Sconto-2" style="zoom:80%;" />
 
-Sostituendo i numeri alle lettere otteniamo $s\% = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$. $ \bullet$
+Sostituendo i numeri alle lettere otteniamo $s = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$, oppure con GEOGEBRA $Sostituisci(\dfrac{P_l-P_s}{P_l},\{P_l=48, P_s=18\}) \longrightarrow s=0,62$ $ \bullet$
 
 
 
-Se sono rimaste quantità incognite, chiamiamo con una lettera, tradizionalmente la $x$, la quantità da cui le altre dipendono, e scriviamo, utilizzando la $x$, le espressioni letterali che calcolano il valore delle quantità incognite.
+Se la quantità richiesta non è stata trovata ed è rimasta incognita, chiamiamo con una lettera, tradizionalmente la $x$, la quantità da cui le altre dipendono, e scriviamo, utilizzando la $x$, le espressioni letterali che calcolano il valore delle altre quantità che dipendono da questa.
 
 #### ESEMPIO 3
 
 Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza della trave è $18$ metri.
 
-La lunghezza del camion è incognita; se la chiamiamo $x$ abbiamo che la lunghezza della trave è $\dfrac{2}{3} \cdot x$. $ \bullet$
+La lunghezza del camion è incognita; se la chiamiamo $x$ abbiamo che la lunghezza della trave, si calcola con l'espressione $\dfrac{2}{3} \cdot x$. Ma la lunghezza della trave è anche una quantità nota, per cui abbiamo il diagramma seguente.
 
 <img src="img/camion-trave-3.png" alt="camion-trave-3" style="zoom:80%;" />
+
+Come si vede le due espressioni che misurano la trave devono essere uguali per cui abbiamo l'equazione
+$$
+\dfrac{2}{3} \cdot x = 18
+$$
+La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow x = 27$ $ \bullet$
 
 #### ESEMPIO 4
 
