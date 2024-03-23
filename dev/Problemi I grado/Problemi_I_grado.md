@@ -105,7 +105,7 @@ Le quantità di cui si parla nel testo di un problema non sono indipendenti l'un
 
 "Una trave di cemento è i due terzi del camion che la trasporta. E' più lunga la trave o il camion? E se il camion è lungo $15 \; m$​ quanto è lunga la trave?"
 
-Chiamando con $l$ la lunghezza del camion abbiamo che
+Chiamando con $l$ la lunghezza del camion abbiamo che
 
 <img src="img/camion-trave-1.png" alt="camion-trave-1" style="zoom:80%;" />
 
@@ -123,7 +123,7 @@ Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendent
 
 #### ESEMPIO 3
 
-Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?
+Maria ha 50 anni ed ha il doppio degli anni di sua figlia.
 
 Indicando con la lettera $f$ il numero degli anno della figlia di Maria, abbiamo la situazione seguente. $ \bullet$
 
@@ -133,7 +133,7 @@ Indicando con la lettera $f$ il numero degli anno della figlia di Maria, abbiamo
 
 Una azienda ha avuto, nell'anno appena trascorso, un utile pari al $20\%$ del fatturato. Quali sono le relazioni tra le quantità?
 
-Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tra di loro. se chiamiamo con la lettera $x$ il fatturato, abbiamo il diagramma seguente. $ \bullet$
+Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tra di loro. se chiamiamo con la lettera $x$ il fatturato, abbiamo il diagramma seguente. $ \bullet$
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
@@ -208,6 +208,8 @@ Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza d
 
 Riprendendo il diagramma dell'unità precedente abbiamo che la propagazione produce $Sostituisci(\dfrac{2}{3} \cdot l,\{l=18\}) \longrightarrow 12$. $ \bullet$
 
+
+
 #### ESEMPIO 2
 
 Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
@@ -225,7 +227,36 @@ Sostituendo i numeri alle lettere otteniamo $s = \dfrac{48-18}{48} \cdot 100 \cd
 
 Se la quantità richiesta non è stata trovata ed è rimasta incognita, chiamiamo con una lettera, tradizionalmente la $x$, la quantità da cui le altre dipendono, e scriviamo, utilizzando la $x$, le espressioni letterali che calcolano il valore delle altre quantità che dipendono da questa.
 
+
+
 #### ESEMPIO 3
+
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Se indichiamo con $x$ la misura del costo sostenuto, quale è il diagramma delle dipendenze?
+
+Nel testo si parla di "Fatturato", "Utile", "Costo", ed una relazione tra di loro.
+Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\text{Utile} = \text{Fatturato} -\text{Costo}$. Il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema ($e_2)$, mentre il secondo ci permette di impostare una espressione per l'utile $(e_1)$ generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
+
+<img src="img/Fatturato-Utile-1_5.png" alt="Fatturato-Utile-1_5" style="zoom:80%;" />
+
+
+
+A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità, probabilmente la quantità richiesta, che avrà un riquadro con due scompartimenti, in cui figurano due espressioni che calcolano la quantità, una letterale e l'altra numerica o letterale. Queste due espressioni dovranno essere uguali e questa uguaglianza ci fornisce l'equazione cercata.
+
+
+
+#### ESEMPIO 4
+
+Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?
+
+Riprendendo il diagramma dell'esempio precedente, abbiamo la situazione seguente.
+
+<img src="img/Maria-Figlia-1.png" alt="Maria-Figlia-2" style="zoom:80%;" />
+
+Le due espressioni che misurano gli anni di Maria devono essere uguali, cioè vale l'equazione $2 \cdot f = 50$ che imlica che gli anni della figlia di Maria sono 25 $ \bullet$
+
+
+
+#### ESEMPIO 5
 
 Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza della trave è $18$ metri.
 
@@ -238,29 +269,6 @@ $$
 \dfrac{2}{3} \cdot x = 18
 $$
 La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow x = 27$ $ \bullet$
-
-#### ESEMPIO 4
-
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Se indichiamo con $x$ la misura del costo sostenuto, quale è il diagramma delle dipendenze?
-
-Nel testo si parla di "Fatturato", "Utile", "Costo", ed una relazione tra di loro.
-Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\text{Utile} = \text{Fatturato} -\text{Costo}$. Il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema ($e_2)$, mentre il secondo ci permette di impostare una espressione per l'utile $(e_1)$ generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
-
-<img src="img/Fatturato-Utile-2.png" alt="Fatturato-Utile-2" style="zoom:80%;" />
-
-
-
-A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità, probabilmente la quantità richiesta, che avrà un riquadro con due scompartimenti, in cui figurano due espressioni che calcolano la quantità, una letterale e l'altra numerica o letterale. Queste due espressioni dovranno essere uguali e questa uguaglianza ci fornisce l'equazione cercata.    
-
-#### ESEMPIO 5
-
-Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza della trave è $18$ metri. Quanto è lungo il camion?
-
-Come nel problema precedente, ma stavolta il vincolo è che la lunghezza della trave è $18 \;m$ per cui l'equazione è $\dfrac{2}{3} \cdot x = 18$. 
-
-<img src="img/camion-trave-3.png" alt="camion-trave-3" style="zoom:80%;" />
-
-La soluzione è quindi $\text{Lunghezza Camion} : Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow 27$. $ \bullet$
 
 
 
@@ -291,7 +299,7 @@ Possiamo dire quindi che se gli impiegati sono $x$, l'espressione (letterale) ch
 
 <img src="img/Impiegati-Operai-2.png" alt="Impiegati-Operai-2" style="zoom:80%;" />
 
-L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$. $ \bullet$
+L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$, come si vede da $Risolvi(x+1000=5x,\{x\}) \longrightarrow x = 250$. $ \bullet$
 
 
 
@@ -308,7 +316,7 @@ e l'equazione risolutiva è:
 $$
 x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
 $$
-La soluzione è $12$. $ \bullet$
+La soluzione è $12$, come si vede da $Risolvi(x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5,\{x\}) \longrightarrow x = 12$. $ \bullet$
 
 
 
