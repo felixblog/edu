@@ -137,9 +137,7 @@ Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tr
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
-Il diagramma in figura è detto **diagramma delle dipendenze**, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso sia una quantità nota. Se il rettangolo ha una freccia entrante vuol dire che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione. 
-
-Se una quantità ha più espressioni/numeri che ne determinano il valore questi devono essere tutti uguali tra di loro. 
+Il diagramma in figura è detto **diagramma delle dipendenze**, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso sia una quantità nota. La freccia entrante indica che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione; poiché la quantità cui si riferiscono le espressioni di uno stesso rettangolo è la stessa, le espressioni tra di loro dovranno essere uguali. 
 
 
 
@@ -155,13 +153,13 @@ Non sempre il testo del problema contiene tutte le informazioni per individuare 
 
 #### ESEMPIO 6
 
-Un viale di forma rettangolare, che conduce alla porta di ingresso di una casa, ha un'area di $24 \; m^2$ ed è largo $3$ metri. Quanto è lungo?
+Quale è il diagramma delle dipendenze nel problema seguente? "Un viale di forma rettangolare, che conduce alla porta di ingresso di una casa, ha un'area di $24 \; m^2$ ed è largo $3$ metri. Trova la lunghezza del viale."
 
 Il problema non indica la relazione tra la larghezza e la lunghezza del viale, ma presuppone che chi legge sappia che l'area $A$ di un rettangolo di lunghezza $l$ e di altezza $h$ si calcola moltiplicando le due quantità secondo la formula seguente:
 $$
 A = l \cdot h
 $$
- In questo caso è proprio la formula che ci dice che l'area $A$ dipende dalle due quantità secondo il diagramma seguente:
+ In questo caso è proprio la formula che ci dice che l'area $A$ dipende dalle due quantità secondo il diagramma seguente. $ \bullet$
 
 <img src="img/Viale-1.png" alt="Viale-1" style="zoom:80%;" />
 
@@ -221,7 +219,7 @@ $$
 
 <img src="img/Sconto-2.png" alt="Sconto-2" style="zoom:80%;" />
 
-Sostituendo i numeri alle lettere otteniamo $s = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$, oppure con GEOGEBRA $Sostituisci(\dfrac{P_l-P_s}{P_l},\{P_l=48, P_s=18\}) \longrightarrow s=0,62$ $ \bullet$
+Sostituendo i numeri alle lettere otteniamo $s = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$, oppure con GEOGEBRA $Sostituisci(s=\dfrac{P_l-P_s}{P_l},\{P_l=48, P_s=18\}) \longrightarrow s=0,62$ $ \bullet$
 
 
 
@@ -250,9 +248,9 @@ Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la fig
 
 Riprendendo il diagramma dell'esempio precedente, abbiamo la situazione seguente.
 
-<img src="img/Maria-Figlia-1.png" alt="Maria-Figlia-2" style="zoom:80%;" />
+<img src="img/Maria-Figlia-2.png" alt="Maria-Figlia-2" style="zoom:80%;" />
 
-Le due espressioni che misurano gli anni di Maria devono essere uguali, cioè vale l'equazione $2 \cdot f = 50$ che imlica che gli anni della figlia di Maria sono 25 $ \bullet$
+Le due espressioni che misurano gli anni di Maria devono essere uguali, cioè vale l'equazione $2 \cdot f = 50$ che imlica che gli anni della figlia di Maria sono 25: $Risolvi(2f=50, \{f\}) \longrightarrow f=25$. $ \bullet$
 
 
 
@@ -405,7 +403,7 @@ Il prodotto di Giacomo è una parete; il tempo è $3$ ore e la sua produttività
 
 <img src="img/Parete.png" alt="Parete" style="zoom:80%;" />
 
-La somma delle produttività deve essere uguale alla produttività del gruppo, per cui l'equazione è $\dfrac{1}{t}=\dfrac{8}{15}$, che ha soluzione $\dfrac{15}{8}$, ossia $1,8$ ore. $ \bullet$
+La somma delle produttività deve essere uguale alla produttività del gruppo, per cui abbiamo l'equazione $\dfrac{1}{t}=\dfrac{8}{15}$, che ha soluzione $\dfrac{15}{8}$, ossia $1,8$ ore ($Risolvi(\dfrac{1}{t}=\dfrac{8}{15}, \{t\}) \longrightarrow t=\dfrac{8}{15}). $ $\bullet$
 
 
 
