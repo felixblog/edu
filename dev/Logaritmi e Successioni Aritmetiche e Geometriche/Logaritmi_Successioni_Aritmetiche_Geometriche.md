@@ -79,11 +79,30 @@ a) Utilizzando GEOGEBRA, trova un valore approssimato della soluzione delle equa
 
 ### ESERCIZIO 3.1 - Successioni Aritmetiche
 
-a) Scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
+a) Scrivi i primi 5 termini delle successioni indicate di seguito e calcolane la somma.
 
-1. I numeri pari partendo da zero; I numeri dispari partendo da 3; I multipli di 3 partendo da 9;
-2. $a_0 = 2, a_1 = 6, a_2 = 10, a_3 = 14, ...$;     $a_0 = 5, a_1 = 2, a_2 = -1, a_3 = -4, ...$;
-3. $a_0 = x, a_1 = 3x, a_2 = 5x, a_3 = 7x, ...$;     $a_0 = \dfrac{3}{4} a_1 = \dfrac{11}{4}, a_2 = \dfrac{19}{4}, a_3 = \dfrac{27}{4}, ...$;
+1. I multipli di 3 partendo da 9;
+2. $a_0 = 2, a_1 = 6, a_2 = 10, a_3 = 14, ...$;
+3. $a_0 = 5, a_1 = 2, a_2 = -1, a_3 = -4, ...$​​;
+
+b) Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
+
+1. I numeri pari partendo da zero;
+2. $a_0 = x, a_1 = 3x, a_2 = 5x, a_3 = 7x, ...$;
+3.  I numeri dispari partendo da 3;
+4. $a_0 = \dfrac{3}{4} a_1 = \dfrac{11}{4}, a_2 = \dfrac{19}{4}, a_3 = \dfrac{27}{4}, ...$;
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
+1. $s1=Successione(2+4 \cdot n,n,0,9)$ &#9166;
+2. $Somma(s1)$&#9166;
+
+b) Risolvi il punto a.3) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
+1. $s2=Successione(3 + 2 \cdot n + 1,n,0,9)$ &#9166;
+2. $Somma(s2)$&#9166;
 
 
 
@@ -92,6 +111,17 @@ a) Scrivi i primi 10 termini delle successioni indicate di seguito e calcolane l
 a) Scrivi i primi 5 termini delle successioni indicate di seguito e calcolane la somma.
 
 1. Le potenze di due partendo da 1; Le potenze di 3 partendo da 9;
-2. $a_1 = 2, a_2 = 6, a_3 = 18 ...$;     $a_1 = 5, a_2 = \dfrac{5}{2}, a_3 = \dfrac{5}{4}, ...$;
-3. $a_1 = \log2, a_2 = \log4, a_3 = \log16, ...$;     $a_1 = 5, a_2 = \dfrac{5}{2}, a_3 = \dfrac{5}{4}, ...$;
-4. $a_1 = \dfrac{1}{16}, a_2 = \dfrac{1}{4}, a_3 = 1, ...$;     $a_1 = \sqrt{3}, a_2 = 3, a_3 = 3\sqrt{3}, ...$;
+2. $a_1 = 2, a_2 = 6, a_3 = 18 ...$;
+3. $a_1 = 5, a_2 = \dfrac{5}{2}, a_3 = \dfrac{5}{4}, ...$;
+4. $a_1 = \log2, a_2 = \log4, a_3 = \log16, ...$​;
+
+b) Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
+
+1. $a_1 = 5, a_2 = \dfrac{5}{2}, a_3 = \dfrac{5}{4}, ...$;
+2. $a_1 = \dfrac{1}{16}, a_2 = \dfrac{1}{4}, a_3 = 1, ...$;
+3. $a_1 = \sqrt{3}, a_2 = 3, a_3 = 3\sqrt{3}, ...$;
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
