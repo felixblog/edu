@@ -58,11 +58,24 @@ b) Applica le proprietà dei logaritmi per scrivere le seguenti espressioni sott
 
 ### ESERCIZIO 2.3 - Equazioni logaritmiche
 
-Risolvi le seguenti equazioni logaritmiche.
+a) Utilizzando GEOGEBRA risolvi le seguenti equazioni logaritmiche.
 
-a) $\log(2x+3)=\log(x+6)$;     $\log(x+1)+\log(x)=\log20$;     $\log(5-x)=\log(x+1)$;
+1. $\log(2x+3)=\log(x+6)$
+2. $\log(x+1)+\log(x)=\log20$
+3. $\log(5-x)=\log(x+1)$
 
-b) $\log(x+3)-\log(x-2)=\log6$;     $\log_2(2-x)=\log_2(x+7)-1$.
+b) Utilizzando GEOGEBRA risolvi le seguenti equazioni logaritmiche.
+
+1.  $\log(x+3)-\log(x-2)=\log6$
+2. $\log_2(2-x)=\log_2(x+7)-1$
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
+$Risolvi(log(2x+3)=log(x+6)$&#9166;
+
+$\Longrightarrow \{x = 3\}$
 
 
 
@@ -81,28 +94,38 @@ a) Utilizzando GEOGEBRA, trova un valore approssimato della soluzione delle equa
 
 a) Scrivi i primi 5 termini delle successioni indicate di seguito e calcolane la somma.
 
-1. I multipli di 3 partendo da 9;
-2. $a_0 = 2, a_1 = 6, a_2 = 10, a_3 = 14, ...$;
-3. $a_0 = 5, a_1 = 2, a_2 = -1, a_3 = -4, ...$​​;
+1. I multipli di 3 partendo da 9
+2. $a_0 = 2, a_1 = 6, a_2 = 10, a_3 = 14, ...$
+3. $a_0 = 5, a_1 = 2, a_2 = -1, a_3 = -4, ...$​​
 
 b) Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
 
 1. I numeri pari partendo da zero;
-2. $a_0 = x, a_1 = 3x, a_2 = 5x, a_3 = 7x, ...$;
-3.  I numeri dispari partendo da 3;
-4. $a_0 = \dfrac{3}{4} a_1 = \dfrac{11}{4}, a_2 = \dfrac{19}{4}, a_3 = \dfrac{27}{4}, ...$;
+2. $a_0 = x, a_1 = 3x, a_2 = 5x, a_3 = 7x, ...$
+3.  I numeri dispari partendo da 3
+4. $a_0 = \dfrac{3}{4} a_1 = \dfrac{11}{4}, a_2 = \dfrac{19}{4}, a_3 = \dfrac{27}{4}, ...$
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
-1. $s1=Successione(2+4 \cdot n,n,0,9)$ &#9166;
-2. $Somma(s1)$&#9166;
+1. $s1=Successione(2+4 \cdot n,n,0,9)$​ &#9166;
 
-b) Risolvi il punto a.3) dell'esercizio con la sequenza di comandi GEOGEBRA:
+   $\Longrightarrow \{2, 6, 10, 14, 18, 22, 26, 30, 34, 38\}$
 
-1. $s2=Successione(3 + 2 \cdot n + 1,n,0,9)$ &#9166;
-2. $Somma(s2)$&#9166;
+2. $Somma(s1)$​&#9166;
+
+   $\Longrightarrow 200$
+
+   b) Risolvi il punto a.3) dell'esercizio con la sequenza di comandi GEOGEBRA:
+
+1. $s2=Successione(3 + 2 \cdot n,n,0,9)$​ &#9166;
+
+   $\Longrightarrow \{3, 5, 7, 9, 11, 13, 15, 17, 19, 21\}$
+
+2. $Somma(s2)$​&#9166;
+
+   $\Longrightarrow 120$
 
 
 
@@ -121,7 +144,5 @@ b) Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di 
 2. $a_1 = \dfrac{1}{16}, a_2 = \dfrac{1}{4}, a_3 = 1, ...$;
 3. $a_1 = \sqrt{3}, a_2 = 3, a_3 = 3\sqrt{3}, ...$;
 
-#### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
