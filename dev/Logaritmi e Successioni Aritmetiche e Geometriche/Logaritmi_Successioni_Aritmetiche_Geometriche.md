@@ -5,16 +5,13 @@
 
 ### ESERCIZIO 1.1 - Le potenze
 
-a) Calcola le seguenti espressioni con le potenze.
+a) Calcola le seguenti espressioni con GEOGEBRA.
 
 1. $3^{\frac{1}{4}} \cdot 3^{\frac{3}{4}}$;    $10^{\frac{3}{2}} \cdot 10^{\frac{2}{3}} \cdot 10^{-\frac{1}{6}}$;
 2. $\left(\dfrac{2}{3}\right)^{\frac{1}{2}}\cdot \left(\dfrac{2}{3}\right)^{\frac{3}{2}}$;    $\left(\dfrac{3}{4}\right)^{\frac{1}{3}} \cdot \left(\dfrac{3}{4}\right)^{-1}$;
 3. $\left(2^{-2} \cdot 2 \cdot 2^{\frac{1}{3}}\right)^{-\frac{3}{2}}$;
 4. $4^{\frac{3}{4}} \cdot \left( 4^{\frac{1}{2}} \cdot 4^{\frac{1}{2}}\right)^{-3}$;
 5. $\left(9^{\frac{1}{3}} \cdot 9^{-1} : 9^{-2}\right)^{\frac{1}{2}}$.
-
-b) Calcola le espressioni seguenti con GEOGEBRA.
-
 
 
 
