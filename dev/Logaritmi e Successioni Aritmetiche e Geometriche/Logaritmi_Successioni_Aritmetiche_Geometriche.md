@@ -1,21 +1,23 @@
 
 # Logaritmi e Successioni Aritmetiche e Geometriche
 
-## UNITA' 1: Logaritmi ed equazioni logaritmiche ed esponenziali
+## UNITA' 1: I logaritmi
 
-### ESERCIZIO 1.1 - Le potenze
+In questo capitolo vogliamo affrontare il problema di risolvere delle equazioni in cui l'incognita è all'esponente di una potenza, come nei casi seguenti: $2^x = 32$, $5^x=125$, $3^x = \dfrac{1}{9}$.
 
-a) Calcola le seguenti espressioni con GEOGEBRA.
+Nel primo caso la soluzione è $5$, perché $2^5 = 32$, nel secondo è $3$ perché $5^3=125$​, nel terzo lo vedremo più avanti.
 
-1. $3^{\frac{1}{4}} \cdot 3^{\frac{3}{4}}$;    $10^{\frac{3}{2}} \cdot 10^{\frac{2}{3}} \cdot 10^{-\frac{1}{6}}$;
-2. $\left(\dfrac{2}{3}\right)^{\frac{1}{2}}\cdot \left(\dfrac{2}{3}\right)^{\frac{3}{2}}$;    $\left(\dfrac{3}{4}\right)^{\frac{1}{3}} \cdot \left(\dfrac{3}{4}\right)^{-1}$;
-3. $\left(2^{-2} \cdot 2 \cdot 2^{\frac{1}{3}}\right)^{-\frac{3}{2}}$;
-4. $4^{\frac{3}{4}} \cdot \left( 4^{\frac{1}{2}} \cdot 4^{\frac{1}{2}}\right)^{-3}$;
-5. $\left(9^{\frac{1}{3}} \cdot 9^{-1} : 9^{-2}\right)^{\frac{1}{2}}$.
+Questi sono casi molto semplici in cui la soluzione si trova facendo qualche tentativo. Vediamo qualche altro caso meno semplice.
+
+Le radici sono potenze con esponente frazionario. Abbiamo già visto che la radice di $4$ è $2$, cioè $\sqrt{4} = 4$, ma anche che $4^\frac{1}{2} = 2$, per cui possiamo dedurre che la soluzione dell'equazione $4^x=2$ è proprio $\dfrac{1}{2}$. Come altro esempio vediamo che poichè $\sqrt[3]{125} \longrightarrow 125^\frac{1}{3}= 5$ abbiamo che la soluzione di $125^x=5$ è $3$.
+
+Le soluzioni di queste equazioni, in cui una potenza con esponente incognito è uguale ad un numero, le indichiamo in un modo particolare, e le chiamiamo logaritmi, per cui la soluzione di $5^x=125$ si scrive $log_5{125} = 3$, la soluzione di $2^x=32$ è $log_2{32} = 5$ e la soluzione di $4^x=2$ è $log_4{2} = \dfrac{1}{2}$.
+
+$log_2{32}$ si legge "logaritmo in base 2 di 32" ed è il numero che dato per esponente a $2$ rende la potenza uguale a $4$.
 
 
 
-### ESERCIZIO 1.2 - I logaritmi
+### ESERCIZIO 1.1 - I logaritmi
 
 a) Calcola i logaritmi riportati di seguito utilizzando la definizione.
 
@@ -29,9 +31,21 @@ b) Determina il valore di $x$ essendo noti il logaritmo e la base.
 
 
 
+### ESERCIZIO 1.2 - Le potenze
+
+a) Calcola le seguenti espressioni con GEOGEBRA.
+
+1. $3^{\frac{1}{4}} \cdot 3^{\frac{3}{4}}$;    $10^{\frac{3}{2}} \cdot 10^{\frac{2}{3}} \cdot 10^{-\frac{1}{6}}$;
+2. $\left(\dfrac{2}{3}\right)^{\frac{1}{2}}\cdot \left(\dfrac{2}{3}\right)^{\frac{3}{2}}$;    $\left(\dfrac{3}{4}\right)^{\frac{1}{3}} \cdot \left(\dfrac{3}{4}\right)^{-1}$;
+3. $\left(2^{-2} \cdot 2 \cdot 2^{\frac{1}{3}}\right)^{-\frac{3}{2}}$;
+4. $4^{\frac{3}{4}} \cdot \left( 4^{\frac{1}{2}} \cdot 4^{\frac{1}{2}}\right)^{-3}$;
+5. $\left(9^{\frac{1}{3}} \cdot 9^{-1} : 9^{-2}\right)^{\frac{1}{2}}$.
+
+
+
 ## UNITA' 2: Proprietà delle potenze e dei logaritmi
 
-### ESERCIZIO 2.1 - Equazioni esponenziali
+### ESERCIZIO 2.1 - Equazioni esponenziali I
 
 Risolvi le seguenti equazioni esponenziali applicando le proprietà delle potenze.
 
@@ -56,6 +70,8 @@ b) Applica le proprietà dei logaritmi per scrivere le seguenti espressioni sott
 
 
 
+## UNITA' 3: Equazioni logaritmiche ed esponenziali
+
 ### ESERCIZIO 2.3 - Equazioni logaritmiche
 
 a) Utilizzando GEOGEBRA risolvi le seguenti equazioni logaritmiche.
@@ -79,7 +95,7 @@ $\Longrightarrow \{x = 3\}$
 
 
 
-### ESERCIZIO 2.4 - Equazioni risolubili con i logaritmi
+### ESERCIZIO 2.4 - Equazioni esponenziali II
 
 a) Utilizzando GEOGEBRA, trova un valore approssimato della soluzione delle equazioni esponenziali riportate di seguito.
 

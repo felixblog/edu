@@ -429,6 +429,50 @@ b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\e
 
 ## UNITA' 6: Problemi su moto e velocità
 
+La velocità la misura della rapidità con la quale un fenomeno si manifesta o un processo si svolge. Se osserviamo il movimento di una automobile su una strada dritta, vediamo che questa percorre, in un certo tempo un certo spazio, ad esempio in $2$ ore percorre $100 \; Km$: possiamo dire che l'automobile ha una velocità di moto di $\dfrac{100}{2} = 50 \; Km/h$​. 
+
+La velocità di un oggetto che si muove è quindi misurata dal rapporto tra lo spazio che percorre ed il tempo impiegato a percorrerlo. 
+
+La formula che lega le tre quantità di cui stiamo parlando, cioè lo spazio percorso, indicato da $s$, il tempo impiegato a percorrerlo, indicato da $t$ e la velocità risultante $v$ è la seguente:
+$$
+v = \dfrac{s}{t}
+$$
+Questa formula ci dice che se conosciamo due delle tre quantità che figurano, è possibile calcolare la terza risolvendo una equazione. Vediamo alcuni esempi.
+
+#### ESEMPIO 1
+
+Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
+
+Dalla formula, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.
+
+#### ESEMPIO 2
+
+Uno studente deve percorrere in bicicletta una strada di $20 \; Km$. Se mantiene una velocità di $12 \; Km/h$​, quanto tempo dovrà pedalare?
+
+Dalla formula, esplicitando la $t$, ossia risolvendo come se $t$ fosse l'unica incognita, otteniamo $t = \dfrac{s}{v}$, cioè $t = \dfrac{20}{12} \longrightarrow 1,66 \;h$.
+
+#### ESEMPIO 3
+
+Nel 2009 l’atleta giamaicano Usain Bolt ha corso i 100 metri piani in 9,58 secondi. Quale è stata la sua velocità media in $Km/h$?
+
+Dalla formula otteniamo $v = \dfrac{s}{t}$, cioè $v = \dfrac{100}{9,58} \longrightarrow 10,44 \;m/s$. Per trasformarli in $Km/h$ al posto di $m$ sostituiamo $\dfrac{1}{1000}Km$ ed al posto di $s$ $\dfrac{1}{3600}h$, per cui $10,44 \;m/s \longrightarrow 10,44 \cdot \dfrac{\dfrac{1}{1000}}{\dfrac{1}{3600}} \longrightarrow 10,44 \cdot 3,6 = 37,584 \; Km/h$​.
+
+
+
+### ESERCIZIO 6.0 - Problemi sul moto e sulla velocità
+
+a) Due amici partono insieme per allenarsi in bicicletta e decidono di fare un giro della lunghezza di $60 \; Km$. Il primo si allena ogni giorno facendo $30 \; Km$ in un'ora e venti, mentre il secondo fa ogni giorno $20 \; Km$ in $50$ minuti. Chi completerà per primo il giro?
+
+b) Un’automobile entra in autostrada alle $11:07$ e procede alla velocità costante di $100 \;km/h$. Alle $11:15$ una 
+seconda automobile supera lo stesso casello e si avvia nella stessa direzione della prima con velocità 
+costante di $130 \; km/h$​. 
+
+1. Quanto distano le due macchine quando la seconda macchina entra in autostrada?
+2. A che distanza dal casello avviene il sorpasso?
+3. A che ora avviene il sorpasso?
+
+
+
 
 ### ESERCIZIO 6.1 - Problemi sul moto e sulla velocità
 Risolvi i seguenti problemi.
