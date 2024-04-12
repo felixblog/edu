@@ -1,7 +1,58 @@
 
 # Matematica Finanziaria: Regimi Finanziari
 
-## UNITA' 1: Concetti fondamentali e regime dell'interesse semplice 
+## UNITA' 1: Concetti fondamentali e regime dell'interesse semplice
+
+La Matematica ﬁnanziaria è quella branca della matematica
+applicata che ha per oggetto lo studio delle ***operazioni ﬁnanziarie***, ovvero delle operazioni di scambio di importi monetari tra due o più soggetti (creditori e debitori) in date diverse.
+
+Le operazioni finanziarie di cui parliamo di definiscono "certe", ossia non dipendenti da alcun evento aleatorio che possa modificare o influenzare l'esito finale previsto e concordato fra i due attori dell'operazione, sia nel valore delle somme pattuite che nei tempi. (Nella realtà nessuna operazione che riguardi il futuro è certa: qui si vuole dire che i calcoli che si fanno in matematica finanziaria non tengono conto di eventi imprevisti, come invece succede in altre discipline).
+
+Le operazioni finanziarie avvengono all'interno di ***contratti ﬁnanziari***, ossia accordi tra due o più parti per
+scambiarsi degli importi monetari in determinate date. Esempi di contratti finanziari sono:
+
+- Un cittadino investe i propri risparmi (creditore) in un deposito
+  bancario cedendoli quindi alla banca (debitore) e posticipandone
+  la disponibilità ad una data futura;
+- Un cittadino stipula un contratto di mutuo immobiliare
+  (debitore) ottenendo un ﬁnanziamento da una banca (creditore) e quindi
+  anticipando la disponibilità di denaro;
+- Un’impresa ottiene un prestito (debitore) da una banca (creditore) per ﬁnanziare un progetto produttivo.;
+- Un cittadino compra un BOT (creditore) emesso dallo Stato
+  Italiano (debitore) che da il diritto di restituzione della somma con interessi.
+- Contratto di assicurazione in caso morte vita intera:
+  verrà pagato ai beneﬁciari un importo di 100.000 Euro alla morte
+  dell’assicurato. Non rientra nella matematica finanziaria in quanto in questo contratto è noto l’importo, ma non la data.
+
+Un contratto ﬁnanziario genera un’operazione ﬁnanziaria, cioè
+un’operazione di scambio di importi ciascuno caratterizzato da
+una propria data di esigibilità (scadenza) e valuta di
+denominazione. Una operazione finanziaria viene rappresentata con un grafico dove sono indicate con $x_i$ le somme scambiate e con $t_i$ le date (scadenzario).
+
+<img src="img/op-fin-1.png" alt="op-fin-1" style="zoom:80%;" />
+
+Parliamo di ***operazione ﬁnanziaria elementare*** quando sono
+coinvolte soltanto due date: $(x_0, t_0)$ e $(x_1, t_1)$ e solitamente gli importi sono uno positivo ed uno negativo corrispondente ad una operazione di finanziamento o investimento.
+
+<img src="img/fin-1.png" alt="fin-1" style="zoom:80%;" />
+
+<img src="img/inv-1.png" alt="inv-1" style="zoom:80%;" />
+
+Il problema che ci poniamo è quali relazioni ci siano tra $M$, $C$ e $t$, la durata dell'operazione finanziaria. Essendo queste regolate da un contratto tra le parti, per calcolarle si potrebbe usare qualunque tipo di regola; tuttavia esistono delle regole, o schemi, standard, che vanno
+sotto il nome di ***regimi ﬁnanziari*** che vengono solitamente applicate.
+
+La differenza $M-C$ è detta ***interesse*** ed indicata da $I$, cioè:
+$$
+M-C = I
+$$
+ $I$​ è detto "prezzo del tempo" e si
+tratta cioè di un compenso per la rinuncia alla disponibilità di denaro.
+
+La quantità $M = C +I$ si chiama ***montante***, mentre $C$ è il ***capitale
+iniziale***. Se si parte dal capitale iniziale C, aggiungendo
+l’interesse si ottiene il montante.
+
+
 
 ### ESERCIZIO 1.1 - Interesse semplice: montante
 
