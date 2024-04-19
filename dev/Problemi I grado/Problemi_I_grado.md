@@ -194,7 +194,7 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone e la seconda ha i 
 
 
 
-## UNITA' 3: Incognite ed Equazioni
+## UNITA' 3: Incognite ed equazioni risolutive 
 
 Dopo aver individuato le relazioni presenti tra le quantità, bisogna propagare, ossia dedurre, calcolare, tutte le misure che è possibile a partire dalle quantità note.
 
@@ -238,7 +238,7 @@ Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\t
 
 
 
-A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità, probabilmente la quantità richiesta, che avrà un riquadro con due scompartimenti, in cui figurano due espressioni che calcolano la quantità, una letterale e l'altra numerica o letterale. Queste due espressioni dovranno essere uguali e questa uguaglianza ci fornisce l'equazione cercata.
+A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità per la quale possiamo individuare ***due espressioni diverse per calcolare la misura***, ad esempio una letterale e l'altra numerica o entrambe letterali. Queste due espressioni dovranno essere ovviamente essere uguali e questa uguaglianza ci fornisce l'***equazione risolutiva*** del problema cercata. La sua soluzione sarà la soluzione del problema.
 
 
 
@@ -395,6 +395,26 @@ Usando queste formule si possono risolvere dei problemi che riguardano la produt
 
 #### ESEMPIO 1
 
+Un giardiniere pota un cespuglio in tre quarti d'ora. Quanti cespugli potano tre operai in due ore?
+
+Abbiamo che la produttività di un operaio è
+$$
+\pi = \dfrac{1}{\dfrac{3}{4}} \longrightarrow \dfrac{4}{3} \cong 1,33
+$$
+ cespugli l'ora.  In un ora una squadra di tre operai poterà $\Pi_3 = \dfrac{4}{3} \cdot 3 \longrightarrow 4$ cespugli ed in due ore $8$ cespugli. 
+
+#### ESEMPIO 2
+
+Un addetto alle pulizie al mattino riordina, da solo, una camera d'albergo in un'ora e mezza. Quanto impiegherebbe a riordinare un albergo di $20$ camere una squadra di 5 addetti?
+
+In forma di frazione un'ora e mezza misura $1,5 = \dfrac{3}{2}$, per cui la produttività di un solo operaio, un camere l'ora, è
+$$
+\pi = \dfrac{1}{\dfrac{3}{2}} \longrightarrow \dfrac{2}{3}
+$$
+La produttività della squadra è $\Pi_5 = 5 \cdot \dfrac{2}{3} \longrightarrow \dfrac{10}{3}$ ed il tempo impiegato per tutto l'albergo è $t = \dfrac{20}{\Pi_5} \longrightarrow 20 \dfrac{3}{10} \longrightarrow 6 \;h$.
+
+#### ESEMPIO 3
+
 Giacomo dipinge una parete in $3$ ore. Giovanni fa lo stesso lavoro in $5$ ore. Quanto impiegherebbero se lavorassero insieme?
 
 Il prodotto di Giacomo è una parete; il tempo è $3$ ore e la sua produttività $\pi_1=\dfrac{1}{3}$ di parete l'ora. Analogamente per Giovanni abbiamo $\pi_2=\dfrac{1}{5}$ di parete l'ora. Insieme costituiscono un gruppo che deve produrre lo stesso prodotto (la stessa parete) in un tempo $t$ con una produttività di gruppo che è la somma delle due, cioè $\Pi = \dfrac{1}{3} + \dfrac{1}{5} \longrightarrow \dfrac{8}{15}$​.
@@ -409,11 +429,11 @@ La somma delle produttività deve essere uguale alla produttività del gruppo, p
 
 ### ESERCIZIO 5.1 - Problemi sul lavoro I
 
-a) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
+a) Sei operaie confezionano $120$ paia di guanti in $20$ giorni. Quanti giorni occorrono a $3$ operaie per confezionare $30$ paia di guanti dello stesso tipo? [R. $10$].
 
-b) In $a$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $12$ operai? [R. $\dfrac{4}{3} a$]  
+b) In $20$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $12$ operai? E se i $12$ operai ci mettessero $a$ giorni, quanto ci metterebbero $16$ operai?  [R. $\dfrac{4}{3} a$]  
 
-c) Sei operaie confezionano $120$ paia di guanti in $20$ giorni. Quanti giorni occorrono a $3$ operaie per confezionare $30$ paia di guanti dello stesso tipo? [R. $10$].
+c) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
 
 
 
@@ -443,7 +463,7 @@ Questa formula ci dice che se conosciamo due delle tre quantità che figurano, �
 
 Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
 
-Dalla formula, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.
+Dalla formula, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.
 
 #### ESEMPIO 2
 
