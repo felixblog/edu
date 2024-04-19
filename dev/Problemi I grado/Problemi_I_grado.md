@@ -401,7 +401,7 @@ Abbiamo che la produttività di un operaio è
 $$
 \pi = \dfrac{1}{\dfrac{3}{4}} \longrightarrow \dfrac{4}{3} \cong 1,33
 $$
- cespugli l'ora.  In un ora una squadra di tre operai poterà $\Pi_3 = \dfrac{4}{3} \cdot 3 \longrightarrow 4$ cespugli ed in due ore $8$ cespugli. 
+ cespugli l'ora.  In un ora una squadra di tre operai poterà $\Pi_3 = \dfrac{4}{3} \cdot 3 \longrightarrow 4$ cespugli ed in due ore $8$ cespugli. 
 
 #### ESEMPIO 2
 
@@ -411,7 +411,7 @@ In forma di frazione un'ora e mezza misura $1,5 = \dfrac{3}{2}$, per cui la prod
 $$
 \pi = \dfrac{1}{\dfrac{3}{2}} \longrightarrow \dfrac{2}{3}
 $$
-La produttività della squadra è $\Pi_5 = 5 \cdot \dfrac{2}{3} \longrightarrow \dfrac{10}{3}$ ed il tempo impiegato per tutto l'albergo è $t = \dfrac{20}{\Pi_5} \longrightarrow 20 \dfrac{3}{10} \longrightarrow 6 \;h$.
+La produttività della squadra è $\Pi_5 = 5 \cdot \dfrac{2}{3} \longrightarrow \dfrac{10}{3}$ ed il tempo impiegato per tutto l'albergo è $t = \dfrac{20}{\Pi_5} \longrightarrow 20 \dfrac{3}{10} \longrightarrow 6 \;h$.
 
 #### ESEMPIO 3
 
@@ -431,7 +431,7 @@ La somma delle produttività deve essere uguale alla produttività del gruppo, p
 
 a) Sei operaie confezionano $120$ paia di guanti in $20$ giorni. Quanti giorni occorrono a $3$ operaie per confezionare $30$ paia di guanti dello stesso tipo? [R. $10$].
 
-b) In $20$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $12$ operai? E se i $12$ operai ci mettessero $a$ giorni, quanto ci metterebbero $16$ operai?  [R. $\dfrac{4}{3} a$]  
+b) In $20$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $12$ operai? E se i $12$ operai ci mettessero $a$ giorni, quanto ci metterebbero $16$ operai?  [R. $\dfrac{4}{3} a$]  
 
 c) Lavorando insieme, la stampante $A$ e la stampante $B$ finirebbero il compito in $24$ minuti. La stampante $A$ da sola finirebbe la stampa in $60$ minuti. Quante pagine dovrebbero essere stampate se la stampante $B$ stampa $5$ pagine al minuto in più rispetto ad $A$?  
 
@@ -523,7 +523,7 @@ a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da o
 ### ESERCIZIO 7.2 - Problemi su interesse ed investimenti II
 Risolvi i seguenti problemi.
 
-a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di $5$ a $3$. La prima somma è stata investita al tasso del $4\%$ e la seconda al tasso del $2\%$. L’interesse annuale della prima eccede quello della seconda di $112$ euro. Quali sono stati i due investimenti? [R. $16.800$, $28.000$]  
+a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di $5$ a $3$. La prima somma è stata investita al tasso del $4\%$ e la seconda al tasso del $2\%$. L’interesse annuale della prima eccede quello della seconda di $112$ euro. Quali sono stati i due investimenti? [R. $4.000$, $2.400$]  
 
 b) La signora Mueller ha investito una somma complessiva di $4.000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$. Sommando guadagni e perdite il suo reddito dell’anno è stato di $55$ euro. Trova l’ammontare dei due capitali. [R. $2.500$, $1.500$]  
 
