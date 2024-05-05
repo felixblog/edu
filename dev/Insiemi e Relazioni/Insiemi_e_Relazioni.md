@@ -13,7 +13,7 @@ Un po' più complesso è trovare un modo per descrivere (o ***rappresentare***) 
 
 Rappresentare un insieme in modo grafico significa disegnare un cerchio o ellisse (che rappresenta l'insieme) con all'interno gli elementi rappresentati con dei punti ed il loro nome (univoco) o dal nome soltanto.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 L'insieme delle vocali, che chiameremo $V$, è rappresentato graficamente dalla figura seguente.
 
@@ -23,7 +23,7 @@ L'insieme delle vocali, che chiameremo $V$, è rappresentato graficamente dalla 
 
 Rappresentare un insieme per elencazione significa scrivere la sequenza degli elementi identificati dai loro nomi univoci (in un insieme ***non ci possono essere due elementi uguali***) separati da virgola e racchiusi tra parentesi graffe.
 
-#### ESEMPIO
+#### ESEMPIO 2
 
 Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, o, u\}$; se vogliamo dare il nome $V$ all'insieme (di solito i nomi degli insiemi sono maiuscoli) scriviamo $V = \{ a, e, i, o, u\}$.
 
@@ -31,7 +31,7 @@ Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, 
 
 Una proprietà è ***caratteristica*** degli elementi di un insieme se consente di individuare tali oggetti tra tutti gli altri che non sono elementi dell'insieme. Una proprietà di un oggetto si esprime attraverso una frase che contiene una lettera e che sarà vera se e solo se al posto della lettera si sostituisce il nome di un elemento dell'insieme e falsa altrimenti.
 
-#### ESEMPIO
+#### ESEMPIO 3
 
 Presupponendo che tutti sappiano, tra le lettere dell'alfabeto, quali sono le vocali, la proprietà caratteristica dell'insieme delle vocali è data dalla proposizione: "$\text{`x' e' una vocale}$", perché sostituendo alla $\text{x}$ una vocale ed un'altra lettera abbiamo:
 
@@ -40,6 +40,20 @@ $\text{"x" e' una vocale}, \{x = u\} \longrightarrow \text{"u" e' una vocale} \l
 $\text{`x' e' una vocale}, \{x = b\} \longrightarrow \text{`b' e' una vocale} \longrightarrow False$.
 
 Quindi l'insieme delle vocali è indicato come $V = \{x: x \; \acute{e} \; una \; vocale\}$ che si legge "V è ***l'insieme delle x tali che...*** x è una vocale". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
+
+
+
+Introduciamo ora il simbolo $\in$ che si legge "appartiene a". Con questo simbolo possiamo scrivere, riprendendo l'insieme delle vocali $V$, che $a \in V$, che si legge "a appartiene a $V$"e che è una formula vera. Invece $b \in V$ è falsa perché $b$ è una consonante e non appartiene a $V$. 
+
+Se vogliamo affermare che $b$ non appartiene a $V$ possiamo usare il simbolo $\notin$ che si legge "non appartiene a", per cui $b \notin V$​ diventa una formula vera. 
+
+
+
+Un sottoinsieme di un insieme $I$ è un insieme formato da alcuni elementi di $I$ (al limite anche tutti). Per indicare che un insieme è sottoinsieme di un altro usiamo il simbolo $\sub$: se vogliamo dire che l'insieme delle vocali $V$ è un sottoinsieme delle lettere dell'alfabeto $L$ scriviamo
+$$
+V \sub L
+$$
+che è vero.
 
 
 
@@ -152,6 +166,26 @@ b) Risolvi il punto d.2) dell'esercizio prendendo esempio dalla sequenza di coma
 
 ## UNITA' 2: Operazioni tra insiemi
 
+Con gli insiemi è possibile fare delle operazioni, come ad esempio con la moltiplicazione tra numeri: moltiplicando due numeri si produce un terzo numero, che è il prodotto dei due. Tra insiemi è possibile fare tre operazioni, l'**unione**, l'**intersezione** e la **differenza**. 
+
+L'**unione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cup B$ formato dagli elementi che appartengono ad $A$ o a $B$; in simboli:
+$$
+A \cup B = \{x: x \in A \; oppure \;x \in B\}
+$$
+
+
+L'**intersezione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cap B$ formato dagli elementi che appartengono sia ad $A$ che a $B$:
+$$
+A \cup B = \{x: x \in A \; e \;x \in B\}
+$$
+
+
+La differenza tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \setminus B$ formato dagli elementi che appartengono ad $A$ ma non a $B$:
+$$
+A \setminus B = \{x: x \in A \; e \;x \notin B\}
+$$
+
+
 ### ESERCIZIO 2.1 - Intersezione ed Unione
 
 a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappresentale per elencazione e mediante un diagramma di Eulero-Venn:  
@@ -159,8 +193,8 @@ a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappres
 2. $C = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «attesa»\}$, $D = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «paese»\}$.  
 
 b) Per ciascuna coppia di insiemi $A$ e $B$ determina l'insieme $A \cap B$:  
-1. A = {x: x è multiplo di 4} e B = {x: x è multiplo di 6}  
-2. A = {x: x è divisore di 8} e B = {x: x è divisore di 12}  
+1. $A = \{x: x \; \acute{e} \; un \; multiplo \; di \; 4\}$ e $B = \{x: x \; \acute{e} \; un \; multiplo \; di \; 6\}$;  
+2. $A = \{x: x \; \acute{e} \; un \; divisore \; di \; 8\}$ e $B = \{x: x \; \acute{e} \; un \; divisore \; di \; 12\}$.  
 
 c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$, calcola i risultati delle seguenti espressioni:  
 1. $A \cap B \cap C$  

@@ -1,7 +1,58 @@
 
 # Logica
 
-## UNITA' 1: Le proposizioni
+## UNITA' 1: Le proposizioni della logica
+
+Un'**affermazione** (detta anche **asserzione**) è un'espressione (parlata, scritta, a volte solo pensata) che si può supporre essere vera (ossia ha senso chiedersi se è vera).
+
+Diciamo “supporre” perché, non tutte le affermazioni sono vere: alcune sono deliberatamente false; altre, invece, sono fondate su convinzioni errate, ma, se sono affermazioni, quantomeno ritenerle vere può avere un senso, che le si condivida o meno. In questo capitolo ci occuperemo di questo tipo di frasi, che chiameremo **proposizioni logiche**.
+
+Le tre frasi che seguono sono proposizioni logiche:
+
+- L'Angola confina con la Namibia.
+- I dinosauri erano rettili ed avevano il sangue freddo.
+- I manager bancari guadagnano eccessivamente.
+
+Mentre quelle seguenti non lo sono, ossia per queste non ha senso chiedersi se sono vere o false.
+
+- Chi vincerà il prossimo campionato? (Frase interrogativa)
+- Va via di qui! (Frase imperativa)
+- Mio Dio, fammi diventare un milionario!  (Frase invocativa)
+
+### PROPOSIZIONI EQUIVALENTI
+
+E importante distinguere tra una frase vera e propria, costituita da una serie di parole, e quanto è espresso da una frase, ossia il suo contenuto, che è quello che intendiamo con “affermazione”. Un'affermazione può essere formulata in molti modi diversi. Considerate le due frasi seguenti:
+
+- L'Angola confina con la Namibia;
+- L'Angola e la Namibia sono confinanti.
+
+Le parole usate sono diverse, ma l’affermazione è praticamente la stessa. Verosimilmente la stessa affermazione può essere espressa ricorrendo a una mappa che mostri i due paesi vicini. Situazioni analoghe si hanno con i casi seguenti.
+
+| Frase Originaria                                   | Frase equivalente                                 |
+| -------------------------------------------------- | ------------------------------------------------- |
+| Giovanna è bella, <u>ma</u> Claudia è intelligente | Giovanna è bella, <u>e</u> Claudia è intelligente |
+| Marcello è in campo, <u>benché</u> abbia la febbre | Marcello è in campo, <u>e</u> ha la febbre        |
+| John è in Italia <u>senza</u> avere il passaporto  | John è in Italia <u>e non</u> ha il passaporto    |
+
+### PROPOSIZIONI SEMPLICI E COMPLESSE
+
+Consideriamo le due frasi 
+
+- L'Angola e la Namibia sono confinanti;
+- L'Angola e la Namibia sono stati.
+
+Le due frasi ovviamente dicono cose diverse, ma l'aspetto della diversità che qui ci interessa è quello per cui la prima afferma "un fatto solo" (una relazione tra Angola e Namibia) mentre la seconda due fatti indipendenti, ossia "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro, perché, ad esempio, la Namibia potrebbe essere una regione di un altro stato e non uno stato.
+
+Le frasi come “L'Angola e la Namibia sono confinanti”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", sono affermazioni **semplici**, cioè affermano un fatto solo. Quelle riportate di seguito, invece, sono delle frasi complesse, in cui ognuna esprime almeno due affermazioni collegate: 
+
+- I dinosauri erano rettili ed avevano il sangue freddo.
+- Claudia ha appena corso una maratona ed ha completato la distanza in meno di quattro ore.
+- l livelli del mare sono in aumento in tutto il mondo, perché il riscaldamento globale sta sciogliendo le calotte polari.
+- Molte parti del mondo saranno presto sommerse se non si interviene per invertire il cambiamento climatico.
+
+Quando una frase afferma un fatto solo viene detta **proposizione semplice** (o **elementare**), mentre se afferma più fatti è detta **proposizione complessa** (o **composta**) e le proposizioni semplici al suo interno sono le componenti.
+
+
 
 ### ESERCIZIO 1.1 - Le proposizioni logiche
 
@@ -34,7 +85,7 @@ b) Indica il valore di verità delle seguenti proposizioni:
 
 
 ### ESERCIZIO 1.2 - Proposizioni semplici e composte
-a) Nelle seguenti proposizioni composte indica quali sono le proposizioni elementari.
+a) Nei casi seguenti, indica quali sono le proposizioni semplici e quali quelle composte.
 1. «Il gatto è un mammifero e il topo è un roditore»;  
 2. «Se passi a prendermi, allora andiamo a passeggio insieme»;  
 3. «Oggi o mangio carne o mangio pesce»;  
@@ -44,8 +95,8 @@ a) Nelle seguenti proposizioni composte indica quali sono le proposizioni elemen
 7. «Se vengono i ladri, viene attivato l’allarme»;  
 8. «Dante ha scritto la Divina Commedia ed è sepolto a Ravenna».
 
-b) Dire quali delle seguenti proposizioni sono composte (da due proposizioni semplici unite dalla la congiunzione “e”) quali invece sono semplici.
-1. "Carlo e Marco sono insegnanti";  
+b) Nei casi seguenti, indica quali sono le proposizioni semplici e quali quelle composte.
+1. "Carlo e Marco sono insegnanti";
 2. "Carlo e Marco sono compaesani";  
 3. "Carlo e Marco stanno venendo alla festa";  
 4. "Carlo e Marco stanno venendo insieme alla festa";  
@@ -54,22 +105,158 @@ b) Dire quali delle seguenti proposizioni sono composte (da due proposizioni sem
 7. "4 e 6 sono numeri pari";
 8. "4 e 6 sommati fanno 10".
 
-c) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni.
-1. "Giovanna è bella, <u>ma</u> Claudia è intelligente";   
-2. "Marcello è in campo, <u>benché</u> abbia la febbre";  
-3. "John è in Italia <u>senza</u> avere il passaporto";   
-4. "Giorgio è italiano <u>dato che</u> è nato a Imperia";  
-5. "David è spagnolo <u>perché</u> è nato a Barcellona";   
-6. "Oggi è bello <u>e quindi</u> vado in barca";  
-7. "Carlo gioca <u>a meno che</u> piova";  
-8. "<u>A meno che</u> Carlo intervenga, lo scontro è inevitabile".
-
 
 
 ## UNITA' 2: Connettivi e Forme Simboliche
 
+Riprendiamo gli esempi fatti di proposizioni complesse, in cui ognuna esprime almeno due affermazioni collegate: 
+
+1. Katya ha appena corso una maratona e ha completato la distanza in meno di quattro ore.
+2. O i dinosauri erano rettili o erano a sangue caldo.
+3. Se non si interviene per invertire il cambiamento climatico, molte parti del mondo saranno presto sommerse.
+
+Le parole o le frasi che esprimono il rapporto tra proposizioni semplici all’interno di quelle complesse sono dette “**connettivi**” e sono “e”, “o”, “se”, etc.
+
+Per capire se una una proposizione complessa è vera o falsa dobbiamo analizzare il significato del connettivo e della relazione che questo esprime tra le proposizioni semplici componenti.
+
+Nel caso della prima è abbastanza semplice: il connettivo è “e” e la prima nel suo insieme, è vera se Katya ha appena corso una maratona e se ha impiegato meno di quattro ore: qualora una di queste affermazioni sia falsa, tutta la proposizione complessa sarebbe falsa. Il connettivo in questa frase è detto **congiunzione**.
+
+La seconda frase è più complicata perché le frasi componenti sono legate da un connettivo fatto di due parole: il primo "o" ed il secondo "o" e la frase intende dire che o succede una cosa, o l'altra ma non tutte e due. La conclusione è che nel suo insieme la proposizione sarà vera se e solo se una sola delle sue frasi componenti è vera. In questo caso il connettivo è detto **disgiunzione (esclusiva)**.
+
+La terza è un’altra affermazione complessa e difficile da analizzare. Prima di tutto, essa non sta sostenendo né che alcune parti del mondo saranno presto sott’acqua né che nulla sarà fatto per il cambiamento climatico. La terza viene generalmente detta proposizione condizionale o ipotetica ed è un'affermazione nella quale se una parte è vera, allora lo sarà anche l'altra. Per esempio, se non si fa nulla per i cambiamenti climatici, allora alcune parti del mondo finiranno sott’acqua. Se non si farà nulla e la previsione si rivelerà un falso allarme, allora la terza proposizione nel suo insieme sarà falsa.
+
+Le due proposizioni componenti sono "Non si interviene per invertire il cambiamento climatico" e "Molte parti del mondo saranno presto sommerse" e sono tenute insieme dal connettivo "Se ... (allora)..." detto **implicazione **(materiale).
+
+Pr finire osserviamo che le frasi che presentano una negazione, come "Roma non è la capitale della Romania", "Antonio non è andato via" o "Non si interviene per invertire il cambiamento climatico", si considerano proposizioni complesse costituite dalla proposizione in forma positiva con l'aggiunta di un connettivo particolare, la **negazione**, in quanto coinvolge una frase sola. Una frase negata è falsa se la frase originaria è vera ed è vera se quella originaria è falsa.
+
+### FORME SIMBOLICHE
+
+Per riassumere quanto abbiamo detto sul come la verità delle proposizioni complesse dipende dalla verità delle proposizioni semplici componenti, diamo un nome simbolico alle proposizioni semplici ed ai connettivi. Consideriamo i connettivi seguenti ed i loro simboli:
+
+| Connettivo             | Simbolo   | Esempi                    |
+| ---------------------- | --------- | ------------------------- |
+| Congiunzione           | $\land$   | e, ma, sebbene, ne ... ne |
+| Disgiunzione           | $\lor$    | o, oppure,                |
+| Disgiunzione esclusiva | $\veebar$ | o ... o, o, ..., oppure   |
+| Negazione              | $\lnot$   | non, non è vero che       |
+| Implicazione           | $\to$     | se ... allora, ... se     |
+
+Se diamo una lettera come nome alle proposizioni semplici, possiamo scrivere tutta una frase in un modo molto sintetico e simbolico, come negli esempi seguenti.
+
+#### Esempio 1: Congiunzione
+
+"D’estate lavoro e coi guadagni mi compro il motorino"
+
+Questa è una frase complessa formata dalle due frasi: “Io d'estate lavoro” e “Io con in guadagni del lavoro mi compro il motorino”. Chiamiamo la prima $p$ e la seconda $q$:
+
+- $p$: “Io d'estate lavoro”;
+- $q$: “Io con in guadagni del lavoro mi compro il motorino”.
+
+La proposizione complessa può essere scritta in modo simbolico come $p \land q$:
+
+- $p \land q$: "D’estate lavoro e coi guadagni mi compro il motorino".
+
+#### Esempio 2: Negazione
+
+"Oggi non lavoro"
+
+Questa è una frase complessa perché quelle semplici sono in forma positiva. Allora abbiamo: 
+
+- $p$: “Oggi lavoro”
+- $\lnot p$: “Oggi non lavoro”.
+
+#### Esempio 3: Disgiunzione
+
+   "Vado al bowling con Mario o con Andrea".
+
+- $p$: “Io vado al bowling con Mario”:
+- $q$: “Vado al bowling con Andrea”
+-  $p \lor q$: "Vado al bowling con Mario o con Andrea".
+
+#### Esempio 4: Disgiunzione esclusiva
+
+"O mi aiuti o te ne vai"
+
+$p$: “Tu mi aiuti”, $q$: “Tu vai via", Proposizione composta: "O mi aiuti o te ne vai": $p \veebar q$.
+
+#### Esempio 5: Implicazione
+
+"Se un parallelogramma è un quadrato, allora un rombo è un rettangolo"
+
+$p$: “Un parallelogramma è un quadrato”, $q$: “Un rombo è un rettangolo", Proposizione composta: "Se un parallelogramma è un quadrato, allora un rombo è un rettangolo": $p \to q$.
+
+### TABELLE DI VERITA'
+
+------
+
+La verità delle proposizioni complesse dipendono dalla verità delle proposizioni componenti nel modo in cui è riportato nelle tabelle seguenti, dette appunto "**tabelle di verità**".
+
+Nelle congiunzioni la proposizione complessa è vera solo se entrambe le proposizioni componenti sono vere. Questo si può riassumere sinteticamente nella tabella seguente, come nel caso di "D’estate lavoro e coi guadagni mi compro il motorino": $p \land q$ .
+
+$$
+\begin{array}{c|c|c} 
+p & q & p \land q \\ 
+\hline 
+T & T & T \\ 
+F & T & F \\ 
+T & F & F \\  
+F & F & F \\  
+\end{array}
+$$
+
+Nelle disgiunzioni esclusive, la proposizione complessa è vera solo se una solo di loro è vera (esempio di "O mi aiuti o te ne vai": $p \veebar q$).
+
+
+$$
+\begin{array}{c|c|c} 
+p & q & p \veebar q \\ 
+\hline 
+T & T & F \\ 
+F & T & T \\ 
+T & F & T \\  
+F & F & F \\  
+\end{array}
+$$
+
+La negazione rende vera una proposizione falsa e falsa una vera. La disgiunzione non esclusiva rende possibile la verità della proposizione composta anche nel caso in cui siano vere entrambe le componenti, come nel caso di "Vado al bowling con Mario o con Andrea", che è vera anche se ci vado con tutti e due:
+
+$$
+\begin{array}{c|c} 
+p & q & \lnot p  \\ 
+\hline 
+T & F \\ 
+F & T \\
+\end{array}
+%
+\hspace{1cm}
+\begin{array}{c|c|c} 
+p & q & p \lor q \\ 
+\hline 
+T & T & T \\ 
+F & T & T \\ 
+T & F & T \\  
+F & F & F \\  
+\end{array}
+$$
+
+Abbiamo infine l'implicazione... 
+
+
+$$
+\begin{array}{c|c|c}
+p & q & p \to q \\ 
+\hline 
+T & T & T \\ 
+F & T & T \\ 
+T & F & F \\  
+F & F & T \\  
+\end{array}
+$$
+
+
 
 ### ESERCIZIO 2.1 - Connettivi proposizionali e forme simboliche I
+
 a) Scrivi la negazione delle seguenti proposizioni.
 1. "Ieri non ho studiato";  
 2. "Sai che non ho studiato";  
@@ -92,13 +279,6 @@ b) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 4. "Il quadrato è un rettangolo e un rombo".
 
-#### Esempio di SOLUZIONE
-
-   "D’estate lavoro e coi guadagni mi compro il motorino"
-
-$p$: “Io d'estate lavoro”, $q$: “Io con in guadagni del lavoro mi compro il motorino”,  Proposizione composta: "D’estate lavoro e coi guadagni mi compro il motorino": $p \land q$.
-
-------
 c) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la disgiunzione inclusiva.
 1. "È nuvoloso o piove";
 
@@ -114,14 +294,6 @@ c) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 7. "Non esco o cucino o faccio una doccia".
 
-#### Esempio di SOLUZIONE
-
-   "Vado al bowling con Mario o con Andrea".
-
-$p$: “Io vado al bowling con Mario”, $q$: “Vado al bowling con Andrea”,  Proposizione composta: "Vado al bowling con Mario o con Andrea": $p \lor q$.
-
-------
-
 d) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione esclusiva.
 
 1. "O studi o sarai bocciato";  
@@ -130,14 +302,6 @@ d) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 4. "Non so se andare a teatro o al cinema";  
 5. "O la borsa o la vita";  
 6. "O c’è il sole o non esco".
-
-#### Esempio di SOLUZIONE
-
-"O mi aiuti o te ne vai"
-
-$p$: “Tu mi aiuti”, $q$: “Tu vai via", Proposizione composta: "O mi aiuti o te ne vai": $p \veebar q$: 
-
-------
 
 e) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando l'implicazione materiale.
 
@@ -153,29 +317,25 @@ e) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 6. "Se un trapezio è rettangolo, allora non è isoscele".
 
-#### Esempio di SOLUZIONE
 
-"Se un parallelogramma è un quadrato, allora un rombo è un rettangolo"
 
-$p$: “Un parallelogramma è un quadrato”, $q$: “Un rombo è un rettangolo", Proposizione composta: "Se un parallelogramma è un quadrato, allora un rombo è un rettangolo": $p \to q$.
+### ESERCIZIO 2.2 - Proposizioni Equivalenti
 
-------
+a) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni.
 
-f) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni:
-
-1. "Giovanna è bella, ma Claudia è intelligente";  
-2. "Marcello è in campo, benché abbia la febbre”  
-3. "John è in Italia senza avere il passaporto";  
-4. "Giorgio è italiano dato che è nato a Imperia";  
-5. "David è spagnolo perché è nato a Barcellona";  
-6. "Oggi è bello e quindi vado in barca";  
-7. "Carlo gioca a meno che piova";  
-8. "A meno che Carlo intervenga, lo scontro è inevitabile".
-
+1. "Giovanna è bella, <u>ma</u> Claudia è intelligente";   
+2. "Marcello è in campo, <u>benché</u> abbia la febbre";  
+3. "John è in Italia <u>senza</u> avere il passaporto";   
+4. "Giorgio è italiano <u>dato che</u> è nato a Imperia";  
+5. "David è spagnolo <u>perché</u> è nato a Barcellona";   
+6. "Oggi è bello <u>e quindi</u> vado in barca";  
+7. "Carlo gioca <u>a meno che</u> piova";  
+8. "<u>A meno che</u> Carlo intervenga, lo scontro è inevitabile".
 
 
 
 ### ESERCIZIO 2.2 - Forme Simboliche II
+
 a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  
 $a$: “Aldo ha superato l’esame”, $b$: “Bruno ha superato l’esame”, $c$: “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
 
@@ -201,21 +361,17 @@ b) Posto $c$: "Carlo è ligure" e $d$: "Diego è piemontese", scrivere in forma 
 
 
 
-## UNITA' 3: Tabelle di Verità
+## UNITA' 3: Tabelle di verità, tautologie e contraddizioni
 
 
 ### ESERCIZIO 3.1 - Tabelle di verità, tautologie e contraddizioni
 a) Costruisci le tabelle di verità delle proposizioni seguenti.
-1. $ \lnot p \to q;  \lnot q \to \lnot p; p \lor (p \land q); $  
-2. $ \lnot ( \lnot p \land \lnot q);  \lnot (\lnot p \lor \lnot q); (p \to q) \land p; $
-
-b) Individua tra le proposizioni seguenti le tatutologie e le contraddizioni.
-1. $p \to ( q \to p);$  
-2. $p \to (\lnot p \lor q);$  
-3. $p \lor \lnot \lnot p; $  
-4. $(p \to q) \land (\lnot p \lor q);$  
-5. $(p \land q) \land (p \lor q);$  
-6. $(p \to q) \land p) \to q$
+1. $ \lnot p \to q$
+2. $\lnot q \to \lnot p$;
+3. $p \lor (p \land q)$;  
+4. $ \lnot ( \lnot p \land \lnot q)$;
+5. $\lnot (\lnot p \lor \lnot q)$
+6. $(p \to q) \land p$.
 
 #### Laboratorio LOGICTOOLS
 
@@ -230,6 +386,17 @@ b) Trovare la tabella di verità della prima formula del punto a.2) dell'eserciz
 1. Andare sul sito https://logictools.org/prop.html
 2. Inserire nella casella di testo la formula **-( -p & -q )**
 3. Premere il pulsante **Build**
+
+### ESERCIZIO 3.1 - Tautologie e contraddizioni
+
+a) Individua tra le proposizioni seguenti le tautologie e le contraddizioni.
+
+1. $p \to ( q \to p);$  
+2. $p \to (\lnot p \lor q);$  
+3. $p \lor \lnot \lnot p; $  
+4. $(p \to q) \land (\lnot p \lor q);$  
+5. $(p \land q) \land (p \lor q);$  
+6. $(p \to q) \land p) \to q$.
 
 
 

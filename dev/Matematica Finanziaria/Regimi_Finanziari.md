@@ -51,9 +51,9 @@ L’operazione di calcolo del montante, che si può scrivere $M = C+I$ e che cor
 Il problema che ci poniamo è quali relazioni ci siano tra $M$, $C$ e $t$, quest'ultima la ***durata*** dell'operazione finanziaria. Essendo queste quantità regolate da un contratto tra le parti, si potrebbe pensare che vengano usate per il loro calcolo modalità dei tipi più vari; in realtà vengono solitamente applicate delle regole, o schemi, standard, che vanno
 sotto il nome di ***regimi ﬁnanziari***.
 
-Facciamo alcune considerazioni. E' intuitivo pensare che l'interesse di una operazione finanziaria cresca al crescere del capitale e della durata dell'operazione, così come l'importo dell'affitto pagato complessivamente per la disponibilità di una casa cresce al crescere della superficie della casa e della durata del periodo. Vi è però anche da considerare il prezzo "unitario" dell'affitto, ossia il prezzo "mensile" al "metro quadro", che viene a dipendere dalla "qualità" dell'abitazione (popolare, media, lusso, etc.).
+Facciamo alcune considerazioni. E' intuitivo pensare che l'interesse di una operazione finanziaria sia più grande quanto più grande è il capitale e più lunga la durata dell'operazione, così come l'importo dell'affitto da pagare per la disponibilità di una casa cresce al crescere della superficie della casa e della durata del periodo. Vi è però anche da considerare il prezzo "unitario" dell'affitto, ossia il prezzo "mensile" al "metro quadro", che dipendere dalla "qualità" dell'abitazione (popolare, media, lusso, etc.).
 
-Analogamente il prezzo "unitario" per la disponibilità di denaro, ossia l'interesse da pagare per avere una unità di capitale per una unità di durata dell'operazione è detta ***tasso di interesse*** dell'operazione e dipende dal mercato dei capitali del momento.
+Analogamente il prezzo "unitario" per la disponibilità di denaro, ossia l'interesse da pagare per avere una unità di capitale per una unità di tempo è detta ***tasso di interesse*** dell'operazione e dipende dal mercato dei capitali del momento.
 
 Detto ciò, il regime più semplice che esamineremo, detto dell'***interesse semplice***, prevede che l'interesse di una operazione elementare sia direttamente proporzionale al capitale ed alla durata dell'operazione e la costante di proporzionalità sia data dal tasso di interesse, cioè:
 $$
@@ -119,7 +119,7 @@ Immaginiamo ora che ci sia una operazione finanziaria in corso che preveda la re
 $$
 C-V=S
 $$
-detta ***sconto*** è il compenso al debitore (in termini di riduzione degli interessi) per la rinuncia alla disponibilità di denaro. La quantità $V$ si chiama ***valore attuale*** o somma scontata. L’operazione di calcolo del valore attuale, che ci consente di
+detta ***sconto*** è il compenso che il debitore paga al creditore (in termini di riduzione degli interessi pattuiti) per la rinuncia alla disponibilità di denaro. La quantità $V$ si chiama ***valore attuale*** o somma scontata. L’operazione di calcolo del valore attuale, che ci consente di
 valutare importi restituiti anticipatamente nel tempo, si chiama operazione di*** attualizzazione***, o anche di sconto.
 
 Nel regime dell'***interesse semplice*** la relazione tra valore attuale e valore nominale è
@@ -140,8 +140,6 @@ b) Con il pagamento di 840 euro si salda anticipatamente un debito del valore no
 c) Un debito viene saldato prima della scadenza, fruendo dello sconto razionale al tasso del 16%. Calcolare la scadenza del debito se la somma scontata è pari ai 9/10 del valore nominale. 
 
 d) Un commerciante per 1'acquisto di una merce deve fare tre pagamenti uguali, di 300 euro ciascuno, scadenti il primo oggi, il secondo fra 2 mesi, il terzo fra 6 mesi. Pagando tutto oggi può fruire dello sconto razionale al tasso del 9% annuo. Calcolare il valore complessivo da pagare oggi.
-
-
 
 
 
