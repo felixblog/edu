@@ -131,7 +131,7 @@ Pr finire osserviamo che le frasi che presentano una negazione, come "Roma non �
 
 ### FORME SIMBOLICHE
 
-Per riassumere quanto abbiamo detto sul come la verità delle proposizioni complesse dipende dalla verità delle proposizioni semplici componenti, diamo un nome simbolico alle proposizioni semplici ed ai connettivi. Consideriamo i connettivi seguenti ed i loro simboli:
+Per riassumere quanto abbiamo detto sul come la verità delle proposizioni complesse dipende dalla verità delle proposizioni semplici componenti, diamo un nome simbolico alle proposizioni semplici ed ai connettivi. Consideriamo i connettivi seguenti (fondamentali) ed i loro simboli:
 
 | Connettivo             | Simbolo   | Esempi                    |
 | ---------------------- | --------- | ------------------------- |
@@ -141,7 +141,7 @@ Per riassumere quanto abbiamo detto sul come la verità delle proposizioni compl
 | Negazione              | $\lnot$   | non, non è vero che       |
 | Implicazione           | $\to$     | se ... allora, ... se     |
 
-Se diamo una lettera come nome alle proposizioni semplici, possiamo scrivere tutta una frase in un modo molto sintetico e simbolico, come negli esempi seguenti.
+Se diamo come nome alle proposizioni semplici una lettera, ad esempio $p$, $q$ o $r$, possiamo scrivere tutta una frase in un modo molto sintetico e simbolico, come negli esempi seguenti.
 
 #### Esempio 1: Congiunzione
 
@@ -181,9 +181,9 @@ $p$: “Tu mi aiuti”, $q$: “Tu vai via", Proposizione composta: "O mi aiuti 
 
 #### Esempio 5: Implicazione
 
-"Se un parallelogramma è un quadrato, allora un rombo è un rettangolo"
+"Se premi l'interruttore la luca si accende"
 
-$p$: “Un parallelogramma è un quadrato”, $q$: “Un rombo è un rettangolo", Proposizione composta: "Se un parallelogramma è un quadrato, allora un rombo è un rettangolo": $p \to q$.
+$p$: “Tu premi l'interruttore”, $q$: “La luce si accende", Proposizione composta: "Se premi l'interruttore la luca si accende": $p \to q$.
 
 ### TABELLE DI VERITA'
 
@@ -239,7 +239,7 @@ F & F & F \\
 \end{array}
 $$
 
-Abbiamo infine l'implicazione... 
+Abbiamo infine l'**implicazione** (materiale). Nella frase "Se premi l'interruttore la luca si accende", $p$: “Tu premi l'interruttore” viene detta **antecedente** e $q$: “La luce si accende" **conseguente**. Nel suo insieme la frase è falsa solo se l'antecedente è vera e la conseguente è falsa; si può facilmente constatare che negli altri casi il tutto si può considerare vero, per cui la tabella di verità è la seguente.
 
 
 $$
@@ -269,7 +269,7 @@ a) Scrivi la negazione delle seguenti proposizioni.
 9. "Faccio tutti i compiti per non essere bocciato";  
 10. "Le api non si posano su fiori che non profumano".
 
-b) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione. 
+b) Date le seguenti proposizioni composte, indica ogni proposizione componente con una lettera, ad esempio $p$, $q$ o $r$, e riscrivi la proposizione composta in forma simbolica usando la congiunzione. 
 
 1. "Mara suona e canta";  
 
@@ -279,7 +279,7 @@ b) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 4. "Il quadrato è un rettangolo e un rombo".
 
-c) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la disgiunzione inclusiva.
+c) Date le seguenti proposizioni composte, indica ogni proposizione componente con una lettera, ad esempio $p$, $q$ o $r$, e riscrivi la proposizione composta in forma simbolica usando la disgiunzione inclusiva.
 1. "È nuvoloso o piove";
 
 2. "Nelle prossime vacanze andrò in montagna o al lago";  
@@ -294,7 +294,7 @@ c) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 7. "Non esco o cucino o faccio una doccia".
 
-d) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando la congiunzione esclusiva.
+d) Date le seguenti proposizioni composte, indica ogni proposizione componente con una lettera, ad esempio $p$, $q$ o $r$, e riscrivi la proposizione composta in forma simbolica usando la congiunzione esclusiva.
 
 1. "O studi o sarai bocciato";  
 2. "Nelle prossime vacanze o andrò in montagna o farò un viaggio a Parigi";  
@@ -303,7 +303,7 @@ d) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 5. "O la borsa o la vita";  
 6. "O c’è il sole o non esco".
 
-e) Date le seguenti proposizioni composte, indica ogni proposizione componente con una variabile e riscrivi la proposizione composta in forma simbolica usando l'implicazione materiale.
+e) Date le seguenti proposizioni composte, indica ogni proposizione componente con una lettera, ad esempio $p$, $q$ o $r$, e riscrivi la proposizione composta in forma simbolica usando l'implicazione materiale.
 
 1. "Se sono promossa agli esami mi iscrivo a Medicina";  
 
@@ -321,7 +321,7 @@ e) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 ### ESERCIZIO 2.2 - Proposizioni Equivalenti
 
-a) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nelle seguenti proposizioni.
+a) Dire a quali connettivi proposizionali fondamentali (congiunzione, disgiunzione, negazione, implicazione) equivalgono i termini sottolineati nelle seguenti proposizioni.
 
 1. "Giovanna è bella, <u>ma</u> Claudia è intelligente";   
 2. "Marcello è in campo, <u>benché</u> abbia la febbre";  
@@ -336,28 +336,23 @@ a) Dire a quali connettivi proposizionali equivalgono i termini sottolineati nel
 
 ### ESERCIZIO 2.2 - Forme Simboliche II
 
-a) Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  
-$a$: “Aldo ha superato l’esame”, $b$: “Bruno ha superato l’esame”, $c$: “Carlo ha superato l’esame”, scrivere in forma simbolica le seguenti proposizioni:
+Posto $c$: "Carlo è ligure" e $d$: "Diego è piemontese":
 
-1. "Solo Carlo ha superato l’esame";  
-2. "Solo Aldo non ha superato l’esame";  
-3. "Solo uno tra Aldo, Bruno e Carlo ha superato l’esame";  
-4. "Almeno uno tra Aldo, Bruno e Carlo ha superato l’esame";  
-5. "Almeno due tra Aldo, Bruno e Carlo hanno superato l’esame";  
-6. "Al più due tra Aldo, Bruno e Carlo hanno superato l’esame";  
-7. "Esattamente due tra Aldo, Bruno e Carlo hanno superato l’esame".
+a) Scrivi in forma simbolica le seguenti proposizioni composte:
 
-b) Posto $c$: "Carlo è ligure" e $d$: "Diego è piemontese", scrivere in forma simbolica le seguenti proposizioni composte:
 1. "Carlo non è ligure”  
 2. "Carlo è ligure e Diego è piemontese";  
 3. "Carlo è ligure sebbene Diego sia piemontese";  
 4. "Non è vero che Carlo sia ligure e Diego piemontese";  
 5. "Se Carlo non è ligure, allora Diego non è piemontese";  
-6. "È falso che se Carlo è ligure, allora Diego è piemontese";  
-7. "Carlo è ligure solo se Diego non è piemontese";  
-8. "Carlo è ligure se e solo se Diego non è piemontese";  
-9. "O Carlo è ligure o, se Carlo non è ligure, allora Diego è piemontese";  
-10. "O Carlo è ligure e Diego è piemontese, o né Carlo è ligure, né Diego è piemontese".
+6. "È falso che se Carlo è ligure, allora Diego è piemontese".
+
+b) Scrivi in forma simbolica le seguenti proposizioni composte:
+
+1. "Carlo è ligure solo se Diego non è piemontese";  
+2. "Carlo è ligure se e solo se Diego non è piemontese";  
+3. "O Carlo è ligure o, se Carlo non è ligure, allora Diego è piemontese";  
+4. "O Carlo è ligure e Diego è piemontese, o né Carlo è ligure, né Diego è piemontese".
 
 
 
@@ -397,6 +392,24 @@ a) Individua tra le proposizioni seguenti le tautologie e le contraddizioni.
 4. $(p \to q) \land (\lnot p \lor q);$  
 5. $(p \land q) \land (p \lor q);$  
 6. $(p \to q) \land p) \to q$.
+
+
+
+### ESERCIZIO 3.2 - Forme Simboliche e Tabelle di Verità
+
+Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  $a$: “Aldo ha superato l’esame”, $b$: “Bruno ha superato l’esame”, $c$: “Carlo ha superato l’esame”:
+
+a) Scrivi in forma simbolica le seguenti proposizioni.
+
+1. "Solo Carlo ha superato l’esame";  
+2. "Solo Aldo non ha superato l’esame";  
+3. "Solo uno tra Aldo, Bruno e Carlo ha superato l’esame";  
+4. "Almeno uno tra Aldo, Bruno e Carlo ha superato l’esame";  
+5. "Almeno due tra Aldo, Bruno e Carlo hanno superato l’esame";  
+6. "Al più due tra Aldo, Bruno e Carlo hanno superato l’esame";  
+7. "Esattamente due tra Aldo, Bruno e Carlo hanno superato l’esame".
+
+b) Scrivi le tabelle di verità delle proposizioni simboliche del punto a).
 
 
 
