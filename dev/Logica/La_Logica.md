@@ -41,9 +41,9 @@ Consideriamo le due frasi
 - L'Angola e la Namibia sono confinanti;
 - L'Angola e la Namibia sono stati.
 
-Le due frasi ovviamente dicono cose diverse, ma l'aspetto della diversità che qui ci interessa è quello per cui la prima afferma "un fatto solo" (una relazione tra Angola e Namibia) mentre la seconda due fatti indipendenti, ossia "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro, perché, ad esempio, la Namibia potrebbe essere una regione di un altro stato e non uno stato.
+Le due frasi ovviamente dicono cose diverse, ma l'aspetto della diversità che qui ci interessa è quello per cui la prima afferma "un fatto solo" (una relazione tra Angola e Namibia), ci da una sola informazione, mentre la seconda afferma due fatti indipendenti, ossia "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro, perché, ad esempio, la Namibia potrebbe essere solo una regione e non uno stato.
 
-Le frasi come “L'Angola e la Namibia sono confinanti”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", sono affermazioni **semplici**, cioè affermano un fatto solo. Quelle riportate di seguito, invece, sono delle frasi complesse, in cui ognuna esprime almeno due affermazioni collegate: 
+Le frasi come “L'Angola e la Namibia sono confinanti”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", sono affermazioni **semplici**, cioè ci danno una sola informazione. Quelle riportate di seguito, invece, sono delle frasi complesse, in cui ognuna esprime almeno due affermazioni collegate: 
 
 - I dinosauri erano rettili ed avevano il sangue freddo.
 - Claudia ha appena corso una maratona ed ha completato la distanza in meno di quattro ore.
@@ -141,7 +141,7 @@ Per riassumere quanto abbiamo detto sul come la verità delle proposizioni compl
 | Negazione              | $\lnot$   | non, non è vero che       |
 | Implicazione           | $\to$     | se ... allora, ... se     |
 
-Se diamo come nome alle proposizioni semplici una lettera, ad esempio $p$, $q$ o $r$, possiamo scrivere tutta una frase in un modo molto sintetico e simbolico, come negli esempi seguenti.
+Se indichiamo le proposizioni semplici una lettera, ad esempio $p$, $q$ o $r$, possiamo scrivere tutta una frase in un modo molto sintetico e simbolico, come negli esempi seguenti.
 
 #### Esempio 1: Congiunzione
 
@@ -160,7 +160,7 @@ La proposizione complessa può essere scritta in modo simbolico come $p \land q$
 
 "Oggi non lavoro"
 
-Questa è una frase complessa perché quelle semplici sono in forma positiva. Allora abbiamo: 
+Questa è considerata una frase complessa perché quelle semplici sono in forma positiva. Allora abbiamo: 
 
 - $p$: “Oggi lavoro”
 - $\lnot p$: “Oggi non lavoro”.
@@ -218,8 +218,9 @@ F & F & F \\
 \end{array}
 $$
 
-La negazione rende vera una proposizione falsa e falsa una vera. La disgiunzione non esclusiva rende possibile la verità della proposizione composta anche nel caso in cui siano vere entrambe le componenti, come nel caso di "Vado al bowling con Mario o con Andrea", che è vera anche se ci vado con tutti e due:
+Con "disgiunzione non esclusiva" intendiamo una alternativa tra proposizioni, ad esempio "Vado al bowling con Mario o con Andrea", in cui la frase è vera anche nel caso in cui siano vere entrambe le componenti: "Vado al bowling con Mario o con Andrea" è vera se al bowling ci vado con tutti e due!
 
+Abbiamo poi la negazione, che rende vera una proposizione falsa e falsa una proposizione vera. 
 $$
 \begin{array}{c|c} 
 p & q & \lnot p  \\ 
@@ -239,7 +240,7 @@ F & F & F \\
 \end{array}
 $$
 
-Abbiamo infine l'**implicazione** (materiale). Nella frase "Se premi l'interruttore la luca si accende", $p$: “Tu premi l'interruttore” viene detta **antecedente** e $q$: “La luce si accende" **conseguente**. Nel suo insieme la frase è falsa solo se l'antecedente è vera e la conseguente è falsa; si può facilmente constatare che negli altri casi il tutto si può considerare vero, per cui la tabella di verità è la seguente.
+Infine l'**implicazione** (materiale). Nella frase "Se premi l'interruttore la luca si accende", la frase $p$: “Tu premi l'interruttore” viene detta **antecedente** e $q$: “La luce si accende" **conseguente**. Nel suo insieme la frase è falsa solo se l'antecedente è vera e la conseguente è falsa; si può facilmente constatare che negli altri casi il tutto si può considerare vero, per cui la tabella di verità è la seguente.
 
 
 $$
