@@ -26,7 +26,9 @@ E importante distinguere tra una frase vera e propria, costituita da una serie d
 - L'Angola confina con la Namibia;
 - L'Angola e la Namibia sono confinanti.
 
-Le parole usate sono diverse, ma l’affermazione è praticamente la stessa. Verosimilmente la stessa affermazione può essere espressa ricorrendo a una mappa che mostri i due paesi vicini. Situazioni analoghe si hanno con i casi seguenti.
+Le parole usate sono diverse, ma l’affermazione è praticamente la stessa. Verosimilmente la stessa affermazione può essere espressa ricorrendo a una mappa che mostri i due paesi vicini.
+
+Situazioni analoghe si hanno con i casi seguenti, in cui, dal punto di vista logico, consideriamo due frasi equivalenti se sono vere o false nelle stesse circostanze, cioè senza indagare su significati nascosti (come nel caso di "Giovanna è bella, <u>ma</u> Claudia è intelligente"), ma solo sulla equivalenza della loro verità o falsità.
 
 | Frase Originaria                                   | Frase equivalente                                 |
 | -------------------------------------------------- | ------------------------------------------------- |
@@ -41,7 +43,7 @@ Consideriamo le due frasi
 - L'Angola e la Namibia sono confinanti;
 - L'Angola e la Namibia sono stati.
 
-Le due frasi ovviamente dicono cose diverse, ma l'aspetto della diversità che qui ci interessa è quello per cui la prima afferma "un fatto solo" (una relazione tra Angola e Namibia), ci da una sola informazione, mentre la seconda afferma due fatti indipendenti, ossia "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro, perché, ad esempio, la Namibia potrebbe essere solo una regione e non uno stato.
+Le due frasi ovviamente dicono cose diverse, ma l'aspetto della diversità che qui ci interessa è quello per cui la prima afferma "un fatto solo" (una relazione tra Angola e Namibia), ossia ci da <u>una sola informazione</u>, mentre la seconda afferma due fatti indipendenti, ossia "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro, perché, ad esempio, la Namibia potrebbe essere solo una regione e non uno stato.
 
 Le frasi come “L'Angola e la Namibia sono confinanti”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", sono affermazioni **semplici**, cioè ci danno una sola informazione. Quelle riportate di seguito, invece, sono delle frasi complesse, in cui ognuna esprime almeno due affermazioni collegate: 
 
@@ -123,7 +125,7 @@ Nel caso della prima è abbastanza semplice: il connettivo è “e” e la prima
 
 La seconda frase è più complicata perché le frasi componenti sono legate da un connettivo fatto di due parole: il primo "o" ed il secondo "o" e la frase intende dire che o succede una cosa, o l'altra ma non tutte e due. La conclusione è che nel suo insieme la proposizione sarà vera se e solo se una sola delle sue frasi componenti è vera. In questo caso il connettivo è detto **disgiunzione (esclusiva)**.
 
-La terza è un’altra affermazione complessa e difficile da analizzare. Prima di tutto, essa non sta sostenendo né che alcune parti del mondo saranno presto sott’acqua né che nulla sarà fatto per il cambiamento climatico. La terza viene generalmente detta proposizione condizionale o ipotetica ed è un'affermazione nella quale se una parte è vera, allora lo sarà anche l'altra. Per esempio, se non si fa nulla per i cambiamenti climatici, allora alcune parti del mondo finiranno sott’acqua. Se non si farà nulla e la previsione si rivelerà un falso allarme, allora la terza proposizione nel suo insieme sarà falsa.
+La terza è un’altra affermazione complessa e difficile da analizzare. Prima di tutto, essa non sta sostenendo né che alcune parti del mondo saranno presto sott’acqua né che nulla sarà fatto per il cambiamento climatico. La terza viene generalmente detta proposizione condizionale o ipotetica ed è un'affermazione nella quale se una parte è vera, allora lo sarà anche l'altra. Per esempio, se non si fa nulla per i cambiamenti climatici, allora alcune parti del mondo finiranno sott’acqua. Se non si farà nulla, e la previsione si rivelerà un falso allarme, allora la terza proposizione nel suo insieme sarà falsa.
 
 Le due proposizioni componenti sono "Non si interviene per invertire il cambiamento climatico" e "Molte parti del mondo saranno presto sommerse" e sono tenute insieme dal connettivo "Se ... (allora)..." detto **implicazione **(materiale).
 
@@ -181,7 +183,7 @@ $p$: “Tu mi aiuti”, $q$: “Tu vai via", Proposizione composta: "O mi aiuti 
 
 #### Esempio 5: Implicazione
 
-"Se premi l'interruttore la luca si accende"
+"Se premi l'interruttore la luce si accende"
 
 $p$: “Tu premi l'interruttore”, $q$: “La luce si accende", Proposizione composta: "Se premi l'interruttore la luca si accende": $p \to q$.
 
@@ -359,8 +361,53 @@ b) Scrivi in forma simbolica le seguenti proposizioni composte:
 
 ## UNITA' 3: Tabelle di verità, tautologie e contraddizioni
 
+Abbiamo già detto che la verità delle proposizioni complesse dipendono dalla verità delle proposizioni componenti. Possiamo capire "quando" una proposizione complessa è vera costruendo la sua tabella di verità. Vediamo alcuni esempi.
+
+#### ESEMPIO 1
+
+Consideriamo la frase "Se non studi, non prenderai la sufficienza", rappresentata simbolicamente da
+
+$p$: "Tu studi"; $q$: "Tu prenderai la sufficienza";
+
+$\lnot p \to \lnot q$: "Se non studi, non prenderai la sufficienza".
+
+La sua tabella di verità la possiamo costruire scrivendo il valore sulle colonne corrispondenti alle tutte le proposizioni componenti. L'ultima colonna è quella relativa alla frase composta completa.
+$$
+\begin{array}{c|c|c}
+p & q & \lnot p & \lnot q & \lnot p \to \lnot q \\ 
+\hline 
+T & T & F & F & T \\ 
+F & T & T & F & F \\ 
+T & F & F & T & T \\  
+F & F & T & T & T \\  
+\end{array}
+$$
+Anche se può sembrare strano, ci sono proposizioni che sono sempre vere. Un esempio è il seguente: "Oggi o esco o non esco". Se la rappresentiamo in forma simbolica ponendo $p$: "Oggi esco", abbiamo $p \lor \lnot p$. La sua tabella di verità è:
+$$
+\begin{array}{c|c|c} 
+p & \lnot p & p \lor \lnot p \\ 
+\hline 
+T & F & T \\ 
+F & T & T \\ 
+\end{array}
+$$
+Come si può vedere la tabella ha una caratteristica particolare: la colonna finale è vera per tutte le righe. Una proposizione che ha questa caratteristica si dice tautologia. Una **tautologia** è una proposizione vera qualunque sia il valore di verità delle sue componenti. 
+
+Come per le tautologie, ci sono proposizioni che sono sempre false. Un esempio è il seguente: "In questo momento piove e non piove". Se la rappresentiamo in forma simbolica ponendo $p$: "In questo momento piove", abbiamo $p \land \lnot p$. La sua tabella di verità è:
+$$
+\begin{array}{c|c|c} 
+p & \lnot p & p \land \lnot p \\ 
+\hline 
+T & F & F \\ 
+F & T & F \\ 
+\end{array}
+$$
+Come si può vedere anche questa di tabella ha una caratteristica particolare: la colonna finale è falsa per tutte le righe. Una proposizione che ha questa caratteristica si dice contraddizione. Una **contraddizione** è una proposizione falsa qualunque sia il valore di verità delle sue componenti. 
+
+
 
 ### ESERCIZIO 3.1 - Tabelle di verità, tautologie e contraddizioni
+
 a) Costruisci le tabelle di verità delle proposizioni seguenti.
 1. $ \lnot p \to q$
 2. $\lnot q \to \lnot p$;

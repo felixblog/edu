@@ -194,7 +194,7 @@ a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappres
 
 b) Per ciascuna coppia di insiemi $A$ e $B$ determina l'insieme $A \cap B$:  
 1. $A = \{x: x \; \acute{e} \; un \; multiplo \; di \; 4\}$ e $B = \{x: x \; \acute{e} \; un \; multiplo \; di \; 6\}$;  
-2. $A = \{x: x \; \acute{e} \; un \; divisore \; di \; 8\}$ e $B = \{x: x \; \acute{e} \; un \; divisore \; di \; 12\}$.  
+2. $A = \{x: x \; \acute{e} \; un \; divisore \; di \; 8\}$ e $B = \{x: x \; \acute{e} \; un \; divisore \; di \; 12\}$.  
 
 c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$, calcola i risultati delle seguenti espressioni:  
 1. $A \cap B \cap C$  
@@ -204,10 +204,10 @@ c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$,
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A=Unico(Suddividi(''tegame'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''gomito'',\{''''\})))$ &#9166;   
-2. $l_C=Unico(Suddividi(''attesa'',\{''''\}))$ &#9166;   $l_D=Unico(Suddividi(''paese'',\{''''\})))$ &#9166; 
-3. $Unione(l_A, l_B)$  &#9166; 
-4. $Intersezione(l_A, l_B)$  &#9166;  
+1. $A=Unico(Suddividi(''tegame'',\{''''\})))$ &#9166;   $B=Unico(Suddividi(''gomito'',\{''''\})))$ &#9166;   
+2. $C=Unico(Suddividi(''attesa'',\{''''\}))$ &#9166;   $D=Unico(Suddividi(''paese'',\{''''\})))$ &#9166; 
+3. $Unione(A, B)$  &#9166; 
+4. $Interseca(A, B)$  &#9166;  
 
 
 
@@ -249,15 +249,15 @@ d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispe
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A=Unico(Suddividi(''colore'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''sapore'',\{''''\})))$ &#9166;   
-2. $l_A \setminus l_B$  &#9166; 
-3. $l_B \setminus l_A$  &#9166; 
+1. $A=Unico(Suddividi(''colore'',\{''''\})))$ &#9166;   $B=Unico(Suddividi(''sapore'',\{''''\})))$ &#9166;   
+2. $A \setminus B$  &#9166; 
+3. $B \setminus A$  &#9166; 
 
 
 
 ### ESERCIZIO 2.4 - Prodotto Cartesiano
 
-a) Dati gli insiemi A e B, rappresenta il prodotto A x B per elencazione e con un diagramma cartesiano nei casi seguenti.
+a) Dati gli insiemi $A$ e $B$, rappresenta il prodotto $A \times B$ per elencazione e con un diagramma cartesiano nei casi seguenti.
 
 1. $A = \{a, b\}$ e $B = \{4, 6\}$
 2. $A = \{x ∈ N: 1 \lt x \;e \; x \le 4 \}$ e $B = \{x ∈ N: 5 \lt x \;e \; x \lt 10 \}$
@@ -273,8 +273,8 @@ b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e q
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito (utilizza una singola lettera minuscola al posto dei nomi delle squadre):
 
-1. $l_A=\{a, b\}$  &#9166;   $l_B=\{4, 6\}$  &#9166;
-2. $Compatta(Compatta((h,k),h,l_A), k, l_B\})$ &#9166;   
+1. $A=\{a, b\}$  &#9166;   $B=\{4, 6\}$  &#9166;
+2. $Compatta(Compatta((h,k),h,A), k, B\})$ &#9166;   
 
 
 
