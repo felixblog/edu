@@ -416,6 +416,17 @@ a) Costruisci le tabelle di verità delle proposizioni seguenti.
 5. $\lnot (\lnot p \lor \lnot q)$
 6. $(p \to q) \land p$.
 
+b) Individua tra le proposizioni seguenti le tautologie e le contraddizioni.
+
+1. $p \to ( q \to p);$  
+2. $p \to (\lnot p \lor q);$  
+3. $p \lor \lnot \lnot p; $  
+4. $(p \to q) \land (\lnot p \lor q);$  
+5. $(p \land q) \land (p \lor q);$  
+6. $(p \to q) \land p) \to q$.
+
+
+
 #### Laboratorio LOGICTOOLS
 
 a) Trovare la tabella di verità della prima formula del punto a.1) dell'esercizio utilizzando la sequenza di comandi riportata di seguito.
@@ -429,17 +440,6 @@ b) Trovare la tabella di verità della prima formula del punto a.2) dell'eserciz
 1. Andare sul sito https://logictools.org/prop.html
 2. Inserire nella casella di testo la formula **-( -p & -q )**
 3. Premere il pulsante **Build**
-
-### ESERCIZIO 3.1 - Tautologie e contraddizioni
-
-a) Individua tra le proposizioni seguenti le tautologie e le contraddizioni.
-
-1. $p \to ( q \to p);$  
-2. $p \to (\lnot p \lor q);$  
-3. $p \lor \lnot \lnot p; $  
-4. $(p \to q) \land (\lnot p \lor q);$  
-5. $(p \land q) \land (p \lor q);$  
-6. $(p \to q) \land p) \to q$.
 
 
 

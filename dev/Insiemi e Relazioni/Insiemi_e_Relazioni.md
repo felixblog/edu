@@ -123,8 +123,8 @@ b) Trova il numero degli elementi degli insiemi riportati di seguito.
 
 a) Risolvi il punto b.2 dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_B: \{''Roma'', ''Latina'', ''Rieti'', ''Viterbo'', ''Frosinone''\}$ &#9166; 
-2. $ContaSe(true, l_B)$  &#9166;
+1. $B = \{''Roma'', ''Latina'', ''Rieti'', ''Viterbo'', ''Frosinone''\}$ &#9166; 
+2. $ContaSe(true, B)$  &#9166;
 
 b) Utilizzando le istruzioni GEOGEBRA del punto precedente, risolvi il punto a) dell'esercizio.
 
@@ -156,11 +156,13 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 b) Risolvi il punto d.2) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A=Unico(Suddividi(''diario'',\{''''\})))$ &#9166;   $l_B=Unico(Suddividi(''ardore'',\{''''\})))$ &#9166;   
-2. $l_C=Unico(Suddividi(''orda'',\{''''\}))$ &#9166;   $l_D=Unico(Suddividi(''radio'',\{''''\})))$ &#9166; 
-3. $l_A \subseteq l_B$  &#9166; 
-4. $l_A \subseteq l_D$  &#9166; 
-5. $l_A \subset l_D$  &#9166; 
+1. $A=Unico(Suddividi(''diario'',\{''''\})))$ &#9166;
+2. $B=Unico(Suddividi(''ardore'',\{''''\})))$ &#9166;
+3. $C=Unico(Suddividi(''orda'',\{''''\}))$ &#9166;
+4. $D=Unico(Suddividi(''radio'',\{''''\})))$&#9166; 
+5. $A \subseteq B$  &#9166; 
+6. $A \subseteq D$  &#9166; 
+7. $A \subset D$  &#9166; 
 
 
 
@@ -249,9 +251,10 @@ d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispe
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $A=Unico(Suddividi(''colore'',\{''''\})))$ &#9166;   $B=Unico(Suddividi(''sapore'',\{''''\})))$ &#9166;   
-2. $A \setminus B$  &#9166; 
-3. $B \setminus A$  &#9166; 
+1. $A=Unico(Suddividi(''colore'',\{''''\})))$ &#9166;
+2. $B=Unico(Suddividi(''sapore'',\{''''\})))$ &#9166;   
+3. $A \setminus B$  &#9166; 
+4. $B \setminus A$  &#9166; 
 
 
 
