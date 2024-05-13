@@ -216,10 +216,10 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 ### ESERCIZIO 2.2 - Problemi su intersezione ed unione
 
-a) Un’indagine di mercato compiuta su 90 famiglie ha evidenziato che 59 possiedono il robot da cucina, 80 hanno il forno a microonde o il robot da cucina e 24 possiedono entrambi gli elettrodomestici.  
-Quante famiglie hanno solo il robot e quante solo il forno? Quante non possiedono nessuno di questi elettrodomestici? [R. 35; 21; 10]  
+a) In una classe di 32 alunni, 18 giocano a calcio e 20 a pallavolo. Di essi, 16 praticano entrambi gli sport. Calcola quanti alunni non praticano ne’ il calcio ne’ la pallavolo.  
 
-b) In una classe di 32 alunni, 18 giocano a calcio e 20 a pallavolo. Di essi, 16 praticano entrambi gli sport. Calcola quanti alunni non praticano ne’ il calcio ne’ la pallavolo.  
+b) Un’indagine di mercato compiuta su 90 famiglie ha evidenziato che 59 possiedono il robot da cucina, 80 hanno il forno a microonde o il robot da cucina e 24 possiedono entrambi gli elettrodomestici.  
+Quante famiglie hanno solo il robot e quante solo il forno? Quante non possiedono nessuno di questi elettrodomestici? [R. 35; 21; 10]  
 
 c) In un gruppo di 18 persone ciascuno porta almeno uno fra cappello, giacca e cravatta. Si sa che in 6 portano il cappello, in 9 la giacca e in 12 la cravatta. Due persone portano cappello e cravatta e nessuno porta cappello e giacca. Stabilisci quante persone hanno giacca e cravatta.  
 
@@ -229,23 +229,23 @@ d) In una sala sono presenti 62 persone, ognuna delle quali ha almeno una delle 
 
 ### ESERCIZIO 2.3 - Differenza e Complemento
 
-a) Dati A = {x: x è residente in Veneto} e B = {x: x è residente a Venezia}, descrivi a parole A - B e B - A.
+a) Dati $A = \{x: \; x \;è \;residente \;in \;Veneto \}$ e $B = \{x: \;x \;è \;residente \;a \;Venezia\}$, descrivi a parole $A \setminus B$ e $B \setminus A$.
 
-b) Dati gli insiemi A, B, C, formati rispettivamente dalle lettere delle parole «colore», «sapore», «odore», determina la differenza fra tutte le possibili coppie di insiemi.
+b) Dati gli insiemi $A$, $B$, $C$, formati rispettivamente dalle lettere delle parole «colore», «sapore», «odore», determina la differenza fra tutte le possibili coppie di insiemi.
 
-c) Determina A e B in modo che:
+c) Determina $A$ e $B$ in modo che:
 
-1. A U B = {a, b, c, d, e, f, g, h};
-2. A U B = {e, g};
-3. A - B = {a, d, h, b};
-4. B - A = {c, f }.
+1. $A \cup B = \{a, b, c, d, e, f, g, h\}$;
+2. $A \cup B = \{e, g\}$;
+3. $A \setminus B = \{a, d, h, b\}$;
+4. $B \setminus A = \{c, f \}$.
 
 Le informazioni fornite sono eccessive. Quante ne bastano?
 
-d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispetto all’insieme U indicato.  
+d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispetto all’insieme $U$ indicato.  
 
-1. U = {x: x è una lettera dell’alfabeto}, A = {x: x è una vocale}.  
-2. U = {x: x è un punto della superficie terrestre}, A = {x: x è un punto delle terre emerse}.
+1. $U = \{x: \;x \;è \;una \;lettera \;dell’alfabeto\}$, $A = \{x: \;x \;è \;una \;vocale\}$.  
+2. $U = \{x: \;x \;è \;un \;punto \;della \;superficie \;terrestre\}$, $A = \{x: \;x \;è \;un \;punto \;delle \;terre \;emerse\}$.
 
 #### Laboratorio
 
@@ -291,16 +291,16 @@ a) Considera il disegno seguente che illustra i rapporti di parentela tra gli el
 
 Se $P = \{Sara, Tommaso, Roberto, Elisa, Anna, Patrizia, Giovanni\}$, elenca le coppie, elementi di  $P \times P$, con le proprietà definite di seguito:
 
-1. R~1~: $\text{«x \'e madre di y»}$;
-2. R~2~: $\text{«x \'e genitore di y»}$;;
-3. R~3~: $\text{«x \'e  sorella di y»}$;
-4. R~4~: $\text{«x \'e nipote di y»}$;;
+1. $R_1$: $\text{«x \'e madre di y»}$;
+2. $R_2$: $\text{«x \'e genitore di y»}$;;
+3. $R_3$: $\text{«x \'e  sorella di y»}$;
+4. $R_4$: $\text{«x \'e nipote di y»}$;;
 
 b) Dati gli insiemi $A = \{1, 2, 3, 4, 5\}$ e $B = \{-1, 0, 1, 2\}$, scrivi i sottoinsiemi di $A \times B$ le cui coppie soddisfano le proprietà seguenti:
 
-1. R~1~: $«x + y = 4»$;
-2. R~2~: $«x = 2y»$;
-3. R~3~: $«x \le y»$.
+1. $R_1$: $«x + y = 4»$;
+2. $R_2$: $«x = 2y»$;
+3. $R_3$: $«x \le y»$.
 
 c) Considera l'insieme di persone $P$ del punto a) e l'insieme di città $C = \{Roma, Latina, Rieti, Viterbo, Frosinone\}$. I fatti seguenti indicano la città di abitazione di ciascuno:
 
@@ -314,17 +314,18 @@ f~4~: "Giovanni abita a Frosinone".
 
 Tenendo conto dei fatti precedenti, elenca gli elementi di:
 
-1. $P \times C$ che soddisfano la proprietà R~1~(x, y): "x abita a y";
-2. $P \times P$, che soddisfano R~2~(x,y): "x abita nella stessa città di y";
+1. $P \times C$ che soddisfano la proprietà $R_1(x, y)$: $\text{«x abita a y»}$";
+2. $P \times P$, che soddisfano $R_2(x,y)$: $\text{«x abita nella stessa città di y»}$;
 3. $I = \{x \in P: R_2(x,Roma)\}.$ 
 
 #### Laboratorio
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $l_A = \{1, 2, 3, 4, 5\}$  &#9166;   $l_B = \{-1, 0, 1, 2\}$  &#9166;
-2. $l_C = Singola(Compatta(Compatta((h, k), h, l_A), k, l_B))$ &#9166;   
-3. $TieniSe(x(A) + y(A) == 4, A, l_C)$   &#9166;
+1. $A = \{1, 2, 3, 4, 5\}$  &#9166;
+2. $B = \{-1, 0, 1, 2\}$  &#9166;
+3. $C = Singola(Compatta(Compatta((h, k), h, A), k, B))$ &#9166;   
+4. $TieniSe(x(A) + y(A) == 4, A, C)$   &#9166;
 
 
 
