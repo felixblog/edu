@@ -190,7 +190,7 @@ b) Calcolare il montante ad interesse composto delle operazioni seguenti che han
 
 2. $1.000$ euro per $10$ anni al tasso del $5,30\%$ quadrimestrale ($m=3$);
 
-3. $600$ euro per $5$ anni e $6$ mesi al tasso del $3,50\%$ bimestrale.
+3. $600$ euro per $5$ anni e $6$ mesi al tasso del $3,50\%$ bimestrale.
 
 
 
@@ -207,15 +207,17 @@ b) Una persona prende in prestito $20.000$ euro al tasso annuo del $12\%$ e le i
 
 ### ESERCIZIO 3.3 - Interesse composto: valore attuale I
 
-Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:
+a) Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:
 
-a) 1.200 euro per 5 anni al tasso del 7% annuo;
+1. 1.200 euro per 5 anni al tasso del 7% annuo;
 
-b) 800 euro per 10 anni al tasso del 12% annuo;
+2. 800 euro per 10 anni al tasso del 12% annuo;
 
-c) 665 euro per 4 anni e 6 mesi al tasso del 3% trimestrale;
+b) Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:
 
-d) 3.012 euro per 2 anni e 5 mesi al tasso dell’1,50% mensile.
+1. 665 euro per 4 anni e 6 mesi al tasso del 3% trimestrale;
+
+2. 3.012 euro per 2 anni e 5 mesi al tasso dell’1,50% mensile.
 
 
 
@@ -227,34 +229,35 @@ b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: L. 30.00
 
 
 
-## UNITA' 4: Tassi equivalenti e nominali
+## UNITA' 4: Tassi equivalenti e tassi nominali
 
-Nel regime dell’interesse composto, ci si può porre il problema di quale tasso periodale (trimestrale, quadrimestrale etc.) sia equivalente ad un tasso di interesse annuale o viceversa quale tasso annuale sia equivalente ad un tasso periodale.
+Nel regime dell’interesse composto, ci si può porre il problema di quale tasso periodale (trimestrale, quadrimestrale etc.) sia **equivalente** ad un tasso di interesse annuale ossia produca dopo $n$ anni lo stesso montante.
 
 Indicando con $m$ il numero di periodi che compongono l'anno, ossia $m=3$ per il trimestre, $m=2$ per il semestre e così via, Il tasso periodale $i_{1/m}$ equivalente a quello annuale $i$ è il tasso periodale che produce dopo un anno lo stesso montante di quello annuale, ossia
 $$
-M_1 = C(1 + i_{1/m})^m = 1 + i
-$$
-Se abbiamo una operazione finanziaria in cui il tasso è periodale ma all'interno dell'anno gli interessi sono calcolati con il regime dell'interesse semplice, alla fine dell'anno il montante è $C(1 + mi_{1/m})$. Il tasso annuo equivalente in questo caso è detto **tasso annuo nominale convertibile** (trimestralmente, semestralmente etc.), si indica con $j(m)$ e vale la relazione
-$$
-1 + C \cdot m \cdot i_{1/m} = 1 + j(m)
+M_1 = C(1 + i_{1/m})^m = C(1 + i)
 $$
 per cui
+$$
+i_{1/m} = (1 + i)^\frac{1}{m} - 1
+$$
+Il calcolo di un tasso annuale a partire da uno periodale non viene fatto dalla formula precedente ma dalla moltiplicazione del tasso periodale per il numero dei periodi. Il tasso annuo che si ottiene in questo caso è detto **tasso annuo nominale convertibile** (trimestralmente, semestralmente etc.), si indica con $j(m)$ e vale la relazione
 $$
 j(m) = m \cdot i_{1/m}
 $$
 
 
+
 ### ESERCIZIO 4.1 - Tassi equivalenti
 
 a) Determinare il tasso trimestrale equivalente al tasso
-annuo di interesse dell’1, 8%.
+annuo di interesse dell’$1.8\%$.
 
 b) Determinare il tasso annuo di interesse $i$ di un investimento sapendo che il tasso mensile corrispondente $0,31\%$.
 
-### ESERCIZIO 4.2 - Tassi convertibili
+### ESERCIZIO 4.2 - Tassi nominali convertibili
 
-a)  Determinare il tasso nominale annuo di interesse convertibile 3 volte all’anno associato al tasso annuo di interesse del
+a)  Determinare il tasso nominale annuo di interesse convertibile $3$ volte all’anno associato al tasso annuo di interesse del
 $3.7\%$.
 
 
