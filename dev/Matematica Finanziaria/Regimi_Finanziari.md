@@ -145,32 +145,62 @@ d) Un commerciante per 1'acquisto di una merce deve fare tre pagamenti uguali, d
 
 ## UNITA' 3: Regime dell'interesse composto
 
+Nel regime dell’interesse semplice, il capitale resta sempre
+“separato” dagli interessi, qualunque sia la durata
+dell’investimento o del ﬁnanziamento.
+Nella pratica accade invece che, periodicamente (ad es. ogni anno,
+piuttosto che ogni 3 mesi), gli interessi vengano “capitalizzati”,
+cioè diventino a loro volta capitale e quindi concorrano a
+produrre nuovi interessi (questo fenomeno, detto "anatocismo", nel passato era vietato per legge, a tutela dei debitori, ora è ammesso).
+
+Supponiamo, per ﬁssare le idee, che la capitalizzazione avvenga
+una volta all’anno, e che l’investimento del capitale $C$ sia
+effettuato in una data di capitalizzazione (cioè al tempo $0$ corrispondente ad
+una data $31/12$ di fine anno).
+
+Dopo un anno, gli interessi vengono aggiunti al capitale,
+per cui il montante, che diventa il nuovo capitale su cui calcolare gli interesse all'inizio del secondo periodo sarà pari a
+$M_1 = C +Ci = C(1 +i)$.
+
+Dopo un ulteriore anno, questa somma produrrà interessi pari a
+$C(1 +i)i$ che saranno di nuovo aggiunti al capitale di inizio periodo portando il montante del secondo periodo a 
+$M_2 = C(1 +i)+iC(1 +i) = C(1 +i)(1 +i) = C(1 +i)^2$.
+
+Dopo 3 anni il montante sarà pari a $M_3 = C(1 +i)^3$ e, in
+generale, dopo un numero intero $n$ di anni si riceverà un montante pari a
+$M_n = C(1 +i)^n$.
+
+Se la capitalizzazione avvenisse, ad esempio, ogni trimestre, si
+potrebbe ragionare in modo analogo supponendo però che l’unità
+di misura del tempo non sia l’anno bensì il trimestre, cioè che $m$
+(intero) rappresenti il numero di trimestri ($m=4$), e inoltre che il tasso sia "periodale", indicato con $i_{1/m}$, in questo caso trimestrale.
+
 
 ### ESERCIZIO 3.1 - Interesse composto: montante I
 
-Calcolare il montante ad interesse composto dei seguenti capitali con la calcolatrice e con l’interpolazione:
+a) Calcolare il montante ad interesse composto delle operazioni seguenti.
 
-a) 500 euro per 10 anni al tasso dell’8,10% annuo;
+1. 500 euro per 10 anni al tasso dell’8,10% annuo;
 
-b) 1.800 euro per 6 anni al tasso del 12,15% annuo;
+2. 1.800 euro per 6 anni al tasso del 12,15% annuo;
 
-c) 800 euro per 5 anni al tasso del 3,10% semestrale;
+b) Calcolare il montante ad interesse composto delle operazioni seguenti che hanno capitalizzazione periodale
 
-d) 1.000 euro per 10 anni al tasso del 5,30% quadrimestrale;
+1. $800$ euro per un anno al tasso del $3,10\%$ semestrale ($m=2$);
 
-e) 600 euro per 5 anni e 6 mesi al tasso del 3,50% bimestrale;
+2. $1.000$ euro per $10$ anni al tasso del $5,30\%$ quadrimestrale ($m=3$);
 
-f) 438 euro per 10 anni e 9 mesi al tasso del 4,16% trimestrale.
+3. $600$ euro per $5$ anni e $6$ mesi al tasso del $3,50\%$ bimestrale.
 
 
 
 
 ### ESERCIZIO 3.2 - Interesse composto: montante II
-a) II capitale di L. 6.000.000 è impiegato ad interesse composto al tasso annuo del 14% per 5 anni. Il montante viene subito reinvestito per altri 4 anni al tasso annuo dell’11%.  
-1. Quale montante si può ritirirare? 
-2. Quale montante si sarebbe ritirato se per i primi 4anni il tasso fosse stato dell’11% e per i successivi 5 fosse stato del 14%? 
+a) II capitale di 6.000 euro è impiegato ad interesse composto al tasso annuo del $14\%$ per $5$ anni. Il montante viene subito reinvestito per altri $4$ anni al tasso annuo dell’$11\%$.  
+1. Quale montante si può ritirare? 
+2. Quale montante si sarebbe ritirato se per i primi $4$ anni il tasso fosse stato dell’$11\%$ e per i successivi $5$ fosse stato del $14\%$? 
 
-b) Una persona prende in prestito 20.000 euro al tasso annuo del12% e le investe al tasso annuo del 15%. Quanto guadagna se l'impiego e di 5 anni?
+b) Una persona prende in prestito $20.000$ euro al tasso annuo del $12\%$ e le investe al tasso annuo del $15\%$. Quanto guadagna se l'impiego e di $5$ anni?
 
 
 
@@ -194,6 +224,38 @@ d) 3.012 euro per 2 anni e 5 mesi al tasso dell’1,50% mensile.
 a) Scontiamo una cambiale del valore di 20.000 euro scadente fra 5 anni con sconto composto al tasso del 12%. Investiamo subito la somma riscossa al lasso del 16%. Quale guadagno realizzeremo fra 5 anni?
 
 b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: L. 30.000.000 alla stipulazione del contralto e tre somme di euro 10.000 ciascuna scadenti fra 2, 4 e 6 anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del 9%. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? 
+
+
+
+## UNITA' 4: Tassi equivalenti e nominali
+
+Nel regime dell’interesse composto, ci si può porre il problema di quale tasso periodale (trimestrale, quadrimestrale etc.) sia equivalente ad un tasso di interesse annuale o viceversa quale tasso annuale sia equivalente ad un tasso periodale.
+
+Indicando con $m$ il numero di periodi che compongono l'anno, ossia $m=3$ per il trimestre, $m=2$ per il semestre e così via, Il tasso periodale $i_{1/m}$ equivalente a quello annuale $i$ è il tasso periodale che produce dopo un anno lo stesso montante di quello annuale, ossia
+$$
+M_1 = C(1 + i_{1/m})^m = 1 + i
+$$
+Se abbiamo una operazione finanziaria in cui il tasso è periodale ma all'interno dell'anno gli interessi sono calcolati con il regime dell'interesse semplice, alla fine dell'anno il montante è $C(1 + mi_{1/m})$. Il tasso annuo equivalente in questo caso è detto **tasso annuo nominale convertibile** (trimestralmente, semestralmente etc.), si indica con $j(m)$ e vale la relazione
+$$
+1 + C \cdot m \cdot i_{1/m} = 1 + j(m)
+$$
+per cui
+$$
+j(m) = m \cdot i_{1/m}
+$$
+
+
+### ESERCIZIO 4.1 - Tassi equivalenti
+
+a) Determinare il tasso trimestrale equivalente al tasso
+annuo di interesse dell’1, 8%.
+
+b) Determinare il tasso annuo di interesse $i$ di un investimento sapendo che il tasso mensile corrispondente $0,31\%$.
+
+### ESERCIZIO 4.2 - Tassi convertibili
+
+a)  Determinare il tasso nominale annuo di interesse convertibile 3 volte all’anno associato al tasso annuo di interesse del
+$3.7\%$.
 
 
 
