@@ -445,19 +445,27 @@ b) Trovare la tabella di verità della prima formula del punto a.2) dell'eserciz
 
 ### ESERCIZIO 3.2 - Forme Simboliche e Tabelle di Verità
 
-Angelo, Bruno e Carlo sono tre studenti che hanno sostenuto un esame. Ponendo:  $a$: “Aldo ha superato l’esame”, $b$: “Bruno ha superato l’esame”, $c$: “Carlo ha superato l’esame”:
+a) Aldo e Bruno sono due studenti che hanno sostenuto un esame. Ponendo:  $a$: “Aldo ha superato l’esame” e $b$: “Bruno ha superato l’esame”, scrivi in forma simbolica le seguenti proposizioni.
 
-a) Scrivi in forma simbolica le seguenti proposizioni.
-
-1. "Solo Carlo ha superato l’esame";  
-2. "Solo Aldo non ha superato l’esame";  
-3. "Solo uno tra Aldo, Bruno e Carlo ha superato l’esame";  
-4. "Almeno uno tra Aldo, Bruno e Carlo ha superato l’esame";  
-5. "Almeno due tra Aldo, Bruno e Carlo hanno superato l’esame";  
-6. "Al più due tra Aldo, Bruno e Carlo hanno superato l’esame";  
-7. "Esattamente due tra Aldo, Bruno e Carlo hanno superato l’esame".
+1. "Solo Bruno ha superato l’esame";
+2. "Solo Aldo non ha superato l’esame";
+3. "Nessuno ha superato l'esame";
+4. "Almeno uno dei due ha superato l'esame".
 
 b) Scrivi le tabelle di verità delle proposizioni simboliche del punto a).
+
+c) Oltre ad Aldo e Bruno sostiene l'esame anche Carlo. Ponendo:  $a$: “Aldo ha superato l’esame”, $b$: “Bruno ha superato l’esame”, $c$: “Carlo ha superato l’esame”, scrivi in forma simbolica le seguenti proposizioni.
+
+1. "Solo Bruno ha superato l’esame";  
+2. "Solo Aldo non ha superato l’esame";  
+3. "Nessuno ha superato l'esame";
+4. "Almeno uno tra Aldo, Bruno e Carlo ha superato l’esame";  
+5. "Solo uno tra Aldo, Bruno e Carlo ha superato l’esame";
+6. "Almeno due tra Aldo, Bruno e Carlo hanno superato l’esame";  
+7. "Al più due tra Aldo, Bruno e Carlo hanno superato l’esame";  
+8. "Esattamente due tra Aldo, Bruno e Carlo hanno superato l’esame".
+
+d) Scrivi le tabelle di verità delle proposizioni simboliche del punto c).
 
 
 

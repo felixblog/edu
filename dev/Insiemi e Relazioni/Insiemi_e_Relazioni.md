@@ -229,14 +229,14 @@ d) In una sala sono presenti 62 persone, ognuna delle quali ha almeno una delle 
 
 ### ESERCIZIO 2.3 - Differenza e Complemento
 
-a) Dati $A = \{x: \; x \;è \;residente \;in \;Veneto \}$ e $B = \{x: \;x \;è \;residente \;a \;Venezia\}$, descrivi a parole $A \setminus B$ e $B \setminus A$.
+a) Dati $A = \{x: \; x \;è \;residente \;in \;Veneto \}$ e $B = \{x: \;x \;è \;residente \;a \;Venezia\}$, descrivi a parole $A \setminus B$ e $B \setminus A$.
 
 b) Dati gli insiemi $A$, $B$, $C$, formati rispettivamente dalle lettere delle parole «colore», «sapore», «odore», determina la differenza fra tutte le possibili coppie di insiemi.
 
 c) Determina $A$ e $B$ in modo che:
 
 1. $A \cup B = \{a, b, c, d, e, f, g, h\}$;
-2. $A \cup B = \{e, g\}$;
+2. $A \cap B = \{e, g\}$;
 3. $A \setminus B = \{a, d, h, b\}$;
 4. $B \setminus A = \{c, f \}$.
 
