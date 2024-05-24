@@ -471,7 +471,91 @@ d) Scrivi le tabelle di verità delle proposizioni simboliche del punto c).
 
 ## UNITA' 4: Regole di Deduzione e Ragionamento
 
-### ESERCIZIO 4.1 - Forme di ragionamento
+Un **ragionamento**, o deduzione, è una sequenza di proposizioni: tutte, tranne l'ultima, si chiamano **premesse**, mentre l'ultima è la **conclusione**. Facciamo un esempio.
+
+#### ESEMPIO 1
+
+In questo ragionamento abbiamo due premesse e la conclusione.
+$$
+\begin{array}{c|l} 
+R_1 & \\ 
+\hline 
+p_1 & \text{Se piove non esco di casa} \\ 
+p_2 & \text{Piove} \\ 
+\hline 
+c & \text{Non esco di casa}
+\end{array}
+$$
+
+
+Questo ragionamento sembra corretto ed in effetti lo è: la conclusione deriva dalle premesse. Se sostituissimo la conclusione con un'altra proposizione, anche vera, non avremmo la stessa impressione. Consideriamo l'esempio seguente.
+$$
+\begin{array}{c|l} 
+R_2 & \\ 
+\hline 
+p_1 & \text{Se piove non esco di casa} \\ 
+p_2 & \text{Piove} \\ 
+\hline 
+c & \text{Roma e' la capitale d'Italia}
+\end{array}
+$$
+Questo ragionamento sembra stonato; sembra che ci sia qualcosa che non torna, anche se la conclusione, è vera, indipendentemente dalle premesse. 
+
+La cosa stonata è che la conclusione **non** deriva dalle premesse, il chè è il cuore del ragionamento: un ragionamento è **corretto** se la conclusione deriva dalle premesse; in questo caso la conclusione è vera, ma non deriva dalle premesse (è vera o falsa indipendentemente dalle premesse).
+
+La derivazione dalle premesse, vista finora, è una idea intuitiva che però si può precisare con il fatto seguente: un ragionamento è corretto se e solo a premesse vere corrisponde una conclusione vera. Questa definizione ci fornisce un metodo per controllare se un ragionamento è corretto: costruiamo la tabella di verità delle premesse e della conclusione e verifichiamo se la condizione è soddisfatta.
+
+#### ESEMPIO 2  
+
+Indicando con $p$: "Piove", $q$: "Esco di casa", abbiamo:
+$$
+\begin{array}{c|l} 
+R_1 & \\ 
+\hline 
+p_1 & p \to \lnot q \\ 
+p_2 & p \\ 
+\hline 
+c & \lnot q
+\end{array}
+$$
+La tabella di verità del ragionamento $R_1$ è:
+$$
+\begin{array}{c|c|c}
+p_2:p & q & c:\lnot q & p_1:p \to \lnot q \\ 
+\hline 
+T & T & F & F \\ 
+F & T & F & F \\
+\rowcolor{yellow}
+T & F & T & T \\  
+F & F & T & T \\  
+\end{array}
+$$
+Nella riga in cui le premesse sono tutte vere anche la conclusione è vera, per cui il ragionamento è corretto.
+
+Se invece indichiamo con $r$: "Roma è la capitale d'Italia" e costruiamo la tabella di verità di $R_2$, che avrà $8$ righe perché ha tre proposizioni elementari, abbiamo
+$$
+\begin{array}{c|c|c}
+p_2:p & q & c:r & p_1:p \to \lnot q \\ 
+\hline
+T & T & T & F \\ 
+F & T & T & F \\
+\rowcolor{yellow}
+T & F & T & T \\  
+F & F & T & T \\
+T & T & F & F \\ 
+F & T & F & F \\
+\rowcolor{yellow}
+T & F & F & T \\  
+F & F & F & T \\ 
+\end{array}
+$$
+
+In questo caso il ragionamento non è corretto perché nella penultima riga alle due premesse vere corrisponde la conclusione falsa.
+
+ 
+
+
+### ESERCIZIO 4.1 - Analisi del ragionamento
 
 a) Individuando premesse e conclusione, tradurre nel linguaggio della logica proposizionale gli enunciati delle seguenti argomentazioni.
 1. Se piove non esco di casa. Piove o tira vento. Esco di casa. Quindi tira vento. 
@@ -484,3 +568,37 @@ a) Individuando premesse e conclusione, tradurre nel linguaggio della logica pro
     (Indicare con: $p$: "Il Parma vince il campionato", $c$: "Il Chievo retrocede", $s$: "Il Sassuolo si qualifica in Europa League").
 
 b) Analizzare la validità dei ragionamenti del punto a) con le tabelle di verità.
+
+
+
+### ESERCIZIO 4.2 - Ricerca della conclusione
+
+a) In ciascuno dei punti seguenti sono riportate le premesse di ragionamento. Completalo come richiesto.
+
+1. Se sono promosso, allora come premio vado a fare un viaggio o mi compro una motocicletta (o non esclusivo). Sono promosso. Non mi compro una motocicletta.
+
+   Quale conclusione si può trarre?
+
+2. Se i giocatori segnano molte reti e l'arbitro e imparziale allora gli spettatori si divertono. L'arbitro è imparziale, ma gli spettatori non si divertono.
+
+   Quale è la conclusione?
+
+3. Se aumenta il debito pubblico, lo Stato stampa altra moneta. Se lo Stato stampa altra moneta aumenta l'inflazione. Il debito pubblico aumenta.
+
+   Che cosa si può dedurre?
+
+b) Completa i seguenti ragionamenti.
+
+1. Un caso poliziesco:
+
+   $p_1$: Se il colpevole e un uomo è di piccola statura.
+
+   $p_2$: Se è di piccola statura egli entrò attraverso la finestra.
+
+   $p_3$: Il colpevole è un uomo o quanto meno indossava abiti maschili.
+
+   $p_4$: Se indossava abiti maschili, ammesso che il racconto del testimone oculare sia degno di fede, egli entrò dalla finestra.
+
+   $p_5$: Il colpevole non entrò dalla finestra.
+
+   Chi è il colpevole?

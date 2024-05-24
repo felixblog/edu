@@ -29,7 +29,9 @@ Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, 
 
 
 
-Una proprietà è ***caratteristica*** degli elementi di un insieme se consente di individuare tali oggetti tra tutti gli altri che non sono elementi dell'insieme. Una proprietà di un oggetto si esprime attraverso una frase che contiene una lettera e che sarà vera se e solo se al posto della lettera si sostituisce il nome di un elemento dell'insieme e falsa altrimenti.
+Una proprietà è ***caratteristica*** degli elementi di un insieme se consente di individuare tali oggetti tra tutti gli altri che non sono elementi dell'insieme. Una proprietà di un oggetto si esprime attraverso una frase che sarà vera per tutti gli oggetti che possiederanno quella proprietà e falsa per gli altri.
+
+Solitamente la proprietà si esprime utilizzando una frase generica, che riguarda un oggetto qualsiasi $x$ e che dovrà essere vera se al posto dell'oggetto generico abbiamo un oggetto specifico, come nell'esempio seguente.
 
 #### ESEMPIO 3
 
@@ -283,6 +285,81 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 ## UNITA' 3: Le relazioni
 
+In questa unità studieremo le relazioni tra elementi di due insiemi. Una relazione tra gli elementi di due insiemi è una **proprietà delle coppie di elementi**, dove il primo elemento della coppia appartiene al primo insieme ed il secondo al secondo insieme. Questa proprietà si esprime attraverso una frase che sarà vera se gli elementi sono in relazione tra di loro e falsa se non lo sono.
+
+#### ESEMPIO 1
+
+Consideriamo l'insieme $A = \{0, 1, -1, 2, -2\}$ e $B = \{0, 1, -1\}$ e la relazione tra due elementi: il primo è il doppio del secondo.
+
+Quali sono gli elementi in relazione tra di loro?
+
+E' evidente che $0$ ed $1$ non sono in relazione tra di loro perché $0$ non è il doppio di $1$ mentre $0$ è in relazione con $0$ perché è il doppio di $0$. Se consideriamo l'insieme di tutte le coppie $A \times B$, dove il primo numero è in $A$ ed il secondo in $B$, abbiamo che i numeri in relazione tra di loro sono quelli facenti parte del sottoinsieme $S=\{(0,0), (2,1), (-2, -1)\}$.
+
+Se quindi esprimiamo la relazione utilizzando una frase generica, che riguarda due elementi qualsiasi $x$ ed $y$, $x \in A$ e $y \in B$ e  $R(x, y):\; x \; è \; il \; doppio \; di \; y$, possiamo dire che la relazione $R(x,y)$ è la proprietà caratteristica di $S$, un sottoinsieme del prodotto cartesiano $A \times B$:
+$$
+\{(0,0), (2,1), (-2, -1)\} = \{(x,y): x \; è \; il \; doppio \; di \; y\}
+$$
+cioè $S = \{(x,y): R(x,y)\}$.
+
+
+
+### RAPPRESENTAZIONE DELLE RELAZIONI
+
+Le relazioni si possono rappresentare i diversi modi. Quella vista fin'ora è la rappresentazione insiemistica per elencazione. Possiamo poi fare di una relazione una rappresentazione **tabellare**, come nell'esempio seguente.
+
+In ogni colonna ci sono gli elementi di un insieme e gli elementi in relazione tra di loro sono sulla stessa riga. 
+
+#### ESEMPIO 1: Rappresentazione Tabellare
+
+$$
+\begin{array}{r|r}
+x\; & y \\
+\hline 
+0\; & 0 \\
+2\; & 1 \\
+-2\; & -1 \\
+\end{array}
+$$
+
+
+
+#### ESEMPIO 2: Rappresentazione Cartesiana
+
+
+
+
+
+
+
+#### ESEMPIO 3: Rappresentazione Sagittale
+
+
+
+<img src="img/Sagittale.png" alt="Sagittale" style="zoom:80%;" />
+
+
+
+#### ESEMPIO 4: Rappresentazione Matriciale
+
+
+$$
+\begin{array}{r|c} 
+ & -1 & \;0\;\; & \;1\;\;\; \\ 
+\hline -2 & \times & &  \\ 
+\hline -1 &  \\ 
+\hline 0 &  & \times\\  
+\hline 1 &  &  \\  
+\hline 2 &  & & \times \\  
+\end{array}
+$$
+
+
+#### ESEMPIO 5: Rappresentazione ad Albero
+
+
+
+
+
 ### ESERCIZIO 3.1 - Le relazioni. Dalla proprietà caratteristica all'elencazione
 
 a) Considera il disegno seguente che illustra i rapporti di parentela tra gli elementi di una famiglia.
@@ -331,7 +408,7 @@ a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comand
 
 ### ESERCIZIO 3.2 - Rappresentazione delle relazioni
 
-a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}$ e $B = \{2, 4, 5\}$, rappresenta la relazione in $A \times B$, definita dalla proprietà caratteristica «La somma di x e y è dispari», in forma sagittale, cartesiana, tabellare, tabellare a doppia entrata.
+a) Dati gli insiemi $A = \{x ∈ N:  x \lt 4 \}$ e $B = \{2, 4, 5\}$, rappresenta la relazione in $A \times B$, definita dalla proprietà caratteristica «La somma di x e y è dispari», in forma sagittale, cartesiana, tabellare ed a matrice (tabellare a doppia entrata).
 
 b) Nell'esercizio 9.a  rappresenta le relazioni in forma sagittale, cartesiana, tabellare. A quale delle tre rappresentazioni corrisponde quella riportata in figura? 
 
