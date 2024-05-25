@@ -469,7 +469,7 @@ d) Scrivi le tabelle di verità delle proposizioni simboliche del punto c).
 
 
 
-## UNITA' 4: Regole di Deduzione e Ragionamento
+## UNITA' 4: Ragionamenti e loro correttezza
 
 Un **ragionamento**, o deduzione, è una sequenza di proposizioni: tutte, tranne l'ultima, si chiamano **premesse**, mentre l'ultima è la **conclusione**. Facciamo un esempio.
 
@@ -499,11 +499,13 @@ p_2 & \text{Piove} \\
 c & \text{Roma e' la capitale d'Italia}
 \end{array}
 $$
-Questo ragionamento sembra stonato; sembra che ci sia qualcosa che non torna, anche se la conclusione, è vera, indipendentemente dalle premesse. 
+Questo ragionamento sembra stonato: c'è qualcosa che non torna, anche se la conclusione, indipendentemente dalle premesse, è ovviamente vera. 
 
-La cosa stonata è che la conclusione **non** deriva dalle premesse, il chè è il cuore del ragionamento: un ragionamento è **corretto** se la conclusione deriva dalle premesse; in questo caso la conclusione è vera, ma non deriva dalle premesse (è vera o falsa indipendentemente dalle premesse).
+La cosa stonata è che la conclusione **non si deduce** dalle premesse. Questo è il cuore di un ragionamento: un ragionamento è **corretto** se la conclusione si deduce dalle premesse, altrimenti non lo è. Nel caso di $R_2$ la conclusione è vera, ma non deriva dalle premesse (è vera o falsa indipendentemente dalle premesse), per cui il ragionamento non è corretto.
 
-La derivazione dalle premesse, vista finora, è una idea intuitiva che però si può precisare con il fatto seguente: un ragionamento è corretto se e solo a premesse vere corrisponde una conclusione vera. Questa definizione ci fornisce un metodo per controllare se un ragionamento è corretto: costruiamo la tabella di verità delle premesse e della conclusione e verifichiamo se la condizione è soddisfatta.
+La derivazione dalle premesse che abbiamo visto finora, è una idea intuitiva; la possiamo precisare con il fatto importante che un ragionamento è corretto se e solo **a premesse vere corrisponde una conclusione vera**. 
+
+Quest'ultima definizione ci fornisce un metodo per controllare se un ragionamento è corretto: costruiamo la tabella di verità delle premesse e della conclusione e verifichiamo se in ogni riga in cui le premesse sono tutte vere anche la condizione è vera. Se è così, la conclusione di deduce dalle premesse ed il ragionamento è corretto, altrimenti no. 
 
 #### ESEMPIO 2  
 
@@ -532,7 +534,7 @@ F & F & T & T \\
 $$
 Nella riga in cui le premesse sono tutte vere anche la conclusione è vera, per cui il ragionamento è corretto.
 
-Se invece indichiamo con $r$: "Roma è la capitale d'Italia" e costruiamo la tabella di verità di $R_2$, che avrà $8$ righe perché ha tre proposizioni elementari, abbiamo
+Se invece, indicando con $r$: "Roma è la capitale d'Italia" costruiamo la tabella di verità di $R_2$ (che avrà $8$ righe perché ha tre proposizioni elementari), abbiamo la tabella seguente.
 $$
 \begin{array}{c|c|c}
 p_2:p & q & c:r & p_1:p \to \lnot q \\ 
