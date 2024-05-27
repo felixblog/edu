@@ -589,7 +589,7 @@ a) In ciascuno dei punti seguenti sono riportate le premesse di ragionamento. Co
 
    Che cosa si può dedurre?
 
-b) Completa i seguenti ragionamenti.
+b) Completa i seguenti ragionamenti trovando la conclusione.
 
 1. Un caso poliziesco:
 
@@ -603,4 +603,4 @@ b) Completa i seguenti ragionamenti.
 
    $p_5$: Il colpevole non entrò dalla finestra.
 
-   Chi è il colpevole?
+   Quale è la conclusione, ossia, chi è il colpevole?

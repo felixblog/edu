@@ -325,7 +325,7 @@ $$
 
 #### ESEMPIO 2: Rappresentazione Cartesiana
 
-
+<img src="img/Relazioni-cartesiana.png" alt="Relazioni-cartesiana" style="zoom:15%;" />
 
 
 
@@ -339,7 +339,7 @@ $$
 
 
 
-#### ESEMPIO 4: Rappresentazione Matriciale
+#### ESEMPIO 4: Rappresentazione Tabellare a doppia entrata (Matrice)
 
 
 $$
