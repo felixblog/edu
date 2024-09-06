@@ -2,7 +2,7 @@
 
 ## UNITA' 1: Concetto di numeri con segno e punti su una retta
 
-Un numero intero, o relativo, è un numero costituito di due parti: la prima parte è un numero naturale (detto ***valore assoluto***) e la seconda è un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$. I numeri con segno "+" si chiamano ***positivi***, mentre quelli con il segno "-" si chiamano ***negativi***. Il numero $+5$ è positivo, $-21$ è negativo, il valore assoluto di $-21$ è $21$ ed il valore assoluto di $+5$ è $5$. 
+Un numero intero, o relativo, è un numero costituito di due parti: la prima parte è un numero naturale (detto ***valore assoluto***) e la seconda è un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$. I numeri con segno "+" si chiamano ***positivi***, mentre quelli con il segno "-" si chiamano ***negativi***. Il numero $+5$ è positivo, $-21$ è negativo, il valore assoluto di $-21$ è $21$ ed il valore assoluto di $+5$ è $5$. 
 
 In una espressione con i numeri interi, ogni numero ha un segno alla sua sinistra, ed ogni segno ha un numero (alla sua destra). A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
 
@@ -26,7 +26,9 @@ Se la buca è a sinistra della scuola la sua posizione sarà un numero negativo,
 
 <img src="img/Buche-2.png" alt="Buche-2" style="zoom:25%;" />
 
-Potremo quindi dire alla squadra che la buca 2 si trova a $3 \;Km$ a sinistra del punto di riferimento preso come origine, ossia ha coordinata $-3$ mentre la buca 1 si trova a $+4$ dalla scuola e così via.
+Potremo quindi dire alla squadra che la buca 2 si trova a $3 \;Km$ a sinistra del punto di riferimento preso come origine, ossia ha coordinata $-3$ mentre la buca 1 si trova a $+4$ dalla scuola e così via.
+
+
 
 In generale un sistema di riferimento su una retta consente di dare una posizione ai punti. Nella figura sono indicati 3 punti, $R$, $P$ e $Q$ e tra parentesi la loro posizione mediante la loro coordinata.
 
@@ -66,7 +68,7 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 ## UNITA' 2: Valore assoluto, opposto e relazioni
 
-Abbiamo già detto che il **valore assoluto** di un numero intero è il numero naturale che di trova a sinistra del segno del numero (si dice anche che è il numero "senza il segno", ma in realtà ha segno positivo). Ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$. Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, quindi $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
+Abbiamo già detto che il **valore assoluto** di un numero intero è il numero naturale che di trova a destra segno del numero (si dice anche che è il numero "senza il segno", ma in realtà ha segno positivo). Ad esempio il valore assoluto di $-13$ è $13$, il valore assoluto di $5$ è $5$, il valore assoluto di $-240$ è $240$. Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, quindi $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
 
 L'**opposto** di un numero intero è un secondo numero intero che ha lo stesso valore assoluto del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
 
