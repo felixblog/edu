@@ -2,29 +2,31 @@
 
 ## UNITA' 1: Concetto di numeri con segno e punti su una retta
 
-Un numero intero, o relativo, è un numero costituito di due parti: la prima parte è un numero naturale e la seconda è un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$.  
+Un numero intero, o relativo, è un numero costituito di due parti: la prima parte è un numero naturale (detto ***valore assoluto***) e la seconda è un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$. I numeri con segno "+" si chiamano ***positivi***, mentre quelli con il segno "-" si chiamano ***negativi***. Il numero $+5$ è positivo, $-21$ è negativo, il valore assoluto di $-21$ è $21$ ed il valore assoluto di $+5$ è $5$. 
 
-In una espressione con i numeri interi, ogni numero ha un segno, ed ogni segno ha un numero. A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
+In una espressione con i numeri interi, ogni numero ha un segno alla sua sinistra, ed ogni segno ha un numero (alla sua destra). A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
 
 E' molto utile mettere in corrispondenza I numeri interi con alcuni punti di una retta. Consideriamo una retta orizzontale e fissiamo un punto particolare, che chiameremo ***origine*** $O$, un segmento come ***unità di misura*** delle distanze ed un ***verso***, a destra, come in figura. 
 
 <img src="img/Retta-Orientata.png" alt="Retta-Orientata" style="zoom:25%;" />
 
-Questo disegno ci da un ***sistema di riferimento*** (ad una dimensione) per indicare la ***posizione*** di ogni punto che dista un multiplo dell'unità di misura dall'origine.
+Questo disegno ci da un modo (o ***sistema di riferimento***), per indicare la ***posizione*** di ogni punto.
 
 #### ESEMPIO
 
-Consideriamo il problema seguente. Su una strada dritta ci sono delle buche ed una squadra di operai su un piccolo camion deve riparare il manto stradale, come nella figura seguente.
+Consideriamo il problema seguente. Su una lunga strada dritta ci sono delle buche, ed una squadra di operai su un piccolo camion deve riparare il manto stradale, come nella figura seguente.
 
 <img src="img/Buche-1.png" alt="Buche-1" style="zoom:25%;" />
 
 Come indicare alla squadra dove si trovano le buche se non abbiamo nessun punto di riferimento?
 
-Se scegliamo nella città un punto di riferimento come una scuola o un edificio che la squadra conosce (diventa la nostra ***origine***) e misuriamo le distanze in $Km$, introduciamo nella città un sistema di riferimento e la posizione delle buche sarà indicata da dei numeri interi, che misureranno la distanza dall'origine, positiva se a destra e negativa se a sinistra.
+Se scegliamo nella città un punto di riferimento (ad esempio una scuola) che la squadra conosce (e che diventa il nostro punto di partenza da cui misurare le distanze o ***origine***) e misuriamo le distanze in $Km$, possiamo indicare la posizione delle buche con la loro distanza a destra o a sinistra dalla scuola.
+
+Se la buca è a sinistra della scuola la sua posizione sarà un numero negativo, se è a destra sarà positivo.
 
 <img src="img/Buche-2.png" alt="Buche-2" style="zoom:25%;" />
 
-Potremo quindi dire alla squadra che la buca 2 si trova a $3 \;Km$ a sinistra del punto di riferimento preso come origine, ossia ha coordinata $-3$ e così via.
+Potremo quindi dire alla squadra che la buca 2 si trova a $3 \;Km$ a sinistra del punto di riferimento preso come origine, ossia ha coordinata $-3$ mentre la buca 1 si trova a $+4$ dalla scuola e così via.
 
 In generale un sistema di riferimento su una retta consente di dare una posizione ai punti. Nella figura sono indicati 3 punti, $R$, $P$ e $Q$ e tra parentesi la loro posizione mediante la loro coordinata.
 
@@ -62,13 +64,11 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 
 
-## UNITA' 2: Opposto, valore assoluto e relazioni
+## UNITA' 2: Valore assoluto, opposto e relazioni
 
-L'**opposto** di un numero intero è un secondo numero intero che ha lo stesso numero naturale del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
+Abbiamo già detto che il **valore assoluto** di un numero intero è il numero naturale che di trova a sinistra del segno del numero (si dice anche che è il numero "senza il segno", ma in realtà ha segno positivo). Ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$. Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, quindi $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
 
-Il **valore assoluto** di un numero intero è un secondo numero intero sempre positivo, corrispondente al numero naturale del primo (si dice anche che il valore assoluto di un numero è il numero "senza il segno"). 
-
-Detto in altro modo, se il numero è positivo, il suo valore assoluto è uguale al numero, se il numero è negativo è uguale all'opposto del numero, ad esempio $-13 \xrightarrow{\text{v.a.}} 13$,    $5 \xrightarrow{\text{v.a.}} +5$,    $-240 \xrightarrow{\text{v.a.}} 240$. Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, ad esempio $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
+L'**opposto** di un numero intero è un secondo numero intero che ha lo stesso valore assoluto del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
 
 La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow True$ . Osserviamo che $3 \lt 3 \longrightarrow False$ .
 
@@ -99,7 +99,9 @@ Nel "mondo" dei numeri interi, i simboli "$+$" e "$-$" che troviamo nelle espres
 
 #### ESEMPIO
 
-L'espressione $3-2$ nel "mondo" dei numeri naturali contiene due numeri, $3$ e $2$ ed una operazione, la sottrazione. Nel mondo dei numeri interi contiene due numeri, $3$ e $-2$ in sequenza, uno dopo l'altro; in mezzo a loro vi è una operazione chiamata somma algebrica (a destra del $3$ ed a sinistra del "$-$") nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{|}} -2$ , come negli esempi seguenti:
+L'espressione $3-2$ nel "mondo" dei numeri naturali contiene due numeri, $3$ e $2$ ed una operazione, la sottrazione. Nel mondo dei numeri interi contiene due numeri, $3$ e $-2$ uno dopo l'altro; ci si può allora chiedere: se l'espressione contiene solo due numeri, quale è l'operazione tra di loro?
+
+L'operazione presente è chiamata somma algebrica ed è collocata a destra del $3$ ed a sinistra del "$-$"), nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{|}} -2$, e c'è anche se non si vede, come negli esempi seguenti:
 
 - $-123\overset{\downarrow}{\phantom{|}}-23$;
 - $1\overset{\downarrow}{\phantom{|}}-2 \overset{\downarrow}{\phantom{|}} + 3 \overset{\downarrow}{\phantom{|}} -4$.
