@@ -7,15 +7,15 @@ I numeri naturali sono $0$, $1$, $2$, $3$, ... e così via (si ottengono sommand
 
 #### Le Operazioni
 
-Sommiamo due numeri quando vogliamo contare gli elementi di due insiemi disgiunti che si uniscono: ad esempio uno studente ha tre libri, un altro ne ha <u>altri</u> quattro ed insieme hanno $3 + 4 \longrightarrow 7$ libri.
+Sommiamo due numeri quando vogliamo contare gli elementi di due gruppi distinti di oggetti che si uniscono: ad esempio uno studente ha tre libri, un altro ne ha <u>altri</u> quattro ed insieme hanno $3 + 4 \longrightarrow 7$ libri.
 
-Sottraiamo due numeri quando contiamo gli elementi di un insieme che non fanno parte di un suo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine; i libri integri sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un insieme finito ha un numero di elementi sempre minore (o al più uguale) a quello dell'insieme, non è possibile sottrarre da un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
+Sottraiamo due numeri quando contiamo, in un gruppo di oggetti, quelli che non fanno parte di un certo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine: i libri interi sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un gruppo di oggetti ha un numero di elementi sempre minore (o al più uguale) a quello del gruppo, non è possibile sottrarre un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
 
-Moltiplichiamo due numeri naturali quando vogliamo contare gli elementi di un insieme formato dall'unione di tanti insiemi distinti tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta 9 libri; il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$, ossia uniamo 5 insiemi di 9 libri ciascuno.
+Moltiplichiamo due numeri naturali quando vogliamo contare quanti sono gli oggetti in totale se sono organizzati in gruppi tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta 9 libri (ossia abbiamo 5 gruppi di libri, ciascuno dei quali ha 9 libri): il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$, ossia uniamo 5 gruppi di 9 libri ciascuno.
 
-La divisione è l'operazione inversa della moltiplicazione; facciamo un esempio con 12 caramelle da dividere in parti uguali tra 3 bambini: ogni bambino avrà 4 caramelle. Con la divisione contiamo quanti elementi ha ogni sottoinsieme di un insieme (le caramelle) se le dividiamo in parti uguali tra un numero fissato di sottoinsiemi.
+La divisione è l'operazione inversa della moltiplicazione: ci serve quando dobbiamo sapere quanti oggetti ha ciascun gruppo sapendo quanti sono gli oggetti in totale e quanti gruppi ci sono. Facciamo un esempio con 12 caramelle (totale degli oggetti) da dividere in parti uguali tra 3 bambini (3 gruppi di caramelle): ogni bambino avrà 4 caramelle. ottenuto facendo $12 : 3$.
 
-Osserviamo che sempre con la divisione possiamo sapere anche quanti sono i sottoinsiemi: se abbiamo 12 caramelle da dividere per un certo numero di bambini ed ognuno di loro avrà 3 caramelle, quanti sono i bambini? Sono 4. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per 4; se le gambe sono 100 le pecore sono $100 : 4 \longrightarrow 25$.  
+Con la divisione possiamo sapere anche quanti sono i gruppi, se conosciamo il totale degli oggetti e quanti oggetti ha ogni gruppo: se abbiamo 12 caramelle da dividere per un certo numero di bambini ed ognuno di loro avrà 3 caramelle, quanti sono i bambini? Sono 4. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per 4; se le gambe sono 100 le pecore sono $100 : 4 \longrightarrow 25$.  
 
 Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni più complesse in cui compaiono due operazioni, come $12 \cdot 3 + 4$; in questo caso il numero $3$ fa parte sia di una moltiplicazione che di una somma. 
 
@@ -25,17 +25,17 @@ Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due nume
 
 #### ESEMPIO
 
-Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Poiché quando c'è un numero condiviso il numero deve essere usato nel prodotto (ha priorità nell'uso del numero), il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \longrightarrow 96 +^{(1)} 5 \longrightarrow 101$.
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero deve essere usato nella moltiplicazione (ha priorità nell'uso del numero), il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \longrightarrow 96 +^{(1)} 5 \longrightarrow 101$.
 
-Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ fa parte sia della somma del del prodotto. Poiché il prodotto ha priorità nell'uso del numero, l'$8$ dovrà essere impiegato nel prodotto. La somma non può essere eseguita (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
+Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è condiviso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
 
-La sequenza delle operazioni eseguibili sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \longrightarrow 5 +^{(1)} 96 \longrightarrow 101$.
+La sequenza delle operazioni sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \longrightarrow 5 +^{(1)} 96 \longrightarrow 101$.
 
 #### Uso delle parentesi e priorità
 
-Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati prioritariamente nelle operazioni contenute all'interno delle parentesi.
+Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati ***prioritariamente*** nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà allora quella indicata dagli apici:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
+Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
 
 Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti o divisioni e somme o sottrazioni vincono i prodotti e le divisioni, mentre tra prodotti e divisioni oppure tra somme e sottrazioni si fa quella che viene prima leggendo da sinistra a destra.
 
@@ -43,7 +43,7 @@ Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prod
 
 a) $8 \cdot^{(1)} 12 : ^{(2)} 3 \longrightarrow 96 :^{(1)} 3 \longrightarrow 32$.
 
-b) $12 :^{(1)} 3 : ^{(2)} 2 \longrightarrow 4 :^{(1)} 2 \longrightarrow 2$.
+b) $12 :^{(1)} 3 \cdot ^{(2)} 8 \longrightarrow 4 :^{(1)} 8 \longrightarrow 32$.
 
 c) $12 - ^{(1)} 8 + ^{(2)} 1 \longrightarrow 4 +^{(1)} 1 \longrightarrow 5$.
 
@@ -310,8 +310,8 @@ Un ***insieme*** è qualcosa di cui tutti abbiamo un'idea e precisamente è un g
 
 Vediamo due modi per descrivere (o ***rappresentare***) un insieme:
 
-1. graficamente, mediante un diagramma di Venn;
-2. per elencazione.
+1. graficamente, mediante un diagramma (detto "di Venn");
+2. elencando gli elementi (per elencazione).
 
 Rappresentare un insieme in modo grafico significa disegnare un cerchio o ellisse (che rappresenta l'insieme) con all'interno gli elementi rappresentati con dei punti ed il loro nome (univoco) o dal nome soltanto.
 
@@ -325,7 +325,7 @@ Rappresentare un insieme per elencazione significa scrivere la sequenza degli el
 
 #### ESEMPIO
 
-Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, o, u\}$; se vogliamo dare il nome $V$ all'insieme (di solito i nomi degli insiemi sono maiuscoli) scriviamo $V = \{ a, e, i, o, u\}$.
+Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, o, u\}$. Se vogliamo dare il nome $V$ all'insieme (di solito i nomi degli insiemi sono maiuscoli) scriviamo $V = \{ a, e, i, o, u\}$.
 
 
 
