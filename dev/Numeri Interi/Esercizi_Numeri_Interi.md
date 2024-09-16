@@ -68,7 +68,7 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 ## UNITA' 2: Valore assoluto, opposto e relazioni
 
-Abbiamo già detto che il **valore assoluto** di un numero intero è il numero naturale che di trova a destra segno del numero (si dice anche che è il numero "senza il segno", ma in realtà ha segno positivo). Ad esempio il valore assoluto di $-13$ è $13$, il valore assoluto di $5$ è $5$, il valore assoluto di $-240$ è $240$. Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, quindi $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
+Abbiamo già detto che il **valore assoluto** di un numero intero è il numero naturale che di trova a destra segno del numero (si dice anche che è il numero "senza il segno", ma in realtà ha segno positivo). Ad esempio il valore assoluto di $-13$ è $13$, il valore assoluto di $5$ è $5$, il valore assoluto di $-240$ è $240$. Il valore assoluto di un numero si indica con il simbolo $|\phantom{-}|$, quindi $|-3| \longrightarrow 3$, $|5| \longrightarrow +5$.
 
 L'**opposto** di un numero intero è un secondo numero intero che ha lo stesso valore assoluto del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
 
@@ -640,7 +640,7 @@ $$
 
 
 
-## UNITA' 8: Potenze con i numeri interi
+## UNITA' 8: Potenze e loro proprietà
 
 ### ESERCIZIO 8.1 - Calcolo di potenze
 
@@ -658,12 +658,23 @@ b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle 
 
 ### ESERCIZIO 8.2 - Proprietà delle potenze
 
-a) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
+a) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
+
+1. $2^{5}:2^{4} + 2·2^{2} - 2^{0};$  
+2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5};$  
+3. $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
+
+b) Applicando le proprietà, semplifica le espressioni seguenti riscrivendole usando, per ciascuna di esse, il minor numero possibile di potenze.
+
+1. $2^{4} · 2^{2}·2; \enspace (3^{4})^{2} · 3^{7}; \enspace  2^{3} · 5^{3}; \enspace 2^{4} · 3^{4};$   
+2. $(7^{2} · 2^{2}) · 7^{2}; \enspace (4^{3})^{2} · 2^{6}; \enspace 6^{5} · 2^{5}; \enspace  (4^{5})^{2};$  
+
+c) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
 
 1. $(6^{3}:6\text{·}6^{2})^{2};$    $(2^{3})^{4}:4^{4};$    $(4\text{·}3^{2})^{3};$     [Suggerimento: sostituisci $4$ con $2^2$];
 2. $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};$    $[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
 
-b) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
+d) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
 
 1. $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$
 2. $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$

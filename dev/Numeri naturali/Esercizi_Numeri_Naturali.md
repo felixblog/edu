@@ -275,32 +275,43 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-## UNITA' 6: Potenze e loro proprietà
+## UNITA' 6: Le Potenze
 
-### ESERCIZIO 6.1 - Proprietà delle potenze
+In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
-a) Un numero è in notazione scientifica quando è scritto come prodotto di un numero compreso tra 1 (incluso) e 10 e una potenza di 10. Ad esempio 900 si scrive $9\cdot 10^2$. 
+Un **<u>potenza</u>** è quindi una operazione che consiste in una moltiplicazione di un numero per se stesso. Gli esempi precedenti si scrivono $ 2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
+$$
+base \rightarrow 3^{4 \leftarrow esponente}
+$$
+La potenza è quindi una operazione, come la somma, la sottrazione etc., che non ha un simbolo proprio ma sta tra la base e l'esponente e da come il risultato il prodotto della base per se stessa tante volte quante indicate dall'esponente.
+
+La potenza, quando condivide la base o l'esponente insieme ad altre operazioni un una espressione, ha priorità massima di calcolo. Vediamo alcuni esempi:
+
+1. $5 + 2^3 \longrightarrow 5 + 8 \longrightarrow 13$;  	prima si calcola la potenza e poi la somma.
+2. $5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;  	prima si calcola la potenza e poi la moltiplicazione.
+3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
+4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$; 
+
+
+
+### ESERCIZIO 6.1 - Calcolo di Potenze
+
+a) Calcola le seguenti potenze ed espressioni.
+
+1. $3^2$;  $5^3$;  $10^4$;  $1^5$
+2. $55 \cdot 2^3 - 4$;  $5 + 10^3 : 4 - 25$;  $(5 + 10)^3 : 5 - 5^2$.
+
+b) Un numero è in notazione scientifica quando è scritto come prodotto di un numero compreso tra 1 (incluso) e 10 e una potenza di 10. Ad esempio 900 si scrive $9\cdot 10^2$. 
 
 1. Scrivi ciascuno dei numeri che seguono in notazione scientifica: $80, 2000000, 5, 6000, 3000000000;$
-2. Scrivi ciascuno dei numeri che seguono come numero intero:  $9\cdot 10^4$, $0\cdot 10^2$, $1\cdot 10^8$, $9\cdot 10^0$, $10\cdot 10^1;$
+2. Scrivi ciascuno dei numeri che seguono come numero naturale:  $9\cdot 10^4$, $0\cdot 10^2$, $1\cdot 10^8$, $9\cdot 10^0$, $10\cdot 10^1;$
 3. Calcola il valore delle seguenti espressioni in notazione scientifica: $2 \cdot 10^2 \cdot 2 \cdot 10^3; 3 \cdot 10^1 \cdot 2 \cdot 10^3; 8 \cdot 10^9 : (2 \cdot 10^3).$
 
-b) Quali delle uguaglianze seguenti sono vere? Quali false?  
+c) Quali delle uguaglianze seguenti sono vere? Quali false?  
 
 1. $6^{2} · 6^{4}=6^{8}; \enspace$  
 2. $5^{3} + 5^{4} = 5^{7};$
-3. $(10^{2})^{3} = 1.000.000;$  
-
-c) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
-
-1. $2^{5}:2^{4} + 2·2^{2} - 2^{0};$  
-2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5};$  
-3. $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
-
-d) Applicando le proprietà, semplifica le espressioni seguenti riscrivendole usando, per ciascuna di esse, il minor numero possibile di potenze.
-
-1. $2^{4} · 2^{2}·2; \enspace (3^{4})^{2} · 3^{7}; \enspace  2^{3} · 5^{3}; \enspace 2^{4} · 3^{4};$   
-2. $(7^{2} · 2^{2}) · 7^{2}; \enspace (4^{3})^{2} · 2^{6}; \enspace 6^{5} · 2^{5}; \enspace  (4^{5})^{2};$  
+3. $(10^{2})^{3} = 1.000.000;$.
 
 
 
