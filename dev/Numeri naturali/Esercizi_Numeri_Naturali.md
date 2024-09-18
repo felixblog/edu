@@ -74,8 +74,11 @@ b) Individua i numeri, le operazioni di ciascuna delle espressioni seguenti ed i
 3. $4 + (6·9);$
 4. $10 - 2 · 3 + 4 · 5;$
 5. $15 + 20 : 4 − 2;$
-6. $15 + 20 : (4 − 2);$
-7. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5;$        $[R. 5];$
+6. $15 + 20 : (4 − 2)$;    $(15 − 10) · 3 + 2;$
+7. $8·(12 : 6 − 2) + 1$;    $6 − (15 : (2 + 3))$;
+
+8. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5;$        $[R. 5];$
+9. $4 + 3·(15 : (3 + 1·2) − 1);$            $[R. 10];$
 
 #### Laboratorio GEOGEBRA
 
@@ -184,26 +187,10 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 ## UNITA' 4: La struttura delle espressioni
 
-### ESERCIZIO 4.1 - Operazioni ed espressioni (II)
-
-a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. Analizza il loro ordine di esecuzione e calcola il valore dell'espressione.
-
-1. $4 + 3·(15 : (3 + 1·2) − 1);$            $[R. 10];$
-2. $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2};$          $[R. 10];$
-
-b) Calcola il valore delle seguenti espressioni.
-
-1. $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} ) \enspace\enspace\enspace[R. 16];$
-2. $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1) \enspace\enspace\enspace[R. 21];$
-3. $((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))\enspace\enspace\enspace[R. 12]$  
-
-#### Laboratorio GEOGEBRA
-Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il risultato. 
 
 
 
-
-### ESERCIZIO 4.2 - Dalle espressioni ai diagrammi ad albero
+### ESERCIZIO 4.1 - Dalle espressioni ai diagrammi ad albero
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
 
 a) $4 + 6·9;$
@@ -226,7 +213,7 @@ d)
 
 
 
-### ESERCIZIO 4.3 - Dai diagrammi ad albero alle espressioni
+### ESERCIZIO 4.2 - Dai diagrammi ad albero alle espressioni
 Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero: 
 
 a) 
@@ -277,9 +264,9 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 ## UNITA' 6: Le Potenze
 
-In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
+In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
-Un **<u>potenza</u>** è quindi una operazione che consiste in una moltiplicazione di un numero per se stesso. Gli esempi precedenti si scrivono $ 2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
+Un **<u>potenza</u>** è quindi una operazione che consiste in una moltiplicazione di un numero per se stesso. Gli esempi precedenti si scrivono $ 2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
 $$
 base \rightarrow 3^{4 \leftarrow esponente}
 $$
@@ -298,8 +285,8 @@ La potenza, quando condivide la base o l'esponente insieme ad altre operazioni u
 
 a) Calcola le seguenti potenze ed espressioni.
 
-1. $3^2$;  $5^3$;  $10^4$;  $1^5$
-2. $55 \cdot 2^3 - 4$;  $5 + 10^3 : 4 - 25$;  $(5 + 10)^3 : 5 - 5^2$.
+1. $3^2$;    $5^3$;    $10^4$;    $1^5$
+2. $55 \cdot 2^3 - 4$;    $5 + 10^3 : 4 - 25$;    $(5 + 10)^3 : 5 - 5^2$.
 
 b) Un numero è in notazione scientifica quando è scritto come prodotto di un numero compreso tra 1 (incluso) e 10 e una potenza di 10. Ad esempio 900 si scrive $9\cdot 10^2$. 
 
@@ -312,6 +299,21 @@ c) Quali delle uguaglianze seguenti sono vere? Quali false?
 1. $6^{2} · 6^{4}=6^{8}; \enspace$  
 2. $5^{3} + 5^{4} = 5^{7};$
 3. $(10^{2})^{3} = 1.000.000;$.
+
+
+
+### ESERCIZIO 6.2 - Espressioni con le Potenze
+
+a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. Analizza il loro ordine di esecuzione e calcola il valore dell'espressione.
+
+1. $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2}$;          $[R. 10];$
+2. $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} )$           $[R. 16]$;
+3. $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1)$;           $[R. 21]$;
+4. $((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))$;                $[R. 12]$  
+
+#### Laboratorio GEOGEBRA
+
+Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il risultato. 
 
 
 
@@ -353,6 +355,55 @@ b) Rappresenta per elencazione i seguenti insiemi:
 5. I divisori dispari di 42:  
 6. I giorni della settimana che iniziano per «b»;  
 7. Le vocali della parola «farfalla»
+
+
+
+## UNITA' 2: Divisori e multipli
+
+Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo. Un multiplo di un secondo numero è un numero che sta nella tabellina del secondo numero: $8$ è multiplo di $2$ e di $4$, $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
+
+
+
+### ESERCIZIO 2.1 - Divisori e multipli
+
+a) Scrivi tutti i divisori di ciascuno dei numeri 6, 15, 18, 21, 24, 25;
+
+b) Scrivi i primi 4 multipli dei numeri 25, 40, 33, 6;
+
+c) Scrivi i multipli minori di 100 dei numeri 25, 40, 33, 6;
+
+d) Scrivi i multipli minori di 60 (compreso) dei numeri 6, 8, 10, 12, 15 e 16;   
+
+e) Scrivi il primo multiplo comune ai numeri 6 e 8, 10 e 12, 15 e 16;
+
+f) Scrivi i multipli minori di 100 comuni ai numeri 6 e 8, 10 e 12;
+
+g) Scrivi tutti i divisori comuni ai numeri 18 e 24.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $ListaDivisori(6)$&#9166;
+2. $ListaDivisori(15)$&#9166;
+3. $ListaDivisori(18)$&#9166;
+
+b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $Successione(25k, \; k, \; 1, \; 4)$&#9166; 
+2. $Successione(40k, \; k, \; 1, \; 4)$&#9166; 
+3. $Successione(33k, \; k, \; 1, \; 4)$&#9166; 
+4. $Successione(6k, \; k, \; 1, \; 4)$&#9166; 
+
+c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+
+1. $a=floor(\dfrac{100}{25}))$&#9166;    		// Parte intera della divisione tra 100 e 25 
+
+​       $Successione(25k, \; k, \; 1, \; a)$&#9166;	// Lista dei multipli
+
+2. $b=floor(\dfrac{100}{40}))$&#9166;
+
+   $Successione(40k, \; k, \; 1, \; b)$
 
 
 
