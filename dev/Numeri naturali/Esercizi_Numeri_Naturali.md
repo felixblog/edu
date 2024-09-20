@@ -25,9 +25,9 @@ Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due nume
 
 #### ESEMPIO
 
-Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero deve essere usato nella moltiplicazione (ha priorità nell'uso del numero), il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \longrightarrow 96 +^{(1)} 5 \longrightarrow 101$.
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \longrightarrow 96 +^{(1)} 5 \longrightarrow 101$.
 
-Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è condiviso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
+Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
 
 La sequenza delle operazioni sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \longrightarrow 5 +^{(1)} 96 \longrightarrow 101$.
 
@@ -48,6 +48,35 @@ b) $12 :^{(1)} 3 \cdot ^{(2)} 8 \longrightarrow 4 :^{(1)} 8 \longrightarrow 32$.
 c) $12 - ^{(1)} 8 + ^{(2)} 1 \longrightarrow 4 +^{(1)} 1 \longrightarrow 5$.
 
 d) $8 - ^{(2)} 12 : ^{(1)} 3 \longrightarrow 8 -^{(1)} 4 \longrightarrow 4$.
+
+#### Quante operazioni in un passaggio?
+
+L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
+
+Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è opportuno ***evitare*** di:
+
+1. utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio;
+2. eseguire più di due/tre operazioni in uno stesso passaggio 
+
+#### ESEMPIO
+
+**NON** fare il calcolo seguente
+
+a) $8 - ^{(2)} 12 : ^{(1)} 3 + 2$
+
+b) $4 + 2$
+
+c) $6$
+
+che riutilizza il risultato di $12:3$ nella differenza con $8$ (passaggio da a) a b)),  ma il seguente:
+
+a) $8 - ^{(2)} 12 : ^{(1)} 3 + 2$
+
+b) $8 - 4 + 2$
+
+c) $4 + 2$
+
+d) $6$
 
 
 
@@ -114,7 +143,7 @@ d) $6 − (15 : (2 + 3))$.
 
 ## UNITA' 2: Divisori e multipli
 
-Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo. Un multiplo di un secondo numero è un numero che sta nella tabellina del secondo numero: $8$ è multiplo di $2$ e di $4$, $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
+Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo. Un multiplo di un numero è quello che sta nella tabellina del numero: $8$ è multiplo di $2$ e di $4$ perché sta nella tabellina del $2$ e del $4$; $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
 
 
 
@@ -189,6 +218,16 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 
 
+```mermaid
+flowchart TD
+    + --> 4
+    + --> *
+    * --> 6
+    * --> 9
+```
+
+
+
 
 ### ESERCIZIO 4.1 - Dalle espressioni ai diagrammi ad albero
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
@@ -233,6 +272,22 @@ c)
 
 
 ## UNITA' 5: Le sostituzioni dei numeri alle lettere
+
+Nelle espressioni possono comparire, oltre ai numeri, anche le lettere. Ma cosa significa fare operazioni con le lettere?
+
+Ovviamente non è possibile fare delle operazioni con le lettere ed infatti una lettera in una espressione si usa per indicare la posizione di un numero che, quando dobbiamo calcolare l'espressione, deve essere sostituito alla lettera.
+
+#### ESEMPIO
+
+L'espressione $a+1$ non la possiamo "calcolare" finché non sostituiamo alla lettera $a$ un numero, ad esempio $3$ oppure $0$, cosicché $a + 1$ diventa $3 + 1$ che a sua volta diventa 4. Analogamente  con $0$,  $a + 1$ diventa $0 + 1 \longrightarrow 1$.
+
+------
+
+Usare le lettere al posto dei numeri è utile se vogliamo indicare quali operazioni fare per calcolare qualcosa. Ad esempio, l'area di tutti i rettangoli si calcola moltiplicando la lunghezza della loro base per quella della loro altezza. Se indichiamo con la lettera $b$ la lunghezza della base di un rettangolo e con $h$ la lunghezza dell'altezza dello stesso rettangolo, possiamo dire che, qualunque siano queste lunghezze, l'area sarà calcolata da $b \cdot h$.
+
+Se dobbiamo calcolare l'area di un rettangolo con $b = 12$ ed $h = 5$, sostituiamo i numeri alle lettere nella espressione ed otteniamo $b \cdot h, \; \{b = 12, h = 5\} \longrightarrow 12 \cdot 5 \longrightarrow 60$.
+
+
 
 ### ESERCIZIO 5.1 - Sostituzioni
 
@@ -407,7 +462,7 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 
 
-## UNITA' 8: Numeri primi, MCM e MCD
+## UNITA' 8: Numeri primi, scomposizioni, MCM e MCD
 
 ### ESERCIZIO 8.1 - Fattorizzazione in numeri primi
 
