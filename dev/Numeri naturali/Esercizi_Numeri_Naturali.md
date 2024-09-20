@@ -216,20 +216,78 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 ## UNITA' 4: La struttura delle espressioni
 
-
+Le espressioni si possono rappresentare anche graficamente. Vediamo alcuni esempi.
 
 ```mermaid
-flowchart TD
-    + --> 4
-    + --> *
-    * --> 6
-    * --> 9
+%%{init: {"graph": {"htmlLabels": false}} }%%
+graph TB
+subgraph "C: 4 + 6 * 9"
+    direction TB
+    A2(($$+$$)) --> C2(($$4$$))
+    A2 --> D2(($$\cdot$$))
+    D2 --> E2(($$6$$))
+    D2 --> F2(($$9$$))
+end
+subgraph "B: (4 + 6) * 9"
+    direction TB
+    A1(($$\cdot$$)) --> D1(($$+$$))
+    A1 --> C1(($$9$$))
+    D1 --> E1(($$4$$))
+    D1 --> F1(($$6$$))
+end
+subgraph "A: 4 + 6"
+    direction TB
+    A(($$+$$)) --> B(($$4$$))
+    A --> C(($$6$$))
+end
+
+```
+
+I disegni si chiamano "diagrammi ad albero" delle espressioni. I cerchi si chiamano "nodi" e le frecce "rami". I nodi più in basso che contengono numeri si chiamano "foglie" mentre il nodo più alto si chiama radice.
+
+Gli alberi indicano come calcolare una espressione: il calcolo comincia dal basso: la prima operazione che si può eseguire è quella che ha entrambi i numeri scritti nei nodi. Il risultato è scritto nel nodo superiore che diventa disponibile per la successiva operazione.
+
+```mermaid
+%%{init: {"graph": {"htmlLabels": false}} }%%
+graph TB
+subgraph "B: (4 + 6) * 9"
+    direction TB
+    A1(($$\cdot \;/90$$)) --> D1(($$+ \;/10$$))
+    A1 --> C1(($$9$$))
+    D1 --> E1(($$4$$))
+    D1 --> F1(($$6$$))
+end
+subgraph "A: 4 + 6"
+    direction TB
+    A(($$+ \;/10$$)) --> B(($$4$$))
+    A --> C(($$6$$))
+end
+
 ```
 
 
 
+### ESERCIZIO 4.1 - Dai diagrammi ad albero alle espressioni
+a) Calcola il valore delle espressioni rappresentate dagli alberi riportati di seguito;
 
-### ESERCIZIO 4.1 - Dalle espressioni ai diagrammi ad albero
+b) Scrivi le espressioni corrispondenti ai diagrammi ad albero riportati di seguito.
+
+1. 
+
+![Albero](img\Albero1.png)
+
+2. 
+
+![Albero](img\Albero2.png)
+
+3. 
+
+![Albero](img\Albero3.png)
+
+
+
+### ESERCIZIO 4.2 - Dalle espressioni ai diagrammi ad albero
+
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
 
 a) $4 + 6·9;$
@@ -246,32 +304,13 @@ f) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $.
 
 #### Esempio di SOLUZIONE
 
-d) 
+L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo l'esempio d). 
 
 ![Albero](img\Albero4.png)
 
 
 
-### ESERCIZIO 4.2 - Dai diagrammi ad albero alle espressioni
-Scrivi le espressioni corrispondenti ai seguenti diagrammi ad albero: 
-
-a) 
-
-![Albero](img\Albero1.png)
-
-b)
-
-![Albero](img\Albero2.png)
-
-c)
-
-![Albero](img\Albero3.png)
-
-
-
-
-
-## UNITA' 5: Le sostituzioni dei numeri alle lettere
+## UNITA' 5: Sostituzioni dei numeri alle lettere
 
 Nelle espressioni possono comparire, oltre ai numeri, anche le lettere. Ma cosa significa fare operazioni con le lettere?
 
@@ -413,9 +452,13 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 
 
-## UNITA' 2: Divisori e multipli
+## UNITA' 2: Divisori, multipli e numeri primi
 
-Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo. Un multiplo di un secondo numero è un numero che sta nella tabellina del secondo numero: $8$ è multiplo di $2$ e di $4$, $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
+Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo.
+
+Un multiplo di un numero è un altro numero che sta nella tabellina del primo numero: $8$ è multiplo di $2$ e di $4$ perchè sta nella tabellina del $2$ e del $4$; $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
+
+Un numero che non si può dividere per nessun altro numero se non per se stesso e per uno, ossia non ha divisori, si dice **primo**. Esempi di numeri primi sono $2$, $3$, $17$, $29$ etc.
 
 
 
@@ -462,9 +505,17 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 
 
-## UNITA' 8: Numeri primi, scomposizioni, MCM e MCD
+## UNITA' 8: Scomposizioni, MCM e MCD
 
-### ESERCIZIO 8.1 - Fattorizzazione in numeri primi
+Se un numero ha un divisore, il numero si può scrivere come prodotto di due numeri, uno dei quali è il divisore; diciamo che il numero si **scompone** in un prodotto di numeri o fattori.
+
+Se prendiamo il numero $12$, vediamo che $4$ è un divisore, perché $12 : 4 \longrightarrow 3$ e quindi $12 = 3 \cdot 4$, per cui $12$ si scompone o (**fattorizza**) nel prodotto di $4 \cdot 3$. 
+
+Poichè è utile avere una scomposizione di numeri tutti primi, possiamo vedere se tutti i fattori sono primi ed eventualmente continuare a scomporli. Possiamo dividere $4$ per $2$ ed otteniamo $4 = 2 \cdot 2$, per cui $12 = 3 \cdot 2 \cdot 2$. Adesso tutti i fattori di $12$ sono numeri primi e possiamo dire di avere scomposto $12$ in numeri primi (di solito si scrive $12 = 2^2 \cdot 3$).
+
+
+
+### ESERCIZIO 8.1 - Scomposizione in numeri primi
 
 a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
 
