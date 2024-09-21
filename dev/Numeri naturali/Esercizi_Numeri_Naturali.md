@@ -37,9 +37,9 @@ Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imp
 
 Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
 
-Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti o divisioni e somme o sottrazioni vincono i prodotti e le divisioni, mentre tra prodotti e divisioni oppure tra somme e sottrazioni si fa quella che viene prima leggendo da sinistra a destra.
+Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti e divisioni da un lato e somme e sottrazioni dall'altro, vincono i prodotti e le divisioni, mentre se c'è una sequenza di prodotti e divisioni oppure una sequenza di somme e sottrazioni si esegue sempre quella che viene prima leggendo da sinistra a destra e le successive si applicano al risultato della precedente.
 
-#### ESEMPI
+#### ESEMPI I
 
 a) $8 \cdot^{(1)} 12 : ^{(2)} 3 \longrightarrow 96 :^{(1)} 3 \longrightarrow 32$.
 
@@ -49,14 +49,32 @@ c) $12 - ^{(1)} 8 + ^{(2)} 1 \longrightarrow 4 +^{(1)} 1 \longrightarrow 5$.
 
 d) $8 - ^{(2)} 12 : ^{(1)} 3 \longrightarrow 8 -^{(1)} 4 \longrightarrow 4$.
 
+#### ESEMPI II
+
+a) $8 :^{(1)} 4 : ^{(2)} 2 \longrightarrow 4 :^{(1)} 2 \longrightarrow 2$.
+
+b) $4 \cdot^{(1)} 3 :^{(2)} 3 : 2 \longrightarrow 12 :^{(1)} 3 :^{(2)} 2 \longrightarrow 4 :^{(1)} 2 \longrightarrow 2$.
+
+c) $16 -^{(1)} 8 -^{(2)} 4 -^{(3)} 2 -^{(4)} 1\longrightarrow$
+
+​	$8 -^{(1)} 4 -^{(2)} 2 -^{(3)} 1 \longrightarrow$
+
+​		$4 -^{(1)} 2 -^{(2)} 1 \longrightarrow$
+
+​			$2 - 1 \longrightarrow 1$
+
+​				$4 :^{(1)} 2 \longrightarrow 2$.
+
+
+
 #### Quante operazioni in un passaggio?
 
 L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
 
-Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è opportuno ***evitare*** di:
+Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno**:
 
-1. utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio;
-2. eseguire più di due/tre operazioni in uno stesso passaggio 
+1. evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio;
+2. eseguire più di una operazione in uno stesso passaggio a meno che la seconda operazione non sia all'interno di una parentesi rispetto alla prima.
 
 #### ESEMPIO
 
@@ -216,7 +234,7 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 ## UNITA' 4: La struttura delle espressioni
 
-Le espressioni si possono rappresentare anche graficamente. Vediamo alcuni esempi.
+Le espressioni si possono rappresentare anche graficamente con dei diagrammi, detti "diagrammi ad albero" dell'espressione. Vediamo alcuni esempi.
 
 ```mermaid
 %%{init: {"graph": {"htmlLabels": false}} }%%
@@ -243,9 +261,9 @@ end
 
 ```
 
-I disegni si chiamano "diagrammi ad albero" delle espressioni. I cerchi si chiamano "nodi" e le frecce "rami". I nodi più in basso che contengono numeri si chiamano "foglie" mentre il nodo più alto si chiama radice.
+I cerchi si chiamano "nodi" e le frecce "archi". I nodi più in basso che contengono numeri si chiamano "foglie" mentre il nodo più alto si chiama radice.
 
-Gli alberi indicano come calcolare una espressione: il calcolo comincia dal basso: la prima operazione che si può eseguire è quella che ha entrambi i numeri scritti nei nodi. Il risultato è scritto nel nodo superiore che diventa disponibile per la successiva operazione.
+Gli alberi indicano come calcolare una espressione. Il calcolo comincia dal basso: la prima operazione che si può eseguire è quella che ha entrambi i numeri scritti nei nodi. Il risultato è scritto nel nodo superiore che diventa disponibile per la successiva operazione.
 
 ```mermaid
 %%{init: {"graph": {"htmlLabels": false}} }%%
@@ -265,12 +283,14 @@ end
 
 ```
 
+Alla fine, la radice contiene il risultato dell'espressione.
+
 
 
 ### ESERCIZIO 4.1 - Dai diagrammi ad albero alle espressioni
 a) Calcola il valore delle espressioni rappresentate dagli alberi riportati di seguito;
 
-b) Scrivi le espressioni corrispondenti ai diagrammi ad albero riportati di seguito.
+b) Scrivi le espressioni che corrispondono ai diagrammi.
 
 1. 
 
@@ -456,7 +476,7 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo.
 
-Un multiplo di un numero è un altro numero che sta nella tabellina del primo numero: $8$ è multiplo di $2$ e di $4$ perchè sta nella tabellina del $2$ e del $4$; $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
+Un multiplo di un numero è un altro numero che sta nella tabellina del primo numero: $8$ è multiplo di $2$ e di $4$ perchè sta nella tabellina del $2$ e del $4$; $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
 
 Un numero che non si può dividere per nessun altro numero se non per se stesso e per uno, ossia non ha divisori, si dice **primo**. Esempi di numeri primi sono $2$, $3$, $17$, $29$ etc.
 
