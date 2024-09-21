@@ -15,7 +15,7 @@ Le lettere servono quindi a specificare come calcolare certe quantità conoscend
 
 ### ESERCIZIO 1.1 - Dalle parole alle espressioni (I)
 
-a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati. Se non è già indicato, scegli una o più lettere per indicare le quantità sconosciute.
+a) Scrivi l'espressione letterale che indica la regola di calcolo per le operazioni elencate. Se non è già indicato, scegli una o più lettere per indicare le quantità sconosciute.
 
 1. La somma di $x$ e 15;
 2. La somma della lunghezza di un tavolo e 15;
@@ -25,7 +25,7 @@ a) Scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati.
 6. La metà della metà di $a$;
 7. La metà della metà di quello che ho preso ieri;
 
-b) Come il punto precedente, scrivi l'espressione letterale corrispondente ad ognuno dei termini elencati.
+b) Come il punto precedente, scrivi l'espressione letterale per le quantità seguenti.
 
 1. Il rapporto tra gli abitanti dell'Italia e quelli della Cina;   
 2. 500 diminuito di $j$;  
@@ -91,17 +91,23 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 ## UNITA' 2: I Monomi
 
-Abbiamo già detto che una espressione letterale non può essere calcolata, cioè non da come risultato un numero, finché a tutte le lettere non sostituiamo dei numeri. Però vediamo, con un esempio, che anche con le sole lettere alcune considerazioni si possono fare.
+Abbiamo già detto che una espressione letterale non può essere calcolata, cioè non da come risultato un numero, finché a tutte le lettere non sostituiamo dei numeri. Però vediamo, con un esempio, che anche con le sole lettere alcune informazioni le posso dedurre.
 
 #### ESEMPIO
 
 Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, una somma di $s$ euro. Se vinco due volte, in totale prenderò $s + s$ euro, che non so quanto fa, ma è sicuramente uguale a $2 \cdot s$ euro. Se vinco ancora una volta, in totale avrò vinto $2 \cdot s + s$ euro che, qualunque sia la somma settimanale $s$, è uguale a $3 \cdot s$ euro, che possiamo scrivere $3s$ euro.
 
+Se, qualunque sia la vincita, devo pagare 5 euro alla ricevitoria per i costi, la mia vincita netta in euro, nell'ultimo caso, sarà $3 \cdot s - 5$. 
+
 Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio.
+
+
+
+#### Componenti e forme di un monomio
 
 Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio la somma degli esponenti delle sue lettere. Anche un singolo numero può essere considerato un monomio, che presenta la sola parte numerica (ed ha parte letterale di grado zero).
 
-Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
+Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
 #### ESEMPIO
 
@@ -111,7 +117,7 @@ $\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab$: **Forma normale**;
 
 $ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: grado 4, **Forma Normale**.
 
-Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di monomi: $a + b$,  $2 \cdot s + 3 \cdot s + 1$ etc. 
+Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di monomi: $a + b$,  $2 \cdot s + 3 \cdot s^2 + 1$ etc. 
 
 
 
@@ -147,13 +153,13 @@ a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBR
 
 ### ESERCIZIO 2.2 - Prodotti di monomi
 
-a) Calcola i seguenti prodotti di monomi. 
+a) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale. 
 
 1. $2ab\,\cdotp\left(-3a^{2}b\right)$     ;$-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$;  
 
 2. $2a^{2}\,\cdotp\left(-4a^{5}b^{3}\right)$;     $-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$;  
 
-a) Calcola i seguenti prodotti di monomi. 
+a) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale. 
 
 1. $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
 
@@ -297,11 +303,11 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 ## UNITA' 5: Polinomi 
 
-La somma di più monomi non tutti simili si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Un polinomio è in ***forma normale*** se in esso non sono presenti monomi simili (sono già stati sommati tra di loro!). Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
+La somma di più monomi non tutti simili si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
 
-Un polinomio è in forma normale se tutti i monomi sono in forma normale e sono ordinati per grado crescente. Il grado di un polinomio è quello del monomio di grado massimo. 
+Un polinomio è in ***forma normale*** se tutti i monomi sono in forma normale e sono ordinati per grado crescente. Il grado di un polinomio è quello del monomio di grado massimo. 
 
-Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $1-2x$, $2x-\dfrac{2}{3}x^3+6x^5$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
+Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $1-2x$, $2x-\dfrac{2}{3}x^3+6x^5$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
 
 
 
