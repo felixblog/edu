@@ -41,29 +41,39 @@ Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prod
 
 #### ESEMPI I
 
-a) $8 \cdot^{(1)} 12 : ^{(2)} 3 \longrightarrow 96 :^{(1)} 3 \longrightarrow 32$.
+a) $8 \cdot^{(1)} 12 : ^{(2)} 3 \longrightarrow$
 
-b) $12 :^{(1)} 3 \cdot ^{(2)} 8 \longrightarrow 4 :^{(1)} 8 \longrightarrow 32$.
+​		$96 :^{(1)} 3 \longrightarrow 32$.
 
-c) $12 - ^{(1)} 8 + ^{(2)} 1 \longrightarrow 4 +^{(1)} 1 \longrightarrow 5$.
+b) $12 :^{(1)} 3 \cdot ^{(2)} 8 \longrightarrow$
 
-d) $8 - ^{(2)} 12 : ^{(1)} 3 \longrightarrow 8 -^{(1)} 4 \longrightarrow 4$.
+​		$ 4 :^{(1)} 8 \longrightarrow 32$.
+
+c) $12 - ^{(1)} 8 + ^{(2)} 1 \longrightarrow$
+
+​		$ 4 +^{(1)} 1 \longrightarrow 5$.
+
+d) $8 - ^{(2)} 12 : ^{(1)} 3 \longrightarrow$
+
+​		$ 8 -^{(1)} 4 \longrightarrow 4$.
 
 #### ESEMPI II
 
-a) $8 :^{(1)} 4 : ^{(2)} 2 \longrightarrow 4 :^{(1)} 2 \longrightarrow 2$.
+a) $8 :^{(1)} 4 : ^{(2)} 2 \longrightarrow 2 :^{(1)} 2 \longrightarrow 1$.
 
-b) $4 \cdot^{(1)} 3 :^{(2)} 3 : 2 \longrightarrow 12 :^{(1)} 3 :^{(2)} 2 \longrightarrow 4 :^{(1)} 2 \longrightarrow 2$.
+b) $4 \cdot^{(1)} 3 :^{(2)} 3 : 2 \longrightarrow$
+
+​		$ 12 :^{(1)} 3 :^{(2)} 2 \longrightarrow$
+
+​			$ 4 :^{(1)} 2 \longrightarrow 2$.
 
 c) $16 -^{(1)} 8 -^{(2)} 4 -^{(3)} 2 -^{(4)} 1\longrightarrow$
 
-​	$8 -^{(1)} 4 -^{(2)} 2 -^{(3)} 1 \longrightarrow$
+​		$8 -^{(1)} 4 -^{(2)} 2 -^{(3)} 1 \longrightarrow$
 
-​		$4 -^{(1)} 2 -^{(2)} 1 \longrightarrow$
+​			$4 -^{(1)} 2 -^{(2)} 1 \longrightarrow$
 
-​			$2 - 1 \longrightarrow 1$
-
-​				$4 :^{(1)} 2 \longrightarrow 2$.
+​				$2 - 1 \longrightarrow 1$.
 
 
 
