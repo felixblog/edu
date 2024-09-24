@@ -246,54 +246,23 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 Le espressioni si possono rappresentare anche graficamente con dei diagrammi, detti "diagrammi ad albero" dell'espressione. Vediamo alcuni esempi.
 
-```mermaid
-%%{init: {"graph": {"htmlLabels": false}} }%%
-graph TB
-subgraph "C: (4 + 6) * 9"
-    direction TB
-    A1(($$\cdot$$)) --> D1(($$+$$))
-    A1 --> C1(($$9$$))
-    D1 --> E1(($$4$$))
-    D1 --> F1(($$6$$))
-end
-subgraph "B: 4 + 6 * 9"
-    direction TB
-    A2(($$+$$)) --> C2(($$4$$))
-    A2 --> D2(($$\cdot$$))
-    D2 --> E2(($$6$$))
-    D2 --> F2(($$9$$))
-end
-subgraph "A: 4 + 6"
-    direction TB
-    A(($$+$$)) --> B(($$4$$))
-    A --> C(($$6$$))
-end
+![Pagina-6](img/Pagina-6.png)
 
-```
+
 
 I cerchi si chiamano "nodi" e le frecce "archi". I nodi più in basso che contengono numeri si chiamano "foglie" mentre il nodo più alto si chiama radice.
 
 Gli alberi indicano come calcolare una espressione. Il calcolo comincia dal basso: la prima operazione che si può eseguire è quella che ha entrambi i numeri scritti nei nodi. Il risultato è scritto nel nodo superiore che diventa disponibile per la successiva operazione.
 
-```mermaid
-%%{init: {"graph": {"htmlLabels": false}} }%%
-graph TB
-subgraph "C: (4 + 6) * 9"
-    direction TB
-    A1(($$\cdot \;//90$$)) --> D1(($$+ \;//10$$))
-    A1 --> C1(($$9$$))
-    D1 --> E1(($$4$$))
-    D1 --> F1(($$6$$))
-end
-subgraph "A: 4 + 6"
-    direction TB
-    A(($$+ \;//10$$)) --> B(($$4$$))
-    A --> C(($$6$$))
-end
+![Alberi-7](img/Alberi-7.png)
 
-```
+
 
 Alla fine, la radice contiene il risultato dell'espressione.
+
+Per costruire l'espressione a partire dall'albero, scrivi vicino ad ogni operazione l'espressione senza fare il calcolo come nell'esempio seguente.
+
+![Alberi-5](img/Alberi-5.png)
 
 
 
