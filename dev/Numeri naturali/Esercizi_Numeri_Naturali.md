@@ -65,7 +65,7 @@ b) $4 \cdot^{(1)} 3 :^{(2)} 3 : 2 \longrightarrow$
 
 ​		$ 12 :^{(1)} 3 :^{(2)} 2 \longrightarrow$
 
-​			$ 4 :^{(1)} 2 \longrightarrow 2$.
+​			$ 4 :^{(1)} 2 \longrightarrow 2$.
 
 c) $16 -^{(1)} 8 -^{(2)} 4 -^{(3)} 2 -^{(4)} 1\longrightarrow$
 
@@ -249,19 +249,19 @@ Le espressioni si possono rappresentare anche graficamente con dei diagrammi, de
 ```mermaid
 %%{init: {"graph": {"htmlLabels": false}} }%%
 graph TB
-subgraph "C: 4 + 6 * 9"
-    direction TB
-    A2(($$+$$)) --> C2(($$4$$))
-    A2 --> D2(($$\cdot$$))
-    D2 --> E2(($$6$$))
-    D2 --> F2(($$9$$))
-end
-subgraph "B: (4 + 6) * 9"
+subgraph "C: (4 + 6) * 9"
     direction TB
     A1(($$\cdot$$)) --> D1(($$+$$))
     A1 --> C1(($$9$$))
     D1 --> E1(($$4$$))
     D1 --> F1(($$6$$))
+end
+subgraph "B: 4 + 6 * 9"
+    direction TB
+    A2(($$+$$)) --> C2(($$4$$))
+    A2 --> D2(($$\cdot$$))
+    D2 --> E2(($$6$$))
+    D2 --> F2(($$9$$))
 end
 subgraph "A: 4 + 6"
     direction TB
@@ -278,16 +278,16 @@ Gli alberi indicano come calcolare una espressione. Il calcolo comincia dal bass
 ```mermaid
 %%{init: {"graph": {"htmlLabels": false}} }%%
 graph TB
-subgraph "B: (4 + 6) * 9"
+subgraph "C: (4 + 6) * 9"
     direction TB
-    A1(($$\cdot \;/90$$)) --> D1(($$+ \;/10$$))
+    A1(($$\cdot \;//90$$)) --> D1(($$+ \;//10$$))
     A1 --> C1(($$9$$))
     D1 --> E1(($$4$$))
     D1 --> F1(($$6$$))
 end
 subgraph "A: 4 + 6"
     direction TB
-    A(($$+ \;/10$$)) --> B(($$4$$))
+    A(($$+ \;//10$$)) --> B(($$4$$))
     A --> C(($$6$$))
 end
 
