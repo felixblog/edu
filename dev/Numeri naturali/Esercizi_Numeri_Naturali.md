@@ -451,13 +451,27 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 
 
-## UNITA' 2: Divisori, multipli e numeri primi
+## UNITA' 2: Divisori, multipli, MCM e MCD
 
 Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo.
 
-Un multiplo di un numero è un altro numero che sta nella tabellina del primo numero: $8$ è multiplo di $2$ e di $4$ perchè sta nella tabellina del $2$ e del $4$; $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
+Un multiplo di un numero è un altro numero che sta nella tabellina del primo numero: $8$ è multiplo di $2$ e di $4$ perché sta nella tabellina del $2$ e del $4$; $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
 
 Un numero che non si può dividere per nessun altro numero se non per se stesso e per uno, ossia non ha divisori, si dice **primo**. Esempi di numeri primi sono $2$, $3$, $17$, $29$ etc.
+
+Se prendiamo due numeri e troviamo i loro divisori potrebbe essere che ci siano dei numeri divisori di entrambi: questi si chiamano ***divisori comuni***; la stessa cosa si può dire dei multipli di due numeri: se ci sono numeri che sono multipli di entrambi, questi si chiamano ***multipli comuni***.
+
+#### ESEMPIO
+
+Consideriamo i due numeri $12$ e $8$. I divisori di $12$ sono $\{1,2,3,4,6,12\}$ e quelli di $8$ sono $\{1,2, 4, 8\}$. I divisori comuni sono $\{1, 2, 4\}$. $1$ è sempre divisore di qualunque numero, così come il numero stesso.
+
+I multipli di $12$ sono infiniti: $\{12, 24, 36, 48, 60, 72,...\}$; anche quelli di $8$: $\{8, 16, 24, 32, 40, 48, 56, 64, 72, ...\}$. I multipli comuni sono anch'essi infiniti e sono tutti i multipli di $24$: $\{24, 48, 72, ...\}$.
+
+------
+
+
+
+Il più grande dei divisori comuni di due numeri si chiama ***Massimo Comune Divisore*** dei due numeri, mentre il più piccolo dei multipli comuni si chiama ***minimo comune multiplo*** e si scrivono $MCD(8,12) \longrightarrow 24$ e $MCM(8,12) \longrightarrow 72$.
 
 
 
@@ -504,13 +518,20 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 
 
-## UNITA' 8: Scomposizioni, MCM e MCD
+## UNITA' 8: MCM e MCD mediante scomposizioni
 
 Se un numero ha un divisore, il numero si può scrivere come prodotto di due numeri, uno dei quali è il divisore; diciamo che il numero si **scompone** in un prodotto di numeri o fattori.
 
-Se prendiamo il numero $12$, vediamo che $4$ è un divisore, perché $12 : 4 \longrightarrow 3$ e quindi $12 = 3 \cdot 4$, per cui $12$ si scompone o (**fattorizza**) nel prodotto di $4 \cdot 3$. 
+Se prendiamo il numero $12$, vediamo che $4$ è un divisore, perché $12 : 4 \longrightarrow 3$ e quindi $12 = 3 \cdot 4$, per cui $12$ si scompone nel prodotto di $4 \cdot 3$. Poiché i numeri che fanno parte di una moltiplicazione si chiamano ***fattori***, si dice che se un numero si scompone in fattori, si ***fattorizza***.
 
-Poichè è utile avere una scomposizione di numeri tutti primi, possiamo vedere se tutti i fattori sono primi ed eventualmente continuare a scomporli. Possiamo dividere $4$ per $2$ ed otteniamo $4 = 2 \cdot 2$, per cui $12 = 3 \cdot 2 \cdot 2$. Adesso tutti i fattori di $12$ sono numeri primi e possiamo dire di avere scomposto $12$ in numeri primi (di solito si scrive $12 = 2^2 \cdot 3$).
+Siccome è utile avere una scomposizione di un numero in fattori tutti primi, cerchiamo una scomposizione in cui i fattori siano primi continuando a scomporli. Nella scomposizione di $12$ continuiamo a dividere $4$ per $2$ ed otteniamo $4 = 2 \cdot 2$, per cui $12 = 3 \cdot 2 \cdot 2$. Adesso tutti i fattori di $12$ sono numeri primi e possiamo dire di avere scomposto $12$ in numeri primi (usando le potenze possiamo scrivere $12 = 2^2 \cdot 3$).
+
+Facendo la stessa cosa con $8$ abbiamo $8 = 2^3$ e confrontando le due scomposizioni, vediamo che i numeri $2$ e $2^2$ sono fattori comuni sia a $12$ che ad $8$. Abbiamo allora un metodo alternativo a quello visto nell'unità precedente per calcolare MCM e MCD di due numeri, una regola che dice che:
+
+- Il Minimo Comune Multiplo di due numeri è uguale al prodotto di tutti i loro fattori, comuni e non comuni, quelli comuni presi con il massimo esponente;
+- Il Massimo Comune Divisore di due numeri è uguale al prodotto dei soli fattori comuni presi con il minimo esponente.
+
+Abbiamo allora $MCM(8,12) \longrightarrow 3 \cdot 2^3 \longrightarrow 24$, $MCD(8,12) \longrightarrow 2^2 \longrightarrow 4$.
 
 
 
@@ -536,7 +557,7 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 ### ESERCIZIO 8.2 - Minimo Comune Multiplo e Massimo Comune Divisore
 
-a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D. o massimo fattore comune) delle coppie (6, 8), (15, 10), (24, 25) applicando la definizione;
+a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D. o massimo fattore comune) delle coppie $(6, 8)$, $(15, 10)$, $(24, 25)$ applicando la definizione;
 
 b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
 
