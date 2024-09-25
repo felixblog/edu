@@ -246,7 +246,7 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 Le espressioni si possono rappresentare anche graficamente con dei diagrammi, detti "diagrammi ad albero" dell'espressione. Vediamo alcuni esempi.
 
-![Pagina-6](img/Pagina-6.png)
+<img src="img/Pagina-6.1.png" alt="Pagina-6" style="zoom:80%;" /><img src="img/Pagina-6.2.png" alt="Pagina-6.2" style="zoom:80%;" /><img src="img/Pagina-6.3.png" alt="Pagina-6.3" style="zoom:80%;" />
 
 
 
@@ -254,7 +254,7 @@ I cerchi si chiamano "nodi" e le frecce "archi". I nodi più in basso che conten
 
 Gli alberi indicano come calcolare una espressione. Il calcolo comincia dal basso: la prima operazione che si può eseguire è quella che ha entrambi i numeri scritti nei nodi. Il risultato è scritto nel nodo superiore che diventa disponibile per la successiva operazione.
 
-![Alberi-7](img/Alberi-7.png)
+<img src="img/Alberi-7.1.png" alt="Alberi-7" style="zoom:80%;" /><img src="img/Alberi-7.2.png" alt="Alberi-7.2" style="zoom:80%;" /><img src="img/Alberi-7.3.png" alt="Alberi-7.3" style="zoom:80%;" />
 
 
 
@@ -262,7 +262,7 @@ Alla fine, la radice contiene il risultato dell'espressione.
 
 Per costruire l'espressione a partire dall'albero, scrivi vicino ad ogni operazione l'espressione senza fare il calcolo come nell'esempio seguente.
 
-![Alberi-5](img/Alberi-5.png)
+<img src="img/Alberi-5.1.png" alt="Alberi-5.1" style="zoom:80%;" /><img src="img/Alberi-5.2.png" alt="Alberi-5.2" style="zoom:80%;" /><img src="img/Alberi-5.3.png" alt="Alberi-5.3" style="zoom:80%;" />
 
 
 
