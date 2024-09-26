@@ -471,7 +471,7 @@ I multipli di $12$ sono infiniti: $\{12, 24, 36, 48, 60, 72,...\}$; anche quelli
 
 
 
-Il più grande dei divisori comuni di due numeri si chiama ***Massimo Comune Divisore*** dei due numeri, mentre il più piccolo dei multipli comuni si chiama ***minimo comune multiplo*** e si scrivono $MCD(8,12) \longrightarrow 24$ e $MCM(8,12) \longrightarrow 72$.
+Il più grande dei divisori comuni di due numeri si chiama ***Massimo Comune Divisore*** dei due numeri, mentre il più piccolo dei multipli comuni si chiama ***minimo comune multiplo*** e si scrivono $MCD(8,12) \longrightarrow 24$ e $MCM(8,12) \longrightarrow 72$.
 
 
 
@@ -524,14 +524,19 @@ Se un numero ha un divisore, il numero si può scrivere come prodotto di due num
 
 Se prendiamo il numero $12$, vediamo che $4$ è un divisore, perché $12 : 4 \longrightarrow 3$ e quindi $12 = 3 \cdot 4$, per cui $12$ si scompone nel prodotto di $4 \cdot 3$. Poiché i numeri che fanno parte di una moltiplicazione si chiamano ***fattori***, si dice che se un numero si scompone in fattori, si ***fattorizza***.
 
-Siccome è utile avere una scomposizione di un numero in fattori tutti primi, cerchiamo una scomposizione in cui i fattori siano primi continuando a scomporli. Nella scomposizione di $12$ continuiamo a dividere $4$ per $2$ ed otteniamo $4 = 2 \cdot 2$, per cui $12 = 3 \cdot 2 \cdot 2$. Adesso tutti i fattori di $12$ sono numeri primi e possiamo dire di avere scomposto $12$ in numeri primi (usando le potenze possiamo scrivere $12 = 2^2 \cdot 3$).
+Siccome è utile avere una scomposizione di un numero in fattori tutti primi, cerchiamo una scomposizione in cui i fattori siano primi continuando a scomporli. Nella scomposizione di $12$ continuiamo a dividere $4$ per $2$ ed otteniamo $4 = 2 \cdot 2$, per cui $12 = 3 \cdot 2 \cdot 2$. Adesso tutti i fattori di $12$ sono numeri primi e possiamo dire di avere scomposto $12$ in numeri primi (usando le potenze possiamo scrivere $12 = 2^2 \cdot 3$), in particolare in ***potenze di numeri primi***.
 
-Facendo la stessa cosa con $8$ abbiamo $8 = 2^3$ e confrontando le due scomposizioni, vediamo che i numeri $2$ e $2^2$ sono fattori comuni sia a $12$ che ad $8$. Abbiamo allora un metodo alternativo a quello visto nell'unità precedente per calcolare MCM e MCD di due numeri, una regola che dice che:
+Facendo la stessa cosa con $8$ abbiamo $8 = 2^3$ e confrontando le due scomposizioni, vediamo che i numeri $2$ e $2^2$ sono fattori comuni sia a $12$ che ad $8$, mentre il fattore $3$ è solo di $12$, così come come il fattore $2^3$ è solo di $8$. 
 
-- Il Minimo Comune Multiplo di due numeri è uguale al prodotto di tutti i loro fattori, comuni e non comuni, quelli comuni presi con il massimo esponente;
-- Il Massimo Comune Divisore di due numeri è uguale al prodotto dei soli fattori comuni presi con il minimo esponente.
+Se consideriamo come fattori le potenze di numeri primi, abbiamo allora un metodo alternativo a quello visto nell'unità precedente per calcolare MCM e MCD di due numeri, una regola che dice che:
 
-Abbiamo allora $MCM(8,12) \longrightarrow 3 \cdot 2^3 \longrightarrow 24$, $MCD(8,12) \longrightarrow 2^2 \longrightarrow 4$.
+- Il Minimo Comune Multiplo di due numeri è uguale al prodotto di tutti i loro fattori (potenze di numeri primi), comuni e non comuni, quelli comuni presi con il massimo esponente;
+- Il Massimo Comune Divisore di due numeri è uguale al prodotto dei soli fattori comuni (potenze di numeri primi) presi con il minimo esponente.
+
+Abbiamo allora che il $MCM$ di $8$ e $12$ è $24$ ed il $MCD$ di $8$ e $12$ è $4$ perché
+
+- $MCM(8,12) \longrightarrow 3 \cdot 2^3 \longrightarrow 24$,
+- $MCD(8,12) \longrightarrow 2^2 \longrightarrow 4$.
 
 
 
