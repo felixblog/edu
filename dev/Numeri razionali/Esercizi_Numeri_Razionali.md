@@ -187,15 +187,19 @@ $\dfrac{1}{4} + \dfrac{1}{4} \longrightarrow \dfrac{2}{4}=\dfrac{1}{2}$,        
 
 Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{4} + \dfrac{1}{6}$ ?
 
-Possiamo operare in due passi. Cerchiamo due frazioni equivalenti a quelle da sommare ma con denominatore uguale e poi sommiamo queste, sicuri che la quantità risultato sarà la stessa della somma originaria. Resta da trovare quale debba essere il denominatore uguale. In prima battuta possiamo considerare il ***prodotto dei due denominatori***, per cui:
+Possiamo operare in due passi. Cerchiamo due frazioni equivalenti a quelle da sommare ma con denominatore uguale (comune) e poi sommiamo queste, sicuri che la quantità risultato sarà la stessa della somma originaria. Resta da trovare quale debba essere il denominatore uguale.
 
-$\dfrac{1}{4} + \dfrac{1}{6} \xrightarrow{\text{step 1}} \dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4} \longrightarrow \dfrac{6}{24} + \dfrac{4}{24} \xrightarrow{\text{step 2}} \dfrac{10}{24} \longrightarrow \dfrac{5}{12}$.
+In prima battuta possiamo utilizzare come denominatore comune il ***prodotto dei due denominatori***, per cui:
 
-Le due nuove frazioni si ottengono moltiplicando tutta la prima per il denominatore della seconda e viceversa.
+$\dfrac{1}{4} + \dfrac{1}{6} \xrightarrow{\text{step 1}} \dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4} \longrightarrow$
 
-Intuitivamente, se consideriamo gli addendi come frazioni di ore abbiamo che un quarto d'ora sono $15$ minuti ed un sesto di ora sono $10$ minuti. La somma dei due fa $25$ minuti che in ore sono $\dfrac{25}{60}$ di ora, cioè $\dfrac{5}{12}$ di ora.
+​	$ \dfrac{6}{24} + \dfrac{4}{24} \xrightarrow{\text{step 2}} \dfrac{10}{24} \longrightarrow \dfrac{5}{12}$.
 
-OSSERVAZIONE: In realtà il procedimento si può migliorare scegliendo come denominatore il ***minimo comune multiplo*** dei denominatori, più difficile però da da trovare rispetto al prodotto dei denominatori. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore, uguale all'$MCM$ o al prodotto dei denominatori, è detta operazione di ***riduzione al minimo comune denominatore***.
+
+
+Le due nuove frazioni si ottengono moltiplicando tutta la prima frazione per il denominatore della seconda e tutta la seconda frazione per il denominatore della prima.
+
+E' possibile anche sommare due frazioni in un modo leggermente diverso, scegliendo come denominatore comune il ***minimo comune multiplo*** dei denominatori, più difficile però da da trovare rispetto al prodotto dei denominatori. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore, uguale al $MCM$ o al prodotto dei denominatori, è detta operazione di ***riduzione al minimo comune denominatore***.
 
  
 
