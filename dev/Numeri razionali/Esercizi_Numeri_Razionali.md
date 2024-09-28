@@ -189,15 +189,13 @@ Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{4} + \dfra
 
 Possiamo operare in due passi. Cerchiamo due frazioni equivalenti a quelle da sommare ma con denominatore uguale (comune) e poi sommiamo queste, sicuri che la quantità risultato sarà la stessa della somma originaria. Resta da trovare quale debba essere il denominatore uguale.
 
-In prima battuta possiamo utilizzare come denominatore comune il ***prodotto dei due denominatori***, per cui:
+In prima battuta possiamo utilizzare come denominatore comune il ***prodotto dei due denominatori***, per cui al posto delle frazioni originali sommiamo due nuove frazioni ottenute moltiplicando tutta la prima frazione per il denominatore della seconda (cioè $4$) e tutta la seconda frazione per il denominatore della prima (cioè 6) come di seguito:
 
 $\dfrac{1}{4} + \dfrac{1}{6} \xrightarrow{\text{step 1}} \dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4} \longrightarrow$
 
-​	$ \dfrac{6}{24} + \dfrac{4}{24} \xrightarrow{\text{step 2}} \dfrac{10}{24} \longrightarrow \dfrac{5}{12}$.
+​		$ \dfrac{6}{24} + \dfrac{4}{24} \xrightarrow{\text{step 2}} \dfrac{10}{24} \longrightarrow \dfrac{5}{12}$.
 
 
-
-Le due nuove frazioni si ottengono moltiplicando tutta la prima frazione per il denominatore della seconda e tutta la seconda frazione per il denominatore della prima.
 
 E' possibile anche sommare due frazioni in un modo leggermente diverso, scegliendo come denominatore comune il ***minimo comune multiplo*** dei denominatori, più difficile però da da trovare rispetto al prodotto dei denominatori. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore, uguale al $MCM$ o al prodotto dei denominatori, è detta operazione di ***riduzione al minimo comune denominatore***.
 
@@ -216,8 +214,12 @@ b) $[\dfrac{7}{15},\dfrac{1}{30},\dfrac{3}{10}]$;     $[\dfrac{4}{6},\dfrac{9}{1
 Passi da seguire per trovare la soluzione per la prima coppia di frazioni del punto b).
 
 1. Calcola l'$MCM$ dei due numeri $2$ e $5$:   $MCM({2,5}) \Rightarrow 10$: questo sarà il nuovo denominatore di entrambe le frazioni;
-2. Per avere il numeratore della prima frazione dividi l'$mcm$ per $2$ e moltiplica il risultato per $7$: $(10:2) \cdot 7 \Rightarrow 35$;
-3. Per avere il numeratore della seconda frazione dividi l'$mcm$ per $5$ e moltiplica il risultato per $3$: $(10:5) \cdot 3 \Rightarrow 6$;
+2. Per avere il numeratore della prima frazione dividi l'$mcm$ per $2$ e moltiplica il risultato per $7$:
+
+   $(10:2) \cdot 7 \longrightarrow 35$;
+3. Per avere il numeratore della seconda frazione dividi l'$mcm$ per $5$ e moltiplica il risultato per $3$:
+
+   $(10:5) \cdot 3 \longrightarrow 6$;
 4. Le nuove frazioni sono: $[\dfrac{35}{10},\dfrac{6}{10}]$.
 
 
@@ -252,15 +254,21 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 4: Divisione tra frazioni ed espressioni con le frazioni
 
-Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{6}{4} : \dfrac{1}{2}$. 
+Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{6}{4} : \dfrac{1}{2}$ che ha come risultato $3$. 
 
 Cosa rappresenta la divisione tra frazioni?
 
-Come per qualsiasi altra divisione, stiamo mettendo in rapporto tra di loro due quantità per vedere quante volte la seconda (cioè $\dfrac{1}{2}$) "entra" nella prima, $\dfrac{6}{4}$ ossia quante volte deve essere moltiplicato $\dfrac{1}{2}$, o che frazione di $\dfrac{1}{2}$ deve essere considerata, per avere $\dfrac{6}{4}$.
+Come per qualsiasi altra divisione, stiamo calcolando quante volte deve essere moltiplicato $\dfrac{1}{2}$ per avere $\dfrac{6}{4}$.
 
-Per vedere come si calcola vediamo prima la divisione tra due numeri interi. $6 : 2$ è la metà di $6$ cioè $3$. E' la stessa cosa dire "un mezzo di 6", $\dfrac{1}{2} \cdot 6 \longrightarrow 3$; $6 : 3$ è come dire "un terzo di 6": $\dfrac{1}{3} \cdot 6 \longrightarrow 2$ e così via. La divisione si può calcolare moltiplicando il dividendo per il reciproco del divisore che sarà di volta in volta $\dfrac{1}{2}, \dfrac{1}{3}, \dfrac{1}{5}$.
+Per vedere come si calcola vediamo prima la divisione tra due numeri interi. 
 
-Vediamo adesso la divisione tra una frazione ed un numero intero: $\dfrac{6}{4} : 2 \longrightarrow \dfrac{6}{4} \cdot \dfrac{1}{2} \longrightarrow \dfrac{3}{4}$  Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore. Questo vale per tutte le divisioni tra frazioni: si trasforma in moltiplicazione per il reciproco del divisore: $\dfrac{3}{4} : \dfrac{1}{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{2}{1} \longrightarrow \dfrac{6}{4} \longrightarrow \dfrac{3}{2} = 1.5$ 
+$6 : 2$ è la metà di $6$ cioè $3$. E' la stessa cosa dire "un mezzo di $6$" cioè $\dfrac{1}{2} \cdot 6 \longrightarrow 3$; allo stesso modo $6 : 3$ è come dire "un terzo di $6$" cioè $\dfrac{1}{3} \cdot 6 \longrightarrow 2$ e così via. La divisione si può calcolare moltiplicando il dividendo per il reciproco del divisore che sarà di volta in volta $\dfrac{1}{2}, \dfrac{1}{3}, \dfrac{1}{5}$.
+
+Vediamo adesso la divisione tra una frazione ed un numero intero: $\dfrac{6}{4} : 2 \longrightarrow \dfrac{6}{4} \cdot \dfrac{1}{2} \longrightarrow \dfrac{3}{4}$  Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore. Questo vale per tutte le divisioni tra frazioni: la divisione si trasforma in una moltiplicazione per il reciproco del divisore:
+
+ $\dfrac{3}{4} : \dfrac{1}{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{2}{1} \longrightarrow$
+
+​		$\dfrac{6}{4} \longrightarrow \dfrac{3}{2} = 1.5$ 
 
 Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezzo (e considerato che la metà di $\dfrac{1}{2}$ è $\dfrac{1}{4}$ abbiamo che  $\dfrac{3}{4} =  \dfrac{1}{2} + \dfrac{1}{4}$.
 

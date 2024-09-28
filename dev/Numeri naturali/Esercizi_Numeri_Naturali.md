@@ -355,7 +355,7 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-## UNITA' 6: Le Potenze
+## UNITA' 6: Potenze e notazione lineare e non
 
 In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
@@ -371,6 +371,14 @@ La potenza, quando condivide la base o l'esponente insieme ad altre operazioni u
 2. $5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;  	prima si calcola la potenza e poi la moltiplicazione.
 3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
 4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$; 
+
+Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama non lineare ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ 
+
+Il modo in cui si scrive una potenza è un esempio di notazione non lineare di una espressione. Un altra situazione in cui si usa una forma non lineare è la divisione scritta come frazione. La divisione $10 : 2$ può essere scritta come $\dfrac{10}{2}$. Geogebra utilizza questa forma e bisogna stare attenti quando nella divisione compaiono delle parentesi perché **tutta** l'espressione tra parentesi deve essere scritta al numeratore o al denominatore della frazione
+
+1. $(10 + 2): 6 \longrightarrow \dfrac{10 + 2}{6}$;
+2. $6:(1 + 2) \longrightarrow \dfrac{6}{1 + 2}$;
+3. $(10 + 2): (1 + 2) \longrightarrow \dfrac{10 + 2}{1 + 2}$.
 
 
 
@@ -406,7 +414,25 @@ a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. An
 
 #### Laboratorio GEOGEBRA
 
-Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il risultato. 
+Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il risultato.
+
+
+
+### ESERCIZIO 6.3 - Notazione lineare e non
+
+a) Trasforma le espressioni seguenti in notazione non lineare e calcola il loro valore.
+
+1) $15 + 20 : 4 − 2;$
+2) $15 + 20 : (2$ ^ $2 − 2);$
+3) $((27 + 2) - 4 : (3 + 1)) - 20 ;$
+4) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $;
+5) $(2 - 1)$ ^ $3 + 2$ ^ $2 \cdot 3:(5 + 1)$.
+
+b) Trasforma le espressioni seguenti in notazione lineare.
+
+1. $\dfrac{4 − 1}{ 2^{2}} + \dfrac{45}{3}$;
+2. $\dfrac{4 + 3^{2} − 1}{ 2^{2}} + \dfrac{45}{3^2}$;
+3. $\left( 25 - \dfrac{4 + 3^{2}}{ 2^{2}}\right)^3 - \dfrac{2 \cdot 3^2}{6}$.
 
 
 
@@ -441,17 +467,17 @@ a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi $A$,
 
 b) Rappresenta per elencazione i seguenti insiemi:  
 
-1. I naturali non maggiori di 8;  
-2. I naturali dispari compresi fra 30 e 40;  
-3. I multipli pari di 7 minori di 40;  
-4. I divisori di 42;  
-5. I divisori dispari di 42:  
+1. I naturali non maggiori di $8$;  
+2. I naturali dispari compresi fra $30$ e $40$;  
+3. I multipli pari di $7$ minori di $40$;  
+4. I divisori di $42$;  
+5. I divisori dispari di 4$2$:  
 6. I giorni della settimana che iniziano per «b»;  
 7. Le vocali della parola «farfalla»
 
 
 
-## UNITA' 2: Divisori, multipli, MCM e MCD
+## UNITA' 8: Divisori, multipli, MCM e MCD
 
 Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo.
 
@@ -477,19 +503,19 @@ Il più grande dei divisori comuni di due numeri si chiama ***Massimo Comune Div
 
 ### ESERCIZIO 2.1 - Divisori e multipli
 
-a) Scrivi tutti i divisori di ciascuno dei numeri 6, 15, 18, 21, 24, 25;
+a) Scrivi tutti i divisori di ciascuno dei numeri $6$, $15$, $18$, $21$, $24$, $25$;
 
-b) Scrivi i primi 4 multipli dei numeri 25, 40, 33, 6;
+b) Scrivi i primi $4$ multipli dei numeri $25$, $40$, $33$, $6$;
 
-c) Scrivi i multipli minori di 100 dei numeri 25, 40, 33, 6;
+c) Scrivi i multipli minori di $100$ dei numeri $25$, $40$, $33$, $6$;
 
-d) Scrivi i multipli minori di 60 (compreso) dei numeri 6, 8, 10, 12, 15 e 16;   
+d) Scrivi i multipli minori di $60$ (compreso) dei numeri $6$, $8$, $10$, $12$, $15$,e $16$;
 
-e) Scrivi il primo multiplo comune ai numeri 6 e 8, 10 e 12, 15 e 16;
+e) Scrivi il primo multiplo comune ai numeri $6$,e $8$, $10$,e $12$, $15$,e $16$;
 
-f) Scrivi i multipli minori di 100 comuni ai numeri 6 e 8, 10 e 12;
+f) Scrivi i multipli minori di $100$ comuni ai numeri $6$,e $8$, $10$,e $12$;
 
-g) Scrivi tutti i divisori comuni ai numeri 18 e 24.
+g) Scrivi tutti i divisori comuni ai numeri $18$ e 24.
 
 #### Laboratorio GEOGEBRA
 
