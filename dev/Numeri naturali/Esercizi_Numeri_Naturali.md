@@ -7,15 +7,15 @@ I numeri naturali sono $0$, $1$, $2$, $3$, ... e così via (si ottengono sommand
 
 #### Le Operazioni
 
-Sommiamo due numeri quando vogliamo contare gli elementi di due gruppi distinti di oggetti che si uniscono: ad esempio uno studente ha tre libri, un altro ne ha <u>altri</u> quattro ed insieme hanno $3 + 4 \longrightarrow 7$ libri.
+L'operazione di ***somma o addizione*** è la prima e più semplice delle operazioni aritmetiche. I due numeri che la compongono sono chiamati ***addendi*** e noi sommiamo due numeri quando vogliamo contare gli elementi di due gruppi distinti di oggetti che si uniscono: ad esempio uno studente ha tre libri, un altro ne ha <u>altri</u> quattro ed insieme hanno $3 + 4 \longrightarrow 7$ libri. 
 
-Sottraiamo due numeri quando contiamo, in un gruppo di oggetti, quelli che non fanno parte di un certo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine: i libri interi sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un gruppo di oggetti ha un numero di elementi sempre minore (o al più uguale) a quello del gruppo, non è possibile sottrarre un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
+L'operazione di ***sottrazione*** è la seconda. Sottraiamo due numeri quando contiamo, in un gruppo di oggetti, quelli che non fanno parte di un certo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine: i libri interi sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un gruppo di oggetti ha un numero di elementi sempre minore (o al più uguale) a quello del gruppo, non è possibile sottrarre un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
 
-Moltiplichiamo due numeri naturali quando vogliamo contare quanti sono gli oggetti in totale se sono organizzati in gruppi tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta 9 libri (ossia abbiamo 5 gruppi di libri, ciascuno dei quali ha 9 libri): il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$, ossia uniamo 5 gruppi di 9 libri ciascuno.
+La ***moltiplicazione o prodotto*** è la terza operazione. I numeri che la compongono sono chiamati ***fattori*** e noi moltiplichiamo due numeri naturali quando vogliamo contare quanti sono gli oggetti in totale se sono organizzati in gruppi tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta 9 libri (ossia abbiamo 5 gruppi di libri, ciascuno dei quali ha 9 libri): il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$, ossia uniamo 5 gruppi di 9 libri ciascuno.
 
-La divisione è l'operazione inversa della moltiplicazione: ci serve quando dobbiamo sapere quanti oggetti ha ciascun gruppo sapendo quanti sono gli oggetti in totale e quanti gruppi ci sono. Facciamo un esempio con 12 caramelle (totale degli oggetti) da dividere in parti uguali tra 3 bambini (3 gruppi di caramelle): ogni bambino avrà 4 caramelle. ottenuto facendo $12 : 3$.
+La ***divisione o rapporto*** è l'operazione inversa della moltiplicazione. Il primo numero è chiamato ***dividendo*** ed il secondo ***divisore***. Per capire il suo significato, immaginiamo, come per la moltiplicazione, di avere un certo numero di oggetti divisi in gruppi ed ogni gruppo ha lo stesso numero di elementi. Se conosciamo il numero totale di oggetti (dividendo) ed il numero di gruppi (divisore), il risultato ci dà gli elementi di ogni gruppo. Facciamo un esempio con 12 caramelle (totale degli oggetti) da dividere in parti uguali tra 3 bambini (3 gruppi di caramelle), ogni bambino avrà 4 caramelle. ottenuto facendo $12 : 3$.
 
-Con la divisione possiamo sapere anche quanti sono i gruppi, se conosciamo il totale degli oggetti e quanti oggetti ha ogni gruppo: se abbiamo 12 caramelle da dividere per un certo numero di bambini ed ognuno di loro avrà 3 caramelle, quanti sono i bambini? Sono 4. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per 4; se le gambe sono 100 le pecore sono $100 : 4 \longrightarrow 25$.  
+Con la divisione possiamo sapere anche quanti sono i gruppi, se conosciamo il totale degli oggetti (dividendo) e quanti oggetti ha ogni gruppo (divisore): se abbiamo 12 caramelle da dividere per un certo numero di bambini ed ognuno di loro avrà 3 caramelle, quanti sono i bambini? Sono 4. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per 4; se le gambe sono 100 le pecore sono $100 : 4 \longrightarrow 25$.  
 
 Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni più complesse in cui compaiono due operazioni, come $12 \cdot 3 + 4$; in questo caso il numero $3$ fa parte sia di una moltiplicazione che di una somma. 
 
@@ -355,7 +355,7 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-## UNITA' 6: Potenze e notazione lineare e non
+## UNITA' 6: Potenze e altre notazioni non lineari
 
 In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
@@ -374,7 +374,9 @@ La potenza, quando condivide la base o l'esponente insieme ad altre operazioni u
 
 Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama non lineare ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ 
 
-Il modo in cui si scrive una potenza è un esempio di notazione non lineare di una espressione. Un altra situazione in cui si usa una forma non lineare è la divisione scritta come frazione. La divisione $10 : 2$ può essere scritta come $\dfrac{10}{2}$. Geogebra utilizza questa forma e bisogna stare attenti quando nella divisione compaiono delle parentesi perché **tutta** l'espressione tra parentesi deve essere scritta al numeratore o al denominatore della frazione
+Un altra situazione in cui si usa una forma non lineare è la divisione. La divisione $10 : 2$ può essere scritta nella forma $\dfrac{10}{2}$, chiamata ***frazione***. Il numero al di sopra della linea orizzontale, che corrisponde al dividendo della divisione, viene chiamato ***numeratore***, e quello al di sotto, corrispondente al divisore, si chiama ***denominatore***. 
+
+Geogebra scrive le divisioni in forma di frazioni per cui bisogna fare attenzione quando si inseriscono le espressioni per il calcolo: quando come dividendo o divisore abbiamo una espressione tra parentesi, **tutta** l'espressione che compare tra le parentesi deve essere scritta al di sopra della linea orizzontale di frazione o al di sotto, senza riportare le parentesi. Le casistiche sono riportate di seguito.
 
 1. $(10 + 2): 6 \longrightarrow \dfrac{10 + 2}{6}$;
 2. $6:(1 + 2) \longrightarrow \dfrac{6}{1 + 2}$;
@@ -409,12 +411,7 @@ a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. An
 
 1. $((4 + 3^{2} − 1) : 2^{2} + 45 : 3^{2} ) : 2^{2} + (21·3) : 9 + 1^{2}$;          $[R. 10];$
 2. $(((3^{2} + 11) : 2^{2} )^{2} : 5 − 1) · 2^{3} − (7^2 : (2·3 + 1) + 2^{3} + 10^{0} )$           $[R. 16]$;
-3. $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1)$;           $[R. 21]$;
-4. $((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))$;                $[R. 12]$  
-
-#### Laboratorio GEOGEBRA
-
-Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il risultato.
+3. $(((10 - 6)^{2} + 3·10) : (6 : 3)) + 4 + 3^{2} - (2^{4} - 1)$;           $[R. 21]$.
 
 
 
@@ -423,7 +420,7 @@ Inserisci in GEOGEBRA le espressioni del punto a) e dell'esercizio e calcola il 
 a) Trasforma le espressioni seguenti in notazione non lineare e calcola il loro valore.
 
 1) $15 + 20 : 4 − 2;$
-2) $15 + 20 : (2$ ^ $2 − 2);$
+2) $15 + 20 : (2$ ^ $2 − 2);$
 3) $((27 + 2) - 4 : (3 + 1)) - 20 ;$
 4) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $;
 5) $(2 - 1)$ ^ $3 + 2$ ^ $2 \cdot 3:(5 + 1)$.
@@ -433,6 +430,18 @@ b) Trasforma le espressioni seguenti in notazione lineare.
 1. $\dfrac{4 − 1}{ 2^{2}} + \dfrac{45}{3}$;
 2. $\dfrac{4 + 3^{2} − 1}{ 2^{2}} + \dfrac{45}{3^2}$;
 3. $\left( 25 - \dfrac{4 + 3^{2}}{ 2^{2}}\right)^3 - \dfrac{2 \cdot 3^2}{6}$.
+
+c) Calcola il valore delle seguenti espressioni
+
+1. $((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))$;                $[R. 12]$
+
+2. $((2^{4} + 2^{3}) : (2^{2 \cdot 3} : 2^{2+2})) +(3^{2} · 2^{2} : 6^{3-2}))$;                $[R. 12]$  
+
+
+
+#### Laboratorio GEOGEBRA
+
+Inserisci in GEOGEBRA le espressioni del punti a), b) e c) dell'esercizio e calcola il risultato.
 
 
 
