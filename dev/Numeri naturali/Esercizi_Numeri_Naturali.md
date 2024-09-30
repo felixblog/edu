@@ -372,15 +372,21 @@ La potenza, quando condivide la base o l'esponente insieme ad altre operazioni u
 3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
 4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$; 
 
-Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama non lineare ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ 
+Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama non lineare ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ .
+
+Di seguito alcuni esempi di trasformazione tra le due notazioni.
+
+1.  $(10 - 7)$ \^ $3 \longleftrightarrow (10 - 7)^3 \longrightarrow 3^3$;
+2.  $3$ ^ $(10 - 7)$ $ \longleftrightarrow 3^{10 - 7} \longrightarrow 3^3$;
+3.  $(10 - 7)$ \^ $(2 + 1) \longleftrightarrow (10 - 7)^{2 + 1} \longrightarrow 3^3$;
 
 Un altra situazione in cui si usa una forma non lineare è la divisione. La divisione $10 : 2$ può essere scritta nella forma $\dfrac{10}{2}$, chiamata ***frazione***. Il numero al di sopra della linea orizzontale, che corrisponde al dividendo della divisione, viene chiamato ***numeratore***, e quello al di sotto, corrispondente al divisore, si chiama ***denominatore***. 
 
-Geogebra scrive le divisioni in forma di frazioni per cui bisogna fare attenzione quando si inseriscono le espressioni per il calcolo: quando come dividendo o divisore abbiamo una espressione tra parentesi, **tutta** l'espressione che compare tra le parentesi deve essere scritta al di sopra della linea orizzontale di frazione o al di sotto, senza riportare le parentesi. Le casistiche sono riportate di seguito.
+Geogebra scrive le divisioni in forma di frazioni per cui bisogna fare attenzione quando si inseriscono le espressioni per il loro calcolo: quando come dividendo o divisore abbiamo una espressione tra parentesi, **tutta** l'espressione che compare tra le parentesi deve essere scritta al di sopra della linea orizzontale di frazione o al di sotto, senza riportare le parentesi. Le casistiche sono riportate di seguito.
 
-1. $(10 + 2): 6 \longrightarrow \dfrac{10 + 2}{6}$;
-2. $6:(1 + 2) \longrightarrow \dfrac{6}{1 + 2}$;
-3. $(10 + 2): (1 + 2) \longrightarrow \dfrac{10 + 2}{1 + 2}$.
+1. $(10 + 2): 6 \longleftrightarrow \dfrac{10 + 2}{6}$;
+2. $6:(1 + 2) \longleftrightarrow \dfrac{6}{1 + 2}$;
+3. $(10 + 2): (1 + 2) \longleftrightarrow \dfrac{10 + 2}{1 + 2}$.
 
 
 
