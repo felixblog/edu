@@ -516,7 +516,7 @@ Il più grande dei divisori comuni di due numeri si chiama ***Massimo Comune Div
 
 
 
-### ESERCIZIO 2.1 - Divisori e multipli
+### ESERCIZIO 8.1 - Divisori e multipli
 
 a) Scrivi tutti i divisori di ciascuno dei numeri $6$, $15$, $18$, $21$, $24$, $25$;
 
@@ -559,7 +559,7 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 
 
-## UNITA' 8: MCM e MCD mediante scomposizioni
+## UNITA' 9: MCM e MCD mediante scomposizioni
 
 Se un numero ha un divisore, il numero si può scrivere come prodotto di due numeri, uno dei quali è il divisore; diciamo che il numero si **scompone** in un prodotto di numeri o fattori.
 
@@ -581,7 +581,7 @@ Abbiamo allora che il $MCM$ di $8$ e $12$ è $24$ ed il $MCD$ di $8$ e $12$ è $
 
 
 
-### ESERCIZIO 8.1 - Scomposizione in numeri primi
+### ESERCIZIO 9.1 - Scomposizione in numeri primi
 
 a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
 
@@ -601,7 +601,7 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-### ESERCIZIO 8.2 - Minimo Comune Multiplo e Massimo Comune Divisore
+### ESERCIZIO 9.2 - Minimo Comune Multiplo e Massimo Comune Divisore
 
 a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D. o massimo fattore comune) delle coppie $(6, 8)$, $(15, 10)$, $(24, 25)$ applicando la definizione;
 
@@ -619,7 +619,7 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-### ESERCIZIO 8.3 - Evidenza del Fattore Comune
+### ESERCIZIO 9.3 - Evidenza del Fattore Comune
 
 a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
 
