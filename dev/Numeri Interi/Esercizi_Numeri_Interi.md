@@ -141,7 +141,7 @@ c) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espres
 
 Scrivi le espressioni (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore. 
 
-a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37,50 euro, poi ho preso in prestito altri 42,50 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando positivamente i crediti e negativamente i debiti?
+a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37 euro, poi ho preso in prestito altri 42 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando  negativamente i miei aumenti di debiti (e diminuzione di crediti) e positivamente la diminuzione di debiti (e aumento di crediti)?
 
 b) Una azienda ha realizzato negli anni i profitti riportati in figura:
 
@@ -149,7 +149,7 @@ b) Una azienda ha realizzato negli anni i profitti riportati in figura:
 
 1. Quale è stato il profitto totale dell'ultimo quinquennio?
 2. Quale è stato il calo di profitto tra il 2018 ed il 2019, tra il 2019 ed il 2020 e tra il 2020 ed il 2021?
-3. Quale è stato l'anno peggiore e quale il migliore?
+3. Quale è stato, secondo il tuo giudizio, l'anno peggiore e quale il migliore?
 
 c) Un palo è piantato nel fondo di un fiume. Tre metri di palo sono nel terreno, 10 metri sono nell'acqua e 2 metri sono nell'aria, fuori dall'acqua. Se consideriamo il livello dell'acqua come altezza zero, al di sotto altezze negative ed al di sopra altezze positive, indica a che altezza sono i due capi del palo. 
 
@@ -614,7 +614,7 @@ c) $(7 \cdot a + b^3) : (a + b);$
 
 ### ESERCIZIO 7.6 - Problemi con i numeri interi II
 
-a) Un investitore ha comprato il lunedì 800 azioni ad un prezzo di 19 euro ciascuna. Durante la settimana c'è stato un giorno un cui il prezzo è salito di 2 euro ma durante tutti gli altri è sceso di un euro. Quale è il valore delle azioni il venerdì? Di quanto è variato il prezzo dall'inizio?
+a) Un investitore ha comprato il lunedì 800 azioni ad un prezzo di 19 euro ciascuna. Durante la settimana c'è stato un giorno in cui il prezzo è salito di 2 euro ma durante tutti gli altri è sceso di un euro. Quale è il valore delle azioni il venerdì? Di quanto è variato il prezzo dall'inizio?
 
 b) Alle 6 del pomeriggio la temperatura era di 5 gradi. Per le successive 4 ore la temperatura è scesa di 3 gradi l'ora. Che temperatura c'era alle 10 di sera?
 

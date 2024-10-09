@@ -28,13 +28,13 @@ $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 Il terzo uso che si fa delle frazioni è per misurare una quantità, e qui interviene l'unità di misura. Facciamo un esempio.
 
-La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2.
+La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2. Quante uova ha mangiato Pierino?
 
-1. Quante uova ha mangiato Pierino? Risposta: 2 (numero intero);
-2. Quante scatole di uova ha mangiato Pierino? Risposta: mezza (numero frazionario).
+1. Risposta numero 1: 2 uova (numero intero);
+2. Risposta numero 2: mezza scatola (numero frazionario).
 
-Le risposte sono entrambe corrette, misurano la stessa quantità di uova mangiate che però viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
-Per costruire la risposta nel secondo caso (della frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> passando dalla scatola all'uovo, che è più piccolo della scatola, e quindi ci consente di avere due misure intere, per la scatola (<u>il tutto</u>) e per la sua mangiata (<u>la parte</u>). A questo punto per misurare la parte mangiata la rapportiamo al tutto: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
+Le risposte sono entrambe corrette, **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
+Per avere la risposta nel secondo caso (della frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> passando dalla scatola all'uovo, che è più piccolo della scatola, e quindi ci consente di avere due misure intere, per la scatola (<u>il tutto</u>) e per la sua mangiata (<u>la parte</u>). A questo punto per misurare la parte mangiata la rapportiamo al tutto: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
 
 
 
@@ -254,7 +254,7 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 4: Divisione tra frazioni ed espressioni con le frazioni
 
-Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{6}{4} : \dfrac{1}{2}$ che ha come risultato $3$. 
+Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{6}{4} : \dfrac{1}{2}$ che ha come risultato $3$. 
 
 Cosa rappresenta la divisione tra frazioni?
 
@@ -262,7 +262,7 @@ Come per qualsiasi altra divisione, stiamo calcolando quante volte deve essere m
 
 Per vedere come si calcola vediamo prima la divisione tra due numeri interi. 
 
-$6 : 2$ è la metà di $6$ cioè $3$. E' la stessa cosa dire "un mezzo di $6$" cioè $\dfrac{1}{2} \cdot 6 \longrightarrow 3$; allo stesso modo $6 : 3$ è come dire "un terzo di $6$" cioè $\dfrac{1}{3} \cdot 6 \longrightarrow 2$ e così via. La divisione si può calcolare moltiplicando il dividendo per il reciproco del divisore che sarà di volta in volta $\dfrac{1}{2}, \dfrac{1}{3}, \dfrac{1}{5}$.
+$6 : 2$ è la metà di $6$ cioè $3$. E' la stessa cosa dire "un mezzo di $6$" cioè $\dfrac{1}{2} \cdot 6 \longrightarrow 3$; allo stesso modo $6 : 3$ è come dire "un terzo di $6$" cioè $\dfrac{1}{3} \cdot 6 \longrightarrow 2$ e così via. La divisione si può calcolare moltiplicando il dividendo per il reciproco del divisore che sarà di volta in volta $\dfrac{1}{2}, \dfrac{1}{3}, \dfrac{1}{5}$.
 
 Vediamo adesso la divisione tra una frazione ed un numero intero: $\dfrac{6}{4} : 2 \longrightarrow \dfrac{6}{4} \cdot \dfrac{1}{2} \longrightarrow \dfrac{3}{4}$  Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore. Questo vale per tutte le divisioni tra frazioni: la divisione si trasforma in una moltiplicazione per il reciproco del divisore:
 

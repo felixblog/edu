@@ -169,58 +169,9 @@ d) $6 − (15 : (2 + 3))$.
 
 
 
-## UNITA' 2: Divisori e multipli
+## UNITA' 2: Dalle parole ai numeri
 
-Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo. Un multiplo di un numero è quello che sta nella tabellina del numero: $8$ è multiplo di $2$ e di $4$ perché sta nella tabellina del $2$ e del $4$; $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
-
-
-
-### ESERCIZIO 2.1 - Divisori e multipli
-
-a) Scrivi tutti i divisori di ciascuno dei numeri 6, 15, 18, 21, 24, 25;
-
-b) Scrivi i primi 4 multipli dei numeri 25, 40, 33, 6;
-
-c) Scrivi i multipli minori di 100 dei numeri 25, 40, 33, 6;
-
-d) Scrivi i multipli minori di 60 (compreso) dei numeri 6, 8, 10, 12, 15 e 16;   
-
-e) Scrivi il primo multiplo comune ai numeri 6 e 8, 10 e 12, 15 e 16;
-
-f) Scrivi i multipli minori di 100 comuni ai numeri 6 e 8, 10 e 12;
-
-g) Scrivi tutti i divisori comuni ai numeri 18 e 24.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-1. $ListaDivisori(6)$&#9166;
-2. $ListaDivisori(15)$&#9166;
-3. $ListaDivisori(18)$&#9166;
-
-b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-1. $Successione(25k, \; k, \; 1, \; 4)$&#9166; 
-2. $Successione(40k, \; k, \; 1, \; 4)$&#9166; 
-3. $Successione(33k, \; k, \; 1, \; 4)$&#9166; 
-4. $Successione(6k, \; k, \; 1, \; 4)$&#9166; 
-
-c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
-
-1. $a=floor(\dfrac{100}{25}))$&#9166;    		// Parte intera della divisione tra 100 e 25 
-
-​       $Successione(25k, \; k, \; 1, \; a)$&#9166;	// Lista dei multipli
-
-2. $b=floor(\dfrac{100}{40}))$&#9166;
-
-   $Successione(40k, \; k, \; 1, \; b)$&#9166;
-
-
-
-## UNITA' 3: Dalle parole ai numeri
-
-### ESERCIZIO 3.1 - Dalle parole ai numeri (II)
+### ESERCIZIO 2.1 - Dalle parole ai numeri (II)
 
 Scrivi le espressioni  (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore.  
 
@@ -242,7 +193,7 @@ h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 mi
 
 
 
-## UNITA' 4: La struttura delle espressioni
+## UNITA' 3: La struttura delle espressioni
 
 Le espressioni si possono rappresentare anche graficamente con dei diagrammi, detti "diagrammi ad albero" dell'espressione. Vediamo alcuni esempi.
 
@@ -266,7 +217,7 @@ Per costruire l'espressione a partire dall'albero, scrivi vicino ad ogni operazi
 
 
 
-### ESERCIZIO 4.1 - Dai diagrammi ad albero alle espressioni
+### ESERCIZIO 3.1 - Dai diagrammi ad albero alle espressioni
 a) Calcola il valore delle espressioni rappresentate dagli alberi riportati di seguito;
 
 b) Scrivi le espressioni che corrispondono ai diagrammi.
@@ -285,7 +236,7 @@ b) Scrivi le espressioni che corrispondono ai diagrammi.
 
 
 
-### ESERCIZIO 4.2 - Dalle espressioni ai diagrammi ad albero
+### ESERCIZIO 3.2 - Dalle espressioni ai diagrammi ad albero
 
 Rappresenta con diagrammi ad albero le seguenti espressioni:  
 
@@ -309,7 +260,7 @@ L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo l
 
 
 
-## UNITA' 5: Sostituzioni dei numeri alle lettere
+## UNITA' 4: Sostituzioni dei numeri alle lettere
 
 Nelle espressioni possono comparire, oltre ai numeri, anche le lettere. Ma cosa significa fare operazioni con le lettere?
 
@@ -327,7 +278,7 @@ Se dobbiamo calcolare l'area di un rettangolo con $b = 12$ ed $h = 5$, sostituia
 
 
 
-### ESERCIZIO 5.1 - Sostituzioni
+### ESERCIZIO 4.1 - Sostituzioni
 
 Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 a) $5 \cdot x, \enspace \{x = 50\};$  
@@ -355,7 +306,7 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-## UNITA' 6: Potenze e altre notazioni non lineari
+## UNITA' 5: Potenze e altre notazioni non lineari
 
 In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
@@ -390,7 +341,7 @@ Geogebra scrive le divisioni in forma di frazioni per cui bisogna fare attenzion
 
 
 
-### ESERCIZIO 6.1 - Calcolo di Potenze
+### ESERCIZIO 5.1 - Calcolo di Potenze
 
 a) Calcola le seguenti potenze ed espressioni.
 
@@ -411,7 +362,7 @@ c) Quali delle uguaglianze seguenti sono vere? Quali false?
 
 
 
-### ESERCIZIO 6.2 - Espressioni con le Potenze
+### ESERCIZIO 5.2 - Espressioni con le Potenze
 
 a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. Analizza il loro ordine di esecuzione e calcola il valore dell'espressione.
 
@@ -421,7 +372,7 @@ a) Individua i numeri e le operazioni di ciascuna delle espressioni seguenti. An
 
 
 
-### ESERCIZIO 6.3 - Notazione lineare e non
+### ESERCIZIO 5.3 - Notazione lineare e non
 
 a) Trasforma le espressioni seguenti in notazione non lineare e calcola il loro valore.
 
@@ -451,7 +402,7 @@ Inserisci in GEOGEBRA le espressioni del punti a), b) e c) dell'esercizio e calc
 
 
 
-## UNITA' 7: Insiemi e loro rappresentazione
+## UNITA' 6: Insiemi e loro rappresentazione
 
 Un ***insieme*** è qualcosa di cui tutti abbiamo un'idea e precisamente è un gruppo di oggetti, concreti o astratti (come lettere dell'alfabeto, numeri, etc.); gli oggetti che formano l'insieme sono detti ***elementi*** dell'insieme.
 
@@ -476,7 +427,7 @@ Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, 
 
 
 
-### ESERCIZIO 7.1 - Rappresentazione per Elencazione.
+### ESERCIZIO 6.1 - Rappresentazione per Elencazione.
 
 a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi $A$, $B$ e $C$ formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea».
 
@@ -492,7 +443,7 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 
 
-## UNITA' 8: Divisori, multipli, MCM e MCD
+## UNITA' 7: Divisori, multipli, MCM e MCD
 
 Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo.
 
@@ -516,7 +467,7 @@ Il più grande dei divisori comuni di due numeri si chiama ***Massimo Comune Div
 
 
 
-### ESERCIZIO 8.1 - Divisori e multipli
+### ESERCIZIO 7.1 - Divisori e multipli
 
 a) Scrivi tutti i divisori di ciascuno dei numeri $6$, $15$, $18$, $21$, $24$, $25$;
 
@@ -559,7 +510,7 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 
 
-## UNITA' 9: MCM e MCD mediante scomposizioni
+## UNITA' 8: MCM e MCD mediante scomposizioni
 
 Se un numero ha un divisore, il numero si può scrivere come prodotto di due numeri, uno dei quali è il divisore; diciamo che il numero si **scompone** in un prodotto di numeri o fattori.
 
@@ -581,7 +532,7 @@ Abbiamo allora che il $MCM$ di $8$ e $12$ è $24$ ed il $MCD$ di $8$ e $12$ è $
 
 
 
-### ESERCIZIO 9.1 - Scomposizione in numeri primi
+### ESERCIZIO 8.1 - Scomposizione in numeri primi
 
 a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
 
@@ -601,7 +552,7 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-### ESERCIZIO 9.2 - Minimo Comune Multiplo e Massimo Comune Divisore
+### ESERCIZIO 8.2 - Minimo Comune Multiplo e Massimo Comune Divisore
 
 a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D. o massimo fattore comune) delle coppie $(6, 8)$, $(15, 10)$, $(24, 25)$ applicando la definizione;
 
@@ -619,7 +570,7 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-### ESERCIZIO 9.3 - Evidenza del Fattore Comune
+### ESERCIZIO 8.3 - Evidenza del Fattore Comune
 
 a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
 
