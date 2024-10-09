@@ -28,13 +28,15 @@ $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 Il terzo uso che si fa delle frazioni è per misurare una quantità, e qui interviene l'unità di misura. Facciamo un esempio.
 
-La mamma di Pierino compra una scatola da 4 uova e Pierino ne mangia 2. Quante uova ha mangiato Pierino?
+La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
 
-1. Risposta numero 1: 2 uova (numero intero);
-2. Risposta numero 2: mezza scatola (numero frazionario).
+1. Prima risposta: $2$ uova (numero intero);
+2. Seconda risposta: mezza scatola (numero frazionario).
 
-Le risposte sono entrambe corrette, **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima domanda l'unità di riferimento (misura) è l'uovo, nel secondo è la scatola da 4.
-Per avere la risposta nel secondo caso (della frazione) seguiamo il procedimento di cambiare l'unità di riferimento <u>contenuta nella domanda</u> passando dalla scatola all'uovo, che è più piccolo della scatola, e quindi ci consente di avere due misure intere, per la scatola (<u>il tutto</u>) e per la sua mangiata (<u>la parte</u>). A questo punto per misurare la parte mangiata la rapportiamo al tutto: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
+Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima domanda l'unità di riferimento (di misura) è l'uovo, nel secondo è la scatola da $4$ uova.
+Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata al tutto (entrambe misurate in uova, unità piccola, per cui abbiamo due numeri interi) : $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
+
+Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
 
 
 
