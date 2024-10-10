@@ -7,7 +7,7 @@
 
 I numeri interi non bastano per indicare tutte le quantità che ci si presentano nelle situazioni della vita quotidiana, neanche nelle più comuni: se diciamo che ad uno sportello c'è una fila di tre quarti d'ora, o di un'ora ed un quarto, stiamo misurando il tempo con delle frazioni, non con dei numeri interi.
 
-Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale cardinale "Tre" CHE STA SOPRA la linea di frazione, ed il numerale ordinale "quarti" CHE STA SOTTO, chiamati rispettivamente "numeratore" (numero superiore) e "denominatore" (numero inferiore).
+Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale cardinale "Tre" CHE STA SOPRA la linea di frazione, ed il numerale ordinale "quarti" CHE STA SOTTO, chiamati rispettivamente "***numeratore***" (numero superiore) e "***denominatore***" (numero inferiore).
 
 Comunemente le frazioni si usano in almeno tre modi. Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
 
@@ -18,7 +18,7 @@ Questo tipo di ragionamento è molto comune, soprattutto quando si usano le perc
 
 Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: un terzo di torta pesa $750 : 3 \cdot 1 \longrightarrow 250$ grammi.
 
-Il secondo uso che vediamo è quello delle frazioni come divisioni. Una frazione è anche una divisione, che ha come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato è la ricerca di quante volte il denominatore deve essere sommato con  se stesso per avere il numeratore: $\dfrac{4}{2} \longrightarrow 2$ significa che $2$ deve essere sommato due volte con se stesso per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+Il secondo uso che vediamo è quello delle frazioni come divisioni. Una frazione è una ***divisione che non eseguiamo*** ma che teniamo così com'è. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato del risultato è quante volte il denominatore deve essere moltiplicato per avere il numeratore: $\dfrac{4}{2} \longrightarrow 2$ significa che $2$ deve essere moltiplicato per due per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
 Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
@@ -26,15 +26,27 @@ $\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow Fals
 
 $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
-Il terzo uso che si fa delle frazioni è per misurare una quantità, e qui interviene l'unità di misura. Facciamo un esempio.
+Il terzo uso che si fa delle frazioni è per misurare una quantità, e qui interviene l'unità di misura. Facciamo due esempi.
+
+#### Primo Esempio
+
+In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno è atteso con novanta minuti di ritardo". Che ritardo ha il treno?
+
+1. Prima risposta: $90$ minuti (numero intero);
+2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
+
+Le risposte sono entrambe corrette, perché **misurano lo stesso tempo (di ritardo)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
+Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti: facendo la divisione si vede $1,5$ volte. 
+
+#### Secondo Esempio
 
 La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
 
-1. Prima risposta: $2$ uova (numero intero);
+1. Prima risposta: due uova (numero intero);
 2. Seconda risposta: mezza scatola (numero frazionario).
 
-Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima domanda l'unità di riferimento (di misura) è l'uovo, nel secondo è la scatola da $4$ uova.
-Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata al tutto (entrambe misurate in uova, unità piccola, per cui abbiamo due numeri interi) : $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
+Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
+Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
 
