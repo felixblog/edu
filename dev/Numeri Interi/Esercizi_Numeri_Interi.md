@@ -4,7 +4,7 @@
 
 Un numero intero, o relativo, è un numero costituito di due parti: la prima parte è un numero naturale (detto ***valore assoluto***) e la seconda è un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$. I numeri con segno "+" si chiamano ***positivi***, mentre quelli con il segno "-" si chiamano ***negativi***. Il numero $+5$ è positivo, $-21$ è negativo, il valore assoluto di $-21$ è $21$ ed il valore assoluto di $+5$ è $5$. 
 
-In una espressione con i numeri interi, ogni numero ha un segno alla sua sinistra, ed ogni segno ha un numero (alla sua destra). A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
+In una espressione con i numeri interi, **ogni numero ha un segno** alla sua sinistra, ed **ogni segno ha un numero** (alla sua destra). A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
 
 E' molto utile mettere in corrispondenza I numeri interi con alcuni punti di una retta. Consideriamo una retta orizzontale e fissiamo un punto particolare, che chiameremo ***origine*** $O$, un segmento come ***unità di misura*** delle distanze ed un ***verso***, a destra, come in figura. 
 
@@ -179,6 +179,24 @@ Quanti punti ho alla fine delle partite?
 
 ## UNITA' 4: Prodotto e quoziente tra numeri interi
 
+Tra numeri interi si possono eseguire prodotti e quozienti. Le regole per calcolare il prodotto tra due numeri interi sono le seguenti:
+
+- Il valore assoluto del prodotto tra due numeri interi è uguale al prodotto tra i valori assoluti dei due fattori;
+- Il segno del risultato se i due fattori sono dello stesso segno è positivo; se i due fattori sono di segno diverso è negativo.
+
+Alcuni esempi: $3 \cdot 5 \longrightarrow +15$;     $-3 \cdot 5 \longrightarrow -15$;     $3 \cdot (-5) \longrightarrow -15$;     $-3 \cdot (-5) \longrightarrow +15$. 
+
+Nel caso del rapporto abbiamo regole analoghe:
+
+- Il valore assoluto del rapporto tra due numeri interi è uguale al rapporto tra i valori assoluti dei due fattori. Il risultato sarà un numero intero solo se tale rapporto è intero...
+- Il segno del risultato se i due termini del rapporto sono dello stesso segno è positivo; altrimenti è negativo.
+
+Alcuni esempi: $15 : 5 \longrightarrow +3$;     $-15 : 5 \longrightarrow -3$;     $15 : (-5) \longrightarrow -3$;     $-15 \cdot (-5) \longrightarrow +3$. 
+
+Mentre $15 : 4$ non ha risultato come numero intero.
+
+
+
 ### ESERCIZIO 4.1 - Prodotti e quozienti
 
 a) Calcola i seguenti prodotti e quozienti (quanti numeri ed operazioni contiene ciascuna espressione?):
@@ -201,6 +219,57 @@ c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e s
 
 
 ## UNITA' 5: Espressioni tra numeri interi
+
+Per i numeri interi valgono le regole che sono state illustrate per i numeri naturali: tra due numeri c'è sempre una operazione e tra due operazioni c'è sempre un numero. 
+
+Nel caso dei numeri interi bisogna fare le seguenti due osservazioni
+
+1. Se il numero è negativo il segno è sempre indicato, se il numero è positivo può esserci o non esserci ma essere sottinteso.
+2. Non si scrive il segno (positivo o negativo) immediatamente a destra dei simboli di moltiplicazione e divisione: se c'è un numero o una espressione questa va scritta tra parentesi.  
+
+L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima.
+
+La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono **prodotti e rapporti** allo stesso livello e ancora dopo c'è la **somma algebrica**.
+
+#### ESEMPIO
+
+Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $-8 \cdot^{(1)} 12 \overset{\downarrow(2)}{\phantom{|}} + 5 \longrightarrow 96 \overset{\downarrow(1)}{\phantom{|}} +5 \longrightarrow 101$.
+
+Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica  e il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
+
+La sequenza delle operazioni sarà allora:   $5 \overset{\downarrow(2)}{\phantom{|}}-8 ·^{(1)} 12 \longrightarrow 5 \overset{\downarrow(1)}{\phantom{|}} -96 \longrightarrow 101$.
+
+#### Uso delle parentesi e priorità
+
+Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati ***prioritariamente*** nelle operazioni contenute all'interno delle parentesi.
+
+Nell'espressione $8 · (-12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $-12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $-12$ è dentro insieme alla somma algebrica). La prima operazione che è possibile eseguire è quindi la somma algebrica. La sequenza delle operazioni da eseguire sarà:  $8 \cdot^{(2)} (-12 \overset{\downarrow(1)}{\phantom{|}} +5) \longrightarrow 8 \cdot^{(1)} (-7) \longrightarrow -56$.
+
+Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti e divisioni da un lato e somme e sottrazioni dall'altro, vincono i prodotti e le divisioni, mentre se c'è una sequenza di prodotti e divisioni oppure una sequenza di somme e sottrazioni si esegue sempre quella che viene prima leggendo da sinistra a destra e le successive si applicano al risultato della precedente.
+
+#### Segni davanti alle parentesi
+
+Spesso si incontrano espressioni come le seguenti:
+$$
+-5 -(10 - 15)
+$$
+Qui sembra ci siano tre numeri e quindi due espressioni. C'è però l'anomalia di un segno davanti ad una parentesi aperta senza un numero (il $-$ non è il segno di $10$!).
+
+Poiché ogni segno ha un numero, il segno negativo è il segno del numero $1$ che moltiplica la parentesi ed è sottointeso, per cui volendo esplicitare tutti numeri e le espressioni avremmo che l'espressione è equivalente a:
+$$
+-5 -1 \cdot (10 - 15)
+$$
+Come si vede i numeri dell'espressione sono quattro e le operazioni sono tre. Il calcolo è il seguente:
+
+$-5 -1 \cdot (10 - 15) \longrightarrow$
+
+​	$-5 -1 \cdot (-5) \longrightarrow$ 
+
+​		$-5 +5 \longrightarrow$
+
+​			$0$.
+
+
 
 ### ESERCIZIO 5.1 - Espressioni con le quattro operazioni
 
