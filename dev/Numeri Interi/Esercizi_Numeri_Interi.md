@@ -229,11 +229,11 @@ Nel caso dei numeri interi bisogna fare le seguenti due osservazioni
 
 L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima.
 
-La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono **prodotti e rapporti** allo stesso livello e ancora dopo c'è la **somma algebrica**.
+La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono **prodotti e rapporti** allo stesso livello e ancora dopo c'è la **somma algebrica**.
 
 #### ESEMPIO
 
-Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $-8 \cdot^{(1)} 12 \overset{\downarrow(2)}{\phantom{|}} + 5 \longrightarrow 96 \overset{\downarrow(1)}{\phantom{|}} +5 \longrightarrow 101$.
+Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $-8 \cdot^{(1)} 12 \overset{\downarrow(2)}{\phantom{|}} + 5 \longrightarrow 96 \overset{\downarrow(1)}{\phantom{|}} +5 \longrightarrow 101$.
 
 Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica  e il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
 
@@ -268,6 +268,32 @@ $-5 -1 \cdot (10 - 15) \longrightarrow$
 ​		$-5 +5 \longrightarrow$
 
 ​			$0$.
+
+#### Eliminazione delle parentesi
+
+Durante il calcolo delle espressioni, le parentesi scompaiono man mano che le operazioni al loro interno vengono eseguite. Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, conviene **calcolare la potenza e mettere il risultato dentro la parentesi senza toglierla**, come nel passaggio da a) a b) dell'esempio seguente:
+
+a) $-5 -1 \cdot (10 - 15)^3$
+
+b) $-5 -1 \cdot (-5)^3$
+
+c) $-5 -1 \cdot (-125)$
+
+d) $-5 + 125$
+
+e) $+120$
+
+Le parentesi scompaiono quando in esse è presente solo un numero (nessuna operazione) e si esegue **la prima moltiplicazione o divisione al di fuori della parentesi stessa**, come nell'esempio precedente dal passaggio da c) a d) o nell'esempio seguente.
+
+a) $-5 + (10 - 15):5$
+
+b) $-5 + (-5):5$
+
+c) $-5 -5:5$
+
+d) $-5 -1$
+
+e) $-6$
 
 
 

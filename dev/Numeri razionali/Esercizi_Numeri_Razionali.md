@@ -35,8 +35,8 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 1. Prima risposta: $90$ minuti (numero intero);
 2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
 
-Le risposte sono entrambe corrette, perché **misurano lo stesso tempo (di ritardo)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
-Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti: facendo la divisione si vede $1,5$ volte. 
+Le risposte sono entrambe corrette, perché **misurano lo stesso tempo (di ritardo)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
+Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti: facendo la divisione si vede $1,5$ volte. 
 
 #### Secondo Esempio
 
@@ -405,8 +405,25 @@ Come già fatto per i numeri interi, anche con le frazioni una  ***sostituzione*
 
 Oltre che nelle espressioni è possibile fare delle sostituzioni anche nelle relazioni tra espressioni letterali, come negli esempi seguenti.
 
-1. $x + 1 = 5, \; \{x = 4\} \; \longrightarrow \; (4) + 1 = 5 \; \longrightarrow \; 5 = 5 \longrightarrow \; True$;
-2. $x + 1 > 0, \; \{x = -2\} \; \longrightarrow \; (-2) + 1 > 0 \; \longrightarrow \; -1 > 0 \longrightarrow \; False$.
+#### Esempio 1
+
+a) $2x + 1 = 4, \; \{x = \dfrac{3}{2}\}$
+
+b) $2(\dfrac{3}{2}) + 1 = 4$
+
+c) $3 + 1 = 4$
+
+d) $4 = 4 \longrightarrow \; True$;
+
+#### Esempio 2
+
+a) $2x + 1 > 0, \; \{x = -\dfrac{3}{2}\}$
+
+b) $2(-\dfrac{3}{2}) + 1 > 0$
+
+c) $-3 + 1 > 0$
+
+d) $-2 > 0 \longrightarrow \; False$.
 
 Il risultato finale non è un numero ma il valore di verità della uguaglianza o disuguaglianza.
 
