@@ -7,18 +7,18 @@
 
 I numeri interi non bastano per indicare tutte le quantità che ci si presentano nelle situazioni della vita quotidiana, neanche nelle più comuni: se diciamo che ad uno sportello c'è una fila di tre quarti d'ora, o di un'ora ed un quarto, stiamo misurando il tempo con delle frazioni, non con dei numeri interi.
 
-Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale cardinale "Tre" CHE STA SOPRA la linea di frazione, ed il numerale ordinale "quarti" CHE STA SOTTO, chiamati rispettivamente "***numeratore***" (numero superiore) e "***denominatore***" (numero inferiore).
+Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale **cardinale** "Tre" CHE STA SOPRA la linea di frazione, ed il numerale **ordinale** "quarti" CHE STA SOTTO, chiamati rispettivamente "***numeratore***" (numero superiore) e "***denominatore***" (numero inferiore).
 
 Comunemente le frazioni si usano in almeno tre modi. Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
 
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
-- Quanto pesa un terzo di torta da 750 grammi?
-- Quanto valgono 25 centesimi (di euro)?
+- Quanto pesa un quarto di torta da $800$ grammi?
+- Quanto vale mezzo euro (in centesimi)?
 
-Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: un terzo di torta pesa $750 : 3 \cdot 1 \longrightarrow 250$ grammi.
+Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: un quarto di torta pesa $800 : 4 \cdot 1 \longrightarrow 200$ grammi.
 
-Il secondo uso che vediamo è quello delle frazioni come divisioni. Una frazione è una ***divisione che non eseguiamo*** ma che teniamo così com'è. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato del risultato è quante volte il denominatore deve essere moltiplicato per avere il numeratore: $\dfrac{4}{2} \longrightarrow 2$ significa che $2$ deve essere moltiplicato per due per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+Il secondo uso che vediamo è quello delle frazioni come divisioni. Una frazione è una ***divisione che non eseguiamo*** ma che teniamo così com'è. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato del risultato è quante volte il denominatore "entra" nel numeratore, oppure per quanto deve essere moltiplicato per avere il numeratore: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
 Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
@@ -35,7 +35,7 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 1. Prima risposta: $90$ minuti (numero intero);
 2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
 
-Le risposte sono entrambe corrette, perché **misurano lo stesso tempo (di ritardo)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
+Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
 Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti: facendo la divisione si vede $1,5$ volte. 
 
 #### Secondo Esempio
@@ -142,13 +142,33 @@ $\dfrac{3}{4} \longrightarrow 0,75$,  $\dfrac{6}{8} \longrightarrow 0,75$, quind
 
 Semplificazione della frazione $\dfrac{36}{45}$dividendo due volte per 3:   $\dfrac{36}{45} \longrightarrow \dfrac{12}{15} \longrightarrow \dfrac{4}{5}$.
 
+
+
+------
+
 Le frazioni, come tutti i numeri, si possono moltiplicare tra di loro, ed il risultato è una frazione. Il significato è quello di prendere una frazione di una quantità, a sua volta una frazione. 
 
 Il prodotto si esegue "per linee parallele", ossia si moltiplicano i numeratori dei fattori tra di loro e lo stesso per i denominatori, come si vede dagli esempi seguenti.
 
-#### ESEMPIO
+Il caso più semplice è quello del prodotto di una frazione per un numero intero. Questo caso si riconduce al prodotto di due frazioni generiche, considerato che qualunque numero intero è uguale ad una frazione con al denominatore il numero $1$.
 
-$\dfrac{1}{2} \cdot \dfrac{3}{4} \longrightarrow \dfrac{1 \cdot 3}{2 \cdot 4} \longrightarrow \dfrac{3}{8}$;           $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right) \longrightarrow -\dfrac{3 \cdot 2}{4 \cdot 3} \longrightarrow -\dfrac{6}{12}$;           $-\dfrac{2}{3} \cdot \left(-\dfrac{4}{5}\right) \longrightarrow +\dfrac{2 \cdot 4}{3 \cdot 5} \longrightarrow \dfrac{8}{15}$
+#### ESEMPI
+
+La metà di dieci: $\dfrac{1}{2} \cdot 10 \longrightarrow \dfrac{1}{2} \cdot \dfrac{10}{1} \longrightarrow $
+
+​					$\dfrac{1 \cdot 10}{2 \cdot 1} \longrightarrow \dfrac{10}{2} \longrightarrow 5$;
+
+
+
+Il doppio di tre quarti: $2 \cdot \dfrac{3}{4} \longrightarrow \dfrac{2 \cdot 3}{4} \longrightarrow $
+
+​							$\dfrac{6}{4} \longrightarrow \dfrac{2}{3}$;
+
+La metà di tre quarti: $\dfrac{1}{2} \cdot \dfrac{3}{4} \longrightarrow \dfrac{1 \cdot 3}{2 \cdot 4} \longrightarrow \dfrac{3}{8}$;
+
+
+
+I tre quarti di meno due terzi:  $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right) \longrightarrow -\dfrac{3 \cdot 2}{4 \cdot 3} \longrightarrow -\dfrac{6}{12}$;
 
 
 
@@ -174,13 +194,13 @@ Passi da seguire per trovare la soluzione per la seconda frazione della prima co
 
 ### ESERCIZIO 2.2 - Prodotto di frazioni
 
-Calcola le seguenti quantità dopo aver scritto l'espressione che la rappresenta.  
+Scrivi le espressioni riportate in ciascuno dei punti seguenti e calcola il risultato.  
 
-a) i cinque dodicesimi di 9; i cinque dodicesimi di 60; i tre quarti del doppio di 20;  
+a) i cinque dodicesimi di nove; i cinque dodicesimi di sessanta; i tre quarti del doppio di venti;  
 
-b) la metà di un decimo; i due terzi di 60; i tre quarti del doppio di 20;  
+b) la metà di un decimo; i due terzi di sessanta; i tre quarti del doppio di venticinque;  
 
-c) un quinto dei due terzi di 9; la metà della metà di 20; il doppio di cinque quinti della metà di 30;  
+c) un quinto dei due terzi di nove; la metà della metà di venti; il doppio di cinque quinti della metà di trenta.  
 
 
 
@@ -266,7 +286,7 @@ b) Calcola il valore delle seguenti espressioni.
 
 
 
-## UNITA' 4: Divisione tra frazioni ed espressioni con le frazioni
+## UNITA' 4: Divisione tra frazioni e rapporti di espressioni
 
 Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{6}{4} : \dfrac{1}{2}$ che ha come risultato $3$. 
 
@@ -286,7 +306,35 @@ Vediamo adesso la divisione tra una frazione ed un numero intero: $\dfrac{6}{4} 
 
 Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezzo (e considerato che la metà di $\dfrac{1}{2}$ è $\dfrac{1}{4}$ abbiamo che  $\dfrac{3}{4} =  \dfrac{1}{2} + \dfrac{1}{4}$.
 
- 
+
+
+------
+
+Una frazione, o numero razionale, è un rapporto tra numeri naturali, con il suo segno, dove il denominatore non può essere lo zero (perché nessun numero può essere diviso per zero). E' però possibile scrivere dei rapporti tra intere espressioni, che non sono frazioni, cioè numeri razionali. 
+
+Consideriamo il rapporto $\dfrac{2}{-3}$. Il denominatore non è un numero naturale ma intero, quindi il rapporto non è propriamente un numero razionale; se però calcoliamo il segno del rapporto, che è negativo, e lo scriviamo davanti alla frazione, diventa un numero razionale: $-\dfrac{2}{3}$. Stessa cosa con l'esempio seguente: $\dfrac{-2}{-3} \longrightarrow -\dfrac{2}{3}$.
+
+A volte al numeratore o al denominatore sono presenti delle operazioni. In questi casi prima di usare il rapporto in operazioni con altri rapporti bisogna trasformare il rapporto in frazione.
+
+#### ESEMPIO 1
+
+a) $\dfrac{2}{3} \dfrac{1+ 2 \cdot 3}{5}$ ;
+
+b) $\dfrac{2}{3} \dfrac{1+ 6}{5}$;
+
+c) $\dfrac{2}{3} \dfrac{7}{5} \longrightarrow \dfrac{14}{15}$ ;
+
+Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ è possibile  moltiplicarlo per $\dfrac{2}{3}$.
+
+#### ESEMPIO 2
+
+a) $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ \dfrac{1- 6}{5}}$ ;
+
+b) $\dfrac{\dfrac{2}{3}}{ \dfrac{-7}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ -\dfrac{7}{5}}$;
+
+c) $\dfrac{2}{3} \cdot \left(-\dfrac{5}{7}\right) \longrightarrow -\dfrac{10}{21}$.
+
+
 
 ### ESERCIZIO 4.1 - Espressioni con le quattro operazioni tra frazioni
 
