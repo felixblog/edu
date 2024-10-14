@@ -310,11 +310,11 @@ Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezz
 
 ------
 
-Una frazione, o numero razionale, è un rapporto tra numeri naturali, con il suo segno, dove il denominatore non può essere lo zero (perché nessun numero può essere diviso per zero). E' però possibile scrivere dei rapporti tra intere espressioni, che non sono frazioni, cioè numeri razionali. 
+Una frazione, o numero razionale, è un rapporto tra numeri naturali, con il suo segno, dove il denominatore non può essere lo zero (perché nessun numero può essere diviso per zero). Non tutti i rapporti sono quindi numeri razionali: è possibile scrivere rapporti tra intere espressioni intere che quindi non sono frazioni, cioè numeri razionali, ma hanno lo stesso valore di una frazione una volta che le le espressioni sono calcolate. 
 
-Consideriamo il rapporto $\dfrac{2}{-3}$. Il denominatore non è un numero naturale ma intero, quindi il rapporto non è propriamente un numero razionale; se però calcoliamo il segno del rapporto, che è negativo, e lo scriviamo davanti alla frazione, diventa un numero razionale: $-\dfrac{2}{3}$. Stessa cosa con l'esempio seguente: $\dfrac{-2}{-3} \longrightarrow -\dfrac{2}{3}$.
+Consideriamo il rapporto $\dfrac{2}{-3}$. Il denominatore non è un numero naturale ma intero, quindi il rapporto non è propriamente un numero razionale; se però calcoliamo il segno del rapporto, che è negativo, e lo scriviamo davanti alla frazione, diventa un numero razionale: $-\dfrac{2}{3}$. Stessa cosa con l'esempio seguente: $\dfrac{-2}{-3} \longrightarrow +\dfrac{2}{3}$.
 
-A volte al numeratore o al denominatore sono presenti delle operazioni. In questi casi prima di usare il rapporto in operazioni con altri rapporti bisogna trasformare il rapporto in frazione.
+Quando al numeratore o al denominatore sono presenti delle operazioni, prima di usare il rapporto in operazioni con altri rapporti bisogna trasformare il rapporto in frazione.
 
 #### ESEMPIO 1
 
@@ -324,7 +324,7 @@ b) $\dfrac{2}{3} \dfrac{1+ 6}{5}$;
 
 c) $\dfrac{2}{3} \dfrac{7}{5} \longrightarrow \dfrac{14}{15}$ ;
 
-Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ è possibile  moltiplicarlo per $\dfrac{2}{3}$.
+Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ lo moltiplichiamo per $\dfrac{2}{3}$. L'espressione, in notazione lineare, è equivalente a $2:3 \cdot (1 + 2 \cdot 3):5$.
 
 #### ESEMPIO 2
 
@@ -334,7 +334,7 @@ b) $\dfrac{\dfrac{2}{3}}{ \dfrac{-7}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ -
 
 c) $\dfrac{2}{3} \cdot \left(-\dfrac{5}{7}\right) \longrightarrow -\dfrac{10}{21}$.
 
-
+L'espressione, in notazione lineare, è equivalente a $(2:3) : ((1 - 2 \cdot 3):5)$.
 
 ### ESERCIZIO 4.1 - Espressioni con le quattro operazioni tra frazioni
 
@@ -347,7 +347,7 @@ a) Calcola i seguenti quozienti di frazioni.
 b) Calcola il valore delle seguenti espressioni.
 
 1. $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right)$;    $[R. \dfrac{2}{9}]$  
-2. $\dfrac{2}{5}\cdot\left(-\dfrac{15}{4}\right)\cdot\left(-\dfrac{2}{3}\right)$;    $[R. 1]$  
+2. $\dfrac{2}{5}\cdot\left(-\dfrac{2 \cdot 5 + 5}{4}\right)\cdot\left(-\dfrac{2}{3}\right)$;    $[R. 1]$  
 3. $\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right)$.     $[R. 3]$  
 
 c) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
