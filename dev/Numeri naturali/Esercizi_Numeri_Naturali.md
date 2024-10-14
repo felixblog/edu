@@ -84,7 +84,7 @@ L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In 
 Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno**:
 
 1. evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio;
-2. eseguire più di una operazione in uno stesso passaggio a meno che la seconda operazione non sia all'interno di una parentesi rispetto alla prima.
+2. evitare di eseguire più di una operazione in uno stesso passaggio a meno che la seconda operazione non sia all'interno di una parentesi rispetto alla prima.
 
 #### ESEMPIO
 
@@ -214,6 +214,10 @@ Alla fine, la radice contiene il risultato dell'espressione.
 Per costruire l'espressione a partire dall'albero, scrivi vicino ad ogni operazione l'espressione senza fare il calcolo come nell'esempio seguente.
 
 <img src="img/Alberi-5.1.png" alt="Alberi-5.1" style="zoom:80%;" /><img src="img/Alberi-5.2.png" alt="Alberi-5.2" style="zoom:80%;" /><img src="img/Alberi-5.3.png" alt="Alberi-5.3" style="zoom:80%;" />
+
+
+
+Alla fine, vicino alla radice sarà scritta l'espressione completa.
 
 
 
@@ -554,7 +558,7 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 ### ESERCIZIO 8.2 - Minimo Comune Multiplo e Massimo Comune Divisore
 
-a) Trova il Minimo Comune Multiplo (m.c.m) ed il Massimo Comune Divisore (M.C.D. o massimo fattore comune) delle coppie $(6, 8)$, $(15, 10)$, $(24, 25)$ applicando la definizione;
+a) Trova il Minimo Comune Multiplo ed il Massimo Comune Divisore delle coppie $(6, 8)$, $(15, 10)$, $(24, 25)$ applicando la definizione;
 
 b) Risolvi l'esercizio precedente attraverso la scomposizione in fattori primi.
 
