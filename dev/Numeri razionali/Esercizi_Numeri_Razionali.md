@@ -110,15 +110,15 @@ b) Quanti minuti dura un viaggio di tre quarti d'ora? Quale è l'espressione per
 
 c) La metà degli alunni di una classe sono assenti ed un terzo dei rimanenti non hanno fatto i compiti. Quale è la frazione della classe che ha svolto i compiti regolarmente?  
 
-Se la classe è formata da 24 alunni, quanti sono quelli che non hanno svolto i compiti?
+Se la classe è formata da $24$ alunni, quanti sono quelli che non hanno svolto i compiti?
 
-d) Gli ingredienti della ricetta "Pici cacio e pepe" per 4 persone sono i seguenti:
+d) Gli ingredienti della ricetta "Pici cacio e pepe" per $4$ persone sono i seguenti:
 
-- Spaghetti 320 g
-- Pecorino romano stagionatura media, da grattugiare 200 g
-- Pepe nero in grani 5 g
+- Spaghetti $320$ g
+- Pecorino romano stagionatura media, da grattugiare $200$ g
+- Pepe nero in grani $5$ g
 
-Come cambiano le quantità, in rapporto alle persone, se le persone sono 3? Quale frazione delle quantità originarie deve essere utilizzata? [Suggerimento: calcola il numero di grammi a persona].
+Come cambiano le quantità, in rapporto alle persone, se le persone sono $3$? Quale frazione delle quantità originarie deve essere utilizzata? [Suggerimento: calcola il numero di grammi a persona].
 
 
 
@@ -176,7 +176,7 @@ I tre quarti di meno due terzi:  $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right) 
 
 ### ESERCIZIO 2.1 - Frazioni equivalenti e riduzione ai minimi termini
 
-a) Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di 1.  
+a) Utilizzando la definizione, stabilisci se le seguenti coppie di frazioni sono fra loro equivalenti ed individua quali frazioni sono maggiori di $1$.  
 
 $[\dfrac{4}{5},\dfrac{8}{10}]$;     $[\dfrac{6}{2},\dfrac{10}{4}]$;     $[\dfrac{0}{15},\dfrac{2}{30}]$;     $[\dfrac{1}{8},\dfrac{2}{9}]$;     $[\dfrac{0}{20},\dfrac{0}{40}]$;  
 
@@ -324,7 +324,7 @@ b) $\dfrac{2}{3} \dfrac{1+ 6}{5}$;
 
 c) $\dfrac{2}{3} \dfrac{7}{5} \longrightarrow \dfrac{14}{15}$ ;
 
-Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ lo moltiplichiamo per $\dfrac{2}{3}$. L'espressione, in notazione lineare, è equivalente a $2:3 \cdot (1 + 2 \cdot 3):5$.
+Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ lo moltiplichiamo per $\dfrac{2}{3}$. L'espressione, in notazione lineare, è equivalente a $2:3 \cdot (1 + 2 \cdot 3):5$.
 
 #### ESEMPIO 2
 
@@ -361,11 +361,11 @@ c) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espre
 
 Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.  
 
-a) Aggiungi 1/5 alla somma di 1/2 e 1/3; Aggiungi 2/3 alla somma di 5/6 e 1; Somma 5 al risultato della somma tra 5/6 e 8/3;  
+a) Aggiungi $\dfrac{1}{5}$ alla somma di $\dfrac{1}{2}$ e $\dfrac{1}{3}$; Aggiungi $\dfrac{2}{3}$ alla somma di $\dfrac{5}{6}$ e $1$; Somma $5$ al risultato della somma tra $\dfrac{5}{6}$ e $\dfrac{8}{3}$;  
 
 b) Sottrai 1/2 dalla somma di 3 e 1/4; Aggiungi 1 alla somma di 1/5 e -1; Togli da 1/3 la somma di -2/3 e 1/3; 
 
-c) Raddoppia il prodotto fra 4/7 e 7/2; Scrivi il Triplo del prodotto fra 5/6 e 3/10; Aggiungi 1/4 a tre volte il quoziente di 3/2 e 9/4;  
+c) Raddoppia il prodotto fra $\dfrac{4}{7}$ e $\dfrac{7}{2}$; Scrivi il Triplo del prodotto fra $\dfrac{5}{6}$ e $\dfrac{3}{10}$; Aggiungi $\dfrac{1}{4}$ a tre volte il quoziente di $\dfrac{3}{2}$ e $\dfrac{9}{4}$.  
 
  
 
@@ -633,7 +633,7 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 ## UNITA' 7: Numeri decimali e percentuali
 
-Nella vita pratica si fa un notevole uso delle percentuali, che sono un modo di usare le frazioni. Quando diciamo "il 10% di 50" intendiamo una frazione di 50 ottenuta prendendo "10 centesimi di 50" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
+Nella vita pratica si fa un notevole uso delle percentuali, che sono un modo di usare le frazioni. Quando diciamo "il $10\%$ di $50$" intendiamo una frazione di $\text{50}$ ottenuta prendendo "$10$ centesimi di $50$" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
 
 
 
@@ -667,7 +667,7 @@ a) Calcola la percentuale nei casi seguenti.
 
 1. In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%];
 2. Una automobile incrementa la sua velocità da 80 Km/h a 100 Km/h. Di che percentuale è salita la velocità?
-3. Se durante i saldi di fine stagione spendo 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?
+3. Se durante i saldi di fine stagione spendo $\text{35} \texteuro$ 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?
 4. Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
 b) Calcola le quantità assolute richieste nei casi seguenti.
@@ -728,7 +728,7 @@ $\dfrac{3}{4} \cdot 1\;h = \dfrac{3}{4} \cdot 60 \;min$, e calcolando i prodotti
 
 #### ESEMPIO 2
 
-Quanto è lunga, in ore, una durata di 10 minuti?
+Quanto è lunga, in ore, una durata di $10$ minuti?
 
 Possiamo scrivere la domanda come $? \; h = 10\;min$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione che conosciamo tra le ore ed i minuti: $1\;h=60\;min$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo le ore equivalenti ad un minuto dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;h = \dfrac{60}{60}\;min$ cioè $\dfrac{1}{60}\;h = 1\;min$, che riscritto in decimale è $ 1\;min \cong 0.0166\;h$
 
@@ -738,7 +738,7 @@ In conclusione $10\;min = \dfrac{1}{6}\;h \cong 0.166\;h$, cioè $10$ minuti equ
 
 #### ESEMPIO 3
 
-Quanto misura, in trimestri, un periodo di 3 anni e 9 mesi?
+Quanto misura, in trimestri, un periodo di $3$ anni e $9$ mesi?
 
 In questo caso abbiamo un periodo espresso come somma (di due periodi): il primo misurato in anni ed il secondo in mesi. Troviamo separatamente l'equivalente in trimestri di entrambi e poi sommiamo, risolviamo cioè le due equivalenze: $3\;anno = ?\;trim$ e $9 \;mese = ?\;trim$.
 
@@ -760,7 +760,7 @@ $3\;anni \;e\; 9 \;mesi = 12\;trim + 3\;trim \longrightarrow 15\;trim$.
 
 #### ESEMPIO 4
 
-Quale è la lunghezza, in anni, di un periodo di 15 trimestri?
+Quale è la lunghezza, in anni, di un periodo di $15$ trimestri?
 
 In questo caso partiamo sempre da $1\;anno = 4\;trim$ e troviamo la durata in anni di un trimestre dividendo tutto per $4$ e poi moltiplicando per $15$:
 
@@ -778,14 +778,14 @@ a) Risolvi le seguenti equivalenze.
 
 1. Quanti minuti ci sono in due ore e mezzo?
 2. Quanto pesano due etti e mezzo di salame in Kg? 
-3. A quanti minuti corrispondono 10 ore? 
-4. A quante ore corrispondono 10 minuti ? A quanti secondi equivalgono 10 minuti?
+3. A quanti minuti corrispondono $10$ ore? 
+4. A quante ore corrispondono $10$ minuti ? A quanti secondi equivalgono $10$ minuti?
 
 b) Risolvi le seguenti equivalenze.
 
-1. Una moneta da 1 centesimo pesa 2,30 grammi. Quanto peserebbero cinque euro e mezzo in centesimi?
-2. Un periodo di un anno 5 mesi quanto dura in mesi? ed in trimestri?
-3. A quanto equivale un periodo di 2 anni, 6 mesi e 22 giorni in trimestri? (Considerare un mese di 30 giorni).
+1. Una moneta da $1$ centesimo pesa $2.30$ grammi. Quanto peserebbero cinque euro e mezzo in centesimi?
+2. Un periodo di un anno $5$ mesi quanto dura in mesi? ed in trimestri?
+3. A quanto equivale un periodo di $2$ anni, $6$ mesi e $22$ giorni in trimestri? (Considerare un mese di $30$ giorni).
 
 
 
@@ -802,18 +802,18 @@ a) Risolvi le seguenti equivalenze trovando la misura da scrivere al posto dei p
 
 ### ESERCIZIO 8.3 - Equivalenze (III)
 
-a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad 1,20 dollari ed un dollaro viene scambiato con 6,57 yuan cinesi:
+a) Rispondi alle domande seguenti considerando che al cambio valute un euro equivale ad $1.20$ dollari ed un dollaro viene scambiato con $6.57$ yuan cinesi:
 
-1. Quanti dollari posso avere scambiando 10 euro? Quanti yuan con 10 dollari?
+1. Quanti dollari posso avere scambiando $10$ euro? Quanti yuan con $10$ dollari?
 
-2. 100 dollari a quanti euro equivalgono? ed a quanti yuan?
+2. $100$ dollari a quanti euro equivalgono? ed a quanti yuan?
 
-3. Quanti euro occorrono per comprare un'automobile cinese da 210.000 yuan?
+3. Quanti euro occorrono per comprare un'automobile cinese da $210.000$ yuan?
 
-4. Quanto costerebbe in Italia una Tesla Model S che negli USA costa 70.000 dollari? 
+4. Quanto costerebbe in Italia una Tesla Model S che negli USA costa $70.000$ dollari? 
 
-b) I pellerossa americani non usavano monete ma barattavano tra di loro gli oggetti che producevano. Una pelle di bisonte valeva 7 coltelli da caccia, una collana valeva 2 coperte ed una coperta 2 coltelli.
+b) I pellerossa americani non usavano monete ma barattavano tra di loro gli oggetti che producevano. Una pelle di bisonte valeva 7 coltelli da caccia, una collana valeva $2$ coperte ed una coperta $2$ coltelli.
 
 1. Quanti coltelli da caccia sono necessari per comprare due coperte?
 2. Quante coperte posso comprare con due pelli di bisonte?
-3. Una pelle di bisonte tagliata a metà vale il 30% in meno che se la pelle è intera. Mezza pelle di bisonte vale almeno mezza collana?  
+3. Una pelle di bisonte tagliata a metà vale il $30\%$ in meno che se la pelle è intera. Mezza pelle di bisonte vale almeno mezza collana?  
