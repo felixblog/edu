@@ -220,11 +220,11 @@ c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e s
 
 ## UNITA' 5: Espressioni tra numeri interi
 
-Per i numeri interi valgono le regole che sono state illustrate per i numeri naturali: tra due numeri c'è sempre una operazione e tra due operazioni c'è sempre un numero. 
+Per i numeri interi valgono le regole che sono state viste per i numeri naturali: tra due numeri c'è sempre una operazione e tra due operazioni c'è sempre un numero. 
 
 Nel caso dei numeri interi bisogna fare le seguenti due osservazioni
 
-1. Se il numero è negativo il segno è sempre indicato, se il numero è positivo può esserci o non esserci ma essere sottinteso.
+1. Se il numero è negativo il segno è sempre indicato, se il numero è positivo può esserci o non esserci (in questo caso è  sottinteso).
 2. Non si scrive il segno (positivo o negativo) immediatamente a destra dei simboli di moltiplicazione e divisione: se c'è un numero o una espressione questa va scritta tra parentesi.  
 
 L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima.
@@ -253,7 +253,7 @@ Spesso si incontrano espressioni come le seguenti:
 $$
 -5 -(10 - 15)
 $$
-Qui sembra ci siano tre numeri e quindi due espressioni. C'è però l'anomalia di un segno davanti ad una parentesi aperta senza un numero (il $-$ non è il segno di $10$!).
+Qui sembra ci siano tre numeri e quindi due operazioni. C'è però l'anomalia di un segno davanti ad una parentesi aperta senza un numero (il $-$ non è il segno di $10$!).
 
 Poiché ogni segno ha un numero, il segno negativo è il segno del numero $1$ che moltiplica la parentesi ed è sottointeso, per cui volendo esplicitare tutti numeri e le espressioni avremmo che l'espressione è equivalente a:
 $$

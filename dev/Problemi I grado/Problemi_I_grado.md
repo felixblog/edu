@@ -9,15 +9,15 @@ In questo capitolo vedremo una serie di problemi che si possono risolvere con un
 
 Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?
 
-Questo problema si può risolvere senza fare calcoli particolari, ma analizziamo cosa ci chiede e cosa dobbiamo fare per trovarlo. La prima cosa da individuare è <u>cosa ci chiede di trovare</u>, ossia quale è la **quantità richiesta** soluzione dell'esercizio, in questo caso gli <u>anni della figlia di Maria</u>. 
+Questo problema si può risolvere senza fare calcoli particolari, ma analizziamo cosa ci chiede e cosa dobbiamo fare per trovarlo. La prima cosa da individuare è <u>cosa ci chiede di trovare</u>, ossia quale è la **quantità richiesta** soluzione dell'esercizio, in questo caso l'<u>età della figlia di Maria</u>. 
 
-Oltre a questa vediamo che si parla di un'altra quantità, diversa dalla prima, gli <u>anni di Maria</u>. 
+Oltre a questa vediamo che si parla di un'altra quantità, diversa dalla prima, l'<u>età di Maria</u>. 
 
-Tra gli anni della figlia e quelli di Maria c'è una relazione: gli anni di Maria sono il doppio di quelli della figlia (e quelli della figlia sono la metà di quelli di Maria). Noi non sappiamo quanti anni ha Maria, o la figlia, ma questo fatto ci dice che **una delle due quantità si calcola conoscendo l'altra** ossia che se la figlia ha $20$ anni, Maria ne ha $40$ e se Maria ne ha $60$, la figlia ne avrà $30$: le due quantità sono vincolate ad essere così.
+Tra gli anni della figlia e quelli di Maria c'è una relazione: l'età di Maria è il doppio di quella della figlia (e quelli della figlia è la metà di quella di Maria). Noi non sappiamo quanti anni ha Maria, o la figlia, ma questo fatto ci dice che **una delle due quantità si calcola conoscendo l'altra** ossia che se la figlia ha $20$ anni, Maria ne ha $40$ e se Maria ne ha $60$, la figlia ne avrà $30$: le due quantità sono vincolate ad essere così.
 
 Decidiamo di chiamare gli anni della figlia con una lettera, detta "incognita", diciamo $x$. Allora gli anni di Maria saranno calcolati dall'espressione $2 \cdot x$.
 
-Per completare il ragionamento osserviamo che il problema parla di un altro **fatto**, ci dà un'altra **informazione** che non abbiamo ancora utilizzato: "Maria ha 50 anni". Questo secondo fatto obbliga gli anni di Maria ad essere uguali ad un numero specifico: è un vincolo, una **condizione** sugli anni di Maria e di conseguenza su quelli della figlia. Possono infatti, gli anni della figlia essere uguali a $10$? No, perché il doppio di $10$ non è $50$ (la condizione non è resa vera); possono essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Possono solo essere $25$ ossia la metà di $50$, unico numero possibile per l'età della figlia di Maria.
+Per completare il ragionamento osserviamo che il problema parla di un altro **fatto**, ci dà un'altra **informazione** che non abbiamo ancora utilizzato: "Maria ha 50 anni". Questo secondo fatto obbliga l'età di Maria ad essere uguale ad un numero specifico: è un vincolo, una **condizione** sull'età di Maria e di conseguenza su quella della figlia. Possono infatti, gli anni della figlia essere uguali a $10$? No, perché il doppio di $10$ non è $50$ (la condizione non è resa vera); possono essere $30$? Nemmeno, perché neanche il doppio di $30$ è $50$. Possono solo essere $25$ ossia la metà di $50$, unico numero possibile per l'età della figlia di Maria.
 
 La traduzione in simboli della condizione è:
 $$
@@ -42,17 +42,17 @@ Il primo passo è l'individuazione delle quantità nel testo del problema. Dopo 
 1. Quali sono le **quantità** di cui si parla nel testo del problema, sia la quantità richiesta, che tutte le altre;
 2. Di quali quantità si conosce anche la **misura** (detta anche **valore noto** o **dato**) e di quali no.
 
-Una quantità non è solo un "numero": la quantità è un concetto, una proprietà quantitativa di qualcosa, come ad esempio la lunghezza di una strada, la lunghezza dei lati di un rettangolo, il peso di una persona, di un etto e mezzo di prosciutto, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
+Una quantità non è solo un "numero": la quantità è un concetto, una proprietà quantitativa di qualcosa, come ad esempio l'età di una persona, la lunghezza di una strada, il peso di una porzione di prosciutto, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
 
-Il numero che è associato alla quantità è la sua misura, ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$; la misura dipende dall'unità con cui misuriamo e può essere **nota**, perché è contenuta nel testo del problema, oppure no.
+Il numero che è associato alla quantità è la sua misura, presa utilizzando una unità di misura: ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$; la misura dipende dall'unità con cui misuriamo e può essere **nota**, perché è contenuta nel testo del problema, oppure no.
 
 Alle quantità deve essere dato un nome preciso ed appropriato.
 
 #### ESEMPIO 2
 
-- Nella domanda "**Quanti anni** ha la figlia di Maria?", la quantità richiesta è il "Età (anni) della figlia di Maria";
+- Nella domanda "**Quanti anni** ha la figlia di Maria?", la quantità richiesta è il "Età (misurata in anni) della figlia di Maria";
 - Nella domanda "**Quanti giornali** ha venduto?", la quantità richiesta è il "Numero di Copie Vendute";
-- Nella domanda "**Quanti soldi** erano rimasti?", la quantità richiesta è l'"Importo Monetario Rimasto";
+- Nella domanda "**Quanti soldi** erano rimasti?", la quantità richiesta è l'"Importo Monetario Rimasto" (misurato in euro);
 - In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
 
@@ -369,6 +369,67 @@ c) Risolvi i seguenti problemi.
 
 
 
+## UNITA' 4: Problemi su moto e velocità
+
+La velocità la misura della rapidità con la quale un fenomeno si manifesta o un processo si svolge. Se osserviamo il movimento di una automobile su una strada dritta, vediamo che questa percorre, in un certo tempo un certo spazio, ad esempio in $2$ ore percorre $100 \; Km$: possiamo dire che l'automobile ha una velocità di moto di $\dfrac{100}{2} = 50 \; Km/h$​. 
+
+La velocità di un oggetto che si muove è quindi misurata dal rapporto tra lo spazio che percorre ed il tempo impiegato a percorrerlo. 
+
+La formula che lega le tre quantità di cui stiamo parlando, cioè lo spazio percorso, indicato da $s$, il tempo impiegato a percorrerlo, indicato da $t$ e la velocità risultante $v$ è la seguente:
+$$
+v = \dfrac{s}{t}
+$$
+Questa formula ci dice che se conosciamo due delle tre quantità che figurano, è possibile calcolare la terza risolvendo una equazione. Vediamo alcuni esempi.
+
+#### ESEMPIO 1
+
+Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
+
+Dalla formula, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.
+
+#### ESEMPIO 2
+
+Uno studente deve percorrere in bicicletta una strada di $20 \; Km$. Se mantiene una velocità di $12 \; Km/h$​, quanto tempo dovrà pedalare?
+
+Dalla formula, esplicitando la $t$, ossia risolvendo come se $t$ fosse l'unica incognita, otteniamo $t = \dfrac{s}{v}$, cioè $t = \dfrac{20}{12} \longrightarrow 1,66 \;h$.
+
+#### ESEMPIO 3
+
+Nel 2009 l’atleta giamaicano Usain Bolt ha corso i 100 metri piani in 9,58 secondi. Quale è stata la sua velocità media in $Km/h$?
+
+Dalla formula otteniamo $v = \dfrac{s}{t}$, cioè $v = \dfrac{100}{9,58} \longrightarrow 10,44 \;m/s$. Per trasformarli in $Km/h$ al posto di $m$ sostituiamo $\dfrac{1}{1000}Km$ ed al posto di $s$ $\dfrac{1}{3600}h$, per cui $10,44 \;m/s \longrightarrow 10,44 \cdot \dfrac{\dfrac{1}{1000}}{\dfrac{1}{3600}} \longrightarrow 10,44 \cdot 3,6 = 37,584 \; Km/h$​.
+
+
+
+### ESERCIZIO 4.1 - Problemi sul moto e sulla velocità
+
+a) Due amici partono insieme per allenarsi in bicicletta e decidono di fare un giro della lunghezza di $60 \; Km$. Il primo si allena ogni giorno facendo $30 \; Km$ in un'ora e venti, mentre il secondo fa ogni giorno $20 \; Km$ in $50$ minuti. Chi completerà per primo il giro?
+
+b) Un’automobile entra in autostrada alle $11:07$ e procede alla velocità costante di $100 \;km/h$. Alle $11:15$ una 
+seconda automobile supera lo stesso casello e si avvia nella stessa direzione della prima con velocità 
+costante di $130 \; km/h$​. 
+
+1. Quanto distano le due macchine quando la seconda macchina entra in autostrada?
+2. A che distanza dal casello avviene il sorpasso?
+3. A che ora avviene il sorpasso?
+
+
+
+
+### ESERCIZIO 4.2 - Problemi sul moto e sulla velocità
+
+Risolvi i seguenti problemi.
+
+a) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di $40 \;Km/h$ mentre l’altra a $20 \;Km/h$. Se la distanza tra le due città è di $150 \;Km$ quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso?  
+
+b) Un viaggiatore impiega $12$ ore per un tragitto di andata e ritorno, con una velocità di $20 \;Km/h$ per l’andata e $30 \;Km/h$ per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
+
+c) Un postino che viaggia a $30 \;Km/h$ è in viaggio da $3$ ore. Un altro postino, inviato per raggiungerlo, viaggia a $50 \;Km/h$. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
+
+d) Una cisterna viene riempita da un primo rubinetto in $5$ ore. In quante ore viene riempita da un secondo rubinetto se i due rubinetti, aperti insieme, la riempiono in $4$ ore? (Indica con $x$ il numero di ore richiesto e determina la percentuale di cisterna che ogni rubinetto riesce a riempire ogni ora). [R. $20$ ore]
+
+
+
 ## UNITA' 5: Problemi sulla produttività del lavoro
 
 La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$.
@@ -443,73 +504,13 @@ Risolvi i seguenti problemi.
 a) In una fabbrica ci sono $2$ macchine, la prima produce $10$ pezzi all’ora, la seconda $7$ pezzi all’ora.
 Le due macchine hanno prodotto in tutto $191$ pezzi lavorando complessivamente $23$ ore. Determina il numero dei pezzi prodotti dall’una e dall’altra macchina.  
 
-b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\euro}\; 1300$. Poiché l’azienda aumenta la produzione, vengono assunti nuovi dipendenti pari al $14\%$ del personale e viene concesso un aumento di stipendio del $4\%$ a tutti. Se mensilmente l’azienda spende ora $231.192$ euro, quanti erano inizialmente i dipendenti? [R. $150$]
+b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\euro}\; 1300$. Poiché l’azienda aumenta la produzione, vengono assunti nuovi dipendenti pari al $14\%$ del personale e viene concesso un aumento di stipendio del $4\%$ a tutti. Se mensilmente l’azienda spende ora $231.192$ euro, quanti erano inizialmente i dipendenti? [R. $150$.
 
 
 
-## UNITA' 6: Problemi su moto e velocità
+## UNITA' 6: Problemi su interesse ed investimenti
 
-La velocità la misura della rapidità con la quale un fenomeno si manifesta o un processo si svolge. Se osserviamo il movimento di una automobile su una strada dritta, vediamo che questa percorre, in un certo tempo un certo spazio, ad esempio in $2$ ore percorre $100 \; Km$: possiamo dire che l'automobile ha una velocità di moto di $\dfrac{100}{2} = 50 \; Km/h$​. 
-
-La velocità di un oggetto che si muove è quindi misurata dal rapporto tra lo spazio che percorre ed il tempo impiegato a percorrerlo. 
-
-La formula che lega le tre quantità di cui stiamo parlando, cioè lo spazio percorso, indicato da $s$, il tempo impiegato a percorrerlo, indicato da $t$ e la velocità risultante $v$ è la seguente:
-$$
-v = \dfrac{s}{t}
-$$
-Questa formula ci dice che se conosciamo due delle tre quantità che figurano, è possibile calcolare la terza risolvendo una equazione. Vediamo alcuni esempi.
-
-#### ESEMPIO 1
-
-Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
-
-Dalla formula, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.
-
-#### ESEMPIO 2
-
-Uno studente deve percorrere in bicicletta una strada di $20 \; Km$. Se mantiene una velocità di $12 \; Km/h$​, quanto tempo dovrà pedalare?
-
-Dalla formula, esplicitando la $t$, ossia risolvendo come se $t$ fosse l'unica incognita, otteniamo $t = \dfrac{s}{v}$, cioè $t = \dfrac{20}{12} \longrightarrow 1,66 \;h$.
-
-#### ESEMPIO 3
-
-Nel 2009 l’atleta giamaicano Usain Bolt ha corso i 100 metri piani in 9,58 secondi. Quale è stata la sua velocità media in $Km/h$?
-
-Dalla formula otteniamo $v = \dfrac{s}{t}$, cioè $v = \dfrac{100}{9,58} \longrightarrow 10,44 \;m/s$. Per trasformarli in $Km/h$ al posto di $m$ sostituiamo $\dfrac{1}{1000}Km$ ed al posto di $s$ $\dfrac{1}{3600}h$, per cui $10,44 \;m/s \longrightarrow 10,44 \cdot \dfrac{\dfrac{1}{1000}}{\dfrac{1}{3600}} \longrightarrow 10,44 \cdot 3,6 = 37,584 \; Km/h$​.
-
-
-
-### ESERCIZIO 6.0 - Problemi sul moto e sulla velocità
-
-a) Due amici partono insieme per allenarsi in bicicletta e decidono di fare un giro della lunghezza di $60 \; Km$. Il primo si allena ogni giorno facendo $30 \; Km$ in un'ora e venti, mentre il secondo fa ogni giorno $20 \; Km$ in $50$ minuti. Chi completerà per primo il giro?
-
-b) Un’automobile entra in autostrada alle $11:07$ e procede alla velocità costante di $100 \;km/h$. Alle $11:15$ una 
-seconda automobile supera lo stesso casello e si avvia nella stessa direzione della prima con velocità 
-costante di $130 \; km/h$​. 
-
-1. Quanto distano le due macchine quando la seconda macchina entra in autostrada?
-2. A che distanza dal casello avviene il sorpasso?
-3. A che ora avviene il sorpasso?
-
-
-
-
-### ESERCIZIO 6.1 - Problemi sul moto e sulla velocità
-Risolvi i seguenti problemi.
-
-a) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di $40 \;Km/h$ mentre l’altra a $20 \;Km/h$. Se la distanza tra le due città è di $150 \;Km$ quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso?  
-
-b) Un viaggiatore impiega $12$ ore per un tragitto di andata e ritorno, con una velocità di $20 \;Km/h$ per l’andata e $30 \;Km/h$ per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
-
-c) Un postino che viaggia a $30 \;Km/h$ è in viaggio da $3$ ore. Un altro postino, inviato per raggiungerlo, viaggia a $50 \;Km/h$. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
-
-d) Una cisterna viene riempita da un primo rubinetto in $5$ ore. In quante ore viene riempita da un secondo rubinetto se i due rubinetti, aperti insieme, la riempiono in $4$ ore? (Indica con $x$ il numero di ore richiesto e determina la percentuale di cisterna che ogni rubinetto riesce a riempire ogni ora). [R. $20$ ore]
-
-
-
-## UNITA' 7: Problemi su interesse ed investimenti
-
-### ESERCIZIO 7.1 - Problemi su interesse ed investimenti I
+### ESERCIZIO 6.1 - Problemi su interesse ed investimenti I
 a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplificala nelle situazioni seguenti.
 
 1. $2.000$ € al $5\%$; &emsp; [R. $\text{100€}$]
@@ -520,7 +521,7 @@ a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da o
 
 
 
-### ESERCIZIO 7.2 - Problemi su interesse ed investimenti II
+### ESERCIZIO 6.2 - Problemi su interesse ed investimenti II
 Risolvi i seguenti problemi.
 
 a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di $5$ a $3$. La prima somma è stata investita al tasso del $4\%$ e la seconda al tasso del $2\%$. L’interesse annuale della prima eccede quello della seconda di $112$ euro. Quali sono stati i due investimenti? [R. $4.000$, $2.400$]  
@@ -531,7 +532,7 @@ c) Il signor Black ha investito $3.000$ euro al tasso del $3\%$ e $1.000$ euro a
 
 
 
-## UNITA' 8: Problemi su monete e miscele
+## UNITA' 7: Problemi su monete e miscele
 
 ### ESERCIZIO 8.1 - Problemi sulle monete
 Trova il valore complessivo di monete e francobolli nei casi seguenti:
@@ -544,7 +545,7 @@ c) q monete da 25 centesimi 7 centesimi (in centesimi).
 
 
 
-### ESERCIZIO 8.2 - Problemi sulle miscele
+### ESERCIZIO 7.2 - Problemi sulle miscele
 a) Scrivi l’espressione del valore totale della merce in euro al chilo e semplifica (ricorda di trasformare tutte le quantità nella stessa unità di misura).
 
 1. 3 Kg di te al costo di un euro e cinquanta l’etto;
@@ -564,7 +565,7 @@ La miscela di 30 Kg ha un valore di 1,02 euro al Kg. Quanti Kg di ciascun caffè
 
 
 
-### ESERCIZIO 8.3 - Problemi vari
+### ESERCIZIO 7.3 - Problemi vari
 Risolvi i seguenti problemi.
 
 a) Un mattone pesa un chilo più mezzo mattone: quanto pesa il mattone?  

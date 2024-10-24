@@ -13,10 +13,11 @@ Comunemente le frazioni si usano in almeno tre modi. Il primo, forse il più fre
 
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
+- Quanti minuti durano tre quarti d'ora?
 - Quanto pesa un quarto di torta da $800$ grammi?
 - Quanto vale mezzo euro (in centesimi)?
 
-Per trovare il risultato degli esempi si divide la quantità intera per il denominatore e si moltiplica il risultato per il numeratore della frazione: un quarto di torta pesa $800 : 4 \cdot 1 \longrightarrow 200$ grammi.
+Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti" come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.
 
 Il secondo uso che vediamo è quello delle frazioni come divisioni. Una frazione è una ***divisione che non eseguiamo*** ma che teniamo così com'è. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato del risultato è quante volte il denominatore "entra" nel numeratore, oppure per quanto deve essere moltiplicato per avere il numeratore: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
@@ -28,7 +29,7 @@ $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 Il terzo uso che si fa delle frazioni è per misurare una quantità, e qui interviene l'unità di misura. Facciamo due esempi.
 
-#### Primo Esempio
+#### Esempio 1
 
 In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno è atteso con novanta minuti di ritardo". Che ritardo ha il treno?
 
@@ -36,9 +37,9 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
 
 Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
-Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti: facendo la divisione si vede $1,5$ volte. 
+Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti: facendo la divisione si vede $1,5$ volte. $ \bullet$
 
-#### Secondo Esempio
+#### Esempio 2
 
 La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
 
@@ -48,7 +49,7 @@ La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quan
 Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
 Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
 
-Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.
+Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. $ \bullet$
 
 
 
@@ -277,7 +278,7 @@ d) $-\dfrac{8}{3}+5-\dfrac{2}{5}$;     $12-\dfrac{1}{3}-\dfrac{1}{9}$.
 a) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $3-\dfrac{1}{2}+\left(\dfrac{3}{4}+\left(\dfrac{1}{5}-\dfrac{6}{10}\right)\right)-1$; 				  $[R. \dfrac{37}{20}]$  
-2. $\dfrac{1}{10}-\dfrac{3}{5}+\left(\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right)-\left(\dfrac{6}{5}+3\right);$         $[R.-1]$  
+2. $\dfrac{1}{10}-\dfrac{3}{5}+\left(\dfrac{2}{5}-\left(6-7-\dfrac{2}{10}\right)\right)-\left(\dfrac{6}{5}+3\right);$         $[R.-\dfrac{31}{10}]$  
 
 b) Calcola il valore delle seguenti espressioni.  
 
@@ -330,9 +331,9 @@ Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ lo moltipl
 
 a) $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ \dfrac{1- 6}{5}}$ ;
 
-b) $\dfrac{\dfrac{2}{3}}{ \dfrac{-7}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ -\dfrac{7}{5}}$;
+b) $\dfrac{\dfrac{2}{3}}{ \dfrac{-5}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ -\dfrac{5}{5}}$;
 
-c) $\dfrac{2}{3} \cdot \left(-\dfrac{5}{7}\right) \longrightarrow -\dfrac{10}{21}$.
+c) $\dfrac{2}{3} \cdot \left(-\dfrac{5}{5}\right) \longrightarrow -\dfrac{2}{3}$.
 
 L'espressione, in notazione lineare, è equivalente a $(2:3) : ((1 - 2 \cdot 3):5)$.
 
@@ -667,7 +668,7 @@ a) Calcola la percentuale nei casi seguenti.
 
 1. In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%];
 2. Una automobile incrementa la sua velocità da 80 Km/h a 100 Km/h. Di che percentuale è salita la velocità?
-3. Se durante i saldi di fine stagione spendo $\text{35} \texteuro$ 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?
+3. Se durante i saldi di fine stagione spendo $\text{35} \texteuro$ 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?
 4. Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
 b) Calcola le quantità assolute richieste nei casi seguenti.
