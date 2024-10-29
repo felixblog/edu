@@ -233,17 +233,29 @@ La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono *
 
 #### ESEMPIO
 
-Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $-8 \cdot^{(1)} 12 \overset{\downarrow(2)}{\phantom{|}} + 5 \longrightarrow 96 \overset{\downarrow(1)}{\phantom{|}} +5 \longrightarrow 101$.
+Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora: $-8 \cdot^{(1)} 12 \overset{\downarrow(2)}{\phantom{|}} + 5 \longrightarrow 96 \overset{\downarrow(1)}{\phantom{|}} +5 \longrightarrow 101$.
 
 Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica  e il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
 
-La sequenza delle operazioni sarà allora:   $5 \overset{\downarrow(2)}{\phantom{|}}-8 ·^{(1)} 12 \longrightarrow 5 \overset{\downarrow(1)}{\phantom{|}} -96 \longrightarrow 101$.
+La sequenza delle operazioni sarà allora:
+
+a) $5 \overset{\downarrow(2)}{\phantom{|}}-8 ·^{(1)} 12$
+
+b) $ 5 \overset{\downarrow(1)}{\phantom{|}} -96$
+
+c) $ 101$
 
 #### Uso delle parentesi e priorità
 
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati ***prioritariamente*** nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (-12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $-12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $-12$ è dentro insieme alla somma algebrica). La prima operazione che è possibile eseguire è quindi la somma algebrica. La sequenza delle operazioni da eseguire sarà:  $8 \cdot^{(2)} (-12 \overset{\downarrow(1)}{\phantom{|}} +5) \longrightarrow 8 \cdot^{(1)} (-7) \longrightarrow -56$.
+Nell'espressione $8 · (-12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $-12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $-12$ è dentro insieme alla somma algebrica). La prima operazione che è possibile eseguire è quindi la somma algebrica. La sequenza delle operazioni da eseguire sarà:
+
+a) $8 \cdot^{(2)} (-12 \overset{\downarrow(1)}{\phantom{|}} +5)$
+
+b) $8 \cdot^{(1)} (-7)$
+
+c) $-56$.
 
 Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti e divisioni da un lato e somme e sottrazioni dall'altro, vincono i prodotti e le divisioni, mentre se c'è una sequenza di prodotti e divisioni oppure una sequenza di somme e sottrazioni si esegue sempre quella che viene prima leggendo da sinistra a destra e le successive si applicano al risultato della precedente.
 
@@ -271,7 +283,7 @@ $-5 -1 \cdot (10 - 15) \longrightarrow$
 
 #### Eliminazione delle parentesi
 
-Durante il calcolo delle espressioni, le parentesi scompaiono man mano che le operazioni al loro interno vengono eseguite. Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, conviene **calcolare la potenza e mettere il risultato dentro la parentesi senza toglierla**, come nel passaggio da a) a b) dell'esempio seguente:
+Durante il calcolo delle espressioni, le parentesi scompaiono man mano che le operazioni al loro interno vengono eseguite. Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, conviene **calcolare la potenza e mettere il risultato dentro la parentesi senza toglierla**, come nel passaggio da b) a c) dell'esempio seguente:
 
 a) $-5 -1 \cdot (10 - 15)^3$
 
@@ -283,7 +295,7 @@ d) $-5 + 125$
 
 e) $+120$
 
-Le parentesi scompaiono quando in esse è presente solo un numero (nessuna operazione) e si esegue **la prima moltiplicazione o divisione al di fuori della parentesi stessa**, come nell'esempio precedente dal passaggio da c) a d) o nell'esempio seguente.
+Le parentesi scompaiono quando in esse è presente solo un numero (nessuna operazione) e si esegue **la prima moltiplicazione o divisione al di fuori della parentesi stessa**, come nell'esempio precedente, dal passaggio da c) a d), o nell'esempio seguente nel passaggio da b) a c).
 
 a) $-5 + (10 - 15):5$
 
