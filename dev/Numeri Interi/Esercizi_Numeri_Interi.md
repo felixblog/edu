@@ -235,7 +235,7 @@ La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono *
 
 Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora: $-8 \cdot^{(1)} 12 \overset{\downarrow(2)}{\phantom{|}} + 5 \longrightarrow 96 \overset{\downarrow(1)}{\phantom{|}} +5 \longrightarrow 101$.
 
-Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica  e il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
+Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica tra $+5$ e $-8$ ed il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
 
 La sequenza delle operazioni sarà allora:
 
@@ -249,7 +249,9 @@ c) $ 101$
 
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati ***prioritariamente*** nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (-12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $-12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $-12$ è dentro insieme alla somma algebrica). La prima operazione che è possibile eseguire è quindi la somma algebrica. La sequenza delle operazioni da eseguire sarà:
+Nell'espressione $8 · (-12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $-12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $-12$ è dentro insieme alla somma algebrica). 
+
+La prima operazione che è possibile eseguire è quindi la somma algebrica. La sequenza delle operazioni da eseguire sarà:
 
 a) $8 \cdot^{(2)} (-12 \overset{\downarrow(1)}{\phantom{|}} +5)$
 
@@ -645,7 +647,7 @@ b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice
 
 1. Inserisci l'espressione letterale, dagli un nome e la lettera da sostituire con l'istruzione seguente:
 
-   $f(a) := a^2;$&#9166;
+   $f(a) := a^2$  &#9166;
 
 2. Seleziona "Tabella" e nella prima colonna inserisci i valori $0, 1, -1, 2, -2$;
 

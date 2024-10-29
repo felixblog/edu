@@ -79,15 +79,11 @@ c) $16 -^{(1)} 8 -^{(2)} 4 -^{(3)} 2 -^{(4)} 1\longrightarrow$
 
 Se vi sono parentesi, i numeri dentro le parentesi devono essere utilizzati prioritariamente con le operazioni all'interno delle parentesi stesse, quindi **le operazioni all'interno delle parentesi devono essere eseguite prima di quelle esterne che le circondano (limitrofe)**.
 
-#### ESEMPIO
-
-
-
 #### Quante operazioni in un passaggio?
 
 L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
 
-Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio.
+Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio.
 
 #### ESEMPIO 1
 
@@ -115,7 +111,7 @@ E' quindi possibile eseguire in un passaggio tutte le operazioni, compatibilment
 
 a) $((\underbracket{2·4}_\text{(1)} + 7) + (2 + \underbracket{8 : 2}_\text{(2)})·5) − (\underbracket{6 + 2}_\text{(3)})·5;$
 
-b) $((\underbracket{8 + 7}_\text{(1)}) + (\underbracket{2+4}_\text{(2)}) \cdot 5) - \underbracket{(8) \cdot 5}_\text{(3)}$
+b) $((\underbracket{8 + 7}_\text{(1)}) + (\underbracket{2+4}_\text{(2)}) \cdot 5) - \underbracket{(8) \cdot 5}_\text{(3)}$
 
 c) $((15) + \underbracket{ (6) \cdot 5}_\text{(1)}) - 40$
 
