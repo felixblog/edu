@@ -111,13 +111,15 @@ E' quindi possibile eseguire in un passaggio tutte le operazioni, compatibilment
 
 a) $((\underbracket{2·4}_\text{(1)} + 7) + (2 + \underbracket{8 : 2}_\text{(2)})·5) − (\underbracket{6 + 2}_\text{(3)})·5;$
 
-b) $((\underbracket{8 + 7}_\text{(1)}) + (\underbracket{2+4}_\text{(2)}) \cdot 5) - \underbracket{(8) \cdot 5}_\text{(3)}$
+b) $((\underbracket{\overset{-}{8} + 7}_\text{(1)}) + (\underbracket{2+\overset{-}{4}}_\text{(2)}) \cdot 5) - \underbracket{(\overset{-}{8}) \cdot 5}_\text{(3)}$
 
-c) $((15) + \underbracket{ (6) \cdot 5}_\text{(1)}) - 40$
+c) $((\overset{-}{15}) + \underbracket{ (\overset{-}{6}) \cdot 5}_\text{(1)}) - \overset{-}{40}$
 
-d) $(45) - 40$
+d) $(\underbracket{15 + \overset{-}{30}}_\text{(1)}) - 40$
 
-e) $5$
+f) $(\overset{-}{45}) - 40$
+
+g) $5$
 
 
 
