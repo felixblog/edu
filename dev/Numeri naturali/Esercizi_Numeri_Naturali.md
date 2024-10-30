@@ -91,7 +91,7 @@ Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali e
 
 a) $\underbracket{8 -^{(2)}  12 :^{(1)} 3}_\text{(1)} + 2$
 
-b) $4 + 2$
+b) $\overset{-}{4} + 2$
 
 c) $6$
 
@@ -99,9 +99,9 @@ che riutilizza il risultato di $12:3$ nella differenza con $8$ nello stesso pass
 
 a) $8 - ^{(2)} \underbracket{12 :^{(1)} 3}_\text{(1)} + 2$
 
-b) $\underbracket{8 -^{(2)} 4}_\text{(1)} + 2$
+b) $\underbracket{8 -^{(2)} \overset{-}{4}}_\text{(1)} + 2$
 
-c) $4 + 2$
+c) $\overset{-}{4} + 2$
 
 d) $6$
 
