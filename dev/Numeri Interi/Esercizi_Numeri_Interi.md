@@ -233,15 +233,21 @@ La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono *
 
 #### ESEMPIO
 
-Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora: $-8 \cdot^{(1)} 12 \overset{\downarrow(2)}{\phantom{|}} + 5 \longrightarrow 96 \overset{\downarrow(1)}{\phantom{|}} +5 \longrightarrow 101$.
+Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:
+
+a) $\underbracket{-8 \overset{(1)}{\cdot} 12}_\text{(1)} \overset{\downarrow(2)}{\phantom{,}} + 5$
+
+b) $\overset{*}{96} \overset{\downarrow(1)}{\phantom{,}} +5$
+
+c) $101$
 
 Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica tra $+5$ e $-8$ ed il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
 
 La sequenza delle operazioni sarà allora:
 
-a) $5 \overset{\downarrow(2)}{\phantom{|}}-8 ·^{(1)} 12$
+a) $5 \overset{\downarrow(2)}{\phantom{,}} \underbracket{-8 \overset{(1)}{\cdot} 12}_\text{(1)}$
 
-b) $ 5 \overset{\downarrow(1)}{\phantom{|}} -96$
+b) $ 5 \overset{\downarrow(1)}{\phantom{|}} -\overset{*}{96}$
 
 c) $ 101$
 
@@ -253,9 +259,9 @@ Nell'espressione $8 · (-12 + 5)$, analoga alla precedente ma con presenza di pa
 
 La prima operazione che è possibile eseguire è quindi la somma algebrica. La sequenza delle operazioni da eseguire sarà:
 
-a) $8 \cdot^{(2)} (-12 \overset{\downarrow(1)}{\phantom{|}} +5)$
+a) $8 \overset{(2)}\cdot (\underbracket{-12 \overset{\downarrow(1)}{\phantom{,}} +5}_\text{(1)})$
 
-b) $8 \cdot^{(1)} (-7)$
+b) $8 \overset{(1)}\cdot (-\overset{*}7)$
 
 c) $-56$.
 
@@ -275,23 +281,23 @@ $$
 $$
 Come si vede i numeri dell'espressione sono quattro e le operazioni sono tre. Il calcolo è il seguente:
 
-$-5 -1 \cdot (10 - 15) \longrightarrow$
+a) $-5 -1 \cdot (\underbracket{10 - 15})$
 
-​	$-5 -1 \cdot (-5) \longrightarrow$ 
+b) $-5 \underbracket{-1 \cdot (-\overset{*}5)}$ 
 
-​		$-5 +5 \longrightarrow$
+c) $-5 +\overset{*}5$
 
-​			$0$.
+d) $0$.
 
 #### Eliminazione delle parentesi
 
 Durante il calcolo delle espressioni, le parentesi scompaiono man mano che le operazioni al loro interno vengono eseguite. Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, conviene **calcolare la potenza e mettere il risultato dentro la parentesi senza toglierla**, come nel passaggio da b) a c) dell'esempio seguente:
 
-a) $-5 -1 \cdot (10 - 15)^3$
+a) $-5 -1 \cdot (\underbracket{10 - 15})^3$
 
-b) $-5 -1 \cdot (-5)^3$
+b) $-5 -1 \cdot \underbracket{(-5)^3}$
 
-c) $-5 -1 \cdot (-125)$
+c) $-5 \underbracket{-1 \cdot (-\overset{*}{125}})$
 
 d) $-5 + 125$
 
@@ -299,13 +305,13 @@ e) $+120$
 
 Le parentesi scompaiono quando in esse è presente solo un numero (nessuna operazione) e si esegue **la prima moltiplicazione o divisione al di fuori della parentesi stessa**, come nell'esempio precedente, dal passaggio da c) a d), o nell'esempio seguente nel passaggio da b) a c).
 
-a) $-5 + (10 - 15):5$
+a) $-5 + (\underbracket{10 - 15}):5$
 
-b) $-5 + (-5):5$
+b) $-5 \underbracket{+ (-\overset{*}5)}:5$
 
-c) $-5 -5:5$
+c) $-5 \underbracket{-\overset{*}5:5}$
 
-d) $-5 -1$
+d) $-5 -\overset{*}1$
 
 e) $-6$
 
@@ -647,7 +653,7 @@ b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice
 
 1. Inserisci l'espressione letterale, dagli un nome e la lettera da sostituire con l'istruzione seguente:
 
-   $f(a) := a^2$  &#9166;
+   $f(a) := a^2$  &#9166;
 
 2. Seleziona "Tabella" e nella prima colonna inserisci i valori $0, 1, -1, 2, -2$;
 

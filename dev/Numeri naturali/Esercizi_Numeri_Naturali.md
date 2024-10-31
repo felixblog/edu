@@ -35,45 +35,45 @@ La sequenza delle operazioni sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \longright
 
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati ***prioritariamente*** nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà:  $8 \cdot^{(2)} (12 +^{(1)} 5) \longrightarrow 8 \cdot^{(1)} (17) \longrightarrow 136$.
+Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà:  $8 \overset{(2)}\cdot (12 \overset{(1)}+ 5) \longrightarrow 8 \overset{(1)}\cdot (\overset{*}{17}) \longrightarrow 136$.	(Il risultato dell'operazione è indicato con un asterisco sopra il numero).
 
 Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti e divisioni da un lato e somme e sottrazioni dall'altro, vincono i prodotti e le divisioni, mentre se c'è una sequenza di prodotti e divisioni oppure una sequenza di somme e sottrazioni si esegue sempre quella che viene prima leggendo da sinistra a destra e le successive si applicano al risultato della precedente. 
 
 #### ESEMPIO 1
 
-a) $8 \cdot^{(1)} 12 : ^{(2)} 3 \longrightarrow$
+a) $8 \overset{(1)}\cdot 12 \overset{(2)}: 3 \longrightarrow$
 
-​		$96 :^{(1)} 3 \longrightarrow 32$.
+​		$\overset{*}{96} : 3 \longrightarrow 32$.
 
-b) $12 :^{(1)} 3 \cdot ^{(2)} 8 \longrightarrow$
+b) $12 \overset{(1)}: 3 \overset{(2)}\cdot 8 \longrightarrow$
 
-​		$ 4 :^{(1)} 8 \longrightarrow 32$.
+​		$ \overset{*}{4} \overset{(1)}: 8 \longrightarrow 32$.
 
-c) $12 - ^{(1)} 8 + ^{(2)} 1 \longrightarrow$
+c) $12 \overset{(1)}- 8 \overset{(2)}+ 1 \longrightarrow$
 
-​		$ 4 +^{(1)} 1 \longrightarrow 5$.
+​		$ \overset{*}{4} \overset{(1)}+ 1 \longrightarrow 5$.
 
-d) $8 - ^{(2)} 12 : ^{(1)} 3 \longrightarrow$
+d) $8 \overset{(2)}- 12 \overset{(1)}: 3 \longrightarrow$
 
-​		$ 8 -^{(1)} 4 \longrightarrow 4$.
+​		$ 8 \overset{(1)}- \overset{*}{4} \longrightarrow 4$.
 
 #### ESEMPIO 2 II
 
-a) $8 :^{(1)} 4 : ^{(2)} 2 \longrightarrow 2 :^{(1)} 2 \longrightarrow 1$.
+a) $8 \overset{(1)}: 4 \overset{(2)}: 2 \longrightarrow \overset{*}{2} \overset{(1)}: 2 \longrightarrow 1$.
 
-b) $4 \cdot^{(1)} 3 :^{(2)} 3 : 2 \longrightarrow$
+b) $4 \overset{(1)}\cdot 3 \overset{(2)}: 3 \overset{(3)}: 2 \longrightarrow$
 
-​		$ 12 :^{(1)} 3 :^{(2)} 2 \longrightarrow$
+​		$ \overset{*}12 \overset{(1)}: 3 \overset{(2)}: 2 \longrightarrow$
 
-​			$ 4 :^{(1)} 2 \longrightarrow 2$.
+​			$ \overset{*}4 \overset{(1)}: 2 \longrightarrow 2$.
 
-c) $16 -^{(1)} 8 -^{(2)} 4 -^{(3)} 2 -^{(4)} 1\longrightarrow$
+c) $16 \overset{(1)}- 8 \overset{(2)}- 4 \overset{(3)}- 2 \overset{(4)}- 1\longrightarrow$
 
-​		$8 -^{(1)} 4 -^{(2)} 2 -^{(3)} 1 \longrightarrow$
+​		$\overset{*}8 \overset{(1)}- 4 \overset{(2)}- 2 \overset{(3)}- 1 \longrightarrow$
 
-​			$4 -^{(1)} 2 -^{(2)} 1 \longrightarrow$
+​			$\overset{*}4 \overset{(1)}- 2 \overset{(2)}- 1 \longrightarrow$
 
-​				$2 - 1 \longrightarrow 1$.
+​				$\overset{*}2 - 1 \longrightarrow 1$.
 
 
 
@@ -83,25 +83,25 @@ Se vi sono parentesi, i numeri dentro le parentesi devono essere utilizzati prio
 
 L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
 
-Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio.
+Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio. Vedere l'esempio seguente, dove il risultato del calcolo è indicato con un asterisco sul numero.
 
 #### ESEMPIO 1
 
 **NON** fare il calcolo seguente
 
-a) $\underbracket{8 -^{(2)}  12 :^{(1)} 3}_\text{(1)} + 2$
+a) $\underbracket{8 \overset{(2)}-  12 \overset{(1)}: 3}_\text{(1)} + 2$
 
-b) $\overset{-}{4} + 2$
+b) $\overset{*}{4} + 2$
 
 c) $6$
 
 che riutilizza il risultato di $12:3$ nella differenza con $8$ nello stesso passaggio da a) a b), ma il seguente:
 
-a) $8 - ^{(2)} \underbracket{12 :^{(1)} 3}_\text{(1)} + 2$
+a) $8 \overset{(2)}- \underbracket{12 \overset{(1)}: 3}_\text{(1)} + 2$
 
-b) $\underbracket{8 -^{(2)} \overset{-}{4}}_\text{(1)} + 2$
+b) $\underbracket{8 \overset{(1)}- \overset{*}{4}}_\text{(1)} + 2$
 
-c) $\overset{-}{4} + 2$
+c) $\overset{*}{4} + 2$
 
 d) $6$
 
@@ -111,13 +111,13 @@ E' quindi possibile eseguire in un passaggio tutte le operazioni, compatibilment
 
 a) $((\underbracket{2·4}_\text{(1)} + 7) + (2 + \underbracket{8 : 2}_\text{(2)})·5) − (\underbracket{6 + 2}_\text{(3)})·5;$
 
-b) $((\underbracket{\overset{-}{8} + 7}_\text{(1)}) + (\underbracket{2+\overset{-}{4}}_\text{(2)}) \cdot 5) - \underbracket{(\overset{-}{8}) \cdot 5}_\text{(3)}$
+b) $((\underbracket{\overset{*}{8} + 7}_\text{(1)}) + (\underbracket{2+\overset{*}{4}}_\text{(2)}) \cdot 5) - \underbracket{(\overset{*}{8}) \cdot 5}_\text{(3)}$
 
-c) $((\overset{-}{15}) + \underbracket{ (\overset{-}{6}) \cdot 5}_\text{(1)}) - \overset{-}{40}$
+c) $((\overset{*}{15}) + \underbracket{ (\overset{*}{6}) \cdot 5}_\text{(1)}) - \overset{*}{40}$
 
-d) $(\underbracket{15 + \overset{-}{30}}_\text{(1)}) - 40$
+d) $(\underbracket{15 + \overset{*}{30}}_\text{(1)}) - 40$
 
-f) $(\overset{-}{45}) - 40$
+f) $(\overset{*}{45}) - 40$
 
 g) $5$
 
