@@ -25,55 +25,55 @@ Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due nume
 
 #### ESEMPIO
 
-Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $8 \cdot^{(1)} 12 +^{(2)} 5 \longrightarrow 96 +^{(1)} 5 \longrightarrow 101$.
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
 
 Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
 
-La sequenza delle operazioni sarà allora:   $5 +^{(2)} 8 ·^{(1)} 12 \longrightarrow 5 +^{(1)} 96 \longrightarrow 101$.
+La sequenza delle operazioni sarà allora:   $5 \overset{(b)}+ 8 \overset{(a)}\cdot 12 \longrightarrow 5 \overset{(b)}+ 96 \longrightarrow 101$.
 
 #### Uso delle parentesi e priorità
 
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati ***prioritariamente*** nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà:  $8 \overset{(2)}\cdot (12 \overset{(1)}+ 5) \longrightarrow 8 \overset{(1)}\cdot (\overset{*}{17}) \longrightarrow 136$.	(Il risultato dell'operazione è indicato con un asterisco sopra il numero).
+Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà:  $8 \overset{(b)}\cdot (12 \overset{(a)}+ 5) \longrightarrow 8 \overset{(b)}\cdot (\overset{(a)}{17}) \longrightarrow 136$.	(Il risultato dell'operazione è indicato con la stessa lettera sopra il numero).
 
 Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti e divisioni da un lato e somme e sottrazioni dall'altro, vincono i prodotti e le divisioni, mentre se c'è una sequenza di prodotti e divisioni oppure una sequenza di somme e sottrazioni si esegue sempre quella che viene prima leggendo da sinistra a destra e le successive si applicano al risultato della precedente. 
 
 #### ESEMPIO 1
 
-a) $8 \overset{(1)}\cdot 12 \overset{(2)}: 3 \longrightarrow$
+a) $8 \overset{(a)}\cdot 12 \overset{(b)}: 3 \longrightarrow$
 
-​		$\overset{*}{96} : 3 \longrightarrow 32$.
+​		$\overset{(a)}{96} \overset{(b)}: 3 \longrightarrow 32$.
 
-b) $12 \overset{(1)}: 3 \overset{(2)}\cdot 8 \longrightarrow$
+b) $12 \overset{(a)}: 3 \overset{(b)}\cdot 8 \longrightarrow$
 
-​		$ \overset{*}{4} \overset{(1)}: 8 \longrightarrow 32$.
+​		$ \overset{(a)}{4} \overset{(b)}: 8 \longrightarrow 32$.
 
-c) $12 \overset{(1)}- 8 \overset{(2)}+ 1 \longrightarrow$
+c) $12 \overset{(a)}- 8 \overset{(b)}+ 1 \longrightarrow$
 
-​		$ \overset{*}{4} \overset{(1)}+ 1 \longrightarrow 5$.
+​		$ \overset{(a)}{4} \overset{(b)}+ 1 \longrightarrow 5$.
 
-d) $8 \overset{(2)}- 12 \overset{(1)}: 3 \longrightarrow$
+d) $8 \overset{(b)}- 12 \overset{(a)}: 3 \longrightarrow$
 
-​		$ 8 \overset{(1)}- \overset{*}{4} \longrightarrow 4$.
+​		$ 8 \overset{(b)}- \overset{(a)}{4} \longrightarrow 4$.
 
 #### ESEMPIO 2 II
 
-a) $8 \overset{(1)}: 4 \overset{(2)}: 2 \longrightarrow \overset{*}{2} \overset{(1)}: 2 \longrightarrow 1$.
+a) $8 \overset{(a)}: 4 \overset{(b)}: 2 \longrightarrow \overset{(a)}{2} \overset{(b)}: 2 \longrightarrow 1$.
 
-b) $4 \overset{(1)}\cdot 3 \overset{(2)}: 3 \overset{(3)}: 2 \longrightarrow$
+b) $4 \overset{(a)}\cdot 3 \overset{(b)}: 3 \overset{(c)}: 2 \longrightarrow$
 
-​		$ \overset{*}12 \overset{(1)}: 3 \overset{(2)}: 2 \longrightarrow$
+​		$ \overset{(a)}{12} \overset{(b)}: 3 \overset{(c)}: 2 \longrightarrow$
 
-​			$ \overset{*}4 \overset{(1)}: 2 \longrightarrow 2$.
+​			$ \overset{(b)}4 \overset{(c)}: 2 \longrightarrow 2$.
 
-c) $16 \overset{(1)}- 8 \overset{(2)}- 4 \overset{(3)}- 2 \overset{(4)}- 1\longrightarrow$
+c) $16 \overset{(a)}- 8 \overset{(b)}- 4 \overset{(c)}- 2 \overset{(d)}- 1\longrightarrow$
 
-​		$\overset{*}8 \overset{(1)}- 4 \overset{(2)}- 2 \overset{(3)}- 1 \longrightarrow$
+​		$\overset{(a)}8 \overset{(b)}- 4 \overset{(c)}- 2 \overset{(d)}- 1 \longrightarrow$
 
-​			$\overset{*}4 \overset{(1)}- 2 \overset{(2)}- 1 \longrightarrow$
+​			$\overset{(b)}4 \overset{(c)}- 2 \overset{(d)}- 1 \longrightarrow$
 
-​				$\overset{*}2 - 1 \longrightarrow 1$.
+​				$\overset{(c)}2 - 1 \longrightarrow 1$.
 
 
 
@@ -89,19 +89,19 @@ Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali e
 
 **NON** fare il calcolo seguente
 
-a) $\underbracket{8 \overset{(2)}-  12 \overset{(1)}: 3}_\text{(1)} + 2$
+a) $\underbracket{8 \overset{(b)}-  12 \overset{(a)}: 3}_\text{(*)} + 2$
 
-b) $\overset{*}{4} + 2$
+b) $\overset{(*)}{4} + 2$
 
 c) $6$
 
 che riutilizza il risultato di $12:3$ nella differenza con $8$ nello stesso passaggio da a) a b), ma il seguente:
 
-a) $8 \overset{(2)}- \underbracket{12 \overset{(1)}: 3}_\text{(1)} + 2$
+a) $8 \overset{(b)}- \underbracket{12 \overset{(a)}: 3}_\text{(*)} + 2$
 
-b) $\underbracket{8 \overset{(1)}- \overset{*}{4}}_\text{(1)} + 2$
+b) $\underbracket{8 \overset{(b)}- \overset{(*)}{4}}_\text{(*)} + 2$
 
-c) $\overset{*}{4} + 2$
+c) $\overset{(*)}{4} + 2$
 
 d) $6$
 
@@ -109,13 +109,13 @@ E' quindi possibile eseguire in un passaggio tutte le operazioni, compatibilment
 
 #### ESEMPIO 2
 
-a) $((\underbracket{2·4}_\text{(1)} + 7) + (2 + \underbracket{8 : 2}_\text{(2)})·5) − (\underbracket{6 + 2}_\text{(3)})·5;$
+a) $((\underbracket{2·4}_\text{(*)} + 7) + (2 + \underbracket{8 : 2}_\text{(**)})·5) − (\underbracket{6 + 2}_\text{(***)})·5;$
 
-b) $((\underbracket{\overset{*}{8} + 7}_\text{(1)}) + (\underbracket{2+\overset{*}{4}}_\text{(2)}) \cdot 5) - \underbracket{(\overset{*}{8}) \cdot 5}_\text{(3)}$
+b) $((\underbracket{\overset{*}{8} + 7}_\text{(*)}) + (\underbracket{2+\overset{**}{4}}_\text{(**)}) \cdot 5) - \underbracket{(\overset{***}{8}) \cdot 5}_\text{(***)}$
 
-c) $((\overset{*}{15}) + \underbracket{ (\overset{*}{6}) \cdot 5}_\text{(1)}) - \overset{*}{40}$
+c) $((\overset{*}{15}) + \underbracket{ (\overset{**}{6}) \cdot 5}_\text{(*)}) - \overset{***}{40}$
 
-d) $(\underbracket{15 + \overset{*}{30}}_\text{(1)}) - 40$
+d) $(\underbracket{15 + \overset{*}{30}}_\text{(*)}) - 40$
 
 f) $(\overset{*}{45}) - 40$
 
