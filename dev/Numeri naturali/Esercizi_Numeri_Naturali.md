@@ -57,7 +57,7 @@ d) $8 \overset{(b)}- 12 \overset{(a)}: 3 \longrightarrow$
 
 ​		$ 8 \overset{(b)}- \overset{(a)}{4} \longrightarrow 4$.
 
-#### ESEMPIO 2 II
+#### ESEMPIO 2
 
 a) $8 \overset{(a)}: 4 \overset{(b)}: 2 \longrightarrow \overset{(a)}{2} \overset{(b)}: 2 \longrightarrow 1$.
 
@@ -89,19 +89,19 @@ Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali e
 
 **NON** fare il calcolo seguente
 
-a) $\underbracket{8 \overset{(b)}-  12 \overset{(a)}: 3}_\text{(*)} + 2$
+a) $\underbracket{8 \overset{(b)}-  12 \overset{(a)}: 3}_\text{*} + 2$
 
-b) $\overset{(*)}{4} + 2$
+b) $\overset{*}{4} + 2$
 
 c) $6$
 
 che riutilizza il risultato di $12:3$ nella differenza con $8$ nello stesso passaggio da a) a b), ma il seguente:
 
-a) $8 \overset{(b)}- \underbracket{12 \overset{(a)}: 3}_\text{(*)} + 2$
+a) $8 \overset{(b)}- \underbracket{12 \overset{(a)}: 3}_\text{*} + 2$
 
-b) $\underbracket{8 \overset{(b)}- \overset{(*)}{4}}_\text{(*)} + 2$
+b) $\underbracket{8 \overset{(b)}- \overset{*}{4}}_\text{x} + 2$
 
-c) $\overset{(*)}{4} + 2$
+c) $\overset{\text{x}}{4} + 2$
 
 d) $6$
 
@@ -109,15 +109,15 @@ E' quindi possibile eseguire in un passaggio tutte le operazioni, compatibilment
 
 #### ESEMPIO 2
 
-a) $((\underbracket{2·4}_\text{(*)} + 7) + (2 + \underbracket{8 : 2}_\text{(**)})·5) − (\underbracket{6 + 2}_\text{(***)})·5;$
+a) $((\underbracket{2·4}_\text{*} + 7) + (2 + \underbracket{8 : 2}_\text{**})·5) − (\underbracket{6 + 2}_\text{***})·5;$
 
-b) $((\underbracket{\overset{*}{8} + 7}_\text{(*)}) + (\underbracket{2+\overset{**}{4}}_\text{(**)}) \cdot 5) - \underbracket{(\overset{***}{8}) \cdot 5}_\text{(***)}$
+b) $((\underbracket{\overset{*}{8} + 7}_\text{x}) + (\underbracket{2+\overset{**}{4}}_\text{xx}) \cdot 5) - \underbracket{(\overset{***}{8}) \cdot 5}_\text{xxx}$
 
-c) $((\overset{*}{15}) + \underbracket{ (\overset{**}{6}) \cdot 5}_\text{(*)}) - \overset{***}{40}$
+c) $((\overset{\text{x}}{15}) + \underbracket{ (\overset{\text{xx}}{6}) \cdot 5}_\text{*}) - \overset{\text{xxx}}{40}$
 
-d) $(\underbracket{15 + \overset{*}{30}}_\text{(*)}) - 40$
+d) $(\underbracket{15 + \overset{\text{*}}{30}}_\text{x}) - 40$
 
-f) $(\overset{*}{45}) - 40$
+f) $(\overset{\text{x}}{45}) - 40$
 
 g) $5$
 

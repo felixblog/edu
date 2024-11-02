@@ -235,7 +235,7 @@ La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono *
 
 Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:
 
-a) $\underbracket{-8 \overset{(a)}{\cdot} 12}_\text{(*)} \overset{\downarrow(b)}{\phantom{,}} + 5$
+a) $\underbracket{-8 \overset{(a)}{\cdot} 12}_\text{*} \overset{\downarrow(b)}{\phantom{,}} + 5$
 
 b) $\overset{*}{96} \overset{\downarrow}{\phantom{,}} +5$
 
@@ -245,9 +245,9 @@ Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma 
 
 La sequenza delle operazioni sarà allora:
 
-a) $5 \overset{\downarrow(b)}{\phantom{,}} \underbracket{-8 \overset{(a)}{\cdot} 12}_\text{(*)}$
+a) $5 \overset{\downarrow(b)}{\phantom{,}} \underbracket{-8 \overset{(a)}{\cdot} 12}_\text{*}$
 
-b) $ 5 \overset{\downarrow}{\phantom{,}} \;  \overset{(*)}{-96}$
+b) $ 5 \overset{\downarrow}{\phantom{,}} \;  \overset{*}{-96}$
 
 c) $ 101$
 
@@ -259,9 +259,9 @@ Nell'espressione $8 · (-12 + 5)$, analoga alla precedente ma con presenza di pa
 
 La prima operazione che è possibile eseguire è quindi la somma algebrica. La sequenza delle operazioni da eseguire sarà:
 
-a) $8 \overset{(b)}\cdot (\underbracket{-12 \overset{\downarrow(a)}{\phantom{,}} +5}_\text{(*)})$
+a) $8 \overset{(b)}\cdot (\underbracket{-12 \overset{\downarrow(a)}{\phantom{,}} +5}_\text{*})$
 
-b) $8 \cdot (\overset{(*)}{-7})$
+b) $8 \cdot (\overset{*}{-7})$
 
 c) $-56$.
 
