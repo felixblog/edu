@@ -17,7 +17,7 @@ Questo tipo di ragionamento è molto comune, soprattutto quando si usano le perc
 - Quanto pesa un quarto di torta da $800$ grammi?
 - Quanto vale mezzo euro (in centesimi)?
 
-Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti" come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.
+Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti" come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.
 
 Il secondo uso che vediamo è quello delle frazioni come divisioni. Una frazione è una ***divisione che non eseguiamo*** ma che teniamo così com'è. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato del risultato è quante volte il denominatore "entra" nel numeratore, oppure per quanto deve essere moltiplicato per avere il numeratore: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
@@ -725,7 +725,7 @@ Prima di rispondere alla domanda scriviamo il problema sotto forma di una uguagl
 
 Partiamo dalla relazione fondamentale che lega le ore ai minuti e cioè: $1\;h=60\;min$. Per avere su lato sinistro dell'uguaglianza l'espressione $\dfrac{3}{4}\;h$ moltiplichiamo a sinistra ed a destra per $\dfrac{3}{4}$, ottenendo:
 
-$\dfrac{3}{4} \cdot 1\;h = \dfrac{3}{4} \cdot 60 \;min$, e calcolando i prodotti $\dfrac{3}{4}\;h = 75\; min$, da cui si ricava che $? = 75$.
+$\dfrac{3}{4} \cdot 1\;h = \dfrac{3}{4} \cdot 60 \;min$, e calcolando i prodotti $\dfrac{3}{4}\;h = 45\; min$, da cui si ricava che $? = 45$.
 
 #### ESEMPIO 2
 
