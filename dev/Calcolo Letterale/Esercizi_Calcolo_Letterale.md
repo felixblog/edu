@@ -97,17 +97,15 @@ Abbiamo già detto che una espressione letterale non può essere calcolata, cio�
 
 Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, una somma di $s$ euro. Se vinco due volte, in totale prenderò $s + s$ euro, che non so quanto fa, ma è sicuramente uguale a $2 \cdot s$ euro. Se vinco ancora una volta, in totale avrò vinto $2 \cdot s + s$ euro che, qualunque sia la somma settimanale $s$, è uguale a $3 \cdot s$ euro, che possiamo scrivere $3s$ euro.
 
-Se, qualunque sia la vincita, devo pagare 5 euro alla ricevitoria per i costi, la mia vincita netta in euro, nell'ultimo caso, sarà $3 \cdot s - 5$. 
+Se, qualunque sia la vincita, devo pagare 5 euro alla ricevitoria per i costi, la mia vincita netta in euro, nell'ultimo caso, sarà $3 \cdot s - 5$. 
 
 Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio.
 
-
+------
 
 #### Componenti e forme di un monomio
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è in forma normale se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio la somma degli esponenti delle sue lettere. Anche un singolo numero può essere considerato un monomio, che presenta la sola parte numerica (ed ha parte letterale di grado zero).
-
-Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è ***in forma normale*** se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero).
 
 #### ESEMPIO
 
@@ -116,6 +114,12 @@ $\dfrac{ab}{2}$ : grado 2, **Forma non normale**;
 $\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab$: **Forma normale**;
 
 $ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: grado 4, **Forma Normale**.
+
+$2$: monomio di grado 0.
+
+------
+
+Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
 Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di monomi: $a + b$,  $2 \cdot s + 3 \cdot s^2 + 1$ etc. 
 
@@ -224,7 +228,11 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 ## UNITA' 3: Somme di Monomi
 
-Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere (e lo stesso numero di ciascuna lettera), ossia, si dice, sono ***simili***.  La somma di più monomi simili è un monomio che ha come parte letterale quella degli addendi e come parte numerica la somma delle parti numeriche degli addendi, come illustrano gli esempi seguenti.
+Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***. 
+
+La somma di più monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti).
+
+#### ESEMPIO
 
 $-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$; 
 
