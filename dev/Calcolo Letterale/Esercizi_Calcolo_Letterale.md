@@ -311,9 +311,9 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 ## UNITA' 5: Polinomi 
 
-La somma di più monomi non tutti simili si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
+La somma di più monomi si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
 
-Un polinomio è in ***forma normale*** se tutti i monomi sono in forma normale e sono ordinati per grado crescente. Il grado di un polinomio è quello del monomio di grado massimo. 
+Un polinomio è in ***forma normale*** se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado crescente o decrescente. Il grado di un polinomio è quello del monomio di grado massimo. 
 
 Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $1-2x$, $2x-\dfrac{2}{3}x^3+6x^5$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
 
@@ -376,21 +376,19 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-## UNITA' 6: Somme prodotti e rapporti di polinomi
+## UNITA' 6: Somme e prodotti di polinomi
 
-La somma di due polinomi è un polinomio che si trova sommando tra di loro tutti i monomi dei due polinomi. 
+La somma di due polinomi è un polinomio ottenuto sommando tra di loro tutti i monomi dei due polinomi. 
 
 Il prodotto di un monomio per un polinomio è un polinomio che si ottiene sommando tra di loro i prodotti del monomio per i termini del polinomio.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 $a(b+c) \longrightarrow ab + ac$;     $2(1+x+x^2) \longrightarrow 2+ 2x + 2x^2$;     $a^2(ab^2 -\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$;    
 
-il monomio mentre il rapporto tra due polinomi non è sempre un polinomio.
-
 Il prodotto di due polinomi si ottiene moltiplicando il secondo polinomio per tutti i monomi del primo e sommando i risultati.
 
-#### ESEMPIO
+#### ESEMPIO 2
 
 $(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
 
@@ -488,8 +486,8 @@ a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un p
 Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
 1. $Fattorizza(6\left(x^{2}-2y\right))$ &#9166; 
-2. $Fattorizza(a^2 + ax)$ &#9166;  
-3. $Fattorizza(-y^2+2xy + 3y)$ &#9166; 
+2. $Fattorizza(a^2 + a \cdot x)$ &#9166;  
+3. $Fattorizza(-y^2+2x \cdot y + 3y)$ &#9166; 
 
 
 
