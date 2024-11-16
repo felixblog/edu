@@ -148,7 +148,7 @@ c) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti 
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBRA:
+a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBRA riportati di seguito. RICORDARE di utilizzare sempre la moltiplicazione tra le lettere per scrivere il monomio in GEOGEBRA.
 
 1. $a \cdot b \cdot \left(-\dfrac{1}{2} \right) \cdot a$ &#9166; 
 2. $\dfrac{5}{3} \cdot b \cdot \left( -4 \right) \cdot a$ &#9166; . 
@@ -260,7 +260,7 @@ a) Scrivi l'espressione che corrisponde alla somma dei monomi seguenti e semplif
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2}xy -3xy + 7xy$  &#9166; 
+a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2}x \cdot y -3x \cdot y + 7x \cdot y$  &#9166; 
 
 
 
@@ -281,7 +281,7 @@ b) Individua quanti e quali monomi in forma normale ed operazioni contiene ciasc
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$  &#9166; 
+a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}  \cdot x\,\cdot\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}a \cdot x\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2} \cdot x^{2}$  &#9166; 
 
 
 
@@ -333,8 +333,8 @@ c) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$
 
 a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
-1.  $a^2 b^ {2}+a^ 2-b^ {2}-2a^ {2} b^ 2 +a^2$ &#9166; 
-2.  $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab$  &#9166; 
+1.  $a^2  \cdot b^ {2}+a^ 2-b^ {2}-2a^{2}  \cdot b^ 2 +a^2$ &#9166; 
+2.  $\dfrac{1}{5}a \cdot b -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}a \cdot b$  &#9166; 
 
 
 
@@ -445,9 +445,9 @@ a) Scrivi il polinomio risultato dei prodotti seguenti.
 
 Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
-1. $Sviluppa(6\left(x^{2}-2y\right))$ &#9166; 
-2. $Sviluppa(\left(-2\right)\,\cdotp\left(-3xy+2\right))$ &#9166;  
-3. $Sviluppa(\left(-4x^{2}y\right)\,\cdotp\left(-x^{3}+2xy-y\right))$ &#9166; 
+1. $6 \cdot \left(x^{2}-2y\right)$ &#9166; 
+2. $\left(-2\right)\,\cdotp\left(-3xy+2\right)$ &#9166;  
+3. $\left(-4x^{2} \cdot y\right)\,\cdotp\left(-x^{3}+2x \cdot y-y\right)$ &#9166; 
 
 
 
@@ -465,9 +465,9 @@ c) $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\rig
 
 a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
-1. $Sviluppa(\left(2a-3b\right)\left(5a+4b\right))$  &#9166; 
-2. $Sviluppa(\,\left(x-3y\right)\left(5x+y\right))$  &#9166; 
-3. $Sviluppa(\left(a^ 3 +2b\right)\left(a^ 3-2b\right)-\left(a^ 5+a\right)\left(a-1\right))$  &#9166; 
+1. $\left(2a-3b\right) \cdot \left(5a+4b\right)$  &#9166; 
+2. $Sviluppa(\,\left(x-3y\right) \cdot \left(5x+y\right))$  &#9166; 
+3. $Sviluppa(\left(a^ 3 +2b\right) \cdot \left(a^ 3-2b\right)-\left(a^ 5+a\right) \cdot \left(a-1\right))$  &#9166; 
 
 
 
@@ -485,7 +485,7 @@ a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un p
 
 Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
 
-1. $Fattorizza(6\left(x^{2}-2y\right))$ &#9166; 
+1. $Fattorizza(6 \cdot \left(x^{2}-2y\right))$ &#9166; 
 2. $Fattorizza(a^2 + a \cdot x)$ &#9166;  
 3. $Fattorizza(-y^2+2x \cdot y + 3y)$ &#9166; 
 
