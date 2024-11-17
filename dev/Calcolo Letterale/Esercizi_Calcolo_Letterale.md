@@ -313,9 +313,9 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 La somma di più monomi si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
 
-Un polinomio è in ***forma normale*** se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado crescente o decrescente. Il grado di un polinomio è quello del monomio di grado massimo. 
+Un polinomio è in ***forma normale*** se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado decrescente ed in ordine alfabetico tra quelli dello stesso grado.
 
-Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $1-2x$, $2x-\dfrac{2}{3}x^3+6x^5$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
+Il grado di un polinomio coincide con quello del monomio di grado massimo. Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $-2x + 1$, $6x^5 -\dfrac{2}{3}x^3 + 2x$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
 
 
 
