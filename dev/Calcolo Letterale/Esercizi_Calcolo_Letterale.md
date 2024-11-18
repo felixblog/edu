@@ -304,7 +304,7 @@ a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non 
 
 b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti. 
 
-1. $\dfrac{5}{2}a^4x:a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
+1. $\dfrac{5}{2}a^4x$;     $a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
 2. $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
 
 
