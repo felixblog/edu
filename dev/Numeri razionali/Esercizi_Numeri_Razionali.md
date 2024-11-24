@@ -139,7 +139,7 @@ Due frazioni si dicono equivalenti se indicano la stessa quantità. Poiché una 
 
 $\dfrac{3}{4} \longrightarrow 0,75$,  $\dfrac{6}{8} \longrightarrow 0,75$, quindi $\dfrac{3}{4}$ e $\dfrac{6}{8}$ sono equivalenti, mentre nessuna delle due è equivalente a $\dfrac{2}{3} \longrightarrow 0,66666$. Se consideriamo una frazione, ci sono infinite frazioni equivalenti ad essa, tutte ottenute moltiplicando o dividendo numeratore e denominatore per uno stesso numero. Una frazione che non ha divisori comuni tra numeratore e denominatore si dice ***ridotta ai minimi termini*** e chiamiamo ***semplificazione*** l'operazione di divisione successiva di numeratore e denominatore per uno stesso divisore finché la frazione non è ridotta ai minimi termini.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Semplificazione della frazione $\dfrac{36}{45}$dividendo due volte per 3:   $\dfrac{36}{45} \longrightarrow \dfrac{12}{15} \longrightarrow \dfrac{4}{5}$.
 
@@ -153,7 +153,7 @@ Il prodotto si esegue "per linee parallele", ossia si moltiplicano i numeratori 
 
 Il caso più semplice è quello del prodotto di una frazione per un numero intero. Questo caso si riconduce al prodotto di due frazioni generiche, considerato che qualunque numero intero è uguale ad una frazione con al denominatore il numero $1$.
 
-#### ESEMPI
+#### ESEMPIO 2
 
 La metà di dieci: $\dfrac{1}{2} \cdot 10 \longrightarrow \dfrac{1}{2} \cdot \dfrac{10}{1} \longrightarrow $
 
@@ -311,13 +311,21 @@ Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezz
 
 ------
 
-Una frazione, o numero razionale, è un rapporto tra numeri naturali, con il suo segno, dove il denominatore non può essere lo zero (perché nessun numero può essere diviso per zero). Non tutti i rapporti sono quindi numeri razionali: è possibile scrivere rapporti tra intere espressioni intere che quindi non sono frazioni, cioè numeri razionali, ma hanno lo stesso valore di una frazione una volta che le le espressioni sono calcolate. 
+Una frazione, o numero razionale, è un rapporto tra numeri naturali, con il suo segno, dove il denominatore non può essere lo zero (perché nessun numero può essere diviso per zero). Non tutti i rapporti sono quindi numeri razionali: è possibile scrivere rapporti tra numeri con segno, cioè interi, che quindi non sono propriamente frazioni, ma hanno lo stesso valore di una frazione una volta che le le espressioni sono calcolate. 
 
-Consideriamo il rapporto $\dfrac{2}{-3}$. Il denominatore non è un numero naturale ma intero, quindi il rapporto non è propriamente un numero razionale; se però calcoliamo il segno del rapporto, che è negativo, e lo scriviamo davanti alla frazione, diventa un numero razionale: $-\dfrac{2}{3}$. Stessa cosa con l'esempio seguente: $\dfrac{-2}{-3} \longrightarrow +\dfrac{2}{3}$.
+Consideriamo ad esempio il rapporto $\dfrac{2}{-3}$. Il denominatore non è un numero naturale ma intero, quindi il rapporto non è propriamente un numero razionale; se però calcoliamo il segno del rapporto, che è negativo, e lo scriviamo davanti alla frazione, diventa un numero razionale: $-\dfrac{2}{3}$. Stessa cosa con l'esempio seguente: $\dfrac{-2}{-3} \longrightarrow +\dfrac{2}{3}$.
 
 Quando al numeratore o al denominatore sono presenti delle operazioni, prima di usare il rapporto in operazioni con altri rapporti bisogna trasformare il rapporto in frazione.
 
 #### ESEMPIO 1
+
+a) $\dfrac{3 + 7}{6}$
+
+b) $\dfrac{10}{6} \longrightarrow \dfrac{5}{3}$.
+
+L'espressione a) in notazione lineare è $(3 + 7): 6$.
+
+#### ESEMPIO 2
 
 a) $\dfrac{2}{3} \dfrac{1+ 2 \cdot 3}{5}$ ;
 
@@ -325,7 +333,7 @@ b) $\dfrac{2}{3} \dfrac{1+ 6}{5}$;
 
 c) $\dfrac{2}{3} \dfrac{7}{5} \longrightarrow \dfrac{14}{15}$ ;
 
-Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ lo moltiplichiamo per $\dfrac{2}{3}$. L'espressione, in notazione lineare, è equivalente a $2:3 \cdot (1 + 2 \cdot 3):5$.
+Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ lo moltiplichiamo per $\dfrac{2}{3}$. L'espressione a), in notazione lineare, è $2:3 \cdot (1 + 2 \cdot 3):5$.
 
 #### ESEMPIO 2
 
@@ -335,7 +343,9 @@ b) $\dfrac{\dfrac{2}{3}}{ \dfrac{-5}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ -
 
 c) $\dfrac{2}{3} \cdot \left(-\dfrac{5}{5}\right) \longrightarrow -\dfrac{2}{3}$.
 
-L'espressione, in notazione lineare, è equivalente a $(2:3) : ((1 - 2 \cdot 3):5)$.
+L'espressione a) in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.
+
+
 
 ### ESERCIZIO 4.1 - Espressioni con le quattro operazioni tra frazioni
 
@@ -454,7 +464,7 @@ Come già fatto per i numeri interi, anche con le frazioni una  ***sostituzione*
 
 Oltre che nelle espressioni è possibile fare delle sostituzioni anche nelle relazioni tra espressioni letterali, come negli esempi seguenti.
 
-#### Esempio 1
+#### ESEMPIO 1
 
 a) $2x + 1 = 4, \; \{x = \dfrac{3}{2}\}$
 
@@ -464,7 +474,7 @@ c) $3 + 1 = 4$
 
 d) $4 = 4 \longrightarrow \; True$;
 
-#### Esempio 2
+#### ESEMPIO 2
 
 a) $2x + 1 > 0, \; \{x = -\dfrac{3}{2}\}$
 

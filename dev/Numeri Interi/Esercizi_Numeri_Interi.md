@@ -755,9 +755,77 @@ $$
 
 
 
-## UNITA' 8: Potenze e loro proprietà
+## UNITA' 8: Prodotto di un numero per una somma ed evidenza di fattori
 
-### ESERCIZIO 8.1 - Calcolo di potenze
+Consideriamo l'espressione seguente: $5(3 + 4)$. Il calcolo lo si è sempre fatto eseguendo prima la somma algebrica dentro la parentesi tonda e poi la moltiplicazione: $5(3 + 4) \longrightarrow 5(7) \longrightarrow 35$.
+
+C'è però un modo alternativo a questo, che consiste nel fare i due prodotti: $5 \cdot 3$ e $5 \cdot 4$ e sommarli tra di loro. Questo è possibile grazie ad una importante proprietà della moltiplicazione e della somma, detta ***proprietà distributiva della somma rispetto al prodotto***, per cui il prodotto di un numero per una somma è sempre uguale alla somma dei due prodotti:
+$$
+5(3+4) = 5 \cdot 3 + 5 \cdot 4
+$$
+In generale, se $a$, $b$ e $c$ sono tra numeri, abbiamo che le due espressioni $a \cdot (b+c)$ e $a \cdot b + a \cdot c$ sono uguali, cioè:
+$$
+a \cdot (b+c) = a \cdot b + a \cdot c
+$$
+
+#### ESEMPIO 1
+
+L'espressione $-2(2-3)$ può essere calcolata in due modi. Fino ad ora è stata calcolata così:
+
+  $-2(2-3)$ $\longrightarrow$ $-2(-1)$ $\longrightarrow$ $2$;
+
+Con la nuova regola potrebbe essere calcolata anche così:
+
+  $-2(2-3)$ $\longrightarrow$ $-2 \cdot 2 -2 \cdot (-3)$ $\longrightarrow$ $-4 + 6$ $\longrightarrow$ $2$.
+
+
+------
+
+Negli esempi visti la proprietà distributiva è stata applicata per trasformare il prodotto di un numero per una somma in somma di prodotti:
+$$
+a \cdot (b+c) \Rightarrow a \cdot b + a \cdot c
+$$
+In certi casi è conveniente applicarla al contrario per scrivere ***la somma di due prodotti come prodotto di un numero per una somma***: 
+$$
+a \cdot b + a \cdot c \Rightarrow a \cdot (b+c)
+$$
+Questa operazione si chiama "***messa in evidenza di un fattore comune***", il fattore $a$, comune ad entrambi i prodotti.
+
+#### ESEMPIO 2
+
+L'espressione $5 \cdot 2 + 6 \cdot 2$ può essere scritta $2 \cdot (5+6)$ che è uguale a $22$.
+
+
+
+### ESERCIZIO 8.1 - Proprietà distributiva del prodotto rispetto alla somma
+
+a) Calcola le espressioni seguenti sia nel modo normale che applicando proprietà distributiva del prodotto rispetto alla somma.
+
+1. $2(3 + 2)$;     $-2(3+2)$;     $-2(2-3)$;
+2. $-2(5-7)$;     $(5-7)2$;     $(10 + 9)(-3)$.
+
+b) Quali delle seguenti uguaglianze sono vere?
+
+1. $-2(5-7) = -10 + 14$;     $(5-7)2 = 5 \cdot 2 - 7 \cdot 2$;     $(10 + 9)(-3) = -3 \cdot 10 - 3 \cdot -3$.
+2. $(1 + 0) \cdot 1 = 1 + 1$;      $-(1 - 1) = 1 - 1$.
+
+
+
+### ESERCIZIO 8.2 - Messa in evidenza di un fattore
+
+a) Mettere in evidenza il fattore comune nelle espressioni seguenti.
+
+1. $5 \cdot 3 + 5 \cdot 2$;     $-5 \cdot 3 -5 \cdot 2$;     $5 \cdot 3 + 5 \cdot (-2)$;
+
+b) Mettere in evidenza il fattore comune nelle somme seguenti dopo aver scomposto in fattori ed aver trovato un fattore comune.
+
+1. $4 + 6$;     $-10 + 15$;     $-12 - 8$.
+
+
+
+## UNITA' 9: Potenze e loro proprietà
+
+### ESERCIZIO 9.1 - Calcolo di potenze
 
 a) Calcolare le seguenti potenze di numeri interi.
 
@@ -771,7 +839,7 @@ b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle 
 
 
 
-### ESERCIZIO 8.2 - Proprietà delle potenze
+### ESERCIZIO 9.2 - Proprietà delle potenze
 
 a) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
 
@@ -796,7 +864,7 @@ d) Semplifica le espressioni seguenti applicando le proprietà delle potenze e c
 
 
 
-### ESERCIZIO 8.3 - Espressioni con le potenze
+### ESERCIZIO 9.3 - Espressioni con le potenze
 
 a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 

@@ -93,7 +93,7 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 Abbiamo già detto che una espressione letterale non può essere calcolata, cioè non da come risultato un numero, finché a tutte le lettere non sostituiamo dei numeri. Però vediamo, con un esempio, che anche con le sole lettere alcune informazioni le posso dedurre.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, una somma di $s$ euro. Se vinco due volte, in totale prenderò $s + s$ euro, che non so quanto fa, ma è sicuramente uguale a $2 \cdot s$ euro. Se vinco ancora una volta, in totale avrò vinto $2 \cdot s + s$ euro che, qualunque sia la somma settimanale $s$, è uguale a $3 \cdot s$ euro, che possiamo scrivere $3s$ euro.
 
@@ -107,7 +107,7 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è ***in forma normale*** se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero).
 
-#### ESEMPIO
+#### ESEMPIO 2
 
 $\dfrac{ab}{2}$ : grado 2, **Forma non normale**;
 
@@ -232,7 +232,7 @@ Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque 
 
 La somma di più monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti).
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 $-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$; 
 
@@ -304,7 +304,7 @@ a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non 
 
 b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti. 
 
-1. $\dfrac{5}{2}a^4x$;     $a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
+1. $\dfrac{5}{2}a^4x$;     $a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
 2. $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
 
 
@@ -376,15 +376,28 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-## UNITA' 6: Somme e prodotti di polinomi
+## UNITA' 6: Somme di polinomi e Prodotti di polinomi per monomi
 
 La somma di due polinomi è un polinomio ottenuto sommando tra di loro tutti i monomi dei due polinomi. 
 
-Il prodotto di un monomio per un polinomio è un polinomio che si ottiene sommando tra di loro i prodotti del monomio per i termini del polinomio.
+Il prodotto di un monomio per un polinomio è un polinomio che si ottiene, applicando la proprietà distributiva del prodotto rispetto alla somma, sommando tra di loro i prodotti del monomio per i termini del polinomio.
+
+Se $A$, $B$ e $C$ sono monomi, abbiamo che $B + C$ è un polinomio ed il prodotto di questo polinomio per $A$ si può scrivere come:
+$$
+A \cdot (B + C) = A \cdot B + A \cdot C
+$$
+
+Per la proprietà distributiva del prodotto rispetto alla somma. Vediamo alcuni esempi.
 
 #### ESEMPIO 1
 
-$a(b+c) \longrightarrow ab + ac$;     $2(1+x+x^2) \longrightarrow 2+ 2x + 2x^2$;     $a^2(ab^2 -\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$;    
+Se $A = 2$;  $B = x^2$; $C = x$ allora $A(B + C) = 2(x^2 + x)$ e quindi
+
+$A(B+C) \longrightarrow AB + AC = 2x^2 + 2x$;
+
+Se $A = a^2$; $B = ab^2$; $C = -\dfrac{c}{2}$ abbiamo che
+
+ $a^2(ab^2 -\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$;    
 
 Il prodotto di due polinomi si ottiene moltiplicando il secondo polinomio per tutti i monomi del primo e sommando i risultati.
 
@@ -429,7 +442,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 6.3 - Prodotto di monomi per polinomi
+### ESERCIZIO 6.3 - Prodotti di monomi per polinomi
 
 a) Scrivi il polinomio risultato dei prodotti seguenti.
 
@@ -451,6 +464,8 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 
 
+## UNITA' 6: Prodotti di polinomi
+
 ### ESERCIZIO - 6.4 Prodotto di polinomi
 
 Scrivi i risultati dei prodotti seguenti in forma normale.  
@@ -471,11 +486,13 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 7: Semplificazione di espressioni letterali 
+## UNITA' 7: Evidenza di Fattori e Rapporti tra Polinomi
+
+
 
 ### ESERCIZIO 7.1 - Evidenza di fattori
 
-a) Scomponi i seguenti polinomi in fattori, come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
+a) Scrivi i polinomi seguenti come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
 
 1. $6x^2-12y$;      $-4+6xy$;      $-a-b$;
 2. $a^2 +ax$;      $b^2y - b$;      $-y^2 +2xy + 3y$;
@@ -498,7 +515,7 @@ a) Scrivi il reciproco delle seguenti frazioni algebriche.
 1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;      $2a^2$;      $-\dfrac{1}{2a^2x}$;
 2. $\dfrac{1}{x-1}$;      $\dfrac{a+1}{b-1}$;      $2a^2+a$;      $-\dfrac{1+x^2}{2a^2x}$.
 
-b) Semplifica le seguenti frazioni algebriche dopo aver scomposto i polinomi a numeratore o denominatore  in fattori.
+b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza i fattori comuni nei polinomi a numeratore o a denominatore.
 
 1. $\dfrac{x^2+3x}{x}$;      $\dfrac{4x^2-2x}{4x^2}$;      $\dfrac{x}{2x^2-x}$;
 2. $\dfrac{2a-2}{5a-5}$;      $\dfrac{-x-y}{x+y}$;      $\dfrac{2x-2y}{y-x}$.
