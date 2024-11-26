@@ -382,7 +382,7 @@ La somma di due polinomi è un polinomio ottenuto sommando tra di loro tutti i m
 
 Il prodotto di un monomio per un polinomio è un polinomio che si ottiene, applicando la proprietà distributiva del prodotto rispetto alla somma, sommando tra di loro i prodotti del monomio per i termini del polinomio.
 
-Se $A$, $B$ e $C$ sono monomi, abbiamo che $B + C$ è un polinomio ed il prodotto di questo polinomio per $A$ si può scrivere come:
+Se $A$, $B$ e $C$ sono monomi, abbiamo che $B + C$ è un polinomio ed il prodotto di questo polinomio per $A$ si può scrivere come:
 $$
 A \cdot (B + C) = A \cdot B + A \cdot C
 $$
@@ -391,7 +391,7 @@ Per la proprietà distributiva del prodotto rispetto alla somma. Vediamo alcuni 
 
 #### ESEMPIO 1
 
-Se $A = 2$;  $B = x^2$; $C = x$ allora $A(B + C) = 2(x^2 + x)$ e quindi
+Se $A = 2$;  $B = x^2$; $C = x$ allora $A(B + C) = 2(x^2 + x)$ e quindi
 
 $A(B+C) \longrightarrow AB + AC = 2x^2 + 2x$;
 
@@ -486,7 +486,37 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 7: Evidenza di Fattori e Rapporti tra Polinomi
+## UNITA' 7: Fattorizzazione di Polinomi e Frazioni Algebriche
+
+Nei capitoli precedenti abbiamo visto come si calcola il prodotto tra un polinomio ed un monomio ed il prodotto tra due polinomi. Ora vediamo se e come si può effettuare l'operazione inversa: scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche ***fattorizzazione di un polinomio***, perché ha l'obiettivo di scrivere un polinomio come prodotto di due o più fattori.
+
+Il caso più semplice si ha quando i monomi che costituiscono il polinomio da fattorizzare hanno dei fattori in comune: si estraggono tutti i fattori comuni e se ne fa un monomio che si mette in evidenza, cioè lo si moltiplica per la somma dei monomi rimanenti. Vediamo un esempio.
+
+#### ESEMPIO 1
+
+Dal polinomio $-y^2 +2xy + 3y$ si mette in evidenza il fattore $y$ e lo si scrive $y(-y +2x +3)$.
+
+Un altro caso è $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x = 3ax(\dfrac{1}{4}ax -4x +2a^2 )$
+
+Il comando per effettuare l'operazione con GEOGEBRA è Fattorizza, per cui l'esempio precedente diventa il seguente:
+
+$Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $ \longrightarrow $ $\dfrac{3}{4}ax(8a^2+ax -16x)$.
+
+------
+
+Una frazione algebrica è un rapporto tra un polinomio ed un monomio o tra due polinomi (di cui il precedente è un caso particolare). A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere fattorizzati e se hanno dei fattori in comune, che quindi si possono semplificare.
+
+Vediamo qualche caso.
+
+#### ESEMPIO 2
+
+Nella frazione $\dfrac{4x^2-2x}{4x^2}$, al numeratore si può mettere in evidenza il monomio $4x$ per cui possiamo scrivere:
+
+$\dfrac{2x(2x-1)}{4x^2}$ $\longrightarrow$ $\dfrac{2x-1}{2x}$.
+
+Nella frazione $\dfrac{2a-2}{5a-5}$, al numeratore si mette in evidenza $2$ ed al denominatore $5$, per cui possiamo scrivere:
+
+$\dfrac{2a-2}{5a-5}$ $\longrightarrow$ $\dfrac{2(a-1)}{5(a-1)}$  $\longrightarrow$ $\dfrac{2}{5}$
 
 
 
