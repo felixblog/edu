@@ -249,6 +249,10 @@ Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, 
 
 Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (monomi, polinomi e frazioni algebriche) e la soluzione sarà una espressione letterale e non numerica.
 
+#### ESEMPIO 1
+
+Risolviamo l'equazione $1-ax=b$ considerando la lettera $x$ come incognita.
+
 a) $1-ax=b$;   Con la regola del trasporto portiamo $1$ a destra;
 
 b) $-ax=b-1$;   Con la regola della moltiplicazione/divisione dividiamo tutto per il coefficiente di $x$;
@@ -264,6 +268,22 @@ Per risolvere con GEOGEBRA l'istruzione è:
 $Risolvi(1-ax=b, x)$ &#9166;
 
 $= \bigg\{ x = \dfrac{-b+1}{a}\bigg\}$
+
+
+
+#### ESEMPIO 2
+
+Risolviamo l'equazione $1-ax=bx + 2a$ considerando la lettera $x$ come incognita.
+
+a) $1-ax=bx + 2a$;   Con la regola del trasporto portiamo $2a$ a sinistra e $-ax$ a destra;
+
+b) $1 - 2a = bx + ax$;    Fattorizziamo il polinomio a sinistra mettendo $x$ in evidenza;
+
+c) $1 - 2a = (a+b)x$;   Dividiamo entrambi i membri per il coefficiente dell'incognita $a + b$;
+
+d) $\dfrac{1 - 2a}{a + b} = \dfrac{(a + b)x}{a + b}$;    Semplificando si ottiene la soluzione $\dfrac{1 - 2a}{a + b}$.
+
+e) $\dfrac{1 - 2a}{a + b} = x$  
 
 
 
