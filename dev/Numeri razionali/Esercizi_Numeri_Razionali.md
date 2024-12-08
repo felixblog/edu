@@ -646,6 +646,8 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 Nella vita pratica si fa un notevole uso delle percentuali, che sono un modo di usare le frazioni. Quando diciamo "il $10\%$ di $50$" intendiamo una frazione di $\text{50}$ ottenuta prendendo "$10$ centesimi di $50$" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
 
+Ogni numero può essere scritto in forma percentuale: quando diciamo "Il doppio di $10$" potremmo dire "Il $200\%$ di $10$" perché il numero $2$ si scrive $200\%$, oppure al posto di "un quarto di prosciutto" dire "il $25\%$ di prosciutto".
+
 
 
 ### ESERCIZIO 7.1 - Numeri decimali e frazioni
