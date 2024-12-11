@@ -19,15 +19,7 @@ Questo tipo di ragionamento è molto comune, soprattutto quando si usano le perc
 
 Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti" come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.
 
-Il secondo uso che vediamo è quello delle frazioni come divisioni. Una frazione è una ***divisione che non eseguiamo*** ma che teniamo così com'è. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato del risultato è quante volte il denominatore "entra" nel numeratore, oppure per quanto deve essere moltiplicato per avere il numeratore: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
-
-Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
-
-$\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
-
-$\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
-
-Il terzo uso che si fa delle frazioni è per misurare una quantità, e qui interviene l'unità di misura. Facciamo due esempi.
+Il secondo uso che si fa delle frazioni è per misurare una quantità "rispetto ad un altra" o "in rapporto ad un'altra" che utilizziamo come unità di riferimento. Facciamo due esempi.
 
 #### Esempio 1
 
@@ -50,6 +42,14 @@ Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uo
 Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. $ \bullet$
+
+Il terzo "uso" o aspetto è quello delle frazioni come divisioni. Una frazione è una ***divisione che non eseguiamo*** ma che teniamo così com'è. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato del risultato è quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+
+Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
+
+$\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
+
+$\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 
 
@@ -130,6 +130,20 @@ Scrivi in ordine crescente le seguenti frazioni, dopo aver trovato, dividendo, i
 a) $\dfrac{3}{2},\dfrac{4}{8},\dfrac{8}{3},\dfrac{7}{7},\dfrac{15}{4};$   
 
 b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfrac{4}{3}.$  
+
+
+
+### ESERCIZIO 1.4 - Forma decimale delle frazioni
+
+a) Trasforma le seguenti frazioni in forma decimale scrivendo il risultato con tre cifre decimali dopo la virgola
+
+1. $\dfrac{3}{2},\dfrac{4}{8},\dfrac{8}{3},\dfrac{7}{7},\dfrac{15}{4};$
+
+2. $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfrac{4}{3}.$  
+
+b) Trasforma i seguenti numeri decimali in frazioni.
+
+$0.5$;    $0.005$;    $4$;    $1000.1$;    $10.5$;     $9.69$. 
 
 
 
@@ -642,11 +656,23 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 
 
-## UNITA' 7: Numeri decimali e percentuali
+## UNITA' 7: Le Percentuali
 
-Nella vita pratica si fa un notevole uso delle percentuali, che sono un modo di usare le frazioni. Quando diciamo "il $10\%$ di $50$" intendiamo una frazione di $\text{50}$ ottenuta prendendo "$10$ centesimi di $50$" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
+Nella vita pratica si fa un notevole uso delle percentuali, che sono un modo di scrivere le frazioni. 
 
-Ogni numero può essere scritto in forma percentuale: quando diciamo "Il doppio di $10$" potremmo dire "Il $200\%$ di $10$" perché il numero $2$ si scrive $200\%$, oppure al posto di "un quarto di prosciutto" dire "il $25\%$ di prosciutto".
+Come tutte le frazioni le percentuali presentano tre aspetti. Il primo è quello di fattore moltiplicativo. Quando diciamo "il $10\%$ di $50$" intendiamo una frazione di $\text{50}$ ottenuta prendendo "$10$ centesimi di $50$" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
+
+I secondo è quello di misura di una quantità rispetto ad un'altra quantità di riferimento. Se diciamo "un bambino in $6$ mesi è cresciuto di $10 \; cm$ ed adesso è alto $110 \; cm$" e ci chiediamo di quanto è cresciuto in percentuale, vogliamo "misurare" la crescita del bambino rispetto alla sua altezza iniziale, che era $100 \; cm$. Per fare questo bisogna "mettere in rapporto" la crescita, $10 \; cm$ con l'altezza iniziale: $\dfrac{10}{100} \longrightarrow \dfrac{1}{10}$. Il bambino è cresciuto di un decimo della sua altezza iniziale, che in percentuale è il $10 \%$. 
+
+Ogni numero in forma decimale può essere scritto in forma percentuale: quando diciamo "Il doppio di $10$" potremmo dire "Il $200\%$ di $10$" perché il numero $2$ si scrive $200\%$, oppure al posto di "un quarto di prosciutto" dire "il $25\%$ di prosciutto".
+
+Per trasformare il numero in percentuale eseguiamo i passi seguenti:
+
+a) Moltiplichiamo il numero per $100$ e per $\dfrac{1}{100}$. In questo modo il numero non cambia: ad esempio con il numero $0,75$ abbiamo $0,75 \longrightarrow0,75 \cdot 100 \cdot \dfrac{1}{100}$.
+
+b) Eseguiamo la prima moltiplicazione ma non la seconda, sostituendo a $\dfrac{1}{100}$ il simbolo $0,75 \cdot 100 \cdot \dfrac{1}{100} \longrightarrow 75 \%$.
+
+Se abbiamo una frazione, trasformiamola in numero decimale prima di scriverla in percentuale.
 
 
 
