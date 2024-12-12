@@ -9,7 +9,7 @@ I numeri interi non bastano per indicare tutte le quantità che ci si presentano
 
 Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale **cardinale** "Tre" CHE STA SOPRA la linea di frazione, ed il numerale **ordinale** "quarti" CHE STA SOTTO, chiamati rispettivamente "***numeratore***" (numero superiore) e "***denominatore***" (numero inferiore).
 
-Comunemente le frazioni si usano in almeno tre modi. Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
+Comunemente le frazioni vengono usate in almeno tre contesti. Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
 
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
@@ -17,9 +17,9 @@ Questo tipo di ragionamento è molto comune, soprattutto quando si usano le perc
 - Quanto pesa un quarto di torta da $800$ grammi?
 - Quanto vale mezzo euro (in centesimi)?
 
-Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti" come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.
+Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti", come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.
 
-Il secondo uso che si fa delle frazioni è per misurare una quantità "rispetto ad un altra" o "in rapporto ad un'altra" che utilizziamo come unità di riferimento. Facciamo due esempi.
+Il secondo contesto d'uso delle frazioni è per misurare una quantità "rispetto ad un altra" o "in rapporto ad un'altra" che utilizziamo come unità di riferimento. Facciamo due esempi.
 
 #### Esempio 1
 
@@ -29,7 +29,7 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
 
 Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
-Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti: facendo la divisione si vede $1,5$ volte. $ \bullet$
+Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60$ da $1,5$. $ \bullet$
 
 #### Esempio 2
 
@@ -43,9 +43,9 @@ Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per fa
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. $ \bullet$
 
-Il terzo "uso" o aspetto è quello delle frazioni come divisioni. Una frazione è una ***divisione che non eseguiamo*** ma che teniamo così com'è. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il significato del risultato è quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+Il terzo contesto è l'uso delle frazioni per indicare delle divisioni. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$, ma se la scriviamo come frazione è perché vogliamo evidenziare quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
-Il passaggio al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
+Il passaggio dalla frazione al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
 $\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
 
@@ -60,6 +60,12 @@ a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
 1. Che frazione di figura rappresentano i quadrati rossi, quelli blu e quelli non colorati? Se ogni quadrato è una mattonella e tutte le mattonelle pesano 18 Kg, quanto pesano le mattonelle bianche? 
 
 ![Frazioni-di-quadrato](img/Frazioni-di-quadrato.png)
+
+#### Soluzione
+
+Con questo esercizio vogliamo "misurare" la parte rossa della figura in riferimento al quadrato grande. La parte rossa misura $2$ quadrati piccoli ma $\dfrac{2}{9} = 0,222$ del quadrato grande. Se tutte le mattonelle pesano $18$ Kg, le rosse pesano due volte un nono di $18$; ossia $\dfrac{1}{9} \cdot 18 \longrightarrow 2$ e $2 \cdot \left( \dfrac{1}{9} \cdot 18\right) \longrightarrow 2 \cdot 2 = 4$.
+
+
 
 2. Quanti colori vedi nella figura? Per ciascun colore scrivi la frazione di figura di quel colore. Se per dipingere una parete con i quadrati colorati della figura sono servite 12 scatole di colori, quante scatole di colore turchese sono state consumate?
 
@@ -662,7 +668,7 @@ Nella vita pratica si fa un notevole uso delle percentuali, che sono un modo di 
 
 Come tutte le frazioni le percentuali presentano tre aspetti. Il primo è quello di fattore moltiplicativo. Quando diciamo "il $10\%$ di $50$" intendiamo una frazione di $\text{50}$ ottenuta prendendo "$10$ centesimi di $50$" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
 
-I secondo è quello di misura di una quantità rispetto ad un'altra quantità di riferimento. Se diciamo "un bambino in $6$ mesi è cresciuto di $10 \; cm$ ed adesso è alto $110 \; cm$" e ci chiediamo di quanto è cresciuto in percentuale, vogliamo "misurare" la crescita del bambino rispetto alla sua altezza iniziale, che era $100 \; cm$. Per fare questo bisogna "mettere in rapporto" la crescita, $10 \; cm$ con l'altezza iniziale: $\dfrac{10}{100} \longrightarrow \dfrac{1}{10}$. Il bambino è cresciuto di un decimo della sua altezza iniziale, che in percentuale è il $10 \%$. 
+I secondo è quello di misura di una quantità rispetto ad un'altra quantità di riferimento. Se diciamo "un bambino in $6$ mesi è cresciuto di $10 \; cm$ ed adesso è alto $110 \; cm$" e ci chiediamo di quanto è cresciuto in percentuale, vogliamo "misurare" la crescita del bambino rispetto alla sua altezza iniziale, che era $100 \; cm$. Per fare questo bisogna "mettere in rapporto" la crescita, $10 \; cm$ con l'altezza iniziale: $\dfrac{10}{100} \longrightarrow \dfrac{1}{10}$. Il bambino è cresciuto di un decimo della sua altezza iniziale, che in percentuale è il $10 \%$. 
 
 Ogni numero in forma decimale può essere scritto in forma percentuale: quando diciamo "Il doppio di $10$" potremmo dire "Il $200\%$ di $10$" perché il numero $2$ si scrive $200\%$, oppure al posto di "un quarto di prosciutto" dire "il $25\%$ di prosciutto".
 
@@ -670,7 +676,7 @@ Per trasformare il numero in percentuale eseguiamo i passi seguenti:
 
 a) Moltiplichiamo il numero per $100$ e per $\dfrac{1}{100}$. In questo modo il numero non cambia: ad esempio con il numero $0,75$ abbiamo $0,75 \longrightarrow0,75 \cdot 100 \cdot \dfrac{1}{100}$.
 
-b) Eseguiamo la prima moltiplicazione ma non la seconda, sostituendo a $\dfrac{1}{100}$ il simbolo $0,75 \cdot 100 \cdot \dfrac{1}{100} \longrightarrow 75 \%$.
+b) Eseguiamo la prima moltiplicazione ma non la seconda, sostituendo a $\dfrac{1}{100}$ il simbolo $0,75 \cdot 100 \cdot \dfrac{1}{100} \longrightarrow 75 \%$.
 
 Se abbiamo una frazione, trasformiamola in numero decimale prima di scriverla in percentuale.
 
