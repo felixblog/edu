@@ -44,7 +44,7 @@ Il primo passo è l'individuazione delle quantità nel testo del problema. Dopo 
 
 Una quantità non è solo un "numero": la quantità è un concetto, una proprietà quantitativa di qualcosa, come ad esempio l'età di una persona, la lunghezza di una strada, il peso di una porzione di prosciutto, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
 
-Il numero che è associato alla quantità è la sua misura, presa utilizzando una unità di misura: ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$; la misura dipende dall'unità con cui misuriamo e può essere **nota**, perché è contenuta nel testo del problema, oppure no.
+Il numero che è associato alla quantità è la sua misura, presa utilizzando una **unità di misura**: ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$; la misura dipende dall'unità con cui misuriamo e può essere **nota**, perché è contenuta nel testo del problema, oppure no.
 
 Alle quantità deve essere dato un nome preciso ed appropriato.
 
@@ -53,10 +53,15 @@ Alle quantità deve essere dato un nome preciso ed appropriato.
 - Nella domanda "**Quanti anni** ha la figlia di Maria?", la quantità richiesta è il "Età (misurata in anni) della figlia di Maria";
 - Nella domanda "**Quanti giornali** ha venduto?", la quantità richiesta è il "Numero di Copie Vendute";
 - Nella domanda "**Quanti soldi** erano rimasti?", la quantità richiesta è l'"Importo Monetario Rimasto" (misurato in euro);
+- Nella domanda "**Quante palline** sono rimaste nella scatola?", la quantità richiesta è la "numerosità" di certi oggetti (palline) misurate in "unità" (di palline, di oggetti etc.);
 - In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
 
 Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi eccetera. In generale il peso, la lunghezza, l'importo, si chiamano **grandezze**, mentre nelle situazioni specifiche indicate nei problemi le chiamiamo quantità. $ \bullet$
+
+
+
+Osserviamo che non tutte le quantità hanno una unità di misura: alcuni valori sono numeri "puri" come nel caso di "Solo i due terzi della strada erano asfaltati". In questo caso la quantità è "Rapporto tra lunghezza del tratto asfaltato e strada" e non c'è unità di misura.
 
 #### ESEMPIO 3
 
