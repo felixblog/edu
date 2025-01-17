@@ -29,13 +29,13 @@ Questa è l'"equazione risolutiva del problema", che sarà vera quando $x=\dfrac
 
 Il metodo per risolvere questi problemi si articola in quattro passi:
 
-**PASSO 1: Quantità**
+**PASSO 1: Individuazione delle Quantità**
 
-**PASSO 2: Relazioni**
+**PASSO 2: Analisi delle Dipendenze**
 
-**PASSO 3: Incognita e Propagazione**
+**PASSO 3: Individuazione dell'Incognita e Propagazione**
 
-**PASSO 4: Condizione**
+**PASSO 4: Individuazione della Condizione ed Equazione Risolutiva**
 
 Il primo passo è l'individuazione delle quantità nel testo del problema. Dopo aver letto attentamente il problema, tante volte quante sono necessarie per capire cosa dice, ossia quale situazione descrive e cosa ci chiede, bisogna individuare:
 
@@ -53,15 +53,14 @@ Alle quantità deve essere dato un nome preciso ed appropriato.
 - Nella domanda "**Quanti anni** ha la figlia di Maria?", la quantità richiesta è il "Età (misurata in anni) della figlia di Maria";
 - Nella domanda "**Quanti giornali** ha venduto?", la quantità richiesta è il "Numero di Copie Vendute";
 - Nella domanda "**Quanti soldi** erano rimasti?", la quantità richiesta è l'"Importo Monetario Rimasto" (misurato in euro);
-- Nella domanda "**Quante palline** sono rimaste nella scatola?", la quantità richiesta è la "numerosità" di certi oggetti (palline) misurate in "unità" (di palline, di oggetti etc.);
+- Nella domanda "**Quante palline** sono rimaste nella scatola?", la quantità richiesta è la "numerosità" di un insieme di oggetti misurati in "unità" (di palline, di oggetti etc.);
 - In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
+- In "**Trova il numero** che diviso per due da 115" si parla di tre quantità: il numero richiesto, il numero divisore ed il numero risultato. Nessuna delle tre misure "misura" delle grandezze fisiche (lunghezza, peso, durata etc.) oppure economiche (importi monetari, giorni di lavoro etc.) per cui parliamo di numeri "puri". Anche in situazioni come "Solo i due terzi della strada erano asfaltati" la quantità che vale "due terzi", e che può essere definita "Rapporto tra lunghezza del tratto asfaltato e tutta la strada", è un numero puro e non ha una unità di misura.
 
-Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi eccetera. In generale il peso, la lunghezza, l'importo, si chiamano **grandezze**, mentre nelle situazioni specifiche indicate nei problemi le chiamiamo quantità. $ \bullet$
+Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi eccetera. In generale il peso, la lunghezza, l'importo, si chiamano **grandezze** (fisiche, economiche etc.), mentre nelle situazioni specifiche indicate nei problemi le chiamiamo quantità. $ \bullet$
 
 
-
-Osserviamo che non tutte le quantità hanno una unità di misura: alcuni valori sono numeri "puri" come nel caso di "Solo i due terzi della strada erano asfaltati". In questo caso la quantità è "Rapporto tra lunghezza del tratto asfaltato e strada" e non c'è unità di misura.
 
 #### ESEMPIO 3
 
@@ -102,7 +101,7 @@ c) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un 
 
 
 
-## UNITA' 2: Relazioni tra quantità
+## UNITA' 2: Relazioni tra quantità e dipendenze
 
 Le quantità di cui si parla nel testo di un problema non sono indipendenti l'una dalle altre, ossia se sappiamo quanto misura una possiamo calcolare quanto misurano le altre. Facciamo alcuni esempi.
 
@@ -142,7 +141,7 @@ Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tr
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
-Il diagramma in figura è detto **diagramma delle dipendenze**, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso sia una quantità nota. La freccia entrante indica che la misura della quantità dipende da un'altra quantità e si calcola in base ad una espressione; poiché la quantità cui si riferiscono le espressioni di uno stesso rettangolo è la stessa, le espressioni tra di loro dovranno essere uguali. 
+Il diagramma in figura è detto **diagramma delle dipendenze**, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso in cui questa sia nota. La freccia entrante indica che la misura della quantità dipende da una o più altre quantità e si calcola in base ad una espressione; poiché la quantità cui si riferiscono le espressioni di uno stesso rettangolo è la stessa, le espressioni tra di loro dovranno essere uguali.
 
 
 
@@ -201,7 +200,11 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone e la seconda ha i 
 
 ## UNITA' 3: Incognite ed equazioni risolutive 
 
-Dopo aver individuato le relazioni presenti tra le quantità, bisogna propagare, ossia dedurre, calcolare, tutte le misure che è possibile a partire dalle quantità note.
+A questo punto bisogna organizzare le dipendenze trovate in modo che tutte le quantità dipendano, direttamente o indirettamente, da una sola quantità di cui il problema non ci fornisce la misura (e da altre note).
+
+Dopo aver organizzato queste dipendenze, la quantità non nota da cui tutte le altre dipendono viene chiamata con una lettera, detta incognita, ed a tutte quelle dipendenti viene associata una espressione letterale che ne fornisce la misura se sapessimo quella della incognita: questo passo è detto propagazione dell'incognita.
+
+A volte la semplice propagazione fornisce la soluzione del problema, come negli esempi seguenti (in cui indichiamo in rosso le espressioni calcolate).
 
 #### ESEMPIO 1
 
@@ -209,7 +212,7 @@ Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza d
 
 <img src="img/camion-trave-2.png" alt="camion-trave-2" style="zoom:80%;" />
 
-Riprendendo il diagramma dell'unità precedente abbiamo che la propagazione produce $Sostituisci(\dfrac{2}{3} \cdot l,\{l=18\}) \longrightarrow 12$. $ \bullet$
+La lunghezza del camion è nota, quella della trave, quantità richiesta dal problema, no. Dalla figura si vede però come la seconda dipende dalla prima per cui, propagando i valori si ha $Sostituisci(\dfrac{2}{3} \cdot l,\{l=18\}) \longrightarrow 12$. $ \bullet$
 
 
 
