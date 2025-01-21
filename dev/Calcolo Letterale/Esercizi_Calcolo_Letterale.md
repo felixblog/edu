@@ -9,7 +9,15 @@ A cosa servono? Consideriamo ad esempio i triangoli; si sa che se conosciamo la 
 
 Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
 
-Le lettere servono quindi a specificare come calcolare certe quantità conoscendone altre, da cui le prime dipendono.  
+Le lettere servono quindi a specificare come calcolare certe quantità conoscendone altre, da cui le prime dipendono. 
+
+#### ESEMPIO 1
+
+Calcoliamo il valore dell'espressione $1-x$ dopo aver sostituito alla lettera $x$ il valore $+5$. La sostituzione trasforma l'espressione letterale in espressione numerica: $1 - (+5) \longrightarrow 1 -5 \longrightarrow -4$. $\bullet$
+
+
+
+Osserviamo che nell'espressione $1 -x$ ci sono tre numeri e due operazioni perché $-x$ è costituito da $-1$ moltiplicato il numero $x$, per cui ii numeri sono $1$, $-1$ ed $x$ mentre le operazioni sono la somma algebrica e la moltiplicazione; analogamente in $1 +x$.
 
 
 
@@ -97,11 +105,15 @@ Abbiamo già detto che una espressione letterale non può essere calcolata, cio�
 
 Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, una somma di $s$ euro. Se vinco due volte, in totale prenderò $s + s$ euro, che non so quanto fa, ma è sicuramente uguale a $2 \cdot s$ euro. Se vinco ancora una volta, in totale avrò vinto $2 \cdot s + s$ euro che, qualunque sia la somma settimanale $s$, è uguale a $3 \cdot s$ euro, che possiamo scrivere $3s$ euro.
 
-Se, qualunque sia la vincita, devo pagare 5 euro alla ricevitoria per i costi, la mia vincita netta in euro, nell'ultimo caso, sarà $3 \cdot s - 5$. 
+Se, qualunque sia la vincita, devo pagare un euro alla ricevitoria per i costi di riscossione, la mia vincita netta in euro, nell'ultimo caso, sarà
 
-Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio.
+$s -1 + s - 1 + s - 1$ $ \longrightarrow$ 
 
-------
+​	$3 \cdot s - 3$. 
+
+Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio. $ \bullet$
+
+
 
 #### Componenti e forme di un monomio
 
@@ -115,9 +127,9 @@ $\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab$: **Forma normale**;
 
 $ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: grado 4, **Forma Normale**.
 
-$2$: monomio di grado 0.
+$2$: monomio di grado 0. $\bullet$
 
-------
+
 
 Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
@@ -242,7 +254,7 @@ $-3x + 2x^2 \longrightarrow -3x + 2x^2$: **Non è un monomio!** .
 
 Il prodotto di due o più monomi è sempre un monomio.
 
-$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$.
+$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$. $\bullet$
 
 
 
@@ -397,7 +409,9 @@ $A(B+C) \longrightarrow AB + AC = 2x^2 + 2x$;
 
 Se $A = a^2$; $B = ab^2$; $C = -\dfrac{c}{2}$ abbiamo che
 
- $a^2(ab^2 -\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$;    
+ $a^2(ab^2 -\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$. $\bullet$
+
+
 
 Il prodotto di due polinomi si ottiene moltiplicando il secondo polinomio per tutti i monomi del primo e sommando i risultati.
 
@@ -405,7 +419,7 @@ Il prodotto di due polinomi si ottiene moltiplicando il secondo polinomio per tu
 
 $(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
 
-$(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x \longrightarrow 1 + x - x -x^2 \longrightarrow 1 - x^2$;
+$(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x \longrightarrow 1 + x - x -x^2 \longrightarrow 1 - x^2$. $\bullet$
 
 
 
@@ -500,13 +514,11 @@ Un altro caso è $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x = 3ax(\dfrac{1}{4}ax -4x +
 
 Il comando per effettuare l'operazione con GEOGEBRA è Fattorizza, per cui l'esempio precedente diventa il seguente:
 
-$Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $ \longrightarrow $ $\dfrac{3}{4}ax(8a^2+ax -16x)$.
+$Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $ \longrightarrow $ $\dfrac{3}{4}ax(8a^2+ax -16x)$. $\bullet$
 
-------
 
-Una frazione algebrica è un rapporto tra un polinomio ed un monomio o tra due polinomi (di cui il precedente è un caso particolare). A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere fattorizzati e se hanno dei fattori in comune, che quindi si possono semplificare.
 
-Vediamo qualche caso.
+Una frazione algebrica è un rapporto tra un polinomio ed un monomio o tra due polinomi (di cui il precedente è un caso particolare). A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere fattorizzati e se hanno dei fattori in comune, che quindi si possono semplificare, come nell'esempio seguente.
 
 #### ESEMPIO 2
 
@@ -516,7 +528,7 @@ $\dfrac{2x(2x-1)}{4x^2}$ $\longrightarrow$ $\dfrac{2x-1}{2x}$.
 
 Nella frazione $\dfrac{2a-2}{5a-5}$, al numeratore si mette in evidenza $2$ ed al denominatore $5$, per cui possiamo scrivere:
 
-$\dfrac{2a-2}{5a-5}$ $\longrightarrow$ $\dfrac{2(a-1)}{5(a-1)}$  $\longrightarrow$ $\dfrac{2}{5}$
+$\dfrac{2a-2}{5a-5}$ $\longrightarrow$ $\dfrac{2(a-1)}{5(a-1)}$  $\longrightarrow$ $\dfrac{2}{5}$. $\bullet$
 
 
 
