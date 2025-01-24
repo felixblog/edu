@@ -51,14 +51,15 @@ Alle quantità deve essere dato un nome preciso ed appropriato.
 #### ESEMPIO 2
 
 - Nella domanda "**Quanti anni** ha la figlia di Maria?", la quantità richiesta è il "Età (misurata in anni) della figlia di Maria";
-- Nella domanda "**Quanti giornali** ha venduto?", la quantità richiesta è il "Numero di Copie Vendute";
 - Nella domanda "**Quanti soldi** erano rimasti?", la quantità richiesta è l'"Importo Monetario Rimasto" (misurato in euro);
-- Nella domanda "**Quante palline** sono rimaste nella scatola?", la quantità richiesta è la "numerosità" di un insieme di oggetti misurati in "unità" (di palline, di oggetti etc.);
+- Nella domanda "**Quante palline** sono rimaste nella scatola?", la quantità richiesta è la "numerosità" (il numero) di un insieme di oggetti e l'unità di misura è l'"unità" di oggetti coinvolti (unità di palline, unità di oggetti o altro). Le stesse considerazioni vanno fatte per domande come "**Quanti giornali** ha venduto?", "**Quante persone** sono a bordo della macchina ...".
 - In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
-- In "**Trova il numero** che diviso per due da 115" si parla di tre quantità: il numero richiesto, il numero divisore ed il numero risultato. Nessuna delle tre misure "misura" delle grandezze fisiche (lunghezza, peso, durata etc.) oppure economiche (importi monetari, giorni di lavoro etc.) per cui parliamo di numeri "puri". Anche in situazioni come "Solo i due terzi della strada erano asfaltati" la quantità che vale "due terzi", e che può essere definita "Rapporto tra lunghezza del tratto asfaltato e tutta la strada", è un numero puro e non ha una unità di misura.
+- In "**Trova il numero** che diviso per due da 115" si parla di tre quantità che potremmo indicare come il numero richiesto, il numero divisore ed il numero risultato. L'unità di misura è il numero "uno", nel senso che, ad esempio centoquindici è 115 volte il numero 1 e nessuna delle tre quantità è una misura di una grandezza fisica come una lunghezza, un peso, una durata o altro, oppure di una grandezza economica (importo monetario, giorni di lavoro etc.). $ \bullet$
 
-Come si vede, le somme di denaro vengono indicate come "importi", i periodi di tempo come "durate", poi abbiamo le lunghezze, i pesi eccetera. In generale il peso, la lunghezza, l'importo, si chiamano **grandezze** (fisiche, economiche etc.), mentre nelle situazioni specifiche indicate nei problemi le chiamiamo quantità. $ \bullet$
+Nell'ultimo caso ("Trova il numero che ...) le misure sono numeri "puri", ossia numeri senza unità di misura. Un altro caso di quantità senza unità di misura è quello di situazioni come "**Solo i due terzi** della strada erano asfaltati" ... La quantità che vale "due terzi", e che può essere definita "Rapporto tra lunghezza del tratto asfaltato e tutta la strada", è un numero puro e non ha una unità di misura.
+
+E' opportuno, nel nome delle quantità, utilizzare termini che precisano la loro natura, ossia indicare le somme di denaro come "importi", i periodi di tempo come "durate", le lunghezze come "distanze" o "lunghezze" etc. I pesi, le lunghezze, gli importi, si chiamano **grandezze** (fisiche, economiche etc.), mentre nelle situazioni specifiche indicate nei problemi le chiamiamo **quantità**. $ \bullet$
 
 
 
