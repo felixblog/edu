@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-23T14:48:39.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="QFlQ48SN3UuzBVYEAkQA" version="24.0.4" type="device" pages="4">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.7 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.7" pages="4">
   <diagram name="Diagrammi-1" id="adNDURB259T_IiHdilrD">
     <mxGraphModel dx="1050" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -218,50 +218,74 @@
         <mxCell id="kwobuAVEp-BLSN25UwAX-14" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Percentuale di Sconto&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$e1:\dfrac{P_l - P_s}{P_l}$$&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;$$s$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="924" y="554.5" width="87" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-1" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Utile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$$e1:2.100.000-x$$&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$e2: 20\% \cdot 2.100.000$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-1" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Utile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$$e1:2.100.000-x$$&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$e2: 20\% \cdot 2.100.000$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="924" y="963" width="129" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-2" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Fatturato&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$$R$$&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$$2.100.000$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-2" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Fatturato&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$$R$$&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;$$2.100.000$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="719.5" y="1008" width="70" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vod4vXPm_FU8ooXqPvmL-2" target="Vod4vXPm_FU8ooXqPvmL-1">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Vod4vXPm_FU8ooXqPvmL-2" target="Vod4vXPm_FU8ooXqPvmL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="923" y="1161" as="sourcePoint" />
             <mxPoint x="973" y="1111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-4" value="$$e2$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vod4vXPm_FU8ooXqPvmL-3">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-4" value="$$e2$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Vod4vXPm_FU8ooXqPvmL-3" vertex="1" connectable="0">
           <mxGeometry x="0.0304" y="-2" relative="1" as="geometry">
             <mxPoint x="25" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-5" value="Una azienda ha avuto, nell&#39;anno appena trascorso, un fatturato&#xa; di 2.100.000 euro ed un utile pari al 20\% del fatturato" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-5" value="Una azienda ha avuto, nell&#39;anno appena trascorso, un fatturato&#xa; di 2.100.000 euro ed un utile pari al 20\% del fatturato" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="690" y="1167" width="428" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-6" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Costo&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$x$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-6" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Costo&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$x$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="729" y="913" width="51" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vod4vXPm_FU8ooXqPvmL-6" target="Vod4vXPm_FU8ooXqPvmL-1">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Vod4vXPm_FU8ooXqPvmL-6" target="Vod4vXPm_FU8ooXqPvmL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="832" y="973" as="sourcePoint" />
             <mxPoint x="949" y="1024" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-8" value="$$e1$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vod4vXPm_FU8ooXqPvmL-7">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-8" value="$$e1$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Vod4vXPm_FU8ooXqPvmL-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0381" y="3" relative="1" as="geometry">
             <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vod4vXPm_FU8ooXqPvmL-2" target="Vod4vXPm_FU8ooXqPvmL-1">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vod4vXPm_FU8ooXqPvmL-2" target="Vod4vXPm_FU8ooXqPvmL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="801" y="1102" as="sourcePoint" />
             <mxPoint x="934" y="1054" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vod4vXPm_FU8ooXqPvmL-10" value="$$e1$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vod4vXPm_FU8ooXqPvmL-9">
+        <mxCell id="Vod4vXPm_FU8ooXqPvmL-10" value="$$e1$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Vod4vXPm_FU8ooXqPvmL-9" vertex="1" connectable="0">
           <mxGeometry x="0.0304" y="-2" relative="1" as="geometry">
             <mxPoint x="-36" y="-19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="irbMdgXcajklDOT4Z6r5-1" value="Uno studente percorre in bicicletta una strada di 20 Km ad una velocità di 12 Km/h​. Quale è il diagramma delle dipendenze?" style="text;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="17" y="1192" width="574" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="irbMdgXcajklDOT4Z6r5-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="VwTPtmdi5UU7tw5VQkH8-1" target="irbMdgXcajklDOT4Z6r5-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="273" y="1345" as="targetPoint" />
+            <mxPoint x="182" y="1314.1825095057034" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbMdgXcajklDOT4Z6r5-5" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Durata&amp;nbsp;&lt;br&gt;Viaggio&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$t$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="125.5" y="1413" width="69" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irbMdgXcajklDOT4Z6r5-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="irbMdgXcajklDOT4Z6r5-5" target="irbMdgXcajklDOT4Z6r5-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="1320" as="sourcePoint" />
+            <mxPoint x="273" y="1366.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbMdgXcajklDOT4Z6r5-8" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Velocità&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$v = \dfrac{s}{t}$$&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;$$12$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="275" y="1337" width="76" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VwTPtmdi5UU7tw5VQkH8-1" value="&lt;table style=&quot;border: 1px solid rgb(51, 0, 0); border-collapse: collapse; font-size: 12px;&quot; border=&quot;1&quot;&gt;&lt;tbody style=&quot;font-size: 12px;&quot;&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;Lunghezza Strada&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td border=&quot;1&quot; style=&quot;font-size: 12px; border: 1px solid rgb(51, 0, 0); border-collapse: collapse;&quot;&gt;$$s$$&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px;&quot;&gt;&lt;td style=&quot;font-size: 12px;&quot;&gt;$$20$$&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1254" width="62" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

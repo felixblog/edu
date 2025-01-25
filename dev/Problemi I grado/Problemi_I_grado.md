@@ -143,11 +143,60 @@ Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tr
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
+
+
 Il diagramma in figura è detto **diagramma delle dipendenze**, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso in cui questa sia nota. La freccia entrante indica che la misura della quantità dipende da una o più altre quantità e si calcola in base ad una espressione; poiché la quantità cui si riferiscono le espressioni di uno stesso rettangolo è la stessa, le espressioni tra di loro dovranno essere uguali.
+
+Oltre ai casi in cui la dipendenza si deduce dalle parole del testo, ci sono tanti altri casi in cui la dipendenza reciproca delle quantità in gioco in un problema è scritta in delle **formule**, che riguardano la situazione specifica.
+
+Consideriamo ad esempio il caso di un commerciante che acquista una automobile ad un costo $C$ e la rivende ad un prezzo $R$. L'utile $U$, o guadagno, di questa operazione è calcolato dalla differenza tra ricavo e costo, cioè $U = R - C$. 
+
+Questa formula ci dice che l'utile, il cui valore abbiamo indicato con $U$ dipende dalla quantità $R$ e dalla quantità $C$ e precisamente dalla loro differenza. Questo è un fatto generale: ogni volta che una quantità è uguale ad una espressione dove compaiono altre quantità, **la prima dipende dalle altre**. 
+
+Vediamo ad esempio il caso di problemi sulle aree dei rettangoli o problemi economici che riguardano lo sconto, il profitto o gli interessi.
 
 
 
 #### ESEMPIO 5
+
+Consideriamo il problema seguente: "Un viale di forma rettangolare, che conduce alla porta di ingresso di una casa, ha un'area di $24 \; m^2$ ed è largo $3$ metri. Trova la lunghezza del viale.". Quale è il diagramma delle dipendenze?
+
+Il testo del problema non indica la relazione tra la larghezza e la lunghezza del viale, ma presuppone che chi legge sappia che l'area $A$ di un rettangolo di lunghezza $l$ e di altezza $h$ si calcola moltiplicando le due quantità secondo la formula seguente:
+$$
+A = l \cdot h
+$$
+In questo caso è proprio la formula dell'area del rettangolo che ci dice che l'area $A$ dipende dalle due quantità secondo il diagramma seguente. $ \bullet$
+
+<img src="img/Viale-1.png" alt="Viale-1" style="zoom:80%;" />
+
+
+
+#### ESEMPIO 6
+
+Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è il diagramma per il calcolo della percentuale di sconto?
+
+Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro ed il Prezzo Scontato o  $Ps$, che è $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, 
+$$
+s = \dfrac{P_l-P_s}{P_l}
+$$
+
+Il diagramma delle dipendenze è quindi il seguente. $ \bullet$
+
+<img src="img/Sconto-1.png" alt="Sconto-1" style="zoom:80%;" />
+
+#### ESEMPIO 7
+
+Uno studente percorre in bicicletta una strada di $20 \; Km$ ad una velocità di $12 \; Km/h$​. Quale è il diagramma delle dipendenze?
+
+Sappiamo che la velocità di un corpo che si muove per una distanza $s$ impiegando un tempo $t$ è data dalla formula:
+$$
+v = \dfrac{s}{t}
+$$
+Abbiamo quindi:
+
+<img src="img/Velocita.png" alt="Velocita" style="zoom:80%;" />
+
+#### ESEMPIO 8
 
 Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le quantità e quali sono le relazioni tra di loro?
 
@@ -157,32 +206,7 @@ Le misure delle quantità coinvolte sono espresse tutte in relazione alla lunghe
 
 Non sempre il testo del problema contiene tutte le informazioni per individuare le relazioni di dipendenza tra le quantità e scrivere quindi le espressioni che le esprimono; molte volte si fa riferimento a formule, contenenti le quantità, che si suppongono note, come ad esempio quelle per il calcolo dell'area di un rettangolo o di un triangolo o il calcolo della percentuale di sconto. Vediamo un esempio
 
-#### ESEMPIO 6
 
-Quale è il diagramma delle dipendenze nel problema seguente? "Un viale di forma rettangolare, che conduce alla porta di ingresso di una casa, ha un'area di $24 \; m^2$ ed è largo $3$ metri. Trova la lunghezza del viale."
-
-Il problema non indica la relazione tra la larghezza e la lunghezza del viale, ma presuppone che chi legge sappia che l'area $A$ di un rettangolo di lunghezza $l$ e di altezza $h$ si calcola moltiplicando le due quantità secondo la formula seguente:
-$$
-A = l \cdot h
-$$
- In questo caso è proprio la formula che ci dice che l'area $A$ dipende dalle due quantità secondo il diagramma seguente. $ \bullet$
-
-<img src="img/Viale-1.png" alt="Viale-1" style="zoom:80%;" />
-
-
-
-#### ESEMPIO 7
-
-Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è il diagramma per il calcolo della percentuale di sconto?
-
-Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro, Prezzo Scontato o  $Ps$, che è $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, 
-$$
-s = \dfrac{P_l-P_s}{P_l}
-$$
-
-Il diagramma delle dipendenze è quindi il seguente. $ \bullet$
-
-<img src="img/Sconto-1.png" alt="Sconto-1" style="zoom:80%;" />
 
 
 
@@ -397,11 +421,7 @@ Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quant
 
 Dalla formula, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.
 
-#### ESEMPIO 2
 
-Uno studente deve percorrere in bicicletta una strada di $20 \; Km$. Se mantiene una velocità di $12 \; Km/h$​, quanto tempo dovrà pedalare?
-
-Dalla formula, esplicitando la $t$, ossia risolvendo come se $t$ fosse l'unica incognita, otteniamo $t = \dfrac{s}{v}$, cioè $t = \dfrac{20}{12} \longrightarrow 1,66 \;h$.
 
 #### ESEMPIO 3
 
