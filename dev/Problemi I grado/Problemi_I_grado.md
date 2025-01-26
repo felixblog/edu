@@ -151,7 +151,7 @@ Oltre ai casi in cui la dipendenza si deduce dalle parole del testo, ci sono tan
 
 Consideriamo ad esempio il caso di un commerciante che acquista una automobile ad un costo $C$ e la rivende ad un prezzo $R$. L'utile $U$, o guadagno, di questa operazione è calcolato dalla differenza tra ricavo e costo, cioè $U = R - C$. 
 
-Questa formula ci dice che l'utile, il cui valore abbiamo indicato con $U$ dipende dalla quantità $R$ e dalla quantità $C$ e precisamente dalla loro differenza. Questo è un fatto generale: ogni volta che una quantità è uguale ad una espressione dove compaiono altre quantità, **la prima dipende dalle altre**. 
+Questa formula ci dice che l'utile, il cui valore abbiamo indicato con $U$ dipende dalla quantità $R$ e dalla quantità $C$ e precisamente dalla loro differenza. Questo è un fatto generale: ogni volta che una quantità è uguale ad una espressione dove compaiono altre quantità, **la prima dipende dalle altre**. 
 
 Vediamo ad esempio il caso di problemi sulle aree dei rettangoli o problemi economici che riguardano lo sconto, il profitto o gli interessi.
 
@@ -167,7 +167,7 @@ A = l \cdot h
 $$
 In questo caso è proprio la formula dell'area del rettangolo che ci dice che l'area $A$ dipende dalle due quantità secondo il diagramma seguente. $ \bullet$
 
-<img src="img/Viale-1.png" alt="Viale-1" style="zoom:80%;" />
+<img src="img/Rettangolo.png" alt="Viale-1" style="zoom:80%;" />
 
 
 
@@ -186,15 +186,15 @@ Il diagramma delle dipendenze è quindi il seguente. $ \bullet$
 
 #### ESEMPIO 7
 
-Uno studente percorre in bicicletta una strada di $20 \; Km$ ad una velocità di $12 \; Km/h$​. Quale è il diagramma delle dipendenze?
+Uno studente percorre in bicicletta una strada di $20 \; Km$ ad una velocità di $12 \; Km/h$​. Quale è il diagramma delle dipendenze?
 
-Sappiamo che la velocità di un corpo che si muove per una distanza $s$ impiegando un tempo $t$ è data dalla formula:
+Sappiamo che la velocità di un corpo che si muove per una distanza $s$ impiegando un tempo $t$ è data dalla formula:
 $$
 v = \dfrac{s}{t}
 $$
-Abbiamo quindi:
+Applicando la formula in questo caso abbiamo $12 = \dfrac{20}{t}$, quindi:
 
-<img src="img/Velocita.png" alt="Velocita" style="zoom:80%;" />
+<img src="img/Viale-1.png" alt="Velocita" style="zoom:80%;" />
 
 #### ESEMPIO 8
 
@@ -308,7 +308,7 @@ La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrigh
 
 Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quale è il costo sostenuto?
 
-Il diagramma è quello dell'esempio 4.
+Il diagramma è quello dell'esempio 3.
 
 <img src="img/Fatturato-Utile-2.png" alt="Fatturato-Utile-2" style="zoom:80%;" />
 
