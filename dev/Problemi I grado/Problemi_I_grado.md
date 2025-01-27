@@ -159,7 +159,7 @@ Nel testo si parla di tre quantità "Fatturato", "Utile" e "Percentuale di Utile
 $$
 U = 20\% \cdot F
 $$
- Le quantità indipendenti sono "Fatturato" e "Percentuale di Utile", quella dipendente è l'"Utile". 
+ Le quantità indipendenti sono "Fatturato" e "Percentuale di Utile", quella dipendente è l'"Utile". 
 
 Un diagramma che rappresenta le dipendenze è il seguente. $ \bullet$
 
@@ -187,11 +187,11 @@ Il testo del problema non indica la relazione tra la larghezza e la lunghezza de
 $$
 A = l \cdot h
 $$
-Nel testo del problema, la quantità richiesta è la lunghezza $l$ del viale ed utilizzando la formula dell'area del rettangolo in questo caso specifico, abbiamo il diagramma seguente. 
+Nel testo del problema, la quantità richiesta è la lunghezza $l$ del viale ed utilizzando la formula dell'area del rettangolo in questo caso specifico, abbiamo il diagramma seguente. 
 
 <img src="img/Rettangolo.png" alt="Viale-1" style="zoom:80%;" />
 
-Il diagramma ci dice che in questo problema l'area dipende dalla lunghezza (essendo la larghezza un numero dato) e che le due espressioni $ 3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
+Il diagramma ci dice che in questo problema l'area dipende dalla lunghezza (essendo la larghezza un numero dato) e che le due espressioni $ 3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
 
 
 
@@ -254,9 +254,9 @@ e)  Una somma di 1750 euro deve essere divisa tra due persone e la seconda ha i 
 
 ## UNITA' 3: Incognite ed equazioni risolutive 
 
-A questo punto bisogna organizzare le dipendenze trovate in modo che tutte le quantità dipendano, direttamente o indirettamente, da una sola quantità di cui il problema non ci fornisce la misura (e da altre note).
+A questo punto bisogna organizzare le dipendenze trovate in modo che tutte le quantità dipendano da **una sola quantità indipendente non nota** (ossia di cui il problema non ci fornisce la misura).
 
-Dopo aver organizzato queste dipendenze, la quantità non nota da cui tutte le altre dipendono viene chiamata con una lettera, detta incognita, ed a tutte quelle dipendenti viene associata una espressione letterale che ne fornisce la misura se sapessimo quella della incognita: questo passo è detto propagazione dell'incognita.
+Dopo aver organizzato queste dipendenze, la quantità non nota da cui tutte le altre dipendono viene chiamata con una lettera, detta **incognita**, ed a tutte quelle dipendenti viene associata una espressione letterale che ne fornisce la misura se sapessimo quella della incognita: questo passo è detto propagazione dell'incognita.
 
 A volte la semplice propagazione fornisce la soluzione del problema, come negli esempi seguenti (in cui indichiamo in rosso le espressioni calcolate).
 
@@ -264,9 +264,17 @@ A volte la semplice propagazione fornisce la soluzione del problema, come negli 
 
 Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza del camion è $18$ metri. Quale è la misura della lunghezza della trave?
 
+Le quantità contenute nel testo sono tre: lunghezza della trave, lunghezza del camion e rapporto tra lunghezza di trave e camion. Due quantità sono note e la lunghezza della trave è la quantità richiesta. Quest'ultima dipende dalle prime due. Il tutto è riassunto nel diagramma seguente:
+
+ <img src="img/camion-trave-1.5.png" alt="camion-trave-2" style="zoom:80%;" />
+
+Il calcolo della trave da $18$.
+
+Nel diagramma seguente è indicata l'espressione letterale della dipendenza.
+
 <img src="img/camion-trave-2.png" alt="camion-trave-2" style="zoom:80%;" />
 
-La lunghezza del camion è nota, quella della trave, quantità richiesta dal problema, no. Dalla figura si vede però come la seconda dipende dalla prima per cui, propagando i valori si ha $Sostituisci(\dfrac{2}{3} \cdot l,\{l=18\}) \longrightarrow 12$. $ \bullet$
+Per trovare la risposta basta propagare i valori: $Sostituisci(\dfrac{2}{3} \cdot l,\{l=18\}) \longrightarrow 12$. $ \bullet$
 
 
 
@@ -274,14 +282,24 @@ La lunghezza del camion è nota, quella della trave, quantità richiesta dal pro
 
 Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
 
-Per risolvere il problema basta propagare i valori.
+La formula per risolvere il problema è:
 $$
 s = \dfrac{P_l-P_s}{P_l}
 $$
 
+Il diagramma delle dipendenze con le sole quantità letterali, senza le loro misure è:
+
+ <img src="img/Sconto-1.5.png" alt="Sconto-1.5" style="zoom:80%;" />
+
+
+
+La soluzione del problema si ottiene sostituendo i numeri alle lettere: $s = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$, oppure con GEOGEBRA $Sostituisci(s=\dfrac{P_l-P_s}{P_l},\{P_l=48, P_s=18\}) \longrightarrow s=0,62$ $ \bullet$
+
 <img src="img/Sconto-2.png" alt="Sconto-2" style="zoom:80%;" />
 
-Sostituendo i numeri alle lettere otteniamo $s = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$, oppure con GEOGEBRA $Sostituisci(s=\dfrac{P_l-P_s}{P_l},\{P_l=48, P_s=18\}) \longrightarrow s=0,62$ $ \bullet$
+
+
+
 
 
 
@@ -293,14 +311,15 @@ Se la quantità richiesta non è stata trovata ed è rimasta incognita, chiamiam
 
 Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Se indichiamo con $x$ la misura del costo sostenuto, quale è il diagramma delle dipendenze?
 
-Nel testo si parla di "Fatturato", "Utile", "Costo", ed una relazione tra di loro.
-Per cui  $\text{Utile}= 20 \% \cdot \text{Fatturato}$, ma sappiamo anche che $\text{Utile} = \text{Fatturato} -\text{Costo}$. Il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema ($e_2)$, mentre il secondo ci permette di impostare una espressione per l'utile $(e_1)$ generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
+Nel testo si parla di "Fatturato" (la cui misura indichiamo con $R$), "Utile" (la cui misura indichiamo con $U$) e "Costo", che indichiamo con $C$. Il testo indica una relazione tra Fatturato ed Utile, che possiamo scrivere come $U = 20\% \cdot R$.
+
+Noi però sappiamo che c'è anche la relazione fondamentale tra $R$, $C$ ed $U$: $U = R - C$; il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema mentre il secondo ci permette di impostare una espressione per l'utile generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
 
 <img src="img/Fatturato-Utile-1_5.png" alt="Fatturato-Utile-1_5" style="zoom:80%;" />
 
 
 
-A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità per la quale possiamo individuare ***due espressioni diverse per calcolare la misura***, ad esempio una letterale e l'altra numerica o entrambe letterali. Queste due espressioni dovranno essere ovviamente essere uguali e questa uguaglianza ci fornisce l'***equazione risolutiva*** del problema cercata. La sua soluzione sarà la soluzione del problema.
+A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità per la quale possiamo individuare ***due espressioni diverse per calcolare la misura***, ad esempio una letterale e l'altra numerica o entrambe letterali. Queste due espressioni dovranno essere ovviamente essere uguali e questa uguaglianza ci fornisce l'***equazione risolutiva*** del problema cercata. La sua soluzione sarà la soluzione del problema. $\bullet$
 
 
 
