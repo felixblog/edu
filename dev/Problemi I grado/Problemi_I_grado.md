@@ -309,11 +309,11 @@ Se la quantità richiesta non è stata trovata ed è rimasta incognita, chiamiam
 
 #### ESEMPIO 3
 
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Se indichiamo con $x$ la misura del costo sostenuto, quale è il diagramma delle dipendenze?
+Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quale è il costo sostenuto?
 
 Nel testo si parla di "Fatturato" (la cui misura indichiamo con $R$), "Utile" (la cui misura indichiamo con $U$) e "Costo", che indichiamo con $C$. Il testo indica una relazione tra Fatturato ed Utile, che possiamo scrivere come $U = 20\% \cdot R$.
 
-Noi però sappiamo che c'è anche la relazione fondamentale tra $R$, $C$ ed $U$: $U = R - C$; il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema mentre il secondo ci permette di impostare una espressione per l'utile generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
+Noi però sappiamo che c'è anche la relazione fondamentale tra $R$, $C$ ed $U$: $U = R - C$; il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema mentre il secondo ci permette di impostare una espressione per l'utile generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
 
 <img src="img/Fatturato-Utile-1_5.png" alt="Fatturato-Utile-1_5" style="zoom:80%;" />
 
@@ -331,7 +331,7 @@ Riprendendo il diagramma dell'esempio precedente, abbiamo la situazione seguente
 
 <img src="img/Maria-Figlia-2.png" alt="Maria-Figlia-2" style="zoom:80%;" />
 
-Le due espressioni che misurano gli anni di Maria devono essere uguali, cioè vale l'equazione $2 \cdot f = 50$ che imlica che gli anni della figlia di Maria sono 25: $Risolvi(2f=50, \{f\}) \longrightarrow f=25$. $ \bullet$
+Le due espressioni che misurano gli anni di Maria devono essere uguali, cioè vale l'equazione $2 \cdot f = 50$ che implica che gli anni della figlia di Maria sono 25: $Risolvi(2f=50, \{f\}) \longrightarrow f=25$. $ \bullet$
 
 
 
@@ -351,24 +351,8 @@ La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrigh
 
 
 
+
 #### ESEMPIO 6
-
-Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quale è il costo sostenuto?
-
-Il diagramma è quello dell'esempio 3.
-
-<img src="img/Fatturato-Utile-2.png" alt="Fatturato-Utile-2" style="zoom:80%;" />
-
-Le due espressioni dell'utile devono essere uguali per cui abbiamo l'equazione:
-$$
-2.100.000 - C = 20\% \cdot 2.100.000
-$$
-che ha soluzione $Risolvi(2.100.000 - C = 20 \cdot \dfrac{1}{100} \cdot 2.100.000, \{C\}) \longrightarrow C=1.680.000$. $ \bullet$​
-
-
-
-
-#### ESEMPIO 7
 
 In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati e sono anche il quintuplo degli impiegati. Disegna il diagramma delle dipendenze.
 
@@ -383,7 +367,7 @@ L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$, come si vede 
 
 
 
-#### ESEMPIO 8
+#### ESEMPIO 7
 
 Un terzo di un palo è conficcato nel terreno ed un quarto è immerso nell’acqua. Determina la lunghezza del palo sapendo che la parte che emerge è lunga $5$ metri.
 
