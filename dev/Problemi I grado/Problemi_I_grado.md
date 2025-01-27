@@ -105,23 +105,35 @@ c) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un 
 
 ## UNITA' 2: Relazioni tra quantità e dipendenze
 
-Le quantità di cui si parla nel testo di un problema non sono indipendenti l'una dalle altre, ossia se sappiamo quanto misura una possiamo calcolare quanto misurano le altre. Facciamo alcuni esempi.
+Le quantità di cui si parla nel testo di un problema non sono tutte indipendenti l'una dalle altre, ma alcune dipendono da altre, ossia se sappiamo quanto misura una possiamo calcolare quanto misurano le altre. 
+
+Consideriamo il problema "Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?" si vede chiaramente che l'età di Maria dipende dall'età della figlia poichè se la figlia ha $25$ anni, Maria ne ha $50$, se la figlia ne ha $30$ Maria ne ha $60$ e così via.
+
+Anche l'età della figlia dipende da quella di Maria, perché se Maria ha $54$ anni, la figlia ne ha la metà, ossia $27$: sta a noi decidere quale quantità dipende da quale, ma una volta deciso, possiamo dividere le quantità di un problema in due parti: le quantità dipendenti e quelle indipendenti.
+
+Vediamo altri esempi.
+
+
 
 #### ESEMPIO 1
 
 "Una trave di cemento è i due terzi del camion che la trasporta. E' più lunga la trave o il camion? E se il camion è lungo $15 \; m$​ quanto è lunga la trave?"
 
-Chiamando con $l$ la lunghezza del camion abbiamo che
+Chiamando con $l$ la lunghezza del camion (ad esempio misurata in metri) possiamo dire che la quantità dipendente è la lunghezza della trave e quella indipendente è la lunghezza del camion. 
+
+Possiamo rappresentare graficamente questo con un diagramma:
 
 <img src="img/camion-trave-1.png" alt="camion-trave-1" style="zoom:80%;" />
 
-Si vede chiaramente che la lunghezza della trave dipende da quella del camion e che se il camion, ad esempio è lungo $15 \;m$ la trave è lunga $10 \;m$ e quindi è più lungo il camion.$ \bullet$​
+Si vede chiaramente che la lunghezza della trave dipende da quella del camion e che se il camion, ad esempio è lungo $15 \;m$ la trave è lunga $10 \;m$ e quindi il camion è più lungo della trave. $\bullet$
+
+
 
 #### ESEMPIO 2
 
 In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati. Quali sono le quantità e le loro relazioni?
 
-Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendenti", cioè se ne conosciamo una l'altra la troviamo facilmente, perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. Osserviamo che nessuna delle due quantità è nota. $ \bullet$
+Le quantità sono "Numero di Impiegati" e "Numero di Operai". Il testo ci dice che il numero di operai dipende dal numero di impiegati perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. Osserviamo che nessuna delle due quantità è nota. $ \bullet$
 
 <img src="img/Impiegati-Operai-1.png" alt="Impiegati-Operai-1" style="zoom:80%;" />
 
@@ -131,27 +143,37 @@ Abbiamo "Numero di Impiegati" e "Numero di Operai". Le due non sono "indipendent
 
 Maria ha 50 anni ed ha il doppio degli anni di sua figlia.
 
-Indicando con la lettera $f$ il numero degli anno della figlia di Maria, abbiamo la situazione seguente. $ \bullet$
+Indicando con la lettera $f$ il numero degli anni della figlia di Maria, abbiamo la situazione seguente. 
 
 <img src="img/Maria-Figlia-1.png" alt="Maria-Figlia-1" style="zoom:80%;" />
+
+Il diagramma indica che le quantità indipendenti sono l'età della figlia di Maria mentre quelle dipendenti sono l'età di Maria. L'età di Maria risulta calcolata come una espressione che contiene l'età della figlia, ma risulta anche uguale a $50$ anni. $\bullet$
+
+  
 
 #### ESEMPIO 4
 
 Una azienda ha avuto, nell'anno appena trascorso, un utile pari al $20\%$ del fatturato. Quali sono le relazioni tra le quantità?
 
-Nel testo si parla di due quantità, "Fatturato" ed "Utile", ed una relazione tra di loro. se chiamiamo con la lettera $x$ il fatturato, abbiamo il diagramma seguente. $ \bullet$
+Nel testo si parla di tre quantità "Fatturato", "Utile" e "Percentuale di Utile (sul Fatturato)". Il testo dice che l'utile, che possiamo indicare con $U$ è il $20\%$ del Fatturato (che indichiamo con $F$, il che ci fa la formula
+$$
+U = 20\% \cdot F
+$$
+ Le quantità indipendenti sono "Fatturato" e "Percentuale di Utile", quella dipendente è l'"Utile". 
+
+Un diagramma che rappresenta le dipendenze è il seguente. $ \bullet$
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
 
 
-Il diagramma in figura è detto **diagramma delle dipendenze**, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso in cui questa sia nota. La freccia entrante indica che la misura della quantità dipende da una o più altre quantità e si calcola in base ad una espressione; poiché la quantità cui si riferiscono le espressioni di uno stesso rettangolo è la stessa, le espressioni tra di loro dovranno essere uguali.
+Il diagramma in figura è detto **diagramma delle dipendenze**, perché indica come le quantità, rappresentate dai rettangoli, dipendono tra di loro. Ogni quantità ha un rettangolo con due o più scompartimenti; nel più alti c'è il nome della quantità, e negli altri le espressioni letterali che indicano i modi in cui la quantità si può calcolare o la sua misura nel caso in cui questa sia nota. La freccia entrante indica che la misura della quantità dipende da una o più altre quantità e si calcola in base ad una espressione.
 
 Oltre ai casi in cui la dipendenza si deduce dalle parole del testo, ci sono tanti altri casi in cui la dipendenza reciproca delle quantità in gioco in un problema è scritta in delle **formule**, che riguardano la situazione specifica.
 
 Consideriamo ad esempio il caso di un commerciante che acquista una automobile ad un costo $C$ e la rivende ad un prezzo $R$. L'utile $U$, o guadagno, di questa operazione è calcolato dalla differenza tra ricavo e costo, cioè $U = R - C$. 
 
-Questa formula ci dice che l'utile, il cui valore abbiamo indicato con $U$ dipende dalla quantità $R$ e dalla quantità $C$ e precisamente dalla loro differenza. Questo è un fatto generale: ogni volta che una quantità è uguale ad una espressione dove compaiono altre quantità, **la prima dipende dalle altre**. 
+Questa formula ci dice che l'utile, il cui valore abbiamo indicato con $U$ dipende dalla quantità $R$ e dalla quantità $C$ e precisamente dalla loro differenza. Questo è un fatto generale: ogni volta che una quantità è uguale ad una espressione dove compaiono altre quantità, **la prima dipende da quelle presenti nell'espressione **. 
 
 Vediamo ad esempio il caso di problemi sulle aree dei rettangoli o problemi economici che riguardano lo sconto, il profitto o gli interessi.
 
@@ -165,9 +187,11 @@ Il testo del problema non indica la relazione tra la larghezza e la lunghezza de
 $$
 A = l \cdot h
 $$
-In questo caso è proprio la formula dell'area del rettangolo che ci dice che l'area $A$ dipende dalle due quantità secondo il diagramma seguente. $ \bullet$
+Nel testo del problema, la quantità richiesta è la lunghezza $l$ del viale ed utilizzando la formula dell'area del rettangolo in questo caso specifico, abbiamo il diagramma seguente. 
 
 <img src="img/Rettangolo.png" alt="Viale-1" style="zoom:80%;" />
+
+Il diagramma ci dice che in questo problema l'area dipende dalla lunghezza (essendo la larghezza un numero dato) e che le due espressioni $ 3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
 
 
 
@@ -175,14 +199,20 @@ In questo caso è proprio la formula dell'area del rettangolo che ci dice che l'
 
 Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è il diagramma per il calcolo della percentuale di sconto?
 
-Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro ed il Prezzo Scontato o  $Ps$, che è $18$ euro. Ci viene chiesta la percentuale di sconto, che possiamo indicare con $s$. Per risolverlo dobbiamo ricordare la definizione di percentuale di sconto che è il rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, 
+Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo di Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro, il Prezzo Scontato o  $Ps$, che è $18$ euro e la percentuale di sconto, che è la quantità richiesta e che possiamo indicare con $s$.
+
+Per risolvere il problema dobbiamo ricordare la formula che definisce la percentuale di sconto come rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, 
 $$
 s = \dfrac{P_l-P_s}{P_l}
 $$
 
-Il diagramma delle dipendenze è quindi il seguente. $ \bullet$
+Il diagramma delle dipendenze è quindi il seguente. 
 
 <img src="img/Sconto-1.png" alt="Sconto-1" style="zoom:80%;" />
+
+In questo problema tutte le quantità indipendenti sono date e le uniche dipendenti sono lo sconto e la percentuale di sconto, che si possono quindi facilmente calcolare. $\bullet$
+
+ 
 
 #### ESEMPIO 7
 
@@ -196,17 +226,15 @@ Applicando la formula in questo caso abbiamo $12 = \dfrac{20}{t}$, quindi:
 
 <img src="img/Viale-1.png" alt="Velocita" style="zoom:80%;" />
 
+
+
 #### ESEMPIO 8
 
 Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le quantità e quali sono le relazioni tra di loro?
 
-Le misure delle quantità coinvolte sono espresse tutte in relazione alla lunghezza del palo, che per semplicità chiamiamo con la lettera $x$, come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra. $ \bullet$
+Le misure delle quantità coinvolte si possono facilmente scrivere facendole dipendere dalla lunghezza del palo, che per semplicità chiamiamo con la lettera $x$, come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra. $ \bullet$
 
 <img src="img/Palo-1.png" alt="Palo-1" style="zoom:80%;" />
-
-Non sempre il testo del problema contiene tutte le informazioni per individuare le relazioni di dipendenza tra le quantità e scrivere quindi le espressioni che le esprimono; molte volte si fa riferimento a formule, contenenti le quantità, che si suppongono note, come ad esempio quelle per il calcolo dell'area di un rettangolo o di un triangolo o il calcolo della percentuale di sconto. Vediamo un esempio
-
-
 
 
 
