@@ -266,7 +266,7 @@ Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza d
 
 Le quantità contenute nel testo sono tre: lunghezza della trave, lunghezza del camion e rapporto tra lunghezza di trave e camion. Due quantità sono note e la lunghezza della trave è la quantità richiesta. Quest'ultima dipende dalle prime due. Il tutto è riassunto nel diagramma seguente:
 
- <img src="img/camion-trave-1.5.png" alt="camion-trave-2" style="zoom:80%;" />
+ <img src="img/camion-trave-1.5.png" alt="camion-trave-1.5" style="zoom:80%;" />
 
 Il calcolo della trave da $18$.
 
