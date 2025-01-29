@@ -289,7 +289,7 @@ $$
 
 Il diagramma delle dipendenze con le sole quantità letterali, senza le loro misure è:
 
- <img src="img/Sconto-1.5.png" alt="Sconto-1.5" style="zoom:80%;" />
+<img src="img/Sconto-1.5.png" alt="Sconto-2" style="zoom:80%;" />
 
 
 
@@ -319,7 +319,7 @@ Noi però sappiamo che c'è anche la relazione fondamentale tra $R$, $C$ ed $U$:
 
 
 
-A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità per la quale possiamo individuare ***due espressioni diverse per calcolare la misura***, ad esempio una letterale e l'altra numerica o entrambe letterali. Queste due espressioni dovranno essere ovviamente essere uguali e questa uguaglianza ci fornisce l'***equazione risolutiva*** del problema cercata. La sua soluzione sarà la soluzione del problema. $\bullet$
+A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità per la quale possiamo individuare ***due espressioni diverse per calcolare la misura***, ad esempio una letterale e l'altra numerica o entrambe letterali. Queste due espressioni dovranno essere ovviamente essere uguali e questa uguaglianza ci fornisce l'***equazione risolutiva*** del problema. La sua soluzione sarà la soluzione del problema. $\bullet$
 
 
 
