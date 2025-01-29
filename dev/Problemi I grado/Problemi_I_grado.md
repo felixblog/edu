@@ -189,9 +189,9 @@ A = l \cdot h
 $$
 Nel testo del problema, la quantità richiesta è la lunghezza $l$ del viale ed utilizzando la formula dell'area del rettangolo in questo caso specifico, abbiamo il diagramma seguente. 
 
-<img src="img/Rettangolo.png" alt="Viale-1" style="zoom:80%;" />
+<img src="img/Viale-1.png" alt="Viale-1" style="zoom:80%;" />
 
-Il diagramma ci dice che in questo problema l'area dipende dalla lunghezza (essendo la larghezza un numero dato) e che le due espressioni $ 3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
+Il diagramma ci dice che in questo problema l'area dipende dalla lunghezza e dalla larghezza, ma che la larghezza è un numero dato. Inoltre le due espressioni $ 3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
 
 
 
