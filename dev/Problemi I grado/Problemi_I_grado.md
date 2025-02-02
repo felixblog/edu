@@ -195,7 +195,7 @@ In particolare, l'area è il triplo della lunghezza, per cui possiamo scrivere i
 
 <img src="img/Rettangolo.png" alt="Viale-1" style="zoom:80%;" />
 
-Poiché l'area è anche uguale a $24$ abbiamo che $3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
+Poiché l'area è anche uguale a $24$ abbiamo che $3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
 
 
 
@@ -210,7 +210,7 @@ $$
 s = \dfrac{P_l-P_s}{P_l}
 $$
 
-La percentuale di sconto dipende da due quantità, $P_l$ e $P_s$, che nel caso di questo problema sono tutte e due note. Il diagramma delle dipendenze è quindi il seguente. 
+La percentuale di sconto dipende da due quantità, $P_l$ e $P_s$, che nel caso di questo problema sono tutte e due note. Il diagramma delle dipendenze è quindi il seguente. 
 
 <img src="img/Sconto-1.png" alt="Sconto-1" style="zoom:80%;" />
 
@@ -230,11 +230,11 @@ In questo problema specifico, la velocità è nota, per cui la formula diventa:
 $$
 12 = \dfrac{s}{t}
 $$
-Moltiplicando entrambi i membri per $t$ otteniamo la formula equivalente:
+Moltiplicando entrambi i membri per $t$ otteniamo la formula equivalente:
 $$
 s = 12 \cdot t
 $$
-Dalla questa si vede come in questo problema la distanza percorsa dipenda dalla durata del movimento $t$. Sapendo dal problema che la distanza è $12 \; Km$ il diagramma diventa:
+Dalla questa si vede come in questo problema la distanza percorsa dipenda dalla durata del movimento $t$. Sapendo dal problema che la distanza è $12 \; Km$ il diagramma diventa:
 
 <img src="img/Velocita2.png" alt="Velocita" style="zoom:80%;" />
 
@@ -280,7 +280,7 @@ Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza d
 
 Le quantità contenute nel testo sono tre: lunghezza della trave, lunghezza del camion e rapporto tra lunghezza di trave e camion. Due quantità sono note e la lunghezza della trave è la quantità richiesta. Quest'ultima dipende dalle prime due. Il tutto è riassunto nel diagramma seguente:
 
- <img src="img/camion-trave-1.5.png" alt="camion-trave-1.5" style="zoom:80%;" />
+<img src="img/camion-trave-1.5.png" alt="camion-trave-1.5" style="zoom:80%;" />
 
 Il calcolo della trave da $18$.
 
@@ -525,7 +525,7 @@ Esaminiamo due casi distinti:
    $$
    \dfrac{Q}{t} = \dfrac{q_1}{t} + \dfrac{q_2}{t}
    $$
-   ed indicando con $\Pi = \dfrac{Q}{t}$ scriviamo
+   ed indicando con $\Pi = \dfrac{Q}{t}$ scriviamo
 
 $$
 \Pi = \pi_1 + \pi_2 \\
