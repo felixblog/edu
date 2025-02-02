@@ -105,7 +105,7 @@ c) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un 
 
 ## UNITA' 2: Relazioni tra quantità e dipendenze
 
-Le quantità di cui si parla nel testo di un problema non sono tutte indipendenti l'una dalle altre, ma alcune dipendono da altre, ossia se sappiamo quanto misura una possiamo calcolare quanto misurano le altre. 
+Le quantità di cui si parla nel testo di un problema non sono tutte indipendenti l'una dalle altre, ma alcune dipendono da altre, ossia **se sappiamo quanto misura una possiamo calcolare quanto misurano le altre**. 
 
 Consideriamo il problema "Maria ha 50 anni ed ha il doppio degli anni di sua figlia. Quanti anni ha la figlia di Maria?" si vede chiaramente che l'età di Maria dipende dall'età della figlia poichè se la figlia ha $25$ anni, Maria ne ha $50$, se la figlia ne ha $30$ Maria ne ha $60$ e così via.
 
@@ -187,11 +187,15 @@ Il testo del problema non indica la relazione tra la larghezza e la lunghezza de
 $$
 A = l \cdot h
 $$
-Nel testo del problema, la quantità richiesta è la lunghezza $l$ del viale ed utilizzando la formula dell'area del rettangolo in questo caso specifico, abbiamo il diagramma seguente. 
+Come si vede, dalla formula generale, l'area dipende sia dalla lunghezza che dall'altezza del rettangolo, ma nel caso di questo problema, poiché la larghezza del viale è nota, l'area dipende solo dalla lunghezza, come si vede sostituendo i numeri alle lettere:
+$$
+A = l \cdot 3
+$$
+In particolare, l'area è il triplo della lunghezza, per cui possiamo scrivere il  diagramma seguente. 
 
 <img src="img/Rettangolo.png" alt="Viale-1" style="zoom:80%;" />
 
-Il diagramma ci dice che in questo problema l'area dipende dalla lunghezza e dalla larghezza, ma che la larghezza è un numero dato. Inoltre le due espressioni $ 3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
+Poiché l'area è anche uguale a $24$ abbiamo che $3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
 
 
 
@@ -201,12 +205,12 @@ Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è i
 
 Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo di Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro, il Prezzo Scontato o  $Ps$, che è $18$ euro e la percentuale di sconto, che è la quantità richiesta e che possiamo indicare con $s$.
 
-Per risolvere il problema dobbiamo ricordare la formula che definisce la percentuale di sconto come rapporto tra una quarta quantità, lo sconto $P_l - P_s$ e $P_l$, espressa in percentuale, 
+Per risolvere il problema dobbiamo ricordare la formula che definisce la percentuale di sconto come rapporto tra lo sconto (assoluto) $P_l - P_s$, e $P_l$, espressa in percentuale, 
 $$
 s = \dfrac{P_l-P_s}{P_l}
 $$
 
-Il diagramma delle dipendenze è quindi il seguente. 
+La percentuale di sconto dipende da due quantità, $P_l$ e $P_s$, che nel caso di questo problema sono tutte e due note. Il diagramma delle dipendenze è quindi il seguente. 
 
 <img src="img/Sconto-1.png" alt="Sconto-1" style="zoom:80%;" />
 
@@ -218,13 +222,23 @@ In questo problema tutte le quantità indipendenti sono date e le uniche dipende
 
 Uno studente percorre in bicicletta una strada di $20 \; Km$ ad una velocità di $12 \; Km/h$​. Quale è il diagramma delle dipendenze?
 
-Sappiamo che la velocità di un corpo che si muove per una distanza $s$ impiegando un tempo $t$ è data dalla formula:
+Sappiamo che la velocità di un corpo che si muove per una distanza $s$ impiegando un tempo $t$ è data in generale dalla formula:
 $$
 v = \dfrac{s}{t}
 $$
-Applicando la formula in questo caso abbiamo $12 = \dfrac{20}{t}$, quindi:
+In questo problema specifico, la velocità è nota, per cui la formula diventa:
+$$
+12 = \dfrac{s}{t}
+$$
+Moltiplicando entrambi i membri per $t$ otteniamo la formula equivalente:
+$$
+s = 12 \cdot t
+$$
+Dalla questa si vede come in questo problema la distanza percorsa dipenda dalla durata del movimento $t$. Sapendo dal problema che la distanza è $12 \; Km$ il diagramma diventa:
 
-<img src="img/Viale-1.png" alt="Velocita" style="zoom:80%;" />
+<img src="img/Velocita2.png" alt="Velocita" style="zoom:80%;" />
+
+Dove si vede chiaramente che l'equazione che risolve il problema è $12 \cdot t = 20$. $\bullet$
 
 
 
@@ -436,25 +450,31 @@ c) Risolvi i seguenti problemi.
 
 ## UNITA' 4: Problemi su moto e velocità
 
-La velocità la misura della rapidità con la quale un fenomeno si manifesta o un processo si svolge. Se osserviamo il movimento di una automobile su una strada dritta, vediamo che questa percorre, in un certo tempo un certo spazio, ad esempio in $2$ ore percorre $100 \; Km$: possiamo dire che l'automobile ha una velocità di moto di $\dfrac{100}{2} = 50 \; Km/h$​. 
+La velocità misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge.
 
-La velocità di un oggetto che si muove è quindi misurata dal rapporto tra lo spazio che percorre ed il tempo impiegato a percorrerlo. 
+Se osserviamo il movimento di una automobile su una strada e vediamo che questa percorre, in un certo tempo un certo spazio, ad esempio in $2$ ore percorre $100 \; Km$, possiamo dire che l'automobile ha una velocità di $\dfrac{100}{2} = 50 \; Km/h$​. 
 
-La formula che lega le tre quantità di cui stiamo parlando, cioè lo spazio percorso, indicato da $s$, il tempo impiegato a percorrerlo, indicato da $t$ e la velocità risultante $v$ è la seguente:
+La velocità di un oggetto che si muove è quindi misurata dal rapporto tra la distanza che percorre ed il tempo impiegato a percorrerla.
+
+La formula generale della velocità dice che la velocità di un corpo in movimento (es. una macchina) è uguale al rapporto tra la distanza che la macchina percorre ed il tempo che impiega a percorrerlo:
 $$
 v = \dfrac{s}{t}
 $$
-Questa formula ci dice che se conosciamo due delle tre quantità che figurano, è possibile calcolare la terza risolvendo una equazione. Vediamo alcuni esempi.
+Nella formula generale, la velocità dipende sia da $s$ che da $t$. Se però nei problemi specifici la velocità è fissa ed è nota, ad esempio $20 \; Km/h$, allora la distanza percorsa dipende dalla durata del viaggio.
+
+Se la distanza è fissata e nota, sarà la durata del viaggio che dipende dalla velocità, infatti più la velocità è alta e più si abbassa la durata del viaggio.
+
+
 
 #### ESEMPIO 1
 
 Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
 
-Dalla formula, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.
+Dalla formula generale, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.
 
 
 
-#### ESEMPIO 3
+#### ESEMPIO 2
 
 Nel 2009 l’atleta giamaicano Usain Bolt ha corso i 100 metri piani in 9,58 secondi. Quale è stata la sua velocità media in $Km/h$?
 
@@ -493,27 +513,33 @@ d) Una cisterna viene riempita da un primo rubinetto in $5$ ore. In quante ore v
 
 ## UNITA' 5: Problemi sulla produttività del lavoro
 
-La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni/servizi prodotti dall'unità e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$.
+La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni o servizi prodotti e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$.
 
-Se abbiamo un gruppo (o squadra) di unità, il prodotto totale della squadra è la somma dei prodotti, nel caso di due unità $q_1$ e $q_2$, dei singoli.
+Se abbiamo un gruppo (o squadra) di unità, il prodotto totale della squadra è la somma dei prodotti delle singole componenti della squadra; ad esempio nel caso di due unità $q_1$ e $q_2$ abbiamo:
 $$
 Q = q_1 + q_2
 $$
-Abbiamo due casi:
+Esaminiamo due casi distinti:
 
 1. le unità lavorano insieme (per la stessa durata di tempo $t$) ed allora, dividendo per $t$, abbiamo che la produttività totale è la somma delle singole produttività $\pi_1$ e $\pi_2$:
+   $$
+   \dfrac{Q}{t} = \dfrac{q_1}{t} + \dfrac{q_2}{t}
+   $$
+   ed indicando con $\Pi = \dfrac{Q}{t}$ scriviamo
 
 $$
 \Pi = \pi_1 + \pi_2 \\
 $$
 
-2. le unità non lavorano in squadra (ossia per la stessa durata di tempo), ma per tempi diversi, ad esempio $t_1$ e $t_2$; allora dalla somma delle produzioni, poiché $q_1=\pi_1 \cdot t_1$ e $q_2=\pi_2 \cdot t_2$ abbiamo che:
+2. le unità non lavorano insieme (ossia per la stessa durata di tempo), ma il loro lavoro ha durate diverse, ad esempio $t_1$ e $t_2$; allora dalla somma delle produzioni $q_1 + q_2$, poiché $q_1=\pi_1 \cdot t_1$ e $q_2=\pi_2 \cdot t_2$ abbiamo che:
 
 $$
 Q = \pi_1 \cdot t_1 + \pi_2 \cdot t_2
 $$
 
 Usando queste formule si possono risolvere dei problemi che riguardano la produttività del lavoro.
+
+
 
 #### ESEMPIO 1
 
