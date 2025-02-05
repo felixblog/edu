@@ -601,27 +601,27 @@ b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\e
 a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da ogni capitale e semplificala nelle situazioni seguenti.
 
 1. $2.000$ € al $5\%$; &emsp; [R. $\text{100€}$]
-2. $C + 200$ €  al $6\%$;   &emsp;   [R. $12 + 0,06C$ €]
-3. $C$ € al $5\%$ più $2C$ € al 5%; &emsp;   [R. $\dfrac{3}{20}C$ €]
-4. $C$ € al $3\%$ e $2C\;—\;400$ € al $6\%$;
-5. $C$ € al $7\%$, $2C$ € al $5\%$ e  $0.07C$ € al $3\%$.
+2. $x + 200$ €  al $6\%$;   &emsp;   [R. $12 + 0,06x$ €]
+3. $x$ € al $5\%$ più $2x$ € al 5%; &emsp;   [R. $\dfrac{3}{20}x$ €]
+4. $x$ € al $3\%$ e $2x\;—\;400$ € al $6\%$;
+5. $x$ € al $7\%$, $2x$ € al $5\%$ e  $0.07x$ € al $3\%$.
 
 
 
 ### ESERCIZIO 6.2 - Problemi su interesse ed investimenti II
 Risolvi i seguenti problemi.
 
-a) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di $5$ a $3$. La prima somma è stata investita al tasso del $4\%$ e la seconda al tasso del $2\%$. L’interesse annuale della prima eccede quello della seconda di $112$ euro. Quali sono stati i due investimenti? [R. $4.000$, $2.400$]  
+a) La signora Mueller ha investito una somma complessiva di $4.000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$. Sommando guadagni e perdite il suo reddito dell’anno è stato di $55$ euro. Trova l’ammontare dei due capitali. [R. $2.500$, $1.500$]  
 
-b) La signora Mueller ha investito una somma complessiva di $4.000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$. Sommando guadagni e perdite il suo reddito dell’anno è stato di $55$ euro. Trova l’ammontare dei due capitali. [R. $2.500$, $1.500$]  
+b) Il signor Black ha investito $3.000$ euro al tasso del $3\%$ e $1.000$ euro al tasso del $4\%$. Quanto deve investire al tasso del $6\%$ in modo che il suo ricavato annuo sia del $5\%$ dell’intero investimento?
 
-c) Il signor Black ha investito $3.000$ euro al tasso del $3\%$ e $1.000$ euro al tasso del $4\%$. Quanto deve investire al tasso del $6\%$ in modo che il suo ricavato annuo sia del $5\%$ dell’intero investimento?
+c) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di $5$ a $3$. La prima somma è stata investita al tasso del $4\%$ e la seconda al tasso del $2\%$. L’interesse annuale della prima eccede quello della seconda di $112$ euro. Quali sono stati i due investimenti? [R. $4.000$, $2.400$]  
 
 
 
 ## UNITA' 7: Problemi su monete e miscele
 
-### ESERCIZIO 8.1 - Problemi sulle monete
+### ESERCIZIO 7.1 - Problemi sulle monete
 Trova il valore complessivo di monete e francobolli nei casi seguenti:
 
 a) 3 centesimi e 5 pezzi da 10 centesimi (in centesimi);  
