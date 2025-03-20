@@ -89,7 +89,7 @@ Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute d
 
 Un altro importante esempio di grandezze direttamente proporzionali sono le distanze percorse ed il tempo impiegato per percorrerle quando ci si muove a velocità fissa (costante).
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Consideriamo il caso di una automobile che si muove sempre con la stessa velocità (costante), senza accelerare, a $60 \; Km/h$. 
 
@@ -99,13 +99,13 @@ Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi
 
 Vediamo ora una situazione diversa, in cui al crescere di una quantità, l'altra diminuisce in modo che se una raddoppia l'altra si dimezza.
 
-#### ESEMPIO
+#### ESEMPIO 2
 
 In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$​ operai?
 
-Per analizzare questo problema, introduciamo una misura del lavoro necessario per realizzare qualcosa, il **giorno-persona**. Un giorno persona è la quantità di lavoro espresso da un lavoratore in un giorno, per cui se due persone lavorano due giorni per realizzare qualcosa, quel qualcosa richiede $4$ giorni persona di lavoro per essere realizzata. 
+Per analizzare questo problema, introduciamo una misura del lavoro necessario per realizzare qualcosa: il **giorno-persona**. Un giorno-persona (giorno di lavoro di una persona) è la quantità di lavoro eseguito da un lavoratore in un giorno, per cui se due persone lavorano due giorni per realizzare qualcosa, quel qualcosa richiede $4$ giorni-persona di lavoro per essere realizzata. 
 
-Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non il lavoro complessivo necessario per realizzare la stessa opera, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $t = \dfrac{64}{x}$. $ \bullet$
+Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non il lavoro totale necessario per realizzare la stessa opera, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $t = \dfrac{64}{x}$. $ \bullet$
 
  Se calcoliamo la durata della costruzione in vari casi, abbiamo la tabella seguente.
 $$
@@ -125,7 +125,7 @@ Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante 
 
 Un altro caso importante di grandezze inversamente proporzionali è quello del tempo e della velocità nei moti uniformi.
 
-#### ESEMPIO
+#### ESEMPIO 3
 
 Una macchina va da Latina a Roma la mattina e percorre la distanza di $60 \; Km$ in un'ora, andando ad una velocità media di $60 \; Km/h$. La sera rientra a Latina andando a $120 \; Km/h$​. Quanto tempo impiega?
 
@@ -156,7 +156,7 @@ c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio
 
 a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
 
-b) Un negozio di bricolage acquista $2.871$ Kg di chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9, 11, 29, 33$.
+b) Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9, 11, 29, 33$.
 
 c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $10, 25, 33, 50 \%$ . Quale sarebbe lo sconto di una giacca da $300\, \mbox{\euro}$ nei vari casi?
 
@@ -164,7 +164,7 @@ c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $1
 
 ### ESERCIZIO 2.3 - Formule di proporzionalità
 
-a) Esprimi con una formula le relazioni tra le quantità nei casi riportati di seguito.
+a) Esprimi con una **formula** le relazioni tra le quantità nei casi riportati di seguito.
 
 1. La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475$ euro, quale sarà la sua retribuzione $y$ per $x$ ore di lavoro?
 2. I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Se una parete di $16$ metri quadrati richiede due litri di vernice, quanti litri $y$ di vernice sono necessari per una parete di $x$ m^2^ ?
@@ -337,7 +337,7 @@ c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata
 
 Un concetto molto importante nell'analisi di una funzione è quello di "crescenza" e "decrescenza". Una funzione si dice **crescente** in un intervallo di numeri, ad esempio tra $-2$ e $2$,  $[-2, 2]$ se passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ aumenta; si dice decrescente se, sempre passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ diminuisce. Vediamo un esempio.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 La funzione $f(x) = 2x+ 3$ ha i valori riportati di seguito:
 
