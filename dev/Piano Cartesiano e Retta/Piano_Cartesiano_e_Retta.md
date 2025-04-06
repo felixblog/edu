@@ -291,23 +291,31 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 ## UNITA' 5: Significato geometrico di m e q
 
-Se la retta non è nella forma indicata, il primo passo per individuare $m$ e $q$ è quello di metterla nella forma desiderata, detta ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come "$\text{monomio in x} + \text{numero}$" e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
+Per parlare di significato geometrico di $m$ e $q$ come prima cosa dobbiamo assicurarci che l'equazione della retta sia in forma esplicita. Se non lo è, il primo passo per individuare $m$ e $q$ è quello di metterla in ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come "$\text{monomio in x} + \text{numero}$" e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
 
-Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è l'altezza del punto di intersezione della retta con l'asse delle $y$. Le coordinate complete del punto di intersezione della retta con l'asse delle $y$ sono $(0,q)$.
+coordinate complete del punto di intersezione della retta con l'asse delle $y$ sono $(0,q)$.
 
 #### ESEMPIO 1
 
-Se proviamo a disegnare (anche con GEOGEBRA) le tre rette seguenti, che hanno tutte lo stesso coefficiente angolare ma diversi $q$, vedremo il grafico seguente:
+Consideriamo l'equazione $5x-3y=12$. Non è nella forma esplicita. Per trovare la sua forma esplicita risolviamo l'equazione come se $y$ fosse l'unica incognita:
 
-1. $y = 3x -2$,    $m = 3$ e $q = -2$;
-2. $y = 3x$,    $m = 3$ e $q = 0$;
-3. $y = 3x + \dfrac{2}{3},$    $m = 0$ e $q = \dfrac{2}{3}$.
+a) $5x-3y=12 \longrightarrow 5x = 3y + 12 \longrightarrow \dfrac{1}{3}5x = \dfrac{1}{3}(3y + 12)$
 
-<img src="img/q.png" alt="q" style="zoom: 20%;" />
+b) $\dfrac{5}{3}x = y + \dfrac{12}{4} \longrightarrow \dfrac{5}{3}x - \dfrac{12}{4} = y$
 
-L'altezza dei punti di intersezione corrisponde a $(0,q)$ dove $q$ è parametro di ogni retta. $ \bullet$
+c) $\dfrac{5}{3}x - 3 = y$
 
-Il coefficiente angolare determina l'angolo di inclinazione della retta rispetto all'asse orizzontale. Se $m$ è positivo la retta è inclinata verso l'alto; se è negativo è inclinata verso il basso e se è pari a zero la retta è orizzontale.
+d) $y = \dfrac{5}{3}x - 3$ 
+
+In questa forma possiamo vedere come $m = \dfrac{5}{3}$ e $q = -3$    $\bullet$
+
+
+
+#### Significato Geometrico di q
+
+Il numero $q$ si chiama "intercetta all'asse delle $y$" perché è ***l'altezza del punto di intersezione della retta con l'asse delle $y$***. Le coordinate complete del punto di intersezione della retta con l'asse delle $y$ sono $(0,q)$.
+
+Per vedere questo consideriamo le tre rette dell'esempio seguente, che hanno lo stesso $q = -2$ e diverso $m$: vedremo che "tagliano" l'asse verticale $y$ tutte alla stessa altezza.
 
 #### ESEMPIO 2
 
@@ -319,7 +327,50 @@ Osserviamo il grafico seguente dove sono disegnate le rette riportate di sotto.
 
 <img src="img/m.png" alt="m" style="zoom:20%;" />
 
-Poiché l'inclinazione di una retta sull'asse orizzontale dipende dal suo coefficiente angolare, abbiamo che tutte le retta che hanno lo stesso coefficiente angolare hanno la stessa inclinazione, per cui sono tutte parallele. Questo lo si vede anche dalla prima figura. In pratica la condizione di parallelismo di due rette è: "due rette sono parallele se e solo se le loro equazioni in forma esplicita hanno lo stesso coefficiente angolare". $ \bullet$
+Come si vede l'altezza dell'intersezione con l'asse verticale è la stessa.   $\bullet$
+
+
+
+#### Significato Geometrico di m
+
+Il coefficiente angolare determina la pendenza della retta rispetto all'asse orizzontale, che è in piano, cioè non ha pendenza.
+
+Pensiamo alla retta come ad una strada su cui camminiamo, e facciamo finta che la strada sia in salita. La pendenza della salita si misura facendo il rapporto tra il dislivello che guadagniamo (ossia quanto saliamo), ogni metro che avanziamo in orizzontale mentre camminiamo sulla strada.
+
+<img src="img/pendenza-retta.png" alt="q" style="zoom: 50%;" />
+
+Se partiamo da un punto qualsiasi $(x_1, y_1)$ della retta e salendo raggiungiamo il punto $(x_2, y_2)$ il dislivello sarà $y_2 - y_1$ e lo spostamento in orizzontale è $x_2 - x_1$.
+
+Il rapporto è $\dfrac{y_2 - y_1}{x_2 - x_1}$ che è proprio l'espressione nella formula del coefficiente angolare $m$:
+
+$$
+\left\{  
+\begin{array}{l} 
+m = \dfrac{y_2 - y_1}{x_2 - x_1} \\  
+q = y_2 - m \cdot x_2 \\   
+\end{array} 
+\right.
+$$
+
+
+
+Poiché la pendenza di una retta è determinata da $m$, tutte le rette che hanno lo stesso $m$ hanno la stessa pendenza, e quindi sono ***parallele***, come si vede dall'esempio seguente.
+
+#### ESEMPIO 3
+
+Se proviamo a disegnare (anche con GEOGEBRA) le tre rette seguenti, che hanno tutte lo stesso coefficiente angolare ma diversi $q$, vedremo il grafico seguente:
+
+1. $y = 3x -2$,    $m = 3$ e $q = -2$;
+2. $y = 3x$,    $m = 3$ e $q = 0$;
+3. $y = 3x + \dfrac{2}{3},$    $m = 0$ e $q = \dfrac{2}{3}$.
+
+<img src="img/q.png" alt="q" style="zoom: 20%;" />
+
+L'altezza dei punti di intersezione corrisponde a $(0,q)$ dove $q$ è parametro di ogni retta.   $\bullet$
+
+
+
+Se $m$ è positivo la retta è inclinata verso l'alto; se è negativo è inclinata verso il basso e se è pari a zero la retta è orizzontale.
 
 Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$
 
@@ -514,7 +565,7 @@ a) Per ciascuna delle rette seguenti, disegna il grafico e trova l'intervallo di
 3. $y = -3$​;
 4. $y = 1$.
 
-b) Individua per quali intervalli dell'asse delle $x$ i polinomi seguenti sono positivi o negativi.
+b) Individua per quali intervalli dell'asse delle $x$ i polinomi seguenti sono positivi o negativi.
 
 1. $\dfrac{1}{2}x$;
 2. $\dfrac{-1}{3}x - 4$;
