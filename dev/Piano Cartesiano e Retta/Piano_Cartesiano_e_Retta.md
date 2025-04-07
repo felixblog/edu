@@ -335,26 +335,23 @@ Come si vede l'altezza dell'intersezione con l'asse verticale è la stessa.   $\
 
 Il coefficiente angolare determina la pendenza della retta rispetto all'asse orizzontale, che è in piano, cioè non ha pendenza.
 
-Pensiamo alla retta come ad una strada su cui camminiamo, e facciamo finta che la strada sia in salita. La pendenza della salita si misura facendo il rapporto tra il dislivello che guadagniamo (ossia quanto saliamo), ogni metro che avanziamo in orizzontale mentre camminiamo sulla strada.
+Pensiamo alla retta come ad una strada su cui camminiamo e facciamo finta che la strada sia in salita. La pendenza della salita si misura facendo il rapporto tra il dislivello che guadagniamo (ossia quanto saliamo), ogni metro che avanziamo in orizzontale mentre camminiamo sulla strada.
 
-<img src="img/pendenza-retta.png" alt="q" style="zoom: 50%;" />
+<img src="img/Pendenza-rapporto.png" alt="q" style="zoom: 80%;" />
 
 Se partiamo da un punto qualsiasi $(x_1, y_1)$ della retta e salendo raggiungiamo il punto $(x_2, y_2)$ il dislivello sarà $y_2 - y_1$ e lo spostamento in orizzontale è $x_2 - x_1$.
 
 Il rapporto è $\dfrac{y_2 - y_1}{x_2 - x_1}$ che è proprio l'espressione nella formula del coefficiente angolare $m$:
 
 $$
-\left\{  
-\begin{array}{l} 
-m = \dfrac{y_2 - y_1}{x_2 - x_1} \\  
-q = y_2 - m \cdot x_2 \\   
-\end{array} 
-\right.
+m = \dfrac{y_2 - y_1}{x_2 - x_1} \\
 $$
 
 
 
 Poiché la pendenza di una retta è determinata da $m$, tutte le rette che hanno lo stesso $m$ hanno la stessa pendenza, e quindi sono ***parallele***, come si vede dall'esempio seguente.
+
+
 
 #### ESEMPIO 3
 
