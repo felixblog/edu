@@ -31,6 +31,12 @@
         <mxCell id="tBxXmT7f95ZdLqjmUyh0-21" value="\(\color{red}{\text{Pendenza} = \dfrac{\text{Dislivello}}{\text{Spostamento}}}\)" style="text;align=left;verticalAlign=middle;rounded=0;spacing=1;fontStyle=0;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="320" y="220" width="210" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="0cH0Wjk_JSo7Keu8qNx4-1" value="\(P_1 (x_1, y_1)\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="553.5" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0cH0Wjk_JSo7Keu8qNx4-2" value="\(P_2 (x_2, y_2)\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="215" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
