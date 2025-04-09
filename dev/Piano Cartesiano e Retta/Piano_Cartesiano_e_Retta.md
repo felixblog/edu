@@ -339,13 +339,19 @@ Pensiamo alla retta come ad una strada su cui camminiamo, in salita come nel cas
 
 Il dislivello è calcolato dalla differenza delle altezze dei due punti, cioè $y_2 - y_1$ e lo spostamento dalla differenza delle due posizioni $x_2 - x_1$.
 
-<img src="img/Pendenza-rapporto.png" alt="q" style="zoom: 80%;" />
+<img src="img/Pendenza-rapporto-1.png" alt="q" style="zoom: 80%;" />
 
 La pendenza della strada si misura facendo il rapporto tra il dislivello e lo spostamento cioè $\dfrac{y_2 - y_1}{x_2 - x_1}$ che è proprio l'espressione che ci dà il coefficiente angolare $m$ della retta:
 
 $$
 m = \dfrac{y_2 - y_1}{x_2 - x_1} \\
 $$
+
+
+
+Se una retta è meno pendente vuol dire che a parità di spostamento orizzontale, il dislivello verticale che si avrà facendo la salita sarà inferiore, come si vede dalla figura seguente sulla retta rossa dove la pendenza è la metà di quella della retta nera.
+
+<img src="img/Pendenza-rapporto-2.png" alt="q" style="zoom: 80%;" />
 
 
 

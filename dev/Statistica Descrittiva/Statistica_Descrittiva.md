@@ -1,7 +1,85 @@
+# Statistica Descrittiva
 
-# Esercizi di Statistica Descrittiva
+Al giorno d'oggi ciascuno di noi ha a disposizione una grande quantità di informazioni che riguardano la realtà che lo circonda. Internet ci fornisce continuamente dati su prodotti in vendita, informazioni economiche sui titoli in borsa, notizie su altri paesi etc.
 
-## UNITA' 1: Popolazioni, caratteri e modalità
+Abbiamo potenzialmente la possibilità di sapere tante cose per decidere nella maniera migliore cosa comprare, dove andare, cosa mangiare, in breve per prendere delle decisioni informate. E' però necessario organizzare queste informazioni, perché sono tante e ci servono dei criteri per fare le scelte migliori e non fermarci alla prima opzione che ci si presenta.
+
+Una caratteristica comune a tutte le cose di cui abbiamo parlato è la loro quantità: abbiamo più primi piatti tra cui scegliere, più negozi per comprare lo stesso prodotto, più persone cui dare la nostra amicizia, ciascuno con le sue caratteristiche e particolarità. È solo quando un certo numero di dati viene raccolto, confrontato, analizzato e compreso che vengono generate informazioni utili per prendere delle decisioni.
+
+Proprio di questo si occupa la statistica che ci dà un insieme di strumenti e tecniche per trasformare dati grezzi (non elaborati) in informazioni sintetiche e riassuntive che rappresentano informazioni utili e utilizzabili per supportare un processo decisionale efficace.
+
+
+
+## UNITA' 1: Statistica e Fenomeni Collettivi
+
+La statistica è la scienza che studia i ***fenomeni collettivi***, ossia fenomeni che **non sono percepibili con una sola osservazione** di una entità ma richiedono un certo numero di osservazioni, fatte su un insieme (detto ***collettivo***) di individui o unità.
+
+Sono per esempio fenomeni collettivi:
+
+- il numero dei clienti di azienda in una regione in un certo mese, o la ripartizione dei clienti regione per regione;
+- il fatturato ed i costi di una azienda (la somma del valore delle vendite);
+- la natalità e la mortalità degli individui di una nazione o città o regione;
+- la valutazione in "stelle" di un prodotto su Amazon (Numero di 5 Stelle, 4 Stelle etc.);
+- la qualità della produzione (definita come la media di una caratteristica sui prodotti dell'azienda)
+
+Concetti come "natalità", "fatturato", "produzione", si dicono "collettivi" nel senso che riguardano una collettività nel suo insieme e non dei singoli individui, anche se ciascun individuo partecipa al fenomeno. Vi sono quindi delle proprietà riferibili al collettivo che saranno espresse in funzione di quelle dei singoli individui, solitamente come conteggio, somme, medie e così via. Ad esempio il "fatturato aziendale" è la somma del ricavato di ogni singola vendita, il reddito familiare è la somma, o la media, del reddito dei componenti di una famiglia e così via.
+
+Fissato un fenomeno collettivo da studiare, diciamo **unità statistica** la singola entità in cui si osserva il fenomeno in esame.
+
+Alcuni esempi:
+
+- individui (clienti di un albergo, turisti, studenti, dipendenti di un’azienda, ecc...);
+- oggetti (automobili, aziende, prodotti di consumo, ecc...);
+- aggregati territoriali (stati, regioni, province, comuni, altro ancora);
+- unità temporali (anni, mesi, giorni, altro ancora);
+
+Il fenomeno di cui si parla è rilevabile attraverso una **osservazione o rilevazione**, mediante la quale si registrano i **dati di una unità**, ossia le caratteristiche che interessano.
+
+Le **caratteristiche** (o caratteri o **variabili**) che fanno parte di una osservazione, se è relativa ad uno specifico individuo, possono essere la sua data di nascita, il suo peso, l’altezza, il suo reddito etc.; se l’unità è una vendita, le caratteristiche dell’osservazione possono essere il prodotto venduto, il venditore, il cliente etc.
+
+Si dice **modalità** il "come" una caratteristica viene rilevata in una osservazione. Ad esempio, se le unità sono le interrogazioni in una classe, la caratteristica "valutazione dell'interrogazione" potrebbe essere rilevata con un numero da 0 a 10 oppure con un giudizio, "sufficiente" o "insufficiente" e questo incide sul grado di accuratezza o **precisione** con cui rileviamo il fenomeno.
+
+La modalità che viene effettivamente assunta dal carattere in una specifica osservazione è il **dato statistico** (alcuni autori applicano il termine modalità solo se i dati sono NON sono numerici ed **intensità** o **quantità** se sono numerici). Al posto di dire che "un carattere assume una certa modalità", diremo che "La variabile assume un certo valore". 
+
+L’insieme delle singole unità statistiche interessate dallo studio del fenomeno collettivo è detto **collettivo statistico** o **popolazione**. 
+
+
+
+#### ESEMPIO 1
+
+Si vuole analizzare il titolo di studio dei dipendenti di un ufficio in relazione all'età. I dipendenti sono 7 . Sono stati raccolti i dati riportati nella tabella seguente.
+
+$$
+\textbf{DIPENDENTI} \\
+\begin{array}{|l|l|c|}
+\hline
+\textbf{Nominativo} & \textbf{Titolo di Studio} & \textbf{Eta} \\
+\hline
+\text{Antonio Rossi} & \text{Laurea} & 48 \\
+\hline
+\text{Francesca Verdi} & \text{Diploma}         & 59  \\
+\hline
+\text{Franco  Gialli}   & \text{Licenza Media}  & 37  \\
+\hline
+\text{Luigi  Neri}       & \text{Laurea}         & 23  \\
+\hline
+\text{Giacomo  Bianchi} & \text{Laurea}         & 24  \\
+\hline
+\text{Antonio  Bianchi} & \text{Laurea}          & 37  \\
+\hline
+\text{Amedeo  Verdi}    & \text{Diploma}         & 61  \\
+\hline
+\end{array}
+$$
+
+
+La popolazione è costituita dall’insieme dei dipendenti dell'ufficio e ciascun dipendente è una unità statistica. Le caratteristiche delle unità. o **variabili** di interesse, sono "Titolo di Studio" ed "Età".
+
+Le modalità le modalità del Titolo di studio sono: {Laurea, Diploma, Licenza Media, Licenza Elementare} mentre le modalità dell’età sono i numeri che vanno da 18 a 70. 
+
+
+
+
 
 ### ESERCIZIO 1.1 - Popolazioni, caratteri e modalità
 
@@ -39,15 +117,204 @@ e) In un Comune si svolge una indagine sul numero di giornate con precipitazioni
 
 
 
-## UNITA' 2: Frequenze ed intensità assolute e relative
+## UNITA' 2: Tipi di Caratteri e Livelli di Misura
+
+I caratteri che si possono studiare in statistica si possono analizzare per **TIPOLOGIA** di dato e per **LIVELLO DI MISURA** del dato.
+
+Si chiamano ***caratteri quantitativi*** quelli che hanno modalità numeriche. I dati sono il risultato di un **conteggio** o una **misurazione**, come ad esempio il reddito di una popolazione (in euro o altra unità), le vendite di un anno (ad esempio in milioni di euro), il numero delle unità abitative in un comune etc.
+
+Si chiamano ***caratteri qualitativi*** quelli che hanno modalità che sono espressioni verbali, aggettivi o nomi. Ad esempio il carattere "sesso" ha modalità 'maschio' e 'femmina', o "Religione" che ha modalità:  'Cristiana', 'Islamica', 'Buddista', ecc. titolo di studio, marca .... In questi casi il carattere non assume valori numerici ma ammette gradi o attributi distinti.
+
+I dati **quantitativi** (e le corrispondenti variabili) si distinguono ulteriormente in:
+
+- **discreti (numeri naturali)**, se la misura è espressa da un numero naturale che non derivi da un arrotondamento di un numero reale, ma dalla natura stessa del dato (per esempio, l'età in anni, gli abitanti di una città, le autovetture prodotte da un marchio automobilistico in un anno, numero di figli di una famiglia ecc.), cioè derivi da una operazione di conteggio.
+- **continui**, se possono manifestarsi con tutti i valori di un intervallo di numeri reali predefinito (esempio statura di un individuo, peso ecc.), ossia se derivano da una operazione di misura. In tal caso è rilevante anche l’unità di misura.
+
+I dati **qualitativi**, a loro volta, possono essere distinti in:
+
+- **illimitati**, quando le modalità possibili sono di numero indefinito (non noto); esempi sono gli indirizzi di residenza, i codici fiscali delle persone ecc.
+- **categorici (limitati)**, se le modalità possibili sono di numero finito e noto (il carattere sesso, con i valori, ad es.’M’ e ‘F’ o religione, con i valori ‘Cattolica’, ‘Islamica’, ecc.);
+- **binari, (o dicotomici)** se indicano il possesso di una certa caratteristica da parte dell’unità o la verità di un certo fatto (es. possesso di una carta di credito da parte di un cliente). Assumono i valori Vero/Falso oppure Si/No.
+
+La figura seguente riassume le caratteristiche dei tipi esaminati.
+
+![Tipi-variabili](img/Tipi-variabili.png)
+
+
+
+Le variabili si possono inoltre analizzare per livello di misura, ossia per il dettaglio della loro misura del fenomeno, ed abbiamo i livelli seguenti.
+
+- **Livello Nominale**, se date due modalità è possibile solo affermare se queste sono uguali o diverse, e non è definibile alcuna relazione d'ordine, ad esempio la variabile "Sesso" con le modalità 'M' e 'F' o "Religione", con i valori 'Cattolica', 'Islamica' ecc., oppure i nomi e cognomi di persone o gli indirizzi;
+- **Livello Ordinale**, ossia qualitativi o quantitativi ove sia significativo un qualche ordinamento naturale (ad esempio, il carattere titolo di studio, o grado nella gerarchia militare, via via più elevato). Per questi dati, anche quando sono quantitativi, non è confrontabile tra di loro una differenza di livello: ad esempio non si può dire quale salto tra i livelli diploma/laurea e licenza elementare/media sia il maggiore;
+- **Livello di Intervallo**, ossia quantitativi per i quali è confrontabile tra di loro una **differenza di livello** tra il maggiore ed il minore, come ad esempio per le date o per la temperatura: l'incremento tra 5 e 10 gradi è maggiore di quello tra 17 e 21 gradi di temperatura.
+- **Livello di Rapporto** Sono dati quantitativi per i quali ha significato il rapporto tra di loro, e quindi la percentuale. Lo zero significa assenza della misura, come ad esempio nel caso di Reddito, Peso, Età. Sono misure a tutti gli effetti.
+
+I livelli sono riportati nella figura seguente.
+
+<img src="img/Livelli-Variabili.png" alt="Livelli-Variabili" style="zoom:80%;" />
+
+
+
+## UNITA' 2: Frequenze ed Intensità
+
+Una prima sintesi dei dati è costituita dal calcolo delle frequenze.
+
+La **Frequenza (assoluta) di una modalità** (in inglese "proportion") è il numero di unità della popolazione, o di un suo campione, che presentano la modalità, ossia il numero di volte che la modalità di un carattere viene osservata nella popolazione.
+
+La **Frequenza relativa di una modalità** è il rapporto tra la frequenza assoluta della modalità ed il numero delle unità della popolazione.
+
+La **distribuzione di frequenza (assoluta o relativa) di un carattere** è l'associazione alle modalità del carattere, quantitativo o qualitativo, delle corrispondenti frequenze assolute/relative osservate.
+
+
+
+#### ESEMPIO 1
+
+
+
+Per costruire la distribuzione delle frequenze del carattere, le N unità statistiche sono raggruppate in k classi (k < n) formate sulla base delle modalità del carattere. Ogni classe è definita da una coppia di valori: la modalità del carattere e la corrispondente frequenza.
+
+Nel caso di caratteri categorici l’associazione è semplice.
+
+
+
+#### ESEMPIO 1
+
+Il direttore del personale di un’industria ha somministrato un breve questionario a 20 addetti nel quale si chiedeva:
+
+- La qualifica (Operaio, Impiegato, Quadro, Dirigente)
+- Il grado di pesantezza del lavoro svolto (1: "poco faticoso", 2: "moderatamente faticoso", 3: "faticoso", 4: "molto faticoso", 5: "estremamente faticoso")
+- Il numero di figli a carico
+- La retribuzione media oraria (in euro/h)
+- La disponibilità di un’auto propria (0: "no", 1: "si")
+
+I risultati sono riassunti nella tabella seguente.
+$$
+\textbf{RISULTATO QUESTIONARIO} \\
+\begin{array}{|l|l|c|}
+\hline
+\textbf{Unita} & \textbf{Qualifica} & \textbf{Pesantezza} & \textbf{N. Figli} & \textbf{Retribuzione} & \textbf{Disp. Auto} \\
+\hline 
+1 & \text{Operaio}& 2 &  0 & 22,5 & 0 \\
+\hline                                   
+2 & \text{Impiegato}& 2 &  1 & 23,0 & 1 \\
+\hline                                   
+3 & \text{Operaio}	& 3  &  3 & 18,5 & 1 \\
+\hline                                   
+4 & \text{Impiegato}& 4	 &  2 & 18,3 & 1 \\
+\hline                                   
+5 & \text{Operaio}	& 1	 &  0 & 15,0 & 0 \\
+\hline                                   
+6 & \text{Impiegato}& 3	 &  1 & 25,7 & 0 \\
+\hline                                   
+7 & \text{Impiegato}& 3	 &  0 & 24,2 & 1 \\
+\hline                                   
+8 & \text{Operaio}	& 1	 &  2 & 16,7 & 1 \\
+\hline                                   
+9 & \text{Operaio}	& 2	 &  2 & 17,9 & 1 \\
+\hline                                   
+10 & \text{Operaio}	& 3	 &  1 & 15,0 & 0 \\
+\hline                                   
+11 & \text{Impiegato}& 4 &  2 & 24,6 & 0 \\
+\hline                                   
+12 & \text{Impiegato}& 2 &  0 & 26,8 & 1 \\
+\hline                                   
+13 & \text{Impiegato}& 3 &  2 & 21,5 & 1 \\
+\hline                                   
+14 & \text{Dirigente}& 5 &  2 & 50,3 & 1 \\
+\hline                                   
+15 & \text{Quadro}	& 3	 &  2 & 23,6 & 1 \\
+\hline                                   
+16 & \text{Operaio}	& 5	 &  2 & 18,4 & 1 \\
+\hline                                   
+17 & \text{Operaio} & 2	 &  1 & 18,9 & 0 \\
+\hline                                   
+18 & \text{Operaio}	& 4	 &  0 & 19,4 & 0 \\
+\hline                                   
+19 & \text{Operaio}	& 4	 &  3 & 19,3 & 1 \\
+\hline                                   
+20 & \text{Quadro}	& 1	 &  1 & 26,0 & 0 \\
+\hline
+\end{array}
+$$
+
+Ogni riga della tabella corrisponde a un individuo sul quale sono stati rilevati 5 caratteri. Ciascun carattere assume in corrispondenza di ogni individuo una determinata modalità.
+
+Le frequenze assolute del Gradi di Pesantezza e del Numero dei Figli sono le seguenti.
+
+
+$$
+\textbf{DIPENDENTI - Freq. Grado Pesantezza} \\
+\begin{array}{|c|c|}
+\hline
+\textbf{Pesantezza} & \textbf{Freq.} & \textbf{Freq. (\%)}\\
+\hline 
+1 & 3 & 15\%\\
+\hline 
+2 & 5 & 25\% \\
+\hline 
+3 & 6 & 30 \% \\
+\hline 
+4 & 4 & 20 \% \\
+\hline 
+5 & 2 & 10 \% \\
+\hline 
+\textbf{Totale} & \mathbf{20} & \mathbf{100 \%} \\
+\hline
+\end{array}
+$$
+
+
+
+$$
+\textbf{DIPENDENTI - Freq. N. Figli} \\
+\begin{array}{|c|c|}
+\hline
+\textbf{N. Figli} & \textbf{Freq.} & \textbf{Freq. (\%)} \\
+\hline 
+0 & 5 & 25 \%\\
+\hline 
+1 & 5 & 25 \% \\
+\hline 
+2 & 8 & 40 \% \\
+\hline 
+3 & 2 & 10 \% \\
+\hline 
+\textbf{Totale} & \mathbf{20} & \mathbf{100\%}  \\
+\hline
+\end{array}
+$$
+
+
+
+Un carattere è detto **trasferibile** se ha senso immaginare che (per un esito alternativo o futuro degli eventi) tutto o parte del carattere di un’unità statistica possa essere trasferito (incrementato o decrementato) a vantaggio di un’altra unità statistica. 
+
+Esempi di caratteri trasferibili sono:
+
+- il reddito di un soggetto (che anno dopo anno può variare a beneficio o danno per un altro soggetto) o il suo patrimonio (per cessione, donazione o altro);
+- le vendite di una azienda (diminuzione o aumento a causa della concorrenza);
+- il numero di auto in una famiglia (dismissione o acquisto nei confronti di un’altra famiglia);
+- i Km percorsi in un anno da una delle auto di una famiglia (se viene usata una piuttosto che un’altra auto per gli spostamenti). 
+
+I caratteri non trasferibili sono quelli propri di ciascuna unità, come la statura, il peso, l'età o il numero di figli partoriti da una donna.
+
+La **Distribuzione di quantità o intensità** è l'associazione alle modalità di un <u>carattere qualitativo</u>, o alle classi se il carattere è quantitativo, di un valore ottenuto come misura (somma) di un carattere <u>quantitativo trasferibile</u> calcolato su tutte le unità che hanno quel carattere (o ricadono nella classe considerata).
+
+#### ESEMPIO 2
+
+
+
+Il nome “distribuzione” deriva dal fatto che essa indica come l’ammontare globale si distribuisce fra le varie modalità o classi.
+
+ 
+
 
 ### ESERCIZIO 2.1 - Frequenze assolute e relative
 
-a) Per ognuno dei casi seguenti, se non già presenti, calcola e riporta in una tabella le frequenze assolute e relative.
+a) Per ognuno dei casi seguenti, calcola e riporta in una tabella le frequenze assolute e relative.
 
 1. Statura degli studenti di una classe, espressa in centimetri: 160, 165, 165, 162, 163, 165, 168, 168, 166, 161, 162, 166, 168, 165, 165, 165, 163, 168, 162, 161, 163, 165, 165, 161, 168, 165, 163, 165.  
 2. Pioggia caduta giornalmente nel mese di febbraio in una certa località, espressa in millimetri: 2, 3, 3, 4, 6, 8, 5, 5, 0, 0, 0, 1, 1, 4, 2, 5, 1, 0, 0, 0, 1, 2, 2, 0, 1, 0, 1, 2.  
-3. Libri letti in un anno da 40 persone; dati raccolti nella tabella seguente:
+3. Libri letti in un anno da 40 persone; completa i dati raccolti nella tabella seguente con le frequenze relative:
 
 $$
 \textbf{CARATTERE: Libri letti in un anno} \\
@@ -111,7 +378,13 @@ $$
 \end{array}
 $$
 
-c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata l’età (in anni), il livello socio-economico (colonna Liv., modalità 1=elevato, 2=medio, 3=basso), la zona di residenza (colonna Res. con modalità 1=urbana, 2=periferica) e lo stato di salute (colonna Salute con modalità 1=buono, 0=cattivo) ed il reddito. 
+c) I dati riportati nella seguente tabella si riferiscono a un gruppo di 20 soggetti per ognuno dei quali è stata osservata:
+
+- l’**età** (colonna ***Eta***, in anni);
+- il **livello socio-economico** (colonna ***Liv.***, modalità 1=elevato, 2=medio, 3=basso);
+- la **zona di residenza**, (colonna ***Res.*** con modalità 1=urbana, 2=periferica)
+- lo **stato di salute** (colonna ***Salute*** con modalità 1=buono, 0=cattivo);
+- il **reddito** (colonna ***Reddito***, in euro). 
 
 $$
 \begin{array}{|c|c|c|c|r|}
@@ -186,63 +459,7 @@ d) Risolvi il punto c.1) dell'esercizio prendendo ad esempio la sequenza di oper
 
 ### ESERCIZIO 2.2 - Intensità Assolute e Relative
 
-Il direttore del personale di un’industria ha somministrato un breve questionario a 20 addetti nel quale si chiedeva:
-
-- La qualifica (colonna **Qualifica**, modalità Operaio, Impiegato, Quadro, Dirigente)
-- Il grado di pesantezza del lavoro svolto (colonna **Grado**, modalità 1: ”poco faticoso”, 2: ”moderatamente faticoso”, 3: ”faticoso”, 4:”molto faticoso”, 5: ”estremamente faticoso”)
-- Il numero di figli a carico (colonna **Figli**)
-- La retribuzione media oraria (colonna **Retrib.**, in euro/h)
-- La disponibilità’ di un’auto propria (colonna **Auto**, 0: “no”, 1: “sì”)
-
- I risultati del questionario sono riassunti nella tabella seguente.
-
-$$
-\begin{array}{|c|c|c|r|c|}
-\hline
-\textbf{Qualifica} & \textbf{Grado} & \textbf{Figli} & \textbf{Stipendio} & \textbf{Auto} \\
-\hline
-Operaio & 2 & 0 & 22,5 & 0    \\
-\hline
-Impiegato & 2 & 1 & 23 & 1    \\
-\hline
-Operaio & 3 & 3 & 18,5 & 1    \\
-\hline
-Impiegato & 4 & 2 & 18,3 & 1  \\
-\hline
-Operaio & 1 & 0 & 15 & 0      \\
-\hline
-Impiegato & 3 & 1 & 25,7 & 0  \\
-\hline
-Impiegato & 3 & 0 & 24,2 & 1  \\
-\hline
-Operaio & 1 & 2 & 16,7 & 1    \\
-\hline
-Operaio & 2 & 2 & 17,9 & 1    \\
-\hline
-Operaio & 3 & 1 & 15 & 0      \\
-\hline
-Impiegato & 4 & 2 & 24,6 & 0  \\
-\hline
-Impiegato & 2 & 0 & 26,8 & 1  \\
-\hline
-Impiegato & 3 & 2 & 21,5 & 1  \\
-\hline
-Dirigente & 5 & 2 & 50,3 & 1  \\
-\hline
-Quadro & 3 & 2 & 23,6 & 1     \\
-\hline
-Operaio & 5 & 2 & 18,4 & 1    \\
-\hline
-Operaio & 2 & 1 & 18,9 & 0    \\
-\hline
-Operaio & 4 & 0 & 19,4 & 0    \\
-\hline
-Operaio & 4 & 3 & 19,3 & 1    \\
-\hline
-Quadro & 1 & 1 & 26 & 0       \\
-\hline
-\end{array}
-$$
+Considera i dati dell'ESEMPIO 1 relativi ad un questionario somministrato a 20 addetti di una azienda.
 
 
 a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lavorativa è di 8 ore, calcola:
@@ -258,9 +475,72 @@ b) Considera le classi di retribuzione (fascie) seguenti: 0|-18; 18|-25; 25|-40;
 
 
 
-## UNITA' 3: Serie, tabelle e grafici dei dati statistici
+## UNITA' 3: Tabelle e Serie Statistiche
 
-### ESERCIZIO 3.1 - Grafici a Linee
+
+
+### ESERCIZIO 3.1 - Serie e Tabelle Statistiche
+
+a) La tabella seguente riporta tre anni di dati mensili delle vendite di un produttore di birra, in barili.
+
+$$
+\begin{array}{|c|c|r|c|c|r|c|c|r|}
+\hline
+\textbf{Anno} & \textbf{Mese} & \textbf{Barili} & \textbf{Anno} & \textbf{Mese} & \textbf{Barili} & \textbf{Anno} & \textbf{Mese} & \textbf{Barili}\\ 	 
+\hline
+2010 & Gen & 14.673 & 2011 & Gen & 13.310 & 2012 & Gen & 15.188  \\
+\hline
+2010 & Feb & 14.912 & 2011 & Feb & 14.579 & 2012 & Feb & 14.999  \\
+\hline
+2010 & Mar & 16.563 & 2011 & Mar & 16.720 & 2012 & Mar & 17.654  \\
+\hline
+2010 & Apr & 16.545 & 2011 & Apr & 17.675 & 2012 & Apr & 17.860  \\
+\hline
+2010 & Mag & 17.971 & 2011 & Mag & 18.874 & 2012 & Mag & 18.216  \\
+\hline
+2010 & Giu & 17.929 & 2011 & Giu & 18.863 & 2012 & Giu & 18.092  \\
+\hline
+2010 & Lug & 18.693 & 2011 & Lug & 18.798 & 2012 & Lug & 17.174  \\
+\hline
+2010 & Ago & 18.025 & 2011 & Ago & 17.718 & 2012 & Ago & 17.502  \\
+\hline
+2010 & Set & 16.291 & 2011 & Set & 15.715 & 2012 & Set & 15.635  \\
+\hline
+2010 & Ott & 15.637 & 2011 & Ott & 14.609 & 2012 & Ott & 15.071  \\
+\hline
+2010 & Nov & 13.562 & 2011 & Nov & 13.121 & 2012 & Nov & 13.649  \\
+\hline
+2010 & Dic & 13.319 & 2011 & Dic & 13.934 & 2012 & Dic & 13.309  \\
+\hline
+\end{array}
+$$
+
+1. Costruisci la serie storica trimestrale (riepilogativa) delle vendite;
+2. Costruisci il riepilogo annuale;
+3. Rappresenta la serie mensile, trimestrale ed annuale con un grafico cartesiano.
+
+#### SOLUZIONE
+
+Punto a.3) serie storica mensile.
+
+![Serie-Storica](img\Serie-Storica.jpg)
+
+Punto a.3) serie storica trimestrale.
+
+<img src="img\Serie-Trimestrale.jpg" alt="Serie-Trimestrale" style="zoom:17%;" />
+
+Punto a.3) serie storica annuale.
+
+<img src="img\Serie-Annuale.jpg" alt="Serie-Annuale" style="zoom:17%;" />
+
+
+
+
+## UNITA' 4: Grafici dei Dati Statistici
+
+
+
+### ESERCIZIO 4.1 - Grafici a Linee
 
 a) Considerata la seguente tabella delle rilevazioni delle quantità vendute di una ditta (in quintali) negli anni indicati.
 
@@ -340,7 +620,7 @@ Punto b.3)
 
 <img src="img\Grafico-Doppia-Serie.jpg" alt="Grafico-Doppia-Serie" style="zoom:13%;" />
 
-### ESERCIZIO 3.2 - Grafici a Barre
+### ESERCIZIO 4.2 - Grafici a Barre
 
 a) Rappresenta con un diagramma a barre verticali le tabelle delle frequenze assolute richieste nei punti 1., 2., 3., dell'esercizio 2.a.
 
@@ -413,7 +693,7 @@ Punto c)
 
 
 
-### ESERCIZIO 3.3 - Grafici a Torta
+### ESERCIZIO 4.3 - Grafici a Torta
 
 a) Rappresenta con un diagramma a torta le tabelle delle frequenze percentuali richieste nei punti 1., 2., 3., dell'esercizio 2.a). 
 
@@ -427,7 +707,7 @@ Punto b)
 
 
 
-### ESERCIZIO 3.4 - Grafici a Dispersione
+### ESERCIZIO 4.4 - Grafici a Dispersione
 
 a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) complessivo di un collettivo di aziende:
 
@@ -533,65 +813,11 @@ Punto a)
 
 
 
-### ESERCIZIO 3.5 - Serie e Tabelle Statistiche
-
-a) La tabella seguente riporta tre anni di dati mensili delle vendite di un produttore di birra, in barili.
-
-$$
-\begin{array}{|c|c|r|c|c|r|c|c|r|}
-\hline
-\textbf{Anno} & \textbf{Mese} & \textbf{Barili} & \textbf{Anno} & \textbf{Mese} & \textbf{Barili} & \textbf{Anno} & \textbf{Mese} & \textbf{Barili}\\ 	 
-\hline
-2010 & Gen & 14.673 & 2011 & Gen & 13.310 & 2012 & Gen & 15.188  \\
-\hline
-2010 & Feb & 14.912 & 2011 & Feb & 14.579 & 2012 & Feb & 14.999  \\
-\hline
-2010 & Mar & 16.563 & 2011 & Mar & 16.720 & 2012 & Mar & 17.654  \\
-\hline
-2010 & Apr & 16.545 & 2011 & Apr & 17.675 & 2012 & Apr & 17.860  \\
-\hline
-2010 & Mag & 17.971 & 2011 & Mag & 18.874 & 2012 & Mag & 18.216  \\
-\hline
-2010 & Giu & 17.929 & 2011 & Giu & 18.863 & 2012 & Giu & 18.092  \\
-\hline
-2010 & Lug & 18.693 & 2011 & Lug & 18.798 & 2012 & Lug & 17.174  \\
-\hline
-2010 & Ago & 18.025 & 2011 & Ago & 17.718 & 2012 & Ago & 17.502  \\
-\hline
-2010 & Set & 16.291 & 2011 & Set & 15.715 & 2012 & Set & 15.635  \\
-\hline
-2010 & Ott & 15.637 & 2011 & Ott & 14.609 & 2012 & Ott & 15.071  \\
-\hline
-2010 & Nov & 13.562 & 2011 & Nov & 13.121 & 2012 & Nov & 13.649  \\
-\hline
-2010 & Dic & 13.319 & 2011 & Dic & 13.934 & 2012 & Dic & 13.309  \\
-\hline
-\end{array}
-$$
-
-1. Costruisci la serie storica trimestrale (riepilogativa) delle vendite;
-2. Costruisci il riepilogo annuale;
-3. Rappresenta la serie mensile, trimestrale ed annuale con un grafico cartesiano.
-
-#### SOLUZIONE
-
-Punto a.3) serie storica mensile.
-
-![Serie-Storica](img\Serie-Storica.jpg)
-
-Punto a.3) serie storica trimestrale.
-
-<img src="img\Serie-Trimestrale.jpg" alt="Serie-Trimestrale" style="zoom:17%;" />
-
-Punto a.3) serie storica annuale.
-
-<img src="img\Serie-Annuale.jpg" alt="Serie-Annuale" style="zoom:17%;" />
 
 
+## UNITA' 5: Moda, media e mediana
 
-## UNITA' 4: Moda, media e mediana
-
-### ESERCIZIO 4.1 - Indici di Posizione Centrale - Moda, Mediana, Media
+### ESERCIZIO 5.1 - Indici di Posizione Centrale - Moda, Mediana, Media
 
 a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
@@ -649,7 +875,7 @@ $$
 $$
 Determina moda, media e mediana.
 
-d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano presenti in Italia 5Ml di immigrati).
+d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano presenti in Italia 5 milioni di immigrati).
 
 ![F](img\Ind-Italia.png)
 
@@ -658,7 +884,100 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 
 
-### ESERCIZIO 4.2 - Esercizio Riassuntivo
+## UNITA 6: I Rapporti Statistici: Composizione e Coesistenza
+
+I rapporti statistici sono misure statistiche che hanno lo scopo di ***confrontare*** i dati tra di loro. In un rapporto statistico si mettono a confronto due termini, frequenze o quantità, di cui uno almeno è di natura statistica e tale che tra i due termini sussiste un qualche legame logico.
+
+Un rapporto statistico indica quanta parte dell’intensità del fenomeno posta a numeratore **compete, in media,** ad ogni unità di intensità del fenomeno posta a denominatore. I rapporti così costruiti permettono di confrontare l’intensità di un fenomeno misurato su un collettivo, in tempi o luoghi diversi, e sono largamente impiegati nella descrizione di fenomeni di tipo socio-economico.
+
+ Esempi: Indicatori del Mercato del lavoro (Italia, media 2018)
+
+- Tasso di attività = 65,6%,
+- Tasso di occupazione = 58,5%,
+- Tasso di disoccupazione = 10,6%
+- Tasso di disoccupazione giovanile = 32,2 %
+- I giovani (15-24 anni) che cercano attivamente lavoro sono 492.000, pari all’8,4% della popolazione nella stessa fascia di età 
+
+
+
+A seconda di quale relazione sussiste tra il numeratore e il denominatore della frazione, si hanno diversi tipi di rapporti statistici. Ne prendiamo in considerazione quattro, in base ad altrettanti tipi di rapporti:
+
+- Rapporto di composizione
+- Rapporto di derivazione
+- Rapporto di coesistenza
+- Rapporto di densità
+- Rapporti di Durata e Ripetizione
+
+
+
+### ESERCIZIO 6.1 - Rapporti di Composizione
+
+Un **rapporto di composizione** (o di parte al tutto) è un rapporto tra l'ammontare complessivo di una quantità (frequenza o intensità) corrispondente ad una modalità di una variabile di una popolazione e la quantità complessiva della stessa.
+
+a) Considera i dati della tabella dell'esercizio 3.b). Calcola i rapporti di composizione:
+
+1. Percentuale dei laureati sul totale;
+2. Percentuale dei soggetti maschi e dei soggetti femmine sul totale. 
+
+![F](img\Ind-Testo.png)
+
+
+
+### ESERCIZIO 6.2 - Rapporti di Coesistenza
+
+Il rapporto tra le quantità complessive corrispondenti a due diverse modalità (frequenza o intensità) viene chiamato **rapporto di coesistenza**. Il rapporto di coesistenza evidenzia il rapporto proporzionale tra due modalità o classi. ln particolare i rapporti di coesistenza sono molto utilizzati negli studi demografici.
+
+a) Il rapporto di mascolinità è il rapporto (percentuale) tra il numero di maschi e quello delle femmine di una popolazione di persone.
+
+A partire dalla descrizione riportata di seguito tratta dal Rapporto ISTAT "Popolazione residente e dinamica demografica, Anno 2021" rispondi alle domande
+
+<img src="img\Mascolinita.png" alt="Mascolinita" style="zoom:90%;" />
+
+1. ...........
+
+b) L'indice di vecchiaia ...
+
+c) ......
+
+<img src="img\Poverta.png" alt="Poverta" style="zoom:66%;" />
+
+
+
+## UNITA 7: I Rapporti di Densità e Derivazione
+
+
+
+### ESERCIZIO 7.1 - Rapporti di Densità
+
+È ottenuto dividendo l'ammontare di un aggregato per una quantità che rappresenta la dimensione spaziale, temporale o caratterizzante del campo di osservazione cui esso fa riferimento. Le quantità al numeratore e al denominatore sono grandezze eterogenee.
+
+a) ...   
+
+
+
+### ESERCIZIO 7.2 - Rapporti di Derivazione
+
+a) ... 
+
+
+
+## UNITA 8: Lo Studio dei Flussi: Rapporti di Durata e Ripetizione
+
+
+
+### ESERCIZIO 8.1 - Rapporti di Durata e Ripetizione (Studio dei Flussi)
+
+....
+
+a) ... 
+
+
+
+
+
+
+
+## ESERCIZIO RIASSUNTIVO
 
 La tabella seguente riporta alcune caratteristiche degli individui appartenenti alla forza vendite di un’azienda commerciale (il file contenente la tabella completa, in formato Excel, è scaricabile [qui](http://felixblog.github.io/edu/dev/Statistica Descrittiva/Forza-Vendita.xlsx)):
 $$
