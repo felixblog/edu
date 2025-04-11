@@ -35,9 +35,9 @@ Alcuni esempi:
 
 Il fenomeno di cui si parla è rilevabile attraverso una **osservazione o rilevazione**, mediante la quale si registrano i **dati di una unità**, ossia le caratteristiche che interessano.
 
-Le **caratteristiche** (o caratteri o **variabili**) che fanno parte di una osservazione, se è relativa ad uno specifico individuo, possono essere la sua data di nascita, il suo peso, l’altezza, il suo reddito etc.; se l’unità è una vendita, le caratteristiche dell’osservazione possono essere il prodotto venduto, il venditore, il cliente etc.
+Le **caratteristiche** (o caratteri) che fanno parte di una osservazione sono dette **variabili**; facendo l'esempio di persone, variabili possono essere la sua data di nascita, il suo peso, l’altezza, il suo reddito etc.; se l’unità statistica è una vendita, le variabili dell’osservazione possono essere il prodotto venduto, il venditore, il cliente etc.
 
-Si dice **modalità** il "come" una caratteristica viene rilevata in una osservazione. Ad esempio, se le unità sono le interrogazioni in una classe, la caratteristica "valutazione dell'interrogazione" potrebbe essere rilevata con un numero da 0 a 10 oppure con un giudizio, "sufficiente" o "insufficiente" e questo incide sul grado di accuratezza o **precisione** con cui rileviamo il fenomeno.
+Ci sono molti modi per rilevare una caratteristica in una osservazione. Ad esempio, se le unità sono le interrogazioni in una classe, la variabile "valutazione dell'interrogazione" potrebbe essere rilevata con un numero da 0 a 10 oppure con un giudizio, "sufficiente" o "insufficiente" e questo incide sul grado di accuratezza o **precisione** con cui rileviamo il fenomeno. Si dicono **valori** (o **modalità**) della variabile i modi con cui una caratteristica viene rilevata: "sufficiente" e "insufficiente" sono modalità (o valori) della caratteristica (o variabile) variabile "valutazione dell'interrogazione". 
 
 La modalità che viene effettivamente assunta dal carattere in una specifica osservazione è il **dato statistico** (alcuni autori applicano il termine modalità solo se i dati sono NON sono numerici ed **intensità** o **quantità** se sono numerici). Al posto di dire che "un carattere assume una certa modalità", diremo che "La variabile assume un certo valore". 
 
@@ -75,9 +75,7 @@ $$
 
 La popolazione è costituita dall’insieme dei dipendenti dell'ufficio e ciascun dipendente è una unità statistica. Le caratteristiche delle unità. o **variabili** di interesse, sono "Titolo di Studio" ed "Età".
 
-Le modalità le modalità del Titolo di studio sono: {Laurea, Diploma, Licenza Media, Licenza Elementare} mentre le modalità dell’età sono i numeri che vanno da 18 a 70. 
-
-
+Le modalità del Titolo di studio sono: {Laurea, Diploma, Licenza Media, Licenza Elementare} mentre le modalità dell’età sono i numeri che vanno da 18 a 70. 
 
 
 
@@ -132,7 +130,7 @@ I dati **quantitativi** (e le corrispondenti variabili) si distinguono ulteriorm
 
 I dati **qualitativi**, a loro volta, possono essere distinti in:
 
-- **illimitati**, quando le modalità possibili sono di numero indefinito (non noto); esempi sono gli indirizzi di residenza, i codici fiscali delle persone ecc.
+- **arbitrari (illimitati)**, quando le modalità possibili sono di numero indefinito (non noto); esempi sono gli indirizzi di residenza, i codici fiscali delle persone ecc.
 - **categorici (limitati)**, se le modalità possibili sono di numero finito e noto (il carattere sesso, con i valori, ad es.’M’ e ‘F’ o religione, con i valori ‘Cattolica’, ‘Islamica’, ecc.);
 - **binari, (o dicotomici)** se indicano il possesso di una certa caratteristica da parte dell’unità o la verità di un certo fatto (es. possesso di una carta di credito da parte di un cliente). Assumono i valori Vero/Falso oppure Si/No.
 
@@ -153,6 +151,24 @@ I livelli sono riportati nella figura seguente.
 
 <img src="img/Livelli-Variabili.png" alt="Livelli-Variabili" style="zoom:80%;" />
 
+#### ESEMPIO 1
+
+Relativamente all'esercizio 1.1, che riguardava un'indagine statistica sulla qualità del trasporto pubblico per le scuole di una determinata città, abbiamo la situazione delle variabili riportata di seguito (l'unità statistica è l'individuo).
+
+- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: categorico/binario, Livello Misurazione: nominale);
+
+- Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: categorico, Livello Misurazione: nominale);
+
+- Età (modalità: numeri interi compresi tra 2 a 90; Tipo: quantitativo discreto, Livello Misurazione: rapporto);
+
+- Sesso (modalità: M, F; Tipo: categorico/binario, Livello Misurazione: nominale);
+
+- Distanza del Domicilio dalla Scuola: (modalità: quantitativo/continuo, livello rapporto, eventualmente ripartita in classi, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km);
+
+- Motivazione del non utilizzo (Tipo: qualitativo/arbitrario illimitato, Livello Misurazione: nominale);
+
+- Grado di soddisfazione (modalità: categorico, valori da 1 a 10, Livello Misurazione: ordinale).
+
 
 
 ## UNITA' 2: Frequenze ed Intensità
@@ -164,18 +180,6 @@ La **Frequenza (assoluta) di una modalità** (in inglese "proportion") è il num
 La **Frequenza relativa di una modalità** è il rapporto tra la frequenza assoluta della modalità ed il numero delle unità della popolazione.
 
 La **distribuzione di frequenza (assoluta o relativa) di un carattere** è l'associazione alle modalità del carattere, quantitativo o qualitativo, delle corrispondenti frequenze assolute/relative osservate.
-
-
-
-#### ESEMPIO 1
-
-
-
-Per costruire la distribuzione delle frequenze del carattere, le N unità statistiche sono raggruppate in k classi (k < n) formate sulla base delle modalità del carattere. Ogni classe è definita da una coppia di valori: la modalità del carattere e la corrispondente frequenza.
-
-Nel caso di caratteri categorici l’associazione è semplice.
-
-
 
 #### ESEMPIO 1
 
@@ -239,7 +243,7 @@ $$
 
 Ogni riga della tabella corrisponde a un individuo sul quale sono stati rilevati 5 caratteri. Ciascun carattere assume in corrispondenza di ogni individuo una determinata modalità.
 
-Le frequenze assolute del Gradi di Pesantezza e del Numero dei Figli sono le seguenti.
+Le frequenze assolute e relative del Gradi di Pesantezza (*distribuzione* dei Gradi di Pesantezza) e del Numero dei Figli sono le seguenti.
 
 
 $$
@@ -284,7 +288,63 @@ $$
 \end{array}
 $$
 
+$\bullet$
 
+Se si è in presenza di un carattere ordinato da analizzare che presenta molte modalità distinte, come ad esempio l'età degli individui, si possono avere notevoli difficoltà nella comprensione dei dati osservati.
+
+In questi casi può essere conveniente o addirittura necessario raggruppare i valori in intervalli, denominati **classi** o **intervalli di classi** di valori tra loro disgiunti.
+
+#### ESEMPIO 2
+
+Riprendiamo l’esempio dei dipendenti di un ufficio che aveva i dati riportati di seguito.
+
+$$
+\textbf{DIPENDENTI} \\
+\begin{array}{|l|l|c|}
+\hline
+\textbf{Nominativo} & \textbf{Titolo di Studio} & \textbf{Eta} \\
+\hline
+\text{Antonio Rossi} & \text{Laurea} & 48 \\
+\hline
+\text{Francesca Verdi} & \text{Diploma}         & 59  \\
+\hline
+\text{Franco  Gialli}   & \text{Licenza Media}  & 37  \\
+\hline
+\text{Luigi  Neri}       & \text{Laurea}         & 23  \\
+\hline
+\text{Giacomo  Bianchi} & \text{Laurea}         & 24  \\
+\hline
+\text{Antonio  Bianchi} & \text{Laurea}          & 37  \\
+\hline
+\text{Amedeo  Verdi}    & \text{Diploma}         & 61  \\
+\hline
+\end{array}
+$$
+
+Classifichiamo l’età creando tre classi (o fasce): $18 \vdash 30$ , $31 \vdash 50$ e $51 \vdash 70$. Nominiamo ciascuna fascia con le modalità "Giovane", "Maturo" ed "Anziano". Abbiamo allora la seguente distribuzione di frequenze:
+
+$$
+\textbf{FREQUENZA CLASSI ETA} \\
+\begin{array}{|l|c|c|}
+\hline
+\textbf{Fascia Eta} & \textbf{Freq.} & \textbf{Freq.\%} \\
+\hline 
+\text{Giovane} & 1 & 14 \\
+\hline                                   
+\text{Maturo} & 4 & 57 \\
+\hline
+\text{Anziano} & 2 & 29 \\
+\hline 
+\textbf{Totale} & \mathbf{7} & \mathbf{100}  \\
+\hline
+\end{array}
+$$
+
+$\bullet$
+
+
+
+#### Caratteri Trasferibili ed Intensità 
 
 Un carattere è detto **trasferibile** se ha senso immaginare che (per un esito alternativo o futuro degli eventi) tutto o parte del carattere di un’unità statistica possa essere trasferito (incrementato o decrementato) a vantaggio di un’altra unità statistica. 
 
@@ -297,15 +357,59 @@ Esempi di caratteri trasferibili sono:
 
 I caratteri non trasferibili sono quelli propri di ciascuna unità, come la statura, il peso, l'età o il numero di figli partoriti da una donna.
 
-La **Distribuzione di quantità o intensità** è l'associazione alle modalità di un <u>carattere qualitativo</u>, o alle classi se il carattere è quantitativo, di un valore ottenuto come misura (somma) di un carattere <u>quantitativo trasferibile</u> calcolato su tutte le unità che hanno quel carattere (o ricadono nella classe considerata).
+La **Distribuzione di quantità o intensità** è l'associazione alle modalità di un <u>carattere qualitativo</u>, o alle classi se il carattere è quantitativo, del valore di un carattere <u>quantitativo trasferibile</u> calcolato (come somma, media o altro) su tutte le unità che hanno quel carattere (o ricadono nella classe considerata).
 
-#### ESEMPIO 2
+#### ESEMPIO 3
 
+Riprendiamo l’esempio del questionario proposto nell'industria dal direttore del personale. La distribuzione delle retribuzioni per qualifica è riportata di seguito.
 
+$$
+\textbf{RETRIBUZIONE PER QUALIFICA} \\
+\begin{array}{|l|c|c|}
+\hline
+\textbf{Qualifica}	& \textbf{N. Unita}	& \textbf{Retrib.}	& \textbf{Retrib.\%} \\
+\hline
+\text{Dirigente}	& 1	& 50,3	& 11 \\
+\hline
+\text{Quadro}	& 2	& 49,6	& 11 \\
+\hline
+\text{Impiegato}	& 7	& 164,1	& 37 \\
+\hline
+\text{Operaio}	& 10	& 181,6 & 41 \\
+\hline
+\textbf{Totale} &  \mathbf{20}	 & \mathbf{445,6}	 & \mathbf{100} \\
+\hline
+\end{array}
+$$
 
-Il nome “distribuzione” deriva dal fatto che essa indica come l’ammontare globale si distribuisce fra le varie modalità o classi.
+Per ogni qualifica la colonna "Retrib." è ottenuta come somma delle retribuzioni individuali. $\bullet$
 
- 
+#### ESEMPIO 4
+
+In una azienda che vende in tutta Italia, il riepilogo delle vendite mensili per area geografica è una distribuzione di intensità. L'unità statistica è la vendita, la variabile qualitativo è l'area di vendita (Nord, Centro, Sud, Isole) e quello quantitativo è l'importo della vendita stessa. La distribuzione è la seguente.
+
+$$
+\textbf{VENDITE PER AREA} \\
+\begin{array}{|l|c|}
+\hline
+\textbf{Area}	& \textbf{Vendite} \\
+  & \textbf{(Ml di euro)}	\\
+\hline
+\text{Nord}	& 120	 \\
+\hline
+\text{Centro}	& 80	 \\
+\hline
+\text{Sud}	& 50	 \\
+\hline
+\text{Isole}	& 24	 \\
+\hline
+\textbf{Totale} & \mathbf{274} \\
+\hline
+\end{array}
+$$
+
+$\bullet$
+
 
 
 ### ESERCIZIO 2.1 - Frequenze assolute e relative
@@ -435,7 +539,7 @@ $$
 $$
 
 
-1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi 0-25, 26-50 e 51-75; 
+1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi $0 \vdash 25$, $26 \vdash 50$ e $51 \vdash 75$; 
 2. Calcola le frequenze assolute e relative per determinare la distribuzione del livello socio-economico.
 
 #### Laboratorio FOGLIO ELETTRONICO
@@ -468,7 +572,7 @@ a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lav
 
 2. la distribuzione della retribuzione mensile per qualifica, in assoluto ed in percentuale sul totale.
 
-b) Considera le classi di retribuzione (fascie) seguenti: 0|-18; 18|-25; 25|-40; 40|- , e calcola
+b) Considera le classi di retribuzione (fascie) seguenti: $0 \vdash 18$; $18 \vdash 25$; $26 \vdash 40$; $40 \vdash $, e calcola
 
 1. le frequenze assolute e relative di tali classi;
 2. la distribuzione della retribuzione mensile per fascia d'età.
@@ -641,7 +745,7 @@ $$
 c) Rappresenta mediante un diagramma a barre orizzontali (a nastro) la seguente tabella che riporta la rilevazione della spesa (migliaia di euro) per spettacoli in alcune regioni italiane nell'anno 2010
 
 $$
-\begin{array}{|c|r|}
+\begin{array}{|l|r|}
 \hline
 \textbf{Regioni} & \textbf{Spesa} \\  	 
 \hline
@@ -665,7 +769,7 @@ $$
 $$
 d) Rappresenta mediante un diagramma a barre verticali la seguente tabella doppia del numero degli occupati ripartiti per sesso e settore di attività economica (anno 2010, numeri in migliaia di unità).
 $$
-\begin{array}{|c|r|}
+\begin{array}{|l|r|r|}
 \hline
 \textbf{ } & \textbf{Maschi} & \textbf{Femmine} \\  	 
 \hline
@@ -963,11 +1067,11 @@ a) ...
 
 ## UNITA 8: Lo Studio dei Flussi: Rapporti di Durata e Ripetizione
 
-
+<da completare>
 
 ### ESERCIZIO 8.1 - Rapporti di Durata e Ripetizione (Studio dei Flussi)
 
-....
+<da completare>
 
 a) ... 
 
@@ -985,19 +1089,19 @@ $$
 \hline
 \textbf{Sesso} & \textbf{Eta} & \textbf{Titolo di Studio} & \textbf{Provenienza} & \textbf{Fatturato} \\  	 
 \hline
-M & 46 & \text{Lic.MediaSuperiore} & \text{SUD} & 26.692   \\
+\text{M} & 46 & \text{Lic.MediaSuperiore} & \text{SUD} & 26.692   \\
 \hline
-F & 29 & \text{Lic.MediaInferiore} & \text{ISOLE} & 19.740  \\
+\text{F} & 29 & \text{Lic.MediaInferiore} & \text{ISOLE} & 19.740  \\
 \hline
-M & 28 & \text{Lic.MediaSuperiore} & \text{ISOLE} & 25.717 \\
+\text{M} & 28 & \text{Lic.MediaSuperiore} & \text{ISOLE} & 25.717 \\
 \hline
-M & 52 & \text{Laurea} & \text{SUD} & 43.670                \\
+\text{M} & 52 & \text{Laurea} & \text{SUD} & 43.670                \\
 \hline
 ... & ... & ... & ... & ... \\
 \hline
-F & 37 & \text{Lic.MediaSuperiore} & \text{SUD} & 28.670 \\
+\text{F} & 37 & \text{Lic.MediaSuperiore} & \text{SUD} & 28.670 \\
 \hline
-M & 55 & \text{Laurea} & \text{SUD} & 48.428 \\
+\text{M} & 55 & \text{Laurea} & \text{SUD} & 48.428 \\
 \hline
 \end{array}
 $$
