@@ -1120,29 +1120,87 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 
 
+### ESERCIZIO 5.2
+
+a) Le autovetture di un salone per la vendita di auto usate sono classificate secondo l’età dell’usato.
+
+$$
+\textbf{AUTO USATE} \\
+\begin{array}{|c|c|}
+\hline
+\textbf{Eta Usato}	& \textbf{N. Auto}	\\
+\textbf{(mesi)}	&  \\
+\hline
+6	& 12 \\
+\hline
+12	& 16 \\
+\hline
+18	& 15 \\
+\hline
+24	& 9  \\
+\hline
+30	& 5  \\
+\hline
+36	& 1  \\
+\hline
+48	& 1  \\
+\hline
+60	& 1  \\
+\hline
+\end{array}
+$$
+
+Determina la media, la mediana e la moda dell’età.
+
+b) In un campionato una squadra di calcio ha giocato 36 partite, realizzando 52 punti. I goal segnati sono stati 58, quelli subiti 40. Calcola: 
+
+1. la media dei punti a partita;
+2. la media dei goal segnati per partita e quella dei goal subiti. 
+
+
+
 ## UNITA 6: I Rapporti Statistici: Composizione e Coesistenza
 
 I rapporti statistici sono misure statistiche che hanno lo scopo di ***confrontare*** i dati tra di loro. In un rapporto statistico si mettono a confronto due termini, frequenze o quantità, di cui uno almeno è di natura statistica e tale che tra i due termini sussiste un qualche legame logico.
 
-Un rapporto statistico indica quanta parte dell’intensità del fenomeno posta a numeratore **compete, in media,** ad ogni unità di intensità del fenomeno posta a denominatore. I rapporti così costruiti permettono di confrontare l’intensità di un fenomeno misurato su un collettivo, in tempi o luoghi diversi, e sono largamente impiegati nella descrizione di fenomeni di tipo socio-economico.
+Un rapporto statistico indica quanta parte dell’intensità del fenomeno posta a numeratore **compete, in media,** ad ogni unità di intensità del fenomeno posta a denominatore o ogni 100 unità del denominatore, se il rapporto è espresso in percentuale.
 
- Esempi: Indicatori del Mercato del lavoro (Italia, media 2018)
+I rapporti così costruiti permettono di confrontare l’intensità di un fenomeno misurato su un collettivo, in tempi o luoghi diversi, e sono largamente impiegati nella descrizione di fenomeni di tipo socio-economico.
 
-- Tasso di attività = 65,6%,
-- Tasso di occupazione = 58,5%,
-- Tasso di disoccupazione = 10,6%
-- Tasso di disoccupazione giovanile = 32,2 %
-- I giovani (15-24 anni) che cercano attivamente lavoro sono 492.000, pari all’8,4% della popolazione nella stessa fascia di età 
+#### Esempio 1
 
+Sui giornali o in televisione sentiamo spesso parlare di tasso di disoccupazione, di occupazione e di altri indicatori relativi al Mercato del lavoro. Consideriamo ad esempio il tasso di disoccupazione. Misura quante persone, in percentuale, sono senza lavoro ma stanno cercando un'occupazione, rispetto al totale delle persone che potrebbero lavorare; è indicativo della situazione economica di un Paese ed in Italia ha mostrato un andamento variabile, con una media del $9,38\%$ tra il 2000 e il 2024.
+
+$$
+\text{Tasso di disoccupazione} = \dfrac{\text{N. disoccupati}}{\text{Forza lavoro totale}} \;\;\; \bullet
+$$
 
 
 A seconda di quale relazione sussiste tra il numeratore e il denominatore della frazione, si hanno diversi tipi di rapporti statistici. Ne prendiamo in considerazione quattro, in base ad altrettanti tipi di rapporti:
 
 - Rapporto di composizione
-- Rapporto di derivazione
 - Rapporto di coesistenza
+- Rapporto di derivazione
 - Rapporto di densità
 - Rapporti di Durata e Ripetizione
+
+Mentre i primi tre si ottengono dividendo grandezze omogenee e sono pertanto numeri puri. Il rapporto di densità confronta due grandezze eterogenee ed è pertanto caratterizzato da un misura.
+
+
+
+Il rapporto tra le quantità complessive corrispondenti a due diverse modalità (frequenza o intensità) viene chiamato **rapporto di coesistenza**. Il rapporto di coesistenza evidenzia il rapporto proporzionale tra due modalità o classi. 
+
+$$
+\text{Rapporto di Coesistenza} = \dfrac{\text{Freq. modalita A}}{\text{Freq. modalita B}}
+$$
+
+
+Esempi di rapporti di coesistenza sono i seguenti.
+
+- Rapporto di Mascolinità: rapporto tra numero (o frequenza) di maschi e di femmine in una popolazione;
+- Rapporto di Femminilità:  rapporto tra numero (o frequenza) di femmine e di maschi in una popolazione;
+- Indice di Vecchiaia: rapporto tra numero (o frequenza) di anziani e di giovani in una popolazione;
+- Indice di Qualità: rapporto tra numero di pezzi difettosi e non difettosi di una produzione.
 
 
 
@@ -1161,10 +1219,6 @@ a) Considera i dati della tabella dell'esercizio 3.b). Calcola i rapporti di com
 
 ### ESERCIZIO 6.2 - Rapporti di Coesistenza
 
-Il rapporto tra le quantità complessive corrispondenti a due diverse modalità (frequenza o intensità) viene chiamato **rapporto di coesistenza**. Il rapporto di coesistenza evidenzia il rapporto proporzionale tra due modalità o classi. ln particolare i rapporti di coesistenza sono molto utilizzati negli studi demografici.
-
-a) Il rapporto di mascolinità è il rapporto (percentuale) tra il numero di maschi e quello delle femmine di una popolazione di persone.
-
 A partire dalla descrizione riportata di seguito tratta dal Rapporto ISTAT "Popolazione residente e dinamica demografica, Anno 2021" rispondi alle domande
 
 <img src="img\Mascolinita.png" alt="Mascolinita" style="zoom:90%;" />
@@ -1179,7 +1233,43 @@ c) ......
 
 
 
-## UNITA 7: I Rapporti di Densità e Derivazione
+## UNITA 7: I Rapporti di Derivazione e Densità
+
+Un **rapporto di derivazione** è ottenuto dividendo la modalità di un fenomeno per quella corrispondente di un altro che, sul piano logico o temporale, ne costituisce l’antecedente o il presupposto, ossia quello da cui deriva o è causato.
+
+Sono utilizzati per misurare l’efficienza/efficacia di un processo nella sua interezza o tra fasi di lavorazione successive, in sociologia, economia etc. e misurano quanta parte del fenomeno al numeratore compete in media ad una unità del denominatore (es. vendite per venditore)
+
+$$
+\text{Rapporto di Derivazione} = \dfrac{\text{Modalita Susseguente}}{\text{Modalita Antecedente}}
+$$
+
+Esempi di rapporti di derivazione sono i seguenti:
+
+- % di Promozione: rapporto tra numero degli studenti promossi e numero totale studenti;
+- % di Scarto: rapporto tra numero dei pezzi scartati per anomalie e numero dei pezzi prodotti;
+- Rapporto (%) tra il numero dei reati commessi e la popolazione;
+- Rapporto (%) tra numero di prodotti venduti e numero di venditori;
+- **Quoziente (tasso) di natalità**, che può riguardare persone, imprese, iniziative etc., dato dal rapporto tra il numero di unità nate nel periodo di riferimento (es. se anno si parla di quoziente di natalità annuo) ed il numero medio della popolazione;
+- **Quoziente (tasso) di mortalità**, di persone, imprese, iniziative etc., rapporto tra il numero di unità morte nel periodo di riferimento (es. se anno si parla di quoziente di mortalità annuo) ed il numero medio della popolazione.
+
+
+
+Il **rapporto di densità** è un particolare tipo di rapporto di derivazione che confronta la misura del fenomeno globale con la misura di una quantità di un'altra  dimensione del contesto in cui il fenomeno si verifica e misura la **concentrazione** o la **distribuzione** (il ripartirsi) del fenomeno in relazione ad un'altra dimensione.
+
+$$
+\text{Rapporto di Densita} = \dfrac{\text{Misura Globale}}{\text{Misura Dimensione Interessata}}
+$$
+
+Esempi di rapporti di densità sono:
+
+- Prodotto interno lordo pro capite: rapporto tra il prodotto interno lordo e la popolazione (interessata dal prodotto);
+- Numero medio componenti per famiglia: rapporto tra popolazione e numero di famiglie (della popolazione);
+- Indice di dotazione di posti letto negli istituti di cura: rapporto tra il numero di posti letto degli istituti di cura e la popolazione;
+- Densità demografica: rapporto tra popolazione e territorio (interessato dalla popolazione);
+- Quoziente di affollamento: numero di abitanti/ numero di vani;
+- Inquinamento: sostanza inquinante in atmosfera/metro cubo;
+- Numero di venditori per città (punto vendita);
+- Numero di alunni per classe: rapporto tra numero di alunni e numero di classi contenenti gli alunni.
 
 
 
@@ -1199,7 +1289,42 @@ a) ...
 
 ## UNITA 8: Lo Studio dei Flussi: Rapporti di Durata e Ripetizione
 
-<da completare>
+I rapporti di durata mettono in relazione la consistenza media di un fenomeno con l’ammontare del suo rinnovamento in un dato intervallo di tempo per trovare la durata media di permanenza di una unità in un processo, ossia in una coda. Il ragionamento è il seguente.
+
+Se per un certo periodo di tempo in un albergo ci sono 50 arrivi e 50 partenze al giorno, quanti giorni resterebbe mediamente un ospite in albergo se nel periodo l'albergo è visitato stabilmente da 250 persone?
+
+Consideriamo un "primo" giorno con un blocco di 50 arrivi; le 50 partenze del giorno sarebbero quelle arrivate alcuni giorni prima che ormai hanno attraversato tutto il periodo (cioè la fila); il secondo giorno ci sarebbe un nuovo arrivo di 50 unità ed altrettante partenze di 50 unità che escono dalla fila): ogni giorno il lotto di 50 persona avanza di un "posto" nella fila ed alla fina avrà percorso tutta la fila che è di 250 persone, per cui indicando con $t$ la durata di permanenza in albergo 
+$$
+50 \cdot t = 250
+$$
+ossia $t = \dfrac{250}{50} \longrightarrow 5$ giorni.
+
+In generale il rapporto di durata si ottiene rapportando l’ammontare di un fenomeno, supposto costante, al suo movimento, anch’esso ipotizzato costante, di entrata o di uscita.
+
+$$
+\text{Rapporto di Durata} = \dfrac{\text{Unita in Coda}}{\text{Entrate/Uscite al giorno}}
+$$
+
+
+Nella costruzione del rapporto si è ipotizzato che sia la consistenza del fenomeno sia il suo movimento di rinnovamento o di estinzione (nel nostro esempio numero di clienti arrivati o partiti) restino costanti nel tempo. Ma in realtà i fenomeni che si mettono in relazione per ottenere il concetto di durata sono tutt’altro che costanti nel tempo ed allora si ricorre a valori medi.
+
+Il rapporto di durata esprime, in un dato periodo unitario di tempo (anno, mese, settimana, etc.) la permanenza media di un elemento in un sistema. Ad esempio, sono rapporti di durata: 
+
+- la giacenza media di una merce in un magazzino;
+- la degenza media degli ammalati in un ospedale;
+- la permanenza media degli ospiti in una località (climatica, ecc.). 
+
+ Per calcolare i rapporti di durata si considera il numero degli elementi presenti nel sistema all’inizio ed alla fine del periodo di tempo stabilito; tali dati costituiscono i cosiddetti dati statici; si calcola poi il numero degli elementi entrati ed usciti dal sistema nello stesso periodo di tempo, questi dati sono detti dati dinamici.
+
+Se i due dati dinamici sono eguali fra loro, ossia sono entrati nel sistema tanti elementi quanti ne sono usciti, anche i due dati statici sono eguali.
+
+Si definisce rapporto di durata il rapporto fra il dato statico e quello dinamico. Se i due dati dinamici e, quindi, i due dati statici, sono diversi, si calcola il rapporto fra la semisomma dei dati statici e la semisomma dei dati dinamici. 
+
+
+
+L’inverso del rapporto di durata è detto **rapporto di ripetizione** ed indica quante volte, in media, si e rinnovato il fenomeno nel periodo di tempo preso in considerazione.
+
+
 
 ### ESERCIZIO 8.1 - Rapporti di Durata e Ripetizione (Studio dei Flussi)
 
