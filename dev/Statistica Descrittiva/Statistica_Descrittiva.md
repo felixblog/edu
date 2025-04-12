@@ -12,7 +12,7 @@ Proprio di questo si occupa la statistica che ci dà un insieme di strumenti e t
 
 ## UNITA' 1: Statistica e Fenomeni Collettivi
 
-La statistica è la scienza che studia i ***fenomeni collettivi***, ossia fenomeni che **non sono percepibili con una sola osservazione** di una entità ma richiedono un certo numero di osservazioni, fatte su un insieme (detto ***collettivo***) di individui o unità.
+La statistica è la scienza che studia i ***fenomeni collettivi***, ossia fenomeni che **non sono percepibili con una sola osservazione** di una entità ma richiedono un certo numero di osservazioni, fatte su un insieme di individui o unità.
 
 Sono per esempio fenomeni collettivi:
 
@@ -24,7 +24,7 @@ Sono per esempio fenomeni collettivi:
 
 Concetti come "natalità", "fatturato", "produzione", si dicono "collettivi" nel senso che riguardano una collettività nel suo insieme e non dei singoli individui, anche se ciascun individuo partecipa al fenomeno. Vi sono quindi delle proprietà riferibili al collettivo che saranno espresse in funzione di quelle dei singoli individui, solitamente come conteggio, somme, medie e così via. Ad esempio il "fatturato aziendale" è la somma del ricavato di ogni singola vendita, il reddito familiare è la somma, o la media, del reddito dei componenti di una famiglia e così via.
 
-Fissato un fenomeno collettivo da studiare, diciamo **unità statistica** la singola entità in cui si osserva il fenomeno in esame.
+Fissato un fenomeno collettivo da studiare, diciamo **unità statistica** la singola entità in cui si osserva il fenomeno in esame. L’insieme delle singole unità statistiche interessate dallo studio del fenomeno collettivo è detto **collettivo statistico** o **popolazione**. 
 
 Alcuni esempi:
 
@@ -33,17 +33,13 @@ Alcuni esempi:
 - aggregati territoriali (stati, regioni, province, comuni, altro ancora);
 - unità temporali (anni, mesi, giorni, altro ancora);
 
-Il fenomeno di cui si parla è rilevabile attraverso una **osservazione o rilevazione**, mediante la quale si registrano i **dati di una unità**, ossia le caratteristiche che interessano.
+Il fenomeno di cui si parla è rilevabile attraverso una **osservazione o rilevazione**, mediante la quale si registrano i **dati di una unità**, ossia le **caratteristiche** che interessano.
 
-Le **caratteristiche** (o caratteri) che fanno parte di una osservazione sono dette **variabili**; facendo l'esempio di persone, variabili possono essere la sua data di nascita, il suo peso, l’altezza, il suo reddito etc.; se l’unità statistica è una vendita, le variabili dell’osservazione possono essere il prodotto venduto, il venditore, il cliente etc.
+Parlando di una popolazione di persone, caratteristiche di una singola unità sono il fatto che è nata il 22-04-2002, oppure che sia di sesso maschile o che pesa 67 Kg. Il "peso", la "data di nascita" o il "sesso" sono attributi di *tutte* le unità statistiche della popolazione e sono detti **caratteri** o **variabili**; se la popolazione è costituita dalle vendite di una azienda, le variabili di interesse possono essere il prodotto venduto, il venditore, il cliente etc.
 
-Ci sono molti modi per rilevare una caratteristica in una osservazione. Ad esempio, se le unità sono le interrogazioni in una classe, la variabile "valutazione dell'interrogazione" potrebbe essere rilevata con un numero da 0 a 10 oppure con un giudizio, "sufficiente" o "insufficiente" e questo incide sul grado di accuratezza o **precisione** con cui rileviamo il fenomeno. Si dicono **valori** (o **modalità**) della variabile i modi con cui una caratteristica viene rilevata: "sufficiente" e "insufficiente" sono modalità (o valori) della caratteristica (o variabile) variabile "valutazione dell'interrogazione". 
+Ci sono molti modi per rilevare una caratteristica in una osservazione. Ad esempio, se le unità sono le interrogazioni in una classe, la variabile "valutazione dell'interrogazione" potrebbe essere rilevata con un numero da 0 a 10 oppure con un giudizio, "sufficiente" o "insufficiente" e questo incide sul grado di accuratezza o **precisione** con cui rileviamo il fenomeno. Si dicono **valori** (o **modalità**) della variabile (o del carattere) i modi con cui una caratteristica viene rilevata: "sufficiente" e "insufficiente" sono un modo per fare una "valutazione dell'interrogazione", ma ce ne possono essere altri.
 
-La modalità che viene effettivamente assunta dal carattere in una specifica osservazione è il **dato statistico** (alcuni autori applicano il termine modalità solo se i dati sono NON sono numerici ed **intensità** o **quantità** se sono numerici). Al posto di dire che "un carattere assume una certa modalità", diremo che "La variabile assume un certo valore". 
-
-L’insieme delle singole unità statistiche interessate dallo studio del fenomeno collettivo è detto **collettivo statistico** o **popolazione**. 
-
-
+La modalità che viene effettivamente assunta dal carattere in una specifica osservazione è il **dato statistico** (alcuni usano "modalità" solo se i dati sono NON sono numerici ed **intensità** o **quantità** se sono numerici). Al posto di dire che "un carattere assume una certa modalità", diremo che "La variabile assume un certo valore".
 
 #### ESEMPIO 1
 
@@ -75,43 +71,45 @@ $$
 
 La popolazione è costituita dall’insieme dei dipendenti dell'ufficio e ciascun dipendente è una unità statistica. Le caratteristiche delle unità. o **variabili** di interesse, sono "Titolo di Studio" ed "Età".
 
-Le modalità del Titolo di studio sono: {Laurea, Diploma, Licenza Media, Licenza Elementare} mentre le modalità dell’età sono i numeri che vanno da 18 a 70. 
+Le modalità del Titolo di studio sono: {Laurea, Diploma, Licenza Media, Licenza Elementare} mentre le modalità dell’età sono i numeri che vanno da 18 a 70.  $\bullet$
+
+
+
+#### ESEMPIO 2
+
+Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubblico per le scuole di una determinata città. Si devono quindi individuare la popolazione, le unità statistiche, i caratteri più significativi per l'indagine e le loro modalità.
+
+La popolazione potrebbe essere l'insieme di tutti i viaggi effettuati in un certo periodo di tempo da tutte le persone che si recano in una qualunque scuola della città (insegnanti, studenti, personale amministrativo e tecnico). L'unità statistica è quindi il viaggio ed i caratteri più rilevanti sono:
+
+- Uso del mezzo di trasporto (modalità: Si, No) 
+
+- Tipologia del mezzo (modalità: Nessuno, Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro);
+
+- Età del Viaggiatore (modalità: numeri interi compresi tra 2 a 90);
+
+- Sesso  del Viaggiatore (modalità: M, F; Tipo: categorico/binario);
+
+- Distanza del Domicilio dalla Scuola: (modalità: numeri decimali);
+
+- Motivazione del non utilizzo di un mezzo (modalità: descrizione testuale);
+
+- Grado di soddisfazione (modalità: valori da 1 a 10).
+
+- Data ed ora del viaggio (modalità: data ed ora)
+
+$\bullet$
 
 
 
 ### ESERCIZIO 1.1 - Popolazioni, caratteri e modalità
 
-a) Si vuole effettuare un'indagine statistica sulla qualità del trasporto pubblico per le scuole di una determinata città. Individuare:
+a) Per effettuare un'indagine sull'utilizzo dei computer nella tua città, quali potrebbero essere i caratteri da rilevare? Quali le unità statistiche?  
 
-1. la popolazione e le unità statistiche;
-2. i caratteri più significativi per l'indagine, le loro modalità, il tipo di dato statistico (qualitativo, quantitativo discreto, quantitativo continuo, il livello di misurazione.
+b) Per effettuare una indagine statistica sul consumo di alcol tra i ragazzi da 16 a 21 anni della tua città, quale sarebbe la popolazione statistica da considerare? quali i caratteri e la modalità?
 
-#### Esempio di SOLUZIONE
+c) In una Provincia, si vuole analizzare il numero delle abitazioni occupate in rapporto al numero di stanze. Quale è la popolazione da considerare? Quali sono i caratteri da rilevare?
 
-La popolazione è l'insieme di tutti gli individui che si recano in una scuola della città (insegnanti, studenti, personale amministrativo e tecnico): ogni individuo è una unità statistica. I caratteri più rilevanti sono:
-
-- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: categorico/binario, Livello Misurazione: nominale);
-
-- Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: categorico, Livello Misurazione: nominale);
-
-- Età (modalità: numeri interi compresi tra 2 a 90; Tipo: quantitativo discreto, Livello Misurazione: rapporto);
-
-- Sesso (modalità: M, F; Tipo: categorico/binario, Livello Misurazione: nominale);
-
-- Distanza del Domicilio dalla Scuola: (modalità: quantitativo/continuo, livello rapporto, eventualmente ripartita in classi, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km);
-
-- Motivazione del non utilizzo (Tipo: qualitativo/arbitrario, Livello Misurazione: nominale);
-
-- Grado di soddisfazione (modalità: categorico, valori da 1 a 10, Livello Misurazione: ordinale).
-
-
-b) Per effettuare un'indagine sull'utilizzo dei computer nella tua città, quali potrebbero essere i caratteri da rilevare? Quali le unità statistiche?  
-
-c) Per effettuare una indagine statistica sul consumo di alcol tra i ragazzi da 16 a 21 anni della tua città, quale sarebbe la popolazione statistica da considerare? quali i caratteri e la modalità?
-
-d) In una Provincia, si vuole analizzare il numero delle abitazioni occupate in rapporto al numero di stanze. Quale è la popolazione da considerare? Quali sono i caratteri da rilevare?
-
-e) In un Comune si svolge una indagine sul numero di giornate con precipitazioni nevose, secondo i mesi dell'anno, negli ultimi 10 anni. Quali sono le unità statistiche? Quali i caratteri?
+d) In un Comune si svolge una indagine sul numero di giornate con precipitazioni nevose, secondo i mesi dell'anno, negli ultimi 10 anni. Quali sono le unità statistiche? Quali i caratteri?
 
 
 
@@ -155,7 +153,7 @@ I livelli sono riportati nella figura seguente.
 
 Relativamente all'esercizio 1.1, che riguardava un'indagine statistica sulla qualità del trasporto pubblico per le scuole di una determinata città, abbiamo la situazione delle variabili riportata di seguito (l'unità statistica è l'individuo).
 
-- Uso del mezzo di trasporto (modalità: Uso, Non Uso; Tipo: categorico/binario, Livello Misurazione: nominale);
+- Uso del mezzo di trasporto (modalità: Uso, Si, No; Tipo: categorico/binario, Livello Misurazione: nominale);
 
 - Tipologia del mezzo (modalità: Autobus, Metropolitana, Auto, Moto, Bicicletta, Altro; Tipo: categorico, Livello Misurazione: nominale);
 
@@ -163,7 +161,7 @@ Relativamente all'esercizio 1.1, che riguardava un'indagine statistica sulla qua
 
 - Sesso (modalità: M, F; Tipo: categorico/binario, Livello Misurazione: nominale);
 
-- Distanza del Domicilio dalla Scuola: (modalità: quantitativo/continuo, livello rapporto, eventualmente ripartita in classi, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km);
+- Distanza del Domicilio dalla Scuola: (modalità: quantitativo/continuo, livello rapporto, eventualmente ripartita in fasce, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km);
 
 - Motivazione del non utilizzo (Tipo: qualitativo/arbitrario illimitato, Livello Misurazione: nominale);
 
@@ -173,9 +171,9 @@ Relativamente all'esercizio 1.1, che riguardava un'indagine statistica sulla qua
 
 ## UNITA' 2: Frequenze ed Intensità
 
-Una prima sintesi dei dati è costituita dal calcolo delle frequenze.
+Avendo a disposizione i dati della popolazione, una prima analisi è quella che consiste nel calcolo di quante unità posseggono certe caratteristiche, cioè, nell'esempio del titolo di studio dei dipendenti, quanti dipendenti posseggono la laurea, quanti il diploma ecc. Questa analisi ci consente di sapere quale titolo di studio è il più frequente tra la popolazione e quale lo è meno (analisi delle frequenze).
 
-La **Frequenza (assoluta) di una modalità** (in inglese "proportion") è il numero di unità della popolazione, o di un suo campione, che presentano la modalità, ossia il numero di volte che la modalità di un carattere viene osservata nella popolazione.
+La **Frequenza (assoluta) di una modalità** (in inglese "proportion") è il numero di unità della popolazione che presentano la modalità, ossia il numero di volte che la modalità di un carattere viene osservata nella popolazione.
 
 La **Frequenza relativa di una modalità** è il rapporto tra la frequenza assoluta della modalità ed il numero delle unità della popolazione.
 
@@ -243,7 +241,7 @@ $$
 
 Ogni riga della tabella corrisponde a un individuo sul quale sono stati rilevati 5 caratteri. Ciascun carattere assume in corrispondenza di ogni individuo una determinata modalità.
 
-Le frequenze assolute e relative del Gradi di Pesantezza (*distribuzione* dei Gradi di Pesantezza) e del Numero dei Figli sono le seguenti.
+Le frequenze assolute e relative, espresse in percentuale, del Gradi di Pesantezza (*distribuzione* dei Gradi di Pesantezza) e del Numero dei Figli sono le seguenti.
 
 
 $$
@@ -288,7 +286,9 @@ $$
 \end{array}
 $$
 
-$\bullet$
+Il grado di pesantezza più frequente è $3$ ed il numero di figli più frequente è $2$.  $\bullet$
+
+
 
 Se si è in presenza di un carattere ordinato da analizzare che presenta molte modalità distinte, come ad esempio l'età degli individui, si possono avere notevoli difficoltà nella comprensione dei dati osservati.
 
@@ -340,11 +340,11 @@ $$
 \end{array}
 $$
 
-$\bullet$
+La classe di lavoratori più numerosa è quella dei Maturi.  $\bullet$
 
 
 
-#### Caratteri Trasferibili ed Intensità 
+### Caratteri Trasferibili ed Intensità 
 
 Un carattere è detto **trasferibile** se ha senso immaginare che (per un esito alternativo o futuro degli eventi) tutto o parte del carattere di un’unità statistica possa essere trasferito (incrementato o decrementato) a vantaggio di un’altra unità statistica. 
 
@@ -382,11 +382,13 @@ $$
 \end{array}
 $$
 
-Per ogni qualifica la colonna "Retrib." è ottenuta come somma delle retribuzioni individuali. $\bullet$
+Per ogni qualifica la colonna "Retrib." è ottenuta come somma delle retribuzioni individuali. E' importante osservare per quali qualifiche si raggiungono i valori massimi e minimi delle retribuzioni: il massimo si ha per gli operai ed il minimo per i quadri. $\bullet$
+
+
 
 #### ESEMPIO 4
 
-In una azienda che vende in tutta Italia, il riepilogo delle vendite mensili per area geografica è una distribuzione di intensità. L'unità statistica è la vendita, la variabile qualitativo è l'area di vendita (Nord, Centro, Sud, Isole) e quello quantitativo è l'importo della vendita stessa. La distribuzione è la seguente.
+In una azienda che vende in tutta Italia, il riepilogo delle vendite in un determinato mese per area geografica è una distribuzione di intensità. L'unità statistica è la vendita, la variabile qualitativo è l'area di vendita (Nord, Centro, Sud, Isole) e quello quantitativo è l'importo della vendita. La distribuzione è la seguente.
 
 $$
 \textbf{VENDITE PER AREA} \\
@@ -408,7 +410,7 @@ $$
 \end{array}
 $$
 
-$\bullet$
+L'area che vende di più è il Nord, quella  he vende di meno è l'area commerciale delle Isole.  $\bullet$
 
 
 
@@ -539,7 +541,7 @@ $$
 $$
 
 
-1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi $0 \vdash 25$, $26 \vdash 50$ e $51 \vdash 75$; 
+1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi $0 \vdash 26$, $26 \vdash 51$ e $51 \vdash 76$; 
 2. Calcola le frequenze assolute e relative per determinare la distribuzione del livello socio-economico.
 
 #### Laboratorio FOGLIO ELETTRONICO
@@ -572,7 +574,7 @@ a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lav
 
 2. la distribuzione della retribuzione mensile per qualifica, in assoluto ed in percentuale sul totale.
 
-b) Considera le classi di retribuzione (fascie) seguenti: $0 \vdash 18$; $18 \vdash 25$; $26 \vdash 40$; $40 \vdash $, e calcola
+b) Considera le classi di retribuzione (fasce) seguenti: $0 \vdash 19$; $19 \vdash 26$; $26 \vdash 40$; $40 \vdash $, e calcola
 
 1. le frequenze assolute e relative di tali classi;
 2. la distribuzione della retribuzione mensile per fascia d'età.
@@ -714,7 +716,7 @@ Rappresenta in un diagramma cartesiano:
 2. La serie storica delle Importazioni;
 3. Le due serie nello stesso diagramma. Quale fenomeno si può notare?
 
-#### Soluzione
+#### SOLUZIONE
 
 Punto a.1)
 
@@ -785,7 +787,7 @@ $$
 $$
 
 
-#### Soluzione
+#### SOLUZIONE
 
 Punto b)
 
@@ -803,7 +805,7 @@ a) Rappresenta con un diagramma a torta le tabelle delle frequenze percentuali r
 
 b) Calcola la ripartizione percentuale del numero degli occupati maschi e delle occupate femmine per settore economico dell'esercizio 5.d) e rappresenta i dati con due diagrammi a torta. 
 
-#### Soluzione
+#### SOLUZIONE
 
 Punto b)
 
@@ -813,7 +815,7 @@ Punto b)
 
 ### ESERCIZIO 4.4 - Grafici a Dispersione
 
-a) Considera i seguenti dati relativi agli investimenti e al fatturato (milioni di euro) complessivo di un collettivo di aziende:
+a) Considera i seguenti dati relativi agli investimenti e al fatturato complessivo di un collettivo di aziende (in milioni di euro) :
 
 $$
 \begin{array}{|r|r|}
@@ -920,6 +922,42 @@ Punto a)
 
 
 ## UNITA' 5: Moda, media e mediana
+
+La reportistica manageriale spesso contiene frasi come:
+
+- il salario medio per livello lavorativo;
+- il piano sanitario più popolare;
+- il consumo medio di latte di una famiglia di quattro persone;
+- la metà degli impiegati spende meno di $178$ euro al mese per il pendolarismo lavorativo;
+- l’età media dei nostri impiegati.
+
+Questi termini si riferiscono ad un valore assunto come tipico dell’insieme dei dati che stiamo considerando, un valore rappresentativo di "tutto" l’insieme dei salari, dei consumi di latte, dell'età ecc.
+
+Non essendo di interpretazione univoca, ci sono più modi di definire tale questo valore per uno stesso insieme di dati; tutti questi indicatori vengono chiamati **statistiche di posizione centrale**.
+
+Le tre statistiche di posizione centrale più utilizzate sono:
+
+a) la media aritmetica (la "media");
+
+b) la moda.
+
+c) la mediana;
+
+Per le variabili quantitative possono essere calcolati tutti e tre gli indicatori: media, moda e mediana, mentre per le variabili qualitative può essere usata solo la moda.
+
+
+
+### La Media
+
+
+
+### La Moda
+
+
+
+### La Mediana
+
+
 
 ### ESERCIZIO 5.1 - Indici di Posizione Centrale - Moda, Mediana, Media
 
