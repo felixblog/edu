@@ -35,7 +35,7 @@ Alcuni esempi:
 
 Il fenomeno di cui si parla è rilevabile attraverso una **osservazione o rilevazione**, mediante la quale si registrano i **dati di una unità**, ossia le **caratteristiche** che interessano.
 
-Parlando di una popolazione di persone, caratteristiche di una singola unità sono il fatto che è nata il 22-04-2002, oppure che sia di sesso maschile o che pesa 67 Kg. Il "peso", la "data di nascita" o il "sesso" sono attributi di *tutte* le unità statistiche della popolazione e sono detti **caratteri** o **variabili**; se la popolazione è costituita dalle vendite di una azienda, le variabili di interesse possono essere il prodotto venduto, il venditore, il cliente etc.
+Parlando di una popolazione di persone, caratteristiche di una singola unità sono il fatto che è nata il 22-04-2002, oppure che sia di sesso maschile o che pesa 67 Kg. Il "peso", la "data di nascita" o il "sesso" sono attributi di *tutte* le unità statistiche della popolazione e sono detti **caratteri** o **variabili**; se la popolazione è costituita dalle vendite di una azienda, le variabili di interesse possono essere il prodotto venduto, il venditore, il cliente etc.
 
 Ci sono molti modi per rilevare una caratteristica in una osservazione. Ad esempio, se le unità sono le interrogazioni in una classe, la variabile "valutazione dell'interrogazione" potrebbe essere rilevata con un numero da 0 a 10 oppure con un giudizio, "sufficiente" o "insufficiente" e questo incide sul grado di accuratezza o **precisione** con cui rileviamo il fenomeno. Si dicono **valori** (o **modalità**) della variabile (o del carattere) i modi con cui una caratteristica viene rilevata: "sufficiente" e "insufficiente" sono un modo per fare una "valutazione dell'interrogazione", ma ce ne possono essere altri.
 
@@ -286,7 +286,7 @@ $$
 \end{array}
 $$
 
-Il grado di pesantezza più frequente è $3$ ed il numero di figli più frequente è $2$.  $\bullet$
+Il grado di pesantezza più frequente è $3$ ed il numero di figli più frequente è $2$.  $\bullet$
 
 
 
@@ -921,7 +921,7 @@ Punto a)
 
 
 
-## UNITA' 5: Moda, media e mediana
+## UNITA' 5: Moda, Media e Mediana
 
 La reportistica manageriale spesso contiene frasi come:
 
@@ -949,17 +949,111 @@ Per le variabili quantitative possono essere calcolati tutti e tre gli indicator
 
 ### La Media
 
+La **media** aritmetica di $n$ numeri $x_1, x_2, …, x_n$ è il rapporto tra la loro somma e il numero $n$.
+$$
+Media = \dfrac{x_1+x_2+...+x_n}{n}
+$$
+Se non si hanno a disposizione tutti i dati, ma solo la distribuzione della frequenza di una variabile quantitativa, la media è ottenuta moltiplicando la modalità per la frequenza, sommando e dividendo tutto per la numerosità della popolazione.
+
+#### ESEMPIO 1
+
+Riprendiamo l’esempio dei dipendenti di un ufficio che avevano le età riportate di seguito.
+
+$$
+\textbf{DIPENDENTI} \\
+\begin{array}{|l|c|}
+\hline
+\textbf{Nominativo} & \textbf{Eta} \\
+\hline
+\text{Antonio Rossi} & 48 \\
+\hline
+\text{Francesca Verdi}    & 59  \\
+\hline
+\text{Franco  Gialli}  & 37  \\
+\hline
+\text{Luigi  Neri}        & 23  \\
+\hline
+\text{Giacomo  Bianchi}    & 24  \\
+\hline
+\text{Antonio  Bianchi}   & 37  \\
+\hline
+\text{Amedeo  Verdi}    & 61  \\
+\hline
+\end{array}
+$$
+
+L'età media dei dipendenti è 
+$$
+\dfrac{48+59+37+23+24+37+61}{7} = \dfrac{289}{7} \approx 41,3 \;\;\;\bullet
+$$
+
+#### ESEMPIO 2
+
+Di seguito sono viene riportato il numero di notti trascorse in albergo da 90 clienti.
+
+$$
+\textbf{NOTTI IN ALBERGO} \\
+\begin{array}{|c|c|}
+\hline
+\textbf{N. Notti}	& \textbf{N. Clienti}	\\
+\hline
+1 & 25	\\
+\hline
+2 & 21	\\
+\hline
+3 & 15	\\
+\hline
+4 & 12	\\
+\hline
+5 & 8	\\
+\hline
+6 & 6	\\
+\hline
+7 & 3	\\
+\hline
+\textbf{Totale} & \mathbf{90}	\\
+\hline
+\end{array}
+$$
+
+La media delle notti si ottiene con la formula seguente:
+$$
+Media = \dfrac{25 \cdot 1 + 21 \cdot 2 +15 \cdot 3 + 12 \cdot 4 +8 \cdot 5 +6 \cdot 6 +3 \cdot 7}{90} = \dfrac{257}{80} \approx 2,85 \;\;\;\bullet
+$$
 
 
 ### La Moda
+
+Dati i numeri $x_1, x_2,...,xn$, si chiama **moda** il valore a cui corrisponde la frequenza massima.
+
+#### ESEMPIO 3
+
+Nell'esempio precedente delle notti in albergo, la moda è $1$ con $25$ clienti.   $\bullet$
 
 
 
 ### La Mediana
 
+Data la sequenza ordinata di $n$ numeri $x_1, x_2, … x_n$, la **mediana** è:
+
+- il valore centrale, se $n$ è dispari;
+- la media aritmetica dei due valori centrali, se $n$ è pari.
+
+#### ESEMPIO 4
+
+Per trovare la mediana tra i numeri $21, 35, 22, 26, 28$ bisogna eseguire i passi seguenti:
+
+1. Ordinare i numeri: $21, 22, 26, 28, 35$;
+2. Poiché i numeri sono 5 (dispari), la mediana è il numero centrale: $26$.
+
+Se l'insieme fosse stato  $21, 35, 22, 26, 28, 24$:
+
+1. Ordinare i numeri: $21, 22, 24, 26, 28, 35$;
+2. Poiché i numeri sono pari, la mediana è la media dei due numeri centrali: $\dfrac{24 + 26}{2} = 25$
 
 
-### ESERCIZIO 5.1 - Indici di Posizione Centrale - Moda, Mediana, Media
+
+### ESERCIZIO 5.1 - Indici di Posizione Centrale - Media, Moda, Mediana
 
 a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
