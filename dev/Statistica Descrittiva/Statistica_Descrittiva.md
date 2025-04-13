@@ -1291,15 +1291,19 @@ a) ...
 
 I rapporti di durata mettono in relazione la consistenza media di un fenomeno con l’ammontare del suo rinnovamento in un dato intervallo di tempo per trovare la durata media di permanenza di una unità in un processo, ossia in una coda. Il ragionamento è il seguente.
 
-Se per un certo periodo di tempo in un albergo ci sono 50 arrivi e 50 partenze al giorno, quanti giorni resterebbe mediamente un ospite in albergo se nel periodo l'albergo è visitato stabilmente da 250 persone?
+Se per un certo periodo di tempo in un albergo ci sono flussi costanti di 50 arrivi e 50 partenze al giorno, quanti giorni resterebbe mediamente un ospite in albergo se nel periodo l'albergo è visitato stabilmente da 250 persone?
 
-Consideriamo un "primo" giorno con un blocco di 50 arrivi; le 50 partenze del giorno sarebbero quelle arrivate alcuni giorni prima che ormai hanno attraversato tutto il periodo (cioè la fila); il secondo giorno ci sarebbe un nuovo arrivo di 50 unità ed altrettante partenze di 50 unità che escono dalla fila): ogni giorno il lotto di 50 persona avanza di un "posto" nella fila ed alla fina avrà percorso tutta la fila che è di 250 persone, per cui indicando con $t$ la durata di permanenza in albergo 
-$$
-50 \cdot t = 250
-$$
-ossia $t = \dfrac{250}{50} \longrightarrow 5$ giorni.
+La situazione è illustrata nella figura seguente.
 
-In generale il rapporto di durata si ottiene rapportando l’ammontare di un fenomeno, supposto costante, al suo movimento, anch’esso ipotizzato costante, di entrata o di uscita.
+![Flussi](img/Flussi.png)
+
+Consideriamo un "primo" giorno con un blocco di 50 arrivi da monitorare. Le 50 partenze del giorno sarebbero quelle arrivate alcuni giorni prima che ormai hanno attraversato tutto il periodo (cioè la fila); il secondo giorno ci sarebbe un nuovo arrivo di 50 unità, altrettante partenze di 50 unità che escono dalla fila) ed il nostro blocco da monitorare avanza di un "posto" nella fila ed alla fina avrà percorso tutta la fila che è di 250 persone, per cui indicando con $T$ la durata di permanenza in albergo 
+$$
+50 \cdot T = 250
+$$
+ossia $T = \dfrac{250}{50} \longrightarrow 5$ giorni.
+
+In generale il rapporto di durata si ottiene rapportando l’ammontare di un fenomeno, supposto costante, al suo movimento, anch’esso ipotizzato costante, di entrata o di uscita da un sistema o processo.
 
 $$
 \text{Rapporto di Durata} = \dfrac{\text{Unita in Coda}}{\text{Entrate/Uscite al giorno}}
@@ -1314,15 +1318,19 @@ Il rapporto di durata esprime, in un dato periodo unitario di tempo (anno, mese,
 - la degenza media degli ammalati in un ospedale;
 - la permanenza media degli ospiti in una località (climatica, ecc.). 
 
- Per calcolare i rapporti di durata si considera il numero degli elementi presenti nel sistema all’inizio ed alla fine del periodo di tempo stabilito; tali dati costituiscono i cosiddetti dati statici; si calcola poi il numero degli elementi entrati ed usciti dal sistema nello stesso periodo di tempo, questi dati sono detti dati dinamici.
+Per calcolare i rapporti di durata si considera il numero degli elementi presenti nel sistema all’inizio ed alla fine del periodo di tempo stabilito; tali dati costituiscono i cosiddetti dati statici; si calcola poi il numero degli elementi entrati ed usciti dal sistema nello stesso periodo di tempo, questi dati sono detti dati dinamici.
 
 Se i due dati dinamici sono eguali fra loro, ossia sono entrati nel sistema tanti elementi quanti ne sono usciti, anche i due dati statici sono eguali.
+
+Il **rapporto di ripetizione** è reciproco del rapporto di durata e rappresenta una frequenza, ossia quante volte è, in media, si e rinnovato il fenomeno nel periodo di tempo preso in considerazione.
+
+#### ESEMPIO 1
+
+
 
 Si definisce rapporto di durata il rapporto fra il dato statico e quello dinamico. Se i due dati dinamici e, quindi, i due dati statici, sono diversi, si calcola il rapporto fra la semisomma dei dati statici e la semisomma dei dati dinamici. 
 
 
-
-L’inverso del rapporto di durata è detto **rapporto di ripetizione** ed indica quante volte, in media, si e rinnovato il fenomeno nel periodo di tempo preso in considerazione.
 
 
 
