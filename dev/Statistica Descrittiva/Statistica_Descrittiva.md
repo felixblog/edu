@@ -6,7 +6,7 @@ Abbiamo potenzialmente la possibilità di sapere tante cose per decidere nella m
 
 Una caratteristica comune a tutte le cose di cui abbiamo parlato è la loro quantità: abbiamo più primi piatti tra cui scegliere, più negozi per comprare lo stesso prodotto, più persone cui dare la nostra amicizia, ciascuno con le sue caratteristiche e particolarità. È solo quando un certo numero di dati viene raccolto, confrontato, analizzato e compreso che vengono generate informazioni utili per prendere delle decisioni.
 
-Proprio di questo si occupa la statistica che ci dà un insieme di strumenti e tecniche per trasformare dati grezzi (non elaborati) in informazioni sintetiche e riassuntive che rappresentano informazioni utili e utilizzabili per supportare un processo decisionale efficace.
+Proprio di questo si occupa la statistica, che ci dà un insieme di strumenti e tecniche per trasformare dati grezzi (non elaborati) in informazioni sintetiche e riassuntive che rappresentano informazioni utili per supportare un processo decisionale efficace.
 
 
 
@@ -16,8 +16,8 @@ La statistica è la scienza che studia i ***fenomeni collettivi***, ossia fenome
 
 Sono per esempio fenomeni collettivi:
 
-- il numero dei clienti di azienda in una regione in un certo mese, o la ripartizione dei clienti regione per regione;
 - il fatturato ed i costi di una azienda (la somma del valore delle vendite);
+- la clientela di una azienda in una regione in un certo mese;
 - la natalità e la mortalità degli individui di una nazione o città o regione;
 - la valutazione in "stelle" di un prodotto su Amazon (Numero di 5 Stelle, 4 Stelle etc.);
 - la qualità della produzione (definita come la media di una caratteristica sui prodotti dell'azienda)
@@ -26,7 +26,7 @@ Concetti come "natalità", "fatturato", "produzione", si dicono "collettivi" nel
 
 Fissato un fenomeno collettivo da studiare, diciamo **unità statistica** la singola entità in cui si osserva il fenomeno in esame. L’insieme delle singole unità statistiche interessate dallo studio del fenomeno collettivo è detto **collettivo statistico** o **popolazione**. 
 
-Alcuni esempi:
+Alcuni esempi di unità statistiche:
 
 - individui (clienti di un albergo, turisti, studenti, dipendenti di un’azienda, ecc...);
 - oggetti (automobili, aziende, prodotti di consumo, ecc...);
@@ -39,7 +39,7 @@ Parlando di una popolazione di persone, caratteristiche di una singola unità so
 
 Ci sono molti modi per rilevare una caratteristica in una osservazione. Ad esempio, se le unità sono le interrogazioni in una classe, la variabile "valutazione dell'interrogazione" potrebbe essere rilevata con un numero da 0 a 10 oppure con un giudizio, "sufficiente" o "insufficiente" e questo incide sul grado di accuratezza o **precisione** con cui rileviamo il fenomeno. Si dicono **valori** (o **modalità**) della variabile (o del carattere) i modi con cui una caratteristica viene rilevata: "sufficiente" e "insufficiente" sono un modo per fare una "valutazione dell'interrogazione", ma ce ne possono essere altri.
 
-La modalità che viene effettivamente assunta dal carattere in una specifica osservazione è il **dato statistico** (alcuni usano "modalità" solo se i dati sono NON sono numerici ed **intensità** o **quantità** se sono numerici). Al posto di dire che "un carattere assume una certa modalità", diremo che "La variabile assume un certo valore".
+La modalità che viene effettivamente assunta dal carattere in una specifica osservazione è il **dato statistico**. Al posto di dire che "un carattere assume una certa modalità", possiamo dire anche che "La variabile assume un certo valore".
 
 #### ESEMPIO 1
 
@@ -420,7 +420,7 @@ a) Per ognuno dei casi seguenti, calcola e riporta in una tabella le frequenze a
 
 1. Statura degli studenti di una classe, espressa in centimetri: 160, 165, 165, 162, 163, 165, 168, 168, 166, 161, 162, 166, 168, 165, 165, 165, 163, 168, 162, 161, 163, 165, 165, 161, 168, 165, 163, 165.  
 2. Pioggia caduta giornalmente nel mese di febbraio in una certa località, espressa in millimetri: 2, 3, 3, 4, 6, 8, 5, 5, 0, 0, 0, 1, 1, 4, 2, 5, 1, 0, 0, 0, 1, 2, 2, 0, 1, 0, 1, 2.  
-3. Libri letti in un anno da 40 persone; completa i dati raccolti nella tabella seguente con le frequenze relative:
+3. Libri letti in un anno da 40 persone: completa i dati raccolti nella tabella seguente con le frequenze relative:
 
 $$
 \textbf{CARATTERE: Libri letti in un anno} \\
@@ -469,7 +469,7 @@ $$
 
 $$
 \textbf{CARATTERE: Metodo di Apprendimento} \\
-\begin{array}{|c|c|}
+\begin{array}{|l|c|}
 \hline
 \textbf{Modalita} & \textbf{Freq. Ass.} & \textbf{Freq. Rel.} \\
 \hline
@@ -583,6 +583,337 @@ b) Considera le classi di retribuzione (fasce) seguenti: $0 \vdash 19$; $19 \vda
 
 ## UNITA' 3: Tabelle e Serie Statistiche
 
+È possibile trarre vantaggio dai risultati statistici solo se le informazioni sono interpretate facilmente e comunicate in modo efficace. Le tabelle ed i grafici sono strumenti usati comunemente per riepilogare e presentare risultati statistici: una tabella o un grafico possono infatti comunicare informazioni in modo molto più rapido e vivido di un rapporto scritto se il lettore è in grado di interpretarle. Per i grafici in particolare c'è molta verità nell'adagio "un'immagine vale più di mille parole".
+
+Tabelle e i grafici possono essere utilizzati per riassumere i dati di una singola variabile (ad es. il canale TV preferito dagli spettatori o l'andamento dei tempi di consegna) o per esaminare la relazione tra due variabili (ad es. tra genere e numero di lettori di giornali).
+
+Le tabelle sono uno strumento molto generale per riportare dati in relazione tra di loro e sono fondamentali per l’esposizione di dati statistici. Una tabella è costituita da un insieme di righe, ciascuna costituita da una sequenza di dati (celle), ed una intestazione che riporta il nome delle colonne.
+
+Relativamente alla loro struttura le tabelle statistiche si distinguono in:
+
+- univariate e multivariate;
+- semplici e composte;
+- ad una ed a più entrate.
+
+ Relativamente al contenuto, le tipologie di tabelle che tratteremo sono:
+
+- tabelle delle rilevazioni (o osservazioni);
+- tabelle per le distribuzioni di frequenza (semplici e multiple);
+- tabelle per le distribuzioni di intensità;
+- serie statistiche.
+
+In rapporto alle rilevazioni, le tabelle generalmente contengono dati derivati ottenuti dal raggruppamento delle osservazioni elementari e dall’applicazione di funzioni di aggregazione quali conteggi, somme, medie etc.
+
+### Tabelle Univariate e Multivariate
+
+Le tabelle **univariate** o monovariate sono le più semplici e presentano i dati di una sola variabile (carattere) per ciascuna unità statistica. La tabella si riduce così ad un elenco e fornisce supporto all’analisi statistica monovariata che consiste nell’analizzare le variabili singolarmente prese, cioè a una a una senza metterle in relazione fra di loro.
+
+Sono tabelle univariate le distribuzioni di frequenza in quanto riportano i dati di un solo carattere. 
+
+#### ESEMPIO 1
+
+Se si rappresenta solo il carattere "titolo di studio" dei 7 dipendenti di un'azienda, si ha una tabella con una sola colonna in cui ogni riga corrisponde ad una unità statistica e la colonna indica il suo titolo di studio (licenza media, diploma di maturità, laurea triennale ecc.).
+
+$$
+\textbf{DIPENDENTI - Titolo di Studio} \\
+\begin{array}{|l|l|c|}
+\hline
+\textbf{Titolo di Studio} \\
+\hline
+\text{Laurea} 		 \\
+\hline
+\text{Diploma}       \\
+\hline
+\text{Licenza Media}\\
+\hline
+\text{Laurea}       \\
+\hline
+\text{Laurea}       \\
+\hline
+\text{Laurea}        \\
+\hline
+\text{Diploma}       \\
+\hline
+\end{array}
+$$
+
+Univariata è anche la distribuzione delle frequenze del Titolo di Studio tra i dipendenti.
+
+
+$$
+\textbf{DIPENDENTI - Freq. Titolo di Studio} \\
+\begin{array}{|l|c|}
+\hline
+\textbf{Titolo di Studio} & \textbf{Frequenza}\\
+\hline
+\text{Laurea} 	& 4	 \\
+\hline
+\text{Diploma}  & 2     \\
+\hline
+\text{Licenza Media} & 1 \\
+\hline
+\end{array}
+$$
+
+
+$\bullet$
+
+
+
+In una **tabella multivariata** vengono riportate le modalità di più di un carattere.
+
+Sono tabelle multivariate le distribuzioni di intensità in quanto coinvolgono dati di un carattere qualitativo e di uno quantitativo.
+
+#### ESEMPIO 2
+
+Nell'esempio del questionario fatto ai dipendenti dall'Ufficio del Personale, l'intera tabella dei dati  è una tabella multivariata.
+
+E' multivariata anche la tabella dell costo delle retribuzioni per qualifica che coinvolge sia le qualifiche che le retribuzioni.
+
+$$
+\textbf{RETRIBUZIONE PER QUALIFICA} \\
+\begin{array}{|l|c|c|}
+\hline
+\textbf{Qualifica}	& \textbf{Retrib.}	& \textbf{Retrib.\%} \\
+\hline
+\text{Dirigente}	& 50,3	& 11 \\
+\hline
+\text{Quadro}	& 49,6	& 11 \\
+\hline
+\text{Impiegato}	& 164,1	& 37 \\
+\hline
+\text{Operaio}	& 181,6 & 41 \\
+\hline
+\textbf{Totale}  & \mathbf{445,6}	 & \mathbf{100} \\
+\hline
+\end{array}
+$$
+
+
+$\bullet$
+
+
+
+### Tabelle Semplici e Composte
+
+Si dicono **semplici** le tabelle formate da due colonne che rappresentano dati di relazioni binarie.
+
+ 
+
+#### ESEMPIO 3
+
+Riportiamo in una TABELLA SEMPLICE i dati riguardanti le temperature registrate durante una giornata autunnale ad intervalli di sei ore:
+
+$$
+\textbf{TEMPERATURA} \\
+\begin{array}{|c|c|}
+\hline
+\textbf{Ora} & \textbf{Gradi (°C)}\\
+\hline
+0	& 2 \\
+\hline  
+6	& 2 \\
+\hline  
+12	& 11 \\
+\hline  
+18	& 8 \\
+\hline  
+24	& 4 \\
+\hline  
+\end{array}
+$$
+
+$\bullet$
+
+
+
+Le tabelle **composte** sono formate da più colonne che si riferiscono a varie caratteristiche di uno stesso fenomeno, anche senza legame tra esse e con eventuali attributi calcolati.
+
+
+
+#### ESEMPIO 4
+
+Riportiamo in una tabella composta i dati riguardanti le altezze ed i pesi di una famiglia di quattro persone: 
+
+$$
+\textbf{ALTEZZE E PESI} \\
+\begin{array}{|l|c|c|}
+\hline
+\textbf{Familiare} & \textbf{Altezza (cm)} & \textbf{Peso (Kg)} \\
+\hline
+\text{Padre}	& 175	& 80 \\
+\hline
+\text{Madre}	& 170	& 64 \\
+\hline
+\text{Figlio}	& 180	& 74 \\
+\hline
+\text{Figlia}	& 173	& 60 \\
+\hline
+\end{array}
+$$
+
+$\bullet$
+
+
+
+### Tabelle a Singola ed a Doppia Entrata
+
+In una tabella **a singola entrata** le righe hanno **tutte lo steso numero di celle**; i caratteri sono sulle colonne ed in ogni cella è presente un dato che è una modalità del carattere della colonna, come tutte le tabelle incontrate finora.
+
+#### ESEMPIO 5
+
+Un esempio di tabella a singola entrata è quella seguente che riporta il numero di soggetti della popolazione italiana (dati assoluti in migliaia) ripartiti per Condizione lavorativa e sesso nell’anno 2003 
+
+$$
+\textbf{POPOLAZIONE ITALIANA - ANNO 2003} \\
+\begin{array}{|l|c|r|}
+\hline
+\textbf{Cond. Lavorativa} & \textbf{Sesso} & \textbf{Unita (x 1.000)} \\
+\hline
+\text{Occupati				}	& \text{M} & 13.690 \\
+\hline
+\text{Disoccupati			}	& \text{M} & 450   \\
+\hline
+\text{In cerca di I occ.	}	& \text{M} & 445   \\
+\hline
+\text{Altre persone in cerca}	& \text{M} & 101   \\
+\hline
+\text{Non forze di lavoro	}	& \text{M} & 13.267 \\
+\hline
+\text{Occupati				}	& \text{F} & 8.365  \\
+\hline
+\text{Disoccupati			}	& \text{F} & 332   \\
+\hline
+\text{In cerca di I occ.	}	& \text{F} & 398   \\
+\hline
+\text{Altre persone in cerca}	& \text{F} & 370   \\
+\hline
+\text{Non forze di lavoro	}	& \text{F} & 20.061 \\
+\hline
+\end{array}
+$$
+
+
+$\bullet$
+
+
+
+Nelle tabelle **a doppia entrata** i caratteri sono **sia sulle righe che sulle colonne**, ogni cella è individuata da due modalità: la prima del primo carattere e la seconda del secondo e nella cella può esserci una frequenza o una intensità.
+
+
+
+#### ESEMPIO 6
+
+Quella seguente è una tabella a doppia entrata che riporta gli stessi dati dell'esempio 5.
+$$
+\begin{array}{|l | c|}
+ \hline  
+  & \textbf{Sesso} \\
+ \hline  
+\textbf{Condizione Lavorativa} & \begin{array}{r r} \textbf{Maschi} & \textbf{Femmine} \end{array} \\
+ \hline
+\text{Occupati} & \begin{array}{r r} 13.690 & 8.365 \end{array} \\
+\hline  
+\text{Disoccupati} & \begin{array}{r r} 450 & 332 \end{array} \\
+\hline  
+\text{In cerca di I occup.} & \begin{array}{r r} 445 & 398 \end{array} \\
+\hline  
+\text{Altre persone in cerca} & \begin{array}{r r} 101 & 370 \end{array} \\
+\hline  
+\text{Non forze di lavoro} & \begin{array}{r r} 13.267 & 20.061 \end{array} \\
+\hline
+\textbf{TOTALE} & \begin{array}{r r} \textbf{27.953} & \textbf{29.526} \end{array} \\
+\hline
+\end{array}
+$$
+
+
+Come si può vedere le modalità del carattere "Sesso" sono sulle colonne.   $\bullet$
+
+
+
+### Serie Statistiche
+
+Le tabelle che riportano nella prima colonna le modalità di un carattere qualitativo/categorico, quantitativo/discreto o le classi di uno quantitativo e nella seconda colonna una funzione di raggruppamento (conteggio, somma o media etc.) di un carattere quantitativo **trasferibile** calcolata su tutte le unità che ricadono nella classe considerata, vengono dette **serie statistiche**.
+
+Le distribuzioni di frequenza ed intensità rappresentate in tabelle sono esempi di serie statistiche.
+
+#### ESEMPIO 7
+
+Numero di iscrizioni nell’anno scolastico 2012/2013 per ogni ordine e scuola.
+
+$$
+\textbf{NUMERO ISCRIZIONI SCUOLE AA.SS. 2012/2013} \\
+\begin{array}{|l|r|}
+\hline
+\textbf{Tipo di Scuola} & \textbf{Iscrizioni}\\
+\hline
+\text{Scuola dell'infanzia}	& 1.686.095 \\
+\hline  
+\text{Scuola Primaria di I Grado}	& 2.828.240 \\
+\hline  
+\text{Scuola Secondaria di I Grado}	& 1.779.758 \\
+\hline  
+\text{Scuola Secondaria di II Grado }	& 2.652.448 \\
+\hline  
+\end{array}
+$$
+
+$\bullet$
+
+
+
+Casi particolari di serie statistiche sono le serie ***storiche*** e quelle ***territoriali***.
+
+Le tabelle che mostrano la successione dei valori che un fenomeno assume in tempi successivi sono **serie storiche**. Esempi sono la popolazione italiana dal 1960 ad oggi, le vendite di autovetture dal 2000 al 2006. Nelle serie storiche le unità statistiche sono istanti o intervalli temporali.
+
+ 
+
+#### ESEMPIO 8
+
+La tabella seguente riporta il reddito delle famiglie italiane in una serie storica quinquennale.
+
+$$
+\textbf{REDDITO DELLE FAMIGLIE ITALIANE (Lire x 1.000)} \\
+\begin{array}{|c|r|r|}
+\hline
+\textbf{Anni}	 & \textbf{Familiare}   & \textbf{Pro Capite}\\
+\hline
+1980 &	943		& 294	\\
+1981 &	1.111	& 347	\\
+1982 &	1.310	& 409	\\
+1983 &	1.458	& 483	\\
+1984 &	1.641	& 544	\\
+\hline
+\end{array}
+$$
+
+$\bullet$
+
+
+
+Abbiamo una **serie territoriale** quando la serie espone la distribuzione di un fenomeno nello spazio: la produzione italiana di pomodori per regione, il reddito distinto per provincia. Nelle serie geografiche le unità statistiche sono posizioni o aree geografiche.
+
+$$
+\textbf{VENDITE PER AREA GEOGRAFICA (ANNO 2003)} \\
+\begin{array}{|l|c|}
+\hline
+\textbf{Aree Territoriali}	& \textbf{Vendite}	\\
+ & \textbf{(Ml. di euro)} \\
+\hline
+\text{Centro}	& 2.300 \\
+\hline
+\text{Sud}	& 1.200 \\
+\hline
+\text{Nord Est}	& 3.040 \\
+\hline
+\text{Nord Ovest}	& 2.700  \\
+\hline
+\text{Isole}	& 800  \\
+\hline
+\end{array}
+$$
+
 
 
 ### ESERCIZIO 3.1 - Serie e Tabelle Statistiche
@@ -622,8 +953,94 @@ $$
 $$
 
 1. Costruisci la serie storica trimestrale (riepilogativa) delle vendite;
-2. Costruisci il riepilogo annuale;
-3. Rappresenta la serie mensile, trimestrale ed annuale con un grafico cartesiano.
+2. Costruisci una serie storica annuale riepilogativa (triennale);
+
+
+
+
+
+
+## UNITA' 4: Grafici dei Dati Statistici
+
+Le rappresentazioni graﬁche hanno lo scopo di illustrare, mediante linee, segmenti, simboli convenzionali ecc., le RELAZIONI tra due insiemi di dati presenti in una tabella con almeno due colonne.
+
+#### ESEMPIO 1
+
+Consideriamo la seguente tabella delle quantità (in quintali) vendute di una ditta negli anni indicati (serie storica annuale delle vendite).
+$$
+\begin{array}{|c|c|}
+\hline
+\textbf{Anno} & \textbf{Quantita} \\
+\hline
+2010 & 320 \\
+\hline
+2011 & 380 \\
+\hline
+2012 & 410 \\
+\hline
+2013 & 390 \\
+\hline
+2014 & 450 \\
+\hline
+2015 & 480 \\
+\hline
+2016 & 470 \\
+\hline
+2017 & 510 \\
+\hline
+2018 & 500 \\
+\hline
+2019 & 480 \\
+\hline
+\end{array}
+$$
+
+Il grafico a linee delle vendite negli anni è il seguente.
+
+<img src="img\Grafico-linee.jpg" alt="Grafico-linee" style="zoom:15%;" />
+
+$\bullet$
+
+La rappresentazione graﬁca dei dati statistici rispetto alla forma tabellare ha diversi vantaggi:
+
+- consente una visualizzazione immediata della variazione di un fenomeno al variare di un’altra caratteristica e quindi una efficace e globale descrizione dei dati;
+- ha potenzialità di analisi: permette di capire se le vendite globalmente crescono o calano, se sono correlate ad altri caratteri ecc.
+- consente una forma più divulgativa per i dati statistici che non la forma tabellare.
+
+
+
+### Elementi Visuali dei Grafici
+
+Il cuore della rappresentazione grafica è la corrispondenza tra i dati di una tabella e gli oggetti grafici con le loro caratteristiche.
+
+Così ogni DATO è messo in relazione con un ELEMENTO VISUALE: la **posizione** di un simbolo puntiforme, il **colore** di un’area, un segmento, l’**altezza** di un rettangolo,  ecc.
+
+Gli ELEMENTI VISUALI più importanti che possono rappresentare dati sono:
+
+- Posizione, ad esempio coordinate di ogni punto nel grafico precedente;
+- Forma, ad esempio circolare;
+- Dimensioni della forma, come un piccolo punto;
+- Colore.
+
+
+
+### Tipi di Grafici di Base (fondamentali)
+
+Qualunque siano i dati tabellari da visualizzare, i tipi di grafici di base tra cui scegliere sono cinque:
+
+| Tipi di Grafici Fondamentali                                 |                                             |
+| ------------------------------------------------------------ | ------------------------------------------- |
+| Grafico  a Torta (Pie Chart)                                 | ![tmp-torta](img/tmp-torta.png)             |
+| Grafico  a Barre Verticali (Column Bar Chart)                | ![tmp-column](img/tmp-column.png)           |
+| Grafico  a Barre Orizzontali (o a Nastri, Horizontal Bar Chart) | ![tmp-nastri](img/tmp-nastri.png)           |
+| Grafico  a linee (Line Chart)                                | ![tmp-line](img/tmp-line.png)               |
+| Grafico  a Punti o a Dispersione (Dot Chart)                 | ![tmp-dispersione](img/tmp-dispersione.png) |
+
+
+
+#### ESEMPIO X
+
+Utilizzando i dati delle vendite mensili (in barili) di un produttore di birra dell'esercizio 3.1, rappresenta la serie mensile, trimestrale ed annuale con un grafico cartesiano.
 
 #### SOLUZIONE
 
@@ -639,10 +1056,6 @@ Punto a.3) serie storica annuale.
 
 <img src="img\Serie-Annuale.jpg" alt="Serie-Annuale" style="zoom:17%;" />
 
-
-
-
-## UNITA' 4: Grafici dei Dati Statistici
 
 
 
@@ -916,6 +1329,7 @@ $$
 Punto a)
 
 <img src="img\Dispersione.jpg" alt="Dispersione" style="zoom:20%;" />
+
 
 
 
