@@ -698,8 +698,6 @@ $\bullet$
 
 Si dicono **semplici** le tabelle formate da due colonne che rappresentano dati di relazioni binarie.
 
- 
-
 #### ESEMPIO 3
 
 Riportiamo in una TABELLA SEMPLICE i dati riguardanti le temperature registrate durante una giornata autunnale ad intervalli di sei ore:
@@ -729,11 +727,9 @@ $\bullet$
 
 Le tabelle **composte** sono formate da più colonne che si riferiscono a varie caratteristiche di uno stesso fenomeno, anche senza legame tra esse e con eventuali attributi calcolati.
 
-
-
 #### ESEMPIO 4
 
-Riportiamo in una tabella composta i dati riguardanti le altezze ed i pesi di una famiglia di quattro persone: 
+Riportiamo in una <u>tabella composta</u> i dati riguardanti le altezze ed i pesi di una famiglia di quattro persone: 
 
 $$
 \textbf{ALTEZZE E PESI} \\
@@ -800,8 +796,6 @@ $\bullet$
 
 Nelle tabelle **a doppia entrata** i caratteri sono **sia sulle righe che sulle colonne**, ogni cella è individuata da due modalità: la prima del primo carattere e la seconda del secondo e nella cella può esserci una frequenza o una intensità.
 
-
-
 #### ESEMPIO 6
 
 Quella seguente è una tabella a doppia entrata che riporta gli stessi dati dell'esempio 5.
@@ -867,11 +861,9 @@ Casi particolari di serie statistiche sono le serie ***storiche*** e quelle ***t
 
 Le tabelle che mostrano la successione dei valori che un fenomeno assume in tempi successivi sono **serie storiche**. Esempi sono la popolazione italiana dal 1960 ad oggi, le vendite di autovetture dal 2000 al 2006. Nelle serie storiche le unità statistiche sono istanti o intervalli temporali.
 
- 
-
 #### ESEMPIO 8
 
-La tabella seguente riporta il reddito delle famiglie italiane in una serie storica quinquennale.
+La tabella seguente riporta il reddito delle famiglie italiane con due serie storiche quinquennali.
 
 $$
 \textbf{REDDITO DELLE FAMIGLIE ITALIANE (Lire x 1.000)} \\
@@ -962,7 +954,7 @@ $$
 
 ## UNITA' 4: Grafici dei Dati Statistici
 
-Le rappresentazioni graﬁche hanno lo scopo di illustrare, mediante linee, segmenti, simboli convenzionali ecc., le RELAZIONI tra due insiemi di dati presenti in una tabella con almeno due colonne: la prima che diremo delle etichette e le altre che diremo serie.
+Le rappresentazioni graﬁche hanno lo scopo di illustrare, mediante linee, segmenti, simboli convenzionali ecc., le RELAZIONI tra due insiemi di dati presenti in una tabella con almeno due colonne: la prima che diremo delle **etichette** e le altre che diremo **serie**.
 
 #### ESEMPIO 1
 
@@ -1030,10 +1022,10 @@ Qualunque siano i dati tabellari da visualizzare, i tipi di grafici di base tra 
 
 | Tipi di Grafici Fondamentali                                 |                   Esempio                   |
 | :----------------------------------------------------------- | :-----------------------------------------: |
-| Grafico a Torta (Pie Chart)                                  |       ![tmp-torta](img/tmp-torta.png)       |
+| Grafico a linee (Line Chart)                                 |        ![tmp-line](img/tmp-line.png)        |
 | Grafico a Barre Verticali (Column Bar Chart)                 |      ![tmp-column](img/tmp-column.png)      |
 | Grafico a Barre Orizzontali (o a Nastri, Horizontal Bar Chart) |      ![tmp-nastri](img/tmp-nastri.png)      |
-| Grafico a linee (Line Chart)                                 |        ![tmp-line](img/tmp-line.png)        |
+| Grafico a Torta (Pie Chart)                                  |       ![tmp-torta](img/tmp-torta.png)       |
 | Grafico a Punti o a Dispersione (Dot Chart, Scatterplot)     | ![tmp-dispersione](img/tmp-dispersione.png) |
 
 
@@ -1518,12 +1510,12 @@ Punto a)
 La reportistica manageriale spesso contiene frasi come:
 
 - il salario medio per livello lavorativo;
-- il piano sanitario più popolare;
-- il consumo medio di latte di una famiglia di quattro persone;
+- la spesa sanitaria della famiglia italiana;
+- il consumo di latte di una famiglia di quattro persone;
 - la metà degli impiegati spende meno di $178$ euro al mese per il pendolarismo lavorativo;
 - l’età media dei nostri impiegati.
 
-Questi termini si riferiscono ad un valore assunto come tipico dell’insieme dei dati che stiamo considerando, un valore rappresentativo di "tutto" l’insieme dei salari, dei consumi di latte, dell'età ecc.
+I termini come "salario medio", "spesa della famiglia italiana" ecc. si riferiscono ad un valore assunto come tipico dell’insieme dei dati che stiamo considerando, un valore rappresentativo di "tutto" l’insieme dei salari, dei consumi di latte, dell'età e così via.
 
 Non essendo di interpretazione univoca, ci sono più modi di definire tale questo valore per uno stesso insieme di dati; tutti questi indicatori vengono chiamati **statistiche di posizione centrale**.
 
