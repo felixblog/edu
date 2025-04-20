@@ -136,7 +136,7 @@ La figura seguente riassume le caratteristiche dei tipi esaminati.
 
 ![Tipi-variabili](img/Tipi-variabili.png)
 
-
+E' importante notare che le variabili sono <u>quantitative</u> non solo quando hanno i valori rappresentati con dei numeri ma quando sui numeri ha un senso fare delle operazioni aritmetiche. Ad esempio sulla variabile "Reddito" è possibile fare delle somme (es. reddito familiare) mentre sulla variabile Stato Civile: 0 - Celibe/Nubile, 1 - Coniugato, non ha senso fare delle somme, ossia sommare uno con zero. Analogamente i numeri telefonici sono variabili <u>qualitative illimitate</u> e non si possono sommare, anche se si chiamano "numeri" e sono composti da cifre. 
 
 Le variabili si possono inoltre analizzare per livello di misura, ossia per il dettaglio della loro misura del fenomeno, ed abbiamo i livelli seguenti.
 
@@ -962,7 +962,7 @@ $$
 
 ## UNITA' 4: Grafici dei Dati Statistici
 
-Le rappresentazioni graﬁche hanno lo scopo di illustrare, mediante linee, segmenti, simboli convenzionali ecc., le RELAZIONI tra due insiemi di dati presenti in una tabella con almeno due colonne.
+Le rappresentazioni graﬁche hanno lo scopo di illustrare, mediante linee, segmenti, simboli convenzionali ecc., le RELAZIONI tra due insiemi di dati presenti in una tabella con almeno due colonne: la prima che diremo delle etichette e le altre che diremo serie.
 
 #### ESEMPIO 1
 
@@ -995,11 +995,13 @@ $$
 \end{array}
 $$
 
-Il grafico a linee delle vendite negli anni è il seguente.
+Il grafico a linee delle vendite negli anni è il seguente.
 
 <img src="img\Grafico-linee.jpg" alt="Grafico-linee" style="zoom:15%;" />
 
-$\bullet$
+Come si può constatare il grafico da molte informazioni in più della tabella relative alla crescita e decrescita del fenomeno. La prima colonna, contenente gli anni è quella delle etichette ed è rappresentata sull'asse orizzontale, la seconda, la serie, sull'asse verticale  $\bullet$
+
+
 
 La rappresentazione graﬁca dei dati statistici rispetto alla forma tabellare ha diversi vantaggi:
 
@@ -1007,55 +1009,231 @@ La rappresentazione graﬁca dei dati statistici rispetto alla forma tabellare h
 - ha potenzialità di analisi: permette di capire se le vendite globalmente crescono o calano, se sono correlate ad altri caratteri ecc.
 - consente una forma più divulgativa per i dati statistici che non la forma tabellare.
 
-
-
-### Elementi Visuali dei Grafici
-
-Il cuore della rappresentazione grafica è la corrispondenza tra i dati di una tabella e gli oggetti grafici con le loro caratteristiche.
-
-Così ogni DATO è messo in relazione con un ELEMENTO VISUALE: la **posizione** di un simbolo puntiforme, il **colore** di un’area, un segmento, l’**altezza** di un rettangolo,  ecc.
-
-Gli ELEMENTI VISUALI più importanti che possono rappresentare dati sono:
-
-- Posizione, ad esempio coordinate di ogni punto nel grafico precedente;
-- Forma, ad esempio circolare;
-- Dimensioni della forma, come un piccolo punto;
-- Colore.
+Un grafico può avere più serie di dati che fanno riferimento alle stesse etichette (grafico multiserie). Per ora consideriamo solo grafici con una sola serie, in seguito vedremo qualche esempio di grafico multiserie. 
 
 
 
 ### Tipi di Grafici di Base (fondamentali)
 
+Il cuore della rappresentazione grafica è la **corrispondenza** tra i **DATI** di una tabella e gli **ELEMENTI VISUALI degli oggetti grafici**: la **posizione** di un punto, il **colore** di un’area o di un segmento, l’**altezza** di un rettangolo,  ecc.
+
+Gli ELEMENTI VISUALI più importanti che possono rappresentare dati sono:
+
+- Posizione, ad esempio le coordinate di ogni punto nel grafico precedente;
+- Forma, ad esempio circolare;
+- Dimensioni della forma, come quella dell'esempio che è un piccolo punto;
+- Colore.
+
+
+
 Qualunque siano i dati tabellari da visualizzare, i tipi di grafici di base tra cui scegliere sono cinque:
 
-| Tipi di Grafici Fondamentali                                 |                                             |
-| ------------------------------------------------------------ | ------------------------------------------- |
-| Grafico  a Torta (Pie Chart)                                 | ![tmp-torta](img/tmp-torta.png)             |
-| Grafico  a Barre Verticali (Column Bar Chart)                | ![tmp-column](img/tmp-column.png)           |
-| Grafico  a Barre Orizzontali (o a Nastri, Horizontal Bar Chart) | ![tmp-nastri](img/tmp-nastri.png)           |
-| Grafico  a linee (Line Chart)                                | ![tmp-line](img/tmp-line.png)               |
-| Grafico  a Punti o a Dispersione (Dot Chart)                 | ![tmp-dispersione](img/tmp-dispersione.png) |
+| Tipi di Grafici Fondamentali                                 |                   Esempio                   |
+| :----------------------------------------------------------- | :-----------------------------------------: |
+| Grafico a Torta (Pie Chart)                                  |       ![tmp-torta](img/tmp-torta.png)       |
+| Grafico a Barre Verticali (Column Bar Chart)                 |      ![tmp-column](img/tmp-column.png)      |
+| Grafico a Barre Orizzontali (o a Nastri, Horizontal Bar Chart) |      ![tmp-nastri](img/tmp-nastri.png)      |
+| Grafico a linee (Line Chart)                                 |        ![tmp-line](img/tmp-line.png)        |
+| Grafico a Punti o a Dispersione (Dot Chart, Scatterplot)     | ![tmp-dispersione](img/tmp-dispersione.png) |
 
 
 
-#### ESEMPIO X
+### Grafico a Linee
 
-Utilizzando i dati delle vendite mensili (in barili) di un produttore di birra dell'esercizio 3.1, rappresenta la serie mensile, trimestrale ed annuale con un grafico cartesiano.
+E' un grafico fatto di tante figure puntiformi unite da segmenti. 
 
-#### SOLUZIONE
+Riporta sull’asse orizzontale i dati, necessariamente **ordinati**, delle etichette e sull'asse verticale i dati, **quantitativi**, della serie. I due valori (corrispondenti ad una riga della tabella) sono rappresentati dalla posizione (nelle coordinate x-y) di una figura puntiforme che può essere un cerchio, quadrato ecc. I simboli consecutivi rispetto all'ordine delle etichette sono uniti da segmenti, la cui pendenza indica l'incremento/decremento tra posizioni successive.
 
-Punto a.3) serie storica mensile.
+Sono i grafici tipici per rappresentare le serie statistiche, soprattutto serie storiche, come nel caso dell'esempio precedente. In caso di grafici multiserie, serie distinte sono rappresentate con colore diverso.
+
+Simboli Visuali: Posizione dei simboli, pendenza (dei segmenti), colore (per differenziarle, nel caso di più serie sullo stesso grafico).
+
+#### ESEMPIO 2
+
+La rappresentazione grafica della serie storica delle vendite mensili, trimestrali ed annuali (in barili) di un produttore di birra dell'esercizio 3.1 con dei grafici a linee è riportata di seguito.
+
+Serie storica mensile.
 
 ![Serie-Storica](img\Serie-Storica.jpg)
 
-Punto a.3) serie storica trimestrale.
+Serie storica trimestrale.
 
 <img src="img\Serie-Trimestrale.jpg" alt="Serie-Trimestrale" style="zoom:17%;" />
 
-Punto a.3) serie storica annuale.
+Serie storica annuale.
 
 <img src="img\Serie-Annuale.jpg" alt="Serie-Annuale" style="zoom:17%;" />
 
+$\bullet$
+
+
+
+### Grafico a Barre Verticali
+
+E' un grafico fatto di tanti rettangoli stretti ed alti posti in verticale come colonne, da sinistra a destra.
+
+Riporta sull’asse orizzontale i dati delle etichette, anche se solo **categorici**, e sull'asse verticale la serie di dati **quantitativi**. Ogni riga della tabella è rappresentata da un rettangolo posizionato con la base in corrispondenza dell'etichetta e di altezza pari al valore della serie.
+
+Sono i grafici tipici per rappresentare le distribuzioni statistiche, di frequenza o di quantità, di uno o più caratteri qualitativi. Nel caso delle etichette categoriche, sono particolarmente usati per le serie territoriali.
+
+Simboli Visuali: Posizione dei Rettangoli, Altezza dei Rettangoli, colore (per differenziare le serie, nel caso di più serie sullo stesso grafico).
+
+#### ESEMPIO 3
+
+$$
+\textbf{VENDITE MENSILI} \\
+\textbf{6 Mesi - .000 eur} \\
+\begin{array}{|l|c|}
+\hline
+\textbf{Mesi} & \textbf{Vendite}	\\
+\hline
+\text{Gen} & 88 \\
+\hline
+\text{Feb} & 94 \\
+\hline
+\text{Mar} & 103 \\
+\hline
+\text{Apr} & 113 \\
+\hline
+\text{Mag} & 122 \\
+\hline
+\text{Giu} & 110 \\
+\hline
+\textbf{Totale} & \mathbf{630} \\
+\hline
+\end{array}
+$$
+
+
+
+<img src="img/Vendite-Mensili.png" alt="Vendite.Mensili" style="zoom:80%;" />
+
+
+
+
+### Grafici a Barre Orizzontali
+
+E' un grafico fatto di tanti rettangoli stretti e lunghi posti in orizzontale come dei nastri.
+
+Riporta sull’asse verticale i dati delle etichette, solitamente **categorici** non ordinati, e sull'asse orizzontale la serie di dati **quantitativi**. Ogni riga della tabella è rappresentata da un rettangolo posizionato con la base in corrispondenza dell'etichetta e di lunghezza della base pari al valore della serie.
+
+Sono i grafici tipici per rappresentare le distribuzioni statistiche **di quantità** di uno o più caratteri qualitativi **non ordinati**.
+
+Simboli Visuali: Posizione dei rettangoli, lunghezza dell base dei rettangoli, colore (per differenziare le serie, nel caso di più serie sullo stesso grafico).
+
+#### ESEMPIO 4
+
+La serie territoriale seguente riporta alcuni dati di spesa regionale per gli spettacoli  ed il relativo grafico a barre orizzontali.  
+$$
+\textbf{SPESA REGIONALE PER SPETTACOLI} \\
+\textbf{Italia - Anno 2002} \\
+\begin{array}{|l|r|}
+\hline
+\textbf{Regione}	& \textbf{Spesa}	\\
+\hline
+\text{Lombardia} & 125.911 \\
+\hline
+\text{Lazio} & 73.555 \\
+\hline
+\text{Piemonte} & 60.202 \\
+\hline
+\text{Veneto} & 43.439 \\
+\hline
+\text{Liguria} & 28.031 \\
+\hline
+\text{Sicilia} & 28.383 \\
+\hline
+\text{Campania} & 20.568 \\
+\hline
+\text{Puglia} & 10.748 \\
+\hline
+\textbf{Totale} & \mathbf{630} \\
+\hline
+\end{array}
+$$
+
+
+
+![Spesa-Spettacoli](img/Spesa-Spettacoli.png)
+
+
+
+
+### Grafici a Torta
+
+Ha la forma di una torta suddivisa in spicchi di colore diverso; ogni spicchio rappresenta una percentuale del totale.
+
+Ogni spicchio rappresenta una etichetta, **dato categorico**, e l'ampiezza dello spicchio, cioè il suo angolo al centro, è proporzionale alla percentuale sul totale del **dato quantitativo** della serie, in assoluto o in percentuale.
+
+Simboli Visuali: Angoli, aree, colore.
+
+Sono adatti a rappresentare graﬁcamente serie di frequenza o intensità,mettendo in evidenza l'incidenza delle singole quantità sul totale.
+
+#### ESEMPIO 5
+
+
+$$
+\textbf{VENDITE PER AREA GEOGRAFICA} \\
+\textbf{Anno 2012 - .000 euro} \\
+\begin{array}{|l|r|c|}
+\hline
+\textbf{Area}	& \textbf{Vendite} & \textbf{\%}	\\
+\hline
+\text{Nord}	& 120 & 44\%	 \\
+\hline
+\text{Centro}	& 80 & 29\%	 \\
+\hline
+\text{Sud}	& 50 & 18\%	 \\
+\hline
+\text{Isole}	& 24 & 9\%	 \\
+\hline
+\textbf{Totale} & \mathbf{274} & 100\% \\
+\hline
+\end{array}
+$$
+
+
+
+![Vendite-Area-Geografica](img/Vendite-Area-Geografica.png)
+
+
+
+### Grafici a Punti o a Dispersione
+
+Un grafico a punti o a dispersione (Scatter Plot) è una combinazione di **due variabili quantitative** rappresentate su un diagramma cartesiano, utile per rilevare correlazioni o raggruppamenti. I due valori (corrispondenti ad una riga della tabella) sono rappresentati mediante la posizione (coordinate x-y) di un simbolo grafico costituito da una figura puntiforme come un piccolo cerchio o triangolo o quadrato ecc.
+
+Sono grafici analoghi a quelli a linee con la differenza che i punti non sono uniti da segmenti e le variabili sono entrambe quantitative.
+
+Simboli Visuali: Posizione, forma e colore (per differenziare le serie, nel caso di più serie sullo stesso grafico).
+
+####  ESEMPIO 6
+
+La tabella seguente riporta la rilevazione fatta da una azienda su un campione di 5 suoi venditori. Per ciascuno, sono presenti il fatturato di un anno e la relativa esperienza di lavoro pregressa.
+
+
+$$
+\textbf{FATTURATO E ANNI DI ESPERIENZA} \\
+\begin{array}{|c|r|}
+\hline
+\textbf{Esperienza}	& \textbf{Fatturato} \\
+\textbf{(Anni)}  & \textbf{(Euro)}\\
+\hline
+2	& 6.000 	\\
+\hline
+5	& 9.000 	\\
+\hline
+7	& 16.000	\\
+\hline
+15	& 17.000	\\
+\hline
+22	& 23.000   \\
+\hline
+\end{array}
+$$
+
+
+
+<img src="img/Fatturato-Anni.png" alt="Fatturato-Anni" style="zoom:80%;" />
 
 
 
