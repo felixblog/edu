@@ -800,24 +800,24 @@ Nelle tabelle **a doppia entrata** i caratteri sono **sia sulle righe che sulle 
 
 Quella seguente è una tabella a doppia entrata che riporta gli stessi dati dell'esempio 5.
 $$
-\begin{array}{|l | c|}
+\textbf{POPOLAZIONE ITALIANA - ANNO 2003} \\
+\textbf{\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;Sesso} \\
+\begin{array}{l | r | r }
  \hline  
-  & \textbf{Sesso} \\
- \hline  
-\textbf{Condizione Lavorativa} & \begin{array}{r r} \textbf{Maschi} & \textbf{Femmine} \end{array} \\
- \hline
-\text{Occupati} & \begin{array}{r r} 13.690 & 8.365 \end{array} \\
-\hline  
-\text{Disoccupati} & \begin{array}{r r} 450 & 332 \end{array} \\
-\hline  
-\text{In cerca di I occup.} & \begin{array}{r r} 445 & 398 \end{array} \\
-\hline  
-\text{Altre persone in cerca} & \begin{array}{r r} 101 & 370 \end{array} \\
-\hline  
-\text{Non forze di lavoro} & \begin{array}{r r} 13.267 & 20.061 \end{array} \\
+\textbf{Condizione Lavorativa} & \textbf{Maschi} & \textbf{Femmine} \\
 \hline
-\textbf{TOTALE} & \begin{array}{r r} \textbf{27.953} & \textbf{29.526} \end{array} \\
+\text{Occupati} & 13.690 & 8.365 \\
+\hline  
+\text{Disoccupati} & 450 & 332 \\
+\hline  
+\text{In cerca di I occup.} & 445 & 398 \\
+\hline  
+\text{Altre persone in cerca} & 101 & 370  \\
+\hline  
+\text{Non forze di lavoro} & 13.267 & 20.061  \\
 \hline
+\textbf{TOTALE} & \textbf{27.953} & \textbf{29.526} \\
+\hline  
 \end{array}
 $$
 
