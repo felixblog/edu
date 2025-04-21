@@ -794,7 +794,7 @@ $\bullet$
 
 
 
-Nelle tabelle **a doppia entrata** i caratteri sono **sia sulle righe che sulle colonne** ed ogni cella è individuata da due modalità: la prima è del primo carattere e la seconda del secondo. Nell cella può essere presente una frequenza o una intensità.
+Nelle tabelle **a doppia entrata** i caratteri sono **sia sulle righe che sulle colonne** ed ogni cella è individuata da due modalità: la prima è del primo carattere e la seconda del secondo. Nell cella può essere presente una frequenza o una intensità.
 
 #### ESEMPIO 6
 
@@ -830,7 +830,7 @@ Come si può vedere, le modalità del carattere "Sesso" sono sulle colonne.   $\
 
 Le **serie statistiche** sono te tabelle che riportano:
 
-- nella prima colonna le modalità **distinte** di un carattere qualitativo/categorico, quantitativo/discreto o le classi di uno quantitativo;
+- nella prima colonna le modalità **distinte** di un carattere o le classi di uno quantitativo;
 - nella seconda colonna i valori raggruppati (mediante conteggio, somma o media etc.) di un carattere quantitativo **trasferibile**, calcolati su tutte le unità che ricadono nella modalità considerata.
 
 Esempi di serie statistiche sono le distribuzioni di frequenza ed intensità.
@@ -1068,7 +1068,7 @@ $\bullet$
 
 E' un grafico fatto di tanti rettangoli stretti ed alti posti in verticale come colonne, da sinistra a destra.
 
-Riporta sull’asse orizzontale i dati delle etichette, **distinti** tra di loro anche se solo **categorici**, e sull'asse verticale la serie di dati **quantitativi**. Ogni riga della tabella è rappresentata da un rettangolo posizionato con la base in corrispondenza dell'etichetta e di altezza pari al valore della serie.
+Riporta sull’asse orizzontale i dati delle etichette, **distinti** tra di loro anche se solo **categorici**, e sull'asse verticale la serie di dati **quantitativi**. Ogni riga della tabella è rappresentata da un rettangolo posizionato con la base in corrispondenza dell'etichetta e di altezza pari al valore della serie.
 
 Sono i grafici tipici per rappresentare le distribuzioni statistiche, di frequenza o di quantità, di uno o più caratteri qualitativi. Nel caso delle etichette categoriche, sono particolarmente usati per le serie territoriali.
 
