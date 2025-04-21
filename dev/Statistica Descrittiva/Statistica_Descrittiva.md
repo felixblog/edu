@@ -608,7 +608,7 @@ In rapporto alle rilevazioni, le tabelle generalmente contengono dati derivati o
 
 Le tabelle **univariate** o monovariate sono le più semplici e presentano i dati di una sola variabile (carattere) per ciascuna unità statistica. La tabella si riduce così ad un elenco e fornisce supporto all’analisi statistica monovariata che consiste nell’analizzare le variabili singolarmente prese, cioè a una a una senza metterle in relazione fra di loro.
 
-Sono tabelle univariate le distribuzioni di frequenza in quanto riportano i dati di un solo carattere. 
+Sono tabelle univariate le distribuzioni di frequenza di una variabile in quanto riportano i dati di un solo carattere. 
 
 #### ESEMPIO 1
 
@@ -660,7 +660,7 @@ $\bullet$
 
 
 
-In una **tabella multivariata** vengono riportate le modalità di più di un carattere.
+Sono **multivariate** le tabelle che riportano le modalità di più di un carattere.
 
 Sono tabelle multivariate le distribuzioni di intensità in quanto coinvolgono dati di un carattere qualitativo e di uno quantitativo.
 
@@ -794,11 +794,11 @@ $\bullet$
 
 
 
-Nelle tabelle **a doppia entrata** i caratteri sono **sia sulle righe che sulle colonne**, ogni cella è individuata da due modalità: la prima del primo carattere e la seconda del secondo e nella cella può esserci una frequenza o una intensità.
+Nelle tabelle **a doppia entrata** i caratteri sono **sia sulle righe che sulle colonne** ed ogni cella è individuata da due modalità: la prima è del primo carattere e la seconda del secondo. Nell cella può essere presente una frequenza o una intensità.
 
 #### ESEMPIO 6
 
-Quella seguente è una tabella a doppia entrata che riporta gli stessi dati dell'esempio 5.
+Gli stessi dati dell'esempio 5 possono essere organizzati con una tabella a doppia entrata come quella che segue.
 $$
 \textbf{POPOLAZIONE ITALIANA - ANNO 2003} \\
 \textbf{\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;Sesso} \\
@@ -822,22 +822,26 @@ $$
 $$
 
 
-Come si può vedere le modalità del carattere "Sesso" sono sulle colonne.   $\bullet$
+Come si può vedere, le modalità del carattere "Sesso" sono sulle colonne.   $\bullet$
 
 
 
 ### Serie Statistiche
 
-Le tabelle che riportano nella prima colonna le modalità di un carattere qualitativo/categorico, quantitativo/discreto o le classi di uno quantitativo e nella seconda colonna una funzione di raggruppamento (conteggio, somma o media etc.) di un carattere quantitativo **trasferibile** calcolata su tutte le unità che ricadono nella classe considerata, vengono dette **serie statistiche**.
+Le **serie statistiche** sono te tabelle che riportano:
 
-Le distribuzioni di frequenza ed intensità rappresentate in tabelle sono esempi di serie statistiche.
+- nella prima colonna le modalità **distinte** di un carattere qualitativo/categorico, quantitativo/discreto o le classi di uno quantitativo;
+- nella seconda colonna i valori raggruppati (mediante conteggio, somma o media etc.) di un carattere quantitativo **trasferibile**, calcolati su tutte le unità che ricadono nella modalità considerata.
+
+Esempi di serie statistiche sono le distribuzioni di frequenza ed intensità.
 
 #### ESEMPIO 7
 
 Numero di iscrizioni nell’anno scolastico 2012/2013 per ogni ordine e scuola.
 
 $$
-\textbf{NUMERO ISCRIZIONI SCUOLE AA.SS. 2012/2013} \\
+\textbf{NUMERO ISCRIZIONI PER TIPOLOGIA DI SCUOLA} \\
+\textbf{AA.SS. 2012/2013} \\
 \begin{array}{|l|r|}
 \hline
 \textbf{Tipo di Scuola} & \textbf{Iscrizioni}\\
@@ -991,7 +995,7 @@ Il grafico a linee delle vendite negli anni è il seguente.
 
 <img src="img\Grafico-linee.jpg" alt="Grafico-linee" style="zoom:15%;" />
 
-Come si può constatare il grafico da molte informazioni in più della tabella relative alla crescita e decrescita del fenomeno. La prima colonna, contenente gli anni è quella delle etichette ed è rappresentata sull'asse orizzontale, la seconda, la serie, sull'asse verticale  $\bullet$
+Come si può constatare il grafico da molte informazioni in più della tabella relative alla crescita e decrescita del fenomeno. La prima colonna, contenente gli anni è quella delle etichette ed è rappresentata sull'asse orizzontale, la seconda, la serie, sull'asse verticale.   $\bullet$
 
 
 
@@ -1034,9 +1038,9 @@ Qualunque siano i dati tabellari da visualizzare, i tipi di grafici di base tra 
 
 E' un grafico fatto di tante figure puntiformi unite da segmenti. 
 
-Riporta sull’asse orizzontale i dati, necessariamente **ordinati**, delle etichette e sull'asse verticale i dati, **quantitativi**, della serie. I due valori (corrispondenti ad una riga della tabella) sono rappresentati dalla posizione (nelle coordinate x-y) di una figura puntiforme che può essere un cerchio, quadrato ecc. I simboli consecutivi rispetto all'ordine delle etichette sono uniti da segmenti, la cui pendenza indica l'incremento/decremento tra posizioni successive.
+Riporta sull’asse orizzontale i dati, necessariamente **ordinati e distinti**, delle etichette e sull'asse verticale i dati, **quantitativi**, della serie. I due valori (corrispondenti ad una riga della tabella) sono rappresentati dalla **posizione** (nelle coordinate x-y) di una figura puntiforme che può essere un cerchio, quadrato ecc. I simboli consecutivi rispetto all'ordine delle etichette sono uniti da segmenti, la cui pendenza indica l'incremento/decremento tra posizioni successive.
 
-Sono i grafici tipici per rappresentare le serie statistiche, soprattutto serie storiche, come nel caso dell'esempio precedente. In caso di grafici multiserie, serie distinte sono rappresentate con colore diverso.
+Sono i grafici tipici per rappresentare <u>le serie statistiche</u>, soprattutto serie storiche, come nel caso dell'esempio precedente. In caso di grafici multiserie, serie distinte sono rappresentate con colore diverso.
 
 Simboli Visuali: Posizione dei simboli, pendenza (dei segmenti), colore (per differenziarle, nel caso di più serie sullo stesso grafico).
 
@@ -1064,7 +1068,7 @@ $\bullet$
 
 E' un grafico fatto di tanti rettangoli stretti ed alti posti in verticale come colonne, da sinistra a destra.
 
-Riporta sull’asse orizzontale i dati delle etichette, anche se solo **categorici**, e sull'asse verticale la serie di dati **quantitativi**. Ogni riga della tabella è rappresentata da un rettangolo posizionato con la base in corrispondenza dell'etichetta e di altezza pari al valore della serie.
+Riporta sull’asse orizzontale i dati delle etichette, **distinti** tra di loro anche se solo **categorici**, e sull'asse verticale la serie di dati **quantitativi**. Ogni riga della tabella è rappresentata da un rettangolo posizionato con la base in corrispondenza dell'etichetta e di altezza pari al valore della serie.
 
 Sono i grafici tipici per rappresentare le distribuzioni statistiche, di frequenza o di quantità, di uno o più caratteri qualitativi. Nel caso delle etichette categoriche, sono particolarmente usati per le serie territoriali.
 
@@ -1107,11 +1111,13 @@ $$
 
 E' un grafico fatto di tanti rettangoli stretti e lunghi posti in orizzontale come dei nastri.
 
-Riporta sull’asse verticale i dati delle etichette, solitamente **categorici** non ordinati, e sull'asse orizzontale la serie di dati **quantitativi**. Ogni riga della tabella è rappresentata da un rettangolo posizionato con la base in corrispondenza dell'etichetta e di lunghezza della base pari al valore della serie.
+Riporta sull’asse verticale i dati delle etichette, solitamente **categorici**, e sull'asse orizzontale la serie di dati **quantitativi**. Ogni riga della tabella è rappresentata da un rettangolo posizionato con la base in corrispondenza dell'etichetta e di lunghezza della base pari al valore della serie.
 
 Sono i grafici tipici per rappresentare le distribuzioni statistiche **di quantità** di uno o più caratteri qualitativi **non ordinati**.
 
 Simboli Visuali: Posizione dei rettangoli, lunghezza dell base dei rettangoli, colore (per differenziare le serie, nel caso di più serie sullo stesso grafico).
+
+Se i dati delle etichette non sono ordinati, le righe della tabella possono essere utilmente ordinate in base ai dati della serie.
 
 #### ESEMPIO 4
 
@@ -1147,6 +1153,8 @@ $$
 
 
 ![Spesa-Spettacoli](img/Spesa-Spettacoli.png)
+
+I dati sono stati ordinati in modo decrescente rispetto alla spesa prima di essere riportati nel grafico.   $\bullet$
 
 
 
@@ -1192,9 +1200,9 @@ $$
 
 ### Grafici a Punti o a Dispersione
 
-Un grafico a punti o a dispersione (Scatter Plot) è una combinazione di **due variabili quantitative** rappresentate su un diagramma cartesiano, utile per rilevare correlazioni o raggruppamenti. I due valori (corrispondenti ad una riga della tabella) sono rappresentati mediante la posizione (coordinate x-y) di un simbolo grafico costituito da una figura puntiforme come un piccolo cerchio o triangolo o quadrato ecc.
+Un grafico a punti o a dispersione (Scatter Plot) è una combinazione di **due variabili quantitative** rappresentate su un diagramma cartesiano, utile per rilevare correlazioni o raggruppamenti. I due valori (corrispondenti ad una riga della tabella) sono rappresentati mediante la posizione (coordinate x-y) di un simbolo grafico costituito da una figura puntiforme come un piccolo cerchio o triangolo o quadrato ecc. In questo tipo di grafico i dati delle etichette possono non essere distinti.
 
-Sono grafici analoghi a quelli a linee con la differenza che i punti non sono uniti da segmenti e le variabili sono entrambe quantitative.
+Sono analoghi a quelli a linee con la differenza che i punti non sono uniti da segmenti, le variabili sono entrambe quantitative ed i valori delle etichette possono non essere tutti distinti.
 
 Simboli Visuali: Posizione, forma e colore (per differenziare le serie, nel caso di più serie sullo stesso grafico).
 
@@ -1226,6 +1234,8 @@ $$
 
 
 <img src="img/Fatturato-Anni.png" alt="Fatturato-Anni" style="zoom:80%;" />
+
+$\bullet$
 
 
 
@@ -1751,35 +1761,46 @@ Un rapporto statistico indica quanta parte dell’intensità del fenomeno posta 
 
 I rapporti così costruiti permettono di confrontare l’intensità di un fenomeno misurato su un collettivo, in tempi o luoghi diversi, e sono largamente impiegati nella descrizione di fenomeni di tipo socio-economico.
 
-#### Esempio 1
+#### ESEMPIO 1
 
-Sui giornali o in televisione sentiamo spesso parlare di tasso di disoccupazione, di occupazione e di altri indicatori relativi al Mercato del lavoro. Consideriamo ad esempio il tasso di disoccupazione. Misura quante persone, in percentuale, sono senza lavoro ma stanno cercando un'occupazione, rispetto al totale delle persone che potrebbero lavorare; è indicativo della situazione economica di un Paese ed in Italia ha mostrato un andamento variabile, con una media del $9,38\%$ tra il 2000 e il 2024.
+Sui giornali, o in televisione, sentiamo spesso parlare di tasso di disoccupazione, tasso di occupazione o di altri indicatori relativi al Mercato del lavoro. Consideriamo ad esempio il tasso di disoccupazione. Misura quante persone, in percentuale, sono senza lavoro ma stanno cercando un'occupazione, rispetto al totale delle persone che potrebbero lavorare; è indicativo della situazione economica di un Paese in un certo istante ed in Italia ha mostrato un andamento variabile, con una media del $9,38\%$ tra il 2000 e il 2024.
 
 $$
 \text{Tasso di disoccupazione} = \dfrac{\text{N. disoccupati}}{\text{Forza lavoro totale}} \;\;\; \bullet
 $$
 
 
+
 A seconda di quale relazione sussiste tra il numeratore e il denominatore della frazione, si hanno diversi tipi di rapporti statistici. Ne prendiamo in considerazione quattro, in base ad altrettanti tipi di rapporti:
 
-- Rapporto di composizione
-- Rapporto di coesistenza
-- Rapporto di derivazione
-- Rapporto di densità
+- Rapporto di Composizione
+- Rapporto di Coesistenza
+- Rapporto di Derivazione
+- Rapporto di Densità
 - Rapporti di Durata e Ripetizione
 
-Mentre i primi tre si ottengono dividendo grandezze omogenee e sono pertanto numeri puri. Il rapporto di densità confronta due grandezze eterogenee ed è pertanto caratterizzato da un misura.
+Vediamo ora il rapporto di composizione.
 
-
-
-Il rapporto tra le quantità complessive corrispondenti a due diverse modalità (frequenza o intensità) viene chiamato **rapporto di coesistenza**. Il rapporto di coesistenza evidenzia il rapporto proporzionale tra due modalità o classi. 
-
+Un **rapporto di composizione** (o di parte al tutto) è un rapporto tra l'ammontare complessivo di una quantità (frequenza o intensità) corrispondente ad una modalità di una variabile di una popolazione e la quantità complessiva della stessa variabile.
 $$
-\text{Rapporto di Coesistenza} = \dfrac{\text{Freq. modalita A}}{\text{Freq. modalita B}}
+\text{Rapporto di Composizione (A)} = \dfrac{\text{Quantita di A}}{\text{Quantita Totale}}
 $$
 
+#### ESEMPIO 2
 
-Esempi di rapporti di coesistenza sono i seguenti.
+
+
+$\bullet$
+
+
+
+Il rapporto tra le quantità complessive corrispondenti a due diverse modalità (frequenza o intensità) della stessa variabile viene chiamato **rapporto di coesistenza**. Il rapporto di coesistenza evidenzia il rapporto proporzionale tra due modalità o classi. 
+$$
+\text{Rapporto di Coesistenza (A e B)} = \dfrac{\text{Quantita di A}}{\text{Quantita di B}}
+$$
+
+
+E' utilizzato su **variabili binarie** ed è un rapporto fra le intensità o frequenze riferite a fenomeni fra loro antitetici ma che coesistono. Evidenzia l’eventuale squilibrio fra le due grandezze coesistenti, tra due "parti" che, se unite insieme, darebbero luogo alla totalità dei casi. Esempi di rapporti di coesistenza sono i seguenti.
 
 - Rapporto di Mascolinità: rapporto tra numero (o frequenza) di maschi e di femmine in una popolazione;
 - Rapporto di Femminilità:  rapporto tra numero (o frequenza) di femmine e di maschi in una popolazione;
@@ -1789,8 +1810,6 @@ Esempi di rapporti di coesistenza sono i seguenti.
 
 
 ### ESERCIZIO 6.1 - Rapporti di Composizione
-
-Un **rapporto di composizione** (o di parte al tutto) è un rapporto tra l'ammontare complessivo di una quantità (frequenza o intensità) corrispondente ad una modalità di una variabile di una popolazione e la quantità complessiva della stessa.
 
 a) Considera i dati della tabella dell'esercizio 3.b). Calcola i rapporti di composizione:
 
@@ -1836,6 +1855,12 @@ Esempi di rapporti di derivazione sono i seguenti:
 - **Quoziente (tasso) di natalità**, che può riguardare persone, imprese, iniziative etc., dato dal rapporto tra il numero di unità nate nel periodo di riferimento (es. se anno si parla di quoziente di natalità annuo) ed il numero medio della popolazione;
 - **Quoziente (tasso) di mortalità**, di persone, imprese, iniziative etc., rapporto tra il numero di unità morte nel periodo di riferimento (es. se anno si parla di quoziente di mortalità annuo) ed il numero medio della popolazione.
 
+#### ESEMPIO 1
+
+
+
+$\bullet$
+
 
 
 Il **rapporto di densità** è un particolare tipo di rapporto di derivazione che confronta la misura del fenomeno globale con la misura di una quantità di un'altra  dimensione del contesto in cui il fenomeno si verifica e misura la **concentrazione** o la **distribuzione** (il ripartirsi) del fenomeno in relazione ad un'altra dimensione.
@@ -1854,6 +1879,12 @@ Esempi di rapporti di densità sono:
 - Inquinamento: sostanza inquinante in atmosfera/metro cubo;
 - Numero di venditori per città (punto vendita);
 - Numero di alunni per classe: rapporto tra numero di alunni e numero di classi contenenti gli alunni.
+
+#### ESEMPIO 2
+
+
+
+$\bullet$
 
 
 
@@ -1909,6 +1940,10 @@ Se i due dati dinamici sono eguali fra loro, ossia sono entrati nel sistema tant
 Il **rapporto di ripetizione** è reciproco del rapporto di durata e rappresenta una frequenza, ossia quante volte è, in media, si e rinnovato il fenomeno nel periodo di tempo preso in considerazione.
 
 #### ESEMPIO 1
+
+
+
+$\bullet$
 
 
 
