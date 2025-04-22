@@ -321,7 +321,7 @@ $$
 \end{array}
 $$
 
-Classifichiamo l’età creando tre classi (o fasce): $18 \vdash 30$ , $31 \vdash 50$ e $51 \vdash 70$. Nominiamo ciascuna fascia con le modalità "Giovane", "Maturo" ed "Anziano". Abbiamo allora la seguente distribuzione di frequenze:
+Classifichiamo l’età creando tre classi (o fasce): $18 \vdash 31$ , $31 \vdash 51$ e $51 \vdash 70$. Nominiamo ciascuna fascia con le modalità "Giovane", "Maturo" ed "Anziano". Abbiamo allora la seguente distribuzione di frequenze:
 
 $$
 \textbf{FREQUENZA CLASSI ETA} \\
@@ -428,13 +428,13 @@ $$
 \hline
 \textbf{Modalita} & \textbf{Frequenza} \\
 \hline
-0-2 & 9 \\
+0 \vdash 3 & 9 \\
 \hline
-3-5 & 21 \\
+3 \vdash 5 & 21 \\
 \hline
-6-8 & 4 \\
+5 \vdash 9 & 4 \\
 \hline
-9-10 & 6 \\
+9 \vdash 11 & 6 \\
 \hline
 \end{array}
 $$
@@ -541,7 +541,7 @@ $$
 $$
 
 
-1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi $0 \vdash 26$, $26 \vdash 51$ e $51 \vdash 76$; 
+1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi $0 \vdash \dashv 25$, $26 \vdash \dashv 50$ e $51 \vdash \dashv 76$; 
 2. Calcola le frequenze assolute e relative per determinare la distribuzione del livello socio-economico.
 
 #### Laboratorio FOGLIO ELETTRONICO
@@ -574,7 +574,7 @@ a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lav
 
 2. la distribuzione della retribuzione mensile per qualifica, in assoluto ed in percentuale sul totale.
 
-b) Considera le classi di retribuzione (fasce) seguenti: $0 \vdash 19$; $19 \vdash 26$; $26 \vdash 40$; $40 \vdash $, e calcola
+b) Considera le classi di retribuzione (fasce) seguenti: $0 \vdash\dashv 20$; $21 \vdash \dashv 25$; $26 \vdash \dashv 40$; $41 \vdash $, e calcola
 
 1. le frequenze assolute e relative di tali classi;
 2. la distribuzione della retribuzione mensile per fascia d'età.
@@ -672,7 +672,7 @@ E' multivariata anche la tabella dell costo delle retribuzioni per qualifica che
 
 $$
 \textbf{RETRIBUZIONE PER QUALIFICA} \\
-\begin{array}{|l|c|c|}
+\begin{array}{|l|r|c|}
 \hline
 \textbf{Qualifica}	& \textbf{Retrib.}	& \textbf{Retrib.\%} \\
 \hline
@@ -696,7 +696,7 @@ $\bullet$
 
 ### Tabelle Semplici e Composte
 
-Si dicono **semplici** le tabelle formate da due colonne che rappresentano dati di relazioni binarie.
+Si dicono **semplici** le tabelle formate da due colonne che rappresentano dati di relazioni binarie o tabelle univariate.
 
 #### ESEMPIO 3
 
@@ -725,7 +725,7 @@ $\bullet$
 
 
 
-Le tabelle **composte** sono formate da più colonne che si riferiscono a varie caratteristiche di uno stesso fenomeno, anche senza legame tra esse e con eventuali attributi calcolati.
+Le tabelle **composte** sono formate da più di due colonne che si riferiscono a varie caratteristiche di uno stesso fenomeno, anche senza legame tra esse e con eventuali attributi calcolati.
 
 #### ESEMPIO 4
 
@@ -735,7 +735,8 @@ $$
 \textbf{ALTEZZE E PESI} \\
 \begin{array}{|l|c|c|}
 \hline
-\textbf{Familiare} & \textbf{Altezza (cm)} & \textbf{Peso (Kg)} \\
+\textbf{Familiare} & \textbf{Altezza} & \textbf{Peso} \\
+ & \textbf{(cm)} & \textbf{(Kg)} \\
 \hline
 \text{Padre}	& 175	& 80 \\
 \hline
@@ -754,7 +755,7 @@ $\bullet$
 
 ### Tabelle a Singola ed a Doppia Entrata
 
-In una tabella **a singola entrata** le righe hanno **tutte lo steso numero di celle**; i caratteri sono sulle colonne ed in ogni cella è presente un dato che è una modalità del carattere della colonna, come tutte le tabelle incontrate finora.
+In una tabella **a singola entrata**; i caratteri sono sulle colonne ed in ogni cella è presente un dato che è una modalità del carattere della colonna, come tutte le tabelle incontrate finora.
 
 #### ESEMPIO 5
 
@@ -891,7 +892,7 @@ $\bullet$
 Abbiamo una **serie territoriale** quando la serie espone la distribuzione di un fenomeno nello spazio: la produzione italiana di pomodori per regione, il reddito distinto per provincia. Nelle serie geografiche le unità statistiche sono posizioni o aree geografiche.
 
 $$
-\textbf{VENDITE PER AREA GEOGRAFICA (ANNO 2003)} \\
+\textbf{VENDITE PER AREA GEOGRAFICA - ANNO 2003} \\
 \begin{array}{|l|c|}
 \hline
 \textbf{Aree Territoriali}	& \textbf{Vendite}	\\
@@ -1078,7 +1079,7 @@ Simboli Visuali: Posizione dei Rettangoli, Altezza dei Rettangoli, colore (per d
 
 $$
 \textbf{VENDITE MENSILI} \\
-\textbf{6 Mesi - .000 eur} \\
+\textbf{6 Mesi - Euro (x 1.000)} \\
 \begin{array}{|l|c|}
 \hline
 \textbf{Mesi} & \textbf{Vendite}	\\
@@ -1174,7 +1175,7 @@ Sono adatti a rappresentare graﬁcamente serie di frequenza o intensità,metten
 
 $$
 \textbf{VENDITE PER AREA GEOGRAFICA} \\
-\textbf{Anno 2012 - .000 euro} \\
+\textbf{Anno 2012 - Euro (x 1.000)} \\
 \begin{array}{|l|r|c|}
 \hline
 \textbf{Area}	& \textbf{Vendite} & \textbf{\%}	\\
@@ -1329,11 +1330,11 @@ $$
 \hline
 \textbf{Classe di Salario} & \textbf{Operai} \\
 \hline
-  900 \vdash 1000  & 20  \\
-1.000 \vdash 1.100 & 55  \\
-1.100 \vdash 1.200 & 125 \\
-1.200 \vdash 1.300 & 34  \\
-1.300 \vdash 1.400 & 16  \\
+   \;900 \vdash \dashv 1000  & 20  \\
+1.001 \vdash \dashv 1.100 & 55  \\
+1.101 \vdash \dashv 1.200 & 125 \\
+1.201 \vdash \dashv 1.300 & 34  \\
+1.301 \vdash \dashv 1.400 & 16  \\
 \hline
 \end{array}
 $$
@@ -1411,6 +1412,8 @@ Punto b)
 a) Considera i seguenti dati relativi agli investimenti e al fatturato complessivo di un collettivo di aziende (in milioni di euro) :
 
 $$
+\textbf{INVESTIMENTI E FATTURATO} \\
+\textbf{Euro (x Ml)} \\
 \begin{array}{|r|r|}
 \hline
 \textbf{Investimenti} & \textbf{Fatturato} \\ 	 
