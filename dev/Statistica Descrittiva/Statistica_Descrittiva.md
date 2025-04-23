@@ -161,7 +161,7 @@ Relativamente all'esercizio 1.1, che riguardava un'indagine statistica sulla qua
 
 - Sesso (modalità: M, F; Tipo: categorico/binario, Livello Misurazione: nominale);
 
-- Distanza del Domicilio dalla Scuola: (modalità: quantitativo/continuo, livello rapporto, eventualmente ripartita in fasce, 0 |- 2 Km, 2 |- 5 Km, 5 |- 10 Km, Oltre 10 Km);
+- Distanza del Domicilio dalla Scuola: (modalità: quantitativo/continuo, livello rapporto, eventualmente ripartita in fasce, $[0, 2]$ Km, $[3, 5]$  Km, $[6, 10]$ Km, $[11, \infty]$, oltre 10 Km);
 
 - Motivazione del non utilizzo (Tipo: qualitativo/arbitrario illimitato, Livello Misurazione: nominale);
 
@@ -321,7 +321,7 @@ $$
 \end{array}
 $$
 
-Classifichiamo l’età creando tre classi (o fasce): $18 \vdash 31$ , $31 \vdash 51$ e $51 \vdash 70$. Nominiamo ciascuna fascia con le modalità "Giovane", "Maturo" ed "Anziano". Abbiamo allora la seguente distribuzione di frequenze:
+Classifichiamo l’età creando tre classi (o fasce): $[18,  30]$ , $[31, 50]$ e $[51, 70]$. Nominiamo ciascuna fascia con le modalità "Giovane", "Maturo" ed "Anziano". Abbiamo allora la seguente distribuzione di frequenze:
 
 $$
 \textbf{FREQUENZA CLASSI ETA} \\
@@ -428,13 +428,13 @@ $$
 \hline
 \textbf{Modalita} & \textbf{Frequenza} \\
 \hline
-0 \vdash 3 & 9 \\
+[0 ,2] & 9 \\
 \hline
-3 \vdash 5 & 21 \\
+[3, 5] & 21 \\
 \hline
-5 \vdash 9 & 4 \\
+[6, 9] & 4 \\
 \hline
-9 \vdash 11 & 6 \\
+[10, 12] & 6 \\
 \hline
 \end{array}
 $$
@@ -541,7 +541,7 @@ $$
 $$
 
 
-1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi $0 \vdash \dashv 25$, $26 \vdash \dashv 50$ e $51 \vdash \dashv 76$; 
+1. Calcola le distribuzioni semplici di frequenza dei caratteri livello socio-economico, stato di salute e età, utilizzando per quest’ultimo carattere le classi $[0, 25]$, $[26, 50]$ e $[51, 76]$; 
 2. Calcola le frequenze assolute e relative per determinare la distribuzione del livello socio-economico.
 
 #### Laboratorio FOGLIO ELETTRONICO
@@ -574,7 +574,7 @@ a) Considerato che in un mese ci sono 20 giorni lavorativi e che la giornata lav
 
 2. la distribuzione della retribuzione mensile per qualifica, in assoluto ed in percentuale sul totale.
 
-b) Considera le classi di retribuzione (fasce) seguenti: $0 \vdash\dashv 20$; $21 \vdash \dashv 25$; $26 \vdash \dashv 40$; $41 \vdash $, e calcola
+b) Considera le classi di retribuzione (fasce) seguenti: $[0, 20]$; $[21, 25]$; $[26, 40]$; $[41, \infty]$, e calcola
 
 1. le frequenze assolute e relative di tali classi;
 2. la distribuzione della retribuzione mensile per fascia d'età.
@@ -703,10 +703,11 @@ Si dicono **semplici** le tabelle formate da due colonne che rappresentano dati 
 Riportiamo in una TABELLA SEMPLICE i dati riguardanti le temperature registrate durante una giornata autunnale ad intervalli di sei ore:
 
 $$
-\textbf{TEMPERATURA} \\
+\textbf{TEMPERATURA DEL GIORNO} \\
 \begin{array}{|c|c|}
 \hline
-\textbf{Ora} & \textbf{Gradi (°C)}\\
+\textbf{Ora} & \textbf{Temperatura}\\
+  & \textbf{(Gradi °C)}\\
 \hline
 0	& 2 \\
 \hline  
@@ -1330,11 +1331,11 @@ $$
 \hline
 \textbf{Classe di Salario} & \textbf{Operai} \\
 \hline
-   \;900 \vdash \dashv 1000  & 20  \\
-1.001 \vdash \dashv 1.100 & 55  \\
-1.101 \vdash \dashv 1.200 & 125 \\
-1.201 \vdash \dashv 1.300 & 34  \\
-1.301 \vdash \dashv 1.400 & 16  \\
+   \;[900, 1000]  & 20  \\
+[1.001, 1.100] & 55  \\
+[1.101, 1.200] & 125 \\
+[1.201, 1.300] & 34  \\
+[1.301, 1.400] & 16  \\
 \hline
 \end{array}
 $$
@@ -1443,7 +1444,8 @@ b) In uno studio atto a rilevare le relazione fra età e pulsazioni cardiache al
 $$
 \begin{array}{|c|c|}
 \hline
-\textbf{Eta (Anni)} & \textbf{Pulsazioni (min)} \\ 	 
+\textbf{Eta)} & \textbf{Pulsazioni} \\ 	 
+\textbf{(Anni)} & \textbf{(min)} \\ 	 
 \hline
 15 & 200 \\
 \hline
@@ -1479,6 +1481,7 @@ $$
 \begin{array}{|c|c|}
 \hline
 \textbf{Peso} & \textbf{Altezza} \\ 	 
+\textbf{(Kg)} & \textbf{(cm)} \\ 	 
 \hline
 56 & 161  \\
 \hline
