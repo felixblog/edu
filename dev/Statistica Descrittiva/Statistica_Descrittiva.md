@@ -346,14 +346,15 @@ La classe di lavoratori più numerosa è quella dei Maturi.  $\bullet$
 
 ### Caratteri Trasferibili ed Intensità 
 
-Un carattere è detto **trasferibile** se ha senso immaginare che (per un esito alternativo o futuro degli eventi) tutto o parte del carattere di un’unità statistica possa essere trasferito (incrementato o decrementato) a vantaggio di un’altra unità statistica. 
+Un carattere è detto **trasferibile** se ha senso immaginare che (per un esito alternativo o futuro degli eventi) tutto o parte del carattere di un’unità statistica possa essere trasferito (incrementato o decrementato) a vantaggio di un’**altra unità statistica**. 
 
 Esempi di caratteri trasferibili sono:
 
 - il reddito di un soggetto (che anno dopo anno può variare a beneficio o danno per un altro soggetto) o il suo patrimonio (per cessione, donazione o altro);
-- le vendite di una azienda (diminuzione o aumento a causa della concorrenza);
+- le vendite di una azienda (diminuzione o aumento verso altre aziende a causa della concorrenza);
 - il numero di auto in una famiglia (dismissione o acquisto nei confronti di un’altra famiglia);
-- i Km percorsi in un anno da una delle auto di una famiglia (se viene usata una piuttosto che un’altra auto per gli spostamenti). 
+- i Km percorsi in un anno da una delle auto di una famiglia (se viene usata una piuttosto che un’altra auto per gli spostamenti);
+- numero abitanti di una regione (aumento o diminuzione per trasferimento verso altra regione).
 
 I caratteri non trasferibili sono quelli propri di ciascuna unità, come la statura, il peso, l'età o il numero di figli partoriti da una donna.
 
@@ -606,7 +607,7 @@ In rapporto alle rilevazioni, le tabelle generalmente contengono dati derivati o
 
 ### Tabelle Univariate e Multivariate
 
-Le tabelle **univariate** o monovariate sono le più semplici e presentano i dati di una sola variabile (carattere) per ciascuna unità statistica. La tabella si riduce così ad un elenco e fornisce supporto all’analisi statistica monovariata che consiste nell’analizzare le variabili singolarmente prese, cioè a una a una senza metterle in relazione fra di loro.
+Le tabelle **univariate** (o monovariate o semplici) sono le più semplici e presentano i dati di una sola variabile (carattere) per ciascuna unità statistica. La tabella si riduce così ad un elenco e fornisce supporto all’analisi statistica monovariata che consiste nell’analizzare le variabili singolarmente prese, cioè a una a una senza metterle in relazione fra di loro.
 
 Sono tabelle univariate le distribuzioni di frequenza di una variabile in quanto riportano i dati di un solo carattere. 
 
@@ -655,16 +656,43 @@ $$
 \end{array}
 $$
 
+$\bullet$
+
+
+
+#### ESEMPIO 2
+
+Riportiamo in una TABELLA SEMPLICE i dati riguardanti le temperature registrate durante una giornata autunnale ad intervalli di sei ore:
+
+$$
+\textbf{TEMPERATURA DEL GIORNO} \\
+\begin{array}{|c|c|}
+\hline
+\textbf{Ora} & \textbf{Temperatura}\\
+  & \textbf{(Gradi °C)}\\
+\hline
+0	& 2 \\
+\hline  
+6	& 2 \\
+\hline  
+12	& 11 \\
+\hline  
+18	& 8 \\
+\hline  
+24	& 4 \\
+\hline  
+\end{array}
+$$
 
 $\bullet$
 
 
 
-Sono **multivariate** le tabelle che riportano le modalità di più di un carattere.
+Sono **multivariate** (o complesse) le tabelle formate da due o più colonne che riportano le modalità di più di un carattere o che si riferiscono a varie caratteristiche di uno stesso fenomeno, anche senza legame tra esse e con eventuali attributi calcolati.
 
 Sono tabelle multivariate le distribuzioni di intensità in quanto coinvolgono dati di un carattere qualitativo e di uno quantitativo.
 
-#### ESEMPIO 2
+#### ESEMPIO 3
 
 Nell'esempio del questionario fatto ai dipendenti dall'Ufficio del Personale, l'intera tabella dei dati  è una tabella multivariata.
 
@@ -693,40 +721,6 @@ $$
 $\bullet$
 
 
-
-### Tabelle Semplici e Composte
-
-Si dicono **semplici** le tabelle formate da due colonne che rappresentano dati di relazioni binarie o tabelle univariate.
-
-#### ESEMPIO 3
-
-Riportiamo in una TABELLA SEMPLICE i dati riguardanti le temperature registrate durante una giornata autunnale ad intervalli di sei ore:
-
-$$
-\textbf{TEMPERATURA DEL GIORNO} \\
-\begin{array}{|c|c|}
-\hline
-\textbf{Ora} & \textbf{Temperatura}\\
-  & \textbf{(Gradi °C)}\\
-\hline
-0	& 2 \\
-\hline  
-6	& 2 \\
-\hline  
-12	& 11 \\
-\hline  
-18	& 8 \\
-\hline  
-24	& 4 \\
-\hline  
-\end{array}
-$$
-
-$\bullet$
-
-
-
-Le tabelle **composte** sono formate da più di due colonne che si riferiscono a varie caratteristiche di uno stesso fenomeno, anche senza legame tra esse e con eventuali attributi calcolati.
 
 #### ESEMPIO 4
 
