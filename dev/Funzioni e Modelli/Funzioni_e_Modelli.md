@@ -492,10 +492,10 @@ c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezi
 
 ### ESERCIZIO 5.2 - Esercizio Riassuntivo   
 
-a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e 100 Km percorsi, un totale di 70 euro e la seconda, sempre per un giorno e 350 Km percorsi, 120 euro.
+a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Le auto che l'agenzia propone alla sua clientela sono di un'unica tipologia ed Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e 100 Km percorsi, un totale di 70 euro e la seconda, sempre per un giorno e 350 Km percorsi, 120 euro.
 
 1. Scrivi la formula che calcola il costo di noleggio per la clientela.
-2. Antonio potrebbe noleggiare anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Ad Antonio conviene di più servirsi di EZ oppure di A-OK? 
+2. Antonio potrebbe noleggiare un'auto anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Ad Antonio conviene di più servirsi di EZ oppure di A-OK? 
 
 b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e di uno variabile, che dipende dai Km percorsi, di manutenzione.
 
