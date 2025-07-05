@@ -242,7 +242,7 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***. 
 
-La somma di più monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti).
+La somma di più monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è un monomio e rimane somma di due monomi.
 
 #### ESEMPIO 1
 
@@ -299,9 +299,9 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}  \cdo
 
 ## UNITA' 4: Rapporti tra monomi e frazioni algebriche
 
-Il rapporto tra due monomi non è sempre un monomio. Lo è solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi non sono più presenti lettere al denominatore.
+Il rapporto tra due monomi è  un monomio solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi non sono più presenti lettere al denominatore.
 
-Se ciò non accade il rapporto tra i due monomi non è un monomio ma una espressione letterale detta ***frazione algebrica***.
+Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***.
 
 
 
@@ -323,7 +323,7 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 ## UNITA' 5: Polinomi 
 
-La somma di più monomi si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
+La somma di più monomi (non simili) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***. Il polinomio si può considerare il "mattone" con cui costruire le espressioni algebriche, in quanto un monomio è anche un polinomio che ha un solo termine.
 
 Un polinomio è in ***forma normale*** se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado decrescente ed in ordine alfabetico tra quelli dello stesso grado.
 
@@ -388,75 +388,23 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 
 
-## UNITA' 6: Somme di polinomi e Prodotti di polinomi per monomi
+## UNITA' 6: Prodotti di polinomi per monomi e somme di polinomi
 
-La somma di due polinomi è un polinomio ottenuto sommando tra di loro tutti i monomi dei due polinomi. 
-
-Il prodotto di un monomio per un polinomio è un polinomio che si ottiene, applicando la proprietà distributiva del prodotto rispetto alla somma, sommando tra di loro i prodotti del monomio per i termini del polinomio.
-
-Se $A$, $B$ e $C$ sono monomi, abbiamo che $B + C$ è un polinomio ed il prodotto di questo polinomio per $A$ si può scrivere come:
-$$
-A \cdot (B + C) = A \cdot B + A \cdot C
-$$
-
-Per la proprietà distributiva del prodotto rispetto alla somma. Vediamo alcuni esempi.
+Il prodotto di un monomio per un polinomio è un polinomio che si ottiene, applicando la proprietà distributiva del prodotto rispetto alla somma, sommando tra di loro i prodotti del monomio che moltiplica per i monomi del polinomio.
 
 #### ESEMPIO 1
 
-Se $A = 2$;  $B = x^2$; $C = x$ allora $A(B + C) = 2(x^2 + x)$ e quindi
+a) Per calcolare $2(x^2 + x)$ si scrive $2 \cdot x^2 +2 \cdot x \longrightarrow 2x^2+ 2x$;
 
-$A(B+C) \longrightarrow AB + AC = 2x^2 + 2x$;
+b) Per calcolare $-3(1 + b)$ si scrive $-3 \cdot 1 -3 \cdot b \longrightarrow -3 -3b$;
 
-Se $A = a^2$; $B = ab^2$; $C = -\dfrac{c}{2}$ abbiamo che
+c) Per calcolare $-3(1 - b)$ si scrive $-3(1-b) = -3 \cdot 1 -3 \cdot (-b)$ $\longrightarrow $ $ -3 + 3b$;
 
- $a^2(ab^2 -\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$. $\bullet$
-
-
-
-Il prodotto di due polinomi si ottiene moltiplicando il secondo polinomio per tutti i monomi del primo e sommando i risultati.
-
-#### ESEMPIO 2
-
-$(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
-
-$(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x \longrightarrow 1 + x - x -x^2 \longrightarrow 1 - x^2$. $\bullet$
+c) Per calcolare $a^2(ab^2 -\dfrac{c}{2})$,  abbiamo $a^2(ab^2 -\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$. $\bullet$
 
 
 
-### ESERCIZIO 6.1 - Somma di polinomi
-
-Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
-
-
-a) $4x^{3}-5x^{2}+2$;     $-3x^{3}+2x^{2}-2$  
-
-b) $3a^{3}+5a^{2}-2a+1$;     $3a^{3}-2a^{2}+5a-7$  
-
-
-
-### ESERCIZIO 6.2 - Dalle parole alle espressioni III
-
-Dati i polinomi seguenti:
-
-1. $5a^{2}-2a+1;$  
-2. $3a+a^{2}-2;$  
-3. $a^{2}-1 + 2a;$  
-
-a) sottrai al primo la somma del secondo e del terzo;  
-b) aggiungi al terzo la differenza tra il secondo e il primo.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
-
-1. $a1: 5a^{2}-2a+1$  &#9166; 
-2. $a2: 3a+a^{2}-2$   &#9166; 
-3. $a3: a^{2}-1 + 2a$  &#9166; 
-3. $a1 - (a2 + a3)$  &#9166; 
-
-
-
-### ESERCIZIO 6.3 - Prodotti di monomi per polinomi
+### ESERCIZIO 6.1 - Prodotti di monomi per polinomi
 
 a) Scrivi il polinomio risultato dei prodotti seguenti.
 
@@ -474,11 +422,57 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 1. $6 \cdot \left(x^{2}-2y\right)$ &#9166; 
 2. $\left(-2\right)\,\cdotp\left(-3xy+2\right)$ &#9166;  
-3. $\left(-4x^{2} \cdot y\right)\,\cdotp\left(-x^{3}+2x \cdot y-y\right)$ &#9166; 
+3. $\left(-4x^{2} \cdot y\right)\,\cdotp\left(-x^{3}+2x \cdot y-y\right)$ &#9166;  $\bullet$
+
+
+
+La somma di due polinomi si ottiene sommando tra di loro tutti i monomi di entrambi i polinomi.
+
+### ESERCIZIO 6.2 - Somma di polinomi
+
+Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
+
+
+a) $4x^{3}-5x^{2}+2$;     $-3x^{3}+2x^{2}-2$  
+
+b) $3a^{3}+5a^{2}-2a+1$;     $3a^{3}-2a^{2}+5a-7$  
+
+
+
+### ESERCIZIO 6.3 - Dalle parole alle espressioni III
+
+Dati i polinomi seguenti:
+
+1. $5a^{2}-2a+1;$  
+2. $3a+a^{2}-2;$  
+3. $a^{2}-1 + 2a;$  
+
+a) sottrai al primo la somma del secondo e del terzo; 
+
+b) aggiungi al terzo la differenza tra il secondo e il primo.
+
+#### Laboratorio GEOGEBRA
+
+a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito:
+
+1. $A: 5a^{2}-2a+1$  &#9166; 
+2. $B: 3a+a^{2}-2$   &#9166; 
+3. $C: a^{2}-1 + 2a$  &#9166; 
+3. $A - (B + C)$  &#9166; 
 
 
 
 ## UNITA' 6: Prodotti di polinomi
+
+
+
+#### ESEMPIO 1
+
+$(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
+
+$(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x \longrightarrow 1 + x - x -x^2 \longrightarrow 1 - x^2$. $\bullet$
+
+
 
 ### ESERCIZIO - 6.4 Prodotto di polinomi
 

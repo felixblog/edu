@@ -251,7 +251,7 @@ Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regol
 
 #### ESEMPIO 1
 
-Risolviamo l'equazione $1-ax=b$ considerando la lettera $x$ come incognita.
+Risolviamo l'equazione $1-ax=b$ considerando la lettera $x$ come incognita.
 
 a) $1-ax=b$;   Con la regola del trasporto portiamo $1$ a destra;
 
@@ -388,7 +388,7 @@ Gli intervalli si possono rappresentare anche graficamente su una retta. Il graf
 
 <img src="img\diseq-0-3.png" alt="diseq-0-3" style="zoom:75%;" />
 
-Nella simbologia grafica usata da GEOGEBRA ogni estremo del segmento è un puntino pieno se il numero fa parte dell'intervallo mentre è vuoto se non vi fa parte, come nell'esempio seguente dove è rappresentato l'intervallo $(3, 5]$.
+Nella simbologia grafica usata da GEOGEBRA, ogni estremo del segmento è un puntino pieno, se il numero fa parte dell'intervallo, mentre è vuoto se non vi fa parte, come nell'esempio seguente dove è rappresentato l'intervallo $(3, 5]$.
 
 <img src="img/diseq-3-5.png" alt="diseq-3-5" style="zoom:75%;" />
 
