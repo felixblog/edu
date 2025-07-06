@@ -97,22 +97,37 @@ a) Controlla la verità delle seguenti relazioni:
 
 ## UNITA' 3: Somma tra numeri interi
 
-Nel "mondo" dei numeri interi, i simboli "$+$" e "$-$" che troviamo nelle espressioni non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "**somma algebrica**" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo.
+Nel "mondo" dei numeri interi, i simboli "$+$" e "$-$" che troviamo nelle espressioni non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "**somma algebrica**" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo. Vediamo un esempio
 
-#### ESEMPIO
-
-L'espressione $3-2$ nel "mondo" dei numeri naturali contiene due numeri, $3$ e $2$ ed una operazione, la sottrazione. Nel mondo dei numeri interi contiene due numeri, $3$ e $-2$ uno dopo l'altro; ci si può allora chiedere: se l'espressione contiene solo due numeri, quale è l'operazione tra di loro?
+L'espressione $3-2$ nel "mondo" dei numeri naturali contiene due numeri, $3$ e $2$ ed una operazione, la sottrazione. Nel mondo dei numeri interi contiene due numeri, $3$ e $-2$ scritti uno dopo l'altro; ci si può allora chiedere: se l'espressione contiene solo due numeri, quale è l'operazione tra di loro?
 
 L'operazione presente è chiamata somma algebrica ed è collocata a destra del $3$ ed a sinistra del "$-$"), nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{,}} -2$, e c'è anche se non si vede, come negli esempi seguenti:
 
-- $-123\overset{\downarrow}{\phantom{,}}-23$;
-- $1\overset{\downarrow}{\phantom{,}}-2 \overset{\downarrow}{\phantom{,}} + 3 \overset{\downarrow}{\phantom{,}} -4$.
+1. $-123\overset{\downarrow}{\phantom{,}}-23$;
 
-L'operazione di somma algebrica si esegue facendo una sequenza di spostamenti di un punto ideale, uno per ogni numero della somma. Il risultato della somma $3-2$ si ottiene spostando il punto ideale dallo $0$ di $3$ unità a destra fino alla posizione $+3$ e da qui verso sinistra di $2$ unità raggiungendo la posizione $1$, che è il risultato della somma algebrica.
+2. $1\overset{\downarrow}{\phantom{,}}-2 \overset{\downarrow}{\phantom{,}} + 3 \overset{\downarrow}{\phantom{,}} -4$.  $\bullet$
 
-Lo stesso risultato si ottiene con $-2+3$ (due unità a sinistra e tre a destra) e la somma algebrica è sempre posizionata dove indica la freccia $-2\overset{\downarrow}{\phantom{,}} +3$ e come si vede, a differenza della sottrazione, la somma algebrica è commutativa.
 
- 
+
+#### Scrittura delle somme algebriche
+
+Per scrivere una somma algebrica tra due o più numeri dobbiamo scrivere i numeri in sequenza, ciascuno con il proprio segno: se un numero non ha il segno vuol dire che è positivo e dobbiamo mettere il segno $+$.
+
+La somma algebrica tra i numeri $-2$, $+5$, $-1$ è $-2 +5 +1$ e la somma algebrica tra i numeri $+2$, $5$, $1$ è $+2 + 5 + 1$.
+
+Soltanto il primo numero, se è positivo, può essere scritto senza il segno, quindi la somma precedente poteva anche essere scritta $2 + 5 + 1$. $\bullet$
+
+
+
+#### Calcolo della somma algebrica
+
+L'operazione di somma algebrica si esegue facendo una sequenza di spostamenti, a partire dalla posizione $0$ verso destra, se il numero è positivo o verso sinistra, se è negativo, per ogni numero della somma. La posizione finale è il risultato della somma. 
+
+Per calcolare il risultato di $3-2$ partiamo da $0$ e andiamo a destra di $3$ unità fino a $+3$ e poi a sinistra di $2$ unità raggiungendo la posizione $1$, che è il risultato della somma algebrica.
+
+Se facciamo la stessa cosa con $-2+3$ (due unità a sinistra e tre a destra) arriviamo sempre alla posizione $+1$. La somma algebrica è dove indica la freccia $-2\overset{\downarrow}{\phantom{,}} +3$.
+
+
 
 ### ESERCIZIO 3.1 - Somme algebriche
 
@@ -125,10 +140,10 @@ Indicando con un numero positivo ogni spostamento verso destra e con uno negativ
 
 <img src="img\lumache.png" alt="e" style="zoom:25%;" /> 
 
-b) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica e calcola il risultato.
+b) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica **senza** calcolare il risultato.
 
-1. $(+2, +8);$   $(+5, -8);$   $(-5, +8);$   $(-5, -8);$
-2. $(0, +2);$   $(-2, 0);$   $(+4, -4);$   $(-4, +4);$
+1. $(+2, +8);$   $(5, -8);$   $(-8, 5);$   $(-5, -8);$    $(5, 8)$
+2. $(0, +2);$   $(-2, 0);$   $(4, 4);$   $(-4, +4);$
 
 c) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -222,18 +237,20 @@ c) La lumaca dell'esercizio 4.a si muove di 5 cm verso sinistra, poi si gira e s
 
 Per i numeri interi valgono le regole che sono state viste per i numeri naturali: tra due numeri c'è sempre una operazione e tra due operazioni c'è sempre un numero. 
 
-Nel caso dei numeri interi bisogna fare le seguenti due osservazioni
+Nel caso dei numeri interi bisogna fare le seguenti due osservazioni:
 
-1. Se il numero è negativo il segno è sempre indicato, se il numero è positivo può esserci o non esserci (in questo caso è  sottinteso).
-2. Non si scrive il segno (positivo o negativo) immediatamente a destra dei simboli di moltiplicazione e divisione: se c'è un numero o una espressione questa va scritta tra parentesi.  
+1. Se il numero è negativo il segno è sempre indicato, se il numero è positivo può esserci o non esserci (e se non c'è, è sottinteso il segno $+$).
+2. Non si scrive il segno (positivo o negativo) immediatamente a destra dei simboli di moltiplicazione e divisione: se c'è un numero o una espressione che comincia con il segno $-$ va scritta tra parentesi.  
 
-L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima.
+L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione si può eseguire solo se i due numeri sono disponibili per l'operazione, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa alla successiva.
 
 La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono **prodotti e rapporti** allo stesso livello e ancora dopo c'è la **somma algebrica**.
 
 #### ESEMPIO
 
-Nell'espressione $-8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma algebrica. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:
+Nell'espressione $-8 · 12 + 5$ abbiamo tre numeri e due operazioni, un prodotto ed una somma algebrica. Il numero $-8$ fa parte solo del prodotto, il numero $+5$ fa parte solo della somma algebrica mentre il numero $12$ fa parte sia del prodotto che della somma algebrica, ossia è condiviso.
+
+Quando c'è un numero condiviso tra moltiplicazione e somma si pone il problema di quale operazione lo deve usare per ottenere il suo risultato: poiché la moltiplicazione ha priorità sulla somma, il $12$ essere usato nella moltiplicazione che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:
 
 a) $\underbracket{-8 \overset{(a)}{\cdot} 12}_\text{*} \overset{\downarrow(b)}{\phantom{,}} + 5$
 
@@ -241,7 +258,7 @@ b) $\overset{*}{96} \overset{\downarrow}{\phantom{,}} +5$
 
 c) $101$
 
-Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica tra $+5$ e $-8$ ed il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
+Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica tra $+5$ e $-8$ ed il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma sarà fatta sul risultato della moltiplicazione. 
 
 La sequenza delle operazioni sarà allora:
 
@@ -249,23 +266,27 @@ a) $5 \overset{\downarrow(b)}{\phantom{,}} \underbracket{-8 \overset{(a)}{\cdot}
 
 b) $ 5 \overset{\downarrow}{\phantom{,}} \;  \overset{*}{-96}$
 
-c) $ 101$
+c) $ 101$   $\bullet$
+
+
 
 #### Uso delle parentesi e priorità
 
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati ***prioritariamente*** nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (-12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $-12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $-12$ è dentro insieme alla somma algebrica). 
+Nell'espressione $-8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma algebrica). 
 
-La prima operazione che è possibile eseguire è quindi la somma algebrica. La sequenza delle operazioni da eseguire sarà:
+La prima operazione che è possibile eseguire è quindi la somma algebrica dentro la parentesi. La sequenza delle operazioni da eseguire sarà:
 
-a) $8 \overset{(b)}\cdot (\underbracket{-12 \overset{\downarrow(a)}{\phantom{,}} +5}_\text{*})$
+a) $-8 \overset{(b)}\cdot (\underbracket{12 \overset{\downarrow(a)}{\phantom{,}} +5}_\text{*})$
 
-b) $8 \cdot (\overset{*}{-7})$
+b) $-8 \cdot (\overset{*}{17})$
 
-c) $-56$.
+c) $-136$.
 
-Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti e divisioni da un lato e somme e sottrazioni dall'altro, vincono i prodotti e le divisioni, mentre se c'è una sequenza di prodotti e divisioni oppure una sequenza di somme e sottrazioni si esegue sempre quella che viene prima leggendo da sinistra a destra e le successive si applicano al risultato della precedente.
+Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti e divisioni da un lato e somme e sottrazioni dall'altro, vincono i prodotti e le divisioni, mentre se c'è una sequenza di prodotti e divisioni oppure una sequenza di somme e sottrazioni si esegue sempre quella che viene prima leggendo da sinistra a destra e le successive si applicano al risultato della precedente.  $\bullet$
+
+
 
 #### Segni davanti alle parentesi
 
@@ -273,37 +294,33 @@ Spesso si incontrano espressioni come le seguenti:
 $$
 -5 -(10 - 15)
 $$
-Qui sembra ci siano tre numeri e quindi due operazioni. C'è però l'anomalia di un segno davanti ad una parentesi aperta senza un numero (il "$-$" non è il segno di $10$!).
+Qui sembra ci siano tre numeri e quindi due operazioni. C'è però la "stranezza" del segno $-$ davanti alla parentesi aperta senza un numero (il "$-$" non è il segno di $10$!).
 
-Poiché ogni segno ha un numero, il segno negativo è il segno del numero $1$ che moltiplica la parentesi ed è sottointeso, per cui volendo esplicitare tutti numeri e le espressioni avremmo che l'espressione è equivalente a:
+Poiché ogni segno ha un numero alla sua destra, il segno negativo è il segno del numero $1$ che moltiplica la parentesi ed è sottointeso; volendo scrivere tutti i numeri ed i segni presenti, l'espressione è equivalente a:
 $$
 -5 -1 \cdot (10 - 15)
 $$
-Come si vede i numeri dell'espressione sono quattro e le operazioni sono tre. Il calcolo è il seguente:
+Come si vede i numeri dell'espressione sono quattro e le operazioni sono tre. La prima operazione del fare è la somma algebrica dentro la parentesi:
 
 a) $-5 -1 \cdot (\underbracket{10 - 15}_\text{(a)})$
 
+La seconda è il prodotto immediatamente fuori:
+
 b) $-5 \underbracket{-1 \cdot (\overset{(a)}{-5})}_\text{(b)}$ 
+
+La terza è la somma algebrica dopo il primo $-5$:
 
 c) $-5\; \overset{(b)}{+5}$
 
-d) $0$.
+d) $0$.   $\bullet$
+
+
 
 #### Eliminazione delle parentesi
 
-Durante il calcolo delle espressioni, le parentesi scompaiono man mano che le operazioni al loro interno vengono eseguite. Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, conviene **calcolare la potenza e mettere il risultato dentro la parentesi senza toglierla**, come nel passaggio da b) a c) dell'esempio seguente:
+Durante il calcolo delle espressioni, le operazioni delle espressioni si riducono di numero; in particolare dentro le parentesi le operazioni diminuiscono finché alla fine dentro alla parentesi rimane solo un numero. 
 
-a) $-5 -1 \cdot (\underbracket{10 - 15}_\text{(a)})^3$
-
-b) $-5 -1 \cdot \underbracket{(\overset{(a)}{-5})^3}_\text{(b)}$
-
-c) $-5 \underbracket{-1 \cdot (\overset{(b)}{-125}}_\text{(c)})$
-
-d) $-5\; \overset{(c)}{+ 125}$
-
-e) $+120$
-
-Le parentesi scompaiono quando in esse è presente solo un numero (nessuna operazione) e si esegue **la prima operazione al di fuori della parentesi stessa**, come nell'esempio precedente, dal passaggio da c) a d), o nell'esempio seguente nel passaggio da b) a c).
+Noi togliamo le parentesi quando in esse è presente solo un numero (nessuna operazione) e si esegue **la prima operazione al di fuori della parentesi stessa**, come nell'esempio seguente quando eseguiamo la moltiplicazione nel passaggio da b) a c).
 
 a) $-5 + (\underbracket{10 - 15}_\text{(a)}):5$
 
@@ -314,6 +331,18 @@ c) $-5 \; \underbracket{\overset{(b)}{-5}:5}_\text{(c)}$
 d) $-5 \; \overset{(c)}{-1}$
 
 e) $-6$
+
+Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, **calcoliamo la potenza e mettiamo il risultato dentro la parentesi senza toglierla**, come nel passaggio da b) a c) dell'esempio seguente:
+
+a) $-5 -1 \cdot (\underbracket{10 - 15}_\text{(a)})^3$
+
+b) $-5 -1 \cdot \underbracket{(\overset{(a)}{-5})^3}_\text{(b)}$
+
+c) $-5 \underbracket{-1 \cdot (\overset{(b)}{-125}}_\text{(c)})$
+
+d) $-5\; \overset{(c)}{+ 125}$
+
+e) $+120$
 
 
 

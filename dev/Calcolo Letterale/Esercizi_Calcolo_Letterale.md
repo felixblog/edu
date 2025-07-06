@@ -242,7 +242,7 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***. 
 
-Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi.
+Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi.
 
 #### ESEMPIO 1
 
@@ -323,11 +323,19 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 ## UNITA' 5: Polinomi 
 
-La somma di più monomi (non tutti simili) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini*** (un monomio è un polinomio che ha un solo termine).
+La somma algebrica di più monomi (non tutti simili) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***.
 
 Un polinomio è in ***forma normale*** se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado decrescente ed in ordine alfabetico tra quelli dello stesso grado.
 
-Il grado di un polinomio coincide con quello del monomio di grado massimo. Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $-2x + 1$, $6x^5 -\dfrac{2}{3}x^3 + 2x$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
+#### ESEMPIO 1
+
+L'espressione letterale $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2}$ è una somma algebrica dei monomi $+a^2b^2$, $+a^2$, $-b^2$, $-2a^2b^2$ e $+a^2$; i monomi sono tutti in forma normale ma il polinomio non lo è perché sia il primo ed il quarto che il secondo ed il quinto monomio sono simili: se sommiamo tra di loro i monomi simili otteniamo $-a^{2}b^{2}+2a^{2}-b^{2}$ che è i forma normale. $\bullet$ 
+
+
+
+Il grado di un polinomio coincide con quello del monomio di grado massimo, per cui il grado del monomio dell'esempio precedente è $4$. Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $-2x + 1$, $6x^5 -\dfrac{2}{3}x^3 + 2x$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
+
+Da ultimo osserviamo che anche un singolo monomio si considera un caso particolare di polinomio.
 
 
 
@@ -352,7 +360,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 ### ESERCIZIO 5.2 - Rappresentazione delle espressioni letterali
 
-a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero:
+a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero. Esegui le operazioni e scrivi i risultati in forma normale.
 
 1.    
 
@@ -390,11 +398,11 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 ## UNITA' 6: Prodotti di polinomi per monomi e somme di polinomi
 
-Il prodotto di un monomio per un polinomio è un polinomio che si ottiene sommando tra di loro i prodotti del monomio per i monomi del polinomio.
+Il prodotto di un monomio per un polinomio è un polinomio che si ottiene sommando (algebricamente) tra di loro i prodotti del monomio per i monomi del polinomio.
 
 #### ESEMPIO 1
 
-Nel prodotto $2(x^2 + x)$ Il monomio che moltiplica è il solo numero $2$, per cui il polinomio risultante è  $2 \cdot (x^2) +2 \cdot (+x)$ $ \longrightarrow 2x^2+ 2x$;
+Nel prodotto $2(x^2 + x)$ Il monomio che moltiplica è il solo numero $2$; i prodotti del monomio per i monomi del polinomio sono i due monomi $2 \cdot (x^2)$ e $2 \cdot (+x)$, per cui il polinomio risultante è  $2 \cdot (x^2) +2 \cdot (+x)$ $ \longrightarrow 2x^2+ 2x$;
 
 
 
@@ -474,7 +482,7 @@ Il prodotto di due polinomi è un polinomio che si scrive moltiplicando ogni mon
 
 #### ESEMPIO 1
 
-Nell'esempio seguente il primo polinomio è formato dai monomi $+a$ e $+b$ per cui moltiplichiamo ognuno per il secondo polinomio e poi sommiamo:
+Nell'esempio seguente il primo polinomio è formato dai monomi $+a$ e $+b$ per cui moltiplichiamo ognuno per il secondo polinomio e poi sommiamo:
 
 $(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
 
