@@ -278,7 +278,7 @@ A volte la semplice propagazione fornisce la soluzione del problema, come negli 
 
 Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza del camion è $18$ metri. Quale è la misura della lunghezza della trave?
 
-Le quantità contenute nel testo sono tre: lunghezza della trave, lunghezza del camion e rapporto tra lunghezza di trave e camion. Due quantità sono note e la lunghezza della trave è la quantità richiesta. Quest'ultima dipende dalle prime due. Il tutto è riassunto nel diagramma seguente:
+Le quantità contenute nel testo sono tre: lunghezza della trave, lunghezza del camion ed il rapporto tra lunghezza di trave e camion. Due quantità sono note e la lunghezza della trave è la quantità richiesta. Quest'ultima dipende dalle prime due. Il tutto è riassunto nel diagramma seguente:
 
 <img src="img/camion-trave-1.5.png" alt="camion-trave-1.5" style="zoom:80%;" />
 
@@ -325,9 +325,9 @@ Se la quantità richiesta non è stata trovata ed è rimasta incognita, chiamiam
 
 Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quale è il costo sostenuto?
 
-Nel testo si parla di "Fatturato" (la cui misura indichiamo con $R$), "Utile" (la cui misura indichiamo con $U$) e "Costo", che indichiamo con $C$. Il testo indica una relazione tra Fatturato ed Utile, che possiamo scrivere come $U = 20\% \cdot R$.
+Nel testo si parla di "Fatturato" (la cui misura indichiamo con $R$, ricavato), "Utile" (la cui misura indichiamo con $U$) e "Costo", che indichiamo con $C$. Il testo indica una relazione tra Fatturato ed Utile, che possiamo scrivere come $U = 20\% \cdot R$.
 
-Noi però sappiamo che c'è anche la relazione fondamentale tra $R$, $C$ ed $U$: $U = R - C$; il primo fatto ci consente di calcolare la misura dell'utile specifica pere questo problema mentre il secondo ci permette di impostare una espressione per l'utile generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
+Noi però sappiamo che c'è anche la relazione fondamentale tra $R$, $C$ ed $U$: $U = R - C$; il primo fatto ci consente di calcolare la misura dell'utile specifica per questo problema mentre il secondo ci permette di impostare una espressione per l'utile generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
 
 <img src="img/Fatturato-Utile-1_5.png" alt="Fatturato-Utile-1_5" style="zoom:80%;" />
 
@@ -353,7 +353,7 @@ Le due espressioni che misurano gli anni di Maria devono essere uguali, cioè va
 
 Una trave di cemento è i due terzi del camion che la trasporta e la lunghezza della trave è $18$ metri.
 
-La lunghezza del camion è incognita; se la chiamiamo $x$ abbiamo che la lunghezza della trave, si calcola con l'espressione $\dfrac{2}{3} \cdot x$. Ma la lunghezza della trave è anche una quantità nota, per cui abbiamo il diagramma seguente.
+La lunghezza del camion è incognita; se la chiamiamo $x$ abbiamo che la lunghezza della trave si calcola con l'espressione $\dfrac{2}{3} \cdot x$. Ma la lunghezza della trave è anche una quantità nota, per cui abbiamo il diagramma seguente.
 
 <img src="img/camion-trave-3.png" alt="camion-trave-3" style="zoom:80%;" />
 
@@ -591,7 +591,7 @@ Risolvi i seguenti problemi.
 a) In una fabbrica ci sono $2$ macchine, la prima produce $10$ pezzi all’ora, la seconda $7$ pezzi all’ora.
 Le due macchine hanno prodotto in tutto $191$ pezzi lavorando complessivamente $23$ ore. Determina il numero dei pezzi prodotti dall’una e dall’altra macchina.  
 
-b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\euro}\; 1300$. Poiché l’azienda aumenta la produzione, vengono assunti nuovi dipendenti pari al $14\%$ del personale e viene concesso un aumento di stipendio del $4\%$ a tutti. Se mensilmente l’azienda spende ora $231.192$ euro, quanti erano inizialmente i dipendenti? [R. $150$.
+b) I dipendenti di una azienda ricevono uno stipendio medio mensile di $\text{\euro}\; 1300$. Poiché l’azienda aumenta la produzione, vengono assunti nuovi dipendenti pari al $14\%$ del personale e viene concesso un aumento di stipendio del $4\%$ a tutti. Se mensilmente l’azienda spende ora $231.192$ euro, quanti erano inizialmente i dipendenti? [R. $150$].
 
 
 

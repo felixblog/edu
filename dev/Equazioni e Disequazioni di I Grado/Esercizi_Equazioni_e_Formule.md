@@ -106,7 +106,7 @@ c) $x = 1 - 3$.
 
 Il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro destro il suo opposto cioè $-3$. Questo succede sempre applicando in sequenza le regole della somma e della semplificazione, per questo è stata coniata la regola del trasporto, che è quella più spesso applicata.
 
-#### 
+
 
 ### REGOLA DELLA MOLTIPLICAZIONE/DIVISIONE
 
@@ -159,6 +159,44 @@ d) $17 = 5x$	Regola della moltiplicazione/divisione per $\dfrac{1}{5}$
 e) $\dfrac{1}{5} \cdot 17 = \dfrac{1}{5} \cdot 5x$	Regola della semplificazione
 
 f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.
+
+#### ESEMPIO 6
+
+A volte le equazioni presentano delle frazioni con un polinomio al numeratore come nel caso seguente:
+
+$\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3}$.
+
+Quello delle due frazioni a sinistra dell'$=$ è un modo di scrivere che equivale a $\dfrac{1}{3}(x+2) = \dfrac{x+2}{3}$, per cui l'equazione è equivalente a:
+
+a) $\dfrac{1}{3}(x+2) + \dfrac{1}{4}(x+3) = \dfrac{13}{3}$.
+
+Ci sono due modi di procedere per risolvere questa equazione. Il primo è moltiplicare tutto per il minimo comune multiplo di $3$ e $4$ cioè $12$, così i denominatori scompaiono e l'equazione ha solo numeri interi:
+
+b) $12 \cdot \dfrac{1}{3}(x+2) + 12 \cdot  \dfrac{1}{4}(x+3) = 12 \cdot  \dfrac{13}{3}$; 
+
+c) $4(x+2) + 3(x+3) = 4 \cdot 13$;
+
+d) $4x + 8 + 3x + 9 = 52$;
+
+e) $7x = 52 - 8 - 9$;
+
+f) $7x = 35$;
+
+g) $x = 5$.
+
+L'altro modo è eliminare le parentesi dall'equazione a) e procedere come sempre:
+
+b') $\dfrac{1}{3}x + \dfrac{2}{3} + \dfrac{1}{4}x + \dfrac{3}{4} = \dfrac{13}{3}$;
+
+c') $\dfrac{1}{3}x  + \dfrac{1}{4}x  = \dfrac{13}{3} - \dfrac{2}{3} - \dfrac{3}{4}$;
+
+d') $\dfrac{4}{12}x  + \dfrac{3}{12}x  = \dfrac{52}{12} - \dfrac{8}{12} - \dfrac{9}{12}$;
+
+e') $\dfrac{7}{12}x = \dfrac{35}{12}$;
+
+f') $\dfrac{12}{7} \cdot \dfrac{7}{12}x = \dfrac{12}{7} \cdot \dfrac{35}{12}$;
+
+g') $x = 5$.
 
 
 
@@ -243,7 +281,7 @@ b) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche ri
 
 
 
-## UNITA' 3: Equazioni letterali e formule
+## UNITA' 3: Equazioni letterali
 
 Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, l'incognita. Oltre a queste però si usano anche equazioni in cui compaiono altre lettere, oltre a quella che ha il ruolo di incognita, come ad esempio $1-ax=b$, dove l'incognita è $x$.
 
@@ -251,23 +289,23 @@ Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regol
 
 #### ESEMPIO 1
 
-Risolviamo l'equazione $1-ax=b$ considerando la lettera $x$ come incognita.
+Risolviamo l'equazione $1+ax=b$ considerando la lettera $x$ come incognita.
 
-a) $1-ax=b$;   Con la regola del trasporto portiamo $1$ a destra;
+a) $1+ax=b$;   Con la regola del trasporto portiamo $1$ a destra;
 
-b) $-ax=b-1$;   Con la regola della moltiplicazione/divisione dividiamo tutto per il coefficiente di $x$;
+b) $+ax=b-1$;   Con la regola della moltiplicazione/divisione dividiamo tutto per il coefficiente di $x$;
 
-c) $\dfrac{-ax}{-a}=\dfrac{b-1}{-a}$;  Semplificando
+c) $\dfrac{+ax}{+a}=\dfrac{b-1}{+a}$;  Semplificando
 
-d) $x = -\dfrac{b-1}{a}$.
+d) $x = \dfrac{b-1}{a}$.
 
 #### Laboratorio GEOGEBRA
 
 Per risolvere con GEOGEBRA l'istruzione è:
 
-$Risolvi(1-ax=b, x)$ &#9166;
+$Risolvi(1+ax=b, x)$ &#9166;
 
-$= \bigg\{ x = \dfrac{-b+1}{a}\bigg\}$
+$= \bigg\{ x = \dfrac{b+1}{a}\bigg\}$   $\bullet$
 
 
 
@@ -283,7 +321,7 @@ c) $1 - 2a = (a+b)x$;   Dividiamo entrambi i membri per il coefficiente dell'inc
 
 d) $\dfrac{1 - 2a}{a + b} = \dfrac{(a + b)x}{a + b}$;    Semplificando si ottiene la soluzione $\dfrac{1 - 2a}{a + b}$.
 
-e) $\dfrac{1 - 2a}{a + b} = x$  
+e) $\dfrac{1 - 2a}{a + b} = x$    $\bullet$
 
 
 
@@ -291,13 +329,13 @@ e) $\dfrac{1 - 2a}{a + b} = x$
 
 a) Risolvi le seguenti equazioni considerando la lettera $x$ come (unica) incognita.
 
-1. $ax = 2a;\enspace bx - 2 = 0;\enspace 2x = y;$
+1. $ax = 2a$;    $bx - 2 = 0$;    $2x = y$.
 
-2. $2a - 3x = 7a - 5x;\enspace b(x - 2) + b + 1 = 0;\enspace 2y = -\dfrac{1}{3}x;$
+2. $2a - 3x = 7a - 5x$;    $b(x - 2) + b + 1 = 0$;    $2y = -\dfrac{1}{3}x$.
 
-3. $2bx = 2b - 1;\enspace ax = ab;\enspace x + y = 1;$
+3. $2bx = 2b - 1$;    $ax = ab$;    $x + y = 1$.
 
-4. $6x - 3(x + 2a) = a + 4(x - 2a) ;\enspace b(x - 2) + b + 1 = 0;\enspace \dfrac{-2}{3}(x - y) + 3y = -x + 4;$
+4. $6x - 3(x + 2a) = a + 4(x - 2a)$;    $b(x - 2) + b + 1 = 0$;    $\dfrac{-2}{3}(x - y) + 3y = -x + 4$.
 
 b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata dimostrando che è la soluzione.
 
@@ -317,35 +355,141 @@ Controlla che la soluzione è corretta sostituendo all'incognita la soluzione tr
 
 
 
-### ESERCIZIO 3.2 - Formule e formule inverse
+## UNITA' 4: Equazioni e Formule
 
-Di seguito sono presentate alcune formule famose provenienti da discipline varie:
+Una formula è una uguaglianza tra due espressioni letterali dove le lettere rappresentano delle misure di quantità economiche, fisiche, geometriche o di altra natura. Vediamo alcuni esempi di formule famose ed importanti.
 
-1) Area di un rettangolo: $A = b \cdot h$;     Area di un triangolo: $A = \dfrac{b \cdot h}{2}$;
+#### Area del Rettangolo e del Triangolo
 
-2. Interesse semplice: $I = C\cdotp i\cdotp t$;      Montante: $M = C + I$;
-3. Sconto: $S = P_l - P_s$  ($P_l$: Prezzo di listino, $P_s$: Prezzo scontato);     Percentuale di Sconto: $s = \dfrac{S}{P_l}$;
-4. Profitto (Utile): $U = R - C$  ($R$: Ricavi, $C$: Costi);      Utile (in percentuale) sulle vendite: $m = \dfrac{U}{R}$:
-5. Mark-Up (assoluto): $M = P_{v} - C$  ($P_v$: Prezzo di vendita, $C$: Costo);     Mark-Up (percentuale) $q$: $P_v = C \cdotp (1 + q)$.
-6. Velocità: $v = \dfrac{s}{t}$.
+L'area di un rettangolo si calcola moltiplicando la base de rettangolo per l'altezza. Se indichiamo con $b$ la base, con $h$ l'altezza e con $A$ l'area abbiamo la formula: $A = b \cdot h$.
+
+L'area di un triangolo è simile: la base del triangolo deve essere moltiplicata per l'altezza ed il tutto diviso per due: $A = \dfrac{b \cdot h}{2}$.
+
+#### Esempio 1
+
+ $\bullet$
+
+
+
+#### Lo sconto dei saldi
+
+Durante i saldi di fine stagione i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il prezzo di listino e con $P_s$ il prezzo ribassato (scontato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
+$$
+P_s = P_l - S
+$$
+Lo sconto si misura in euro; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, che è il rapporto $ \dfrac{S}{P_l}$ scritto in percentuale. Questa percentuale, ad esempio il $30\%$  è la stessa per tanti prodotti; se la indichiamo con $s$ abbiamo la formula $s = \dfrac{S}{P_l}$. Da questa formula si trova che $S = sP_l$ e se sostituiamo questa nella formula del prezzo scontato otteniamo $P_s = P_l - sP_l$, ossia, mettendo in evidenza $P_l$:
+$$
+P_s = P_l(1 - s).
+$$
+
+#### Esempio 2
+
+ $\bullet$
+
+
+
+#### Peso lordo, tara e peso netto
+
+Tutte le volte che incontriamo un oggetto racchiuso in un contenitore, ad esempio di carta, cartone o altro, diciamo che il peso totale è la somma di quello dell'oggetto stesso e del contenitore. Questo peso totale è detto **peso lordo**, mentre il peso dell'oggetto SENZA contenitore è detto **peso netto**. Relativamente al peso, il contenitore è detto **tara**, per cui, se indichiamo con $L$ il peso lordo, $N$, il peso netto e $T$ il peso della tara abbiamo:
+$$
+L = N + T
+$$
+Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, o "al netto" per indicare l'assenza dell'accessorio, come nelle espressioni "retribuzione lorda" e "retribuzione netta", al lordo dell'IVA" o "al netto degli interessi". 
+
+#### Esempio 3
+
+ $\bullet$
+
+#### Ricavi, costi e margine
+
+Quando un soggetto rivende ad un prezzo di $R$ euro un prodotto che precedentemente aveva comprato a $C$ euro, diciamo che dalla operazione ottiene un **utile** di $R - C$ euro. Se indichiamo questo utile con $U$ possiamo scrivere:
+$$
+U = R - C
+$$
+Con $R$ abbiamo indicato il **ricavo** e con $C$ il **costo** di questa operazione; l'utile è anche detto **mark-up** dell'operazione.
+
+Spesso è utile calcolare anche l'utile di una operazione in percentuale sul suo costo; in questo caso $R - C$ è detto **mark-up assoluto** e $q = \dfrac{R - C}{C}$ è detto **mark-up percentuale**.
+
+
+
+#### Esempio 4
+
+ $\bullet$
+
+
+
+#### La formula dell'IVA 
+
+L'IVA (Imposta sul Valore Aggiunto) è una imposta che il consumatore paga quando acquista un prodotto. E' determinata da una percentuale del costo (IVA esclusa) del prodotto. In pratica, se indichiamo con $i$ la percentuale da applicare, l'importo in euro dell'IVA su un prodotto che, IVA esclusa, costa $C$ sarà $I = i \cdot C$.
+
+Il prezzo $P$ del prodotto, IVA inclusa, sarà allora $P = C + I$ ossia $P = C + i \cdot C$ e mettendo in evidenza $C$ abbiamo:
+$$
+P = C(1 + i)
+$$
+
+#### Esempio 5
+
+ $\bullet$
+
+
+
+####  La velocità
+
+La velocità misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge.
+
+Se osserviamo il movimento di una automobile su una strada e vediamo che questa percorre, in un certo tempo un certo spazio, ad esempio in $2$ ore percorre $100 \; Km$, possiamo dire che l'automobile ha una velocità di $\dfrac{100}{2} = 50 \; Km/h$​. 
+
+La velocità di un oggetto che si muove è quindi misurata dal rapporto tra la distanza che percorre ed il tempo impiegato a percorrerla.
+
+La formula generale della velocità dice che la velocità di un corpo in movimento (es. una macchina) è uguale al rapporto tra la distanza che la macchina percorre ed il tempo che impiega a percorrerlo:
+$$
+v = \dfrac{s}{t}
+$$
+
+#### ESEMPIO 6
+
+Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
+
+Dalla formula generale, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.   $\bullet$
+
+
+
+#### ESEMPIO 7
+
+Nel 2009 l’atleta giamaicano Usain Bolt ha corso i 100 metri piani in $9.58$ secondi. Quale è stata la sua velocità media in $Km/h$?
+
+Dalla formula otteniamo $v = \dfrac{s}{t}$, cioè $v = \dfrac{100}{9,58} \longrightarrow 10,44 \;m/s$. Per trasformarli in $Km/h$ al posto di $m$ sostituiamo $\dfrac{1}{1000}Km$ ed al posto di $s$ $\dfrac{1}{3600}h$, per cui $10,44 \;m/s \longrightarrow 10,44 \cdot \dfrac{\dfrac{1}{1000}}{\dfrac{1}{3600}} \longrightarrow 10,44 \cdot 3,6 = 37,584 \; Km/h$.   $\bullet$
+
+
+
+### ESERCIZIO 4.1 - Formule ed Equazioni Letterali I
+
+Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
+
+1. $M = C + I$,  incognita $C$;
+2. $A = b \cdot h$,  incognita $b$;
+3. $A = \dfrac{b \cdot h}{2}$, incognita $b$;    $A = \dfrac{b \cdot h}{2}$,  incognita $h$;
+4. $S = P_l - P_s, ~~~ incognita ~~ P_s;$
+5. $I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;       $I = C\cdotp i\cdotp t ,~~~ incognita ~~ C$;
+6. $v = \dfrac{s}{t}$,  incognita $s$.
+
+
+
+### ESERCIZIO 4.2 - Formule ed Equazioni Letterali II
 
 a) Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
 
-1. $M = C + I, ~~~ incognita ~~ C;$
-1. $A = b \cdot h, ~~~ incognita ~~ b$;
-3. $A = \dfrac{b \cdot h}{2}, ~~~ incognita ~~ b$;    $A = \dfrac{b \cdot h}{2},   ~~ incognita ~~ h$;
-2. $S = P_l - P_s, ~~~ incognita ~~ P_s;$
-2. $I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;       $I = C\cdotp i\cdotp t ,~~~ incognita ~~ C$;
-3. $\dfrac{P_l - P_s}{P_l}= s ~~~ incognita ~~ P_s;$
-3. $\dfrac{P_l - P_s}{P_l}= s ~~~ incognita ~~ P_l $;
-4. $P_v = C \cdotp (1 + q) ~~~ incognita ~~ C;$
-4. $P_v = C \cdotp (1 + q) ~~~ incognita ~~ q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_v - C}{C}$). 
+1. $v = \dfrac{s}{t}$,  incognita $t$;
+2. $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_s$;
+3. $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_l$;
+4. $P_v = C \cdotp (1 + q)$, incognita $C$;
+5. $P_v = C \cdotp (1 + q)$; incognita $q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_v - C}{C}$). 
 
 b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
-1. $3x + y = 9, ~~~ incognita ~~ y; \enspace\enspace 5y - x = 25, ~~~ incognita ~~ y$
+1. $3x + y = 9$, incognita $y$;  $5y - x = 25$, incognita $y$;
 
-2. $-x + 3y = 9. ~~~ incognita ~~ y; \enspace\enspace \dfrac{7}{8}c + w = 9, ~~~ incognita ~~ c$
+2. $-x + 3y = 9$. incognita $y$;   $\dfrac{7}{8}c + w = 9$, incognita $c$
 
 #### Laboratorio GEOGEBRA
 
@@ -356,21 +500,27 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 
 
 
-### ESERCIZIO 3.3 - Applicazione di formule
+### ESERCIZIO 4.3 - Applicazione di formule
 
 Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico. 
 
 a) Nel 2006 il film Titanic ha avuto un incasso mondiale di 1835 milioni di dollari con un profitto di 1595 milioni. Quanto è costato il film?
 
-b) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a 12.95 euro e le rivende a 47.50.  
+b) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a 12.95 euro e le rivende a 47.50. 
 
 c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà a percorrere 166 Km?  
 
 d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 2100 Km quale è la velocità media dell'aereo?
 
+e) Un gruppo di persone guarda dei fuochi di artificio in lontananza. Vede le luci colorate e dopo circa tre secondi sente il rumore. Se la velocità del suono è di circa $330$ metri al secondo, quanto è distante il gruppo dal punto di esplosione dei fuochi?
 
 
-## UNITA' 4: Diseguaglianze ed intervalli
+
+## UNITA' 5: Inversione delle Formule
+
+
+
+## UNITA' 6: Diseguaglianze ed intervalli
 
 La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $1+2 \lt 5 \longrightarrow True$ . Osserviamo che $1+2 \lt 3 \longrightarrow False$ .
 
@@ -394,7 +544,7 @@ Nella simbologia grafica usata da GEOGEBRA, ogni estremo del segmento è un punt
 
 
 
-### ESERCIZIO 4.1 - Disuguaglianze e disequazioni
+### ESERCIZIO 6.1 - Disuguaglianze e disequazioni
 
 a) Indicare quali delle seguenti disuguaglianze sono vere e quali false.  
 
@@ -411,7 +561,7 @@ b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
 1.  $x + 1 \gt 0; x + 3 \le 4$;
 2.  $2x-1 \lt 6; x^2 + 2x -1 \ge 0$; 
 
-### ESERCIZIO 4.2 - Soluzione di Disequazioni I
+### ESERCIZIO 6.2 - Soluzione di Disequazioni I
 
 a) Nei casi riportati di seguito, determina quali tra i valori indicati nell'insieme è soluzione della disequazione associata.
 
@@ -432,7 +582,7 @@ a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di coman
 
 
 
-### ESERCIZIO 4.3 - Intervalli e disequazioni elementari
+### ESERCIZIO 6.3 - Intervalli e disequazioni elementari
 
 a) In ciascuno dei casi riportati di seguito determina se il numero indicato appartiene all'intervallo associato.
 
@@ -474,9 +624,9 @@ b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA ana
 
 
 
-## UNITA' 5: Disequazioni di I grado con una incognita
+## UNITA' 7: Disequazioni di I grado con una incognita
 
-### ESERCIZIO 5.1 - Soluzione di Disequazioni II
+### ESERCIZIO 7.1 - Soluzione di Disequazioni II
 
 a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
 

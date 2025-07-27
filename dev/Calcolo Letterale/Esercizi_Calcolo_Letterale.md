@@ -514,7 +514,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 7: Fattorizzazione di Polinomi e Semplificazione di Frazioni Algebriche
+## UNITA' 7: Evidenza di Fattori nei Polinomi e Semplificazione di Frazioni Algebriche
 
 Nei capitoli precedenti abbiamo visto come si calcola il prodotto tra un polinomio ed un monomio ed il prodotto tra due polinomi. Ora vediamo se e come si può effettuare l'operazione inversa: scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche ***fattorizzazione di un polinomio***, perché ha l'obiettivo di scrivere un polinomio come prodotto di due o più fattori.
 
