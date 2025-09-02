@@ -1,5 +1,5 @@
 
-# Equazioni e Disequazioni di I Grado
+# Equazioni di I Grado
 
 ## UNITA' 1: Concetto di equazione e sue soluzioni
 
@@ -281,7 +281,189 @@ b) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche ri
 
 
 
-## UNITA' 3: Equazioni letterali
+## UNITA' 4: Equazioni e Formule I
+
+Una formula è una uguaglianza tra due espressioni letterali dove le lettere rappresentano delle misure di quantità economiche, fisiche, geometriche o di altra natura. Vediamo alcuni esempi di formule famose ed importanti.
+
+#### Area del Rettangolo e del Triangolo
+
+L'area di un rettangolo si calcola moltiplicando la base del rettangolo per l'altezza. Se indichiamo con $b$ la lunghezza della base, con $h$ l'altezza e con $A$ la misura dell'area abbiamo la formula dell'area del rettangolo: $A = b \cdot h$.
+
+L'area di un triangolo è simile: la base del triangolo deve essere moltiplicata per l'altezza ed il tutto diviso per due: $A = \dfrac{b \cdot h}{2}$.
+
+#### Esempio 1
+
+Un imbianchino ordina vernice bianca per dipingere una parete che ha una superficie di $11,2\; m^2$. La parete è lunga $4$ metri: quanto è alta?
+
+Sostituendo alle lettere della formula dell'area del rettangolo i dati del problema, abbiamo l'equazione $11,2 = 4 \cdot h$, dove l'incognita è $h$. La soluzione è $h = \dfrac{11,2}{4} \longrightarrow 2,8$ metri.   $\bullet$ 
+
+
+
+#### Lo sconto ai saldi
+
+Durante i saldi di fine stagione, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
+$$
+P_s = P_l - S
+$$
+Lo sconto si misura in euro ed ogni articolo in sconto avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, che è il rapporto $ \dfrac{S}{P_l}$ scritto in percentuale. Questa percentuale, ad esempio il $30\%$  è la stessa per tanti prodotti in saldo o in svendita; se la indichiamo con $s$ abbiamo la formula $s = \dfrac{S}{P_l}$. Da questa formula si trova che $S = s \cdot P_l$ è la formula che ci permette di calcolare lo sconto su ciascun prodotto a partire dalla percentuale di sconto applicata a tutti gli articoli in saldo della stessa categoria.
+
+Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_s = P_l - sP_l$, ossia, mettendo in evidenza $P_l$:
+$$
+P_s = P_l(1 - s).
+$$
+
+#### Esempio 2
+
+Una maglietta è in saldo al $40 \%$. Se costava $\text{35}$ euro, quanto costa scontata?
+
+Sostituendo nella formula precedente alle lettere  i numeri, abbiamo $P_l= 35$, $s = 0.4$ e quindi
+$$
+P_s = 35(1-0.4) \longrightarrow 35 \cdot 0.6 \longrightarrow 21\; \text{euro} \;\;\bullet
+$$
+
+
+#### Peso lordo, tara e peso netto
+
+Tutte le volte che incontriamo un oggetto racchiuso in un contenitore, ad esempio di carta, cartone o altro, diciamo che il peso totale è la somma di quello dell'oggetto stesso e del contenitore. Questo peso totale è detto **peso lordo**, mentre il peso dell'oggetto SENZA contenitore è detto **peso netto**. Il peso del contenitore è detto **tara**, per cui, se indichiamo con $L$ il peso lordo, $N$, il peso netto e $T$ la tara abbiamo:
+$$
+L = N + T
+$$
+Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, o "al netto" per indicare l'assenza dell'accessorio, come nelle espressioni "retribuzione lorda" e "retribuzione netta", costo di un articolo "al lordo dell'IVA" o prestito "al netto degli interessi" o "al lordo degli interessi". 
+
+#### Esempio 3
+
+Un lavoratore dipendente ha una retribuzione netta che è circa il $50 \%$ del lordo in busta paga. Quale è il "peso" di tasse ed altri contributi? 
+
+Abbiamo che $N = 0.5 \cdot L$, per cui sostituendo nella formula: $L= 0.5L + T$. Risolvendo rispetto a $T$ abbiamo che $T = L - 0.5L$, cioè $T = 0.5L$: le tasse pesano per la metà della retribuzione lorda.  $\bullet$
+
+
+
+#### Ricavi, costi e margine
+
+Quando un soggetto rivende ad un prezzo di $R$ euro un prodotto che precedentemente aveva comprato a $C$ euro, se $R$ è maggiore di $C$, diciamo che dalla operazione ottiene un **margine** o **utile** di $R - C$ euro. Se indichiamo questo utile con $U$ possiamo scrivere:
+$$
+U = R - C
+$$
+Con $R$ abbiamo indicato il **ricavo** e con $C$ il **costo** di questa operazione; il margine è anche detto **mark-up** dell'operazione.
+
+Spesso è conveniente anche calcolare il margine di una operazione in percentuale sul costo $C$ dell'operazione stessa; in questo caso $R - C$ è detto **mark-up assoluto** e $q = \dfrac{R - C}{C}$ è detto **mark-up percentuale**.
+
+
+
+#### Esempio 4
+
+Un commerciante pensa di acquistare un lotto di $20$ magliette del costo a lui di $15$ euro l'una. Che ricavo dovrà avere dalla loro vendita perché questa operazione abbia un utile dl almeno $100$ euro? Quale dovrà essere il prezzo di ogni maglietta? Quale sarà il mark-up in percentuale?
+
+Il costo totale $C$ è pari a $300$ euro; se $U= 100$, sostituendo nella formula $100 = R - 300$ da cui risolvendo $R = 400$ euro. Ogni maglietta dovrà avere un prezzo di $20$ euro ed il mark-up è
+$$
+q = \dfrac{U}{C} \longrightarrow \dfrac{100}{300} \approx 33.3 \% \;\; \bullet
+$$
+
+
+#### La formula dell'IVA 
+
+L'IVA (Imposta sul Valore Aggiunto) è una imposta che il consumatore paga quando acquista un prodotto. Si calcola applicando una percentuale, l'**aliquota IVA**, al costo, IVA esclusa, del prodotto. In pratica, se indichiamo con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ su un prodotto che costa $C$ sarà $I = a \cdot C$.
+
+Il prezzo $P$ del prodotto IVA inclusa, sarà allora $P = C + I$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, diventa:
+$$
+P = C(1 + a)
+$$
+
+#### Esempio 5
+
+Qual è il costo, iva esclusa, di un articolo che ha un prezzo di $170$ euro e sul quale si applica una aliquota IVA del $22 \%$?
+
+Sostituendo $P = 170$ ed $a = 0.22$ nella formula e risolvendo si ha:
+$$
+170 = C(1+0.22) \longrightarrow C = \dfrac{170}{1.22} \approx 139.34  \;\; \bullet
+$$
+
+
+### ESERCIZIO 4.1 - Applicazioni delle formule su ricavi, costi ecc.
+
+Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico, e risolvendo l'equazione risultante.
+
+a) Nel 2006 il film Titanic ha avuto un incasso mondiale di $\text{1.835}$ milioni di dollari con un profitto di $\text{1.595}$ milioni. Quanto è costato il film?
+
+b) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a $\text{12.95}$ euro e le rivende a $\text{47.50}$. 
+
+
+
+## UNITA' 5: Equazioni e Formule II
+
+####  La velocità
+
+La velocità misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge. Il primo processo che esaminiamo è il movimento di un oggetto e la sua **velocità**.
+
+Se osserviamo il movimento di una automobile su una strada e vediamo che per percorrere, ad esempio, $100 \; Km$, impiega un certo tempo, ad esempio $2$ ore, possiamo dire che l'automobile ha una velocità di $\dfrac{100}{2} = 50 \; Km/h$. 
+
+La velocità (di movimento) di un oggetto è quindi misurata dal rapporto tra la distanza che percorre ed il tempo impiegato a percorrerla. Se indichiamo con $s$ la distanza che percorre e con $t$ la durata del moto, la $v$ velocità è:
+
+$$
+v = \dfrac{s}{t}
+$$
+
+#### ESEMPIO 1
+
+Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
+
+Dalla formula generale, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.   $\bullet$
+
+
+
+#### ESEMPIO 2
+
+Nel 2009 l’atleta giamaicano Usain Bolt ha corso i 100 metri piani in $9.58$ secondi. Quale è stata la sua velocità media in $Km/h$?
+
+Dalla formula otteniamo $v = \dfrac{s}{t}$, cioè $v = \dfrac{100}{9,58} \longrightarrow 10,44 \;m/s$. Per trasformarli in $Km/h$ al posto di $m$ sostituiamo $\dfrac{1}{1000}Km$ ed al posto di $s$ $\dfrac{1}{3600}h$, per cui $10,44 \;m/s \longrightarrow 10,44 \cdot \dfrac{\dfrac{1}{1000}}{\dfrac{1}{3600}} \longrightarrow 10,44 \cdot 3,6 = 37,584 \; Km/h$.   $\bullet$
+
+
+
+La velocità non riguarda solo il movimento ma molti altri processi, ad esempio la stampa di documento, ed allora abbiamo la **velocità di stampa** che misuriamo in pagine al minuto, o la produzione, ed allora abbiamo la **velocità di produzione**, e così via.   
+
+#### ESEMPIO 3
+
+Per stampare un documento di $120$ pagine una stampante impiega $12$ minuti. Quale è la sua velocità?
+
+Dalla formula della velocità $v = \dfrac{s}{t}$ abbiamo che $s = 120$ e $t = 12$ per cui $v = \dfrac{120}{12} \longrightarrow 10$ pagine al minuto.   $\bullet$
+
+
+
+#### Il consumo di risorse
+
+Un altro aspetto della velocità è la rapidità con cui si consumano delle risorse. Consideriamo, ad esempio, un fumatore che fuma $\text{10}$ sigarette al giorno: questa è la velocità (al giorno) con cui questa persona consuma le sigarette. Per fare un altro esempio, una famiglia che consuma $\text{12}$ cucchiai di olio al giorno, consumerà una bottiglia di olio in un certo numero di giorni.
+
+Se indichiamo con $s$ la quantità di risorse disponibili che vengono esaurite in un tempo $t$, la velocità $v$ di consumo è data da $v = \dfrac{s}{t}$. Vediamo alcuni esempi.
+
+#### ESEMPIO 4
+
+Un cucchiaio di olio equivale a circa $15$ millilitri, che è anche equivalente a $3$ cucchiaini. Se una famiglia consuma $12$ cucchiai di olio al giorno, quanti giorni durerà una bottiglia d'olio da un litro?
+
+In un litro ci sono $s = 1000$ millilitri di olio e la famiglia consuma $12 \cdot 15 = 180$ millilitri di olio al giorno. Se indichiamo con $t$ la durata della bottiglia e con $v$ la rapidità di consumo, dalla formula $v = \dfrac{s}{t}$ abbiamo la seguente equazione: 
+$$
+180 = \dfrac{1000}{t} \longrightarrow t = \dfrac{1000}{180} \approx 5.5 \;\text{giorni} \;\;\bullet
+$$
+
+
+
+
+### ESERCIZIO 5.1 - Applicazioni delle formule sulla velocità ed i consumi
+
+a) Se una mongolfiera viaggia ad una media di $\text{37 Km/h}$, quanto tempo impiegherà a percorrere $\text{166 Km}$? 
+
+b) Un aereo vola tra Chicago e S. Francisco in $\text{3.75}$ ore. Se le città distano $\text{2.100 Km}$ quale è la velocità media dell'aereo?
+
+c) La stazione di Latina si trova sulla linea ferroviaria Roma - Napoli e dista $\text{55 Km}$ da Roma e $\text{155 Km}$ da Napoli. Se un treno parte da Napoli alle $\text{9:30}$ ed arriva a Latina alle $\text{10:00}$, quando possiamo prevedere che arriverà a Roma?
+
+d) Un gruppo di persone guarda dei fuochi di artificio in lontananza. Vede le luci colorate dei fuochi e dopo circa tre secondi sente il rumore. Se la velocità del suono è di circa $\text{330}$ metri al secondo, quanto è distante il gruppo dal punto di esplosione?
+
+e) Una famiglia beve il caffè due volte al giorno ed ogni volta che fa il caffè mette nella caffettiera $\text{4}$ cucchiaini di caffè macinato. Se un cucchiaino contiene $\text{4}$ grammi di caffè, in quanti giorni la famiglia consumerà una confezione da mezzo chilo di caffè? 
+
+f) Una persona fuma ogni giorno circa $\text{15}$ sigarette. Considerato che un pacchetto contiene $\text{20}$ sigarette ed una stecca contiene $\text{10}$ pacchetti, quanti giorni sono necessari per consumare una stecca di sigarette?
+
+
+
+## UNITA' 6: Equazioni letterali
 
 Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, l'incognita. Oltre a queste però si usano anche equazioni in cui compaiono altre lettere, oltre a quella che ha il ruolo di incognita, come ad esempio $1-ax=b$, dove l'incognita è $x$.
 
@@ -325,7 +507,7 @@ e) $\dfrac{1 - 2a}{a + b} = x$    $\bullet$
 
 
 
-### ESERCIZIO 3.1 - Equazioni letterali
+### ESERCIZIO 6.1 - Equazioni letterali
 
 a) Risolvi le seguenti equazioni considerando la lettera $x$ come (unica) incognita.
 
@@ -355,118 +537,27 @@ Controlla che la soluzione è corretta sostituendo all'incognita la soluzione tr
 
 
 
-## UNITA' 4: Equazioni e Formule
+## UNITA' 7: Le Formule Inverse
 
-Una formula è una uguaglianza tra due espressioni letterali dove le lettere rappresentano delle misure di quantità economiche, fisiche, geometriche o di altra natura. Vediamo alcuni esempi di formule famose ed importanti.
+Nell'unità precedente abbiamo presentato diverse formule di uso comune per il calcolo dell'IVA, del margine economico di una operazione ecc. Abbiamo anche visto come queste formule possono essere utilizzate per risolvere semplici problemi numerici impostando e risolvendo una equazione.
 
-#### Area del Rettangolo e del Triangolo
+Ci sono situazioni in cui è conveniente risolvere le stesse formule come equazioni letterali, in cui una delle lettere è l'incognita. L'equazione elementare risultante dalla soluzione dell'equazione letterale è detta **formula inversa**.
 
-L'area di un rettangolo si calcola moltiplicando la base de rettangolo per l'altezza. Se indichiamo con $b$ la base, con $h$ l'altezza e con $A$ l'area abbiamo la formula: $A = b \cdot h$.
+#### ESEMPIO 1
 
-L'area di un triangolo è simile: la base del triangolo deve essere moltiplicata per l'altezza ed il tutto diviso per due: $A = \dfrac{b \cdot h}{2}$.
+A partire dalla formula dell'IVA $P = C(1 + a)$, trovare quanto vale il costo $C$ di un articolo IVA esclusa.
 
-#### Esempio 1
-
- $\bullet$
-
-
-
-#### Lo sconto dei saldi
-
-Durante i saldi di fine stagione i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il prezzo di listino e con $P_s$ il prezzo ribassato (scontato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
+Risolvendo l'equazione rispetto all'incognita $C$ abbiamo $\dfrac{P}{1+a} = C$, per cui abbiamo la formula inversa
 $$
-P_s = P_l - S
-$$
-Lo sconto si misura in euro; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, che è il rapporto $ \dfrac{S}{P_l}$ scritto in percentuale. Questa percentuale, ad esempio il $30\%$  è la stessa per tanti prodotti; se la indichiamo con $s$ abbiamo la formula $s = \dfrac{S}{P_l}$. Da questa formula si trova che $S = sP_l$ e se sostituiamo questa nella formula del prezzo scontato otteniamo $P_s = P_l - sP_l$, ossia, mettendo in evidenza $P_l$:
-$$
-P_s = P_l(1 - s).
+C = \dfrac{P}{1+a}
 $$
 
-#### Esempio 2
 
- $\bullet$
-
-
-
-#### Peso lordo, tara e peso netto
-
-Tutte le volte che incontriamo un oggetto racchiuso in un contenitore, ad esempio di carta, cartone o altro, diciamo che il peso totale è la somma di quello dell'oggetto stesso e del contenitore. Questo peso totale è detto **peso lordo**, mentre il peso dell'oggetto SENZA contenitore è detto **peso netto**. Relativamente al peso, il contenitore è detto **tara**, per cui, se indichiamo con $L$ il peso lordo, $N$, il peso netto e $T$ il peso della tara abbiamo:
-$$
-L = N + T
-$$
-Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, o "al netto" per indicare l'assenza dell'accessorio, come nelle espressioni "retribuzione lorda" e "retribuzione netta", al lordo dell'IVA" o "al netto degli interessi". 
-
-#### Esempio 3
-
- $\bullet$
-
-#### Ricavi, costi e margine
-
-Quando un soggetto rivende ad un prezzo di $R$ euro un prodotto che precedentemente aveva comprato a $C$ euro, diciamo che dalla operazione ottiene un **utile** di $R - C$ euro. Se indichiamo questo utile con $U$ possiamo scrivere:
-$$
-U = R - C
-$$
-Con $R$ abbiamo indicato il **ricavo** e con $C$ il **costo** di questa operazione; l'utile è anche detto **mark-up** dell'operazione.
-
-Spesso è utile calcolare anche l'utile di una operazione in percentuale sul suo costo; in questo caso $R - C$ è detto **mark-up assoluto** e $q = \dfrac{R - C}{C}$ è detto **mark-up percentuale**.
-
-
-
-#### Esempio 4
-
- $\bullet$
-
-
-
-#### La formula dell'IVA 
-
-L'IVA (Imposta sul Valore Aggiunto) è una imposta che il consumatore paga quando acquista un prodotto. E' determinata da una percentuale del costo (IVA esclusa) del prodotto. In pratica, se indichiamo con $i$ la percentuale da applicare, l'importo in euro dell'IVA su un prodotto che, IVA esclusa, costa $C$ sarà $I = i \cdot C$.
-
-Il prezzo $P$ del prodotto, IVA inclusa, sarà allora $P = C + I$ ossia $P = C + i \cdot C$ e mettendo in evidenza $C$ abbiamo:
-$$
-P = C(1 + i)
-$$
-
-#### Esempio 5
-
- $\bullet$
-
-
-
-####  La velocità
-
-La velocità misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge.
-
-Se osserviamo il movimento di una automobile su una strada e vediamo che questa percorre, in un certo tempo un certo spazio, ad esempio in $2$ ore percorre $100 \; Km$, possiamo dire che l'automobile ha una velocità di $\dfrac{100}{2} = 50 \; Km/h$​. 
-
-La velocità di un oggetto che si muove è quindi misurata dal rapporto tra la distanza che percorre ed il tempo impiegato a percorrerla.
-
-La formula generale della velocità dice che la velocità di un corpo in movimento (es. una macchina) è uguale al rapporto tra la distanza che la macchina percorre ed il tempo che impiega a percorrerlo:
-$$
-v = \dfrac{s}{t}
-$$
-
-#### ESEMPIO 6
-
-Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
-
-Dalla formula generale, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.   $\bullet$
-
-
-
-#### ESEMPIO 7
-
-Nel 2009 l’atleta giamaicano Usain Bolt ha corso i 100 metri piani in $9.58$ secondi. Quale è stata la sua velocità media in $Km/h$?
-
-Dalla formula otteniamo $v = \dfrac{s}{t}$, cioè $v = \dfrac{100}{9,58} \longrightarrow 10,44 \;m/s$. Per trasformarli in $Km/h$ al posto di $m$ sostituiamo $\dfrac{1}{1000}Km$ ed al posto di $s$ $\dfrac{1}{3600}h$, per cui $10,44 \;m/s \longrightarrow 10,44 \cdot \dfrac{\dfrac{1}{1000}}{\dfrac{1}{3600}} \longrightarrow 10,44 \cdot 3,6 = 37,584 \; Km/h$.   $\bullet$
-
-
-
-### ESERCIZIO 4.1 - Formule ed Equazioni Letterali I
+### ESERCIZIO 7.1 - Formule inverse I
 
 Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
 
-1. $M = C + I$,  incognita $C$;
+1. $M = C + I$,  incognita $C$;
 2. $A = b \cdot h$,  incognita $b$;
 3. $A = \dfrac{b \cdot h}{2}$, incognita $b$;    $A = \dfrac{b \cdot h}{2}$,  incognita $h$;
 4. $S = P_l - P_s, ~~~ incognita ~~ P_s;$
@@ -475,13 +566,13 @@ Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna 
 
 
 
-### ESERCIZIO 4.2 - Formule ed Equazioni Letterali II
+### ESERCIZIO 7.2 - Formule inverse II
 
 a) Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
 
-1. $v = \dfrac{s}{t}$,  incognita $t$;
-2. $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_s$;
-3. $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_l$;
+1. $v = \dfrac{s}{t}$,  incognita $t$;
+2. $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_s$;
+3. $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_l$;
 4. $P_v = C \cdotp (1 + q)$, incognita $C$;
 5. $P_v = C \cdotp (1 + q)$; incognita $q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_v - C}{C}$). 
 
@@ -499,139 +590,4 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 2. $Risolvi(eq1, P_{l})$ &#9166; 
 
 
-
-### ESERCIZIO 4.3 - Applicazione di formule
-
-Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico. 
-
-a) Nel 2006 il film Titanic ha avuto un incasso mondiale di 1835 milioni di dollari con un profitto di 1595 milioni. Quanto è costato il film?
-
-b) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a 12.95 euro e le rivende a 47.50. 
-
-c) Se una mongolfiera viaggia ad una media di 37 Km/h, quanto tempo impiegherà a percorrere 166 Km?  
-
-d) Un aereo vola tra Chicago e S. Francisco in 3.75 ore. Se le città distano 2100 Km quale è la velocità media dell'aereo?
-
-e) Un gruppo di persone guarda dei fuochi di artificio in lontananza. Vede le luci colorate e dopo circa tre secondi sente il rumore. Se la velocità del suono è di circa $330$ metri al secondo, quanto è distante il gruppo dal punto di esplosione dei fuochi?
-
-
-
-## UNITA' 5: Inversione delle Formule
-
-
-
-## UNITA' 6: Diseguaglianze ed intervalli
-
-La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $1+2 \lt 5 \longrightarrow True$ . Osserviamo che $1+2 \lt 3 \longrightarrow False$ .
-
-I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow True$  e  $3 \le 3 \longrightarrow True$​ .
-
-Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per se non è ne vera ne falsa in quanto non contiene solo numeri, ma è importante perché con essa possiamo porci un problema , che è quello di trova i numeri che sostituiti alla lettera $x$​ rendono la relazione vera.
-
-La scrittura $x \lt -2$ si chiama "disequazione" ed i numeri che la rendono vera si chiamano "soluzioni" della disequazione. Come si vede, le soluzioni della disequazione sono tutti i numeri che sono minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
-
-Per indicare questo insieme si utilizza anche un'altra notazione, detta "**intervallo**": $(-\infty, -2)$; in questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo indicare anche $-2$ scriviamo $(-\infty, -2]$.
-
-Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via.
-
-Gli intervalli si possono rappresentare anche graficamente su una retta. Il grafico dell'intervallo $[0,3]$ è:
-
-<img src="img\diseq-0-3.png" alt="diseq-0-3" style="zoom:75%;" />
-
-Nella simbologia grafica usata da GEOGEBRA, ogni estremo del segmento è un puntino pieno, se il numero fa parte dell'intervallo, mentre è vuoto se non vi fa parte, come nell'esempio seguente dove è rappresentato l'intervallo $(3, 5]$.
-
-<img src="img/diseq-3-5.png" alt="diseq-3-5" style="zoom:75%;" />
-
-
-
-### ESERCIZIO 6.1 - Disuguaglianze e disequazioni
-
-a) Indicare quali delle seguenti disuguaglianze sono vere e quali false.  
-
-1. $9 - 2 \lt 3$;
-2. $5+8 \gt 19$;
-3. $5 \cdot 2 \le 5 \cdot 7$;
-4. $4 \cdot 8 \gt  2 \cdot 16$;
-5. $8-2 \lt 14$;
-6. $x + 1 \gt 0$;
-7. $6 + 4 \le 10$
-
-b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
-
-1.  $x + 1 \gt 0; x + 3 \le 4$;
-2.  $2x-1 \lt 6; x^2 + 2x -1 \ge 0$; 
-
-### ESERCIZIO 6.2 - Soluzione di Disequazioni I
-
-a) Nei casi riportati di seguito, determina quali tra i valori indicati nell'insieme è soluzione della disequazione associata.
-
-1. $\{0, 1, -1\}: x-2<6;$   $\{0, 3\}: 2x-1<3$;
-2. $\{0, 5, 7\}: 3(x-5) - 6 < 0$;   $\{0, 5, 7\}: 5x - (6-x) \ge 0$;
-
-b) Scrivi la disequazione corrispondente alle frasi riportate di seguito.
-
-1. Insieme dei numeri minori o uguali ad 1; Insieme dei numeri non maggiori di 2;
-2. Insieme dei numeri il cui doppio è minore di 3; Insieme dei numeri non maggiori di $-\dfrac{4}{13}$.
-
-#### Laboratorio GEOGEBRA
-
-a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
-
-1. $d1(x) : x - 2 < 6$ &#9166; 
-2. $\{d1(0), d1(1), d1(-1)\}$ &#9166;
-
-
-
-### ESERCIZIO 6.3 - Intervalli e disequazioni elementari
-
-a) In ciascuno dei casi riportati di seguito determina se il numero indicato appartiene all'intervallo associato.
-
-1. $2\in [0; 3]$;   $\dfrac{1}{3} \in (-2; 2]$;   $2, \in [0; 3]$;   $\dfrac{2}{5}, \in (\dfrac{2}{5}; 1)$;   
-2. $-1, \in [-3; -2]$;   $-4, \in [-4; 0)$;   $0, \in (0; 1]$.
-
-b) Rappresenta graficamente su una retta gli intervalli riportati di seguito.
-
-1. $(0;1)$;   $[-1;1]$;   $(1;+\infty)$;   $(-\infty;5)$;   $(0;1)$;   
-2. $[-1;0)$;   $[-3;+\infty)$;   $(-\infty; +\infty)$;   $(2;\dfrac{33}{5}])$;   $[\dfrac{1}{2};3)$.
-3. $(-1;3) \cap (-2;0)$;   $(-1;3) \cup (-2;0)$;
-4. $(1;5) \cap (5;7)$;   $(1;5) \cup (5;7)$;
-5. $(3;+\infty) \cap [3;7]$;   $(3;+\infty) \cup [3;7]$;
-6. $[0;\dfrac{3}{2}) \cap (-\dfrac{4}{5};0]$;   $[0;\dfrac{3}{2}) \cup (-\dfrac{4}{5};0]$.
-
-c) Per ciascuno dei casi seguenti, scrivi la disequazione (elementare) o il sistema di disequazioni che ha come soluzioni l'intervallo indicato.
-
-1.  $(-\infty;-5)$;   $[1;+\infty)$;   $(1;+\infty)$;   $(-\infty;-\dfrac{50}{11})$;   $(-3;+\infty)$;
-2.  $[0; 3]$;   $(-2; 2]$;   $(2; \dfrac{33}{5}]$;   $(\dfrac{2}{5}; 1)$;
-3.  Gli intervalli dei punti b.3) e b.4).
-
-#### Laboratorio GEOGEBRA
-
-Per il presente laboratorio, utilizzare la versione on-line di GEOGEBRA Classic all'indirizzo: https://www.geogebra.org/classic.
-
-a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
-
-1. $a : 0 \le x \and x \le 3$ &#9166; 
-2. $a(2)$ &#9166;
-
-Per rappresenta graficamente l'intervallo:
-
-1. Dal "Menu Principale" seleziona "Cambia Calcolatrice" / "Grafici";
-2. Dal menu della casella di input, seleziona "Impostazioni" e quindi dalla scheda "Stile" seleziona "Mostra sull'asse X".
-
-<img src="img\diseq-0-3.png" alt="diseq-0-3" style="zoom:25%;" />
-
-b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($b, c$, etc.).
-
-
-
-## UNITA' 7: Disequazioni di I grado con una incognita
-
-### ESERCIZIO 7.1 - Soluzione di Disequazioni II
-
-a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
-
-1. $x-1\ge 2$;   $7x-1\ge 2$;   $-x-1\le 2$;   $\dfrac{x}{5}-1\ge 2$;
-2. $4x - 3 > 5x + 1$;   $4[2(1 - x) -3] > 5x + 1$;    $5(x-1) < 2(x-3)$;
-3. $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;   $3(x-1)-1 < \dfrac{x-2}{3} - \left(x-\dfrac{x-1}{3}\right)$;
-4. $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;   $2x-5\lt 3+2x$;   $2(x+1) - 5x\ge 3x + 4(x+1)$.
 
