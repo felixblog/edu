@@ -278,13 +278,13 @@ a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2
 
 ### ESERCIZIO 3.2 - Espressioni letterali
 
-a) Individua quanti e quali monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
+a) Individua **quanti e quali** monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
 1. $a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$; 
 2. $\left(-2x\right)\left(-\dfrac{1}{2}y\right)+\left(-2y\right)x+xy+y\left(-x\right)+2xy+y\left(-x\right)$;
 3. $x^{2}+7x^{2}-2\left(-x^{2}\right)+2\left(-4\right)x^{2}+2x^{2}-2x^{2}+x^{2}-x\left(2x\right)+4x^{2}-2\left(2x^{2}\right)$.
 
-b) Individua quanti e quali monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
+b) Individua **quanti e quali** monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
 1.  $ab\left(-\dfrac{1}{2}\right)a^{2} \cdot \dfrac{2}{5a^2}\dfrac{3}{b}$;
 2.  $abcde \cdot \dfrac{5}{ace}$;
@@ -333,7 +333,7 @@ L'espressione letterale $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2}$ è una somma 
 
 
 
-Il grado di un polinomio coincide con quello del monomio di grado massimo, per cui il grado del monomio dell'esempio precedente è $4$. Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $-2x + 1$, $6x^5 -\dfrac{2}{3}x^3 + 2x$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
+Il grado di un polinomio coincide con quello del suo monomio di grado massimo, per cui il grado del monomio dell'esempio precedente è $4$. Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $-2x + 1$, $6x^5 -\dfrac{2}{3}x^3 + 2x$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
 
 Da ultimo osserviamo che anche un singolo monomio si considera un caso particolare di polinomio.
 
@@ -388,7 +388,7 @@ a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero. Ese
 
    
 
-b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
+b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando i monomi come espressioni elementari (non ulteriormente scomponibili).
 
 1. $6\left(x^{2}-2y\right);$
 2. $\left(-2\right)\cdotp\left(-3xy+2\right);$ 
@@ -522,7 +522,7 @@ Il caso più semplice si ha quando i monomi che costituiscono il polinomio hanno
 
 #### ESEMPIO 1
 
-I monomi del polinomio $-y^2 +2xy$ hanno tutti il fattore $y$. Mettiamo in evidenza il fattore $y$ e scriviamo $y(-y +2x)$. Il polinomio "rimanente" si ottiene dividendo i monomi per $y$: $\dfrac{-y^2}{y} \longrightarrow -y$ e $\dfrac{+2xy}{y} \longrightarrow +2x$
+I monomi del polinomio $-y^2 +2xy$ hanno tutti il fattore $y$. Mettiamo in evidenza il fattore $y$ e scriviamo $y(-y +2x)$. Il polinomio "rimanente" si ottiene dividendo i monomi per $y$: $\dfrac{-y^2}{y} \longrightarrow -y$ e $\dfrac{+2xy}{y} \longrightarrow +2x$
 
 Un altro caso è $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x$ tutti i monomi hanno $3ax$ come fattore. Se lo mettiamo in evidenza abbiamo:$\dfrac{\dfrac{3}{4}a^2x^2}{3ax} \longrightarrow \dfrac{1}{4}ax$
 
@@ -536,7 +536,7 @@ Quindi alla fine la scomposizione in fattori è:
 
 Il comando per effettuare l'operazione con GEOGEBRA è Fattorizza, per cui l'esempio precedente diventa il seguente:
 
-$Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $ \longrightarrow $ $\dfrac{3}{4}ax(8a^2+ax -16x)$. $\bullet$
+$Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $\longrightarrow$ $\dfrac{3}{4}ax(8a^2+ax -16x)$. $\bullet$
 
 
 
