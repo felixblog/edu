@@ -4,11 +4,11 @@ La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente ch
 
 I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow True$  e  $3 \le 3 \longrightarrow True$​ .
 
-Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per se non è ne vera ne falsa in quanto non contiene solo numeri, ma è importante perché con essa possiamo porci un problema , che è quello di trova i numeri che sostituiti alla lettera $x$​ rendono la relazione vera.
+Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per se non è ne vera ne falsa in quanto non contiene solo numeri, ma è importante perché con essa possiamo porci un problema , che è quello di trovare i numeri che sostituiti alla lettera $x$​ rendono la relazione vera.
 
 La scrittura $x \lt -2$ si chiama "disequazione" ed i numeri che la rendono vera si chiamano "soluzioni" della disequazione. Come si vede, le soluzioni della disequazione sono tutti i numeri che sono minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
 
-Per indicare questo insieme si utilizza anche un'altra notazione, detta "**intervallo**": $(-\infty, -2)$; in questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo indicare anche $-2$ scriviamo $(-\infty, -2]$.
+Per indicare questo insieme si utilizza anche un'altra notazione, detta "**intervallo**": $(-\infty, -2)$; in questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo includere anche il numero $-2$ scriviamo $(-\infty, -2]$.
 
 Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via.
 
@@ -16,7 +16,7 @@ Gli intervalli si possono rappresentare anche graficamente su una retta. Il graf
 
 <img src="img/diseq-0-3.png" alt="diseq-0-3" style="zoom:75%;" />
 
-Nella simbologia grafica usata da GEOGEBRA, se il numero non fa parte dell'intervallo l'estremo del segmento è un puntino vuoto; se il numero invece fa parte dell'intervallo l'estremo è un puntino pieno: l'intervallo $(3, 5]$ ha la figura riportata di seguito.
+Nella simbologia grafica usata da GEOGEBRA, se il numero non fa parte dell'intervallo l'estremo del segmento è un puntino vuoto; se il numero invece fa parte dell'intervallo l'estremo è un puntino pieno: l'intervallo $(3, 5]$ ha la figura riportata di seguito.
 
 <img src="img/diseq-3-5.png" alt="diseq-3-5" style="zoom:75%;" />
 

@@ -301,11 +301,11 @@ Sostituendo alle lettere della formula dell'area del rettangolo i dati del probl
 
 #### Lo sconto ai saldi
 
-Durante i saldi di fine stagione, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
+Durante i saldi di fine stagione, o le svendite per altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
 $$
 P_s = P_l - S
 $$
-Lo sconto si misura in euro ed ogni articolo in sconto avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, che è il rapporto $ \dfrac{S}{P_l}$ scritto in percentuale. Questa percentuale, ad esempio il $30\%$  è la stessa per tanti prodotti in saldo o in svendita; se la indichiamo con $s$ abbiamo la formula $s = \dfrac{S}{P_l}$. Da questa formula si trova che $S = s \cdot P_l$ è la formula che ci permette di calcolare lo sconto su ciascun prodotto a partire dalla percentuale di sconto applicata a tutti gli articoli in saldo della stessa categoria.
+Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, che è il rapporto tra lo sconto ed il prezzo di listino $ \dfrac{S}{P_l}$ scritto in percentuale. Questa percentuale, ad esempio il $30\%$  <u>è la stessa per tanti prodotti in saldo</u>; se la indichiamo con $s$ abbiamo la formula $s = \dfrac{S}{P_l}$. Da questa formula si trova che $S = s \cdot P_l$ è la formula che ci permette di calcolare lo sconto su ciascun prodotto a partire dalla percentuale di sconto applicata a tutti gli articoli in saldo della stessa categoria.
 
 Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_s = P_l - sP_l$, ossia, mettendo in evidenza $P_l$:
 $$
@@ -324,15 +324,15 @@ $$
 
 #### Peso lordo, tara e peso netto
 
-Tutte le volte che incontriamo un oggetto racchiuso in un contenitore, ad esempio di carta, cartone o altro, diciamo che il peso totale è la somma di quello dell'oggetto stesso e del contenitore. Questo peso totale è detto **peso lordo**, mentre il peso dell'oggetto SENZA contenitore è detto **peso netto**. Il peso del contenitore è detto **tara**, per cui, se indichiamo con $L$ il peso lordo, $N$, il peso netto e $T$ la tara abbiamo:
+Tutte le volte che abbiamo un oggetto in un contenitore, ad esempio un imballaggio di carta, cartone o altro, diciamo che il peso totale è la somma del peso dell'oggetto stesso e di quello del contenitore. Questo peso totale è detto **peso lordo**, mentre il peso dell'oggetto SENZA contenitore è detto **peso netto**. Il peso del contenitore è detto **tara**, per cui, se indichiamo con $L$ il peso lordo, $N$, il peso netto e $T$ la tara abbiamo:
 $$
 L = N + T
 $$
-Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, o "al netto" per indicare l'assenza dell'accessorio, come nelle espressioni "retribuzione lorda" e "retribuzione netta", costo di un articolo "al lordo dell'IVA" o prestito "al netto degli interessi" o "al lordo degli interessi". 
+Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, o "al netto" per indicare l'assenza dell'accessorio. Ad esempio con l'espressione "retribuzione netta" intendiamo l'importo della retribuzione senza gli oneri fiscali e contributivi mentre con "retribuzione lorda" la retribuzione comprensiva di tali somme; con costo di un articolo "al lordo dell'IVA" intendiamo il costo IVA compresa, con prestito "al netto degli interessi" o "al lordo degli interessi" concetti analoghi e così via. 
 
 #### Esempio 3
 
-Un lavoratore dipendente ha una retribuzione netta che è circa il $50 \%$ del lordo in busta paga. Quale è il "peso" di tasse ed altri contributi? 
+Un lavoratore dipendente ha una retribuzione netta che è circa il $50 \%$ del lordo in busta paga. Quale è il "peso" delle tasse e degli altri contributi? 
 
 Abbiamo che $N = 0.5 \cdot L$, per cui sostituendo nella formula: $L= 0.5L + T$. Risolvendo rispetto a $T$ abbiamo che $T = L - 0.5L$, cioè $T = 0.5L$: le tasse pesano per la metà della retribuzione lorda.  $\bullet$
 
@@ -393,7 +393,7 @@ b) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorn
 
 ####  La velocità
 
-La velocità misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge. Il primo processo che esaminiamo è il movimento di un oggetto e la sua **velocità**.
+La velocità misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge. Il primo fenomeno che esaminiamo è il movimento di un oggetto e la sua **velocità**.
 
 Se osserviamo il movimento di una automobile su una strada e vediamo che per percorrere, ad esempio, $100 \; Km$, impiega un certo tempo, ad esempio $2$ ore, possiamo dire che l'automobile ha una velocità di $\dfrac{100}{2} = 50 \; Km/h$. 
 
@@ -419,11 +419,11 @@ Dalla formula otteniamo $v = \dfrac{s}{t}$, cioè $v = \dfrac{100}{9,58} \longri
 
 
 
-La velocità non riguarda solo il movimento ma molti altri processi, ad esempio la stampa di documento, ed allora abbiamo la **velocità di stampa** che misuriamo in pagine al minuto, o la produzione, ed allora abbiamo la **velocità di produzione**, e così via.   
+La velocità non riguarda solo il movimento ma molti altri fenomeni, ad esempio la stampa di documento, ed allora abbiamo la **velocità di stampa** che misuriamo in pagine al minuto, o la produzione, ed allora abbiamo la **velocità di produzione**, e così via.   
 
 #### ESEMPIO 3
 
-Per stampare un documento di $120$ pagine una stampante impiega $12$ minuti. Quale è la sua velocità?
+Per stampare un documento di $120$ pagine una stampante impiega $12$ minuti. Quale è la sua velocità (di stampa)?
 
 Dalla formula della velocità $v = \dfrac{s}{t}$ abbiamo che $s = 120$ e $t = 12$ per cui $v = \dfrac{120}{12} \longrightarrow 10$ pagine al minuto.   $\bullet$
 
@@ -433,7 +433,7 @@ Dalla formula della velocità $v = \dfrac{s}{t}$ abbiamo che $s = 120$ e $t = 12
 
 Un altro aspetto della velocità è la rapidità con cui si consumano delle risorse. Consideriamo, ad esempio, un fumatore che fuma $\text{10}$ sigarette al giorno: questa è la velocità (al giorno) con cui questa persona consuma le sigarette. Per fare un altro esempio, una famiglia che consuma $\text{12}$ cucchiai di olio al giorno, consumerà una bottiglia di olio in un certo numero di giorni.
 
-Se indichiamo con $s$ la quantità di risorse disponibili che vengono esaurite in un tempo $t$, la velocità $v$ di consumo è data da $v = \dfrac{s}{t}$. Vediamo alcuni esempi.
+Se indichiamo con $s$ la quantità di risorse disponibili che vengono esaurite in un tempo $t$, la velocità $v$ del consumo è data da $v = \dfrac{s}{t}$. Vediamo alcuni esempi.
 
 #### ESEMPIO 4
 
@@ -547,10 +547,17 @@ Ci sono situazioni in cui è conveniente risolvere le stesse formule come equazi
 
 A partire dalla formula dell'IVA $P = C(1 + a)$, trovare quanto vale il costo $C$ di un articolo IVA esclusa.
 
-Risolvendo l'equazione rispetto all'incognita $C$ abbiamo $\dfrac{P}{1+a} = C$, per cui abbiamo la formula inversa
+Risolvendo la formula come se fosse una equazione con l'unica incognita $C$ abbiamo $\dfrac{P}{1+a} = C$, per cui la formula inversa è:
 $$
-C = \dfrac{P}{1+a}
+C = \dfrac{P}{1+a} \;\;\bullet
 $$
+
+#### ESEMPIO 2
+
+Se un'automobile corre ad una velocità $v$, quanto tempo impiega a percorrere una strada lunga $s$?
+
+Dalla formula $v = \dfrac{s}{t}$ risolviamo l'equazione come se $t$ fosse l'unica incognita; otteniamo $v = \dfrac{s}{t} \longrightarrow t = \dfrac{s}{v}$, formula inversa della velocità che ci dà il tempo.   $\bullet$
+
 
 
 ### ESERCIZIO 7.1 - Formule inverse I

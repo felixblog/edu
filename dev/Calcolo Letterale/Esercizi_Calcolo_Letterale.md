@@ -516,15 +516,23 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 ## UNITA' 7: Evidenza di Fattori nei Polinomi e Semplificazione di Frazioni Algebriche
 
-Nei capitoli precedenti abbiamo visto come si calcola il prodotto tra un polinomio ed un monomio ed il prodotto tra due polinomi. Ora vediamo se e come si può effettuare l'operazione inversa: scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche ***fattorizzazione di un polinomio***, perché ha l'obiettivo di scrivere un polinomio come prodotto di due o più fattori.
+Nei capitoli precedenti abbiamo visto come si calcola il prodotto tra un polinomio ed un monomio ed il prodotto tra due polinomi. Ora vediamo se e come si può effettuare l'operazione inversa: scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché ha l'obiettivo di scrivere un polinomio come prodotto di due o più fattori.
 
-Il caso più semplice si ha quando i monomi che costituiscono il polinomio da fattorizzare hanno dei fattori in comune: si estraggono tutti i fattori comuni e se ne fa un monomio che si mette in evidenza, cioè lo si moltiplica per la somma dei monomi rimanenti. Vediamo un esempio.
+Il caso più semplice si ha quando i monomi che costituiscono il polinomio hanno dei fattori in comune: si estraggono tutti i fattori comuni e se ne fa un monomio che moltiplica il polinomio rimanente; questa operazione si dice **messa in in evidenza di un fattore**. Vediamo un esempio.
 
 #### ESEMPIO 1
 
-Dal polinomio $-y^2 +2xy + 3y$ si mette in evidenza il fattore $y$ e lo si scrive $y(-y +2x +3)$.
+I monomi del polinomio $-y^2 +2xy$ hanno tutti il fattore $y$. Mettiamo in evidenza il fattore $y$ e scriviamo $y(-y +2x)$. Il polinomio "rimanente" si ottiene dividendo i monomi per $y$: $\dfrac{-y^2}{y} \longrightarrow -y$ e $\dfrac{+2xy}{y} \longrightarrow +2x$
 
-Un altro caso è $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x = 3ax(\dfrac{1}{4}ax -4x +2a^2 )$
+Un altro caso è $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x$ tutti i monomi hanno $3ax$ come fattore. Se lo mettiamo in evidenza abbiamo:$\dfrac{\dfrac{3}{4}a^2x^2}{3ax} \longrightarrow \dfrac{1}{4}ax$
+
+$\dfrac{-12ax^2}{3ax} \longrightarrow -4x$
+
+$\dfrac{6a^3x}{3ax} \longrightarrow 2a^2$
+
+Quindi alla fine la scomposizione in fattori è:
+
+ $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x = 3ax(\dfrac{1}{4}ax -4x +2a^2 )$
 
 Il comando per effettuare l'operazione con GEOGEBRA è Fattorizza, per cui l'esempio precedente diventa il seguente:
 
@@ -532,7 +540,7 @@ $Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $ \longrightarrow $ $\dfrac{3}
 
 
 
-Una frazione algebrica è un rapporto tra un polinomio ed un monomio o tra due polinomi (di cui il precedente è un caso particolare). A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere fattorizzati e se hanno dei fattori in comune, che quindi si possono semplificare, come nell'esempio seguente.
+Una frazione algebrica è un rapporto tra un polinomio ed un monomio o tra due polinomi. A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere scomposti in fattori se ci sono dei fattori in comune, che quindi si possono semplificare, come nell'esempio seguente.
 
 #### ESEMPIO 2
 
