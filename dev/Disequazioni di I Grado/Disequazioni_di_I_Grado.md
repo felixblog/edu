@@ -98,7 +98,7 @@ Per rappresenta graficamente l'intervallo:
 
 <img src="img/diseq-0-3.png" alt="diseq-0-3" style="zoom:25%;" />
 
-b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($b, c$, etc.).
+b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($b, c$, ecc.).
 
 
 
