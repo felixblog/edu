@@ -91,7 +91,7 @@ a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di coman
 1. $a : 0 \le x \and x \le 3$ &#9166; 
 2. $a(2)$ &#9166;
 
-Per rappresenta graficamente l'intervallo:
+Per rappresentare graficamente l'intervallo:
 
 1. Dal "Menu Principale" seleziona "Cambia Calcolatrice" / "Grafici";
 2. Dal menu della casella di input, seleziona "Impostazioni" e quindi dalla scheda "Stile" seleziona "Mostra sull'asse X".
