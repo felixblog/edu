@@ -21,65 +21,69 @@ Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, 
 
 #### Le espressioni
 
-Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due numeri c'è sempre una operazione). L'esecuzione ordinata delle operazioni di una espressione produce un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
+Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due numeri c'è sempre una operazione). L'esecuzione nell'ordine corretto delle operazioni di una espressione produce un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
 
-#### ESEMPIO
+#### ESEMPIO 1
 
-Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto ed il $12$ è condiviso con la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione (che ha priorità nell'uso del numero). Il $12$ sarà impiegato nel prodotto che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto tra $8$ e $12$. Vediamo però che il $12$ fa parte anche della somma $12$ + $5$ e quindi si dice "condiviso" tra il prodotto e la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione, perché la moltiplicazione ha la priorità nell'uso dei numeri contesi con la somma. La prima operazione da eseguire sarà il prodotto; la sequenza delle operazioni sarà:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
 
-Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma opererà sul risultato. 
+Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nella moltiplicazione. La somma quindi non può essere eseguita per prima (manca il secondo numero!) e verrà eseguita per seconda sul **sul risultato del prodotto**. 
 
-La sequenza delle operazioni sarà allora:   $5 \overset{(b)}+ 8 \overset{(a)}\cdot 12 \longrightarrow 5 \overset{(b)}+ 96 \longrightarrow 101$.
+La sequenza delle operazioni sarà allora:   $5 \overset{(b)}+ 8 \overset{(a)}\cdot 12 \longrightarrow 5 \overset{(b)}+ 96 \longrightarrow 101$.    $\bullet$
+
+
 
 #### Uso delle parentesi e priorità
 
 Le parentesi servono ad alterare la priorità di esecuzione delle operazioni imponendo che i numeri dentro una coppia di parentesi siano utilizzati ***prioritariamente*** nelle operazioni contenute all'interno delle parentesi.
 
-Nell'espressione $8 · (12 + 5)$, analoga alla precedente ma con presenza di parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto (in generale anche come priorità il prodotto deve essere eseguito prima della somma), ma il $12$ è dentro la coppia di parentesi e le parentesi impongono che i numeri dentro le parentesi debbano essere usati nelle operazioni anch'esse dentro le parentesi, se presenti (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi la somma. La sequenza delle operazioni da eseguire sarà:  $8 \overset{(b)}\cdot (12 \overset{(a)}+ 5) \longrightarrow 8 \overset{(b)}\cdot (\overset{(a)}{17}) \longrightarrow 136$.	(Il risultato dell'operazione è indicato con la stessa lettera sopra il numero).
+Nell'espressione $8 · (12 + 5)$, simile alla precedente ma con due parentesi, la prima operazione che si incontra, da sinistra verso destra è il prodotto, ma il $12$ è dentro le parentesi e le parentesi impongono che i numeri al loro interno debbano essere **usati nelle operazioni dentro le parentesi,** quando ci sono (il prodotto è fuori dalla parentesi ed il $12$ è dentro insieme alla somma). La prima operazione che è possibile eseguire è quindi solo la somma. La sequenza delle operazioni da eseguire sarà:  $8 \overset{(b)}\cdot (12 \overset{(a)}+ 5) \longrightarrow 8 \overset{(b)}\cdot (\underline{17}) \longrightarrow \underline{136}$.	(Il risultato dell'operazione è il numero sottolineato).
 
 Ricapitolando, in caso di numeri contesi tra due operazioni abbiamo che tra prodotti e divisioni da un lato e somme e sottrazioni dall'altro, vincono i prodotti e le divisioni, mentre se c'è una sequenza di prodotti e divisioni oppure una sequenza di somme e sottrazioni si esegue sempre quella che viene prima leggendo da sinistra a destra e le successive si applicano al risultato della precedente. 
 
-#### ESEMPIO 1
+#### ESEMPIO 2
 
 a) $8 \overset{(a)}\cdot 12 \overset{(b)}: 3 \longrightarrow$
 
-​		$\overset{(a)}{96} \overset{(b)}: 3 \longrightarrow 32$.
+​		$\underline{96} \overset{(b)}: 3 \longrightarrow \underline{32}$.
 
 b) $12 \overset{(a)}: 3 \overset{(b)}\cdot 8 \longrightarrow$
 
-​		$ \overset{(a)}{4} \overset{(b)}: 8 \longrightarrow 32$.
+​		$ \underline{4} \overset{(b)}: 8 \longrightarrow \underline{32}$.
 
 c) $12 \overset{(a)}- 8 \overset{(b)}+ 1 \longrightarrow$
 
-​		$ \overset{(a)}{4} \overset{(b)}+ 1 \longrightarrow 5$.
+​		$ \underline{4} \overset{(b)}+ 1 \longrightarrow \underline{5}$.
 
 d) $8 \overset{(b)}- 12 \overset{(a)}: 3 \longrightarrow$
 
-​		$ 8 \overset{(b)}- \overset{(a)}{4} \longrightarrow 4$.
+​		$ 8 \overset{(b)}- \underline{4} \longrightarrow \underline{4}$.    $\bullet$
 
-#### ESEMPIO 2
+#### ESEMPIO 3
 
-a) $8 \overset{(a)}: 4 \overset{(b)}: 2 \longrightarrow \overset{(a)}{2} \overset{(b)}: 2 \longrightarrow 1$.
+a) $8 \overset{(a)}: 4 \overset{(b)}: 2 \longrightarrow \underline{2} \overset{(b)}: 2 \longrightarrow \underline{1}$.
 
 b) $4 \overset{(a)}\cdot 3 \overset{(b)}: 3 \overset{(c)}: 2 \longrightarrow$
 
-​		$ \overset{(a)}{12} \overset{(b)}: 3 \overset{(c)}: 2 \longrightarrow$
+​		$ \underline{12} \overset{(b)}: 3 \overset{(c)}: 2 \longrightarrow$
 
-​			$ \overset{(b)}4 \overset{(c)}: 2 \longrightarrow 2$.
+​			$ \underline{4} \overset{(c)}: 2 \longrightarrow \underline{2}$.
 
 c) $16 \overset{(a)}- 8 \overset{(b)}- 4 \overset{(c)}- 2 \overset{(d)}- 1\longrightarrow$
 
-​		$\overset{(a)}8 \overset{(b)}- 4 \overset{(c)}- 2 \overset{(d)}- 1 \longrightarrow$
+​		$\underline{8} \overset{(b)}- 4 \overset{(c)}- 2 \overset{(d)}- 1 \longrightarrow$
 
-​			$\overset{(b)}4 \overset{(c)}- 2 \overset{(d)}- 1 \longrightarrow$
+​			$\underline{4} \overset{(c)}- 2 \overset{(d)}- 1 \longrightarrow$
 
-​				$\overset{(c)}2 - 1 \longrightarrow 1$.
+​				$\underline{2} - 1 \longrightarrow \underline{1}$.      $\bullet$
 
 
 
 Se vi sono parentesi, i numeri dentro le parentesi devono essere utilizzati prioritariamente con le operazioni all'interno delle parentesi stesse, quindi **le operazioni all'interno delle parentesi devono essere eseguite prima di quelle esterne che le circondano (limitrofe)**.
 
-#### Quante operazioni in un passaggio?
+
+
+#### Quante operazioni bisogna fare in un passaggio?
 
 L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
 
@@ -89,37 +93,43 @@ Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali e
 
 **NON** fare il calcolo seguente
 
-a) $\underbracket{8 \overset{(b)}-  12 \overset{(a)}: 3}_\text{*} + 2$
+a) $\underbracket{8 \overset{(b)}-  12 \overset{(a)}: 3} + 2$
 
-b) $\overset{*}{4} + 2$
+b) $\underline{4} + 2$
 
-c) $6$
+c) $\underline{6}$
 
-che riutilizza il risultato di $12:3$ nella differenza con $8$ nello stesso passaggio da a) a b), ma il seguente:
+che fa la sottrazione e la divisione nello stesso passaggio da a) a b), ma il seguente:
 
-a) $8 \overset{(b)}- \underbracket{12 \overset{(a)}: 3}_\text{*} + 2$
+a) $8 \overset{(b)}- \underbracket{12 \overset{(a)}: 3} + 2$
 
-b) $\underbracket{8 \overset{(b)}- \overset{*}{4}}_\text{x} + 2$
+b) $\underbracket{8 \overset{(b)}- \underline{4}} + 2$
 
-c) $\overset{\text{x}}{4} + 2$
+c) $\underline{4} + 2$
 
-d) $6$
+d) $\underline{6}$
 
 E' quindi possibile eseguire in un passaggio tutte le operazioni, compatibilmente con le priorità, da sinistra verso destra, senza riutilizzare i risultati per altre operazioni dello stesso passaggio.
 
 #### ESEMPIO 2
 
-a) $((\underbracket{2·4}_\text{*} + 7) + (2 + \underbracket{8 : 2}_\text{**})·5) − (\underbracket{6 + 2}_\text{***})·5;$
+a) $((2\overset{(a)}·4 + 7) + (2 + 8 \overset{(b)}: 2)·5) − (6 \overset{(c)}+ 2)·5;$
 
-b) $((\underbracket{\overset{*}{8} + 7}_\text{x}) + (\underbracket{2+\overset{**}{4}}_\text{xx}) \cdot 5) - \underbracket{(\overset{***}{8}) \cdot 5}_\text{xxx}$
+b) $((\underline{8} + 7) + (2+\underline{4}) \cdot 5) - (\underline{8}) \cdot 5$
 
-c) $((\overset{\text{x}}{15}) + \underbracket{ (\overset{\text{xx}}{6}) \cdot 5}_\text{*}) - \overset{\text{xxx}}{40}$
+c) $((\underline{8} \overset{(a)}+ 7) + (2 \overset{(b)}+\underline{4}) \cdot 5) - (\underline{8}) \overset{(c)}\cdot 5$
 
-d) $(\underbracket{15 + \overset{\text{*}}{30}}_\text{x}) - 40$
+d) $((\underline{15}) + (\underline{6}) \cdot 5) - \underline{40}$
 
-f) $(\overset{\text{x}}{45}) - 40$
+e) $((\underline{15}) \overset{(b)}+ (\underline{6}) \overset{(a)}\cdot 5) \overset{(c)}- \underline{40}$
 
-g) $5$
+f) $((15) + \underline{30}) - 40$
+
+g) $((15) \overset{(a)}+ \underline{30}) \overset{(b)}- 40$
+
+h) $(\underline{45}) - 40$
+
+i) $\underline{5}$
 
 
 
@@ -329,7 +339,7 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
-Un **<u>potenza</u>** è quindi una operazione che consiste in una moltiplicazione di un numero per se stesso. Gli esempi precedenti si scrivono $ 2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
+Un **<u>potenza</u>** è quindi una operazione che consiste in una moltiplicazione di un numero per se stesso e che è una abbreviazione di più moltiplicazioni. Gli esempi precedenti si scrivono $ 2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
 $$
 base \rightarrow 3^{4 \leftarrow esponente}
 $$
