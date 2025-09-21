@@ -25,7 +25,7 @@ Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due nume
 
 #### ESEMPIO 1
 
-Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto tra $8$ e $12$. Vediamo però che il $12$ fa parte anche della somma $12$ + $5$ e quindi si dice "condiviso" tra il prodotto e la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione, perché la moltiplicazione ha la priorità nell'uso dei numeri contesi con la somma. La prima operazione da eseguire sarà il prodotto; la sequenza delle operazioni sarà:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto tra $8$ e $12$. Vediamo però che il $12$ fa parte anche della somma $12$ + $5$ e quindi si dice "condiviso" tra il prodotto e la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione, perché la moltiplicazione ha la priorità nell'uso dei numeri contesi con la somma. La prima operazione da eseguire sarà il prodotto; la sequenza delle operazioni sarà:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
 
 Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nella moltiplicazione. La somma quindi non può essere eseguita per prima (manca il secondo numero!) e verrà eseguita per seconda sul **sul risultato del prodotto**. 
 
@@ -109,23 +109,23 @@ c) $\underline{4} + 2$
 
 d) $\underline{6}$
 
-E' quindi possibile eseguire in un passaggio tutte le operazioni, compatibilmente con le priorità, da sinistra verso destra, senza riutilizzare i risultati per altre operazioni dello stesso passaggio.
+Se si vuole fare in un solo passaggio più operazioni è possibile eseguirle ma senza riutilizzare i risultati per altre operazioni dello stesso passaggio, come nell'esempio seguente, dove le operazioni fatte nello stesso passaggio sono indicate con $(*)$.
 
 #### ESEMPIO 2
 
-a) $((2\overset{(a)}·4 + 7) + (2 + 8 \overset{(b)}: 2)·5) − (6 \overset{(c)}+ 2)·5;$
+a) $((\underbracket{2\overset{(*)}·4} + 7) + (2 + \underbracket{8 \overset{(*)}: 2})·5) − (\underbracket{6 \overset{(*)}+ 2})·5;$
 
 b) $((\underline{8} + 7) + (2+\underline{4}) \cdot 5) - (\underline{8}) \cdot 5$
 
-c) $((\underline{8} \overset{(a)}+ 7) + (2 \overset{(b)}+\underline{4}) \cdot 5) - (\underline{8}) \overset{(c)}\cdot 5$
+c) $((\underbracket{\underline{8} \overset{(*)}+ 7}) + (\underbracket{2 \overset{(*)}+\underline{4}}) \cdot 5) - \underbracket{(\underline{8}) \overset{(*)}\cdot 5}$
 
 d) $((\underline{15}) + (\underline{6}) \cdot 5) - \underline{40}$
 
-e) $((\underline{15}) \overset{(b)}+ (\underline{6}) \overset{(a)}\cdot 5) \overset{(c)}- \underline{40}$
+e) $((\underline{15}) + \underbracket{(\underline{6}) \overset{(*)}\cdot 5}) - \underline{40}$
 
 f) $((15) + \underline{30}) - 40$
 
-g) $((15) \overset{(a)}+ \underline{30}) \overset{(b)}- 40$
+g) $(\underbracket{(15) \overset{(*)}+ \underline{30}}) - 40$
 
 h) $(\underline{45}) - 40$
 
@@ -198,7 +198,7 @@ d) $6 − (15 : (2 + 3))$.
 
 ### ESERCIZIO 2.1 - Dalle parole ai numeri (II)
 
-Scrivi le espressioni  (NON il solo risultato!) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore.  
+Scrivi le espressioni  (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore.  
 
 a) Anna riceve dalla madre 8 euro e va ad acquistare 2 scatole di colori del costo di 3 euro l'una. Al ritorno si ferma dalla nonna che le regala 5 euro. Con quanto denaro arriva a casa Anna? $[R. \,\, 8 - 2 \cdot 3 + 5$,  $7 \,\, \texteuro]$  
 
@@ -242,7 +242,7 @@ Per costruire l'espressione a partire dall'albero, scrivi vicino ad ogni operazi
 
 
 
-Alla fine, vicino alla radice sarà scritta l'espressione completa.
+Alla fine, vicino alla radice ci sarà scritta l'espressione completa.
 
 
 
@@ -289,21 +289,21 @@ L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo l
 
 
 
-## UNITA' 4: Sostituzioni dei numeri alle lettere
+## UNITA' 4: Numeri, lettere e sostituzioni
 
-Nelle espressioni possono comparire, oltre ai numeri, anche le lettere. Ma cosa significa fare operazioni con le lettere?
+Nelle espressioni possono comparire, oltre ai numeri, anche delle lettere. Ma cosa significa fare operazioni con le lettere?
 
-Ovviamente non è possibile fare delle operazioni con le lettere ed infatti una lettera in una espressione si usa per indicare la posizione di un numero che, quando dobbiamo calcolare l'espressione, deve essere sostituito alla lettera.
+Ovviamente non è possibile "fare" delle operazioni con le lettere, per cui una lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa.
 
 #### ESEMPIO
 
-L'espressione $a+1$ non la possiamo "calcolare" finché non sostituiamo alla lettera $a$ un numero, ad esempio $3$ oppure $0$, cosicché $a + 1$ diventa $3 + 1$ che a sua volta diventa 4. Analogamente  con $0$,  $a + 1$ diventa $0 + 1 \longrightarrow 1$.
+L'espressione $a+1$ non la possiamo "calcolare" finché non sostituiamo alla lettera $a$ un numero, ad esempio $3$ oppure $0$, cosicché, nel caso di 3, $a + 1$ diventa $3 + 1$ che a sua volta diventa 4. Analogamente  con $0$,  $a + 1$ diventa $0 + 1 \longrightarrow 1$.
 
 ------
 
 Usare le lettere al posto dei numeri è utile se vogliamo indicare quali operazioni fare per calcolare qualcosa. Ad esempio, l'area di tutti i rettangoli si calcola moltiplicando la lunghezza della loro base per quella della loro altezza. Se indichiamo con la lettera $b$ la lunghezza della base di un rettangolo e con $h$ la lunghezza dell'altezza dello stesso rettangolo, possiamo dire che, qualunque siano queste lunghezze, l'area sarà calcolata da $b \cdot h$.
 
-Se dobbiamo calcolare l'area di un rettangolo con $b = 12$ ed $h = 5$, sostituiamo i numeri alle lettere nella espressione ed otteniamo $b \cdot h, \; \{b = 12, h = 5\} \longrightarrow 12 \cdot 5 \longrightarrow 60$.
+Se dobbiamo calcolare l'area di un rettangolo con $b = 12$ ed $h = 5$, sostituiamo i numeri alle lettere nella espressione ed otteniamo $60$, scrivendo la sequenza seguente che si chiama **sostituzione**: $b \cdot h, \; \{b = 12, h = 5\} \longrightarrow 12 \cdot 5 \longrightarrow 60$.
 
 
 
@@ -326,8 +326,8 @@ f ) $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
 
 a) Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $Sostituisci(5 \cdot x,\; {x = 50})$&#9166;
-2. $Sostituisci(2 \cdot y, \; {y = 32})$&#9166;
+1. $Sostituisci(5 \cdot x,\; \{x = 50\})$&#9166;
+2. $Sostituisci(2 \cdot y, \; \{y = 32\})$&#9166;
 
 b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
@@ -352,7 +352,7 @@ La potenza, quando condivide la base o l'esponente insieme ad altre operazioni u
 3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
 4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$; 
 
-Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama non lineare ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ .
+Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama **non lineare** ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ .
 
 Di seguito alcuni esempi di trasformazione tra le due notazioni.
 
@@ -365,8 +365,9 @@ Un altra situazione in cui si usa una forma non lineare è la divisione. La divi
 Geogebra scrive le divisioni in forma di frazioni per cui bisogna fare attenzione quando si inseriscono le espressioni per il loro calcolo: quando come dividendo o divisore abbiamo una espressione tra parentesi, **tutta** l'espressione che compare tra le parentesi deve essere scritta al di sopra della linea orizzontale di frazione o al di sotto, senza riportare le parentesi. Le casistiche sono riportate di seguito.
 
 1. $(10 + 2): 6 \longleftrightarrow \dfrac{10 + 2}{6}$;
-2. $6:(1 + 2) \longleftrightarrow \dfrac{6}{1 + 2}$;
-3. $(10 + 2): (1 + 2) \longleftrightarrow \dfrac{10 + 2}{1 + 2}$.
+2. $6:(2 + 1) \longleftrightarrow \dfrac{6}{2 + 1}$;
+3. $6:2 + 1 \longleftrightarrow \dfrac{6}{2} + 1$;
+4. $(10 + 2): (2 + 1) \longleftrightarrow \dfrac{10 + 2}{2 + 1}$.
 
 
 
@@ -563,7 +564,7 @@ Abbiamo allora che il $MCM$ di $8$ e $12$ è $24$ ed il $MCD$ di $8$ e $12$ è $
 
 ### ESERCIZIO 8.1 - Scomposizione in numeri primi
 
-a) Scomponi in potenze di fattori primi i numeri 25, 40, 33, 6;
+a) Scomponi in potenze di fattori primi i numeri $25$, $40$, $33$, $6$;
 
 b) Le seguenti scomposizioni non sono in fattori primi. Modificale in modo che ogni fattore sia primo e scrivi la
 scomposizione in potenze di numeri primi.
