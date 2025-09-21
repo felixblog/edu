@@ -303,7 +303,7 @@ L'espressione $a+1$ non la possiamo "calcolare" finché non sostituiamo alla let
 
 Usare le lettere al posto dei numeri è utile se vogliamo indicare quali operazioni fare per calcolare qualcosa. Ad esempio, l'area di tutti i rettangoli si calcola moltiplicando la lunghezza della loro base per quella della loro altezza. Se indichiamo con la lettera $b$ la lunghezza della base di un rettangolo e con $h$ la lunghezza dell'altezza dello stesso rettangolo, possiamo dire che, qualunque siano queste lunghezze, l'area sarà calcolata da $b \cdot h$.
 
-Se dobbiamo calcolare l'area di un rettangolo con $b = 12$ ed $h = 5$, sostituiamo i numeri alle lettere nella espressione ed otteniamo $60$, scrivendo la sequenza seguente che si chiama **sostituzione**: $b \cdot h, \; \{b = 12, h = 5\} \longrightarrow 12 \cdot 5 \longrightarrow 60$.
+Se dobbiamo calcolare l'area di un rettangolo con $b = 12$ ed $h = 5$, sostituiamo i numeri alle lettere nella espressione ed otteniamo $60$, scrivendo la sequenza seguente che si chiama **sostituzione**: $b \cdot h, \; \{b = 12, h = 5\} \longrightarrow 12 \cdot 5 \longrightarrow 60$.
 
 
 
@@ -600,9 +600,27 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-### ESERCIZIO 8.3 - Evidenza del Fattore Comune
+## UNITA' 9: Scomposizione in fattori di una somma
 
-a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro M.C.D. ed applicando la proprietà distributiva della moltiplicazione rispetto alla somma
+A volte è utile scrivere una somma di due numeri come prodotto di due numeri. La situazione varia di caso in caso, ma qui vediamo un metodo che sarà utile in seguito: la **evidenza di un fattore comune**.
+
+Se sommiamo due numeri che nella loro scomposizione in fattori primi hanno un fattore in comune, possiamo scrivere la somma come prodotto. 
+
+#### ESEMPIO 1
+
+Sappiamo che $6 = 2 \cdot 3$ e $8 = 2 \cdot 4$, per cui $6$ ed $8$ hanno il numero $2$ come **fattore comune**. Se abbiamo $6 + 8$ possiamo scrivere 
+
+$6 + 8 = 2 \cdot 3 + 2 \cdot 4 \longrightarrow 2 \cdot (3 + 4) = 2 \cdot 7$.
+
+Tirare fuori il fattore comune $2$ dalla somma $2 \cdot 3 + 2 \cdot 4$ e metterlo fuori dalla parentesi si dice **evidenziare il fattore comune**.   $\bullet$
+
+I fattori comuni a due numeri possono essere più di uno: ad esempio per $8 = 2 \cdot 4$ e $12 = 3 \cdot 2 \cdot 4$ i fattori comuni sono sia $2$ che $4$. Poiché i fattori comuni sono anche divisori dei due numeri, in questi casi conviene utilizzare il più grande, ossia il massimo comune divisore.
+
+
+
+### ESERCIZIO 9.1 - Evidenza del Fattore Comune
+
+a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro MCD.
 
 1. $15 + 10 = MCD\cdot(? + ?);$        $[R. \,\, 5(3+2)]$.  
 2. $6 + 8 = MCD \cdot (? + ?);$        $[R. \,\, 2(3+4)]$.  
