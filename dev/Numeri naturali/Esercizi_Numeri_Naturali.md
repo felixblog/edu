@@ -79,7 +79,7 @@ c) $16 \overset{(a)}- 8 \overset{(b)}- 4 \overset{(c)}- 2 \overset{(d)}- 1\longr
 
 
 
-Se vi sono parentesi, i numeri dentro le parentesi devono essere utilizzati prioritariamente con le operazioni all'interno delle parentesi stesse, quindi **le operazioni all'interno delle parentesi devono essere eseguite prima di quelle esterne che le circondano (limitrofe)**.
+Se ci sono parentesi, i numeri dentro le parentesi devono essere utilizzati prioritariamente con le operazioni all'interno delle parentesi stesse, quindi **le operazioni all'interno delle parentesi devono essere eseguite prima di quelle esterne che le circondano (limitrofe)**.
 
 
 
@@ -87,29 +87,29 @@ Se vi sono parentesi, i numeri dentro le parentesi devono essere utilizzati prio
 
 L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
 
-Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio. Vedere l'esempio seguente, dove il risultato del calcolo è indicato con un asterisco sul numero.
+Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio. Vedere l'esempio seguente, dove il risultato del calcolo è indicato con il numero sottolineato.
 
 #### ESEMPIO 1
 
 **NON** fare il calcolo seguente
 
-a) $\underbracket{8 \overset{(b)}-  12 \overset{(a)}: 3} + 2$
+a) $\underbracket{8 \overset{(b)}-  12 \overset{(a)}: 3} \overset{(c)}+ 2$
 
-b) $\underline{4} + 2$
+b) $\underline{4} \overset{(c)}+ 2$
 
 c) $\underline{6}$
 
 che fa la sottrazione e la divisione nello stesso passaggio da a) a b), ma il seguente:
 
-a) $8 \overset{(b)}- \underbracket{12 \overset{(a)}: 3} + 2$
+a) $8 \overset{(b)}- \underbracket{12 \overset{(a)}: 3} \overset{(c)}+ 2$
 
-b) $\underbracket{8 \overset{(b)}- \underline{4}} + 2$
+b) $\underbracket{8 \overset{(b)}- \underline{4}} \overset{(c)}+ 2$
 
-c) $\underline{4} + 2$
+c) $\underline{4} \overset{(c)}+ 2$
 
 d) $\underline{6}$
 
-Se si vuole fare in un solo passaggio più operazioni è possibile eseguirle ma senza riutilizzare i risultati per altre operazioni dello stesso passaggio, come nell'esempio seguente, dove le operazioni fatte nello stesso passaggio sono indicate con $(*)$.
+E' possibile, se si vuole, fare più operazioni in un solo passaggio; non bisogna però riutilizzare i risultati di una operazione per altre operazioni dello stesso passaggio, ma si deve organizzare il calcolo come nell'esempio seguente (dove le operazioni fatte nello stesso passaggio sono indicate con $(*)$).
 
 #### ESEMPIO 2
 
@@ -339,7 +339,7 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
-Un **<u>potenza</u>** è quindi una operazione che consiste in una moltiplicazione di un numero per se stesso e che è una abbreviazione di più moltiplicazioni. Gli esempi precedenti si scrivono $ 2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
+Un **<u>potenza</u>** è una operazione che consiste in una moltiplicazione di un numero per se stesso: è un modo abbreviato per scrivere più moltiplicazioni. Gli esempi precedenti si scrivono $ 2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
 $$
 base \rightarrow 3^{4 \leftarrow esponente}
 $$
@@ -357,8 +357,11 @@ Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte 
 Di seguito alcuni esempi di trasformazione tra le due notazioni.
 
 1.  $(10 - 7)$ \^ $3 \longleftrightarrow (10 - 7)^3 \longrightarrow 3^3$;
-2.  $3$ ^ $(10 - 7)$ $ \longleftrightarrow 3^{10 - 7} \longrightarrow 3^3$;
+2.  $3$ ^ $(10 - 7)  \longleftrightarrow 3^{10 - 7} \longrightarrow 3^3$;
 3.  $(10 - 7)$ \^ $(2 + 1) \longleftrightarrow (10 - 7)^{2 + 1} \longrightarrow 3^3$;
+4.  $(10 - 7)$ \^ $2 + 1 \longleftrightarrow (10 - 7)^2 + 1 \longrightarrow 3^2 + 1$;
+5.  $3$ ^ $2 + 1 \longleftrightarrow 3^2 + 1 \longrightarrow 10$;
+6.  $3$ ^ $(2 + 1) \longleftrightarrow 3^3 \longrightarrow 27$;
 
 Un altra situazione in cui si usa una forma non lineare è la divisione. La divisione $10 : 2$ può essere scritta nella forma $\dfrac{10}{2}$, chiamata ***frazione***. Il numero al di sopra della linea orizzontale, che corrisponde al dividendo della divisione, viene chiamato ***numeratore***, e quello al di sotto, corrispondente al divisore, si chiama ***denominatore***. 
 
@@ -473,7 +476,45 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 
 
-## UNITA' 7: Divisori, multipli, MCM e MCD
+## UNITA' 7: Operazioni tra insiemi
+
+Con gli insiemi è possibile fare delle operazioni, come ad esempio con la moltiplicazione tra numeri: moltiplicando due numeri si produce un terzo numero, che è il prodotto dei due. Tra insiemi è possibile fare tre operazioni, l'**unione**, l'**intersezione** e la **differenza**. 
+
+L'**unione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cup B$ formato dagli elementi che appartengono ad $A$ o a $B$; in simboli:
+$$
+A \cup B = \{x: x \in A \; oppure \;x \in B\}
+$$
+
+
+L'**intersezione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cap B$ formato dagli elementi che appartengono sia ad $A$ che a $B$:
+$$
+A \cup B = \{x: x \in A \; e \;x \in B\}
+$$
+
+
+La **differenza** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \setminus B$ formato dagli elementi che appartengono ad $A$ ma non a $B$:
+$$
+A \setminus B = \{x: x \in A \; e \;x \notin B\}
+$$
+
+
+### ESERCIZIO 7.1 - Intersezione ed Unione
+
+a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappresentale per elencazione e mediante un diagramma di Eulero-Venn:  
+1. $A = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «tegame»\}$, $B = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «gomito»\}$.
+2. $C = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «attesa»\}$, $D = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «paese»\}$.  
+
+b) Per ciascuna coppia di insiemi $A$ e $B$ determina l'insieme $A \cap B$:  
+1. $A = \{x: x \; \acute{e} \; un \; multiplo \; di \; 4\}$ e $B = \{x: x \; \acute{e} \; un \; multiplo \; di \; 6\}$;  
+2. $A = \{x: x \; \acute{e} \; un \; divisore \; di \; 8\}$ e $B = \{x: x \; \acute{e} \; un \; divisore \; di \; 12\}$.  
+
+c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$, calcola i risultati delle seguenti espressioni:  
+1. $A \cap B \cap C$  
+2. $A \cup (B \cup C )$
+
+
+
+## UNITA' 8: Divisori, multipli, MCM e MCD
 
 Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per un altro (secondo) numero. Quando ciò accade si dice che il secondo numero è un **divisore** del primo ed il primo è un **multiplo** del secondo.
 
@@ -497,7 +538,7 @@ Il più grande dei divisori comuni di due numeri si chiama ***Massimo Comune Div
 
 
 
-### ESERCIZIO 7.1 - Divisori e multipli
+### ESERCIZIO 8.1 - Divisori e multipli
 
 a) Scrivi tutti i divisori di ciascuno dei numeri $6$, $15$, $18$, $21$, $24$, $25$;
 
@@ -540,7 +581,7 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 
 
-## UNITA' 8: MCM e MCD mediante scomposizioni
+## UNITA' 9: MCM e MCD mediante scomposizioni
 
 Se un numero ha un divisore, il numero si può scrivere come prodotto di due numeri, uno dei quali è il divisore; diciamo che il numero si **scompone** in un prodotto di numeri o fattori.
 
@@ -562,7 +603,7 @@ Abbiamo allora che il $MCM$ di $8$ e $12$ è $24$ ed il $MCD$ di $8$ e $12$ è $
 
 
 
-### ESERCIZIO 8.1 - Scomposizione in numeri primi
+### ESERCIZIO 9.1 - Scomposizione in numeri primi
 
 a) Scomponi in potenze di fattori primi i numeri $25$, $40$, $33$, $6$;
 
@@ -582,7 +623,7 @@ a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-### ESERCIZIO 8.2 - Minimo Comune Multiplo e Massimo Comune Divisore
+### ESERCIZIO 9.2 - Minimo Comune Multiplo e Massimo Comune Divisore
 
 a) Trova il Minimo Comune Multiplo ed il Massimo Comune Divisore delle coppie $(6, 8)$, $(15, 10)$, $(24, 25)$ applicando la definizione;
 
@@ -600,7 +641,7 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-## UNITA' 9: Scomposizione in fattori di una somma
+## UNITA' 10: Scomposizione in fattori di una somma
 
 A volte è utile scrivere una somma di due numeri come prodotto di due numeri. La situazione varia di caso in caso, ma qui vediamo un metodo che sarà utile in seguito: la **evidenza di un fattore comune**.
 
@@ -608,17 +649,17 @@ Se sommiamo due numeri che nella loro scomposizione in fattori primi hanno un fa
 
 #### ESEMPIO 1
 
-Sappiamo che $6 = 2 \cdot 3$ e $8 = 2 \cdot 4$, per cui $6$ ed $8$ hanno il numero $2$ come **fattore comune**. Se abbiamo $6 + 8$ possiamo scrivere 
+Sappiamo che $6 = 2 \cdot 3$ e $8 = 2 \cdot 4$, per cui $6$ ed $8$ hanno il numero $2$ come **fattore comune**. Se abbiamo $6 + 8$ possiamo scrivere 
 
 $6 + 8 = 2 \cdot 3 + 2 \cdot 4 \longrightarrow 2 \cdot (3 + 4) = 2 \cdot 7$.
 
-Tirare fuori il fattore comune $2$ dalla somma $2 \cdot 3 + 2 \cdot 4$ e metterlo fuori dalla parentesi si dice **evidenziare il fattore comune**.   $\bullet$
+Tirare fuori il fattore comune $2$ dalla somma $2 \cdot 3 + 2 \cdot 4$ e metterlo fuori dalla parentesi si dice **evidenziare il fattore comune**.   $\bullet$
 
-I fattori comuni a due numeri possono essere più di uno: ad esempio per $8 = 2 \cdot 4$ e $12 = 3 \cdot 2 \cdot 4$ i fattori comuni sono sia $2$ che $4$. Poiché i fattori comuni sono anche divisori dei due numeri, in questi casi conviene utilizzare il più grande, ossia il massimo comune divisore.
+I fattori comuni a due numeri possono essere più di uno: ad esempio per $8 = 2 \cdot 4$ e $12 = 3 \cdot 2 \cdot 4$ i fattori comuni sono sia $2$ che $4$. Poiché i fattori comuni sono anche divisori dei due numeri, in questi casi conviene utilizzare il più grande, ossia il massimo comune divisore.
 
 
 
-### ESERCIZIO 9.1 - Evidenza del Fattore Comune
+### ESERCIZIO 10.1 - Evidenza del Fattore Comune
 
 a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro MCD.
 
