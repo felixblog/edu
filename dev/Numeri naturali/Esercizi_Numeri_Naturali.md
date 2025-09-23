@@ -526,7 +526,7 @@ a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappres
 1. $A = \{\text{Le lettere della parola «tegame»}\}$, $B = \{\text{Le lettere della parola «gomito»}\}$.
 2. $C = \{\text{Le lettere della parola «attesa»}\}$, $D = \{\text{Le lettere della parola «paese»}\}$.  
 
-b) Per gli insiemi $A = \{\text{a, e, i, o, u}\}$ e $B = \{\text{Le prime tre lettere dell'alfabeto}\}$, determina $A \cap B$ e $A \cup B$:  
+b) Per gli insiemi $A = \{\text{a, e, i, o, u}\}$ e $B = \{\text{Le prime tre lettere dell'alfabeto}\}$, determina $A \cap B$ e $A \cup B$:  
 
 c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$, calcola i risultati delle seguenti espressioni:  
 1. $A \cap B \cap C$  
@@ -544,11 +544,11 @@ Un numero che non si può dividere per nessun altro numero se non per se stesso 
 
 Se prendiamo due numeri e troviamo i loro divisori potrebbe essere che ci siano dei numeri divisori di entrambi: questi si chiamano ***divisori comuni*** e sono gli elementi dell'*<u>intersezione</u>* dell'insieme dei divisori del primo e del secondo numero.
 
-Una cosa analoga si può dire dei multipli di due numeri: se ci sono numeri che sono multipli di entrambi, questi si chiamano ***multipli comuni*** e sono gli elementi dell'*<u>intersezione</u>* dell'insieme dei multipli del primo e del secondo numero.
+Una cosa analoga si può dire dei multipli di due numeri: se ci sono numeri che sono multipli di entrambi, questi si chiamano ***multipli comuni*** e sono gli elementi dell'*<u>intersezione</u>* dell'insieme dei multipli del primo e del secondo numero.
 
 #### ESEMPIO
 
-Consideriamo i due numeri $12$ e $8$. I divisori di $12$ sono $\{1,2,3,4,6,12\}$ e quelli di $8$ sono $\{1,2, 4, 8\}$. I divisori comuni sono $\{1, 2, 4\}$. $1$ è sempre divisore di qualunque numero, così come il numero stesso. Se indichiamo il primo insieme con $A$ ed il secondo con $B$, abbiamo che $A \cap B = \{1, 2, 4\}$ .
+Consideriamo i due numeri $12$ e $8$. I divisori di $12$ sono $\{1,2,3,4,6,12\}$ e quelli di $8$ sono $\{1,2, 4, 8\}$. I divisori comuni sono $\{1, 2, 4\}$. $1$ è sempre divisore di qualunque numero, così come il numero stesso. Se indichiamo il primo insieme con $A$ ed il secondo con $B$, abbiamo che $A \cap B = \{1, 2, 4\}$ .
 
 I multipli di $12$ sono infiniti: $\{12, 24, 36, 48, 60, 72,...\}$; anche quelli di $8$: $\{8, 16, 24, 32, 40, 48, 56, 64, 72, ...\}$. I multipli comuni sono anch'essi infiniti e sono tutti i multipli di $24$: $\{24, 48, 72, ...\}$.   $\bullet$
 
@@ -560,17 +560,24 @@ Il più grande tra i divisori comuni di due numeri si chiama ***Massimo Comune D
 
 ### ESERCIZIO 8.1 - Divisori e multipli
 
-a) Scrivi tutti i divisori di ciascuno dei numeri $6$, $15$, $18$, $21$, $24$, $25$;
+a) Scrivi tutti i divisori di ciascuno dei numeri $6$, $15$, $18$, $21$, $24$, $25$.
 
-b) Scrivi i primi $4$ multipli dei numeri $25$, $40$, $33$, $6$;
+b) Scrivi i primi $4$ multipli dei numeri $25$, $40$, $33$, $6$.
 
-c) Scrivi i multipli minori di $100$ dei numeri $25$, $40$, $33$, $6$;
+c) Scrivi i multipli minori di $100$ dei numeri $25$, $40$, $33$, $6$.
 
-d) Scrivi i multipli minori di $60$ (compreso) dei numeri $6$, $8$, $10$, $12$, $15$,e $16$;
+d) Scrivi i multipli minori di $60$ (compreso) dei numeri $6$, $8$, $10$, $12$, $15$, $16$.
 
-e) Scrivi il primo multiplo comune ai numeri $6$,e $8$, $10$,e $12$, $15$,e $16$;
+e) Scrivi il primo multiplo comune ai numeri:
 
-f) Scrivi i multipli minori di $100$ comuni ai numeri $6$,e $8$, $10$,e $12$;
+1. $6$ e $8$;
+2. $10$ e $12$;
+3. $15$ e $16$.
+
+f) Scrivi i multipli minori di $100$ comuni ai numeri:
+
+1. $6$ e $8$;
+2. $10$ e $12$.
 
 g) Scrivi tutti i divisori comuni ai numeri $18$ e 24.
 
@@ -611,7 +618,7 @@ Siccome è utile avere una scomposizione di un numero in fattori tutti primi, ce
 
 Facendo la stessa cosa con $8$ abbiamo $8 = 2^3$ e confrontando le due scomposizioni, vediamo che i numeri $2$ e $2^2$ sono fattori comuni sia a $12$ che ad $8$, mentre il fattore $3$ è solo di $12$, così come come il fattore $2^3$ è solo di $8$. 
 
-Se consideriamo come fattori le potenze di numeri primi, abbiamo allora un metodo alternativo a quello visto nell'unità precedente per calcolare MCM e MCD di due numeri, una regola che dice che:
+Se consideriamo come fattori le potenze di numeri primi, abbiamo allora un metodo alternativo a quello visto nell'unità precedente per calcolare $MCM$ e $MCD$ di due numeri, una regola che dice che:
 
 - Il Minimo Comune Multiplo di due numeri è uguale al prodotto di tutti i loro fattori (potenze di numeri primi), comuni e non comuni, quelli comuni presi con il massimo esponente;
 - Il Massimo Comune Divisore di due numeri è uguale al prodotto dei soli fattori comuni (potenze di numeri primi) presi con il minimo esponente.
