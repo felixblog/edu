@@ -83,13 +83,35 @@ Se ci sono parentesi, i numeri dentro le parentesi devono essere utilizzati prio
 
 
 
+#### Quando si tolgono le parentesi?
+
+Le parentesi si tolgono quando al loro interno non ci sono più operazioni da fare, cioè quando contengono un solo numero. La parentesi scompare nel momento in cui il numero tra parentesi, che viene utilizzato come un qualsiasi altro numero senza parentesi, viene utilizzato in una operazione limitrofa, ossia che si trova immediatamente fuori dalla parentesi stessa. L'esempio seguente chiarisce quanto detto nel passaggio tra d) ed e).
+
+#### ESEMPIO 4
+
+a) $(2\overset{(a)}·4 + 7) + (2 + 8) : 2$;
+
+b) $3 \cdot (\underline{8} \overset{(a)}+ 7) + (2 + 8) : 2$;
+
+c) $3 \cdot (\underline{15}) + (2 \overset{(a)}+ 8) : 2$;
+
+d) $3 \overset{(a)}\cdot (15) + (\underline{10}) : 2$;
+
+e) $\underline{45} + (\underline{10}) \overset{(a)}: 2$;
+
+f) $45 + \underline{5}$;
+
+g) $\underline{50}$.
+
+
+
 #### Quante operazioni bisogna fare in un passaggio?
 
 L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
 
 Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio. Vedere l'esempio seguente, dove il risultato del calcolo è indicato con il numero sottolineato.
 
-#### ESEMPIO 1
+#### ESEMPIO 5
 
 **NON** fare il calcolo seguente
 
@@ -435,7 +457,7 @@ Inserisci in GEOGEBRA le espressioni del punti a), b) e c) dell'esercizio e calc
 
 
 
-## UNITA' 6: Insiemi e loro rappresentazione
+## UNITA' 6: Insiemi e loro rappresentazioni
 
 Un ***insieme*** è qualcosa di cui tutti abbiamo un'idea e precisamente è un gruppo di oggetti, concreti o astratti (come lettere dell'alfabeto, numeri, etc.); gli oggetti che formano l'insieme sono detti ***elementi*** dell'insieme.
 
@@ -480,33 +502,31 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 Con gli insiemi è possibile fare delle operazioni, come ad esempio con la moltiplicazione tra numeri: moltiplicando due numeri si produce un terzo numero, che è il prodotto dei due. Tra insiemi è possibile fare tre operazioni, l'**unione**, l'**intersezione** e la **differenza**. 
 
-L'**unione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cup B$ formato dagli elementi che appartengono ad $A$ o a $B$; in simboli:
+L'**unione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cup B$ formato dagli elementi che appartengono ad $A$ o a $B$:
 $$
-A \cup B = \{x: x \in A \; oppure \;x \in B\}
+A \cup B = \{\text{Gli elementi che appartengono ad A oppure a B}\}
 $$
 
 
 L'**intersezione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cap B$ formato dagli elementi che appartengono sia ad $A$ che a $B$:
 $$
-A \cup B = \{x: x \in A \; e \;x \in B\}
+A \cup B = \{\text{Gli elementi che appartengono sia ad A che a B}\}
 $$
 
 
 La **differenza** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \setminus B$ formato dagli elementi che appartengono ad $A$ ma non a $B$:
 $$
-A \setminus B = \{x: x \in A \; e \;x \notin B\}
+A \setminus B = \{\text{Gli elementi che appartengono ad A ma non a B}\}
 $$
 
 
 ### ESERCIZIO 7.1 - Intersezione ed Unione
 
 a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappresentale per elencazione e mediante un diagramma di Eulero-Venn:  
-1. $A = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «tegame»\}$, $B = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «gomito»\}$.
-2. $C = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «attesa»\}$, $D = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «paese»\}$.  
+1. $A = \{\text{Le lettere della parola «tegame»}\}$, $B = \{\text{Le lettere della parola «gomito»}\}$.
+2. $C = \{\text{Le lettere della parola «attesa»}\}$, $D = \{\text{Le lettere della parola «paese»}\}$.  
 
-b) Per ciascuna coppia di insiemi $A$ e $B$ determina l'insieme $A \cap B$:  
-1. $A = \{x: x \; \acute{e} \; un \; multiplo \; di \; 4\}$ e $B = \{x: x \; \acute{e} \; un \; multiplo \; di \; 6\}$;  
-2. $A = \{x: x \; \acute{e} \; un \; divisore \; di \; 8\}$ e $B = \{x: x \; \acute{e} \; un \; divisore \; di \; 12\}$.  
+b) Per gli insiemi $A = \{\text{a, e, i, o, u}\}$ e $B = \{\text{Le prime tre lettere dell'alfabeto}\}$, determina $A \cap B$ e $A \cup B$:  
 
 c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$, calcola i risultati delle seguenti espressioni:  
 1. $A \cap B \cap C$  
@@ -522,19 +542,19 @@ Un multiplo di un numero è un altro numero che sta nella tabellina del primo nu
 
 Un numero che non si può dividere per nessun altro numero se non per se stesso e per uno, ossia non ha divisori, si dice **primo**. Esempi di numeri primi sono $2$, $3$, $17$, $29$ etc.
 
-Se prendiamo due numeri e troviamo i loro divisori potrebbe essere che ci siano dei numeri divisori di entrambi: questi si chiamano ***divisori comuni***; la stessa cosa si può dire dei multipli di due numeri: se ci sono numeri che sono multipli di entrambi, questi si chiamano ***multipli comuni***.
+Se prendiamo due numeri e troviamo i loro divisori potrebbe essere che ci siano dei numeri divisori di entrambi: questi si chiamano ***divisori comuni*** e sono gli elementi dell'*<u>intersezione</u>* dell'insieme dei divisori del primo e del secondo numero.
+
+Una cosa analoga si può dire dei multipli di due numeri: se ci sono numeri che sono multipli di entrambi, questi si chiamano ***multipli comuni*** e sono gli elementi dell'*<u>intersezione</u>* dell'insieme dei multipli del primo e del secondo numero.
 
 #### ESEMPIO
 
-Consideriamo i due numeri $12$ e $8$. I divisori di $12$ sono $\{1,2,3,4,6,12\}$ e quelli di $8$ sono $\{1,2, 4, 8\}$. I divisori comuni sono $\{1, 2, 4\}$. $1$ è sempre divisore di qualunque numero, così come il numero stesso.
+Consideriamo i due numeri $12$ e $8$. I divisori di $12$ sono $\{1,2,3,4,6,12\}$ e quelli di $8$ sono $\{1,2, 4, 8\}$. I divisori comuni sono $\{1, 2, 4\}$. $1$ è sempre divisore di qualunque numero, così come il numero stesso. Se indichiamo il primo insieme con $A$ ed il secondo con $B$, abbiamo che $A \cap B = \{1, 2, 4\}$ .
 
-I multipli di $12$ sono infiniti: $\{12, 24, 36, 48, 60, 72,...\}$; anche quelli di $8$: $\{8, 16, 24, 32, 40, 48, 56, 64, 72, ...\}$. I multipli comuni sono anch'essi infiniti e sono tutti i multipli di $24$: $\{24, 48, 72, ...\}$.
-
-------
+I multipli di $12$ sono infiniti: $\{12, 24, 36, 48, 60, 72,...\}$; anche quelli di $8$: $\{8, 16, 24, 32, 40, 48, 56, 64, 72, ...\}$. I multipli comuni sono anch'essi infiniti e sono tutti i multipli di $24$: $\{24, 48, 72, ...\}$.   $\bullet$
 
 
 
-Il più grande dei divisori comuni di due numeri si chiama ***Massimo Comune Divisore*** dei due numeri, mentre il più piccolo dei multipli comuni si chiama ***minimo comune multiplo*** e si scrivono $MCD(8,12) \longrightarrow 24$ e $MCM(8,12) \longrightarrow 72$.
+Il più grande tra i divisori comuni di due numeri si chiama ***Massimo Comune Divisore*** dei due numeri e si indica con $MCD$, mentre il più piccolo dei multipli comuni si chiama ***Minimo Comune Multiplo*** e si indica con $MCM$, per cui $MCD(8,12) \longrightarrow 4$ e $MCM(8,12) \longrightarrow 24$.
 
 
 
