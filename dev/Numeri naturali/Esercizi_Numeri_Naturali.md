@@ -11,7 +11,7 @@ L'operazione di ***somma o addizione*** è la prima e più semplice delle operaz
 
 L'operazione di ***sottrazione*** è la seconda. Sottraiamo due numeri quando contiamo, in un gruppo di oggetti, quelli che non fanno parte di un certo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine: i libri interi sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un gruppo di oggetti ha un numero di elementi sempre minore (o al più uguale) a quello del gruppo, non è possibile sottrarre un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
 
-La sottrazione serve anche a trovare un numero (addendo) di una somma quando conosciamo solo l'altro ed il risultato. Ad esempio, se sappiamo che la somma di $7$ più un altro numero fa $15$ possiamo trovare l'altro numero calcolando $15 - 7 \longrightarrow 6$: $6$ è l'unico numero che sommato a $7$ fa $15$. 
+La sottrazione serve anche a trovare un numero (addendo) di una somma quando conosciamo solo l'altro ed il risultato. Ad esempio, se sappiamo che la somma di $7$ più un altro numero fa $15$ possiamo trovare l'altro numero calcolando $15 - 7 \longrightarrow 6$: il numero $6$ è l'unico che sommato a $7$ fa $15$. 
 
 La ***moltiplicazione o prodotto*** è la terza operazione. I numeri che la compongono sono chiamati ***fattori*** e noi moltiplichiamo due numeri naturali quando vogliamo contare quanti sono gli oggetti in totale se sono organizzati in gruppi tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta 9 libri (ossia abbiamo 5 gruppi di libri, ciascuno dei quali ha 9 libri): il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$, ossia uniamo 5 gruppi di 9 libri ciascuno.
 
@@ -19,11 +19,13 @@ La ***divisione o rapporto*** è l'operazione che ci permette di dividere un ins
 
 Il primo numero (nell'esempio il $12$) è chiamato ***dividendo***,  il secondo (il $3$) ***divisore*** ed il risultato è chiamato anche ***quoziente***. 
 
-La divisione serve anche a trovare uno dei due fattori di una moltiplicazione quando conosciamo l'altro ed il risultato. Nell'esempio di prima, se abbiamo $5$ studenti che in totale portano $45$ libri e tutti portano lo stesso numero di libri, quanti libri porta ciascuno?
+La divisione serve anche a trovare uno dei due fattori di una moltiplicazione quando conosciamo l'altro ed il risultato. Nell'esempio di prima, se abbiamo $5$ studenti che in totale portano $45$ libri e tutti portano lo stesso numero di libri, quanti libri porta ciascuno?
 
-Bisogna calcolare $45 : 5 \longrightarrow 9$. La stessa cosa se sappiamo che i libri sono $45$ ed ogni studente porta $9$ libri: per sapere quanti sono gli studenti bisogna dividere $45 : 9 \longrightarrow 5$ studenti. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per $4$; se le gambe sono $100$ le pecore sono $100 : 4 \longrightarrow 25$.  
+Bisogna calcolare $45 : 5 \longrightarrow 9$. La stessa cosa se sappiamo che i libri sono $45$ ed ogni studente porta $9$ libri: per sapere quanti sono gli studenti bisogna dividere $45 : 9 \longrightarrow 5$ studenti. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per $4$; se le gambe sono $100$ le pecore sono $100 : 4 \longrightarrow 25$.  
 
- 
+Come per la sottrazione, non sempre il risultato della divisione di due numeri naturali è un numero naturale: se i bambini dell'esempio precedente delle caramelle fossero $5$, non sarebbe possibile dividere $12$ caramelle tra $5$ bambini in parti uguali senza "rompere" qualche caramella, per cui il risultato di $12 : 5$ non è un numero naturale.
+
+
 
 #### Le espressioni
 
