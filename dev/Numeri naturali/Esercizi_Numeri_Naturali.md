@@ -11,21 +11,29 @@ L'operazione di ***somma o addizione*** è la prima e più semplice delle operaz
 
 L'operazione di ***sottrazione*** è la seconda. Sottraiamo due numeri quando contiamo, in un gruppo di oggetti, quelli che non fanno parte di un certo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine: i libri interi sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un gruppo di oggetti ha un numero di elementi sempre minore (o al più uguale) a quello del gruppo, non è possibile sottrarre un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
 
+La sottrazione serve anche a trovare un numero (addendo) di una somma quando conosciamo solo l'altro ed il risultato. Ad esempio, se sappiamo che la somma di $7$ più un altro numero fa $15$ possiamo trovare l'altro numero calcolando $15 - 7 \longrightarrow 6$: $6$ è l'unico numero che sommato a $7$ fa $15$. 
+
 La ***moltiplicazione o prodotto*** è la terza operazione. I numeri che la compongono sono chiamati ***fattori*** e noi moltiplichiamo due numeri naturali quando vogliamo contare quanti sono gli oggetti in totale se sono organizzati in gruppi tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta 9 libri (ossia abbiamo 5 gruppi di libri, ciascuno dei quali ha 9 libri): il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$, ossia uniamo 5 gruppi di 9 libri ciascuno.
 
-La ***divisione o rapporto*** è l'operazione inversa della moltiplicazione. Il primo numero è chiamato ***dividendo*** ed il secondo ***divisore***. Per capire il suo significato, immaginiamo, come per la moltiplicazione, di avere un certo numero di oggetti divisi in gruppi ed ogni gruppo ha lo stesso numero di elementi. Se conosciamo il numero totale di oggetti (dividendo) ed il numero di gruppi (divisore), il risultato ci dà gli elementi di ogni gruppo. Facciamo un esempio con 12 caramelle (totale degli oggetti) da dividere in parti uguali tra 3 bambini (3 gruppi di caramelle), ogni bambino avrà 4 caramelle. ottenuto facendo $12 : 3$.
+La ***divisione o rapporto*** è l'operazione che ci permette di dividere un insieme di oggetti in parti uguali e ci dice quanti oggetti spettano a ciascuna parte. Facciamo un esempio con $12$ caramelle (totale degli oggetti) da dividere in parti uguali tra $3$ bambini ($3$ gruppi di caramelle): ogni bambino avrà $4$ caramelle, numero ottenuto facendo $12 : 3 \longrightarrow 4$.
 
-Con la divisione possiamo sapere anche quanti sono i gruppi, se conosciamo il totale degli oggetti (dividendo) e quanti oggetti ha ogni gruppo (divisore): se abbiamo 12 caramelle da dividere per un certo numero di bambini ed ognuno di loro avrà 3 caramelle, quanti sono i bambini? Sono 4. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per 4; se le gambe sono 100 le pecore sono $100 : 4 \longrightarrow 25$.  
+Il primo numero (nell'esempio il $12$) è chiamato ***dividendo***,  il secondo (il $3$) ***divisore*** ed il risultato è chiamato anche ***quoziente***. 
 
-Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni più complesse in cui compaiono due operazioni, come $12 \cdot 3 + 4$; in questo caso il numero $3$ fa parte sia di una moltiplicazione che di una somma. 
+La divisione serve anche a trovare uno dei due fattori di una moltiplicazione quando conosciamo l'altro ed il risultato. Nell'esempio di prima, se abbiamo $5$ studenti che in totale portano $45$ libri e tutti portano lo stesso numero di libri, quanti libri porta ciascuno?
+
+Bisogna calcolare $45 : 5 \longrightarrow 9$. La stessa cosa se sappiamo che i libri sono $45$ ed ogni studente porta $9$ libri: per sapere quanti sono gli studenti bisogna dividere $45 : 9 \longrightarrow 5$ studenti. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per $4$; se le gambe sono $100$ le pecore sono $100 : 4 \longrightarrow 25$.  
+
+ 
 
 #### Le espressioni
 
-Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due numeri c'è sempre una operazione). L'esecuzione nell'ordine corretto delle operazioni di una espressione produce un unico numero detto "valore" o "risultato" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
+Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni che contengono due o più operazioni che devono essere calcolate in sequenza, come $12 \cdot 3 + 4$.
+
+Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due numeri c'è sempre una operazione e tra due operazioni sempre un numero). L'esecuzione nell'ordine corretto delle operazioni di una espressione produce un unico numero detto "risultato" o "valore" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
 
 #### ESEMPIO 1
 
-Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto tra $8$ e $12$. Vediamo però che il $12$ fa parte anche della somma $12$ + $5$ e quindi si dice "condiviso" tra il prodotto e la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione, perché la moltiplicazione ha la priorità nell'uso dei numeri contesi con la somma. La prima operazione da eseguire sarà il prodotto; la sequenza delle operazioni sarà:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
+Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra è il prodotto tra $8$ e $12$. Vediamo però che il $12$ fa parte anche della somma $12$ + $5$ e quindi si dice "condiviso" tra il prodotto e la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e deve essere usato nella moltiplicazione, perché la moltiplicazione ha la priorità nell'uso dei numeri contesi con la somma. La prima operazione da eseguire sarà il prodotto e quindi la sequenza corretta delle operazioni da fare sarà:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
 
 Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra è la somma e l'$8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nella moltiplicazione. La somma quindi non può essere eseguita per prima (manca il secondo numero!) e verrà eseguita per seconda sul **sul risultato del prodotto**. 
 
@@ -572,12 +580,12 @@ e) Scrivi il primo multiplo comune ai numeri:
 
 1. $6$ e $8$;
 2. $10$ e $12$;
-3. $15$ e $16$.
+3. $15$ e $16$.
 
 f) Scrivi i multipli minori di $100$ comuni ai numeri:
 
 1. $6$ e $8$;
-2. $10$ e $12$.
+2. $10$ e $12$.
 
 g) Scrivi tutti i divisori comuni ai numeri $18$ e 24.
 
