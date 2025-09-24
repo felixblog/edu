@@ -11,7 +11,7 @@ L'operazione di ***somma o addizione*** è la prima e più semplice delle operaz
 
 L'operazione di ***sottrazione*** è la seconda. Sottraiamo due numeri quando contiamo, in un gruppo di oggetti, quelli che non fanno parte di un certo sottoinsieme: ad esempio uno studente ha 7 libri, <u>di cui</u> 2 sono senza alcune pagine: i libri interi sono $7 - 2 \longrightarrow 5$. Poiché un sottoinsieme di un gruppo di oggetti ha un numero di elementi sempre minore (o al più uguale) a quello del gruppo, non è possibile sottrarre un numero più grande da un numero più piccolo, ossia non è possibile calcolare $2 - 7$. 
 
-La sottrazione serve anche a trovare un numero (addendo) di una somma quando conosciamo solo l'altro ed il risultato. Ad esempio, se sappiamo che la somma di $7$ più un altro numero fa $15$ possiamo trovare l'altro numero calcolando $15 - 7 \longrightarrow 6$: il numero $6$ è l'unico che sommato a $7$ fa $15$. 
+La sottrazione serve anche a trovare un numero (addendo) di una somma quando conosciamo solo l'altro ed il risultato. Ad esempio, se sappiamo che la somma di $7$ più un altro numero fa $15$ possiamo trovare l'altro numero calcolando $15 - 7 \longrightarrow 8$: il numero $8$ è l'unico che sommato a $7$ fa $15$. 
 
 La ***moltiplicazione o prodotto*** è la terza operazione. I numeri che la compongono sono chiamati ***fattori*** e noi moltiplichiamo due numeri naturali quando vogliamo contare quanti sono gli oggetti in totale se sono organizzati in gruppi tutti con lo stesso numero di elementi: abbiamo 5 studenti, ognuno dei quali porta 9 libri (ossia abbiamo 5 gruppi di libri, ciascuno dei quali ha 9 libri): il numero totale dei libri è $9 \cdot 5 \longrightarrow 45$, ossia uniamo 5 gruppi di 9 libri ciascuno.
 
@@ -107,7 +107,7 @@ c) $3 \cdot (\underline{15}) + (2 \overset{(a)}+ 8) : 2$;
 
 d) $3 \overset{(a)}\cdot (15) + (\underline{10}) : 2$;
 
-e) $\underline{45} + (\underline{10}) \overset{(a)}: 2$;
+e) $\underline{45} + (10) \overset{(a)}: 2$;
 
 f) $45 + \underline{5}$;
 
