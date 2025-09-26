@@ -618,7 +618,7 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 
 
-## UNITA' 9: MCM e MCD mediante scomposizioni
+## UNITA' 9: MCM e MCD mediante scomposizione
 
 Se un numero ha un divisore, il numero si può scrivere come prodotto di due numeri, uno dei quali è il divisore; diciamo che il numero si **scompone** in un prodotto di numeri o fattori.
 
@@ -680,15 +680,44 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 ## UNITA' 10: Scomposizione in fattori di una somma
 
+#### Proprietà distributiva del prodotto rispetto alla somma
+
 A volte è utile scrivere una somma di due numeri come prodotto di due numeri. La situazione varia di caso in caso, ma qui vediamo un metodo che sarà utile in seguito: la **evidenza di un fattore comune**.
 
-Se sommiamo due numeri che nella loro scomposizione in fattori primi hanno un fattore in comune, possiamo scrivere la somma come prodotto. 
+Il metodo si basa su una proprietà della moltiplicazione e della somma per cui se ho una somma di due prodotti che hanno lo stesso fattore la somma si può scrivere come il fattore che moltiplica la somma. Vediamo alcuni esempi:
+
+a) $2 \cdot 3 + 2 \cdot 4 \longrightarrow 14$
+
+b) $2 \cdot (3 + 4) \longrightarrow 2 \cdot 7 \longrightarrow 14$ 
+
+a) $5 \cdot 4 + 5 \cdot 3 \longrightarrow 35$
+
+b) $5 \cdot (4 + 3) \longrightarrow 2 \cdot 7 \longrightarrow 35$
+
+Come si vede le due espressioni sono uguali, per cui si può scrivere $2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$ e $5 \cdot 4 + 5 \cdot 3 = 5 \cdot (4 + 3)$. Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
+$$
+a \cdot b + a \cdot c = a \cdot (b + c) 
+$$
+$\bullet$
+
+
+
+#### Scomposizione in fattori di una somma
+
+Se abbiamo la somma di due numeri che nella loro scomposizione in fattori primi hanno un fattore in comune, possiamo scrivere la somma come prodotto. 
 
 #### ESEMPIO 1
 
-Sappiamo che $6 = 2 \cdot 3$ e $8 = 2 \cdot 4$, per cui $6$ ed $8$ hanno il numero $2$ come **fattore comune**. Se abbiamo $6 + 8$ possiamo scrivere 
+Se abbiamo $6 + 8$ scomponiamo $6 = 2 \cdot 3$ e $8 = 2 \cdot 4$ e vediamo che $2$ è un **fattore comune**, per cui possiamo scrivere:  
 
-$6 + 8 = 2 \cdot 3 + 2 \cdot 4 \longrightarrow 2 \cdot (3 + 4) = 2 \cdot 7$.
+$6 + 8 = 2 \cdot 3 + 2 \cdot 4$
+
+e dalla proprietà distributiva della moltiplicazione rispetto alla somma $2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$ per cui 
+$$
+6 + 8 = 2 \cdot (3 +4) \\
+6 + 8 = 2 \cdot 7
+$$
+
 
 Tirare fuori il fattore comune $2$ dalla somma $2 \cdot 3 + 2 \cdot 4$ e metterlo fuori dalla parentesi si dice **evidenziare il fattore comune**.   $\bullet$
 
