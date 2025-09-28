@@ -29,9 +29,11 @@ Come per la sottrazione, non sempre il risultato della divisione di due numeri n
 
 #### Le espressioni
 
-Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui ognuno dei due numeri è coinvolto in una sola operazione. Oltre a far parte di queste, i numeri naturali possono far parte di espressioni che contengono due o più operazioni che devono essere calcolate in sequenza, come $12 \cdot 3 + 4$.
+Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui non resta che eseguire l'operazione e calcolare il risultato che è $7$. Oltre ad essere usati in una singola operazione, i numeri naturali possono far parte di espressioni, ossia sequenze di operazioni.
 
-Le **espressioni** sono sequenze di numeri ed operazioni alternate (tra due numeri c'è sempre una operazione e tra due operazioni sempre un numero). L'esecuzione nell'ordine corretto delle operazioni di una espressione produce un unico numero detto "risultato" o "valore" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
+Le **espressioni** sono sequenze di operazioni, come $12 \cdot 3 + 4$, in cui il risultato di una operazione viene utilizzato come numero in un'altra operazione dell'espressione. In $12 \cdot 3 + 4$, vediamo due operazioni, un prodotto ed una somma, ed il significato di questo modo di scrivere è che il risultato di $12 \cdot 3$, cioè $36$, deve essere utilizzato nella somma con $4$, cioè il risultato del calcolo di entrambe le operazioni è $12 \cdot 3 + 4 \longrightarrow 36 + 4 \longrightarrow 40$. 
+
+In una espressione ci sono alternativamente numeri ed operazioni in modo che tra due numeri c'è sempre una operazione e tra due operazioni sempre un numero. L'esecuzione nell'ordine corretto delle operazioni di una espressione produce un unico numero detto "risultato" o "valore" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
 
 #### ESEMPIO 1
 
@@ -688,13 +690,13 @@ Il metodo si basa su una proprietà della moltiplicazione e della somma per cui 
 
 a) $2 \cdot 3 + 2 \cdot 4 \longrightarrow 14$
 
-b) $2 \cdot (3 + 4) \longrightarrow 2 \cdot 7 \longrightarrow 14$ 
+b) $2 \cdot (3 + 4) \longrightarrow 2 \cdot 7 \longrightarrow 14$ 
 
 a) $5 \cdot 4 + 5 \cdot 3 \longrightarrow 35$
 
 b) $5 \cdot (4 + 3) \longrightarrow 2 \cdot 7 \longrightarrow 35$
 
-Come si vede le due espressioni sono uguali, per cui si può scrivere $2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$ e $5 \cdot 4 + 5 \cdot 3 = 5 \cdot (4 + 3)$. Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
+Come si vede le due espressioni sono uguali, per cui si può scrivere $2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$ e $5 \cdot 4 + 5 \cdot 3 = 5 \cdot (4 + 3)$. Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
 $$
 a \cdot b + a \cdot c = a \cdot (b + c) 
 $$
