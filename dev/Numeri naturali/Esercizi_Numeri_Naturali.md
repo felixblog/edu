@@ -345,7 +345,7 @@ Le espressioni in cui compare almeno una lettera si chiamano **espressioni lette
 
 Se in  $1 + x \cdot (x - 2)$ sostituiamo $3$ ad $x$, dobbiamo sostituirlo per ogni $x$ ed otteniamo $1 + 3 \cdot (3-2) \longrightarrow 4$.   
 
-Se invece abbiamo l'espressione $1 + a \cdot (a - b)$, possiamo decidere di sostituire $a$ con $10$ e, ad esempio, $b$ con $3$, ottenendo: $1 + 10 \cdot (10- 3)$ che fa $71$.    $\bullet$
+Se invece abbiamo l'espressione $1 + a \cdot (a - b)$, possiamo decidere di sostituire $a$ con $10$ e, ad esempio, $b$ con $3$, ottenendo: $1 + 10 \cdot (10- 3)$ che fa $71$.    $\bullet$
 
 
 
@@ -387,7 +387,7 @@ base \rightarrow 3^{4 \leftarrow esponente}
 $$
 La potenza è quindi una operazione, come la somma, la sottrazione etc., che non ha un simbolo proprio ma sta tra la base e l'esponente e da come il risultato il prodotto della base per se stessa tante volte quante indicate dall'esponente.
 
-La potenza, quando condivide la base o l'esponente insieme ad altre operazioni un una espressione, **ha priorità massima** di calcolo. Vediamo alcuni esempi:
+La potenza, quando condivide la base o l'esponente insieme ad altre operazioni un una espressione, **ha la massima priorità** di esecuzione. Vediamo alcuni esempi:
 
 1. $5 + 2^3 \longrightarrow 5 + 8 \longrightarrow 13$;  	prima si calcola la potenza e poi la somma.
 2. $5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;  	prima si calcola la potenza e poi la moltiplicazione.
@@ -407,7 +407,7 @@ Di seguito alcuni esempi di trasformazione tra le due notazioni.
 
 Un altra situazione in cui si usa una forma non lineare è la divisione. La divisione $10 : 2$ può essere scritta nella forma $\dfrac{10}{2}$, chiamata ***frazione***. Il numero al di sopra della linea orizzontale, che corrisponde al dividendo della divisione, viene chiamato ***numeratore***, e quello al di sotto, corrispondente al divisore, si chiama ***denominatore***. 
 
-Geogebra scrive le divisioni in forma di frazioni per cui bisogna fare attenzione quando si inseriscono le espressioni per il loro calcolo: quando come dividendo o divisore abbiamo una espressione tra parentesi, **tutta** l'espressione che compare tra le parentesi deve essere scritta al di sopra della linea orizzontale di frazione o al di sotto, senza riportare le parentesi. Le casistiche sono riportate di seguito.
+GEOGEBRA scrive le divisioni in forma di frazioni per cui bisogna fare attenzione quando si inseriscono le espressioni per il loro calcolo: quando come dividendo o divisore abbiamo una espressione tra parentesi, **tutta** l'espressione che compare tra le parentesi deve essere scritta al di sopra della linea orizzontale di frazione o al di sotto, senza riportare le parentesi. Le casistiche sono riportate di seguito.
 
 1. $(10 + 2): 6 \longleftrightarrow \dfrac{10 + 2}{6}$;
 2. $6:(2 + 1) \longleftrightarrow \dfrac{6}{2 + 1}$;
@@ -630,7 +630,7 @@ c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA 
 
 ## UNITA' 9: MCM e MCD mediante scomposizione
 
-Se un numero ha un divisore, il numero si può scrivere come prodotto di due numeri, uno dei quali è il divisore; diciamo che il numero si **scompone** in un prodotto di numeri o fattori.
+Se un numero ha un divisore, il numero si può scrivere come prodotto di due numeri, uno dei quali è il divisore; diciamo che il numero si **scompone** in un prodotto di numeri o *fattori*.
 
 Se prendiamo il numero $12$, vediamo che $4$ è un divisore, perché $12 : 4 \longrightarrow 3$ e quindi $12 = 3 \cdot 4$, per cui $12$ si scompone nel prodotto di $4 \cdot 3$. Poiché i numeri che fanno parte di una moltiplicazione si chiamano ***fattori***, si dice che se un numero si scompone in fattori, si ***fattorizza***.
 
@@ -638,7 +638,7 @@ Siccome è utile avere una scomposizione di un numero in fattori tutti primi, ce
 
 Facendo la stessa cosa con $8$ abbiamo $8 = 2^3$ e confrontando le due scomposizioni, vediamo che i numeri $2$ e $2^2$ sono fattori comuni sia a $12$ che ad $8$, mentre il fattore $3$ è solo di $12$, così come come il fattore $2^3$ è solo di $8$. 
 
-Se consideriamo come fattori le potenze di numeri primi, abbiamo allora un metodo alternativo a quello visto nell'unità precedente per calcolare $MCM$ e $MCD$ di due numeri, una regola che dice che:
+Se consideriamo come fattori le potenze di numeri primi, abbiamo allora un metodo alternativo a quello visto nell'unità precedente per calcolare $MCM$ e $MCD$ di due numeri, abbiamo cioè una regola che dice:
 
 - Il Minimo Comune Multiplo di due numeri è uguale al prodotto di tutti i loro fattori (potenze di numeri primi), comuni e non comuni, quelli comuni presi con il massimo esponente;
 - Il Massimo Comune Divisore di due numeri è uguale al prodotto dei soli fattori comuni (potenze di numeri primi) presi con il minimo esponente.
@@ -692,33 +692,23 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 #### Proprietà distributiva del prodotto rispetto alla somma
 
-A volte è utile scrivere una somma di due numeri come prodotto di due numeri. La situazione varia di caso in caso, ma qui vediamo un metodo che sarà utile in seguito: la **evidenza di un fattore comune**.
+A volte è utile scrivere una somma di due numeri come prodotto di altri due numeri. La situazione varia di caso in caso, ma qui vediamo un metodo che sarà utile in seguito: la **evidenza di un fattore comune**.
 
-Il metodo si basa su una proprietà della moltiplicazione e della somma per cui se ho una somma di due prodotti che hanno lo stesso fattore la somma si può scrivere come il fattore che moltiplica la somma. Vediamo alcuni esempi:
+Il metodo si basa sul fatto che una somma di due prodotti che hanno uno stesso fattore si può scrivere come il fattore che moltiplica una somma. 
 
-a) $2 \cdot 3 + 2 \cdot 4 \longrightarrow 14$
-
-b) $2 \cdot (3 + 4) \longrightarrow 2 \cdot 7 \longrightarrow 14$ 
-
-a) $5 \cdot 4 + 5 \cdot 3 \longrightarrow 35$
-
-b) $5 \cdot (4 + 3) \longrightarrow 2 \cdot 7 \longrightarrow 35$
-
-Come si vede le due espressioni sono uguali, per cui si può scrivere $2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$ e $5 \cdot 4 + 5 \cdot 3 = 5 \cdot (4 + 3)$. Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
+Ad esempio l'espressione $2 \cdot 3 + 2 \cdot 4$, che fa $14$, la possiamo scrivere come $2 \cdot (3 + 4)$ che fa sempre $14$. Un altro esempio è $5 \cdot 4 + 5 \cdot 3$ che possiamo scrivere come $5 \cdot (4 + 3)$ ed in tutte e due i casi il risultato è $35$. Possiamo quindi dire che 
 $$
-a \cdot b + a \cdot c = a \cdot (b + c) 
+5 \cdot 4 + 5 \cdot 3 = 5 \cdot (4 + 3) \longrightarrow 35
 $$
-$\bullet$
-
+Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
+$$
+a \cdot b + a \cdot c = a \cdot (b + c) \;\;\; \bullet
+$$
 
 
 #### Scomposizione in fattori di una somma
 
-Se abbiamo la somma di due numeri che nella loro scomposizione in fattori primi hanno un fattore in comune, possiamo scrivere la somma come prodotto. 
-
-#### ESEMPIO 1
-
-Se abbiamo $6 + 8$ scomponiamo $6 = 2 \cdot 3$ e $8 = 2 \cdot 4$ e vediamo che $2$ è un **fattore comune**, per cui possiamo scrivere:  
+Per scrivere una somma coma prodotto percorriamo i passi seguenti. Se abbiamo $6 + 8$ scomponiamo $6 = 2 \cdot 3$ e $8 = 2 \cdot 4$ e vediamo che $2$ è un **fattore comune**, per cui possiamo scrivere:  
 
 $6 + 8 = 2 \cdot 3 + 2 \cdot 4$
 
@@ -729,7 +719,7 @@ $$
 $$
 
 
-Tirare fuori il fattore comune $2$ dalla somma $2 \cdot 3 + 2 \cdot 4$ e metterlo fuori dalla parentesi si dice **evidenziare il fattore comune**.   $\bullet$
+Tirare fuori il fattore comune $2$ dalla somma $2 \cdot 3 + 2 \cdot 4$ e metterlo fuori dalla parentesi si dice **evidenziare il fattore comune**.
 
 I fattori comuni a due numeri possono essere più di uno: ad esempio per $8 = 2 \cdot 4$ e $12 = 3 \cdot 2 \cdot 4$ i fattori comuni sono sia $2$ che $4$. Poiché i fattori comuni sono anche divisori dei due numeri, in questi casi conviene utilizzare il più grande, ossia il massimo comune divisore.
 
