@@ -142,7 +142,7 @@ Indicando con un numero positivo ogni spostamento verso destra e con uno negativ
 
 b) Per ciascuna delle seguenti coppie di numeri tra parentesi scrivi la somma algebrica **senza** calcolare il risultato.
 
-1. $(+2, +8);$   $(5, -8);$   $(-8, 5);$   $(-5, -8);$    $(5, 8)$
+1. $(+2, +8);$   $(5, -8);$   $(-8, 5);$   $(-5, -8);$    $(5, 8)$
 2. $(0, +2);$   $(-2, 0);$   $(4, 4);$   $(-4, +4);$
 
 c) Trova quanti numeri interi e quante operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
@@ -240,7 +240,7 @@ Per i numeri interi valgono le regole che sono state viste per i numeri naturali
 Nel caso dei numeri interi bisogna fare le seguenti due osservazioni:
 
 1. Se il numero è negativo il segno è sempre indicato, se il numero è positivo può esserci o non esserci (e se non c'è, è sottinteso il segno $+$).
-2. Non si scrive il segno (positivo o negativo) immediatamente a destra dei simboli di moltiplicazione e divisione: se c'è un numero o una espressione che comincia con il segno $-$ va scritta tra parentesi.  
+2. Non si scrive il segno (positivo o negativo) immediatamente a destra dei simboli di moltiplicazione e divisione: se c'è un numero o una espressione che comincia con il segno $-$ va scritta tra parentesi.  
 
 L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione si può eseguire solo se i due numeri sono disponibili per l'operazione, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa alla successiva.
 
@@ -252,9 +252,11 @@ Nell'espressione $-8 · 12 + 5$ abbiamo tre numeri e due operazioni, un prodotto
 
 Quando c'è un numero condiviso tra moltiplicazione e somma si pone il problema di quale operazione lo deve usare per ottenere il suo risultato: poiché la moltiplicazione ha priorità sulla somma, il $12$ essere usato nella moltiplicazione che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:
 
-a) $\underbracket{-8 \overset{(a)}{\cdot} 12}_\text{*} \overset{\downarrow(b)}{\phantom{,}} + 5$
+a) $\underbracket{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12} \overset{\overset{(b)}{\downarrow}}{\phantom{,}} + 5$
 
-b) $\overset{*}{96} \overset{\downarrow}{\phantom{,}} +5$
+$\downarrow$
+
+b) $\underline{96} \overset{\downarrow}{\phantom{,}} +5$
 
 c) $101$
 
@@ -262,11 +264,11 @@ Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma 
 
 La sequenza delle operazioni sarà allora:
 
-a) $5 \overset{\downarrow(b)}{\phantom{,}} \underbracket{-8 \overset{(a)}{\cdot} 12}_\text{*}$
+a) $5 \overset{\overset{(b)}{\downarrow}}{\phantom{,}} \underbracket{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12}$
 
-b) $ 5 \overset{\downarrow}{\phantom{,}} \;  \overset{*}{-96}$
+b) $ 5 \overset{\downarrow}{\phantom{,}} \;  \underline{-96}$
 
-c) $ 101$   $\bullet$
+c) $ 101$   $\bullet$
 
 
 
@@ -278,9 +280,9 @@ Nell'espressione $-8 · (12 + 5)$, analoga alla precedente ma con presenza di pa
 
 La prima operazione che è possibile eseguire è quindi la somma algebrica dentro la parentesi. La sequenza delle operazioni da eseguire sarà:
 
-a) $-8 \overset{(b)}\cdot (\underbracket{12 \overset{\downarrow(a)}{\phantom{,}} +5}_\text{*})$
+a) $-8 \overset{\overset{(b)}\downarrow}{\phantom{,}} \cdot (\underbracket{12 \overset{\overset{(a)}\downarrow}{\phantom{,}} +5})$
 
-b) $-8 \cdot (\overset{*}{17})$
+b) $-8 \cdot (\underline{17})$
 
 c) $-136$.
 
@@ -302,15 +304,15 @@ $$
 $$
 Come si vede i numeri dell'espressione sono quattro e le operazioni sono tre. La prima operazione del fare è la somma algebrica dentro la parentesi:
 
-a) $-5 -1 \cdot (\underbracket{10 - 15}_\text{(a)})$
+a) $-5 -1 \cdot (\underbracket{10 - 15})$
 
 La seconda è il prodotto immediatamente fuori:
 
-b) $-5 \underbracket{-1 \cdot (\overset{(a)}{-5})}_\text{(b)}$ 
+b) $-5 \underbracket{-1 \cdot (\underline{-5})}$ 
 
 La terza è la somma algebrica dopo il primo $-5$:
 
-c) $-5\; \overset{(b)}{+5}$
+c) $-5 \overset{\downarrow}{\phantom{,}} \underline{+5}$
 
 d) $0$.   $\bullet$
 
@@ -322,25 +324,25 @@ Durante il calcolo delle espressioni, le operazioni delle espressioni si riducon
 
 Noi togliamo le parentesi quando in esse è presente solo un numero (nessuna operazione) e si esegue **la prima operazione al di fuori della parentesi stessa**, come nell'esempio seguente quando eseguiamo la moltiplicazione nel passaggio da b) a c).
 
-a) $-5 + (\underbracket{10 - 15}_\text{(a)}):5$
+a) $-5 + (\underbracket{10 - 15}):5$
 
-b) $-5 \underbracket{+ (\overset{(a)}{-5})}_\text{(b)}:5$
+b) $-5 \underbracket{+ (\underline{-5})}:5$
 
-c) $-5 \; \underbracket{\overset{(b)}{-5}:5}_\text{(c)}$
+c) $-5 \underbracket{\underline{-5}:5}$
 
-d) $-5 \; \overset{(c)}{-1}$
+d) $-5 \; \underline{-1}$
 
 e) $-6$
 
 Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, **calcoliamo la potenza e mettiamo il risultato dentro la parentesi senza toglierla**, come nel passaggio da b) a c) dell'esempio seguente:
 
-a) $-5 -1 \cdot (\underbracket{10 - 15}_\text{(a)})^3$
+a) $-5 -1 \cdot (\underbracket{10 - 15})^3$
 
-b) $-5 -1 \cdot \underbracket{(\overset{(a)}{-5})^3}_\text{(b)}$
+b) $-5 -1 \cdot \underbracket{(\underline{-5})^3}$
 
-c) $-5 \underbracket{-1 \cdot (\overset{(b)}{-125}}_\text{(c)})$
+c) $-5 \underbracket{-1 \cdot (\underline{-125}})$
 
-d) $-5\; \overset{(c)}{+ 125}$
+d) $-5 \; \underline{+ 125}$
 
 e) $+120$
 
@@ -784,77 +786,11 @@ $$
 
 
 
-## UNITA' 8: Prodotto di un numero per una somma ed evidenza di fattori
-
-Consideriamo l'espressione seguente: $5(3 + 4)$. Il calcolo lo si è sempre fatto eseguendo prima la somma algebrica dentro la parentesi tonda e poi la moltiplicazione: $5(3 + 4) \longrightarrow 5(7) \longrightarrow 35$.
-
-C'è però un modo alternativo a questo, che consiste nel fare i due prodotti: $5 \cdot 3$ e $5 \cdot 4$ e sommarli tra di loro. Questo è possibile grazie ad una importante proprietà della moltiplicazione e della somma, detta ***proprietà distributiva della somma rispetto al prodotto***, per cui il prodotto di un numero per una somma è sempre uguale alla somma dei due prodotti:
-$$
-5(3+4) = 5 \cdot 3 + 5 \cdot 4
-$$
-In generale, se $a$, $b$ e $c$ sono tra numeri, abbiamo che le due espressioni $a \cdot (b+c)$ e $a \cdot b + a \cdot c$ sono uguali, cioè:
-$$
-a \cdot (b+c) = a \cdot b + a \cdot c
-$$
-
-#### ESEMPIO 1
-
-L'espressione $-2(2-3)$ può essere calcolata in due modi. Fino ad ora è stata calcolata così:
-
-  $-2(2-3)$ $\longrightarrow$ $-2(-1)$ $\longrightarrow$ $2$;
-
-Con la nuova regola potrebbe essere calcolata anche così:
-
-  $-2(2-3)$ $\longrightarrow$ $-2 \cdot 2 -2 \cdot (-3)$ $\longrightarrow$ $-4 + 6$ $\longrightarrow$ $2$.
 
 
-------
+## UNITA' 8: Potenze e loro proprietà
 
-Negli esempi visti la proprietà distributiva è stata applicata per trasformare il prodotto di un numero per una somma in somma di prodotti:
-$$
-a \cdot (b+c) \Rightarrow a \cdot b + a \cdot c
-$$
-In certi casi è conveniente applicarla al contrario per scrivere ***la somma di due prodotti come prodotto di un numero per una somma***: 
-$$
-a \cdot b + a \cdot c \Rightarrow a \cdot (b+c)
-$$
-Questa operazione si chiama "***messa in evidenza di un fattore comune***", il fattore $a$, comune ad entrambi i prodotti.
-
-#### ESEMPIO 2
-
-L'espressione $5 \cdot 2 + 6 \cdot 2$ può essere scritta $2 \cdot (5+6)$ che è uguale a $22$.
-
-
-
-### ESERCIZIO 8.1 - Proprietà distributiva del prodotto rispetto alla somma
-
-a) Calcola le espressioni seguenti sia nel modo normale che applicando proprietà distributiva del prodotto rispetto alla somma.
-
-1. $2(3 + 2)$;     $-2(3+2)$;     $-2(2-3)$;
-2. $-2(5-7)$;     $(5-7)2$;     $(10 + 9)(-3)$.
-
-b) Quali delle seguenti uguaglianze sono vere?
-
-1. $-2(5-7) = -10 + 14$;     $(5-7)2 = 5 \cdot 2 - 7 \cdot 2$;     $(10 + 9)(-3) = -3 \cdot 10 - 3 \cdot -3$.
-2. $(1 + 0) \cdot 1 = 1 + 1$;      $-(1 - 1) = 1 - 1$.
-
-
-
-### ESERCIZIO 8.2 - Messa in evidenza di un fattore
-
-a) Mettere in evidenza il fattore comune nelle espressioni seguenti.
-
-1. $5 \cdot 3 + 5 \cdot 2$;     $-5 \cdot 3 -5 \cdot 2$;     $5 \cdot 3 + 5 \cdot (-2)$;
-
-b) Mettere in evidenza il fattore comune nelle somme seguenti dopo aver scomposto in fattori ed aver trovato un fattore comune.
-
-1. $4 + 6$;     $-10 + 15$;     $-12 - 8$.
-
-
-
-## UNITA' 9: Potenze e loro proprietà
-
-### ESERCIZIO 9.1 - Calcolo di potenze
+### ESERCIZIO 8.1 - Calcolo di potenze
 
 a) Calcolare le seguenti potenze di numeri interi.
 
@@ -868,7 +804,7 @@ b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle 
 
 
 
-### ESERCIZIO 9.2 - Proprietà delle potenze
+### ESERCIZIO 8.2 - Proprietà delle potenze
 
 a) Applicando le proprietà delle potenze, calcola il valore delle seguenti espressioni.  
 
@@ -893,7 +829,7 @@ d) Semplifica le espressioni seguenti applicando le proprietà delle potenze e c
 
 
 
-### ESERCIZIO 9.3 - Espressioni con le potenze
+### ESERCIZIO 8.3 - Espressioni con le potenze
 
 a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
