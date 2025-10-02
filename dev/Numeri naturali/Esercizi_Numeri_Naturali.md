@@ -377,7 +377,7 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 
 
-## UNITA' 5: Potenze e altre notazioni non lineari
+## UNITA' 5: Potenze ed altre notazioni non lineari
 
 In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
@@ -387,12 +387,12 @@ base \rightarrow 3^{4 \leftarrow esponente}
 $$
 La potenza è quindi una operazione, come la somma, la sottrazione etc., che non ha un simbolo proprio ma sta tra la base e l'esponente e da come il risultato il prodotto della base per se stessa tante volte quante indicate dall'esponente.
 
-La potenza, quando condivide la base o l'esponente insieme ad altre operazioni un una espressione, ha priorità massima di calcolo. Vediamo alcuni esempi:
+La potenza, quando condivide la base o l'esponente insieme ad altre operazioni un una espressione, **ha priorità massima** di calcolo. Vediamo alcuni esempi:
 
 1. $5 + 2^3 \longrightarrow 5 + 8 \longrightarrow 13$;  	prima si calcola la potenza e poi la somma.
 2. $5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;  	prima si calcola la potenza e poi la moltiplicazione.
 3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
-4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$; 
+4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;     prima si calcola l'esponente e poi il resto.
 
 Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama **non lineare** ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ .
 
