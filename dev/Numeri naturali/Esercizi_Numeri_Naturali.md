@@ -31,7 +31,7 @@ Come per la sottrazione, non sempre il risultato della divisione di due numeri n
 
 Negli esempi visti, ad esempio $3 + 4$, compaiono due numeri ed una operazione, per cui non resta che eseguire l'operazione e calcolare il risultato che è $7$. Oltre ad essere usati in una singola operazione, i numeri naturali possono far parte di espressioni, ossia sequenze di operazioni.
 
-Le **espressioni** sono sequenze di operazioni, come $12 \cdot 3 + 4$, in cui il risultato di una operazione viene utilizzato come numero in un'altra operazione dell'espressione. In $12 \cdot 3 + 4$, vediamo due operazioni, un prodotto ed una somma, ed il significato di questo modo di scrivere è che il risultato di $12 \cdot 3$, cioè $36$, deve essere utilizzato nella somma con $4$, cioè il risultato del calcolo di entrambe le operazioni è $12 \cdot 3 + 4 \longrightarrow 36 + 4 \longrightarrow 40$. 
+Le **espressioni** sono sequenze di operazioni, come $12 \cdot 3 + 4$, in cui il risultato di una operazione viene utilizzato come numero in un'altra operazione dell'espressione. In $12 \cdot 3 + 4$, vediamo due operazioni, un prodotto ed una somma, ed il significato di questo modo di scrivere è che il risultato di $12 \cdot 3$, cioè $36$, deve essere utilizzato nella somma con $4$, cioè il risultato del calcolo di entrambe le operazioni è $12 \cdot 3 + 4 \longrightarrow 36 + 4 \longrightarrow 40$. 
 
 In una espressione ci sono alternativamente numeri ed operazioni in modo che tra due numeri c'è sempre una operazione e tra due operazioni sempre un numero. L'esecuzione nell'ordine corretto delle operazioni di una espressione produce un unico numero detto "risultato" o "valore" dell'espressione. L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una operazione è eseguibile solo se i due numeri sono disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. 
 
@@ -121,7 +121,7 @@ g) $\underline{50}$.
 
 L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
 
-Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio. Vedere l'esempio seguente, dove il risultato del calcolo è indicato con il numero sottolineato.
+Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio. Per far questo basta evitare di eseguire due operazioni contigue (una a fianco all'altra), ossia che hanno tra di loro un numero conteso. Vedere l'esempio seguente, dove il risultato del calcolo è indicato con il numero sottolineato.
 
 #### ESEMPIO 5
 
@@ -143,23 +143,23 @@ c) $\underline{4} \overset{(c)}+ 2$
 
 d) $\underline{6}$
 
-E' possibile, se si vuole, fare più operazioni in un solo passaggio; non bisogna però riutilizzare i risultati di una operazione per altre operazioni dello stesso passaggio, ma si deve organizzare il calcolo come nell'esempio seguente (dove le operazioni fatte nello stesso passaggio sono indicate con $(*)$).
+E' possibile, se si vuole, fare più operazioni in un solo passaggio; non bisogna però riutilizzare i risultati di una operazione per altre operazioni (immediatamente a fianco della precedente) nello stesso passaggio, ma si deve organizzare il calcolo come nell'esempio seguente (dove le operazioni fatte nello stesso passaggio sono indicate con a freccia $\downarrow$).
 
 #### ESEMPIO 2
 
-a) $((\underbracket{2\overset{(*)}·4} + 7) + (2 + \underbracket{8 \overset{(*)}: 2})·5) − (\underbracket{6 \overset{(*)}+ 2})·5;$
+a) $((\underbracket{2\overset{\downarrow}·4} + 7) + (2 + \underbracket{8 \overset{\downarrow}: 2})·5) − (\underbracket{6 \overset{\downarrow}+ 2})·5;$
 
-b) $((\underline{8} + 7) + (2+\underline{4}) \cdot 5) - (\underline{8}) \cdot 5$
+b) $((\underline{8} + 7) + (2+\underline{\underline{4}}) \cdot 5) - (\underline{\underline{\underline{8}}}) \cdot 5$
 
-c) $((\underbracket{\underline{8} \overset{(*)}+ 7}) + (\underbracket{2 \overset{(*)}+\underline{4}}) \cdot 5) - \underbracket{(\underline{8}) \overset{(*)}\cdot 5}$
+c) $((\underbracket{8 \overset{\downarrow}+ 7}) + (\underbracket{2 \overset{\downarrow}+4}) \cdot 5) - \underbracket{(8) \overset{\downarrow}\cdot 5}$
 
-d) $((\underline{15}) + (\underline{6}) \cdot 5) - \underline{40}$
+d) $((\underline{15}) + (\underline{\underline{6}}) \cdot 5) - \underline{\underline{\underline{40}}}$
 
-e) $((\underline{15}) + \underbracket{(\underline{6}) \overset{(*)}\cdot 5}) - \underline{40}$
+e) $((15) + \underbracket{(6) \overset{\downarrow}\cdot 5}) - 40$
 
 f) $((15) + \underline{30}) - 40$
 
-g) $(\underbracket{(15) \overset{(*)}+ \underline{30}}) - 40$
+g) $(\underbracket{(15) \overset{\downarrow}+} 30) - 40$
 
 h) $(\underline{45}) - 40$
 
@@ -327,17 +327,25 @@ L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo l
 
 Nelle espressioni possono comparire, oltre ai numeri, anche delle lettere. Ma cosa significa fare operazioni con le lettere?
 
-Ovviamente non è possibile "fare" delle operazioni con le lettere, per cui una lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa.
+Ovviamente non è possibile "fare" delle operazioni con le lettere, per cui una lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa. In pratica è come se la lettera indicasse un "buco" nell'espressione, che dovrà essere riempito da un numero quando dobbiamo calcolare l'espressione
 
-#### ESEMPIO
+#### ESEMPIO 1
 
-L'espressione $a+1$ non la possiamo "calcolare" finché non sostituiamo alla lettera $a$ un numero, ad esempio $3$ oppure $0$, cosicché, nel caso di 3, $a + 1$ diventa $3 + 1$ che a sua volta diventa 4. Analogamente  con $0$,  $a + 1$ diventa $0 + 1 \longrightarrow 1$.
+L'espressione $a+1$ non la possiamo "calcolare" finché non sostituiamo alla lettera $a$ un numero, ad esempio $3$ oppure $0$, cosicché, nel caso di 3, $a + 1$ diventa $3 + 1$ che a sua volta diventa 4. Analogamente  con $0$,  $a + 1$ diventa $0 + 1 \longrightarrow 1$.    $\bullet$
 
-------
+
 
 Usare le lettere al posto dei numeri è utile se vogliamo indicare quali operazioni fare per calcolare qualcosa. Ad esempio, l'area di tutti i rettangoli si calcola moltiplicando la lunghezza della loro base per quella della loro altezza. Se indichiamo con la lettera $b$ la lunghezza della base di un rettangolo e con $h$ la lunghezza dell'altezza dello stesso rettangolo, possiamo dire che, qualunque siano queste lunghezze, l'area sarà calcolata da $b \cdot h$.
 
 Se dobbiamo calcolare l'area di un rettangolo con $b = 12$ ed $h = 5$, sostituiamo i numeri alle lettere nella espressione ed otteniamo $60$, scrivendo la sequenza seguente che si chiama **sostituzione**: $b \cdot h, \; \{b = 12, h = 5\} \longrightarrow 12 \cdot 5 \longrightarrow 60$.
+
+Le espressioni in cui compare almeno una lettera si chiamano **espressioni letterali**, quelle dove ci sono solo numeri **espressioni numeriche**. Se una stessa lettera compare più di una volta, dobbiamo sostituire alla lettera il numero che abbiamo scelto **tutte le volte che la lettera compare**. Se ci sono due lettere diverse, ogni lettera avrà il suo numero da sostituire.
+
+#### ESEMPIO 2
+
+Se in  $1 + x \cdot (x - 2)$ sostituiamo $3$ ad $x$, dobbiamo sostituirlo per ogni $x$ ed otteniamo $1 + 3 \cdot (3-2) \longrightarrow 4$.   
+
+Se invece abbiamo l'espressione $1 + a \cdot (a - b)$, possiamo decidere di sostituire $a$ con $10$ e, ad esempio, $b$ con $3$, ottenendo: $1 + 10 \cdot (10- 3)$ che fa $71$.    $\bullet$
 
 
 
