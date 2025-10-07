@@ -121,7 +121,7 @@ g) $\underline{50}$.
 
 L'esecuzione delle operazioni in una espressione è organizzata in passaggi. In ogni passaggio eseguiamo le operazioni da sinistra verso destra man mano che è possibile farle, tenendo conto delle priorità e delle parentesi.
 
-Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio. Per far questo basta evitare di eseguire due operazioni contigue (una a fianco all'altra), ossia che hanno tra di loro un numero conteso. Vedere l'esempio seguente, dove il risultato del calcolo è indicato con il numero sottolineato.
+Per evitare di complicare i calcoli e facilitare l'individuazione di eventuali errori alla fine del procedimento è **opportuno** evitare di utilizzare il risultato di un calcolo come numero di un altro calcolo nello stesso passaggio. Per far questo basta **evitare** di eseguire due operazioni contigue (una a fianco all'altra), ossia che hanno tra di loro un numero conteso. Vedere l'esempio seguente, dove il risultato del calcolo è indicato con il numero sottolineato.
 
 #### ESEMPIO 5
 
@@ -143,7 +143,7 @@ c) $\underline{4} \overset{(c)}+ 2$
 
 d) $\underline{6}$
 
-E' possibile, se si vuole, fare più operazioni in un solo passaggio; non bisogna però riutilizzare i risultati di una operazione per altre operazioni (immediatamente a fianco della precedente) nello stesso passaggio, ma si deve organizzare il calcolo come nell'esempio seguente (dove le operazioni fatte nello stesso passaggio sono indicate con a freccia $\downarrow$).
+E' quindi possibile, se si vuole, fare più operazioni in un solo passaggio senza riutilizzare i risultati di una operazione per altre operazioni nello stesso passaggio, evitando di eseguire operazioni contigue, come nell'esempio seguente (dove le operazioni fatte nello stesso passaggio sono indicate con a freccia $\downarrow$).
 
 #### ESEMPIO 2
 
@@ -696,7 +696,7 @@ A volte è utile scrivere una somma di due numeri come prodotto di altri due num
 
 Il metodo si basa sul fatto che una somma di due prodotti che hanno uno stesso fattore si può scrivere come il fattore che moltiplica una somma. 
 
-Ad esempio l'espressione $2 \cdot 3 + 2 \cdot 4$, che fa $14$, la possiamo scrivere come $2 \cdot (3 + 4)$ che fa sempre $14$. Un altro esempio è $5 \cdot 4 + 5 \cdot 3$ che possiamo scrivere come $5 \cdot (4 + 3)$ ed in tutte e due i casi il risultato è $35$. Possiamo quindi dire che 
+Ad esempio l'espressione $2 \cdot 3 + 2 \cdot 4$, che fa $14$, la possiamo scrivere come $2 \cdot (3 + 4)$ che fa sempre $14$. Un altro esempio è $5 \cdot 4 + 5 \cdot 3$ che possiamo scrivere come $5 \cdot (4 + 3)$ ed in tutte e due i casi il risultato è $35$. Possiamo quindi dire che 
 $$
 5 \cdot 4 + 5 \cdot 3 = 5 \cdot (4 + 3) \longrightarrow 35
 $$

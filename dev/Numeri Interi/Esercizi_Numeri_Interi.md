@@ -598,7 +598,7 @@ La sostituzione è una operazione che consiste nel rimpiazzamento delle lettere 
 
  $2 \cdot c + 1, \{c = -4\} \longrightarrow 2 \cdot (-4) + 1 \longrightarrow -7$.
 
-La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, facendo attenzione a non alterare la sequenza di operazioni presenti nell'espressione. Per evitare ciò la sostituzione di un numero che ha il segno va fatta con il numero racchiuso tra parentesi tonde. 
+La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, facendo attenzione a non alterare la sequenza di operazioni presenti nell'espressione. Per evitare ciò la sostituzione di un numero che ha il segno va fatta con **il numero racchiuso tra parentesi tonde**. 
 
  $2 \cdot x + x^2, \{x = +2\} \longrightarrow 2 \cdot (+2) + (+2)^2 \longrightarrow 4+(4) \longrightarrow 4 + 4 \longrightarrow 8$.
 
@@ -607,6 +607,8 @@ La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tut
 Si può evitare di racchiudere il numero tra parentesi solo se si sta sostituendo un numero positivo e lo si sostituisce senza il segno "$+$", come nell'esempio seguente.
 
  $2 \cdot x + x^2, \{x = 2\} \longrightarrow 2 \cdot 2 + 2^2 \longrightarrow 4 + 4 \longrightarrow 8$.
+
+Nel caso si volesse sostituire il numero positivo mantenendo il suo segno, si dovranno usare le parentesi.
 
 
 

@@ -7,13 +7,13 @@ In matematica oltre alle espressioni con sole operazioni e numeri (espressioni n
 
 A cosa servono? Consideriamo ad esempio i triangoli; si sa che se conosciamo la base e l'altezza di un triangolo possiamo calcolare la sua area moltiplicando base per altezza e dividendo per 2, e questo vale per tutti i triangoli. Questa regola la possiamo scrivere indicando con $a$ la lunghezza (in metri) della base di un triangolo qualsiasi, con $b$ la sua altezza e con $\dfrac{a \cdot b}{2}$, che è una espressione letterale, l'area secondo la regola scritta.
 
-Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
+Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri che misurano la lunghezza della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
 
-Le lettere servono quindi a specificare come calcolare certe quantità conoscendone altre, da cui le prime dipendono. 
+Le lettere servono quindi a specificare come calcolare certe quantità, in questo caso l'area, conoscendone altre, base ed altezza, da cui le prime dipendono. 
 
 #### ESEMPIO 1
 
-Calcoliamo il valore dell'espressione $1-x$ dopo aver sostituito alla lettera $x$ il valore $+5$. La sostituzione trasforma l'espressione letterale in espressione numerica: $1 - (+5) \longrightarrow 1 -5 \longrightarrow -4$. $\bullet$
+Calcoliamo il valore dell'espressione $1-x$ dopo aver sostituito alla lettera $x$ il valore $+5$. La sostituzione trasforma l'espressione letterale in espressione numerica: $1 - (+5) \longrightarrow 1 -5 \longrightarrow -4$.    $\bullet$
 
 
 
@@ -494,7 +494,7 @@ $(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot 
 
 
 
-### ESERCIZIO - 6.4 Prodotto di polinomi
+### ESERCIZIO 6.4 - Prodotto di polinomi
 
 Scrivi i risultati dei prodotti seguenti in forma normale.  
 
@@ -572,7 +572,7 @@ Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di ist
 
 
 
-### ESERCIZIO - 7.2 Frazioni Algebriche
+### ESERCIZIO 7.2 - Frazioni Algebriche
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.
 
@@ -591,3 +591,44 @@ Risolvi alcuni esercizi del punto b) con la sequenza di istruzioni GEOGEBRA ripo
 1. $Semplifica(\dfrac{x^2+3x}{x})$  &#9166; 
 2. $Semplifica(\dfrac{x}{2x^2-x})$  &#9166; 
 3. $Semplifica(\dfrac{-x-y}{x+y})$  &#9166; 
+
+
+
+## UNITA' 8: Sostituzioni in espressioni letterali
+
+Come abbiamo visto nelle espressioni numeriche, anche nelle espressioni letterali possiamo sostituire ad una lettera un'altra espressione letterale. Le sostituzioni vanno sempre fatte tra parentesi. Vediamo un esempio.
+
+#### ESEMPIO 1
+
+Consideriamo l'espressione $2 \cdot x + 1$ e sostituiamo alla $x$ l'espressione $y - 1$. In simboli abbiamo
+
+$2 \cdot x + 1, \{x = y - 1\}$ $\longrightarrow 2(y-1) + 1$ 
+
+Moltiplicando e semplificando $2(y-1) + 1 \longrightarrow 2y -1$.    $ \bullet$
+
+#### ESEMPIO 2
+
+$2 a(1 + x), \{x = a^2 - 1\}$  $\longrightarrow 2a(1 + (a^2 - 1))$. Semplifichiamo l'espressione ottenuta:
+
+a) $2a(1 + (a^2 - 1))$
+
+b) $2a(1 + a^2 -1)$
+
+c) $2a(a^2)$
+
+d) $2a^3$.    $ \bullet$
+
+
+
+### ESERCIZIO 8.1 - Sostituzioni
+
+a) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tra parentesi graffe le rispettive espressioni e semplifica il risultato.
+
+1. $x-3y, \;\; \{x = -a, y = -ab\}$  
+2. $5x+y, \{y = -\dfrac{2}{3}x\}$ 
+
+b) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tra parentesi graffe le rispettive espressioni e semplifica il risultato.
+
+1. $3-a^{3}-2b+a,\ \{a=\dfrac{3}{2}x,\ b=-2x^2\}$
+2. $3ab-5a^{2}+3a-1,\ \{a=-2(x-1),\ b=x + 1\}$ 
+

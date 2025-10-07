@@ -467,7 +467,9 @@ f) Una persona fuma ogni giorno circa $\text{15}$ sigarette. Considerato che un 
 
 Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, l'incognita. Oltre a queste però si usano anche equazioni in cui compaiono altre lettere, oltre a quella che ha il ruolo di incognita, come ad esempio $1-ax=b$, dove l'incognita è $x$.
 
-Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (monomi, polinomi e frazioni algebriche) e la soluzione sarà una espressione letterale e non numerica.
+Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (monomi, polinomi e frazioni algebriche) e la soluzione sarà una **espressione letterale** e non numerica.
+
+**ATTENZIONE**: anche se compare un'altra lettera, l'incognita è una sola! Queste equazioni hanno **una sola incognita** e la loro soluzione è formata da una sola espressione letterale.
 
 #### ESEMPIO 1
 
@@ -556,7 +558,7 @@ $$
 
 Se un'automobile corre ad una velocità $v$, quanto tempo impiega a percorrere una strada lunga $s$?
 
-Dalla formula $v = \dfrac{s}{t}$ risolviamo l'equazione come se $t$ fosse l'unica incognita; otteniamo $v = \dfrac{s}{t} \longrightarrow t = \dfrac{s}{v}$, formula inversa della velocità che ci dà il tempo.   $\bullet$
+Dalla formula $v = \dfrac{s}{t}$ risolviamo l'equazione come se $t$ fosse l'unica incognita; otteniamo $v = \dfrac{s}{t} \longrightarrow t = \dfrac{s}{v}$, formula inversa della velocità che ci dà il tempo.   $\bullet$
 
 
 

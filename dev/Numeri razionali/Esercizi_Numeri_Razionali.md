@@ -335,7 +335,7 @@ Una frazione, o numero razionale, è un rapporto tra numeri naturali, con il suo
 
 Consideriamo ad esempio il rapporto $\dfrac{2}{-3}$. Il denominatore non è un numero naturale ma intero, quindi il rapporto non è propriamente un numero razionale; se però calcoliamo il segno del rapporto, che è negativo, e lo scriviamo davanti alla frazione, diventa un numero razionale: $-\dfrac{2}{3}$. Stessa cosa con l'esempio seguente: $\dfrac{-2}{-3} \longrightarrow +\dfrac{2}{3}$.
 
-Quando al numeratore o al denominatore sono presenti delle operazioni, prima di usare il rapporto in operazioni con altri rapporti bisogna trasformare il rapporto in frazione.
+Analogamente, possiamo avere un rapporto con al numeratore o al denominatore delle espressioni e non solo dei numeri naturali. In questi casi, prima di usare il rapporto in operazioni con altri rapporti bisogna trasformare il rapporto in frazione calcolando l'espressione al numeratore o al denominatore.
 
 #### ESEMPIO 1
 
@@ -482,30 +482,6 @@ g) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quant
 
 Come già fatto per i numeri interi, anche con le frazioni una  ***sostituzione*** consiste nel rimpiazzare una o più lettere in una espressione letterale con dei numeri razionali racchiusi tra parentesi tonde. 
 
-Oltre che nelle espressioni è possibile fare delle sostituzioni anche nelle relazioni tra espressioni letterali, come negli esempi seguenti.
-
-#### ESEMPIO 1
-
-a) $2x + 1 = 4, \; \{x = \dfrac{3}{2}\}$
-
-b) $2(\dfrac{3}{2}) + 1 = 4$
-
-c) $3 + 1 = 4$
-
-d) $4 = 4 \longrightarrow \; True$;
-
-#### ESEMPIO 2
-
-a) $2x + 1 > 0, \; \{x = -\dfrac{3}{2}\}$
-
-b) $2(-\dfrac{3}{2}) + 1 > 0$
-
-c) $-3 + 1 > 0$
-
-d) $-2 > 0 \longrightarrow \; False$.
-
-Il risultato finale non è un numero ma il valore di verità della uguaglianza o disuguaglianza.
-
 
 
 ### ESERCIZIO 5.1 - Sostituzioni (I)
@@ -517,20 +493,14 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 3. $(1 - y)y + 3,\ \{y=-\dfrac{5}{2}\}$;
 4. $(1 - y)y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y)y + 3,\ \{y=\dfrac{4}{2}\}$.
 
-b) Calcola il valore di verità delle relazioni seguenti dopo aver sostituito alle lettere i numeri come indicato nelle parentesi graffe.
 
-1. $x^2 = 1,\ \{x= 1\}$;     $x^2 = 1,\ \{x=-1\}$;     $-x^2 > -1,\ \{x=\dfrac{0}{2}\}$; 
-2. $x \le 1,\ \{x = -\dfrac{1}{2}\}$;     $x + 1 = 2 \cdot x,\ \{x=-1\}$;     $x + 1 = 2 \cdot x,\ \{x=1\}$. 
 
 #### Laboratorio GEOGEBRA
 
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $Sostituisci(-2 x+x^2+1 , \; {x = \dfrac{2}{5}})$&#9166;
-
 2. $Sostituisci((1 - y) \cdot y + 3, \;  {y = -\dfrac{2}{5}})$&#9166;
-
-3. $Sostituisci(x +1 = 2 \cdot x, \; {x = -1})$
 
 
 
@@ -592,11 +562,7 @@ a) PRIMA MODALITA': inserisci le coppie di punti nella calcolatrice GRAFICI.
 
 <img src="img\Sostituzioni-II.png" alt="Sostituzioni-II" style="zoom:15%;" />
 
-b) SECONDA MODALITA': Inserisci l'istruzione seguente (calcolatrice **GRAFICI**):
-
-​	$Compatta((a, a + \dfrac{1}{2}),a,\{0,1,-1,2,-2\})$&#9166;
-
-b) TERZA MODALITA': Costruisci una tabella con le istruzioni riportate di seguito (calcolatrice **CAS**):
+b) SECONDA MODALITA': Costruisci una tabella con le istruzioni riportate di seguito (calcolatrice **CAS**):
 
 1. Inserisci l'espressione letterale $a + \dfrac{1}{2}$, dagli un nome e la lettera da sostituire con l'istruzione seguente:
 
