@@ -53,6 +53,34 @@ $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 
 
+### Frazioni, rapporti e loro segno
+
+Abbiamo detto che una frazione è una divisione di cui non viene calcolato il valore. Per essere precisi è una divisione tra numeri interi di cui non calcoliamo il valore, perché possiamo avere anche divisioni tra espressioni numeriche. Vediamo alcuni esempi.
+
+#### ESEMPIO 3
+
+Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Osserviamo anche che la linea di frazione orizzontale ha anche la stessa funzione che hanno le parentesi nella notazione lineare.   $\bullet$
+
+#### ESEMPIO 4
+
+L'espressione in notazione matematica $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ si esprime in notazione lineare come $2:3 \cdot (1 + 2 \cdot 3):5$.
+
+Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ si esprime come L'espressione a) in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.    $\bullet$
+
+
+
+Il rapporto tra due numeri interi può essere positivo o negativo. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa.
+
+La forma canonica di una frazione è sempre $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Vediamo degli esempi.
+
+#### ESEMPIO 5
+
+Se i due numeri hanno segno diverso: $\dfrac{-3}{4} \longrightarrow -\dfrac{3}{4}$ oppure $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$, altrimenti abbiamo $\dfrac{3}{+4} \longrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.    $ \bullet$
+
+
+
+
+
 ### ESERCIZIO 1.1 - Il Concetto di Frazione
 
 a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
@@ -153,6 +181,20 @@ $0.5$;    $0.005$;    $4$;    $1000.1$;    $10.5$;     $9.69$.
 
 
 
+### ESERCIZIO 1.5 - Forma lineare dei rapporti
+
+a) Scrivi le seguenti espressioni, contenenti divisioni in forma lineare, in espressioni contenenti frazioni.
+
+1. $1 - (4-1):2 \cdot 5 $;    $1 - 4 - 1:2 \cdot 5 $
+2. $1 - 2 : (4-1) \cdot 5 $;    $(1 - 2) : (4 - 1) \cdot (7 + 3)$
+
+b) Scrivi i seguenti rapporti come frazioni in forma canonica.
+
+1. $\dfrac{-3}{1 + 2 \cdot (2 - 3)}$;
+2. $\dfrac{5 + 2 \cdot (-2)}{-3 -(-1 -5)}$
+
+
+
 ## UNITA' 2: Frazioni equivalenti e prodotti di frazioni
 
 Due frazioni si dicono equivalenti se indicano la stessa quantità. Poiché una frazione è una divisione, la quantità espressa è anche il risultato decimale della divisione, per cui il modo più immediato per controllare se due frazioni sono equivalenti è fare la divisione e confrontare i risultati:
@@ -161,13 +203,11 @@ $\dfrac{3}{4} \longrightarrow 0,75$,  $\dfrac{6}{8} \longrightarrow 0,75$, quind
 
 #### ESEMPIO 1
 
-Semplificazione della frazione $\dfrac{36}{45}$dividendo due volte per 3:   $\dfrac{36}{45} \longrightarrow \dfrac{12}{15} \longrightarrow \dfrac{4}{5}$.
+Semplificazione della frazione $\dfrac{36}{45}$dividendo due volte per 3:   $\dfrac{36}{45} \longrightarrow \dfrac{12}{15} \longrightarrow \dfrac{4}{5}$.    $\bullet$
 
 
 
-------
-
-Le frazioni, come tutti i numeri, si possono moltiplicare tra di loro, ed il risultato è una frazione. Il significato è quello di prendere una frazione di una quantità, a sua volta una frazione. 
+Le frazioni, come tutti i numeri, si possono moltiplicare tra di loro, ed il risultato è una frazione. Il significato è quello di prendere una frazione di una quantità che è, a sua volta, una frazione. 
 
 Il prodotto si esegue "per linee parallele", ossia si moltiplicano i numeratori dei fattori tra di loro e lo stesso per i denominatori, come si vede dagli esempi seguenti.
 
@@ -189,9 +229,7 @@ La metà di tre quarti: $\dfrac{1}{2} \cdot \dfrac{3}{4} \longrightarrow \dfrac{
 
 
 
-I tre quarti di meno due terzi:  $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right) \longrightarrow -\dfrac{3 \cdot 2}{4 \cdot 3} \longrightarrow -\dfrac{6}{12}$;
-
-
+I tre quarti di meno due terzi:  $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right) \longrightarrow -\dfrac{3 \cdot 2}{4 \cdot 3} \longrightarrow -\dfrac{6}{12}$;    $\bullet$
 
 
 
@@ -236,7 +274,7 @@ a) Calcola i seguenti prodotti di frazioni.
 
 ## UNITA' 3: Somma di frazioni
 
-Sommare due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
+La somma di due frazioni è una frazione. La somma di due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
 
 $\dfrac{1}{4} + \dfrac{1}{4} \longrightarrow \dfrac{2}{4}=\dfrac{1}{2}$,        $\dfrac{4}{7} + \dfrac{3}{7} \longrightarrow \dfrac{7}{7} = 1$.
 
@@ -309,61 +347,11 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 4: Divisione tra frazioni e rapporti di espressioni
 
-Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{6}{4} : \dfrac{1}{2}$ che ha come risultato $3$. 
+Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{3}{4} : \dfrac{5}{2}$. Cosa rappresenta la divisione tra frazioni?
 
-Cosa rappresenta la divisione tra frazioni?
+Come per qualsiasi altra divisione, il risultato è il numero che moltiplicato per il divisore mi dà il dividendo. Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
 
-Come per qualsiasi altra divisione, stiamo calcolando quante volte deve essere moltiplicato $\dfrac{1}{2}$ per avere $\dfrac{6}{4}$.
-
-Per vedere come si calcola vediamo prima la divisione tra due numeri interi. 
-
-$6 : 2$ è la metà di $6$ cioè $3$. E' la stessa cosa dire "un mezzo di $6$" cioè $\dfrac{1}{2} \cdot 6 \longrightarrow 3$; allo stesso modo $6 : 3$ è come dire "un terzo di $6$" cioè $\dfrac{1}{3} \cdot 6 \longrightarrow 2$ e così via. La divisione si può calcolare moltiplicando il dividendo per il reciproco del divisore che sarà di volta in volta $\dfrac{1}{2}, \dfrac{1}{3}, \dfrac{1}{5}$.
-
-Vediamo adesso la divisione tra una frazione ed un numero intero: $\dfrac{6}{4} : 2 \longrightarrow \dfrac{6}{4} \cdot \dfrac{1}{2} \longrightarrow \dfrac{3}{4}$  Il risultato si ottiene moltiplicando il dividendo per il reciproco del divisore. Questo vale per tutte le divisioni tra frazioni: la divisione si trasforma in una moltiplicazione per il reciproco del divisore:
-
- $\dfrac{3}{4} : \dfrac{1}{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{2}{1} \longrightarrow$
-
-​		$\dfrac{6}{4} \longrightarrow \dfrac{3}{2} = 1.5$ 
-
-Quindi per avere $\dfrac{3}{4}$ bisogna prendere $\dfrac{1}{2}$ una volta e mezzo (e considerato che la metà di $\dfrac{1}{2}$ è $\dfrac{1}{4}$ abbiamo che  $\dfrac{3}{4} =  \dfrac{1}{2} + \dfrac{1}{4}$.
-
-
-
-------
-
-Una frazione, o numero razionale, è un rapporto tra numeri naturali, con il suo segno, dove il denominatore non può essere lo zero (perché nessun numero può essere diviso per zero). Non tutti i rapporti sono quindi numeri razionali: è possibile scrivere rapporti tra numeri con segno, cioè interi, che quindi non sono propriamente frazioni, ma hanno lo stesso valore di una frazione una volta che le le espressioni sono calcolate. 
-
-Consideriamo ad esempio il rapporto $\dfrac{2}{-3}$. Il denominatore non è un numero naturale ma intero, quindi il rapporto non è propriamente un numero razionale; se però calcoliamo il segno del rapporto, che è negativo, e lo scriviamo davanti alla frazione, diventa un numero razionale: $-\dfrac{2}{3}$. Stessa cosa con l'esempio seguente: $\dfrac{-2}{-3} \longrightarrow +\dfrac{2}{3}$.
-
-Analogamente, possiamo avere un rapporto con al numeratore o al denominatore delle espressioni e non solo dei numeri naturali. In questi casi, prima di usare il rapporto in operazioni con altri rapporti bisogna trasformare il rapporto in frazione calcolando l'espressione al numeratore o al denominatore.
-
-#### ESEMPIO 1
-
-a) $\dfrac{3 + 7}{6}$
-
-b) $\dfrac{10}{6} \longrightarrow \dfrac{5}{3}$.
-
-L'espressione a) in notazione lineare è $(3 + 7): 6$.
-
-#### ESEMPIO 2
-
-a) $\dfrac{2}{3} \dfrac{1+ 2 \cdot 3}{5}$ ;
-
-b) $\dfrac{2}{3} \dfrac{1+ 6}{5}$;
-
-c) $\dfrac{2}{3} \dfrac{7}{5} \longrightarrow \dfrac{14}{15}$ ;
-
-Solo nel passaggio c), quando il rapporto è diventato $\dfrac{7}{5}$ lo moltiplichiamo per $\dfrac{2}{3}$. L'espressione a), in notazione lineare, è $2:3 \cdot (1 + 2 \cdot 3):5$.
-
-#### ESEMPIO 2
-
-a) $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ \dfrac{1- 6}{5}}$ ;
-
-b) $\dfrac{\dfrac{2}{3}}{ \dfrac{-5}{5}} \longrightarrow \dfrac{\dfrac{2}{3}}{ -\dfrac{5}{5}}$;
-
-c) $\dfrac{2}{3} \cdot \left(-\dfrac{5}{5}\right) \longrightarrow -\dfrac{2}{3}$.
-
-L'espressione a) in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.
+$\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.   
 
 
 
@@ -381,9 +369,9 @@ b) Calcola il valore delle seguenti espressioni.
 2. $\dfrac{2}{5}\cdot\left(-\dfrac{2 \cdot 5 + 5}{4}\right)\cdot\left(-\dfrac{2}{3}\right)$;    $[R. 1]$  
 3. $\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right)$.     $[R. 3]$  
 
-c) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+c) Individua quante e quali operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
-1. $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$;     $[R. -7]$
+1. $9\left(-\dfrac{1}{10 + 5}\right)\left(-10\right)\left(-\dfrac{1 + 2 \cdot 3}{6}\right)$;     $[R. -7]$
 2. $\left(\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right):\left(-\dfrac{19}{9}\right).$     $[R.\dfrac{15}{2}]$
 
 

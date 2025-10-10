@@ -103,7 +103,7 @@ Abbiamo già detto che una espressione letterale non può essere calcolata, cio�
 
 #### ESEMPIO 1
 
-Ogni tanto gioco ad una lotteria in cui c'è in palio sempre lo stesso premio, una somma di $s$ euro. Se vinco due volte, in totale prenderò $s + s$ euro, che non so quanto fa, ma è sicuramente uguale a $2 \cdot s$ euro. Se vinco ancora una volta, in totale avrò vinto $2 \cdot s + s$ euro che, qualunque sia la somma settimanale $s$, è uguale a $3 \cdot s$ euro, che possiamo scrivere $3s$ euro.
+Ogni tanto gioco ad una lotteria, del tipo "gratta e vinci" in cui il premio cambia ogni giorno, ma è lo stesso per tutte le giocate di quel giorno. Se in un certo giorno gioco una volta e vinco, prendo $s$ euro. Se lo stesso giorno vinco due volte, in totale prenderò $s + s$ euro, che non so quanto fa, ma è sicuramente uguale a $2 \cdot s$ euro. Se vinco ancora una volta, in totale avrò vinto $2 \cdot s + s$ euro che, qualunque sia la somma $s$, è uguale a $3 \cdot s$ euro, che possiamo scrivere $3s$ euro.
 
 Se, qualunque sia la vincita, devo pagare un euro alla ricevitoria per i costi di riscossione, la mia vincita netta in euro, nell'ultimo caso, sarà
 
@@ -111,13 +111,13 @@ $s -1 + s - 1 + s - 1$ $ \longrightarrow$
 
 ​	$3 \cdot s - 3$. 
 
-Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di monomio. $ \bullet$
+Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di **monomio**. $ \bullet$
 
 
 
 #### Componenti e forme di un monomio
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è ***in forma normale*** se il primo fattore è un numero e gli altri fattori sono lettere, in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero).
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è ***in forma normale*** se il primo fattore è un numero e gli altri fattori sono lettere, scritte in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero).
 
 #### ESEMPIO 2
 
@@ -127,13 +127,13 @@ $\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab$: **Forma normale**;
 
 $ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: grado 4, **Forma Normale**.
 
-$2$: monomio di grado 0. $\bullet$
+$2$: monomio di grado 0.   $ \bullet$
 
 
 
 Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
-Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di monomi: $a + b$,  $2 \cdot s + 3 \cdot s^2 + 1$ etc. 
+Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di monomi come $a + b$,  $2 \cdot s + 3 \cdot s^2 + 1$ etc. 
 
 
 
@@ -196,13 +196,13 @@ Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel te
 
 a) Scrivi una espressione letterale che risolve i seguenti problemi:
 
-1. Un servizio di catering prepara solitamente i pasti per circa 10 persone in più del numero ordinato. Se ci si aspettano $p$ persone, quanti pasti saranno preparati? 
-2. Una piscina viene suddivisa in 8 corsie della stessa larghezza con dei galleggianti. Se la piscina è larga $l$ metri, quanto è larga ogni corsia?
-3. Quale è il valore, in euro, di $x$ monete da 20 centesimi ciascuna? e se aggiungiamo 10 monete da 5 centesimi?
+1. Un servizio di catering prepara solitamente i pasti per circa $10$ persone in più del numero ordinato. Se ci si aspettano $p$ persone, quanti pasti saranno preparati? 
+2. Una piscina viene suddivisa in $8$ corsie della stessa larghezza con dei galleggianti. Se la piscina è larga $l$ metri, quanto è larga ogni corsia?
+3. Quale è il valore, in euro, di $x$ monete da $20$ centesimi ciascuna? e se aggiungiamo $10$ monete da 5 centesimi?
 
 b) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il 150% in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
 
-c) Uno studente deve scrivere un documento che contiene $x$ parole al PC. Se lo studente scrive 60 parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
+c) Uno studente deve scrivere un documento che contiene $x$ parole al PC. Se lo studente scrive $60$ parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
 
 d) Un corteo di $b$ automobili, ciascuna con 5 persone a bordo, sta viaggiando verso la capitale per una manifestazione politica. Scrivi quante persone stanno andando alla manifestazione in corteo.  
 
@@ -242,7 +242,7 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***. 
 
-Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi.
+Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
 #### ESEMPIO 1
 
@@ -254,7 +254,7 @@ $-3x + 2x^2 \longrightarrow -3x + 2x^2$: **Non è un monomio!** .
 
 Il prodotto di due o più monomi è **sempre** un monomio.
 
-$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$. $\bullet$
+$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$. $ \bullet$
 
 
 
@@ -335,7 +335,7 @@ L'espressione letterale $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2}$ è una somma 
 
 Il grado di un polinomio coincide con quello del suo monomio di grado massimo, per cui il grado del monomio dell'esempio precedente è $4$. Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $-2x + 1$, $6x^5 -\dfrac{2}{3}x^3 + 2x$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
 
-Da ultimo osserviamo che anche un singolo monomio si considera un caso particolare di polinomio.
+Da ultimo osserviamo che anche un singolo monomio si considera un caso particolare di polinomio con un solo termine.
 
 
 
@@ -402,7 +402,7 @@ Il prodotto di un monomio per un polinomio è un polinomio che si ottiene somman
 
 #### ESEMPIO 1
 
-Nel prodotto $2(x^2 + x)$ Il monomio che moltiplica è il solo numero $2$; i prodotti del monomio per i monomi del polinomio sono i due monomi $2 \cdot (x^2)$ e $2 \cdot (+x)$, per cui il polinomio risultante è  $2 \cdot (x^2) +2 \cdot (+x)$ $ \longrightarrow 2x^2+ 2x$;
+Nel prodotto $2(x^2 + x)$ Il monomio che moltiplica è il solo numero $2$; i prodotti del monomio per i monomi del polinomio sono i due monomi $2 \cdot (x^2)$ e $2 \cdot (+x)$, per cui il polinomio risultante è  $2 \cdot (x^2) +2 \cdot (+x)$ $ \longrightarrow 2x^2+ 2x$.    $ \bullet$
 
 
 
@@ -412,7 +412,7 @@ a) Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (b) \longrightarrow
 
 b) Il prodotto $-3(1 - b)$ equivale a $-3(1-b) = -3 \cdot (1) -3 \cdot (-b)$ $\longrightarrow $ $ -3 + 3b$;
 
-c) Per calcolare $a^2(ab^2 -\dfrac{c}{2})$,  abbiamo $a^2(ab^2) + a^2(-\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$. $\bullet$
+c) Per calcolare $a^2(ab^2 -\dfrac{c}{2})$,  abbiamo $a^2(ab^2) + a^2(-\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$.    $ \bullet$
 
 
 
@@ -438,7 +438,7 @@ Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA ri
 
 
 
-#### Somme di polinomi
+### Somme di polinomi
 
 La somma di due polinomi si ottiene sommando tra di loro tutti i monomi di entrambi i polinomi.
 
@@ -485,8 +485,6 @@ Il prodotto di due polinomi è un polinomio che si scrive moltiplicando ogni mon
 Nell'esempio seguente il primo polinomio è formato dai monomi $+a$ e $+b$ per cui moltiplichiamo ognuno per il secondo polinomio e poi sommiamo:
 
 $(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
-
-
 
 #### ESEMPIO 2
 
@@ -536,7 +534,7 @@ Quindi alla fine la scomposizione in fattori è:
 
 Il comando per effettuare l'operazione con GEOGEBRA è Fattorizza, per cui l'esempio precedente diventa il seguente:
 
-$Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $\longrightarrow$ $\dfrac{3}{4}ax(8a^2+ax -16x)$. $\bullet$
+$Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $\longrightarrow$ $\dfrac{3}{4}ax(8a^2+ax -16x)$.    $ \bullet$
 
 
 
@@ -550,7 +548,7 @@ $\dfrac{2x(2x-1)}{4x^2}$ $\longrightarrow$ $\dfrac{2x-1}{2x}$.
 
 Nella frazione $\dfrac{2a-2}{5a-5}$, al numeratore si mette in evidenza $2$ ed al denominatore $5$, per cui possiamo scrivere:
 
-$\dfrac{2a-2}{5a-5}$ $\longrightarrow$ $\dfrac{2(a-1)}{5(a-1)}$  $\longrightarrow$ $\dfrac{2}{5}$. $\bullet$
+$\dfrac{2a-2}{5a-5}$ $\longrightarrow$ $\dfrac{2(a-1)}{5(a-1)}$  $\longrightarrow$ $\dfrac{2}{5}$.    $ \bullet$
 
 
 
@@ -604,7 +602,7 @@ Consideriamo l'espressione $2 \cdot x + 1$ e sostituiamo alla $x$ l'espressione 
 
 $2 \cdot x + 1, \{x = y - 1\}$ $\longrightarrow 2(y-1) + 1$ 
 
-Moltiplicando e semplificando $2(y-1) + 1 \longrightarrow 2y -1$.    $ \bullet$
+Moltiplicando e semplificando $2(y-1) + 1 \longrightarrow 2y -1$. 
 
 #### ESEMPIO 2
 

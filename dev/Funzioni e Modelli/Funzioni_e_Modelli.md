@@ -152,6 +152,8 @@ b) I litri di vernice necessari per imbiancare una stanza variano direttamente c
 
 c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
 
+
+
 ### ESERCIZIO 2.2 - Proporzionalità inversa
 
 a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
@@ -517,6 +519,6 @@ b) Disegna le curve dei Ricavi-Costi-Utile del punto d) ed individua graficament
 
 a) Una società di film a noleggio ha 1000 abbonati ognuno dei quali paga 15 euro al mese. Sulla base di un indagine, il management ritiene che per ogni 25 centesimi di riduzione del costo mensile di abbonamento si avrebbero 20 tesserati in più. 
 
-Quale è la curva di domanda, ossia la formula che esprime il numero $d$ di abbonati in dipendenza del prezzo $p$?
+Quale è la curva di domanda, ossia la formula che esprime il numero $d$ di abbonati in dipendenza del prezzo $p$?
 
 b) 50 studenti, contribuendo ciascuno con 5 euro, riescono a raccogliere 250 euro per un regalo. Da questo punto in poi però, decidono che per ogni studente in più che aderisce, la somma da versare diminuirà di 5 centesimi per tutti. Quanti studenti dovranno contribuire per ottenere la somma massima possibile?
