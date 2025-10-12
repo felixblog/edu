@@ -297,15 +297,21 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}  \cdo
 
 
 
-## UNITA' 4: Rapporti tra monomi e frazioni algebriche
+## UNITA' 4: Rapporti di monomi e frazioni algebriche
 
 Il rapporto tra due monomi è  un monomio solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi termini non sono più presenti lettere al denominatore.
 
-Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***.
+Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***. La forma canonica di una frazione algebrica è un numero che moltiplica il rapporto tra due monomi entrambi con parte numerica uguale ad $1$.
+
+#### ESEMPIO 1
+
+La frazione algebrica $\dfrac{2ab^2}{-3ax}$ non è in forma canonica. Semplificando le lettere e facendo il rapporto delle due parti numeriche otteniamo $\dfrac{2ab^2}{-3ax}$ $\longrightarrow -\dfrac{2}{3}\dfrac{b^2}{x}$ che è in forma canonica. Analogamente abbiamo
+
+$\dfrac{-3xy^2}{\dfrac{1}{3}y}$ $\longrightarrow -3 \cdot 3 xy$ $\longrightarrow -9xy$.    $ \bullet$
 
 
 
-### ESERCIZIO 4.1 - Rapporti tra monomi e semplificazioni
+### ESERCIZIO 4.1 - Rapporti di monomi e semplificazioni
 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
 
@@ -512,9 +518,9 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 7: Evidenza di Fattori nei Polinomi e Semplificazione di Frazioni Algebriche
+## UNITA' 7: Frazioni Algebriche ed Evidenza di Fattori nei Polinomi 
 
-Nei capitoli precedenti abbiamo visto come si calcola il prodotto tra un polinomio ed un monomio ed il prodotto tra due polinomi. Ora vediamo se e come si può effettuare l'operazione inversa: scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché ha l'obiettivo di scrivere un polinomio come prodotto di due o più fattori.
+Nelle unità precedenti abbiamo visto come si calcola il prodotto di un monomio per un polinomio ed il prodotto di due polinomi. Ora vediamo se e come si può scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché, come nel caso dei numeri in cui abbiamo scomposto un numero in fattori, ad esempio $15 = 3 \cdot 5$ oppure $12 = 3 \cdot 2^2$, ha l'obiettivo di scrivere un polinomio come prodotto di due o più monomi o polinomi detti fattori.
 
 Il caso più semplice si ha quando i monomi che costituiscono il polinomio hanno dei fattori in comune: si estraggono tutti i fattori comuni e se ne fa un monomio che moltiplica il polinomio rimanente; questa operazione si dice **messa in in evidenza di un fattore**. Vediamo un esempio.
 
@@ -538,7 +544,11 @@ $Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $\longrightarrow$ $\dfrac{3}{4
 
 
 
-Una frazione algebrica è un rapporto tra un polinomio ed un monomio o tra due polinomi. A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere scomposti in fattori se ci sono dei fattori in comune, che quindi si possono semplificare, come nell'esempio seguente.
+La scomposizione in fattori di polinomi è utile nella semplificazione delle frazioni algebriche. Una **frazione algebrica** è un rapporto tra un polinomio ed un monomio o tra due polinomi. Ad esempio le seguenti sono tutte frazioni algebriche
+
+$\dfrac{x - 1}{x +1}$;    $\dfrac{x - 1}{y - 1}$;    $\dfrac{ax - 1}{ax}$;     $\dfrac{2ax^2}{x - 1}$.    $ \bullet$
+
+ A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere scomposti in fattori se ci sono dei fattori in comune, che quindi si possono semplificare, come nell'esempio seguente.
 
 #### ESEMPIO 2
 
