@@ -297,7 +297,7 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}  \cdo
 
 
 
-## UNITA' 4: Rapporti di monomi e frazioni algebriche
+## UNITA' 4: Rapporti di monomi
 
 Il rapporto tra due monomi è  un monomio solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi termini non sono più presenti lettere al denominatore.
 
@@ -518,9 +518,9 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 7: Frazioni Algebriche ed Evidenza di Fattori nei Polinomi 
+## UNITA' 7: Scomposizione in fattori di polinomi 
 
-Nelle unità precedenti abbiamo visto come si calcola il prodotto di un monomio per un polinomio ed il prodotto di due polinomi. Ora vediamo se e come si può scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché, come nel caso dei numeri in cui abbiamo scomposto un numero in fattori, ad esempio $15 = 3 \cdot 5$ oppure $12 = 3 \cdot 2^2$, ha l'obiettivo di scrivere un polinomio come prodotto di due o più monomi o polinomi detti fattori.
+Nelle unità precedenti abbiamo visto come si calcola il prodotto di un monomio per un polinomio ed il prodotto di due polinomi. Ora vediamo se e come si può scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché, come nel caso dei numeri in cui abbiamo scomposto un numero in fattori, ad esempio $15 = 3 \cdot 5$ oppure $12 = 3 \cdot 2^2$, ha l'obiettivo di scrivere un polinomio come prodotto di due o più monomi o polinomi detti fattori.
 
 Il caso più semplice si ha quando i monomi che costituiscono il polinomio hanno dei fattori in comune: si estraggono tutti i fattori comuni e se ne fa un monomio che moltiplica il polinomio rimanente; questa operazione si dice **messa in in evidenza di un fattore**. Vediamo un esempio.
 
@@ -544,24 +544,6 @@ $Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $\longrightarrow$ $\dfrac{3}{4
 
 
 
-La scomposizione in fattori di polinomi è utile nella semplificazione delle frazioni algebriche. Una **frazione algebrica** è un rapporto tra un polinomio ed un monomio o tra due polinomi. Ad esempio le seguenti sono tutte frazioni algebriche
-
-$\dfrac{x - 1}{x +1}$;    $\dfrac{x - 1}{y - 1}$;    $\dfrac{ax - 1}{ax}$;     $\dfrac{2ax^2}{x - 1}$.    $ \bullet$
-
- A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere scomposti in fattori se ci sono dei fattori in comune, che quindi si possono semplificare, come nell'esempio seguente.
-
-#### ESEMPIO 2
-
-Nella frazione $\dfrac{4x^2-2x}{4x^2}$, al numeratore si può mettere in evidenza il monomio $4x$ per cui possiamo scrivere:
-
-$\dfrac{2x(2x-1)}{4x^2}$ $\longrightarrow$ $\dfrac{2x-1}{2x}$.
-
-Nella frazione $\dfrac{2a-2}{5a-5}$, al numeratore si mette in evidenza $2$ ed al denominatore $5$, per cui possiamo scrivere:
-
-$\dfrac{2a-2}{5a-5}$ $\longrightarrow$ $\dfrac{2(a-1)}{5(a-1)}$  $\longrightarrow$ $\dfrac{2}{5}$.    $ \bullet$
-
-
-
 ### ESERCIZIO 7.1 - Evidenza di fattori
 
 a) Scrivi i polinomi seguenti come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
@@ -579,26 +561,6 @@ Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di ist
 3. $Fattorizza(-y^2+2x \cdot y + 3y)$ &#9166; 
 
 
-
-### ESERCIZIO 7.2 - Frazioni Algebriche
-
-a) Scrivi il reciproco delle seguenti frazioni algebriche.
-
-1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;      $2a^2$;      $-\dfrac{1}{2a^2x}$;
-2. $\dfrac{1}{x-1}$;      $\dfrac{a+1}{b-1}$;      $2a^2+a$;      $-\dfrac{1+x^2}{2a^2x}$.
-
-b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza i fattori comuni nei polinomi a numeratore o a denominatore.
-
-1. $\dfrac{x^2+3x}{x}$;      $\dfrac{4x^2-2x}{4x^2}$;      $\dfrac{x}{2x^2-x}$;
-2. $\dfrac{2a-2}{5a-5}$;      $\dfrac{-x-y}{x+y}$;      $\dfrac{2x-2y}{y-x}$.
-
-#### Laboratorio GEOGEBRA
-
-Risolvi alcuni esercizi del punto b) con la sequenza di istruzioni GEOGEBRA riportata di seguito.
-
-1. $Semplifica(\dfrac{x^2+3x}{x})$  &#9166; 
-2. $Semplifica(\dfrac{x}{2x^2-x})$  &#9166; 
-3. $Semplifica(\dfrac{-x-y}{x+y})$  &#9166; 
 
 
 
@@ -640,3 +602,46 @@ b) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tr
 1. $3-a^{3}-2b+a,\ \{a=\dfrac{3}{2}x,\ b=-2x^2\}$
 2. $3ab-5a^{2}+3a-1,\ \{a=-2(x-1),\ b=x + 1\}$ 
 
+
+
+
+
+## UNITA' 9: Frazioni Algebriche
+
+La scomposizione in fattori di polinomi è utile nella semplificazione delle frazioni algebriche. Una **frazione algebrica** è un rapporto tra un polinomio ed un monomio o tra due polinomi. Ad esempio le seguenti sono tutte frazioni algebriche
+
+$\dfrac{x - 1}{x +1}$;    $\dfrac{x - 1}{y - 1}$;    $\dfrac{ax - 1}{ax}$;     $\dfrac{2ax^2}{x - 1}$.    $ \bullet$
+
+ A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere scomposti in fattori se ci sono dei fattori in comune, che quindi si possono semplificare, come nell'esempio seguente.
+
+#### ESEMPIO 1
+
+Nella frazione $\dfrac{4x^2-2x}{4x^2}$, al numeratore si può mettere in evidenza il monomio $4x$ per cui possiamo scrivere:
+
+$\dfrac{2x(2x-1)}{4x^2}$ $\longrightarrow$ $\dfrac{2x-1}{2x}$.
+
+Nella frazione $\dfrac{2a-2}{5a-5}$, al numeratore si mette in evidenza $2$ ed al denominatore $5$, per cui possiamo scrivere:
+
+$\dfrac{2a-2}{5a-5}$ $\longrightarrow$ $\dfrac{2(a-1)}{5(a-1)}$  $\longrightarrow$ $\dfrac{2}{5}$.    $ \bullet$
+
+
+
+### ESERCIZIO 9.1 - Frazioni Algebriche
+
+a) Scrivi il reciproco delle seguenti frazioni algebriche.
+
+1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;      $2a^2$;      $-\dfrac{1}{2a^2x}$;
+2. $\dfrac{1}{x-1}$;      $\dfrac{a+1}{b-1}$;      $2a^2+a$;      $-\dfrac{1+x^2}{2a^2x}$.
+
+b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza i fattori comuni nei polinomi a numeratore o a denominatore.
+
+1. $\dfrac{x^2+3x}{x}$;      $\dfrac{4x^2-2x}{4x^2}$;      $\dfrac{x}{2x^2-x}$;
+2. $\dfrac{2a-2}{5a-5}$;      $\dfrac{-x-y}{x+y}$;      $\dfrac{2x-2y}{y-x}$.
+
+#### Laboratorio GEOGEBRA
+
+Risolvi alcuni esercizi del punto b) con la sequenza di istruzioni GEOGEBRA riportata di seguito.
+
+1. $Semplifica(\dfrac{x^2+3x}{x})$  &#9166; 
+2. $Semplifica(\dfrac{x}{2x^2-x})$  &#9166; 
+3. $Semplifica(\dfrac{-x-y}{x+y})$  &#9166; 
