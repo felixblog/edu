@@ -13,15 +13,19 @@ Comunemente le frazioni vengono usate in almeno tre contesti. Il primo, forse il
 
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
+#### ESEMPIO 1
+
 - Quanti minuti durano tre quarti d'ora?
 - Quanto pesa un quarto di torta da $800$ grammi?
 - Quanto vale mezzo euro (in centesimi)?
 
-Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti", come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.
+Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti", come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.    $ \bullet$
+
+
 
 Il secondo contesto d'uso delle frazioni è per misurare una quantità "rispetto ad un altra" o "in rapporto ad un'altra" che utilizziamo come unità di riferimento. Facciamo due esempi.
 
-#### Esempio 1
+#### ESEMPIO 2
 
 In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno è atteso con novanta minuti di ritardo". Che ritardo ha il treno?
 
@@ -31,7 +35,7 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
 Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60$ da $1,5$. $ \bullet$
 
-#### Esempio 2
+#### ESEMPIO 3
 
 La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
 
@@ -42,6 +46,8 @@ Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uo
 Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. $ \bullet$
+
+
 
 Il terzo contesto è l'uso delle frazioni per indicare delle divisioni. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$, ma se la scriviamo come frazione è perché vogliamo evidenziare quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
@@ -55,17 +61,17 @@ $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 ### Frazioni, rapporti e loro segno
 
-Abbiamo detto che una frazione è una divisione di cui non viene calcolato il valore. Per essere precisi è una divisione tra numeri interi di cui non calcoliamo il valore, perché possiamo avere anche divisioni tra espressioni numeriche. Vediamo alcuni esempi.
-
-#### ESEMPIO 3
-
-Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Osserviamo anche che la linea di frazione orizzontale ha anche la stessa funzione che hanno le parentesi nella notazione lineare.   $\bullet$
+Abbiamo già detto, parlando di numeri naturali ed interi, che la divisione, espressa con "due punti" in notazione lineare, si può anche scrivere come una frazione. Vediamo alcuni esempi.
 
 #### ESEMPIO 4
 
+Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Osserviamo anche che la linea di frazione orizzontale ha anche la stessa funzione che hanno le parentesi nella notazione lineare.   $\bullet$
+
+#### ESEMPIO 5
+
 L'espressione in notazione matematica $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ si esprime in notazione lineare come $2:3 \cdot (1 + 2 \cdot 3):5$.
 
-Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ si esprime come L'espressione a) in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.    $\bullet$
+Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.    $ \bullet$
 
 
 
@@ -73,7 +79,7 @@ Il rapporto tra due numeri interi può essere positivo o negativo. Le regole per
 
 La forma canonica di una frazione è sempre $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Vediamo degli esempi.
 
-#### ESEMPIO 5
+#### ESEMPIO 6
 
 Se i due numeri hanno segno diverso: $\dfrac{-3}{4} \longrightarrow -\dfrac{3}{4}$ oppure $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$, altrimenti abbiamo $\dfrac{3}{+4} \longrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.    $ \bullet$
 
@@ -351,7 +357,7 @@ Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un e
 
 Come per qualsiasi altra divisione, il risultato è il numero che moltiplicato per il divisore mi dà il dividendo. Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
 
-$\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.   
+$\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.   
 
 
 

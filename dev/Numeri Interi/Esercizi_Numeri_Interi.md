@@ -115,7 +115,7 @@ Per scrivere una somma algebrica tra due o più numeri dobbiamo scrivere i numer
 
 La somma algebrica tra i numeri $-2$, $+5$, $-1$ è $-2 +5 +1$ e la somma algebrica tra i numeri $+2$, $5$, $1$ è $+2 + 5 + 1$.
 
-Soltanto il primo numero, se è positivo, può essere scritto senza il segno, quindi la somma precedente poteva anche essere scritta $2 + 5 + 1$. $\bullet$
+Soltanto il primo numero, se è positivo, può essere scritto senza il segno, quindi la somma precedente poteva anche essere scritta $2 + 5 + 1$.    $ \bullet$
 
 
 
@@ -677,10 +677,15 @@ $$
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti a.1) e a.2) con le istruzioni GEOGEBRA seguenti (calcolatrice **GRAFICI**):
+a) Risolvi i punti a.1) e a.2) con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
 
-1. $Compatta(2 \cdot a,a,\{-5, 5\});$
-2. $Compatta(-a +1,a,\{0,1,-1,2,-2\});$
+a.1.1) $l = \{-5, 5\}$  &#9166;
+
+a.1.2) $2 \cdot l \longrightarrow \{10, -10\}$
+
+a.2.1) $l = \{0, 1, -1, 2, -2\}$  &#9166;
+
+a.2.2) $l^2 \longrightarrow \{0, 1, 1, 4, 4\}$.
 
 b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
 
