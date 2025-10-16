@@ -483,9 +483,9 @@ Come già fatto per i numeri interi, anche con le frazioni una  ***sostituzione*
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
 
 1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
-2. $-2x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
-3. $(1 - y)y + 3,\ \{y=-\dfrac{5}{2}\}$;
-4. $(1 - y)y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y)y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y)y + 3,\ \{y=\dfrac{4}{2}\}$.
+2. $-2 \cdot x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
+3. $(1 - y) \cdot y + 3,\ \{y=-\dfrac{5}{2}\}$;
+4. $(1 - y) \cdot y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y) \cdot y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y) \cdot y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y) \cdot y + 3,\ \{y=\dfrac{4}{2}\}$.
 
 
 
@@ -493,7 +493,7 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $Sostituisci(-2 x+x^2+1 , \; {x = \dfrac{2}{5}})$&#9166;
+1. $Sostituisci(-2 \cdot x+x^2+1 , \; {x = \dfrac{2}{5}})$&#9166;
 2. $Sostituisci((1 - y) \cdot y + 3, \;  {y = -\dfrac{2}{5}})$&#9166;
 
 
@@ -530,8 +530,8 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 b) Organizza le sequenze di sostituzioni seguenti in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dell'espressione sostituita.
 
 1. $a + \dfrac{1}{2} ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
-2. $-\dfrac{1}{2}a + 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
-3. $-2a - 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+2. $-\dfrac{1}{2} \cdot a + 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+3. $-2 \cdot a - 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
 
 #### Esempio di SOLUZIONE
 

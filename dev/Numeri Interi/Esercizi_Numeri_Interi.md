@@ -617,14 +617,14 @@ Nel caso si volesse sostituire il numero positivo mantenendo il suo segno, si do
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
 
 1. $x^2,\ \{x=2\};$     $x^2,\ \{x=-2\};$     $-x^2,\ \{x=2\};$     $-x^2,\ \{x=-2\};$
-2. $-2x + x^2 + 1,\ \{x=2\}$;     $-2x + x^2 + 1,\ \{x=-2\}$.
+2. $-2 \cdot x + x^2 + 1,\ \{x=2\}$;     $-2x + x^2 + 1,\ \{x=-2\}$.
 
 b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore (ogni sostituzione riguarda due lettere).
 
-1. $3-a^{3}-2b^{2}+a^{2}\text{·}(a-b),\ \{a=2,\ b=-2\}$  
-2. $3ab-5a^{2}+3a-1,\ \{a=-2,\ b=-8\}$  
-3. $(a+b)(a-b)+ab-a^{2},\ \{a=6,\ b=-3\}$  
-4. $(x^{2}+a)x-a(x-1):(x+1)+4a,\ \{x=1,a=-9\}$
+1. $3-a^{3}-2 \cdot b^{2}+a^{2}\text{·}(a-b),\ \{a=2,\ b=-2\}$  
+2. $3 \cdot a \cdot b-5 \cdot a^{2}+3 \cdot a-1,\ \{a=-2,\ b=-8\}$  
+3. $(a+b) \cdot (a-b)+a \cdot b-a^{2},\ \{a=6,\ b=-3\}$  
+4. $(x^{2}+a) \cdot x-a \cdot (x-1):(x+1)+4 \cdot a,\ \{x=1,a=-9\}$
 
 C) Scrivi le espressioni letterali ottenute sostituendo ai numeri interi le lettere indicate negli esercizi seguenti. Fai attenzione a non cambiare, con la sostituzione, le operazioni contenute nell'espressione. 
 
@@ -635,7 +635,7 @@ C) Scrivi le espressioni letterali ottenute sostituendo ai numeri interi le lett
 
 Risolvi il punto a.2) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $l = 3a\cdot b - 5a^2+3a-1$&#9166;
+1. $l = 3 \cdot a\cdot b - 5 \cdot a^2+3 \cdot a-1$&#9166;
 2. $Sostituisci(l,\{a = -2, b = -8\})$&#9166;
 
 
@@ -658,7 +658,7 @@ b) Organizza le sostituzioni seguenti in tabelle, mettendo nella prima colonna i
 
 1. $a^2 ,\,\,\ a \in \{0, 1, -1, 2, -2\};$
 2. $-a + 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
-3. $-2a - 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
+3. $-2 \cdot a - 1,\,\,\ a \in \{0, 1, -1, 2, -2\};$
 
 #### Esempio di SOLUZIONE
 
@@ -679,11 +679,11 @@ $$
 
 a) Risolvi i punti a.1) e a.2) con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
 
-a.1.1) $l = \{-5, 5\}$  &#9166;
+a.1.1) $l = \{-5, 5\}$  &#9166;
 
 a.1.2) $2 \cdot l \longrightarrow \{10, -10\}$
 
-a.2.1) $l = \{0, 1, -1, 2, -2\}$  &#9166;
+a.2.1) $l = \{0, 1, -1, 2, -2\}$  &#9166;
 
 a.2.2) $l^2 \longrightarrow \{0, 1, 1, 4, 4\}$.
 

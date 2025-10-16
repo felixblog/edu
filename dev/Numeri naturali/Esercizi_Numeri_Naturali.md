@@ -25,7 +25,7 @@ Bisogna calcolare $45 : 5 \longrightarrow 9$. La stessa cosa se sappiamo che i l
 
 Come per la sottrazione, non sempre il risultato della divisione di due numeri naturali è un numero naturale: se i bambini dell'esempio precedente delle caramelle fossero $5$, non sarebbe possibile dividere $12$ caramelle tra $5$ bambini in parti uguali senza "rompere" qualche caramella, per cui il risultato di $12 : 5$ non è un numero naturale.
 
-
+Ultima importante osservazione, il risultato della divisione, cioè **il quoziente, è l'unico numero che moltiplicato per il divisore mi da il dividendo**. Questa proprietà della divisione la ritroveremo anche nella divisione tra numeri interi, tra frazioni e tra qualsiasi altra tipologia di numero che incontreremo. 
 
 #### Le espressioni
 
@@ -688,60 +688,24 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-## UNITA' 10: Scomposizione in fattori di una somma
+## UNITA' 10: Proprietà distributiva del prodotto rispetto alla somma
 
-#### Proprietà distributiva del prodotto rispetto alla somma
+Fino ad ora di fronte ad una espressione come $2 \cdot (3 + 4)$, abbiamo sempre scritto $2 \cdot(7) \longrightarrow 14$. Continueremo a fare così, ma dobbiamo dire che questo non è l'unico modo per calcolare il valore dell'espressione perchè alternativamente potremmo scrivere $2 \cdot (3 + 4) \longrightarrow 2 \cdot 3 + 2 \cdot 4$ $\longrightarrow 6 + 8 \longrightarrow 14$.
 
-A volte è utile scrivere una somma di due numeri come prodotto di altri due numeri. La situazione varia di caso in caso, ma qui vediamo un metodo che sarà utile in seguito: la **evidenza di un fattore comune**.
+Un altro esempio è $5 \cdot (4 + 3)$ che possiamo scrivere come $5 \cdot 4 + 5 \cdot 3$ ed in tutte e due i casi il risultato è $35$.
 
-Il metodo si basa sul fatto che una somma di due prodotti che hanno uno stesso fattore si può scrivere come il fattore che moltiplica una somma. 
-
-Ad esempio l'espressione $2 \cdot 3 + 2 \cdot 4$, che fa $14$, la possiamo scrivere come $2 \cdot (3 + 4)$ che fa sempre $14$. Un altro esempio è $5 \cdot 4 + 5 \cdot 3$ che possiamo scrivere come $5 \cdot (4 + 3)$ ed in tutte e due i casi il risultato è $35$. Possiamo quindi dire che 
-$$
-5 \cdot 4 + 5 \cdot 3 = 5 \cdot (4 + 3) \longrightarrow 35
-$$
 Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
 $$
-a \cdot b + a \cdot c = a \cdot (b + c) \;\;\; \bullet
+a \cdot (b + c) = a \cdot b + a \cdot c\;\;\; \bullet
 $$
-
-
-#### Scomposizione in fattori di una somma
-
-Per scrivere una somma coma prodotto percorriamo i passi seguenti. Se abbiamo $6 + 8$ scomponiamo $6 = 2 \cdot 3$ e $8 = 2 \cdot 4$ e vediamo che $2$ è un **fattore comune**, per cui possiamo scrivere:  
-
-$6 + 8 = 2 \cdot 3 + 2 \cdot 4$
-
-e dalla proprietà distributiva della moltiplicazione rispetto alla somma $2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$ per cui 
-$$
-6 + 8 = 2 \cdot (3 +4) \\
-6 + 8 = 2 \cdot 7
-$$
-
-
-Tirare fuori il fattore comune $2$ dalla somma $2 \cdot 3 + 2 \cdot 4$ e metterlo fuori dalla parentesi si dice **evidenziare il fattore comune**.
-
-I fattori comuni a due numeri possono essere più di uno: ad esempio per $8 = 2 \cdot 4$ e $12 = 3 \cdot 2 \cdot 4$ i fattori comuni sono sia $2$ che $4$. Poiché i fattori comuni sono anche divisori dei due numeri, in questi casi conviene utilizzare il più grande, ossia il massimo comune divisore.
 
 
 
 ### ESERCIZIO 10.1 - Evidenza del Fattore Comune
 
-a) Scrivi le seguenti somme di due numeri come prodotto, mettendo in evidenza il loro MCD.
+a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono vere le uguaglianze seguenti.
 
-1. $15 + 10 = MCD\cdot(? + ?);$        $[R. \,\, 5(3+2)]$.  
-2. $6 + 8 = MCD \cdot (? + ?);$        $[R. \,\, 2(3+4)]$.  
-3. $350 + 252 = ?(?+?)$.
+1. $5 \cdot(? + !) = 5 \cdot ? + 5 \cdot ! = 40$;
+2. $6 + 8 = 2 \cdot (? + !) = 14$ 
+3. $350 + 252 = ?(!+126) = 602$.
 
-b) Scrivi le seguenti somme e differenze di numeri come prodotto, analogamente all'esercizio precedente.
-
-1. $2 + 4 + 6;$     $15 - 10;$
-2. $6 - 4 - 2;$     $220 - 110 - 50 + 30$.
-
-#### Esempio di SOLUZIONE
-
-a.1) Per scrivere la soluzione seguire i passi riportati:
-
-1. calcolare il $MCD(15, 10) \Rightarrow 5;$
-2. dividere i numeri per il $MCD$:  $15:5 \Rightarrow 3$ e $10:5 \Rightarrow 2;$
-3. scrivere $15 + 10 = 5(3 + 2)$.

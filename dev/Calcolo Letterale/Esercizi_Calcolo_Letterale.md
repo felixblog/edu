@@ -48,16 +48,16 @@ b) Come il punto precedente, scrivi l'espressione letterale per le quantità seg
 
 a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
-1. $-2x + x^2 + 1,\ \{x=2\}$;
-2. $y(1 - y) + 3,\ \{y=-5\}$;
+1. $-2 \cdot x + x^2 + 1,\ \{x=2\}$;
+2. $y \cdot (1 - y) + 3,\ \{y=-5\}$;
 3. $a − b, \enspace \{a = 10, b = +7\}$;
-4. $(a − b)(a + b), \enspace \{a = \dfrac{2}{3}, b = -\dfrac{3}{2}\}$;
+4. $(a − b) \cdot (a + b), \enspace \{a = \dfrac{2}{3}, b = -\dfrac{3}{2}\}$;
 
 b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
 1. $a^{2} − b^{2}, \{\enspace a = 1, b = +1\}; \enspace \{a = -3, b = -2\}; \enspace \{a = -6, b = \dfrac{5}{3}\}$;
-2. $2a(b + 1) - 6ab , \enspace \{a = -3, b = 0\}$;
-3. $((2a)b)^{3}, \enspace \{a = 2, b = -\dfrac{3}{2}\}$.
+2. $2a \cdot (b + 1) - 6 \cdot a \cdot b , \enspace \{a = -3, b = 0\}$;
+3. $((2 \cdot a) \cdot b)^{3}, \enspace \{a = 2, b = -\dfrac{3}{2}\}$.
 
 
 
@@ -83,7 +83,7 @@ a) $a-\left(b+c\right)$;
 
 b) $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right);$
 
-c) $\left(a+b\right)^{2}\left(-a-b\right)^{2}.$
+c) $\left(a+b\right)^{2} \cdot \left(-a-b\right)^{2}.$
 
 d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\right)\right]^{2}$:
 
@@ -117,7 +117,9 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 #### Componenti e forme di un monomio
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2s$,  $3s$, sono tutti monomi. Un monomio è ***in forma normale*** se il primo fattore è un numero e gli altri fattori sono lettere, scritte in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero).
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** se il primo fattore è un numero e gli altri fattori sono lettere, scritte in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero). 
+
+In un monomio il simbolo di prodotto si può anche omettere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo sempre usare il segno di prodotto.
 
 #### ESEMPIO 2
 
