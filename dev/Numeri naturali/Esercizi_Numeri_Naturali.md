@@ -327,7 +327,7 @@ L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo l
 
 Nelle espressioni possono comparire, oltre ai numeri, anche delle lettere. Ma cosa significa fare operazioni con le lettere?
 
-Ovviamente non è possibile "fare" delle operazioni con le lettere, per cui una lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa. In pratica è come se la lettera indicasse un "buco" nell'espressione, che dovrà essere riempito da un numero quando dobbiamo calcolare l'espressione
+Ovviamente non è possibile "fare" delle operazioni con le lettere, per cui una lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa. In pratica è come se la lettera indicasse un "buco" nell'espressione, che dovrà essere riempito da un numero quando dobbiamo calcolare l'espressione.
 
 #### ESEMPIO 1
 
@@ -692,7 +692,7 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 Fino ad ora di fronte ad una espressione come $2 \cdot (3 + 4)$, abbiamo sempre scritto $2 \cdot(7) \longrightarrow 14$. Continueremo a fare così, ma dobbiamo dire che questo non è l'unico modo per calcolare il valore dell'espressione perchè alternativamente potremmo scrivere $2 \cdot (3 + 4) \longrightarrow 2 \cdot 3 + 2 \cdot 4$ $\longrightarrow 6 + 8 \longrightarrow 14$.
 
-Un altro esempio è $5 \cdot (4 + 3)$ che possiamo scrivere come $5 \cdot 4 + 5 \cdot 3$ ed in tutte e due i casi il risultato è $35$.
+Un altro esempio è $5 \cdot (4 + 3)$ che possiamo scrivere come $5 \cdot 4 + 5 \cdot 3$ ed in tutte e due i casi il risultato è $35$.
 
 Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
 $$
@@ -705,7 +705,7 @@ $$
 
 a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono vere le uguaglianze seguenti.
 
-1. $5 \cdot(? + !) = 5 \cdot ? + 5 \cdot ! = 40$;
+1. $5 \cdot(? + !) = 5 \cdot ? + 5 \cdot ! = 40$;
 2. $6 + 8 = 2 \cdot (? + !) = 14$ 
 3. $350 + 252 = ?(!+126) = 602$.
 

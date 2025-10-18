@@ -117,7 +117,7 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 #### Componenti e forme di un monomio
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** se il primo fattore è un numero e gli altri fattori sono lettere, scritte in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero). 
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono lettere, scritte in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero). 
 
 In un monomio il simbolo di prodotto si può anche omettere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo sempre usare il segno di prodotto.
 
@@ -333,7 +333,7 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 La somma algebrica di più monomi (non tutti simili) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***.
 
-Un polinomio è in ***forma normale*** se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado decrescente ed in ordine alfabetico tra quelli dello stesso grado.
+Un polinomio è in ***forma normale*** (o **canonica**) se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado decrescente ed in ordine alfabetico tra quelli dello stesso grado.
 
 #### ESEMPIO 1
 
@@ -568,19 +568,19 @@ Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di ist
 
 ## UNITA' 8: Sostituzioni in espressioni letterali
 
-Come abbiamo visto nelle espressioni numeriche, anche nelle espressioni letterali possiamo sostituire ad una lettera un'altra espressione letterale. Le sostituzioni vanno sempre fatte tra parentesi. Vediamo un esempio.
+Come abbiamo visto nelle espressioni numeriche, anche nelle espressioni letterali è possibile fare delle sostituzioni, ma a differenza dei casi precedenti dove a lettere sostituivamo dei numeri, nel calcolo letterale possiamo **sostituire ad una lettera una espressione letterale**, ossia altre lettere. Le sostituzioni vanno sempre fatte tra parentesi. Dopo la sostituzione possiamo effettuare le operazioni di somma e prodotto tra monomi e polinomi finché il risultato non sia in forma normale. Vediamo degli esempi.
 
 #### ESEMPIO 1
 
-Consideriamo l'espressione $2 \cdot x + 1$ e sostituiamo alla $x$ l'espressione $y - 1$. In simboli abbiamo
+Consideriamo l'espressione $2 \cdot x + 1$ e sostituiamo alla lettera $x$ l'espressione $y - 1$. In simboli abbiamo
 
 $2 \cdot x + 1, \{x = y - 1\}$ $\longrightarrow 2(y-1) + 1$ 
 
-Moltiplicando e semplificando $2(y-1) + 1 \longrightarrow 2y -1$. 
+Moltiplicando e facendo le somme abbiamo $2(y-1) + 1 \longrightarrow 2y -1$.   $\bullet$
 
 #### ESEMPIO 2
 
-$2 a(1 + x), \{x = a^2 - 1\}$  $\longrightarrow 2a(1 + (a^2 - 1))$. Semplifichiamo l'espressione ottenuta:
+$2 a(1 + x), \{x = a^2 - 1\}$  $\longrightarrow 2a(1 + (a^2 - 1))$. Moltiplicando e sommando otteniamo la forma normale del risultato.
 
 a) $2a(1 + (a^2 - 1))$
 
@@ -590,7 +590,19 @@ c) $2a(a^2)$
 
 d) $2a^3$.    $ \bullet$
 
+#### ESEMPIO 3
 
+a) $\dfrac{b \cdot h}{2}, \{b = a - 1, h = a + 1\}$
+
+b) $\dfrac{(a-1)(a+1)}{2}$
+
+c) $\dfrac{a(a+1)-1(a+1)}{2}$
+
+d) $\dfrac{a^2+a-a-1}{2}$
+
+e) $\dfrac{a^2-1}{2}$    $\bullet$
+
+ 
 
 ### ESERCIZIO 8.1 - Sostituzioni
 
@@ -612,9 +624,9 @@ b) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tr
 
 La scomposizione in fattori di polinomi è utile nella semplificazione delle frazioni algebriche. Una **frazione algebrica** è un rapporto tra un polinomio ed un monomio o tra due polinomi. Ad esempio le seguenti sono tutte frazioni algebriche
 
-$\dfrac{x - 1}{x +1}$;    $\dfrac{x - 1}{y - 1}$;    $\dfrac{ax - 1}{ax}$;     $\dfrac{2ax^2}{x - 1}$.    $ \bullet$
+$\dfrac{x - 1}{x +1}$;    $\dfrac{x - 1}{y - 1}$;    $\dfrac{ax - 1}{ax}$;     $\dfrac{2ax^2}{x - 1}$. 
 
- A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere scomposti in fattori se ci sono dei fattori in comune, che quindi si possono semplificare, come nell'esempio seguente.
+ A volte è possibile, come per le frazioni, scrivere il rapporto in una forma più semplice (forma in cui i polinomi hanno un grado più basso); questo accade se i polinomi al numeratore ed al denominatore possono essere scomposti in fattori se ci sono dei fattori in comune che quindi si possono semplificare, come nell'esempio seguente.
 
 #### ESEMPIO 1
 

@@ -312,7 +312,7 @@ b) $-5 \underbracket{-1 \cdot (\underline{-5})}$
 
 La terza è la somma algebrica dopo il primo $-5$:
 
-c) $-5 \overset{\downarrow}{\phantom{,}} \underline{+5}$
+c) $-5 \underline{+5}$
 
 d) $0$.   $\bullet$
 
@@ -592,23 +592,23 @@ $H=(-3,-3)$ &#9166; .
 
 ## UNITA' 7: Sostituzioni con i numeri interi
 
-In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$, dette ***espressioni letterali***. Le operazioni nelle espressioni letterali  non possono essere eseguite tutte fino a quando alle lettere non si sostituiscono dei numeri, ossia non si operi una "***sostituzione***": in altre parole, la lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa. In pratica è come se la lettera indicasse un "buco" nell'espressione, che dovrà essere riempito da un numero quando dobbiamo calcolare l'espressione.
+In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$, dette ***espressioni letterali***. Nelle espressioni letterali, una operazione non può essere eseguita se coinvolge delle lettere e quindi, prima di eseguire l'operazione, la lettera deve essere rimpiazzata da un numero. In altre parole, la lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa. In pratica è come se la lettera indicasse un "buco" nell'espressione, che dovrà essere riempito da un numero quando dobbiamo calcolare l'espressione.
 
-La sostituzione è una operazione che consiste nel rimpiazzamento delle lettere con dei numeri, come nell'esempio seguente, dove cosa sostituire è indicato in parentesi graffe:
+La **sostituzione** è una operazione che consiste nel rimpiazzamento delle lettere con dei numeri tra parentesi tunde, come nell'esempio seguente, dove cosa sostituire è indicato in parentesi graffe:
 
  $2 \cdot c + 1, \{c = -4\} \longrightarrow 2 \cdot (-4) + 1 \longrightarrow -7$.
 
-La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, facendo attenzione a non alterare la sequenza di operazioni presenti nell'espressione. Per evitare ciò la sostituzione di un numero che ha il segno va fatta con **il numero racchiuso tra parentesi tonde**. 
+La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, **tra parentesi tonde**. 
 
  $2 \cdot x + x^2, \{x = +2\} \longrightarrow 2 \cdot (+2) + (+2)^2 \longrightarrow 4+(4) \longrightarrow 4 + 4 \longrightarrow 8$.
 
  $2 \cdot x - y^2, \{x = -2, y = -3\} \longrightarrow 2 \cdot (-2) - (-3)^2 \longrightarrow -4 - (9) \longrightarrow -4-9 \longrightarrow -13$.
 
-Poiché ogni lettera sta per un numero, comprensivo di segno, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi il prodotto del numero con $\pm 1$: l'espressione $1 -a$ contiene $3$ numeri, una somma algebrica ed un prodotto.
+Poiché **ogni lettera sta per un numero**, che è comprensivo di segno, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
 
-$1 - a = 1 \overset{{\downarrow}}{\phantom{,}} -1 \overset{\downarrow}{\cdot} a$
+$1 - a$ equivale a $1 \overset{{\downarrow}}{\phantom{,}} -1 \overset{\downarrow}{\cdot} a$
 
-$1 + a = 1 \overset{{\downarrow}}{\phantom{,}} +1 \overset{\downarrow}{\cdot} a$
+$1 + a$ equivale a $1 \overset{{\downarrow}}{\phantom{,}} +1 \overset{\downarrow}{\cdot} a$
 
 Si può evitare di racchiudere il numero tra parentesi solo se si sta sostituendo un numero positivo e lo si sostituisce senza il segno "$+$", come nell'esempio seguente.
 
