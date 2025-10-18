@@ -244,7 +244,7 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***. 
 
-Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
+Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e di $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
 #### ESEMPIO 1
 
@@ -256,7 +256,13 @@ $-3x + 2x^2 \longrightarrow -3x + 2x^2$: **Non è un monomio!** .
 
 Il prodotto di due o più monomi è **sempre** un monomio.
 
-$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$. $ \bullet$
+$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$.     $\bullet$
+
+
+
+#### Somme di più monomi
+
+In una espressione letterale possono comparire più monomi diversi da sommare, eventualmente insieme a dei numeri come ad esempio $2x^2 + x +5 -x^2 +7$. Poichè i monomi di una somma si possono scambiare di posto, la prima cosa da fare è ordinare i monomi per grado ed in ordine alfabetico:  $2x^2 -x^2 + x +5 +7$. Si vede così che i primi due monomi sono simili e si possono sommare tra di loro (ma non con gli altri!!!) e gli ultimi due numeri si possono sommare tra di loro, per cui, eseguendo le somme possibili, l'espressione diventa $x^2 +x + 12$. 
 
 
 
@@ -600,9 +606,9 @@ c) $\dfrac{a(a+1)-1(a+1)}{2}$
 
 d) $\dfrac{a^2+a-a-1}{2}$
 
-e) $\dfrac{a^2-1}{2}$    $\bullet$
+e) $\dfrac{a^2-1}{2}$    $\bullet$
 
- 
+ 
 
 ### ESERCIZIO 8.1 - Sostituzioni
 

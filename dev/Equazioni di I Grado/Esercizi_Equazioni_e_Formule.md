@@ -18,7 +18,21 @@ I problemi che ci si pongono di fronte ad una equazione sono due:
 
 Per rispondere alla prima domanda basta sostituire alla incognita il numero e controllare che l'uguaglianza risulti vera, qualunque sia l'equazione.
 
-Ricercare le soluzioni è un compito molto più complesso. Procedendo per gradi, le equazioni più semplici da risolvere sono quelle ***elementari*** del tipo $x = -3$ oppure $\dfrac{2}{3} = x$. In questi casi la soluzione è ovvia ed è l'unico numero presente nell'equazione che una volta sostituita all'incognita produce: $\dfrac{2}{3} = \dfrac{2}{3} \longrightarrow True$.
+#### ESEMPIO 1
+
+Per verificare se $6$ è soluzione dell'equazione $x+ 12 = 28$ bisogna effettuare una sostituzione in tutta l'equazione, calcolare le espressioni a sinistra ed a destra dell'uguaglianza e controllare che i due valori ottenuti siano uguali:
+
+a) $x + 12 = 28, \{x = 6\}$
+
+b) $(6) + 12 = 28$
+
+c) $18 = 28 \longrightarrow Falso$.
+
+L'uguaglianza ottenuta è falsa, quindi $6$ non è soluzione dell'equazione.    $\bullet$
+
+
+
+Ricercare le soluzioni è un compito molto più complesso. Procedendo per gradi, le equazioni più semplici da risolvere sono quelle ***elementari*** del tipo $x = -3$ oppure $\dfrac{2}{3} = x$. In questi casi la soluzione è ovvia ed è l'unico numero presente nell'equazione che una volta sostituita all'incognita produce: $\dfrac{2}{3} = \dfrac{2}{3} \longrightarrow Vero$.
 
 Le equazioni immediatamente più complesse sono quelle del tipo $3x = -3$ e $10 = x + 4$ per le quali vedremo un metodo risolutivo nella prossima unità.
 
@@ -44,15 +58,23 @@ b) Controlla se il numero dato è soluzione delle seguenti equazioni.
 
 a) Risolvi i punti dell'esercizio con il comando GEOGEBRA seguente:
 
-1. $Sostituisci(x + 12 = 28, x=6)$ &#9166; 
+a1) $Sostituisci(x + 12 = 28, x=6)$ &#9166; 
 
-b) Risolvi i punti b.1 e b.2 con la sequenza di comandi GEOGEBRA riportata di seguito.
+a2) $\longrightarrow 18 = 28$
 
-1. $e1: 0,5x = 2,9$ &#9166; 
-2. $s1: Sostituisci(e1, x=5)$ &#9166; 
-3. $PrimoMembro(s1) == SecondoMembro(s1)$ &#9166;
+I due numeri sono chiaramente diversi, per cui $6$ non è soluzione.
 
-Controlla che il comando $PrimoMembro(s1)$&#9166; fornisce $\dfrac{5}{2} \approx 2,5$ mentre $SecondoMembro(s1)$&#9166; fornisce $\dfrac{29}{10} \approx 2,9$  
+b) Risolvi i punti dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
+
+b1) $e1: 0,5x = 2,9$ &#9166; 
+
+b2) $s1: Sostituisci(e1, x=5)$ &#9166; 
+
+b3) $\longrightarrow \dfrac{5}{2} = \dfrac{29}{10}$
+
+Controllando che $\dfrac{5}{2} \approx 2,5$ mentre $\dfrac{29}{10} \approx 2,9$ si vede che le frazioni sono diverse e che l'uguaglianza è falsa. 
+
+
 
 
 
@@ -68,15 +90,19 @@ Possiamo effettuare operazioni algebriche su uno o entrambi i membri di una equa
 
 #### ESEMPIO 1
 
-a) $3 + 2x -3 -x = 1 -3$  Possiamo eseguire le somme algebriche tra $3$ e $-3$ , $2x$ e $-x$ e tra $1$ e $-3$ ed ottenere l'equazione b).
+a) $3 + 2x -3 -x = 1 -3$  Riscrivendo in forma normale abbiamo
 
-b) $x = -2$   Nuova equazione
+b) $+2x -x +3 -3 = 1-3$ Possiamo eseguire le somme algebriche tra $3$ e $-3$ , $2x$ e $-x$ e tra $1$ e $-3$ ed ottenere l'equazione seguente:
 
-L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo in entrambe ad $x$ il numero $-2$.
+c) $x = -2$ 
+
+L'equazione c) ha le stesse soluzioni della a), come si può controllare sostituendo in entrambe ad $x$ il numero $-2$.   $\bullet$
+
+
 
 ### REGOLA DEL TRASPORTO (DELLA SOMMA)
 
-Possiamo trasportare una espressione, parte di una somma, da un membro ad un altro cambiando il suo segno e sommandola ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+Possiamo trasportare una espressione, parte di una somma, da un membro ad un altro cambiando il suo segno e sommandola algebricamente ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
 
 #### ESEMPIO 2
 
@@ -92,7 +118,7 @@ Questa equazione ha le stesse soluzioni della a).
 
 In realtà la vera regola è quella della somma:
 
-***Regola della Somma***: Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione che ha le stesse soluzioni della equazione originaria.
+***Regola della Somma***: Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione che ha le stesse soluzioni della equazione originaria.    $\bullet$
 
 #### ESEMPIO 3
 
@@ -104,7 +130,7 @@ L'equazione b) ha le stesse soluzioni della a), come si può controllare sostitu
 
 c) $x = 1 - 3$. 
 
-Il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro destro il suo opposto cioè $-3$. Questo succede sempre applicando in sequenza le regole della somma e della semplificazione, per questo è stata coniata la regola del trasporto, che è quella più spesso applicata.
+Il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro destro il suo opposto cioè $-3$. Questo succede sempre applicando in sequenza le regole della somma e della semplificazione, per questo è stata coniata la regola del trasporto, che è quella più spesso applicata.     $\bullet$
 
 
 
@@ -114,11 +140,11 @@ Possiamo moltiplicare/dividere entrambi i membri di una equazione per una stessa
 
 #### ESEMPIO 3
 
-a) $2x = 10$    Se moltiplichiamo per il reciproco di 2 ossia $\dfrac{1}{2}$ otteniamo la nuova equazione b).
+a) $2x = 10$    Se moltiplichiamo per il reciproco di $2$, ossia $\dfrac{1}{2}$, otteniamo la nuova equazione b).
 
-b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$.   Se applichiamo la regola della semplificazione otteniamo l'equazione c) che ha le stesse soluzioni di b).
+b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$.   Se applichiamo la regola della semplificazione eseguendo le moltiplicazioni, otteniamo l'equazione c) che ha le stesse soluzioni di b).
 
-c) $x = 5$.
+c) $x = 5$.    $\bullet$
 
 L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $5$.
 
@@ -144,7 +170,7 @@ c) $2x = -2$    Regola della moltiplicazione/divisione per $\dfrac{1}{2}$;
 
 d) $\dfrac{1}{2} \cdot 2x = \dfrac{1}{2} \cdot (-2)$   Regola della semplificazione;
 
-e) $x = -1$   Equazione elementare, soluzione $-1$.
+e) $x = -1$   Equazione elementare, soluzione $-1$.     $\bullet$
 
 #### ESEMPIO 5
 
@@ -158,45 +184,29 @@ d) $17 = 5x$	Regola della moltiplicazione/divisione per $\dfrac{1}{5}$
 
 e) $\dfrac{1}{5} \cdot 17 = \dfrac{1}{5} \cdot 5x$	Regola della semplificazione
 
-f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.
+f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.     $\bullet$
 
 #### ESEMPIO 6
 
 A volte le equazioni presentano delle frazioni con un polinomio al numeratore come nel caso seguente:
 
-$\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3}$.
+a) $\dfrac{x + 2}{3} + \dfrac{x + 3}{4} = \dfrac{13}{3}$.
 
-Quello delle due frazioni a sinistra dell'$=$ è un modo di scrivere che equivale a $\dfrac{1}{3}(x+2) = \dfrac{x+2}{3}$, per cui l'equazione è equivalente a:
+Quello delle due frazioni a sinistra del simbolo $=$ è un modo di scrivere che equivale a $\dfrac{1}{3}(x+2) = \dfrac{x+2}{3}$, per cui l'equazione è equivalente a:
 
-a) $\dfrac{1}{3}(x+2) + \dfrac{1}{4}(x+3) = \dfrac{13}{3}$.
+b) $\dfrac{1}{3}(x+2) + \dfrac{1}{4}(x+3) = \dfrac{13}{3}$.
 
-Ci sono due modi di procedere per risolvere questa equazione. Il primo è moltiplicare tutto per il minimo comune multiplo di $3$ e $4$ cioè $12$, così i denominatori scompaiono e l'equazione ha solo numeri interi:
+c) $\dfrac{1}{3}x + \dfrac{2}{3} + \dfrac{1}{4}x + \dfrac{3}{4} = \dfrac{13}{3}$;
 
-b) $12 \cdot \dfrac{1}{3}(x+2) + 12 \cdot  \dfrac{1}{4}(x+3) = 12 \cdot  \dfrac{13}{3}$; 
+d) $\dfrac{1}{3}x  + \dfrac{1}{4}x  = \dfrac{13}{3} - \dfrac{2}{3} - \dfrac{3}{4}$;
 
-c) $4(x+2) + 3(x+3) = 4 \cdot 13$;
+e) $\dfrac{4}{12}x  + \dfrac{3}{12}x  = \dfrac{52}{12} - \dfrac{8}{12} - \dfrac{9}{12}$;
 
-d) $4x + 8 + 3x + 9 = 52$;
+f) $\dfrac{7}{12}x = \dfrac{35}{12}$;
 
-e) $7x = 52 - 8 - 9$;
+g) $\dfrac{12}{7} \cdot \dfrac{7}{12}x = \dfrac{12}{7} \cdot \dfrac{35}{12}$;
 
-f) $7x = 35$;
-
-g) $x = 5$.
-
-L'altro modo è eliminare le parentesi dall'equazione a) e procedere come sempre:
-
-b') $\dfrac{1}{3}x + \dfrac{2}{3} + \dfrac{1}{4}x + \dfrac{3}{4} = \dfrac{13}{3}$;
-
-c') $\dfrac{1}{3}x  + \dfrac{1}{4}x  = \dfrac{13}{3} - \dfrac{2}{3} - \dfrac{3}{4}$;
-
-d') $\dfrac{4}{12}x  + \dfrac{3}{12}x  = \dfrac{52}{12} - \dfrac{8}{12} - \dfrac{9}{12}$;
-
-e') $\dfrac{7}{12}x = \dfrac{35}{12}$;
-
-f') $\dfrac{12}{7} \cdot \dfrac{7}{12}x = \dfrac{12}{7} \cdot \dfrac{35}{12}$;
-
-g') $x = 5$.
+h) $x = 5$.
 
 
 
