@@ -169,21 +169,7 @@ a) Risolvi i punti a.1) e a.3) dell'esercizio con la sequenza di comandi GEOGEBR
 
 
 
-### ESERCIZIO 2.2 - Prodotti di monomi
-
-a) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale. 
-
-1. $2ab\,\cdotp\left(-3a^{2}b\right)$     ;$-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$;  
-
-2. $2a^{2}\,\cdotp\left(-4a^{5}b^{3}\right)$;     $-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$;  
-
-a) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale. 
-
-1. $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
-
-
-
-### ESERCIZIO 2.3 - Dalle parole alle espressioni I
+### ESERCIZIO 2.2 - Dalle parole alle espressioni I
 
 Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel testo scegliendo un nome significativo, la loro unità di misura ed il valore e scrivi l'espressione letterale che fornisce la soluzione di ogni problema. L'espressione richiesta dovrà contenere una lettera che indica la quantità contenuta nel testo da cui dipende la soluzione.
 
@@ -222,7 +208,7 @@ i) Una persona deposita in banca un capitale $C$ su un conto che rende il 5% di 
 
 
 
-### ESERCIZIO 2.4 - Dalle parole alle espressioni II
+### ESERCIZIO 2.3 - Dalle parole alle espressioni II
 
 a) Scrivi le espressioni numeriche che forniscono le soluzioni dei seguenti problemi e calcola i valori nei casi specifici indicati.
 
@@ -240,11 +226,11 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 
 
-## UNITA' 3: Somme di Monomi
+## UNITA' 3: Somme e prodotti di monomi
 
 Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***. 
 
-Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e di $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
+Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
 #### ESEMPIO 1
 
@@ -254,17 +240,35 @@ $5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;
 
 $-3x + 2x^2 \longrightarrow -3x + 2x^2$: **Non è un monomio!** .
 
-Il prodotto di due o più monomi è **sempre** un monomio.
-
-$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$.     $\bullet$
-
 
 
 #### Somme di più monomi
 
-In una espressione letterale possono comparire più monomi diversi da sommare, eventualmente insieme a dei numeri come ad esempio $2x^2 + x +5 -x^2 +7$. Poichè i monomi di una somma si possono scambiare di posto, la prima cosa da fare è ordinare i monomi per grado ed in ordine alfabetico:  $2x^2 -x^2 + x +5 +7$. Si vede così che i primi due monomi sono simili e si possono sommare tra di loro (ma non con gli altri!!!) e gli ultimi due numeri si possono sommare tra di loro, per cui, eseguendo le somme possibili, l'espressione diventa $x^2 +x + 12$. 
+In una espressione letterale possono comparire più monomi diversi da sommare, eventualmente insieme a dei numeri come ad esempio $2x^2 + x +5 -x^2 +7$. Poiché cambiando l'ordine degli addendi in una somma il risultato non cambia, i monomi di una somma si possono scambiare di posto, e la prima cosa da fare è ordinare i monomi per grado ed in ordine alfabetico:  $2x^2 -x^2 + x +5 +7$. Si vede così che i primi due monomi sono simili e si possono sommare tra di loro (ma non con gli altri!!!) e gli ultimi due numeri si possono sommare tra di loro, per cui, eseguendo le somme possibili, la somma di monomi diventa diventa $x^2 +x + 12$ dove non ci sono più operazioni da fare.
+
+#### ESEMPIO 2
+
+a) $a \overset{\overset{+/-}\downarrow}{\phantom{,}} + b \overset{\overset{+/-}\downarrow}{\phantom{,}} -2a \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b$   Sono presenti tre somme algebriche, nessuna delle quali può essere eseguita perché i monomi non sono simili. Riordinando i monomi abbiamo la somma seguente.
+
+b) $\underbracket{a \overset{\overset{+/-}\downarrow}{\phantom{,}} - 2a} \overset{\overset{+/-}\downarrow}{\phantom{,}} + b \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b$   Ora è possibile eseguire la prima somma.
+
+c) $\underline{-a} \overset{\overset{+/-}\downarrow}{\phantom{,}} \underbracket{+ b \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b}$   Qui è possibile effettuare la seconda somma algebrica.
+
+d) $-a \overset{\overset{+/-}\downarrow}{\phantom{,}} \underline{+4b}$      $\bullet$
 
 
+
+#### Prodotti di monomi
+
+Il prodotto di più monomi è sempre un monomio. Poiché cambiando l'ordine dei fattori il prodotto non cambia, l'unica operazione da fare per eseguire il prodotto di due monomi è moltiplicare le parti numeriche e riordinare la parte letterale per metterla in forma canonica.
+
+#### ESEMPIO 3
+
+Il prodotto di due o più monomi è **sempre** un monomio.
+
+$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$.     $\bullet$
+
+ 
 
 ### ESERCIZIO 3.1 - Somme di monomi
 
@@ -284,7 +288,21 @@ a) Risolvi il punto a.2) dell'esercizio con il comando GEOGEBRA: $a: \dfrac{1}{2
 
 
 
-### ESERCIZIO 3.2 - Espressioni letterali
+### ESERCIZIO 3.2 - Prodotti di monomi
+
+a) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale. 
+
+1. $2ab\,\cdotp\left(-3a^{2}b\right)$     ;$-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$;  
+
+2. $2a^{2}\,\cdotp\left(-4a^{5}b^{3}\right)$;     $-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$;  
+
+a) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale. 
+
+1. $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
+
+
+
+### ESERCIZIO 3.3 - Somme e prodotti di monomi
 
 a) Individua **quanti e quali** monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
@@ -309,7 +327,7 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}  \cdo
 
 Il rapporto tra due monomi è  un monomio solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi termini non sono più presenti lettere al denominatore.
 
-Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***. La forma canonica di una frazione algebrica è un numero che moltiplica il rapporto tra due monomi entrambi con parte numerica uguale ad $1$.
+Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***. La forma canonica di una frazione algebrica è un numero che moltiplica il rapporto tra due monomi entrambi con parte numerica intera o uguale ad $1$.
 
 #### ESEMPIO 1
 
@@ -343,7 +361,7 @@ Un polinomio è in ***forma normale*** (o **canonica**) se tutti i monomi sono i
 
 #### ESEMPIO 1
 
-L'espressione letterale $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2}$ è una somma algebrica dei monomi $+a^2b^2$, $+a^2$, $-b^2$, $-2a^2b^2$ e $+a^2$; i monomi sono tutti in forma normale ma il polinomio non lo è perché sia il primo ed il quarto che il secondo ed il quinto monomio sono simili: se sommiamo tra di loro i monomi simili otteniamo $-a^{2}b^{2}+2a^{2}-b^{2}$ che è i forma normale. $\bullet$ 
+L'espressione letterale $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2}$ è una somma algebrica di 5 monomi tutti in forma normale. Il polinomio non lo è perché sia il primo ed il quarto che il secondo ed il quinto monomio sono simili: se i monomi vengono riordinati e vengono sommati i monomi simili, otteniamo $-a^{2}b^{2}+2a^{2}-b^{2}$ che è i forma normale.     $\bullet$ 
 
 
 
@@ -416,7 +434,13 @@ Il prodotto di un monomio per un polinomio è un polinomio che si ottiene somman
 
 #### ESEMPIO 1
 
-Nel prodotto $2(x^2 + x)$ Il monomio che moltiplica è il solo numero $2$; i prodotti del monomio per i monomi del polinomio sono i due monomi $2 \cdot (x^2)$ e $2 \cdot (+x)$, per cui il polinomio risultante è  $2 \cdot (x^2) +2 \cdot (+x)$ $ \longrightarrow 2x^2+ 2x$.    $ \bullet$
+Nel prodotto $2(x^2 + x)$ Il monomio che moltiplica è il solo numero $2$; il procedimento è il seguente.
+
+a) $2(x^2 + x)$
+
+b) $2 \cdot (x^2) +2 \cdot (+x)$ 
+
+c) $2x^2+ 2x$    $\bullet$
 
 
 
@@ -426,7 +450,11 @@ a) Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (b) \longrightarrow
 
 b) Il prodotto $-3(1 - b)$ equivale a $-3(1-b) = -3 \cdot (1) -3 \cdot (-b)$ $\longrightarrow $ $ -3 + 3b$;
 
-c) Per calcolare $a^2(ab^2 -\dfrac{c}{2})$,  abbiamo $a^2(ab^2) + a^2(-\dfrac{c}{2}) \longrightarrow a^3b - \dfrac{1}{2}a^2c$.    $ \bullet$
+c1) $a^2(ab^2 -\dfrac{c}{2})$
+
+c2) $a^2(ab^2) + a^2(-\dfrac{c}{2})$
+
+c3) $a^3b - \dfrac{1}{2}a^2c$.    $\bullet$
 
 
 
@@ -498,11 +526,25 @@ Il prodotto di due polinomi è un polinomio che si scrive moltiplicando ogni mon
 
 Nell'esempio seguente il primo polinomio è formato dai monomi $+a$ e $+b$ per cui moltiplichiamo ognuno per il secondo polinomio e poi sommiamo:
 
-$(a + b)(c+d) \longrightarrow a(c+d)+b(c+d) \longrightarrow a \cdot c + a \cdot d +b \cdot c +b \cdot d$;
+a) $(a + b)(c+d)$
+
+b) $a(c+d)+b(c+d)$
+
+c) $a \cdot c + a \cdot d +b \cdot c +b \cdot d$     $\bullet$
+
+
 
 #### ESEMPIO 2
 
-$(1 - x)(1+x) \longrightarrow 1(1+x)-x(1+x) \longrightarrow 1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x \longrightarrow 1 + x - x -x^2 \longrightarrow 1 - x^2$. $\bullet$
+a) $(1 - x)(1+x)$
+
+b) $1(1+x)-x(1+x)$
+
+c) $1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x$
+
+d) $1 + x - x -x^2$
+
+e) $1 - x^2$.    $\bullet$
 
 
 

@@ -20,7 +20,7 @@ Per rispondere alla prima domanda basta sostituire alla incognita il numero e co
 
 #### ESEMPIO 1
 
-Per verificare se $6$ è soluzione dell'equazione $x+ 12 = 28$ bisogna effettuare una sostituzione in tutta l'equazione, calcolare le espressioni a sinistra ed a destra dell'uguaglianza e controllare che i due valori ottenuti siano uguali:
+Per verificare se $6$ è soluzione dell'equazione $x+ 12 = 28$ bisogna effettuare una sostituzione in tutta l'equazione, calcolare le espressioni a sinistra ed a destra dell'uguaglianza e controllare che i due valori ottenuti siano uguali:
 
 a) $x + 12 = 28, \{x = 6\}$
 
@@ -62,7 +62,7 @@ a1) $Sostituisci(x + 12 = 28, x=6)$ &#9166;
 
 a2) $\longrightarrow 18 = 28$
 
-I due numeri sono chiaramente diversi, per cui $6$ non è soluzione.
+I due numeri sono chiaramente diversi, per cui $6$ non è soluzione.
 
 b) Risolvi i punti dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
@@ -86,13 +86,13 @@ Se però l'equazione è anche di poco più complessa, trovare la soluzione senza
 
 ### REGOLA DELLA SEMPLIFICAZIONE
 
-Possiamo effettuare operazioni algebriche su uno o entrambi i membri di una equazione ottenendo una nuova equazione che ha le stesse soluzioni di quella originaria.
+Possiamo effettuare le operazioni che fanno parte delle espressioni su uno o entrambi i membri di una equazione ottenendo una nuova equazione che ha le stesse soluzioni di quella originaria.
 
 #### ESEMPIO 1
 
-a) $3 + 2x -3 -x = 1 -3$  Riscrivendo in forma normale abbiamo
+a) $3 + 2x -3 -x = 1 -3$;  Riscrivendo in forma normale abbiamo
 
-b) $+2x -x +3 -3 = 1-3$ Possiamo eseguire le somme algebriche tra $3$ e $-3$ , $2x$ e $-x$ e tra $1$ e $-3$ ed ottenere l'equazione seguente:
+b) $+2x -x +3 -3 = 1-3$; Possiamo eseguire le somme algebriche tra $3$ e $-3$ , $2x$ e $-x$ e tra $1$ e $-3$ ed ottenere l'equazione seguente:
 
 c) $x = -2$ 
 
@@ -102,15 +102,15 @@ L'equazione c) ha le stesse soluzioni della a), come si può controllare sostitu
 
 ### REGOLA DEL TRASPORTO (DELLA SOMMA)
 
-Possiamo trasportare una espressione, parte di una somma, da un membro ad un altro cambiando il suo segno e sommandola algebricamente ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+Possiamo trasportare una espressione che sia parte di una somma, da un membro ad un altro dell'equazione cambiando il suo segno e sommarla ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
 
 #### ESEMPIO 2
 
-a) $3 + x = 1$   Trasportando $+3$ a sinistra e sommandolo ad $1$ si ottiene l'equazione b);
+a) $3 + x = 1$   Trasportando $+3$, che è parte della somma a sinistra, a destra e sommandolo ad $1$ si ottiene l'equazione b);
 
 b) $x = 1 -3$. Nuova equazione
 
-L'equazione b) ha le stesse soluzioni della a). Se applichiamo alla b) la regola della semplificazione al membro sinistro otteniamo la c)
+L'equazione b) ha le stesse soluzioni della a). Se applichiamo alla b) la regola della semplificazione (eseguiamo la somma a destra) otteniamo la c)
 
 c) $x = -2$. 
 
@@ -144,9 +144,11 @@ a) $2x = 10$    Se moltiplichiamo per il reciproco di $2$, ossia $\dfrac{1}{2}$,
 
 b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$.   Se applichiamo la regola della semplificazione eseguendo le moltiplicazioni, otteniamo l'equazione c) che ha le stesse soluzioni di b).
 
-c) $x = 5$.    $\bullet$
+c) $x = 5$.
 
-L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $5$.
+L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $5$.    $\bullet$
+
+
 
 La strategia per risolvere le equazioni consiste nell'applicare ripetutamente le regole scegliendo opportunamente le espressioni da moltiplicare o sommare in modo da semplificare l'equazione riducendo entrambi i membri a polinomi (somma di monomi). A questo punto si trasportano i monomi che contengono l'incognita tutti in un solo membro e quelli che non la contengono tutti nell'altro; i monomi con l'incognita si sommano tra di loro dando come risultato un solo monomio; anche i numeri si sommano e si arriva ad una equazione come: $m \cdot x = q$, dove $m$ e $q$ sono due numeri.
 
@@ -162,9 +164,9 @@ c) $x = \dfrac{q}{m}$;   La soluzione è $\dfrac{q}{m}$.
 
 I passi per risolvere L'equazione $3 + 2x = 1$ sono i seguenti:
 
-a) $3 + 2x = 1$	Regola della somma con $-3$. Si sceglie $-3$ perché è l'opposto di $3$ e dopo la semplificazione il numero scompare dal membro sinistro e rimane solo il monomio con l'incognita.
+a) $3 + 2x = 1$	Regola del trasporto di $+3$ a destra.
 
-b) $3 + 2x -3 = 1 -3$    Regola della semplificazione
+b) $2x -3 = 1 -3$    Regola della semplificazione
 
 c) $2x = -2$    Regola della moltiplicazione/divisione per $\dfrac{1}{2}$;
 
@@ -176,11 +178,11 @@ e) $x = -1$   Equazione elementare, soluzione $-1$.     $\bullet$
 
 a) $2(10 + x) = 3 + 7x$    Con la regola della semplificazione moltiplichiamo il numero per il polinomio al primo membro;
 
-b) $20 + 2x = 3 + 7x$     Spostiamo il $3$ a sinistra sommando $-3$ e $2x$ a destra sommando $-2x$;
+b) $20 + 2x = 3 + 7x$     Trasportiamo il $3$ a sinistra ed il $2x$ a destra;
 
-c) $20 + 2x -3 -2x = 3 + 7x -3 -2x$     Facendo la semplificazione si ottiene la prossima equazione;
+c) $20 -3 = 3 + 7x -2x$     Facendo la semplificazione si ottiene la prossima equazione;
 
-d) $17 = 5x$	Regola della moltiplicazione/divisione per $\dfrac{1}{5}$
+d) $17 = 5x$	Regola della moltiplicazione/divisione per $\dfrac{1}{5}$;
 
 e) $\dfrac{1}{5} \cdot 17 = \dfrac{1}{5} \cdot 5x$	Regola della semplificazione
 
@@ -293,7 +295,7 @@ b) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche ri
 
 ## UNITA' 4: Equazioni e Formule I
 
-Una formula è una uguaglianza tra due espressioni letterali dove le lettere rappresentano delle misure di quantità economiche, fisiche, geometriche o di altra natura. Vediamo alcuni esempi di formule famose ed importanti.
+Una **formula** è una uguaglianza tra due espressioni letterali dove le lettere rappresentano delle misure di quantità economiche, fisiche, geometriche o di altra natura. Vediamo alcuni esempi di formule famose ed importanti.
 
 #### Area del Rettangolo e del Triangolo
 
@@ -332,6 +334,7 @@ P_s = 35(1-0.4) \longrightarrow 35 \cdot 0.6 \longrightarrow 21\; \text{euro} \;
 $$
 
 
+
 #### Peso lordo, tara e peso netto
 
 Tutte le volte che abbiamo un oggetto in un contenitore, ad esempio un imballaggio di carta, cartone o altro, diciamo che il peso totale è la somma del peso dell'oggetto stesso e di quello del contenitore. Questo peso totale è detto **peso lordo**, mentre il peso dell'oggetto SENZA contenitore è detto **peso netto**. Il peso del contenitore è detto **tara**, per cui, se indichiamo con $L$ il peso lordo, $N$, il peso netto e $T$ la tara abbiamo:
@@ -348,6 +351,8 @@ Abbiamo che $N = 0.5 \cdot L$, per cui sostituendo nella formula: $L= 0.5L + T$.
 
 
 
+
+
 #### Ricavi, costi e margine
 
 Quando un soggetto rivende ad un prezzo di $R$ euro un prodotto che precedentemente aveva comprato a $C$ euro, se $R$ è maggiore di $C$, diciamo che dalla operazione ottiene un **margine** o **utile** di $R - C$ euro. Se indichiamo questo utile con $U$ possiamo scrivere:
@@ -358,8 +363,6 @@ Con $R$ abbiamo indicato il **ricavo** e con $C$ il **costo** di questa operazio
 
 Spesso è conveniente anche calcolare il margine di una operazione in percentuale sul costo $C$ dell'operazione stessa; in questo caso $R - C$ è detto **mark-up assoluto** e $q = \dfrac{R - C}{C}$ è detto **mark-up percentuale**.
 
-
-
 #### Esempio 4
 
 Un commerciante pensa di acquistare un lotto di $20$ magliette del costo a lui di $15$ euro l'una. Che ricavo dovrà avere dalla loro vendita perché questa operazione abbia un utile dl almeno $100$ euro? Quale dovrà essere il prezzo di ogni maglietta? Quale sarà il mark-up in percentuale?
@@ -368,6 +371,7 @@ Il costo totale $C$ è pari a $300$ euro; se $U= 100$, sostituendo nella formula
 $$
 q = \dfrac{U}{C} \longrightarrow \dfrac{100}{300} \approx 33.3 \% \;\; \bullet
 $$
+
 
 
 #### La formula dell'IVA 
@@ -389,6 +393,7 @@ $$
 $$
 
 
+
 ### ESERCIZIO 4.1 - Applicazioni delle formule su ricavi, costi ecc.
 
 Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico, e risolvendo l'equazione risultante.
@@ -396,6 +401,8 @@ Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola,
 a) Nel 2006 il film Titanic ha avuto un incasso mondiale di $\text{1.835}$ milioni di dollari con un profitto di $\text{1.595}$ milioni. Quanto è costato il film?
 
 b) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a $\text{12.95}$ euro e le rivende a $\text{47.50}$. 
+
+
 
 
 
@@ -418,8 +425,6 @@ $$
 Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
 
 Dalla formula generale, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.   $\bullet$
-
-
 
 #### ESEMPIO 2
 
@@ -515,7 +520,7 @@ c) $1 - 2a = (a+b)x$;   Dividiamo entrambi i membri per il coefficiente dell'inc
 
 d) $\dfrac{1 - 2a}{a + b} = \dfrac{(a + b)x}{a + b}$;    Semplificando si ottiene la soluzione $\dfrac{1 - 2a}{a + b}$.
 
-e) $\dfrac{1 - 2a}{a + b} = x$    $\bullet$
+e) $\dfrac{1 - 2a}{a + b} = x$      $\bullet$
 
 
 
@@ -561,14 +566,14 @@ A partire dalla formula dell'IVA $P = C(1 + a)$, trovare quanto vale il costo $C
 
 Risolvendo la formula come se fosse una equazione con l'unica incognita $C$ abbiamo $\dfrac{P}{1+a} = C$, per cui la formula inversa è:
 $$
-C = \dfrac{P}{1+a} \;\;\bullet
+C = \dfrac{P}{1+a} \;\;\;\;\bullet
 $$
 
 #### ESEMPIO 2
 
 Se un'automobile corre ad una velocità $v$, quanto tempo impiega a percorrere una strada lunga $s$?
 
-Dalla formula $v = \dfrac{s}{t}$ risolviamo l'equazione come se $t$ fosse l'unica incognita; otteniamo $v = \dfrac{s}{t} \longrightarrow t = \dfrac{s}{v}$, formula inversa della velocità che ci dà il tempo.   $\bullet$
+Dalla formula $v = \dfrac{s}{t}$ risolviamo l'equazione come se $t$ fosse l'unica incognita; otteniamo $v = \dfrac{s}{t} \longrightarrow t = \dfrac{s}{v}$, formula inversa della velocità che ci dà il tempo.     $\bullet$
 
 
 
