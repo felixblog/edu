@@ -17,8 +17,10 @@ Calcoliamo il valore dell'espressione $1-x$ dopo aver sostituito alla lettera $x
 
 
 
-Osserviamo che nell'espressione $1 -x$ ci sono tre numeri e due operazioni perché $-x$ è costituito da $-1$ moltiplicato il numero $x$, per cui i numeri sono $1$, $-1$ ed $x$ mentre le operazioni sono la somma algebrica e la moltiplicazione; analogamente in $1 +x$.
-
+Osserviamo che nell'espressione $1 -x$ ci sono tre numeri e due operazioni perché $-x$ è costituito da $-1$ moltiplicato il numero $x$, per cui i numeri sono $1$, $-1$ ed $x$. Scrivendo esplicitamente abbiamo
+$$
+1-x = 1 \overset{\overset{+/-}{\downarrow}}{\phantom{,}} - 1 \overset{\overset{\cdot}{\downarrow}}\cdot x
+$$
 
 
 ### ESERCIZIO 1.1 - Dalle parole alle espressioni (I)
@@ -119,7 +121,7 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono lettere, scritte in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero). 
 
-In un monomio il simbolo di prodotto si può anche omettere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo sempre usare il segno di prodotto.
+In un monomio il simbolo di prodotto si può anche omettere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo **sempre usare il segno di prodotto**.
 
 #### ESEMPIO 2
 
@@ -238,17 +240,17 @@ $-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$;
 
 $5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;       
 
-$-3x + 2x^2 \longrightarrow -3x + 2x^2$: **Non è un monomio!** .
+$-3x + 2x^2 \longrightarrow -3x + 2x^2$   I monomi non si sommano e la somma **non è un monomio!** .
 
 
 
 #### Somme di più monomi
 
-In una espressione letterale possono comparire più monomi diversi da sommare, eventualmente insieme a dei numeri come ad esempio $2x^2 + x +5 -x^2 +7$. Poiché cambiando l'ordine degli addendi in una somma il risultato non cambia, i monomi di una somma si possono scambiare di posto, e la prima cosa da fare è ordinare i monomi per grado ed in ordine alfabetico:  $2x^2 -x^2 + x +5 +7$. Si vede così che i primi due monomi sono simili e si possono sommare tra di loro (ma non con gli altri!!!) e gli ultimi due numeri si possono sommare tra di loro, per cui, eseguendo le somme possibili, la somma di monomi diventa diventa $x^2 +x + 12$ dove non ci sono più operazioni da fare.
+In una espressione letterale possono comparire dei monomi simili non vicini tra di loro, eventualmente insieme a dei numeri come ad esempio $2x^2 + x +5 -x^2 +7$. Poiché cambiando l'ordine degli addendi in una somma il risultato non cambia, i monomi di una somma si possono scambiare di posto, e la prima cosa da fare è ordinare i monomi per grado ed in ordine alfabetico:  $2x^2 -x^2 + x +5 +7$. Si vede così che i primi due monomi sono simili e si possono sommare tra di loro (ma non con gli altri!!!) e gli ultimi due numeri si possono sommare tra di loro, per cui, eseguendo le somme possibili, la somma di monomi diventa diventa $x^2 +x + 12$ dove non ci sono più operazioni da fare.
 
 #### ESEMPIO 2
 
-a) $a \overset{\overset{+/-}\downarrow}{\phantom{,}} + b \overset{\overset{+/-}\downarrow}{\phantom{,}} -2a \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b$   Sono presenti tre somme algebriche, nessuna delle quali può essere eseguita perché i monomi non sono simili. Riordinando i monomi abbiamo la somma seguente.
+a) $a \overset{\overset{+/-}\downarrow}{\phantom{,}} + b \overset{\overset{+/-}\downarrow}{\phantom{,}} -2a \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b$   Sono presenti tre somme algebriche, nessuna delle quali può essere eseguita perché gli addendi non sono simili. Riordinando i monomi abbiamo la somma seguente.
 
 b) $\underbracket{a \overset{\overset{+/-}\downarrow}{\phantom{,}} - 2a} \overset{\overset{+/-}\downarrow}{\phantom{,}} + b \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b$   Ora è possibile eseguire la prima somma.
 
@@ -266,7 +268,21 @@ Il prodotto di più monomi è sempre un monomio. Poiché cambiando l'ordine dei 
 
 Il prodotto di due o più monomi è **sempre** un monomio.
 
-$-3x \cdot 2x \longrightarrow -6x^2$;      $5ax^2 \cdot 2ax^2 \cdot (-10ax^2) \longrightarrow -100a^3x^6$.     $\bullet$
+a) $-3x \cdot 2x$
+
+b) $-3 \cdot 2 \cdot x \cdot x$
+
+c) $-6x^2$.    $ \bullet$
+
+
+
+#### ESEMPIO 4
+
+a) $5ax^2 \cdot 2ax^2 \cdot (-10ax^2)$
+
+b) $5 \cdot 2 \cdot (-10) \cdot aaax^2x^2x^2$
+
+b) $-100a^3x^6$.     $ \bullet$
 
  
 
@@ -331,9 +347,19 @@ Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una 
 
 #### ESEMPIO 1
 
-La frazione algebrica $\dfrac{2ab^2}{-3ax}$ non è in forma canonica. Semplificando le lettere e facendo il rapporto delle due parti numeriche otteniamo $\dfrac{2ab^2}{-3ax}$ $\longrightarrow -\dfrac{2}{3}\dfrac{b^2}{x}$ che è in forma canonica. Analogamente abbiamo
+La frazione algebrica $\dfrac{2ab^2}{-3ax}$ non è in forma canonica. Semplificando le lettere e facendo il rapporto delle due parti numeriche otteniamo
 
-$\dfrac{-3xy^2}{\dfrac{1}{3}y}$ $\longrightarrow -3 \cdot 3 xy$ $\longrightarrow -9xy$.    $ \bullet$
+a) $\dfrac{2ab^2}{-3ax}$
+
+b) $-\dfrac{2b^2}{3x}$ oppure $-\dfrac{2}{3}\dfrac{b^2}{x}$, entrambe forme canoniche.
+
+Analogamente abbiamo
+
+a) $\dfrac{-3xy^2}{\dfrac{1}{3}y}$ $
+
+b) $-3 \cdot 3 xy$
+
+c) $-9xy$.    $ \bullet$
 
 
 
@@ -446,15 +472,19 @@ c) $2x^2+ 2x$    $\bullet$
 
 #### ESEMPIO 2
 
-a) Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (b) \longrightarrow -3 -3b$;
+Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -3 -3b$;
 
-b) Il prodotto $-3(1 - b)$ equivale a $-3(1-b) = -3 \cdot (1) -3 \cdot (-b)$ $\longrightarrow $ $ -3 + 3b$;
+Il prodotto $-3(1 - b)$ equivale a $-3 \cdot (1) -3 \cdot (-b)$ $\longrightarrow$ $ -3 + 3b$;
 
-c1) $a^2(ab^2 -\dfrac{c}{2})$
+Il prodotto $a^2(ab^2 -\dfrac{c}{2})$ è calcolato come segue:
 
-c2) $a^2(ab^2) + a^2(-\dfrac{c}{2})$
+a) $a^2(ab^2 -\dfrac{c}{2})$
 
-c3) $a^3b - \dfrac{1}{2}a^2c$.    $\bullet$
+b) $a^2(ab^2) + a^2(-\dfrac{c}{2})$
+
+c) $a^3b - \dfrac{1}{2}a^2c$.
+
+Provare ad eseguire ciascuno degli esempi in GEOGEBRA, inserendo i prodotti (ricordare di inserire sempre i segni delle operazioni di moltiplicazione tra lettere!) e dando invio.      $ \bullet$
 
 
 
@@ -546,6 +576,8 @@ d) $1 + x - x -x^2$
 
 e) $1 - x^2$.    $\bullet$
 
+Provare ad eseguire i prodotti negli esempi con il comando GEOGEBRA $Sviluppa((a + b)(c+d))$.
+
 
 
 ### ESERCIZIO 6.4 - Prodotto di polinomi
@@ -622,9 +654,15 @@ Come abbiamo visto nelle espressioni numeriche, anche nelle espressioni letteral
 
 Consideriamo l'espressione $2 \cdot x + 1$ e sostituiamo alla lettera $x$ l'espressione $y - 1$. In simboli abbiamo
 
-$2 \cdot x + 1, \{x = y - 1\}$ $\longrightarrow 2(y-1) + 1$ 
+a) $2 \cdot x + 1, \{x = y - 1\}$
 
-Moltiplicando e facendo le somme abbiamo $2(y-1) + 1 \longrightarrow 2y -1$.   $\bullet$
+b) $2(y-1) + 1$     Moltiplicando e facendo le somme abbiamo 
+
+c) $2(y-1) + 1$
+
+d) $2y -1$.     $ \bullet$
+
+
 
 #### ESEMPIO 2
 
@@ -638,6 +676,8 @@ c) $2a(a^2)$
 
 d) $2a^3$.    $ \bullet$
 
+
+
 #### ESEMPIO 3
 
 a) $\dfrac{b \cdot h}{2}, \{b = a - 1, h = a + 1\}$
@@ -648,7 +688,7 @@ c) $\dfrac{a(a+1)-1(a+1)}{2}$
 
 d) $\dfrac{a^2+a-a-1}{2}$
 
-e) $\dfrac{a^2-1}{2}$    $\bullet$
+e) $\dfrac{a^2-1}{2}$    $ \bullet$
 
  
 
