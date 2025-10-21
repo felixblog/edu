@@ -95,13 +95,13 @@ a) Controlla la verità delle seguenti relazioni:
 
 
 
-## UNITA' 3: Somma tra numeri interi
+## UNITA' 3: Somme e differenze tra numeri interi
 
 Nel "mondo" dei numeri interi, i simboli "$+$" e "$-$" che troviamo nelle espressioni non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "**somma algebrica**" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo. Vediamo un esempio
 
 L'espressione $3-2$ nel "mondo" dei numeri naturali contiene due numeri, $3$ e $2$ ed una operazione, la sottrazione. Nel mondo dei numeri interi contiene due numeri, $3$ e $-2$ scritti uno dopo l'altro; ci si può allora chiedere: se l'espressione contiene solo due numeri, quale è l'operazione tra di loro?
 
-L'operazione presente è chiamata somma algebrica ed è collocata a destra del $3$ ed a sinistra del "$-$"), nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{,}} -2$, e c'è anche se non si vede, come negli esempi seguenti:
+L'operazione presente è chiamata somma algebrica ed è collocata a destra del $3$ ed a sinistra del "$-$", nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{,}} -2$; la somma algebrica c'è anche se non è indicata (non si vede!), come negli esempi seguenti:
 
 1. $-123\overset{\downarrow}{\phantom{,}}-23$;
 
@@ -594,7 +594,7 @@ $H=(-3,-3)$ &#9166; .
 
 In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$, dette ***espressioni letterali***. Nelle espressioni letterali, una operazione non può essere eseguita se coinvolge delle lettere e quindi, prima di eseguire l'operazione, la lettera deve essere rimpiazzata da un numero. In altre parole, la lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa. In pratica è come se la lettera indicasse un "buco" nell'espressione, che dovrà essere riempito da un numero quando dobbiamo calcolare l'espressione.
 
-La **sostituzione** è una operazione che consiste nel rimpiazzamento delle lettere con dei numeri tra parentesi tunde, come nell'esempio seguente, dove cosa sostituire è indicato in parentesi graffe:
+La **sostituzione** è una operazione che consiste nel rimpiazzamento delle lettere con dei numeri tra parentesi tonde, come nell'esempio seguente, dove cosa sostituire è indicato in parentesi graffe:
 
  $2 \cdot c + 1, \{c = -4\} \longrightarrow 2 \cdot (-4) + 1 \longrightarrow -7$.
 

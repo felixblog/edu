@@ -288,11 +288,17 @@ Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{4} + \dfra
 
 Possiamo operare in due passi. Cerchiamo due frazioni equivalenti a quelle da sommare ma con denominatore uguale (comune) e poi sommiamo queste, sicuri che la quantità risultato sarà la stessa della somma originaria. Resta da trovare quale debba essere il denominatore uguale.
 
-In prima battuta possiamo utilizzare come denominatore comune il ***prodotto dei due denominatori***, per cui al posto delle frazioni originali sommiamo due nuove frazioni ottenute moltiplicando tutta la prima frazione per il denominatore della seconda (cioè $4$) e tutta la seconda frazione per il denominatore della prima (cioè 6) come di seguito:
+In prima battuta possiamo utilizzare come denominatore comune il ***prodotto dei due denominatori***, per cui al posto delle frazioni originali sommiamo due nuove frazioni ottenute moltiplicando tutta la prima frazione per il denominatore della seconda (cioè $4$) e tutta la seconda frazione per il denominatore della prima (cioè 6) come nell'esempio seguente.
 
-$\dfrac{1}{4} + \dfrac{1}{6} \xrightarrow{\text{step 1}} \dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4} \longrightarrow$
+ESEMPIO 1
 
-​		$ \dfrac{6}{24} + \dfrac{4}{24} \xrightarrow{\text{step 2}} \dfrac{10}{24} \longrightarrow \dfrac{5}{12}$.
+a) $\dfrac{1}{4} + \dfrac{1}{6}$
+
+b) $\dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4}$
+
+c) $ \dfrac{6}{24} + \dfrac{4}{24}$
+
+d) $\dfrac{10}{24} \longrightarrow \dfrac{5}{12}$     $\bullet$
 
 
 
@@ -351,13 +357,27 @@ b) Calcola il valore delle seguenti espressioni.
 
 
 
-## UNITA' 4: Divisione tra frazioni e rapporti di espressioni
+## UNITA' 4: Divisione tra frazioni ed espressioni con le frazioni
 
 Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{3}{4} : \dfrac{5}{2}$. Cosa rappresenta la divisione tra frazioni?
 
-Come per qualsiasi altra divisione, il risultato è il numero che moltiplicato per il divisore mi dà il dividendo. Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
+Per trovare il risultato dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo. Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
 
 $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.   
+
+
+
+#### Rapporti tra espressioni
+
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che sono rapporti tra espressioni intere ma non frazioni. Le espressioni possono essere calcolate ed il risultato sarà una frazione procedendo come segue.
+
+a)  $\dfrac{1-2 \cdot 3}{5-1}$
+
+b) $(1 - 2 \cdot 3):(5 -1)$
+
+c) $(1 - 6):(4)$
+
+d) $(-5):(4) \longrightarrow -\dfrac{5}{4}$
 
 
 
@@ -388,7 +408,7 @@ Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.
 
 a) Aggiungi $\dfrac{1}{5}$ alla somma di $\dfrac{1}{2}$ e $\dfrac{1}{3}$; Aggiungi $\dfrac{2}{3}$ alla somma di $\dfrac{5}{6}$ e $1$; Somma $5$ al risultato della somma tra $\dfrac{5}{6}$ e $\dfrac{8}{3}$;  
 
-b) Sottrai 1/2 dalla somma di 3 e 1/4; Aggiungi 1 alla somma di 1/5 e -1; Togli da 1/3 la somma di -2/3 e 1/3; 
+b) Sottrai $\dfrac{1}{2}$ dalla somma di $3$ e $\dfrac{1}{4}$; Aggiungi $1$ alla somma di $\dfrac{1}{5}$ e $-1$; Togli da $\dfrac{1}{3}$ la somma di $-\dfrac{2}{3}$ e $\dfrac{1}{3}$; 
 
 c) Raddoppia il prodotto fra $\dfrac{4}{7}$ e $\dfrac{7}{2}$; Scrivi il Triplo del prodotto fra $\dfrac{5}{6}$ e $\dfrac{3}{10}$; Aggiungi $\dfrac{1}{4}$ a tre volte il quoziente di $\dfrac{3}{2}$ e $\dfrac{9}{4}$.  
 
@@ -493,7 +513,7 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 
 Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
-1. $Sostituisci(-2 \cdot x+x^2+1 , \; {x = \dfrac{2}{5}})$&#9166;
+1. $Sostituisci(-2 \cdot x+x^2+1 , \; {x = \dfrac{2}{5}})$&#9166;
 2. $Sostituisci((1 - y) \cdot y + 3, \;  {y = -\dfrac{2}{5}})$&#9166;
 
 
