@@ -347,7 +347,7 @@ Questa schematizzazione è così comune che anche in altri contesti, quando vogl
 
 Un lavoratore dipendente ha una retribuzione netta che è circa il $50 \%$ del lordo in busta paga. Quale è il "peso" delle tasse e degli altri contributi? 
 
-Abbiamo che $N = 0.5 \cdot L$, per cui sostituendo nella formula: $L= 0.5L + T$. Risolvendo rispetto a $T$ abbiamo che $T = L - 0.5L$, cioè $T = 0.5L$: le tasse pesano per la metà della retribuzione lorda.  $\bullet$
+Abbiamo che $N = 0.5 \cdot L$, per cui sostituendo nella formula: $L= 0.5L + T$. Risolvendo rispetto a $T$ abbiamo che $T = L - 0.5L$, cioè $T = 0.5L$: le tasse pesano per la metà della retribuzione lorda.    $ \bullet$
 
 
 

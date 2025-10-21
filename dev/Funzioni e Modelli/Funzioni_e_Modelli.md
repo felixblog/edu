@@ -93,7 +93,7 @@ Un altro importante esempio di grandezze direttamente proporzionali sono le dist
 
 Consideriamo il caso di una automobile che si muove sempre con la stessa velocità (costante), senza accelerare, a $60 \; Km/h$. 
 
-In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \cong 0,166$ ore, la macchina percorre $0,166 \cdot 60 \cong 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre nel tempo $\Delta t$ (nel nostro caso $10$ minuti), alla velocità $v = 60\; Km/h.$ 
+In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0,166$ ore, la macchina percorre $0,166 \cdot 60 \approx 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre nel tempo $\Delta t$ (nel nostro caso $10$ minuti), alla velocità $v = 60\; Km/h.$ 
 
 Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti del viaggio, la macchina, farà sempre $10$ Km, cosa che non succede se la macchina accelera. Questa caratteristica è specifica dei movimenti a velocità costante, detti "**moti uniformi**": si dice anche che la macchina percorre "spazi uguali in tempi uguali" e se il tempo aumenta, aumenta anche lo spazio. $ \bullet$
 
@@ -140,7 +140,7 @@ $$
 \end{array}
 $$
 
-Come si vede la velocità raddoppia ed il tempo si dimezza. $ \bullet$
+Come si vede la velocità raddoppia ed il tempo si dimezza.    $ \bullet$
 
 
 
@@ -198,7 +198,7 @@ dove $m$ e $q$ sono due numeri.
 
 Una palestra applica i prezzi seguenti: per entrare bisogna iscriversi e l'iscrizione costa $40$ euro a semestre; ogni ingresso poi costa $12$ euro. Scrivi la formula che calcola il costo semestrale al variare del numero di ingressi $x$.
 
-Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori riportati nella tabella seguente. $ \bullet$
+Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori riportati nella tabella seguente.    $ \bullet$
 $$
 \begin{array}{c|c|c}
 \hline
@@ -219,7 +219,7 @@ Le funzioni lineari hanno la caratteristica che la differenza tra due valori del
 
 Riprendiamo l'esempio precedente. Se consideriamo la differenza tra $5$ e $15$ ingressi ($10$ ingressi, $\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), il costo passa da $100$ a $220$ euro, con un aumento di $\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$ euro; il rapporto tra i due incrementi è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$. 
 
-Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro. $ \bullet$
+Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro.    $ \bullet$
 
 
 

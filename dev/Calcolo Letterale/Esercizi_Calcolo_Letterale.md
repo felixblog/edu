@@ -328,10 +328,10 @@ a) Individua **quanti e quali** monomi in forma normale ed operazioni contiene c
 
 b) Individua **quanti e quali** monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
 
-1.  $ab\left(-\dfrac{1}{2}\right)a^{2} \cdot \dfrac{2}{5a^2}\dfrac{3}{b}$;
-2.  $abcde \cdot \dfrac{5}{ace}$;
+1.  $ab\left(-\dfrac{1}{2}\right)a^{2}$;
+2.  $abcde \cdot \dfrac{5}{2 \cdot 3}$;
 3.  $\dfrac{5}{3}b\left(-4\right)a : \dfrac{ab^2x}{3}$;
-4.  $a + 2a^2 \cdot \dfrac{2}{3a^2}$.
+4.  $a + 2a^2 \cdot \dfrac{2}{-3}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -476,7 +476,7 @@ Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -
 
 Il prodotto $-3(1 - b)$ equivale a $-3 \cdot (1) -3 \cdot (-b)$ $\longrightarrow$ $ -3 + 3b$;
 
-Il prodotto $a^2(ab^2 -\dfrac{c}{2})$ è calcolato come segue:
+Il prodotto $a^2(ab^2 -\dfrac{c}{2})$ è calcolato come segue:
 
 a) $a^2(ab^2 -\dfrac{c}{2})$
 
@@ -618,7 +618,9 @@ $\dfrac{6a^3x}{3ax} \longrightarrow 2a^2$
 
 Quindi alla fine la scomposizione in fattori è:
 
- $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x = 3ax(\dfrac{1}{4}ax -4x +2a^2 )$
+a) $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x$
+
+b) $3ax(\dfrac{1}{4}ax -4x +2a^2 )$
 
 Il comando per effettuare l'operazione con GEOGEBRA è Fattorizza, per cui l'esempio precedente diventa il seguente:
 
@@ -720,11 +722,21 @@ $\dfrac{x - 1}{x +1}$;    $\dfrac{x - 1}{y - 1}$;    $\dfrac{ax - 1}{ax}$;     $
 
 Nella frazione $\dfrac{4x^2-2x}{4x^2}$, al numeratore si può mettere in evidenza il monomio $4x$ per cui possiamo scrivere:
 
-$\dfrac{2x(2x-1)}{4x^2}$ $\longrightarrow$ $\dfrac{2x-1}{2x}$.
+a) $\dfrac{4x^2-2x}{4x^2}$
+
+b) $\dfrac{2x(2x-1)}{4x^2}$
+
+c) $\dfrac{2x-1}{2x}$.    $ \bullet$
+
+#### ESEMPIO 2
 
 Nella frazione $\dfrac{2a-2}{5a-5}$, al numeratore si mette in evidenza $2$ ed al denominatore $5$, per cui possiamo scrivere:
 
-$\dfrac{2a-2}{5a-5}$ $\longrightarrow$ $\dfrac{2(a-1)}{5(a-1)}$  $\longrightarrow$ $\dfrac{2}{5}$.    $ \bullet$
+a) $\dfrac{2a-2}{5a-5}$
+
+b) $\dfrac{2(a-1)}{5(a-1)}$
+
+c) $\dfrac{2}{5}$.    $ \bullet$
 
 
 
