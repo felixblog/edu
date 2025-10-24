@@ -131,7 +131,7 @@ Se facciamo la stessa cosa con $-2+3$ (due unità a sinistra e tre a destra) arr
 
 ### ESERCIZIO 3.1 - Somme algebriche
 
-a) Una lumaca cammina lungo una linea dritta verso destra per 7 cm, poi si gira e cammina verso sinistra per 2 cm, poi si gira e cammina verso destra per 5 cm, poi ancora una volta si gira e cammina per 12 cm verso destra.
+a) Una lumaca cammina lungo una linea dritta verso destra per 7 cm, poi si gira e cammina verso sinistra per 2 cm, poi si gira e cammina verso destra per 5 cm, poi ancora una volta si gira e cammina per 12 cm verso sinistra.
 
 Indicando con un numero positivo ogni spostamento verso destra e con uno negativo gli spostamenti verso sinistra calcolare:
 
@@ -256,9 +256,9 @@ a) $\underbracket{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12} \overset{\ov
 
 $\downarrow$
 
-b) $\underline{96} \overset{\downarrow}{\phantom{,}} +5$
+b) $-\underline{96} \overset{\downarrow}{\phantom{,}} +5$
 
-c) $101$
+c) $-91$
 
 Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma algebrica tra $+5$ e $-8$ ed il $-8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, il $-8$ dovrà essere impiegato nel prodotto. La somma quindi non può essere eseguita per prima (manca il secondo numero), e verrà eseguito il prodotto; la somma sarà fatta sul risultato della moltiplicazione. 
 
@@ -268,7 +268,7 @@ a) $5 \overset{\overset{(b)}{\downarrow}}{\phantom{,}} \underbracket{-8 \overset
 
 b) $ 5 \overset{\downarrow}{\phantom{,}} \;  \underline{-96}$
 
-c) $ 101$   $\bullet$
+c) $-91$   $\bullet$
 
 
 

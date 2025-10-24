@@ -298,7 +298,7 @@ b) $\dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4}$
 
 c) $ \dfrac{6}{24} + \dfrac{4}{24}$
 
-d) $\dfrac{10}{24} \longrightarrow \dfrac{5}{12}$     $\bullet$
+d) $\dfrac{10}{24} \longrightarrow \dfrac{5}{12}$     $\bullet$
 
 
 
@@ -369,7 +369,7 @@ $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightar
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che sono rapporti tra espressioni intere ma non frazioni. Le espressioni possono essere calcolate ed il risultato sarà una frazione procedendo come segue.
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che sono rapporti tra espressioni intere ma non frazioni. Le espressioni possono essere calcolate ed il risultato sarà o un numero intero, o, se il rapporto non da un risultato intero, una frazione, procedendo come segue.
 
 a)  $\dfrac{1-2 \cdot 3}{5-1}$
 
@@ -378,6 +378,34 @@ b) $(1 - 2 \cdot 3):(5 -1)$
 c) $(1 - 6):(4)$
 
 d) $(-5):(4) \longrightarrow -\dfrac{5}{4}$
+
+
+
+#### ESEMPIO 1
+
+Di seguito un esempio di calcolo di una espressione più complessa
+
+a) $9\left(-\dfrac{1}{10 + 5}\right)\left(-10\right)\left(-\dfrac{1 + 2 \cdot 3}{6}\right)$    Trasformiamo i rapporti in notazione lineare
+
+b) $9(-1:(\underbracket{10 + 5})) \cdot (-10)\left(-(1 + \underbracket{2 \cdot 3}) \cdot \dfrac{1}{6}\right)$    Eseguiamo le operazioni da sinistra a destra
+
+c) $9(\underbracket{-1:(15)}) \cdot (-10)\left(-(\underbracket{1 + 6}) \cdot \dfrac{1}{6}\right)$     Trasformiamo i rapporti in frazioni
+
+d) $9(-\dfrac{1}{15}) \cdot (-10)\left( \underbracket{-(7) \cdot \dfrac{1}{6}}\right)$
+
+e) $\underbracket{9(-\dfrac{1}{15})} \cdot (-10)\left( \dfrac{-7}{6}\right)$
+
+f) $-\dfrac{9}{15} \cdot (-10)\left( \dfrac{-7}{6}\right)$
+
+g) $\underbracket{-\dfrac{3}{5} \cdot (-10)}\left( \dfrac{-7}{6}\right)$
+
+h) $\dfrac{30}{5}\left( \dfrac{-7}{6}\right)$
+
+i) $6\left( \dfrac{-7}{6}\right)$     Semplifichiamo in croce
+
+l) $-7$    $\bullet$
+
+
 
 
 
@@ -476,25 +504,51 @@ Per ciascuno dei seguenti problemi:
 
 2) risolvi il problema rispondendo alla domanda.
 
-a) Paolo deve acquistare uno scooter che costa € 2760, ma possiede solo i 2/3 della somma. Quanto manca per effettuare la spesa?     [R. € 920]  
+a) Paolo deve acquistare uno scooter che costa $\text{\euro\;}2760$, ma possiede solo i $\dfrac{2}{3}$ della somma. Quanto manca per effettuare la spesa?     [R. $\text{\euro\;}920$]  
 
-b) Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di 20 Km?     [R. 50]  
+b) Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di $20 \text{\;Km}$?     [R. $50$]  
 
-c) Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di 9/16 di Kg. Quante confezioni di chiodi si otterranno da 2.871 Kg di chiodi?     [R. 5104]  
+c) Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di 9/16 di Kg. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
 
-d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia €123 e lo sconto è uguale ai 5/90 del prezzo iniziale, quanto costavano le valigie?     [R. € 2.214]  
+d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia $\text{\euro\;}123$ e lo sconto è uguale ai $\dfrac{5}{90}$ del prezzo iniziale, quanto costavano le valigie?     [R. $\text{\euro\;}2.214$]  
 
 e) Un camion può trasportare con sicurezza carichi fino ad una tonnellata. Sarebbe in grado di trasportare mezza tonnellata di sabbia, un terzo di ghiaia, ed un quinto di cemento in un solo viaggio?      [R. No]  
 
-f) Su un cartone di latte da 500 ml c’è scritto: «Latte parzialmente scremato. Grasso max 1,8%». Quanti ml di grasso contiene il cartone di latte? Se un bicchiere medio contiene 200 ml di latte, quanti ml di grasso contiene?     [R.9 ml; 3,6 ml]  
+f) Su un cartone di latte da $500 \text{\;ml}$ c’è scritto: «Latte parzialmente scremato. Grasso max $1,8\%$». Quanti ml di grasso contiene il cartone di latte? Se un bicchiere medio contiene $200 \text{\;ml}$ di latte, quanti ml di grasso contiene?     [R. $9 \text{\;ml}$; $3,6 \text{\;Km}$]  
 
-g) Un libro oggi costa € 12,50. Se il suo prezzo viene aumentato del 3%, quanto costerà dopo l’aumento?     [R. € 12,88]
+g) Un libro oggi costa $\text{\euro\;}12,50$. Se il suo prezzo viene aumentato del $3\%$, quanto costerà dopo l’aumento?     [R. $\text{\euro\;}12,88$]
 
 
 
 ## UNITA' 5: Sostituzioni
 
 Come già fatto per i numeri interi, anche con le frazioni una  ***sostituzione*** consiste nel rimpiazzare una o più lettere in una espressione letterale con dei numeri razionali racchiusi tra parentesi tonde. 
+
+La lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa. 
+
+La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, **tra parentesi tonde**. 
+
+Anche in questo caso, poiché **ogni lettera sta per un numero** che è comprensivo di segno, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
+
+$1 - a$ equivale a $1 \overset{{\downarrow}}{\phantom{,}} -1 \overset{\downarrow}{\cdot} a$
+
+$1 + a$ equivale a $1 \overset{{\downarrow}}{\phantom{,}} +1 \overset{\downarrow}{\cdot} a$
+
+#### ESEMPIO 1
+
+a) $-2 \cdot x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
+
+b) $-2 \cdot \left(\dfrac{2}{5}\right) + \left(\dfrac{2}{5}\right)^2 + 1$;
+
+c) $-\dfrac{4}{5} + \left(\dfrac{2}{5}\right)^2 + 1$;
+
+d) $-\dfrac{4}{5} + \left(\dfrac{4}{25}\right) + 1$;
+
+e) $-\dfrac{4}{5} + \dfrac{4}{25} + 1$;
+
+d) $-\dfrac{20}{25} + \dfrac{4}{25} + \dfrac{25}{25}$;
+
+e) $\dfrac{9}{25}$    $\bullet$
 
 
 
@@ -522,19 +576,19 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 Traduci in espressioni le seguenti frasi e calcola poi il loro valore, sostituendo alle lettere i dati assegnati.  
 
-a) Sottrai dal doppio di a la terza parte di b. [a=1, b=$\dfrac{2}{3}$]  
+a) Sottrai dal doppio di $a$ la terza parte di $b$. [$a=1$, $b=\dfrac{2}{3}$]  
 
-b) Moltiplica la somma del doppio di a e della terza parte di b per due. [a=1, b=$\dfrac{2}{3}$]  
+b) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per due. [$a=1$, $b=\dfrac{2}{3}$]  
 
-c) Somma il quadruplo del quadrato di a con il doppio di c. [a=1, b=$\dfrac{2}{3}$]  
+c) Somma il quadruplo del quadrato di $a$ con il doppio di $c$. [$a=1$, $b=\dfrac{2}{3}$]  
 
-d) Moltiplica la somma del doppio di a e della terza parte di b per la differenza tra il doppio di a e la terza parte di b.  `[`a=1, b=$\dfrac{2}{3}$] [R. $\dfrac{15}{4}$]
+d) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$e la terza parte di $b$.  `[`$a=1$, $b=\dfrac{2}{3}$] [R. $\dfrac{15}{4}$]
 
-e) Sottrai $\dfrac{1}{8}$ di a ai $\dfrac{4}{5}$ di c, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di b. [a=3, b=$-\dfrac{1}{5}$, c=$\dfrac{1}{16}$].     [R. $-\dfrac{65}{3}$]  
+e) Sottrai $\dfrac{1}{8}$ di $a$ ai $\dfrac{4}{5}$ di $c$, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di $b$. [$a=3$, $b=-\dfrac{1}{5}$, $c=\dfrac{1}{16}$].     [R. $-\dfrac{65}{3}$]  
 
-f) Moltiplica la somma del doppio di a e della terza parte di b per la differenza tra il doppio di a e la terza parte di b, sottrai poi al risultato la somma del quadruplo del quadrato di a e del doppio di c. `[`a=1, b=$\dfrac{2}{3}$, c=-2 ][R. $\dfrac{15}{4}$]
+f) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$, sottrai poi al risultato la somma del quadruplo del quadrato di $a$ e del doppio di $c$. `[`$a=1$, $b=\dfrac{2}{3}$, $c=-2$ ][R. $\dfrac{15}{4}$]
 
-g) Moltiplica la differenza tra i 2/5 di a e la metà di b per il doppio di c, somma poi al risultato il quoziente tra 1/4 di a e la differenza tra il doppio di b e 1. [a=$\dfrac{5}{3}$, b=2, c=$\dfrac{3}{4}$].     [R. $-\dfrac{15}{36}$]
+g) Moltiplica la differenza tra i $\dfrac{2}{5}$ di $a$ e la metà di $b$ per il doppio di $c$, somma poi al risultato il quoziente tra $\dfrac{1}{4}$ di $a$ e la differenza tra il doppio di $b$ e $1$. [$a=\dfrac{5}{3}$, $b=2$, $c=\dfrac{3}{4}$].     [R. $-\dfrac{15}{36}$
 
 
 
