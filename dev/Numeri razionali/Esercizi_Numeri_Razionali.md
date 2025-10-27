@@ -209,11 +209,15 @@ $\dfrac{3}{4} \longrightarrow 0,75$,  $\dfrac{6}{8} \longrightarrow 0,75$, quind
 
 #### ESEMPIO 1
 
-Semplificazione della frazione $\dfrac{36}{45}$dividendo due volte per 3:   $\dfrac{36}{45} \longrightarrow \dfrac{12}{15} \longrightarrow \dfrac{4}{5}$.    $\bullet$
+Semplificazione della frazione $\dfrac{36}{45}$dividendo due volte per $3$:   $\dfrac{\cancel{36}^{12}}{\cancel{45}_{15}} \longrightarrow \dfrac{\cancel{12}^4}{\cancel{15}_5} \longrightarrow \dfrac{4}{5}$.    $\bullet$
 
 
 
-Le frazioni, come tutti i numeri, si possono moltiplicare tra di loro, ed il risultato è una frazione. Il significato è quello di prendere una frazione di una quantità che è, a sua volta, una frazione. 
+Le frazioni, come tutti i numeri, si possono moltiplicare tra di loro, ed il risultato è una frazione. Il significato è quello di prendere una frazione di una quantità che è, a sua volta, una frazione.     $\bullet$
+
+
+
+#### Prodotto di Frazioni
 
 Il prodotto si esegue "per linee parallele", ossia si moltiplicano i numeratori dei fattori tra di loro e lo stesso per i denominatori, come si vede dagli esempi seguenti.
 
@@ -235,7 +239,17 @@ La metà di tre quarti: $\dfrac{1}{2} \cdot \dfrac{3}{4} \longrightarrow \dfrac{
 
 
 
-I tre quarti di meno due terzi:  $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right) \longrightarrow -\dfrac{3 \cdot 2}{4 \cdot 3} \longrightarrow -\dfrac{6}{12}$;    $\bullet$
+I tre quarti di meno due terzi:  $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right) \longrightarrow -\dfrac{3 \cdot 2}{4 \cdot 3} \longrightarrow -\dfrac{\cancel6^1}{\cancel{12}_2} = \dfrac{1}{2}$    $\bullet$
+
+
+
+#### Semplificazione in Croce
+
+Capita spesso che il prodotto di due frazioni non sia una frazione già ridotta ai minimi termini ma una frazione che si possa ridurre, come nel caso dell'ultimo esempio, in cui cioè DOPO il prodotto si possa fare una semplificazione. E' però possibile effettuare la semplificazione anche PRIMA del prodotto delle due frazioni con la tecnica "in croce", in cui si semplificano i fattori del numeratore di una frazione con i denominatori delle altre, come nell'esempio che segue.
+
+#### ESEMPIO 3
+
+Nel prodotto $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right)$ Dividiamo numeratore dalla prima frazione e denominatore della seconda per $3$ e denominatore della prima frazione e numeratore della seconda per $2$ ottenendo $\dfrac{\cancel3^1}{\cancel4_2} \cdot \left(-\dfrac{\cancel2^1}{\cancel3_1}\right)$ $\longrightarrow-\dfrac{1 \cdot 1}{2 \cdot 1} \longrightarrow -\dfrac{1}{2}$    $\bullet$
 
 
 
@@ -284,13 +298,13 @@ La somma di due frazioni è una frazione. La somma di due frazioni che hanno lo 
 
 $\dfrac{1}{4} + \dfrac{1}{4} \longrightarrow \dfrac{2}{4}=\dfrac{1}{2}$,        $\dfrac{4}{7} + \dfrac{3}{7} \longrightarrow \dfrac{7}{7} = 1$.
 
-Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{4} + \dfrac{1}{6}$ ?
+Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{4} + \dfrac{1}{6}$  ?
 
 Possiamo operare in due passi. Cerchiamo due frazioni equivalenti a quelle da sommare ma con denominatore uguale (comune) e poi sommiamo queste, sicuri che la quantità risultato sarà la stessa della somma originaria. Resta da trovare quale debba essere il denominatore uguale.
 
 In prima battuta possiamo utilizzare come denominatore comune il ***prodotto dei due denominatori***, per cui al posto delle frazioni originali sommiamo due nuove frazioni ottenute moltiplicando tutta la prima frazione per il denominatore della seconda (cioè $4$) e tutta la seconda frazione per il denominatore della prima (cioè 6) come nell'esempio seguente.
 
-ESEMPIO 1
+#### ESEMPIO 1
 
 a) $\dfrac{1}{4} + \dfrac{1}{6}$
 
@@ -304,7 +318,17 @@ d) $\dfrac{10}{24} \longrightarrow \dfrac{5}{12}$     $\bullet$
 
 E' possibile anche sommare due frazioni in un modo leggermente diverso, scegliendo come denominatore comune il ***minimo comune multiplo*** dei denominatori, più difficile però da da trovare rispetto al prodotto dei denominatori. L'operazione di trovare delle frazioni equivalenti alle frazioni da sommare ma con lo stesso denominatore, uguale al $MCM$ o al prodotto dei denominatori, è detta operazione di ***riduzione al minimo comune denominatore***.
 
- 
+####  ESEMPIO 2
+
+a) $\dfrac{1}{4} + \dfrac{1}{6}$  dove $MCM(4,6) \longrightarrow 12$ 
+
+b) $\dfrac{1 \cdot 3}{12} + \dfrac{1 \cdot 2}{12}$
+
+c) $ \dfrac{3}{12} + \dfrac{2}{12}$
+
+d) $\dfrac{5}{12}$     $\bullet$
+
+
 
 ### ESERCIZIO 3.1 - Il minimo comune denominatore
 
@@ -361,7 +385,9 @@ b) Calcola il valore delle seguenti espressioni.
 
 Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{3}{4} : \dfrac{5}{2}$. Cosa rappresenta la divisione tra frazioni?
 
-Per trovare il risultato dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo. Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
+Per trovare il risultato dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo. 
+
+Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
 
 $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.   
 
@@ -369,7 +395,9 @@ $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightar
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che sono rapporti tra espressioni intere ma non frazioni. Le espressioni possono essere calcolate ed il risultato sarà o un numero intero, o, se il rapporto non da un risultato intero, una frazione, procedendo come segue.
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che sono rapporti tra espressioni intere ma non frazioni. Il primo passo è calcolare le espressioni al numeratore o al denominatore dei rapporti in modo che i rapporti stessi si riducano a delle frazioni.
+
+#### ESEMPIO 1
 
 a)  $\dfrac{1-2 \cdot 3}{5-1}$
 
@@ -377,11 +405,11 @@ b) $(1 - 2 \cdot 3):(5 -1)$
 
 c) $(1 - 6):(4)$
 
-d) $(-5):(4) \longrightarrow -\dfrac{5}{4}$
+d) $(-5):(4) \longrightarrow -\dfrac{5}{4}$      $\bullet$
 
 
 
-#### ESEMPIO 1
+#### ESEMPIO 2
 
 Di seguito un esempio di calcolo di una espressione più complessa
 
@@ -508,13 +536,13 @@ a) Paolo deve acquistare uno scooter che costa $\text{\euro\;}2760$, ma possiede
 
 b) Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di $20 \text{\;Km}$?     [R. $50$]  
 
-c) Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di 9/16 di Kg. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
+c) Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di 9/16 di Kg. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
 
 d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia $\text{\euro\;}123$ e lo sconto è uguale ai $\dfrac{5}{90}$ del prezzo iniziale, quanto costavano le valigie?     [R. $\text{\euro\;}2.214$]  
 
 e) Un camion può trasportare con sicurezza carichi fino ad una tonnellata. Sarebbe in grado di trasportare mezza tonnellata di sabbia, un terzo di ghiaia, ed un quinto di cemento in un solo viaggio?      [R. No]  
 
-f) Su un cartone di latte da $500 \text{\;ml}$ c’è scritto: «Latte parzialmente scremato. Grasso max $1,8\%$». Quanti ml di grasso contiene il cartone di latte? Se un bicchiere medio contiene $200 \text{\;ml}$ di latte, quanti ml di grasso contiene?     [R. $9 \text{\;ml}$; $3,6 \text{\;Km}$]  
+f) Su un cartone di latte da $500 \text{\;ml}$ c’è scritto: «Latte parzialmente scremato. Grasso max $1,8\%$». Quanti ml di grasso contiene il cartone di latte? Se un bicchiere medio contiene $200 \text{\;ml}$ di latte, quanti ml di grasso contiene?     [R. $9 \text{\;ml}$; $3,6 \text{\;Km}$]  
 
 g) Un libro oggi costa $\text{\euro\;}12,50$. Se il suo prezzo viene aumentato del $3\%$, quanto costerà dopo l’aumento?     [R. $\text{\euro\;}12,88$]
 
@@ -528,7 +556,7 @@ La lettera che compare in una espressione è utilizzata per **indicare la posizi
 
 La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, **tra parentesi tonde**. 
 
-Anche in questo caso, poiché **ogni lettera sta per un numero** che è comprensivo di segno, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
+Anche in questo caso, poiché **ogni lettera sta per un numero** che è comprensivo di segno, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi, il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
 
 $1 - a$ equivale a $1 \overset{{\downarrow}}{\phantom{,}} -1 \overset{\downarrow}{\cdot} a$
 
@@ -809,11 +837,11 @@ $\dfrac{3}{4} \cdot 1\;h = \dfrac{3}{4} \cdot 60 \;min$, e calcolando i prodotti
 
 Quanto è lunga, in ore, una durata di $10$ minuti?
 
-Possiamo scrivere la domanda come $? \; h = 10\;min$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione che conosciamo tra le ore ed i minuti: $1\;h=60\;min$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo le ore equivalenti ad un minuto dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;h = \dfrac{60}{60}\;min$ cioè $\dfrac{1}{60}\;h = 1\;min$, che riscritto in decimale è $ 1\;min \cong 0.0166\;h$
+Possiamo scrivere la domanda come $? \; h = 10\;min$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione che conosciamo tra le ore ed i minuti: $1\;h=60\;min$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo le ore equivalenti ad un minuto dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;h = \dfrac{\cancel{60}^1}{\cancel{60}_1}\;min$ cioè $\dfrac{1}{60}\;h = 1\;min$, che riscritto in decimale è $ 1\;min \cong 0.0166\;h$
 
 Un minuto equivale ad un sessantesimo di ora. A questo punto moltiplichiamo per $10$ sia a sinistra che a destra: $10 \cdot \dfrac{1}{60}\;h = 10 \cdot1\;min$ $\longrightarrow$$\dfrac{10}{60}\;h = 10 \cdot1\;min$$\longrightarrow$$\dfrac{1}{6}\;h = 10\;min$.
 
-In conclusione $10\;min = \dfrac{1}{6}\;h \cong 0.166\;h$, cioè $10$ minuti equivalgono a $0.166$ ore.
+In conclusione $10\;min = \dfrac{1}{6}\;h \approx 0.166\;h$, cioè $10$ minuti equivalgono a $0.166$ ore.
 
 #### ESEMPIO 3
 
@@ -831,7 +859,7 @@ Moltiplicando la prima per $3$ abbiamo $3 \cdot 1\;anno = 3 \cdot 4\;trim$ $\lon
 
 Dividendo la seconda per $3$ e poi moltiplicando tutto per $9$ abbiamo: 
 
-$\dfrac{1}{3}\;trim = \dfrac{3}{3}\;mese$  $\longrightarrow$  $9 \cdot \dfrac{1}{3}\;trim = 9 \cdot \dfrac{3}{3}\;mese$ $\longrightarrow$ $3\;trim = 9 \;mese$ 
+$\dfrac{1}{3}\;trim = \dfrac{\cancel3^1}{\cancel3_1}\;mese$  $\longrightarrow$  $9 \cdot \dfrac{1}{3}\;trim = 9 \cdot 1\;mese$ $\longrightarrow$ $3\;trim = 9 \;mese$ 
 
 Il Risultato finale è $15$ trimestri:
 
@@ -843,11 +871,11 @@ Quale è la lunghezza, in anni, di un periodo di $15$ trimestri?
 
 In questo caso partiamo sempre da $1\;anno = 4\;trim$ e troviamo la durata in anni di un trimestre dividendo tutto per $4$ e poi moltiplicando per $15$:
 
-$\dfrac{1}{4}\;anno = \dfrac{4}{4}\;trim$ $\longrightarrow$ $15 \cdot \dfrac{1}{4}\;anno = 15 \cdot \dfrac{4}{4}\;trim$ $\longrightarrow$ $\dfrac{15}{4}\;anno = 15\;trim$
+$\dfrac{1}{4}\;anno = \dfrac{\cancel4^1}{\cancel4_1}\;trim$ $\longrightarrow$ $15 \cdot \dfrac{1}{4}\;anno = 15 \cdot 1\;trim$ $\longrightarrow$ $\dfrac{15}{4}\;anno = 15\;trim$
 
 In conclusione $15$ trimestri sono $3.75$ anni.
 
-$15\;trim  = \dfrac{15}{4}\;anno \cong 3.75\;anno$
+$15\;trim  = \dfrac{15}{4}\;anno \approx 3.75\;anno$
 
 
 
@@ -856,7 +884,7 @@ $15\;trim  = \dfrac{15}{4}\;anno \cong 3.75\;anno$
 a) Risolvi le seguenti equivalenze.
 
 1. Quanti minuti ci sono in due ore e mezzo?
-2. Quanto pesano due etti e mezzo di salame in Kg? 
+2. Quanto pesano due etti e mezzo di salame in $Kg$? 
 3. A quanti minuti corrispondono $10$ ore? 
 4. A quante ore corrispondono $10$ minuti ? A quanti secondi equivalgono $10$ minuti?
 
