@@ -9,7 +9,13 @@ I numeri interi non bastano per indicare tutte le quantità che ci si presentano
 
 Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale **cardinale** "Tre" CHE STA SOPRA la linea di frazione, ed il numerale **ordinale** "quarti" CHE STA SOTTO, chiamati rispettivamente "***numeratore***" (numero superiore) e "***denominatore***" (numero inferiore).
 
-Comunemente le frazioni vengono usate in almeno tre contesti. Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
+Comunemente le frazioni vengono usate in almeno tre contesti.
+
+
+
+#### Frazioni per aumentare o diminuire una quantità
+
+ Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
 
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
@@ -23,6 +29,8 @@ Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre 
 
 
 
+#### Frazioni per misurare una quantità rispetto ad un'altra
+
 Il secondo contesto d'uso delle frazioni è per misurare una quantità "rispetto ad un altra" o "in rapporto ad un'altra" che utilizziamo come unità di riferimento. Facciamo due esempi.
 
 #### ESEMPIO 2
@@ -33,7 +41,7 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
 
 Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
-Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60$ da $1,5$. $ \bullet$
+Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60$ da $1,5$.    $ \bullet$
 
 #### ESEMPIO 3
 
@@ -47,7 +55,7 @@ Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per fa
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. $ \bullet$
 
-
+#### Frazioni come divisioni
 
 Il terzo contesto è l'uso delle frazioni per indicare delle divisioni. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$, ma se la scriviamo come frazione è perché vogliamo evidenziare quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
@@ -57,11 +65,7 @@ $\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow Fals
 
 $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
-
-
-### Frazioni, rapporti e loro segno
-
-Abbiamo già detto, parlando di numeri naturali ed interi, che la divisione, espressa con "due punti" in notazione lineare, si può anche scrivere come una frazione. Vediamo alcuni esempi.
+Usare la frazione come divisione significa che in tutti i casi in cui la divisione è espressa con "due punti" (notazione lineare), la stessa si può anche esprimere con una linea di frazione. Vediamo alcuni esempi.
 
 #### ESEMPIO 4
 
@@ -556,7 +560,7 @@ La lettera che compare in una espressione è utilizzata per **indicare la posizi
 
 La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, **tra parentesi tonde**. 
 
-Anche in questo caso, poiché **ogni lettera sta per un numero** che è comprensivo di segno, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi, il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
+Anche in questo caso, poiché **ogni lettera sta per un numero**, comprensivo di segno, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi, il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
 
 $1 - a$ equivale a $1 \overset{{\downarrow}}{\phantom{,}} -1 \overset{\downarrow}{\cdot} a$
 
@@ -600,7 +604,7 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 
 
-### ESERCIZIO 5.2 - Dalle parole alle espressioni (III)
+### ESERCIZIO 5.2 - Dalle parole alle espressioni
 
 Traduci in espressioni le seguenti frasi e calcola poi il loro valore, sostituendo alle lettere i dati assegnati.  
 
