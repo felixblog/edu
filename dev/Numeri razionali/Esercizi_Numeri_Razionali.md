@@ -399,17 +399,19 @@ $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightar
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che sono rapporti tra espressioni intere ma non frazioni. Il primo passo è calcolare le espressioni al numeratore o al denominatore dei rapporti in modo che i rapporti stessi si riducano a delle frazioni. La linea di frazione agisce come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ è da intendersi come $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri e le stesse operazioni.
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni intere. Il primo passo è calcolare le espressioni al numeratore e  al denominatore dei rapporti in modo che i rapporti stessi diventano delle frazioni. La linea di frazione è come come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ deve essere calcolata come se fosse $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri, le stesse operazioni e le stesse regole di precedenza.
 
 #### ESEMPIO 1
 
-a)  $\dfrac{1-2 \cdot 3}{5-1}$
+a)  $\dfrac{1-2 \cdot 3}{5-1}$ $\Longleftrightarrow (1 - 2 \cdot 3):(5 -1)$
 
-b) $(1 - 2 \cdot 3):(5 -1)$
+c) $\dfrac{1-6}{5-1}$ $\Longleftrightarrow (1 - 6):(5-1)$
 
-c) $(1 - 6):(4)$
+d) $\dfrac{-5}{5-1}$ $\Longleftrightarrow (-5):(5-1)$
 
-d) $(-5):(4) \longrightarrow -\dfrac{5}{4}$      $\bullet$
+e) $\dfrac{-5}{4}$ $\Longleftrightarrow (-5):(4)$
+
+$-\dfrac{5}{4}$      $\bullet$
 
 
 
@@ -417,25 +419,19 @@ d) $(-5):(4) \longrightarrow -\dfrac{5}{4}$      $\bullet$
 
 Di seguito un esempio di calcolo di una espressione più complessa
 
-a) $9\left(-\dfrac{1}{10 + 5}\right)\left(-10\right)\left(-\dfrac{1 + 2 \cdot 3}{6}\right)$    Trasformiamo i rapporti in notazione lineare
+a) $9\left(-\dfrac{1}{\underbracket{10 + 5}}\right)\left(-10\right)\left(-\dfrac{1 + \underbracket{2 \cdot 3}}{6}\right)$ $\Longleftrightarrow9(-1:(\underbracket{10 + 5})) \cdot (-10)\left(-(1 + \underbracket{2 \cdot 3}) : 6\right)$
 
-b) $9(-1:(\underbracket{10 + 5})) \cdot (-10)\left(-(1 + \underbracket{2 \cdot 3}) : 6\right)$    Eseguiamo le operazioni da sinistra a destra
+b) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{\underbracket{1 + 6}}{6}\right)$  $\Longleftrightarrow 9(\underbracket{-1:(15)}) \cdot (-10)\left(-(\underbracket{1 + 6}) : 6\right)$
 
-c) $9(\underbracket{-1:(15)}) \cdot (-10)\left(-(\underbracket{1 + 6}) : 6\right)$
+c) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$ $\Longleftrightarrow 9(-\dfrac{1}{15}) \cdot (-10)\left( \underbracket{-(7) : 6}\right)$ A questo punto i rapporti sono frazioni
 
-d) $9(-\dfrac{1}{15}) \cdot (-10)\left( \underbracket{-(7) : 6}\right)$    La divisione non è intera per cui trasformiamo i rapporti in frazioni
+e) $\underbracket{9(-\dfrac{1}{15})} \cdot (-10)\left( -\dfrac{7}{6}\right)$
 
-e) $\underbracket{9(-\dfrac{1}{15})} \cdot (-10)\left( \dfrac{-7}{6}\right)$
+f) $\underbracket{-\dfrac{9}{15} \cdot (-10)}\left( \dfrac{-7}{6}\right)$
 
-f) $-\dfrac{9}{15} \cdot (-10)\left( \dfrac{-7}{6}\right)$
+g) $\dfrac{\cancel{90}^{\cancel{15}}}{\cancel{15}_1}\left( \dfrac{-7}{\cancel{6}_1}\right)$ Semplificando si ha il risultato
 
-g) $\underbracket{-\dfrac{3}{5} \cdot (-10)}\left( \dfrac{-7}{6}\right)$
-
-h) $\dfrac{30}{5}\left( \dfrac{-7}{6}\right)$
-
-i) $6\left( \dfrac{-7}{6}\right)$     Semplifichiamo in croce
-
-l) $-7$    $\bullet$
+h) $-7$    $\bullet$
 
 
 
