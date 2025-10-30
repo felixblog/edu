@@ -399,7 +399,7 @@ $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightar
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che sono rapporti tra espressioni intere ma non frazioni. Il primo passo è calcolare le espressioni al numeratore o al denominatore dei rapporti in modo che i rapporti stessi si riducano a delle frazioni.
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che sono rapporti tra espressioni intere ma non frazioni. Il primo passo è calcolare le espressioni al numeratore o al denominatore dei rapporti in modo che i rapporti stessi si riducano a delle frazioni. La linea di frazione agisce come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ è da intendersi come $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri e le stesse operazioni.
 
 #### ESEMPIO 1
 
@@ -419,11 +419,11 @@ Di seguito un esempio di calcolo di una espressione più complessa
 
 a) $9\left(-\dfrac{1}{10 + 5}\right)\left(-10\right)\left(-\dfrac{1 + 2 \cdot 3}{6}\right)$    Trasformiamo i rapporti in notazione lineare
 
-b) $9(-1:(\underbracket{10 + 5})) \cdot (-10)\left(-(1 + \underbracket{2 \cdot 3}) \cdot \dfrac{1}{6}\right)$    Eseguiamo le operazioni da sinistra a destra
+b) $9(-1:(\underbracket{10 + 5})) \cdot (-10)\left(-(1 + \underbracket{2 \cdot 3}) : 6\right)$    Eseguiamo le operazioni da sinistra a destra
 
-c) $9(\underbracket{-1:(15)}) \cdot (-10)\left(-(\underbracket{1 + 6}) \cdot \dfrac{1}{6}\right)$     Trasformiamo i rapporti in frazioni
+c) $9(\underbracket{-1:(15)}) \cdot (-10)\left(-(\underbracket{1 + 6}) : 6\right)$
 
-d) $9(-\dfrac{1}{15}) \cdot (-10)\left( \underbracket{-(7) \cdot \dfrac{1}{6}}\right)$
+d) $9(-\dfrac{1}{15}) \cdot (-10)\left( \underbracket{-(7) : 6}\right)$    La divisione non è intera per cui trasformiamo i rapporti in frazioni
 
 e) $\underbracket{9(-\dfrac{1}{15})} \cdot (-10)\left( \dfrac{-7}{6}\right)$
 
@@ -464,13 +464,20 @@ c) Individua quante e quali operazioni contiene ciascuna delle espressioni segue
 
 ### ESERCIZIO 4.2 - Dalle parole alle espressioni (I)
 
-Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.  
+a) Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.  
 
-a) Aggiungi $\dfrac{1}{5}$ alla somma di $\dfrac{1}{2}$ e $\dfrac{1}{3}$; Aggiungi $\dfrac{2}{3}$ alla somma di $\dfrac{5}{6}$ e $1$; Somma $5$ al risultato della somma tra $\dfrac{5}{6}$ e $\dfrac{8}{3}$;  
+1. Aggiungi $\dfrac{1}{5}$ alla somma di $\dfrac{1}{2}$ e $\dfrac{1}{3}$;
+2. Aggiungi $\dfrac{2}{3}$ alla somma di $\dfrac{5}{6}$ e $1$;
+3. Somma $5$ al risultato della somma tra $\dfrac{5}{6}$ e $\dfrac{8}{3}$;  
+4. Sottrai $\dfrac{1}{2}$ dalla somma di $3$ e $\dfrac{1}{4}$.
 
-b) Sottrai $\dfrac{1}{2}$ dalla somma di $3$ e $\dfrac{1}{4}$; Aggiungi $1$ alla somma di $\dfrac{1}{5}$ e $-1$; Togli da $\dfrac{1}{3}$ la somma di $-\dfrac{2}{3}$ e $\dfrac{1}{3}$; 
+b) Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.  
 
-c) Raddoppia il prodotto fra $\dfrac{4}{7}$ e $\dfrac{7}{2}$; Scrivi il Triplo del prodotto fra $\dfrac{5}{6}$ e $\dfrac{3}{10}$; Aggiungi $\dfrac{1}{4}$ a tre volte il quoziente di $\dfrac{3}{2}$ e $\dfrac{9}{4}$.  
+1.  Aggiungi $1$ alla somma di $\dfrac{1}{5}$ e $-1$;
+2. Togli da $\dfrac{1}{3}$ la somma di $-\dfrac{2}{3}$ e $\dfrac{1}{3}$; 
+3. Raddoppia il prodotto fra $\dfrac{4}{7}$ e $\dfrac{7}{2}$;
+4. Scrivi il Triplo del prodotto fra $\dfrac{5}{6}$ e $\dfrac{3}{10}$;
+5. Aggiungi $\dfrac{1}{4}$ a tre volte il quoziente di $\dfrac{3}{2}$ e $\dfrac{9}{4}$.  
 
  
 
