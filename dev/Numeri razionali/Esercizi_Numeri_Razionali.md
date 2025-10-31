@@ -57,7 +57,7 @@ Come si vede, cambiando l'unità di misura cambia anche misura della quantità d
 
 #### Frazioni come divisioni
 
-Il terzo contesto è l'uso delle frazioni per indicare delle divisioni. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$, ma se la scriviamo come frazione è perché vogliamo evidenziare quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+Il terzo contesto è l'uso delle frazioni per indicare delle divisioni che non calcoliamo. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$, ma se la scriviamo come frazione è perché vogliamo evidenziare quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
 Il passaggio dalla frazione al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
@@ -391,7 +391,7 @@ Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un e
 
 Per trovare il risultato dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo. 
 
-Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
+Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ **costruiamo il risultato** moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
 
 $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.   
 
@@ -399,13 +399,13 @@ $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightar
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni intere. Il primo passo è calcolare le espressioni al numeratore e  al denominatore dei rapporti in modo che i rapporti stessi diventano delle frazioni. La linea di frazione è come come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ deve essere calcolata come se fosse $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri, le stesse operazioni e le stesse regole di precedenza.
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni intere. Il primo passo è calcolare le espressioni al numeratore e  al denominatore dei rapporti in modo che i rapporti stessi diventano delle frazioni. La linea di frazione raggruppa i numeri come come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ deve essere calcolata come se fosse $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri, le stesse operazioni e le stesse regole di precedenza.
 
 #### ESEMPIO 1
 
-a)  $\dfrac{1-2 \cdot 3}{5-1}$ $\Longleftrightarrow (1 - 2 \cdot 3):(5 -1)$
+a)  $\dfrac{1-2 \cdot 3}{5-1}$ $\Longleftrightarrow (1 - 2 \cdot 3):(5 -1)$ ha 5 numeri e 4 operazioni
 
-c) $\dfrac{1-6}{5-1}$ $\Longleftrightarrow (1 - 6):(5-1)$
+c) $\dfrac{1-6}{5-1}$ $\Longleftrightarrow (1 - 6):(5-1)$
 
 d) $\dfrac{-5}{5-1}$ $\Longleftrightarrow (-5):(5-1)$
 
@@ -417,19 +417,29 @@ $-\dfrac{5}{4}$      $\bullet$
 
 #### ESEMPIO 2
 
+$-\dfrac{1}{\underbracket{10 + 5}}$ $\Longleftrightarrow-(1):(\underbracket{10 + 5})$ ha 4 numeri e 3 operazioni
+
+$-\dfrac{1}{15}$ $\Longleftrightarrow-(1):(15)$ ha 3 numeri e 2 operazioni
+
+$-\dfrac{1}{15}$     ha la sola divisione che lasciamo indicata come frazione      $\bullet$
+
+
+
+#### ESEMPIO 3
+
 Di seguito un esempio di calcolo di una espressione più complessa
 
 a) $9\left(-\dfrac{1}{\underbracket{10 + 5}}\right)\left(-10\right)\left(-\dfrac{1 + \underbracket{2 \cdot 3}}{6}\right)$ $\Longleftrightarrow9(-1:(\underbracket{10 + 5})) \cdot (-10)\left(-(1 + \underbracket{2 \cdot 3}) : 6\right)$
 
 b) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{\underbracket{1 + 6}}{6}\right)$  $\Longleftrightarrow 9(\underbracket{-1:(15)}) \cdot (-10)\left(-(\underbracket{1 + 6}) : 6\right)$
 
-c) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$ $\Longleftrightarrow 9(-\dfrac{1}{15}) \cdot (-10)\left( \underbracket{-(7) : 6}\right)$ A questo punto i rapporti sono frazioni
+c) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$ $\Longleftrightarrow 9(-\dfrac{1}{15}) \cdot (-10)\left( \underbracket{-(7) : 6}\right)$ A questo punto i rapporti sono frazioni
 
 e) $\underbracket{9(-\dfrac{1}{15})} \cdot (-10)\left( -\dfrac{7}{6}\right)$
 
 f) $\underbracket{-\dfrac{9}{15} \cdot (-10)}\left( \dfrac{-7}{6}\right)$
 
-g) $\dfrac{\cancel{90}^{\cancel{15}}}{\cancel{15}_1}\left( \dfrac{-7}{\cancel{6}_1}\right)$ Semplificando si ha il risultato
+g) $\dfrac{\cancel{90}^{\cancel{15}}}{\cancel{15}_1}\left( \dfrac{-7}{\cancel{6}_1}\right)$ Semplificando si ha il risultato
 
 h) $-7$    $\bullet$
 
@@ -479,7 +489,7 @@ b) Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.
 
 ### ESERCIZIO 4.3 - Dalle parole alle espressioni (II)
 
-Indicando con $x$ un numero qualsiasi, scrivi le espressioni relative alle frasi seguenti.  
+Indicando con $x$ un numero qualsiasi, scrivi le espressioni matematiche che traducono in operazioni le frasi seguenti.  
 
 a) Il doppio di $x$; il quadruplo di $x$; tre quarti di $x$; un terzo di $x$;  
 
