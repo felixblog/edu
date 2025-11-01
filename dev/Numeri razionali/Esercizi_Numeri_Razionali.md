@@ -69,23 +69,21 @@ Usare la frazione come divisione significa che in tutti i casi in cui la divisio
 
 #### ESEMPIO 4
 
-Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Osserviamo anche che la linea di frazione orizzontale ha anche la stessa funzione che hanno le parentesi nella notazione lineare.   $\bullet$
+Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Osserviamo poi che la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare.   $\bullet$
 
 #### ESEMPIO 5
 
-L'espressione in notazione matematica $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ si esprime in notazione lineare come $2:3 \cdot (1 + 2 \cdot 3):5$.
+L'espressione $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ in notazione lineare si esprime come $2:3 \cdot (1 + 2 \cdot 3):5$.
 
 Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.    $ \bullet$
 
 
 
-Il rapporto tra due numeri interi può essere positivo o negativo. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa.
-
-La forma canonica di una frazione è sempre $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Vediamo degli esempi.
+Il rapporto tra due numeri interi può essere positivo o negativo e la **forma canonica** di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$
 
 #### ESEMPIO 6
 
-Se i due numeri hanno segno diverso: $\dfrac{-3}{4} \longrightarrow -\dfrac{3}{4}$ oppure $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$, altrimenti abbiamo $\dfrac{3}{+4} \longrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.    $ \bullet$
+Esempi di frazioni con numeratore e denominatore di segno diverso: $\dfrac{-3}{4} \longrightarrow -\dfrac{3}{4}$ oppure $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$, altrimenti abbiamo $\dfrac{3}{+4} \longrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$. Inoltre $\dfrac{(-3)}{4} \longrightarrow -\dfrac{3}{4}$ e $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$    $\bullet$
 
 
 
@@ -403,25 +401,27 @@ Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che
 
 #### ESEMPIO 1
 
-a)  $\dfrac{1-2 \cdot 3}{5-1}$ $\Longleftrightarrow (1 - 2 \cdot 3):(5 -1)$ ha 5 numeri e 4 operazioni
+a)  $-\overset{\downarrow}{\phantom|} \dfrac{1 \overset{\downarrow}{\phantom,}-2  \overset{\downarrow}{\cdot} 3 \phantom{,} \downarrow}{5 \overset{\downarrow}{\phantom{,}} -1}$ $\Longleftrightarrow -(1 - 2 \cdot 3):(5 -1)$ ha 6 numeri e 5 operazioni
 
-c) $\dfrac{1-6}{5-1}$ $\Longleftrightarrow (1 - 6):(5-1)$
+b) $-\dfrac{1-6}{5-1}$ $\Longleftrightarrow -(1 - 6):(5-1)$
 
-d) $\dfrac{-5}{5-1}$ $\Longleftrightarrow (-5):(5-1)$
+c) $-\dfrac{-5}{5-1}$ $\Longleftrightarrow -(-5):(5-1)$
 
-e) $\dfrac{-5}{4}$ $\Longleftrightarrow (-5):(4)$
+d) $\dfrac{5}{5-1}$ $\Longleftrightarrow 5:(5-1)$
 
-$-\dfrac{5}{4}$      $\bullet$
+e) $\dfrac{5}{4}$ $\Longleftrightarrow 5:(4)$
+
+f) $\dfrac{5}{4}$      $\bullet$
 
 
 
 #### ESEMPIO 2
 
-$-\dfrac{1}{\underbracket{10 + 5}}$ $\Longleftrightarrow-(1):(\underbracket{10 + 5})$ ha 4 numeri e 3 operazioni
+a) $- \dfrac{1 \phantom{,} \downarrow }{\underbracket{10 \overset{\downarrow}{\phantom,} + 5}}$ $\Longleftrightarrow-1:(\underbracket{10 + 5})$ ha 3 numeri e 2 operazioni
 
-$-\dfrac{1}{15}$ $\Longleftrightarrow-(1):(15)$ ha 3 numeri e 2 operazioni
+b) $-\dfrac{1}{15}$ $\Longleftrightarrow-1:(15)$ ha 3 numeri e 2 operazioni
 
-$-\dfrac{1}{15}$     ha la sola divisione che lasciamo indicata come frazione      $\bullet$
+c) $-\dfrac{1}{15}$     ha la sola divisione che lasciamo indicata come frazione      $\bullet$
 
 
 
@@ -553,7 +553,7 @@ a) Paolo deve acquistare uno scooter che costa $\text{\euro\;}2760$, ma possiede
 
 b) Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di $20 \text{\;Km}$?     [R. $50$]  
 
-c) Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di 9/16 di Kg. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
+c) Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di $\dfrac{9}{16}$ di $\text{\;Kg}$. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
 
 d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia $\text{\euro\;}123$ e lo sconto è uguale ai $\dfrac{5}{90}$ del prezzo iniziale, quanto costavano le valigie?     [R. $\text{\euro\;}2.214$]  
 
