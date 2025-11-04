@@ -81,7 +81,7 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
 
 Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
-Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60$ da $1,5$.    $ \bullet$
+Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $90$ minuti "entrano" in $60$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60 \longrightarrow 1,5$.    $\bullet$
 
 #### ESEMPIO 6
 
@@ -91,7 +91,7 @@ La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quan
 2. Seconda risposta: mezza scatola (numero frazionario).
 
 Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
-Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
+Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.    $\bullet$
 
@@ -795,18 +795,18 @@ d) Nell'esercizio 1, punto a.1, che percentuale di quadrati ha il colore rosso? 
 
 ### ESERCIZIO 7.3 - Problemi con le percentuali
 
-a) Calcola la percentuale nei casi seguenti.
+a) Calcola le percentuali richieste nei casi seguenti.
 
-1. In borsa una azienda vede in tre mesi il proprio titolo passare da 13,5 a 16 euro per azione. Di quanto è salito il titolo in percentuale? [R. 18,52%];
-2. Una automobile incrementa la sua velocità da 80 Km/h a 100 Km/h. Di che percentuale è salita la velocità?
-3. Se durante i saldi di fine stagione spendo $\text{35} \texteuro$ 35 euro comprando una maglia che ne costava 60, che sconto ho avuto? ed in percentuale sul prezzo?
-4. Per fare la parmigiana di melanzane per 6 persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+1. In borsa una azienda vede in tre mesi il proprio titolo passare da $\text{13,5}$ a $\text{16}$ euro per azione. Di quanto è salito il titolo in percentuale? [R. $\text{18,52\%}$];
+2. Una automobile incrementa la sua velocità da $\text{80}$ a $\text{100\; Km/h}$. Di che percentuale è salita la velocità?
+3. Se durante i saldi di fine stagione spendo $\text{35}\;\texteuro$ comprando una maglia che ne costava $\text{60}$, che sconto ho avuto? ed in percentuale sul prezzo?
+4. Per fare la parmigiana di melanzane per $\text{6}$ persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
 b) Calcola le quantità assolute richieste nei casi seguenti.
 
-1. Su una maglietta si calcola il 30% di sconto. Se il prezzo è di 50 euro, quale sarà lo sconto? Quale il prezzo scontato?
-2. Se il fatturato di una azienda, da un anno all'altro, cala del 40%, di quanto sarà calato se il primo anno era di 12 milioni di euro? Quale sarà il nuovo valore?
-3. Quanti kilogrammi di burro si possono ricavare da 125 Kg di latte, sapendo che il latte contiene panna per circa l’11% del suo peso e che la panna produce burro per il 27% del suo peso .      [R. 3.7125 kg] 
+1. Su una maglietta si calcola il $\text{30\;\%}$ di sconto. Se il prezzo è di $\text{50}\;\texteuro$, quale sarà lo sconto? Quale il prezzo scontato?
+2. Se il fatturato di una azienda, da un anno all'altro, cala del $\text{40\;\%}$, di quanto sarà calato se il primo anno era di $\text{12}$ milioni di euro? Quale sarà il nuovo valore?
+3. Quanti kilogrammi di burro si possono ricavare da $\text{125\; Kg}$ di latte, sapendo che il latte contiene panna per circa l’$\text{11\;\%}$ del suo peso e che la panna produce burro per il $\text{27\;\%}$ del suo peso .      [R. $\text{3.7125\;Kg}$] 
 
 c) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
 
@@ -876,7 +876,7 @@ In questo caso abbiamo un periodo espresso come somma (di due periodi): il primo
 
 Partiamo dalle due equivalenze che conosciamo:
 
-a) $1\;anno = 4\;trim$, e 
+a) $1\;anno = 4\;trim$, e 
 
 b) $1\;trim = 3\;mese$.
 
@@ -909,7 +909,7 @@ $15\;trim  = \dfrac{15}{4}\;anno \approx 3.75\;anno$
 a) Risolvi le seguenti equivalenze.
 
 1. Quanti minuti ci sono in due ore e mezzo?
-2. Quanto pesano due etti e mezzo di salame in $Kg$? 
+2. Quanto pesano due etti e mezzo di salame in $\text{Kg}$? 
 3. A quanti minuti corrispondono $10$ ore? 
 4. A quante ore corrispondono $10$ minuti ? A quanti secondi equivalgono $10$ minuti?
 

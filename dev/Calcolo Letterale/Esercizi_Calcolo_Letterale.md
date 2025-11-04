@@ -13,14 +13,41 @@ Le lettere servono quindi a specificare come calcolare certe quantità, in quest
 
 #### ESEMPIO 1
 
-Calcoliamo il valore dell'espressione $1-x$ dopo aver sostituito alla lettera $x$ il valore $+5$. La sostituzione trasforma l'espressione letterale in espressione numerica: $1 - (+5) \longrightarrow 1 -5 \longrightarrow -4$.    $\bullet$
+Calcoliamo il valore dell'espressione $1-x$ dopo aver sostituito alla lettera $x$ il valore $+5$. La sostituzione trasforma l'espressione letterale in espressione numerica: $1 - (+5) \longrightarrow 1 -5 \longrightarrow -4$.     $\bullet$
 
 
 
-Osserviamo che nell'espressione $1 -x$ ci sono tre numeri e due operazioni perché $-x$ è costituito da $-1$ moltiplicato il numero $x$, per cui i numeri sono $1$, $-1$ ed $x$. Scrivendo esplicitamente abbiamo
+Quando si scrive il prodotto di una lettera con un numero, un'altra lettera o con una espressione tra parentesi, è possibile omettere il simbolo di moltiplicazione per cui abbiamo i casi seguenti.
+
+#### ESEMPIO 2
+
+a) $\dfrac{a \cdot b}{2} \longleftrightarrow \dfrac{ab}{2}$;
+
+b) $-3 \cdot b^2 +1 \longleftrightarrow -3b^2+1$;
+
+c) $(a + b) \cdot c \longleftrightarrow (a + b)c$.     $\bullet$
+
+
+
+Ci si potrebbe chiedere come contare numeri ed operazioni in una espressione letterale in cui al posto delle lettere possono essere sostituite delle frazioni. 
+
+Il conto deve essere fatto come nei capitoli precedenti, considerando che, ad esempio, nell'espressione $1 -x$ ci sono tre numeri e due operazioni perché $-x$ è costituito da $-1$ moltiplicato il numero $x$, per cui i numeri sono $1$, $-1$ ed $x$. Scrivendo esplicitamente abbiamo
 $$
 1-x = 1 \overset{\overset{+/-}{\downarrow}}{\phantom{,}} - 1 \overset{\overset{\cdot}{\downarrow}}\cdot x
 $$
+
+#### ESEMPIO 3
+
+Nell'espressione $y \cdot (1 - y) + 3$ ci sono cinque numeri (in ordine $y, 1, -1, y, +3$) e quattro operazioni:
+$$
+y \overset{\overset{\cdot}{\downarrow}}\cdot (1 \overset{\overset{+/-}{\downarrow}}{\phantom{,}} - 1 \overset{\overset{\cdot}{\downarrow}}\cdot y) \overset{\overset{+/-}{\downarrow}}{\phantom{,}} +3
+$$
+ed in $\dfrac{ab^2}{2} -3a$ ci sono sei numeri ( in ordine $a, b, 2, 2, -3, a$) e cinque operazioni:
+$$
+\dfrac{a \overset{\overset{\cdot}{\downarrow}}\; b^{\overset{\overset{\hat{}}{\downarrow}}\;2} \overset{:}{\downarrow} }{2} \overset{\overset{+/-}{\downarrow}}{\phantom{,}} -3 \overset{\overset{\cdot}{\downarrow}}\; a
+$$
+$\bullet$
+
 
 
 ### ESERCIZIO 1.1 - Dalle parole alle espressioni (I)
@@ -129,9 +156,9 @@ $\dfrac{ab}{2}$ : grado 2, **Forma non normale**;
 
 $\dfrac{ab}{2} \longrightarrow \dfrac{1}{2}ab$: **Forma normale**;
 
-$ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: grado 4, **Forma Normale**.
+$ba\dfrac{1}{2}ab \longrightarrow \dfrac{1}{2}aabb \longrightarrow \dfrac{1}{2}a^2b^2$: grado $4$, **Forma Normale**.
 
-$2$: monomio di grado 0.   $ \bullet$
+$2$: monomio di grado $0$.   $\bullet$
 
 
 
@@ -232,7 +259,9 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***. 
 
-Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$).  Il risultato della somma di due monomi simili è un monomio che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). La somma di due monomi non simili **non** è però un monomio ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
+Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$): il risultato della somma di due monomi simili **è un monomio solo**, che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). 
+
+La somma di due monomi **non** simili **non** è però un monomio solo ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
 #### ESEMPIO 1
 
@@ -250,13 +279,13 @@ In una espressione letterale possono comparire dei monomi simili non vicini tra 
 
 #### ESEMPIO 2
 
-a) $a \overset{\overset{+/-}\downarrow}{\phantom{,}} + b \overset{\overset{+/-}\downarrow}{\phantom{,}} -2a \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b$   Sono presenti tre somme algebriche, nessuna delle quali può essere eseguita perché gli addendi non sono simili. Riordinando i monomi abbiamo la somma seguente.
+a) $a \overset{\overset{+/-}\downarrow}\; +b \overset{\overset{+/-}\downarrow}\; -2a \overset{\overset{+/-}\downarrow}\; + 3b$   Sono presenti tre somme algebriche, nessuna delle quali può essere eseguita perché gli addendi non sono simili. Riordinando i monomi abbiamo la somma seguente.
 
-b) $\underbracket{a \overset{\overset{+/-}\downarrow}{\phantom{,}} - 2a} \overset{\overset{+/-}\downarrow}{\phantom{,}} + b \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b$   Ora è possibile eseguire la prima somma.
+b) $\underbracket{a \overset{\overset{+/-}\downarrow}\; - 2a} \overset{\overset{+/-}\downarrow}\; + b \overset{\overset{+/-}\downarrow}\; + 3b$   Ora è possibile eseguire la prima somma.
 
-c) $\underline{-a} \overset{\overset{+/-}\downarrow}{\phantom{,}} \underbracket{+ b \overset{\overset{+/-}\downarrow}{\phantom{,}} + 3b}$   Qui è possibile effettuare la seconda somma algebrica.
+c) $\underline{-a} \overset{\overset{+/-}\downarrow}\; \underbracket{+ b \overset{\overset{+/-}\downarrow}\; + 3b}$   Qui è possibile effettuare la seconda somma algebrica.
 
-d) $-a \overset{\overset{+/-}\downarrow}{\phantom{,}} \underline{+4b}$      $\bullet$
+d) $-a \overset{\overset{+/-}\downarrow}\; \underline{+4b}$      $\bullet$
 
 
 
