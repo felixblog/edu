@@ -29,35 +29,9 @@ Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre 
 
 
 
-#### Frazioni per misurare una quantità rispetto ad un'altra
-
-Il secondo contesto d'uso delle frazioni è per misurare una quantità "rispetto ad un altra" o "in rapporto ad un'altra" che utilizziamo come unità di riferimento. Facciamo due esempi.
-
-#### ESEMPIO 2
-
-In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno è atteso con novanta minuti di ritardo". Che ritardo ha il treno?
-
-1. Prima risposta: $90$ minuti (numero intero);
-2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
-
-Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
-Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60$ da $1,5$.    $ \bullet$
-
-#### ESEMPIO 3
-
-La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
-
-1. Prima risposta: due uova (numero intero);
-2. Seconda risposta: mezza scatola (numero frazionario).
-
-Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
-Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
-
-Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. $ \bullet$
-
 #### Frazioni come divisioni
 
-Il terzo contesto è l'uso delle frazioni per indicare delle divisioni che non calcoliamo. La divisione avrebbe come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$, ma se la scriviamo come frazione è perché vogliamo evidenziare quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+Il secondo contesto è l'uso delle frazioni per indicare delle divisioni, che non calcoliamo e lasciamo indicate e che avrebbero come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il confronto tra la frazione ed il suo risultato ci evidenzia quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
 Il passaggio dalla frazione al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
@@ -67,25 +41,23 @@ $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 Usare la frazione come divisione significa che in tutti i casi in cui la divisione è espressa con "due punti" (notazione lineare), la stessa si può anche esprimere con una linea di frazione. Vediamo alcuni esempi.
 
-#### ESEMPIO 4
+#### ESEMPIO 2
 
 Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Osserviamo poi che la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare.   $\bullet$
 
-#### ESEMPIO 5
+#### ESEMPIO 3
 
 L'espressione $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ in notazione lineare si esprime come $2:3 \cdot (1 + 2 \cdot 3):5$.
 
 Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.    $ \bullet$
 
-
-
 Il rapporto tra due numeri interi può essere positivo o negativo e la **forma canonica** di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$
 
-#### ESEMPIO 6
+#### ESEMPIO 4
 
 Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4} \longleftrightarrow -\dfrac{3}{4}$ mentre $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
 
-Se il numeratore è dentro una parentesi senza operazioni, il segno meno viene riportato davanti a tutta la frazione, come da forma canonica: $\dfrac{-(3)}{4} \longrightarrow \dfrac{-3}{4}$ $\longleftrightarrow -\dfrac{3}{4}$.
+Se il numeratore è dentro una parentesi senza operazioni, il segno meno viene riportato davanti a tutta la frazione, come da forma canonica: $\dfrac{-(3)}{4} \longrightarrow \dfrac{-3}{4}$ $\longleftrightarrow -\dfrac{3}{4}$.
 
 Abbiamo poi i casi seguenti:
 
@@ -96,6 +68,32 @@ b) $-\dfrac{(-3)}{4} \longleftrightarrow +\dfrac{3}{4}$; Qui abbiamo il prodotto
 c) $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$    $\bullet$
 
 
+
+#### Frazioni per misurare una quantità rispetto ad un'altra
+
+Il terzo contesto d'uso delle frazioni è per misurare una quantità "rispetto ad un altra" o "in rapporto ad un'altra" che utilizziamo come unità di riferimento. Facciamo due esempi.
+
+#### ESEMPIO 5
+
+In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno è atteso con novanta minuti di ritardo". Che ritardo ha il treno?
+
+1. Prima risposta: $90$ minuti (numero intero);
+2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
+
+Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
+Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60$ da $1,5$.    $ \bullet$
+
+#### ESEMPIO 6
+
+La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
+
+1. Prima risposta: due uova (numero intero);
+2. Seconda risposta: mezza scatola (numero frazionario).
+
+Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
+Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi: $\dfrac{2}{4}$ che rapidamente diventa $\dfrac{1}{2}$. 
+
+Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.    $\bullet$
 
 
 
@@ -631,19 +629,19 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 Traduci in espressioni le seguenti frasi e calcola poi il loro valore, sostituendo alle lettere i dati assegnati.  
 
-a) Sottrai dal doppio di $a$ la terza parte di $b$.  [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
+a) Sottrai dal doppio di $a$ la terza parte di $b$.  [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
 
-b) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per due. [ Sostituzione con $\{a=1 ,b=\dfrac{2}{3}\}$ ].  
+b) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per due. [ Sostituzione con $\{a=1 ,b=\dfrac{2}{3}\}$ ].  
 
-c) Somma il quadruplo del quadrato di $a$ con il doppio di $c$. [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
+c) Somma il quadruplo del quadrato di $a$ con il doppio di $c$. [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
 
-d) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$.  `[` Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$. Risultato $\dfrac{15}{4}$]
+d) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$.  `[` Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$. Risultato $\dfrac{15}{4}$]
 
-e) Sottrai $\dfrac{1}{8}$ di $a$ ai $\dfrac{4}{5}$ di $c$, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di $b$. [Sostituzione con $\{a=3, b=-\dfrac{1}{5}, c=\dfrac{1}{16}\}$. Risultato $-\dfrac{65}{3}$ ].  
+e) Sottrai $\dfrac{1}{8}$ di $a$ ai $\dfrac{4}{5}$ di $c$, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di $b$. [Sostituzione con $\{a=3, b=-\dfrac{1}{5}, c=\dfrac{1}{16}\}$. Risultato $-\dfrac{65}{3}$ ].  
 
-f) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$, sottrai poi al risultato la somma del quadruplo del quadrato di $a$ e del doppio di $c$. `[`Sostituzione con $\{a=1, b=\dfrac{2}{3}, c=-2 \}$. Risultato $\dfrac{15}{4}$ ].
+f) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$, sottrai poi al risultato la somma del quadruplo del quadrato di $a$ e del doppio di $c$. `[`Sostituzione con $\{a=1, b=\dfrac{2}{3}, c=-2 \}$. Risultato $\dfrac{15}{4}$ ].
 
-g) Moltiplica la differenza tra i $\dfrac{2}{5}$ di $a$ e la metà di $b$ per il doppio di $c$, somma poi al risultato il quoziente tra $\dfrac{1}{4}$ di $a$ e la differenza tra il doppio di $b$ e $1$. [Sostituzione con $\{a=\dfrac{5}{3}, b=2, c=\dfrac{3}{4}\}$ ]. Risultato $-\dfrac{15}{36}$.
+g) Moltiplica la differenza tra i $\dfrac{2}{5}$ di $a$ e la metà di $b$ per il doppio di $c$, somma poi al risultato il quoziente tra $\dfrac{1}{4}$ di $a$ e la differenza tra il doppio di $b$ e $1$. [Sostituzione con $\{a=\dfrac{5}{3}, b=2, c=\dfrac{3}{4}\}$ ]. Risultato $-\dfrac{15}{36}$.
 
 
 
@@ -878,7 +876,7 @@ In questo caso abbiamo un periodo espresso come somma (di due periodi): il primo
 
 Partiamo dalle due equivalenze che conosciamo:
 
-a) $1\;anno = 4\;trim$ e 
+a) $1\;anno = 4\;trim$, e 
 
 b) $1\;trim = 3\;mese$.
 

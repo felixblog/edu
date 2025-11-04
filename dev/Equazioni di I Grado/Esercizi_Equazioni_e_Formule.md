@@ -307,7 +307,17 @@ L'area di un triangolo è simile: la base del triangolo deve essere moltiplicata
 
 Un imbianchino ordina vernice bianca per dipingere una parete che ha una superficie di $11,2\; m^2$. La parete è lunga $4$ metri: quanto è alta?
 
-Sostituendo alle lettere della formula dell'area del rettangolo i dati del problema, abbiamo l'equazione $11,2 = 4 \cdot h$, dove l'incognita è $h$. La soluzione è $h = \dfrac{11,2}{4} \longrightarrow 2,8$ metri.   $\bullet$ 
+Sostituendo alle lettere della formula dell'area del rettangolo i dati del problema, abbiamo l'equazione $11,2 = 4 \cdot h$, dove l'incognita è $h$. La soluzione è $h = \dfrac{11,2}{4} \longrightarrow 2,8$ metri.
+
+Risolvendo il problema con GEOGEBRA avremmo le due istruzioni:
+
+$e = Sostituisci(A = b \cdot h, \{A = 11.2, b = 4\})$
+
+​	$\longrightarrow 11,2 = 4 \cdot h$
+
+$Risolvi(e,h)$ 
+
+​	$\longrightarrow \{h = 2.8\}$   $\bullet$ 
 
 
 
@@ -330,8 +340,14 @@ Una maglietta è in saldo al $40 \%$. Se costava $\text{35}$ euro, quanto costa 
 
 Sostituendo nella formula precedente alle lettere  i numeri, abbiamo $P_l= 35$, $s = 0.4$ e quindi
 $$
-P_s = 35(1-0.4) \longrightarrow 35 \cdot 0.6 \longrightarrow 21\; \text{euro} \;\;\bullet
+P_s = 35(1-0.4) \longrightarrow 35 \cdot 0.6 \longrightarrow 21\; \text{euro}
 $$
+
+Con GEOGEBRA avremmo:
+
+$Sostituisci(P_s = P_l \cdot (1-s), \{P_l = 35, s = 0.4\})$
+
+​	$\longrightarrow \{P_s = 21\}$      $\bullet$ 
 
 
 
@@ -348,8 +364,6 @@ Questa schematizzazione è così comune che anche in altri contesti, quando vogl
 Un lavoratore dipendente ha una retribuzione netta che è circa il $50 \%$ del lordo in busta paga. Quale è il "peso" delle tasse e degli altri contributi? 
 
 Abbiamo che $N = 0.5 \cdot L$, per cui sostituendo nella formula: $L= 0.5L + T$. Risolvendo rispetto a $T$ abbiamo che $T = L - 0.5L$, cioè $T = 0.5L$: le tasse pesano per la metà della retribuzione lorda.    $ \bullet$
-
-
 
 
 
@@ -392,6 +406,14 @@ $$
 170 = C(1+0.22) \longrightarrow C = \dfrac{170}{1.22} \approx 139.34  \;\; \bullet
 $$
 
+$e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$
+
+​	$\longrightarrow 170 = \dfrac{61}{50} \cdot C$
+
+$RisolviN(e,C)$ 
+
+​	$\longrightarrow \{C = 139.34426...\}$    $\bullet$ 
+
 
 
 ### ESERCIZIO 4.1 - Applicazioni delle formule su ricavi, costi ecc.
@@ -425,6 +447,8 @@ $$
 Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
 
 Dalla formula generale, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.   $\bullet$
+
+
 
 #### ESEMPIO 2
 
@@ -462,7 +486,7 @@ $$
 
 
 
-### ESERCIZIO 5.1 - Applicazioni delle formule sulla velocità ed i consumi
+### ESERCIZIO 5.1 - Applicazioni delle formule su velocità e consumi
 
 a) Se una mongolfiera viaggia ad una media di $\text{37 Km/h}$, quanto tempo impiegherà a percorrere $\text{166 Km}$? 
 
@@ -497,8 +521,6 @@ b) $+ax=b-1$;   Con la regola della moltiplicazione/divisione dividiamo tutto pe
 c) $\dfrac{+ax}{+a}=\dfrac{b-1}{+a}$;  Semplificando
 
 d) $x = \dfrac{b-1}{a}$.
-
-#### Laboratorio GEOGEBRA
 
 Per risolvere con GEOGEBRA l'istruzione è:
 
