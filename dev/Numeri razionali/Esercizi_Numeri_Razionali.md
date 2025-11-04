@@ -83,7 +83,17 @@ Il rapporto tra due numeri interi può essere positivo o negativo e la **forma c
 
 #### ESEMPIO 6
 
-Esempi di frazioni con numeratore e denominatore di segno diverso: $\dfrac{-3}{4} \longrightarrow -\dfrac{3}{4}$ oppure $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$, altrimenti abbiamo $\dfrac{3}{+4} \longrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$. Inoltre $\dfrac{(-3)}{4} \longrightarrow -\dfrac{3}{4}$ e $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$    $\bullet$
+Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4} \longleftrightarrow -\dfrac{3}{4}$ mentre $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
+
+Se il numeratore è dentro una parentesi senza operazioni, il segno meno viene riportato davanti a tutta la frazione, come da forma canonica: $\dfrac{-(3)}{4} \longrightarrow \dfrac{-3}{4}$ $\longleftrightarrow -\dfrac{3}{4}$.
+
+Abbiamo poi i casi seguenti:
+
+a)  $-\dfrac{(3)}{4} \longleftrightarrow -\dfrac{3}{4}$;
+
+b) $-\dfrac{(-3)}{4} \longleftrightarrow +\dfrac{3}{4}$; Qui abbiamo il prodotto di $-1$ per la frazione $\dfrac{-3}{4}$.
+
+c) $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$    $\bullet$
 
 
 
@@ -417,7 +427,7 @@ f) $\dfrac{5}{4}$      $\bullet$
 
 #### ESEMPIO 2
 
-a) $- \dfrac{1 \phantom{,} \downarrow }{\underbracket{10 \overset{\downarrow}{\phantom,} + 5}}$ $\Longleftrightarrow-1:(\underbracket{10 + 5})$ ha 3 numeri e 2 operazioni
+a) $- \dfrac{1 \phantom{,} \downarrow }{\underbracket{10 \overset{\downarrow}{\phantom,} + 5}}$ $\Longleftrightarrow-1:(\underbracket{10 + 5})$ ha 3 numeri e 2 operazioni
 
 b) $-\dfrac{1}{15}$ $\Longleftrightarrow-1:(15)$ ha 3 numeri e 2 operazioni
 
@@ -621,19 +631,19 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 Traduci in espressioni le seguenti frasi e calcola poi il loro valore, sostituendo alle lettere i dati assegnati.  
 
-a) Sottrai dal doppio di $a$ la terza parte di $b$. [$a=1$, $b=\dfrac{2}{3}$]  
+a) Sottrai dal doppio di $a$ la terza parte di $b$.  [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
 
-b) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per due. [$a=1$, $b=\dfrac{2}{3}$]  
+b) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per due. [ Sostituzione con $\{a=1 ,b=\dfrac{2}{3}\}$ ].  
 
-c) Somma il quadruplo del quadrato di $a$ con il doppio di $c$. [$a=1$, $b=\dfrac{2}{3}$]  
+c) Somma il quadruplo del quadrato di $a$ con il doppio di $c$. [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
 
-d) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$e la terza parte di $b$.  `[`$a=1$, $b=\dfrac{2}{3}$] [R. $\dfrac{15}{4}$]
+d) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$.  `[` Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$. Risultato $\dfrac{15}{4}$]
 
-e) Sottrai $\dfrac{1}{8}$ di $a$ ai $\dfrac{4}{5}$ di $c$, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di $b$. [$a=3$, $b=-\dfrac{1}{5}$, $c=\dfrac{1}{16}$].     [R. $-\dfrac{65}{3}$]  
+e) Sottrai $\dfrac{1}{8}$ di $a$ ai $\dfrac{4}{5}$ di $c$, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di $b$. [Sostituzione con $\{a=3, b=-\dfrac{1}{5}, c=\dfrac{1}{16}\}$. Risultato $-\dfrac{65}{3}$ ].  
 
-f) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$, sottrai poi al risultato la somma del quadruplo del quadrato di $a$ e del doppio di $c$. `[`$a=1$, $b=\dfrac{2}{3}$, $c=-2$ ][R. $\dfrac{15}{4}$]
+f) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$, sottrai poi al risultato la somma del quadruplo del quadrato di $a$ e del doppio di $c$. `[`Sostituzione con $\{a=1, b=\dfrac{2}{3}, c=-2 \}$. Risultato $\dfrac{15}{4}$ ].
 
-g) Moltiplica la differenza tra i $\dfrac{2}{5}$ di $a$ e la metà di $b$ per il doppio di $c$, somma poi al risultato il quoziente tra $\dfrac{1}{4}$ di $a$ e la differenza tra il doppio di $b$ e $1$. [$a=\dfrac{5}{3}$, $b=2$, $c=\dfrac{3}{4}$].     [R. $-\dfrac{15}{36}$
+g) Moltiplica la differenza tra i $\dfrac{2}{5}$ di $a$ e la metà di $b$ per il doppio di $c$, somma poi al risultato il quoziente tra $\dfrac{1}{4}$ di $a$ e la differenza tra il doppio di $b$ e $1$. [Sostituzione con $\{a=\dfrac{5}{3}, b=2, c=\dfrac{3}{4}\}$ ]. Risultato $-\dfrac{15}{36}$.
 
 
 
