@@ -713,17 +713,17 @@ b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice
 
 Traduci in espressioni le seguenti frasi indicando con la lettera ‘$x$’ il numero generico citato; calcola poi il loro valore, sostituendo alla lettera il numero assegnato.
 
-a) Aggiungi ad un numero il suo triplo [$x=1$];
+a) Aggiungi ad un numero il suo triplo. [Sostituzione con $\{x=1\}$];
 
-b) Sottrai da un numero la sua metà [$x=6$];
+b) Sottrai da un numero la sua metà. [Sostituzione con $\{x=6\}$];
 
-c) Moltiplica un numero per 4 e sottrai la sua terza parte sommata a 22 [$x=9$];
+c) Moltiplica un numero per 4 e sottrai la sua terza parte sommata a 22. [Sostituzione con $\{x=9\}$];
 
-d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e somma al risultato 12 [$x=-9$];
+d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e somma al risultato 12. [Sostituzione con $\{x=-9\}$];
 
-e) Somma alla metà di un numero la sua quinta parte e sottrai il numero stesso diminuito di 6 [$x=-20$];
+e) Somma alla metà di un numero la sua quinta parte e sottrai il numero stesso diminuito di 6. [Sostituzione con $\{x=-20\}$];
 
-f) Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato [$x=0$];
+f) Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato. [Sostituzione con $\{x=0\}$];
 
 g) Scrivi due numeri consecutivi [$x=3$]. 
 
@@ -753,13 +753,13 @@ b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostit
 
 Essendo $a$ e $b$ due numeri interi, traduci in espressioni le seguenti frasi e calcola il valore delle espressioni sostituendo alle lettere i numeri assegnati.
 
-a) Sottrai $b$ al triplo di $a$,  [$a = 3, b = 2$];
+a) Sottrai $b$ al triplo di $a$,  [Sostituzione con $\{a = 3, b = 2\}$];
 
-b) Aggiungi il quadruplo di $b$ alla differenza tra il triplo di $a$ e $b$ , [$a = 3, b = 2$];
+b) Aggiungi il quadruplo di $b$ alla differenza tra il triplo di $a$ e $b$ , [Sostituzione con  $\{a = 3, b = 2\}$];
 
-c) Dividi la somma di sette volte $a$ e il cubo di $b$ per la somma di $a$ e $b$,  [$a = 3, b = 3$];
+c) Dividi la somma di sette volte $a$ e il cubo di $b$ per la somma di $a$ e $b$,  [Sostituzione con $\{a = 3, b = 3\}$];
 
-d) Moltiplica la somma del quadruplo di $a$ e del triplo di $b$ per la somma del doppio di $a$ e del triplo di $b$,  [$a = 3, b = 2$].
+d) Moltiplica la somma del quadruplo di $a$ e del triplo di $b$ per la somma del doppio di $a$ e del triplo di $b$,  [Sostituzione con  $\{a = 3, b = 2\}$].
 
 #### Esempio di SOLUZIONE
 

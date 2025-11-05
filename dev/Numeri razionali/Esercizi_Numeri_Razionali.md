@@ -633,7 +633,7 @@ a) Sottrai dal doppio di $a$ la terza parte di $b$.  [ Sostituzione con $\{a=1, 
 
 b) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per due. [ Sostituzione con $\{a=1 ,b=\dfrac{2}{3}\}$ ].  
 
-c) Somma il quadruplo del quadrato di $a$ con il doppio di $c$. [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
+c) Somma il quadruplo del quadrato di $a$ con il doppio di $b$. [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
 
 d) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$.  `[` Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$. Risultato $\dfrac{15}{4}$]
 
@@ -806,7 +806,7 @@ b) Calcola le quantità assolute richieste nei casi seguenti.
 
 1. Su una maglietta si calcola il $\text{30\;\%}$ di sconto. Se il prezzo è di $\text{50}\;\texteuro$, quale sarà lo sconto? Quale il prezzo scontato?
 2. Se il fatturato di una azienda, da un anno all'altro, cala del $\text{40\;\%}$, di quanto sarà calato se il primo anno era di $\text{12}$ milioni di euro? Quale sarà il nuovo valore?
-3. Quanti kilogrammi di burro si possono ricavare da $\text{125\; Kg}$ di latte, sapendo che il latte contiene panna per circa l’$\text{11\;\%}$ del suo peso e che la panna produce burro per il $\text{27\;\%}$ del suo peso .      [R. $\text{3.7125\;Kg}$] 
+3. Quanti kilogrammi di burro si possono ricavare da $\text{125\; Kg}$ di latte, sapendo che il latte contiene panna per circa l’$\text{11\;\%}$ del suo peso e che la panna produce burro per il $\text{27\;\%}$ del suo peso .      [R. $\text{3.7125\;Kg}$] 
 
 c) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
 
