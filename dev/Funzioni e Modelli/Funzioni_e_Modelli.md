@@ -36,9 +36,9 @@ La $x$ tra parentesi indica la lettera da sostituire per calcolare i valori, per
 $$
 f(50) = 125
 $$
-Quello appena visto è un esempio di ***funzione***, che si definisce come "**una regola che associa ad un primo numero un solo altro secondo numero**".
+Quello appena visto è un esempio di ***funzione***, che si definisce come "**una regola che associa ad un numero un solo altro numero**".
 
-Nei casi che vedremo, la regola consiste nella sostituzione del primo numero alla lettera di una espressione letterale e nel calcolo dell'espressione numerica che si ottiene: il risultato è il secondo numero associato al primo.
+Nei casi che vedremo, la regola consiste nella sostituzione del primo numero alla lettera di una espressione letterale e nel calcolo dell'espressione numerica che si ottiene: il risultato è l'altro numero associato al primo.
 
 La tabella delle torte è un esempio di calcolo della funzione $f(x) = 250\% \cdot x$ su un campione di valori possibili della $x$, per cui a $10$ è associato $25$, a $100$ è associato $250$ etc.
 
@@ -85,7 +85,7 @@ b) Risolvi il punto d) dell'esercizio analogamente al precedente la con la funzi
 
 ## UNITA' 2: Proporzionalità diretta ed inversa
 
-Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 250\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $250 \% = 2,5$, ossia $\dfrac{y}{x} = 2,5$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $2,5$​ della seconda.
+Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 250\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $250 \% \longleftrightarrow 2.5$, ossia $\dfrac{y}{x} = 2.5$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $2.5$​ della seconda.
 
 Un altro importante esempio di grandezze direttamente proporzionali sono le distanze percorse ed il tempo impiegato per percorrerle quando ci si muove a velocità fissa (costante).
 
@@ -93,7 +93,7 @@ Un altro importante esempio di grandezze direttamente proporzionali sono le dist
 
 Consideriamo il caso di una automobile che si muove sempre con la stessa velocità (costante), senza accelerare, a $60 \; Km/h$. 
 
-In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0,166$ ore, la macchina percorre $0,166 \cdot 60 \approx 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre nel tempo $\Delta t$ (nel nostro caso $10$ minuti), alla velocità $v = 60\; Km/h.$ 
+In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0.166$ ore, la macchina percorre $0.166 \cdot 60 \approx 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre nel tempo $\Delta t$ (nel nostro caso $10$ minuti), alla velocità $v = 60\; Km/h.$ 
 
 Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti del viaggio, la macchina, farà sempre $10$ Km, cosa che non succede se la macchina accelera. Questa caratteristica è specifica dei movimenti a velocità costante, detti "**moti uniformi**": si dice anche che la macchina percorre "spazi uguali in tempi uguali" e se il tempo aumenta, aumenta anche lo spazio. $ \bullet$
 
@@ -136,7 +136,7 @@ $$
 \hline\textbf{Velocita (Km/h) } & \textbf{Durata (h)} \\
 \hline
 60 & 1 \\
-120 & 0,5 \\
+120 & 0.5 \\
 \end{array}
 $$
 
@@ -158,9 +158,9 @@ c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio
 
 a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
 
-b) Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9, 11, 29, 33$.
+b) Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9,\; 11,\; 29,\; 33$.
 
-c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $10, 25, 33, 50 \%$ . Quale sarebbe lo sconto di una giacca da $300\, \mbox{\euro}$ nei vari casi?
+c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $10,\; 25,\; 33,\; 50 \%$ . Quale sarebbe lo sconto di una giacca da $300\, \mbox{\euro}$ nei vari casi?
 
 
 

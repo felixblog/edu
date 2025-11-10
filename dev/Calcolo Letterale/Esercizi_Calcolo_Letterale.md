@@ -182,7 +182,7 @@ b) Individua quali tra le seguenti espressioni letterali sono monomi e scrivili 
 1.  $ab\left(-\dfrac{1}{2}\right)a^{2},$     $\dfrac{2}{5}a^2\dfrac{3}{b},$   $abcde$;
 2. $\dfrac{5}{3}b\left(-4\right)a,$      $a + 2a^2,$  $\dfrac{ab^2x}{3}$.
 
-c) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti dopo averli scritti in forma normale (ad esempio per il monomio $2ax$ il coefficiente di $x$ è $2a$).
+c) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti dopo averli scritti in forma normale (ad esempio per il monomio $2ax$ il coefficiente di $x$ è $2a$).
 
 1. $axb$;      $-axa^2$;      $-\dfrac{a^2x}{3}$;
 2. $-2ax \cdot (-3)abx$;      $ax\left(-\dfrac{1}{2}\right)a^{2}$.
@@ -231,7 +231,7 @@ g) L'IBM è stata fondata $80$ anni prima della Apple. La Dell è stata fondata 
 
 h) Lincoln è stato eletto presidente degli USA $60$ anni dopo Jefferson. Trump è stato eletto $215$ anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno $n$.
 
-i) Una persona deposita in banca un capitale $C$ su un conto che rende il $\text{5 \%}$ di interesse annuo il primo anno, il $\text{7 \%}$ il secondo ed il $\text{10 \%}$ il terzo. Quanto avrà reso il deposito se sul conto per tutti e tre gli anni c'è sempre la stessa cifra iniziale?
+i) Una persona deposita in banca un capitale $C$ su un conto che rende il $\text{5 \%}$ di interesse annuo il primo anno, il $\text{7 \%}$ il secondo ed il $\text{10 \%}$ il terzo. Quanto avrà reso il deposito se sul conto per tutti e tre gli anni c'è sempre la stessa cifra iniziale?
 
 
 
@@ -370,7 +370,7 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}  \cdo
 
 Il rapporto tra due monomi è  un monomio solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi termini non sono più presenti lettere al denominatore.
 
-Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***. La forma canonica di una frazione algebrica è un numero che moltiplica il rapporto tra due monomi entrambi con parte numerica intera o uguale ad $1$.
+Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***. La forma canonica di una frazione algebrica è un numero che moltiplica il rapporto tra due monomi entrambi con parte numerica intera.
 
 #### ESEMPIO 1
 

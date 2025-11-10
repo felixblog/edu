@@ -132,7 +132,7 @@ La nostra equazione con due incognite avrà quindi una **soluzione letterale** d
 
 **PASSO 2**: (sostituzione): si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare) perché la soluzione deve rendere vera anche la seconda equazione. Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
 
-b) $x - 3(-1-2x) = 10$
+b) $x - 3y = 10, \{y = -1-2x\}$ $\longrightarrow x - 3(-1-2x) = 10$
 
 **PASSO 3**: (risoluzione): si risolve l'equazione con una sola incognita trovando il numero che la verifica.
 

@@ -102,7 +102,7 @@ L'equazione c) ha le stesse soluzioni della a), come si può controllare sostitu
 
 ### REGOLA DEL TRASPORTO (DELLA SOMMA)
 
-Possiamo trasportare una espressione che sia parte di una somma, da un membro ad un altro dell'equazione cambiando il suo segno e sommarla ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+Possiamo trasportare una espressione che sia parte di una somma, da un membro ad un altro dell'equazione cambiando il suo segno e sommarla algebricamente ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
 
 #### ESEMPIO 2
 
@@ -186,7 +186,7 @@ d) $17 = 5x$	Regola della moltiplicazione/divisione per $\dfrac{1}{5}$;
 
 e) $\dfrac{1}{5} \cdot 17 = \dfrac{1}{5} \cdot 5x$	Regola della semplificazione
 
-f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.     $\bullet$
+f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.     $ \bullet$
 
 #### ESEMPIO 6
 
@@ -198,9 +198,9 @@ Quello delle due frazioni a sinistra del simbolo $=$ è un modo di scrivere che 
 
 b) $\dfrac{1}{3}(x+2) + \dfrac{1}{4}(x+3) = \dfrac{13}{3}$.
 
-c) $\dfrac{1}{3}x + \dfrac{2}{3} + \dfrac{1}{4}x + \dfrac{3}{4} = \dfrac{13}{3}$;
+c) $\dfrac{1}{3}x + \dfrac{2}{3} + \dfrac{1}{4}x + \dfrac{3}{4} = \dfrac{13}{3}$;  Con la regola del trasporto otteniamo:
 
-d) $\dfrac{1}{3}x  + \dfrac{1}{4}x  = \dfrac{13}{3} - \dfrac{2}{3} - \dfrac{3}{4}$;
+d) $\dfrac{1}{3}x  + \dfrac{1}{4}x  = \dfrac{13}{3} - \dfrac{2}{3} - \dfrac{3}{4}$;  Sommiamo i monomi simili:
 
 e) $\dfrac{4}{12}x  + \dfrac{3}{12}x  = \dfrac{52}{12} - \dfrac{8}{12} - \dfrac{9}{12}$;
 
@@ -208,7 +208,7 @@ f) $\dfrac{7}{12}x = \dfrac{35}{12}$;
 
 g) $\dfrac{12}{7} \cdot \dfrac{7}{12}x = \dfrac{12}{7} \cdot \dfrac{35}{12}$;
 
-h) $x = 5$.
+h) $x = 5$.     $ \bullet$
 
 
 
@@ -315,7 +315,7 @@ $e = Sostituisci(A = b \cdot h, \{A = 11.2, b = 4\})$
 
 ​	$\longrightarrow 11,2 = 4 \cdot h$
 
-$Risolvi(e,h)$ 
+$Risolvi(e,h)$ 
 
 ​	$\longrightarrow \{h = 2.8\}$   $\bullet$ 
 
@@ -410,7 +410,7 @@ $e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$
 
 ​	$\longrightarrow 170 = \dfrac{61}{50} \cdot C$
 
-$RisolviN(e,C)$ 
+$RisolviN(e,C)$ 
 
 ​	$\longrightarrow \{C = 139.34426...\}$    $\bullet$ 
 

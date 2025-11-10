@@ -725,7 +725,7 @@ e) Somma alla metà di un numero la sua quinta parte e sottrai il numero stesso 
 
 f) Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato. [Sostituzione con $\{x=0\}$];
 
-g) Scrivi due numeri consecutivi [$x=3$]. 
+g) Scrivi due numeri consecutivi. [Sostituzione con $\{x=3\}$]. 
 
 #### Esempio di SOLUZIONE
 

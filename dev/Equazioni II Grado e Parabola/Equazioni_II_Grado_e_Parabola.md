@@ -15,14 +15,14 @@ Facendo qualche tentativo si vede che nel primo caso $x = 3$, perché $3^2 \long
 
 Questi numeri si chiamano **radici** rispettivamente di $9$ e di $8$ e precisamente $3$ è radice quadrata di $9$ e $2$ è radice cubica di $8$ e si indicano $\sqrt[2]{9} = 3$ e $\sqrt[3]{8} = 2$.
 
-In generale la radice n-esima di un numero $b$ si scrive utilizzando l'espressione $\sqrt[n]{b}$ , detta **radicale**, con $n$ detto *indice* del radicale. La radice n-esima di $b$ è un numero positivo $a$ tale che $a^n= b$. Tranne che in casi particolari le radici si trovano con la calcolatrice o con GEOGEBRA, trasformando il radicale in potenza.
-
-Oltre che con il caratteristico simbolo di radice, i radicali si possono infatti scrivere come potenze; ad esempio $\sqrt[2]{9}$ si può scrivere anche $9^{\frac{1}{2}} \longrightarrow 3$ e $\sqrt[3]{8} = 8^{\frac{1}{3}} \longrightarrow 2$, ossia con esponenti frazionari corrispondenti al reciproco dell'indice del radicale.
+In generale la radice n-esima di un numero $b$ si scrive o utilizzando l'espressione $\sqrt[n]{b}$ , detta **radicale**, con $n$ detto *indice* del radicale, oppure con l'espressione $b^\dfrac{1}{n}$, che è una potenza con esponente frazionario reciproco dell'indice del radicale. 
 
 Abbiamo poi che si può scrivere $8^{\frac{2}{3}} = \sqrt[3]{8^2} \longrightarrow \sqrt[3]{64} \longrightarrow 4$. Cioè in generale:
 $$
 x^{\frac{m}{n}} = \sqrt[n]{x^m}
 $$
+
+$\sqrt[n]{b}$, la radice n-esima di $b$, è un numero positivo $a$ tale che $a^n= b$. Tranne che in casi particolari le radici si trovano con la calcolatrice o con GEOGEBRA, trasformando il radicale in potenza.
 
 Osserviamo che se l'indice del radicale è pari ed il numero sotto la radice è negativo non esiste nessun numero corrispondente al radicale. Ad esempio $\sqrt[2]{-4}$ non è un numero perché se esistesse $a$ tale che $\sqrt[2]{-4}=a$ allora $a^2 = -4$ e questo numero non esiste.
 
@@ -110,7 +110,7 @@ Una equazione di II grado è in forma normale se è scritta come un polinomio ug
 $$
 ax^2+bx+c=0
 $$
-con $a$, $b$, e $c$ numeri detti ***coefficienti***. Ad esempio, tra le equazioni di esempio la a), d) ed e) sono in forma normale, le altre no. Per mettere la b) in forma normale basta trasportare il $-1$ a sinistra. Nella a) quindi abbiamo che $\{a = 1, b=0, c=-4\}$, mentre nella d) abbiamo $\{a = 1, b=-5, c=6\}$. 
+con $a$, $b$, e $c$ numeri detti ***coefficienti***. Ad esempio, tra le equazioni di esempio, la a), d) ed e) sono in forma normale, le altre no. Per mettere la b) in forma normale basta trasportare il $-1$ a sinistra. Nella a) quindi abbiamo che $\{a = 1, b=0, c=-4\}$, mentre nella d) abbiamo $\{a = 1, b=-5, c=6\}$. 
 
 Per trovare le soluzioni di una equazione di II grado in forma normale si possono applicare le formule seguenti (dette ***risolutive***):
 $$
@@ -127,7 +127,7 @@ Facendo il calcolo si ottiene $x_1=3$, $x_2 = 2$.
 
 L'esistenza o la non esistenza delle soluzioni dipende dalla quantità sotto radice $b^2-4ac$: se la quantità è negativa la sua radice quadrata non esiste e quindi non esiste la soluzione dell'equazione.
 
-Quando una equazione di II grado è in forma normale, è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama "***polinomio associato***" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "***radici del polinomio***"; le radici di un polinomio sono quindi i numeri che sostituiti alla lettera $x$ rende il polinomio uguale a zero.
+Quando una equazione di II grado è in forma normale, risulta essere è scritta come un polinomio (con un'unica incognita, la $x$) uguale a $0$. Il polinomio si chiama "***polinomio associato***" all'equazione e le soluzioni dell'equazioni, quando esistono, si chiamano anche "***radici del polinomio***"; le radici di un polinomio sono quindi i numeri che sostituiti alla lettera $x$ rendono il polinomio uguale a zero.
 
 
 
