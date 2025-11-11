@@ -9,7 +9,7 @@ Un ***piano cartesiano*** è costituito da un piano sul quale sono state disegna
 
 Una equazione con due incognite, come ad esempio $x + y = 5$ è una relazione tra due numeri, il numero $x$ ed il numero $y$ che può immediatamente essere "letta" come una proprietà dei punti del piano: ci saranno punti che soddisfano l'equazione, se le loro coordinate sostituite alle incognite dell'equazione la rendono vera (ossia sono soluzione) e punti che non la soddisfano. Le coppie di numeri che rendono vera l'equazione, ossia le sue soluzioni, individuano un sottoinsieme dei punti del piano cartesiano definito dall'equazione.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Data l'equazione $y = 3x$, la tabella seguente presenta un campione di sei punti di cui tre sono soluzione e tre non lo sono.
 $$
@@ -34,7 +34,7 @@ $$
 
 <img src="img/Soluzioni-e-no.png" alt="Soluzioni-e-no" style="zoom:15%;" />
 
-Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite. $ \bullet$
+Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.     $ \bullet$
 
 Il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione di I grado si chiama "grafico dell'equazione" e poiché il grafico è geometricamente una retta, si chiama **grafico della retta**.
 
@@ -116,7 +116,7 @@ Sono due i primi problemi che ci si presentano quando si parla di rette ed equaz
 
 Risolviamo il primo problema. 
 
-Per disegnare in un piano cartesiano la retta geometrica corrispondente ad una equazione in forma esplicita basta trovare due soluzioni sostituendo all'incognita $x$ due numeri in successione e calcolando il corrispondente valore della $y$.
+Per disegnare in un piano cartesiano la retta geometrica corrispondente ad una equazione in forma esplicita basta trovare due soluzioni sostituendo all'incognita $x$ due numeri in successione e calcolando il corrispondente valore della $y$.    $ \bullet$
 
 #### ESEMPIO 2
 
@@ -136,7 +136,7 @@ x & y \\
 1 & -3 \\
 \end{array}
 $$
-Abbiamo il risultato seguente. $ \bullet$
+Abbiamo il risultato seguente.     $ \bullet$
 
 <img src="img/Retta-per-2-punti.png" alt="Retta-per-2-punti" style="zoom:15%;" />
 
@@ -152,7 +152,7 @@ b)  $-2y = 4x - 3$;
 
 c)  $-\dfrac{1}{2} \cdot (-2y) = -\dfrac{1}{2} \cdot (4x - 3)$;
 
-d) $y = -2x + \dfrac{3}{2}$. $ \bullet$
+d) $y = -2x + \dfrac{3}{2}$.     $ \bullet$
 
 
 
@@ -177,7 +177,7 @@ b) $y - x +2 = 0$,   $y - 4 = x + 9$
 
 a) Risolvi il punto a.2.1 dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
 
-1. $eq1: y=m x+q$  &#9166;   
+1. $eq1: y=m \cdot x+q$  &#9166;   
 2. $Sostituisci(eq1,\{m=-1,q=\dfrac{1}{2}\})$ &#9166;   
 
 b) Risolvi il punto c.2) dell'esercizio con la sequenza di istruzioni GEOGEBRA riportata di seguito.
@@ -234,7 +234,7 @@ q = y_2 - m \cdot x_2 \\
 \right.
 $$
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Se abbiamo i punti $P_1 = (0,0)$ e $P_2 = (2,1)$, e $x_1=0, y_1=0, x_2=2, y_2=1$, sostituendo nelle formule precedenti:
 $$
@@ -246,7 +246,7 @@ q = 1 - \dfrac{1}{2} 2 = 0 \\
 \right.
 $$
 
-Per cui l'equazione della a retta cercata è $y = \dfrac{1}{2}x$.  $ \bullet$
+Per cui l'equazione della a retta cercata è $y = \dfrac{1}{2}x$.     $ \bullet$
 
 
 
@@ -299,15 +299,17 @@ coordinate complete del punto di intersezione della retta con l'asse delle $y$ s
 
 Consideriamo l'equazione $5x-3y=12$. Non è nella forma esplicita. Per trovare la sua forma esplicita risolviamo l'equazione come se $y$ fosse l'unica incognita:
 
-a) $5x-3y=12 \longrightarrow 5x = 3y + 12 \longrightarrow \dfrac{1}{3}5x = \dfrac{1}{3}(3y + 12)$
+a) $5x-3y=12$
 
-b) $\dfrac{5}{3}x = y + \dfrac{12}{4} \longrightarrow \dfrac{5}{3}x - \dfrac{12}{4} = y$
+b) $-3y = 12 - 5x$   Moltiplichiamo entrambi i membri per $-\dfrac{1}{3}$
 
-c) $\dfrac{5}{3}x - 3 = y$
+c) $-\dfrac{1}{3} \cdot \left(-3y\right) = -\dfrac{1}{3} \cdot \left(12 - 5x\right)$
 
-d) $y = \dfrac{5}{3}x - 3$ 
+d) $y = -\dfrac{1}{3} \cdot 12 -\dfrac{1}{3}\ \cdot (-5x)$
 
-In questa forma possiamo vedere come $m = \dfrac{5}{3}$ e $q = -3$    $\bullet$
+e) $y = \dfrac{5}{3}x - 3$ 
+
+In questa forma possiamo vedere come $m = \dfrac{5}{3}$ e $q = -3$      $\bullet$
 
 
 
@@ -327,7 +329,7 @@ Osserviamo il grafico seguente dove sono disegnate le rette riportate di sotto.
 
 <img src="img/m.png" alt="m" style="zoom:20%;" />
 
-Come si vede l'altezza dell'intersezione con l'asse verticale è la stessa.   $\bullet$
+Come si vede l'altezza dell'intersezione con l'asse verticale è la stessa.    $\bullet$
 
 
 
@@ -410,7 +412,7 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 Due rette in un piano cartesiano, non parallele ne coincidenti, geometricamente si intersecano in un punto. Dal punto di vista delle equazioni, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite. 
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Consideriamo le due rette che fanno parte del sistema seguente.
 
@@ -427,7 +429,9 @@ Il loro grafico è il seguente.
 
 <img src="img/Interzezione-Rette.png" alt="Interzezione-Rette" style="zoom:20%;" />
 
-Come si vede la soluzione del sistema coincide con le coordinate del punto di intersezione delle due rette. $ \bullet$
+Come si vede la soluzione del sistema coincide con le coordinate del punto di intersezione delle due rette.    $\bullet$
+
+
 
 Anche gli assi cartesiani sono rette ed hanno la loro equazione associata. L'equazione associata all'asse orizzontale, l'asse delle $x$, è $y=0$ mentre quella associata all'asse verticale (delle $y$) è $x=0$: come si può verificare facilmente, le coordinate di tutti i punti posizionati sull'asse verticale, ad esempio $(0, -3)$ oppure $(0, 5)$, sono soluzione dell'equazione $x + 0 \cdot y = 0 \longrightarrow x=0$ e tutti quelli posizionati sull'asse orizzontale, esempio $(-5, 0)$ oppure $(1,0)$ sono soluzione di $y + 0 \cdot x = 0 \longrightarrow y=0$.
 
@@ -549,7 +553,7 @@ Consideriamo la figura seguente che riporta il grafico della retta $y = -2x -1$.
 
 Il punto della retta $(1,-3)$ non sta nel semipiano positivo, quindi $1$, l'ascissa del punto, non è nell'intervallo di positività della retta; la stessa cosa si può dire di $(0,-1)$: $0$ non è nell'intervallo di positività della retta. Invece $(-2, 3)$ è nel semipiano positivo, quindi $-2$ è nell'intervallo di positività della retta.
 
-Sempre in riferimento alla figura, poiché la retta interseca l'asse orizzontale nel punto $(-\dfrac{1}{2},0)$ possiamo dire che l'intervallo di positività della retta $y = -2x -1$ è formato da tutte le $x$ minori di $-\dfrac{1}{2}$, ossia è l'intervallo $(-\infty, -\dfrac{1}{2})$ dell'asse delle $x$ (orizzontale). $ \bullet$
+Sempre in riferimento alla figura, poiché la retta interseca l'asse orizzontale nel punto $(-\dfrac{1}{2},0)$ possiamo dire che l'intervallo di positività della retta $y = -2x -1$ è formato da tutte le $x$ minori di $-\dfrac{1}{2}$, ossia è l'intervallo $(-\infty, -\dfrac{1}{2})$ dell'asse delle $x$ (orizzontale).     $ \bullet$
 
 
 
