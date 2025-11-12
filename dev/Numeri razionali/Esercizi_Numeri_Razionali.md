@@ -15,7 +15,7 @@ Comunemente le frazioni vengono usate in almeno tre contesti.
 
 #### Frazioni per aumentare o diminuire una quantità
 
- Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
+Il primo, forse il più frequente, è la frazione come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora". Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3.
 
 Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
@@ -80,8 +80,11 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 1. Prima risposta: $90$ minuti (numero intero);
 2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
 
-Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).
-Per avere la seconda risposta dobbiamo misurare il ritardo di $90$ minuti in ore e questo si fa calcolando quante volte $90$ minuti "entrano" in $60$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60 \longrightarrow 1,5$.    $\bullet$
+Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).     $\bullet$
+
+
+
+Una misura è sempre ottenuta calcolando quante volte l'unità di misura "entra" nella quantità da misurare: nel primo caso l'unità di misura è il minuto, nel secondo caso è l'ora e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60 \longrightarrow 1,5$.
 
 #### ESEMPIO 6
 
@@ -91,7 +94,7 @@ La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quan
 2. Seconda risposta: mezza scatola (numero frazionario).
 
 Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
-Per avere la seconda risposta dobbiamo misurare le $2$ uova in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
+Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.    $\bullet$
 
@@ -816,7 +819,7 @@ c) Considerando che Il grafico in figura riporta il fatturato di una azienda neg
 
 ![Grafico1](img\Ist-1.png)
 
-d) Comprando si Amazon si pagano, separatamente dal costo del prodotto, i costi di trasporto. Se per il trasporto, separato,  di due prodotti si pagano 5 euro, il primo costa 450 euro ed il secondo 60 euro, quanto incide il costo del trasporto sull'acquisto di ciascun prodotto? Quanto, nei due casi, sulla spesa totale?
+d) Comprando su Amazon si pagano, separatamente dal costo del prodotto, i costi di trasporto. Se per il trasporto di ciascun prodotto si pagano 5 euro e si fanno due acquisti distinti in cui, nel primo caso si pagano complessivamente 450 euro e nel secondo 60 euro, quanto incide il costo del trasporto sull'acquisto di ciascun prodotto? Se fossero spediti insieme, quanto inciderebbe il costo del trasporto sulla spesa totale?
 
 e) Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
 
