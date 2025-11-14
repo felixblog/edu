@@ -17,7 +17,7 @@ Calcoliamo il valore dell'espressione $1-x$ dopo aver sostituito alla lettera $x
 
 
 
-Quando si scrive il prodotto di una lettera con un numero, un'altra lettera o con una espressione tra parentesi, è possibile omettere il simbolo di moltiplicazione per cui abbiamo i casi seguenti.
+Quando si scrive il prodotto di una lettera con un numero, un'altra lettera o con una espressione tra parentesi, si può evitare di scrivere il simbolo di moltiplicazione per cui abbiamo i casi seguenti.
 
 #### ESEMPIO 2
 
@@ -29,9 +29,9 @@ c) $(a + b) \cdot c \longleftrightarrow (a + b)c$.     $\bullet$
 
 
 
-Ci si potrebbe chiedere come contare numeri ed operazioni in una espressione letterale in cui al posto delle lettere possono essere sostituite delle frazioni. 
+Ci si potrebbe chiedere come contare numeri ed operazioni in una espressione letterale in cui al posto delle lettere possono essere sostituiti dei numeri interi o delle frazioni. 
 
-Il conto deve essere fatto come nei capitoli precedenti, considerando che, ad esempio, nell'espressione $1 -x$ ci sono tre numeri e due operazioni perché $-x$ è costituito da $-1$ moltiplicato il numero $x$, per cui i numeri sono $1$, $-1$ ed $x$. Scrivendo esplicitamente abbiamo
+Il conto deve essere fatto come nei capitoli precedenti, considerando che ogni lettera è come se fosse un **numero che comprende il segno**, per cui, ad esempio, nell'espressione $1 -x$ ci sono tre numeri e due operazioni perché $-x$ è costituito da $-1$ moltiplicato il numero $x$, per cui i numeri sono $1$, $-1$ ed $x$. Scrivendo esplicitamente abbiamo
 $$
 1-x = 1 \overset{\overset{+/-}{\downarrow}}{\phantom{,}} - 1 \overset{\overset{\cdot}{\downarrow}}\cdot x
 $$
@@ -148,7 +148,7 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono lettere, scritte in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero). 
 
-In un monomio il simbolo di prodotto si può anche omettere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo **sempre usare il segno di prodotto**.
+In un monomio il simbolo di prodotto si può anche non scrivere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo **sempre usare il segno di prodotto**.
 
 #### ESEMPIO 2
 
@@ -289,7 +289,7 @@ d) $-a \overset{\overset{+/-}\downarrow}\; \underline{+4b}$      $\bullet$
 
 #### Prodotti di monomi
 
-Il prodotto di più monomi è sempre un monomio. Poiché cambiando l'ordine dei fattori il prodotto non cambia, l'unica operazione da fare per eseguire il prodotto di due monomi è moltiplicare le parti numeriche e riordinare la parte letterale per metterla in forma canonica.
+Il prodotto di più monomi è sempre un monomio. Poiché cambiando l'ordine dei fattori il prodotto non cambia, l'unica operazione da fare per eseguire il prodotto di due monomi è moltiplicare le parti numeriche e riordinare la parte letterale per mettere il risultato del prodotto in forma canonica.
 
 #### ESEMPIO 3
 
@@ -366,27 +366,33 @@ a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA:  $a^{2}  \cdo
 
 
 
-## UNITA' 4: Rapporti di monomi
+## UNITA' 4: Rapporti di monomi e frazioni algebriche
 
-Il rapporto tra due monomi è  un monomio solo se i due monomi della frazione contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi termini non sono più presenti lettere al denominatore.
+Il rapporto (la divisione) tra due monomi è un monomio solo se i due monomi da dividere contengono lettere che è possibile semplificare e nella frazione ridotta ai minimi termini non sono più presenti lettere al denominatore.
 
-Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***. La forma canonica di una frazione algebrica è un numero che moltiplica il rapporto tra due monomi entrambi con parte numerica intera.
+Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una espressione letterale detta ***frazione algebrica***. La forma canonica di una frazione algebrica è data dal rapporto tra due monomi in forma canonica o da un numero che moltiplica il rapporto tra due monomi entrambi con parte numerica intera.
 
 #### ESEMPIO 1
 
-La frazione algebrica $\dfrac{2ab^2}{-3ax}$ non è in forma canonica. Semplificando le lettere e facendo il rapporto delle due parti numeriche otteniamo
+Se dividiamo $-3xy^2$ per $2y$ abbiamo:
+
+a) $\dfrac{-3xy^\cancel2}{2\cancel{y}}$
+
+b) $\dfrac{-3xy}{2}$
+
+c) $-\dfrac{3}{2}xy$  che è il risultato della divisione ed è un monomio.    $\bullet$
+
+#### ESEMPIO 2
+
+Se dividiamo $2ab$ per $-3ax$ otteniamo: 
 
 a) $\dfrac{2ab^2}{-3ax}$
 
-b) $-\dfrac{2b^2}{3x}$ oppure $-\dfrac{2}{3}\dfrac{b^2}{x}$, entrambe forme canoniche.
+b) $\dfrac{2\cancel{a}b^2}{-3\cancel{a}x}$
 
-Analogamente abbiamo
+b) $-\dfrac{2b^2}{3x}$  che è il risultato della divisione. 
 
-a) $\dfrac{-3xy^2}{\dfrac{1}{3}y}$ $
-
-b) $-3 \cdot 3 xy$
-
-c) $-9xy$.    $ \bullet$
+Questa espressione non è un monomio ma una frazione algebrica in forma canonica.   $\bullet$
 
 
 

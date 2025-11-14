@@ -43,17 +43,50 @@ Usare la frazione come divisione significa che in tutti i casi in cui la divisio
 
 #### ESEMPIO 2
 
-Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Osserviamo poi che la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare.   $\bullet$
-
-#### ESEMPIO 3
+Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Come si vede, la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare, cioè quella di raggruppare ii termini dell'espressione da dividere e quelli per cui viene divisa. Ulteriori esempi sono i seguenti.
 
 L'espressione $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ in notazione lineare si esprime come $2:3 \cdot (1 + 2 \cdot 3):5$.
 
 Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.    $ \bullet$
 
-Il rapporto tra due numeri interi può essere positivo o negativo e la **forma canonica** di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$
+
+
+#### Frazioni per misurare una quantità rispetto ad un'altra
+
+Il terzo contesto d'uso delle frazioni è per misurare una quantità "rispetto" (o "in rapporto") ad un'altra che utilizziamo come unità di riferimento. Facciamo due esempi.
+
+#### ESEMPIO 3
+
+In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno è atteso con novanta minuti di ritardo". Che ritardo ha il treno?
+
+1. Prima risposta: $90$ minuti (numero intero);
+2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
+
+Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).     $\bullet$
+
+
+
+Una misura è sempre ottenuta calcolando quante volte l'unità di misura (minuti o ore) "entra" nella quantità da misurare (nell'esempio, il ritardo del treno). Nella prima risposta l'unità di misura utilizzata è il minuto, nella seconda è l'ora e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia **facendo la divisione** tra il ritardo (misurato in minuti) e l'ora espressa in minuti, per cui $90 : 60 \longrightarrow 1,5$.
 
 #### ESEMPIO 4
+
+La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
+
+1. Prima risposta: due uova (numero intero);
+2. Seconda risposta: mezza scatola (numero frazionario).
+
+Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
+Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
+
+Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.    $\bullet$
+
+
+
+#### Forma normale delle frazioni
+
+Il rapporto tra due numeri interi può essere positivo o negativo e la forma **normale** (o canonica) di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$
+
+#### ESEMPIO 5
 
 Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4} \longleftrightarrow -\dfrac{3}{4}$ mentre $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
 
@@ -66,37 +99,6 @@ a)  $-\dfrac{(3)}{4} \longleftrightarrow -\dfrac{3}{4}$;
 b) $-\dfrac{(-3)}{4} \longleftrightarrow +\dfrac{3}{4}$; Qui abbiamo il prodotto di $-1$ per la frazione $\dfrac{-3}{4}$.
 
 c) $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$    $\bullet$
-
-
-
-#### Frazioni per misurare una quantità rispetto ad un'altra
-
-Il terzo contesto d'uso delle frazioni è per misurare una quantità "rispetto ad un altra" o "in rapporto ad un'altra" che utilizziamo come unità di riferimento. Facciamo due esempi.
-
-#### ESEMPIO 5
-
-In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno è atteso con novanta minuti di ritardo". Che ritardo ha il treno?
-
-1. Prima risposta: $90$ minuti (numero intero);
-2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
-
-Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).     $\bullet$
-
-
-
-Una misura è sempre ottenuta calcolando quante volte l'unità di misura "entra" nella quantità da misurare: nel primo caso l'unità di misura è il minuto, nel secondo caso è l'ora e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia facendo la divisione tra i minuti da misurare e l'ora espressa in minuti, per cui $90 : 60 \longrightarrow 1,5$.
-
-#### ESEMPIO 6
-
-La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
-
-1. Prima risposta: due uova (numero intero);
-2. Seconda risposta: mezza scatola (numero frazionario).
-
-Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
-Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
-
-Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.    $\bullet$
 
 
 
@@ -412,7 +414,7 @@ Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che
 
 #### ESEMPIO 1
 
-a)  $-\overset{\downarrow}{\phantom|} \dfrac{1 \overset{\downarrow}{\phantom,}-2  \overset{\downarrow}{\cdot} 3 \phantom{,} \downarrow}{5 \overset{\downarrow}{\phantom{,}} -1}$ $\Longleftrightarrow -(1 - 2 \cdot 3):(5 -1)$ ha 6 numeri e 5 operazioni
+a)  $-\overset{\downarrow}{\phantom|} \dfrac{1 \overset{\downarrow}{\phantom,}-2  \overset{\downarrow}{\cdot} 3 \phantom{,} \downarrow}{5 \overset{\downarrow}{\phantom{,}} -1}$ $\Longleftrightarrow -(1 - 2 \cdot 3):(5 -1)$ ha 6 numeri e 5 operazioni. Eseguiamo la moltiplicazione a numeratore.
 
 b) $-\dfrac{1-6}{5-1}$ $\Longleftrightarrow -(1 - 6):(5-1)$
 
