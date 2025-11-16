@@ -205,9 +205,7 @@ Per ciascuno dei seguenti problemi individua le quantità di cui si parla nel te
 "Quest'anno i ricavi saranno il doppio di quelli dell'anno scorso". Scrivi l'espressione dei ricavi di quest'anno.
 
 1. Quantità che determina la soluzione: $x,$ ricavi dell'anno scorso
-2. Soluzione: $2\cdot x,$ ricavi di quest'anno
-
-
+2. Soluzione: $2\cdot x,$ ricavi di quest'anno.     $\bullet$
 
 a) Scrivi una espressione letterale che risolve i seguenti problemi:
 
@@ -267,7 +265,7 @@ $-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$;
 
 $5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;       
 
-$-3x + 2x^2 \longrightarrow -3x + 2x^2$   I monomi non si sommano e la somma **non è un monomio!** .
+$-3x + 2x^2 \longrightarrow -3x + 2x^2$   I monomi non si sommano e la somma **non è un monomio!** .    $\bullet$
 
 
 
@@ -374,17 +372,17 @@ Se questo non succede il rapporto tra i due monomi **non** è un monomio ma una 
 
 #### ESEMPIO 1
 
-Se dividiamo $-3xy^2$ per $2y$ abbiamo:
+Se dividiamo $-3xy^2$ per $2y$ abbiamo:
 
 a) $\dfrac{-3xy^\cancel2}{2\cancel{y}}$
 
 b) $\dfrac{-3xy}{2}$
 
-c) $-\dfrac{3}{2}xy$  che è il risultato della divisione ed è un monomio.    $\bullet$
+c) $-\dfrac{3}{2}xy$  che è il risultato della divisione ed è un monomio.    $\bullet$
 
 #### ESEMPIO 2
 
-Se dividiamo $2ab$ per $-3ax$ otteniamo: 
+Se dividiamo $2ab$ per $-3ax$ otteniamo: 
 
 a) $\dfrac{2ab^2}{-3ax}$
 
@@ -487,37 +485,59 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando
 
 
 
-## UNITA' 6: Prodotti di polinomi per monomi e somme di polinomi
+## UNITA' 6: Prodotti di monomi per polinomi e somme di polinomi
 
-Il prodotto di un monomio per un polinomio è un polinomio che si ottiene sommando (algebricamente) tra di loro i prodotti del monomio per i monomi del polinomio.
+Il prodotto di un monomio per un polinomio da come risultato un polinomio che si ottiene sommando (algebricamente) tra di loro i prodotti del monomio per i monomi del polinomio.
 
 #### ESEMPIO 1
 
-Nel prodotto $2(x^2 + x)$ Il monomio che moltiplica è il solo numero $2$; il procedimento è il seguente.
+Nel prodotto $-2(x^2 - x)$ Il monomio che moltiplica è il solo numero $-2$; Poiché non è possibile effettuare operazioni all'interno della parentesi, procediamo con la moltiplicazione al di fuori.
 
-a) $2(x^2 + x)$
+a) $-2(x^2 - x)$
 
-b) $2 \cdot (x^2) +2 \cdot (+x)$ 
+b) $-2 \cdot (x^2) -2 \cdot (-x)$ 
 
-c) $2x^2+ 2x$    $\bullet$
+c) $-2x^2+ 2x$    $\bullet$
 
 
 
 #### ESEMPIO 2
 
-Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -3 -3b$;
+Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -3 -3b$;    $\bullet$
 
-Il prodotto $-3(1 - b)$ equivale a $-3 \cdot (1) -3 \cdot (-b)$ $\longrightarrow$ $ -3 + 3b$;
 
-Il prodotto $a^2(ab^2 -\dfrac{c}{2})$ è calcolato come segue:
 
-a) $a^2(ab^2 -\dfrac{c}{2})$
+Se il monomio che moltiplica è a destra del polinomio lo possiamo spostare a sinistra e procedere come prima
 
-b) $a^2(ab^2) + a^2(-\dfrac{c}{2})$
+#### ESEMPIO 3
 
-c) $a^3b - \dfrac{1}{2}a^2c$.
+a) $(1 - b)(-3)$ equivale a 
 
-Provare ad eseguire ciascuno degli esempi in GEOGEBRA, inserendo i prodotti (ricordare di inserire sempre i segni delle operazioni di moltiplicazione tra lettere!) e dando invio.      $ \bullet$
+b) $-3 (1-b)$
+
+c) $-3 \cdot (1) -3 \cdot (-b)$
+
+d) $ -3 + 3b$.     $\bullet$
+
+
+
+Anche nel caso ci sia più di un monomio che moltiplica il polinomio, i monomi a destra del polinomio si spostano a sinistra.
+
+#### ESEMPIO 4
+
+Il prodotto $a^2(ab^2 -\dfrac{c}{2})(-b)$ è calcolato come segue:
+
+a) $a^2(ab^2 -\dfrac{c}{2})(-b)$
+
+b) $a^2(-b)(ab^2 -\dfrac{c}{2})$
+
+c) $-a^2b(ab^2 -\dfrac{c}{2})$
+
+b) $-a^2b(ab^2) -a^2b(-\dfrac{c}{2})$
+
+c) $-a^3b^3 + \dfrac{1}{2}a^2bc$.    $\bullet$
+
+Provare ad eseguire ciascuno degli esempi in GEOGEBRA, inserendo i prodotti (ricordare di inserire sempre i segni delle operazioni di moltiplicazione tra lettere!) e dando invio.
 
 
 
@@ -525,27 +545,19 @@ Provare ad eseguire ciascuno degli esempi in GEOGEBRA, inserendo i prodotti (ric
 
 a) Scrivi il polinomio risultato dei prodotti seguenti.
 
-1. $6\left(x^{2}-2y\right)$;     $\left(-2\right)\,\cdotp\left(-3xy+2\right)$;
+1. $6(x^{2}-2y)$;     $-2 \cdot (-3xy+2)$;
 
-2. $a\left(x+a\right)$;     $b\left(by-1\right)$ ;
+2. $(x+a)a$;     $(by-1)b$ ;
 
-3. $\left(-4x^{2}y\right)\,\cdotp\left(-x^{3}+2xy-y\right)$ ;
+3. $-4x^{2}y \cdot (-x^{3}+2xy-y)$ ;
 
-4. $-4x\left(2x+3y\right)-3y\left(-4x+y\right)-2\left(4x^{2}+3y^{2}\right)$ .
-
-#### Laboratorio GEOGEBRA
-
-Risolvi alcuni punti dell'esercizio a) con la sequenza di istruzioni GEOGEBRA riportata di seguito:
-
-1. $6 \cdot \left(x^{2}-2y\right)$ &#9166; 
-2. $\left(-2\right)\,\cdotp\left(-3xy+2\right)$ &#9166;  
-3. $\left(-4x^{2} \cdot y\right)\,\cdotp\left(-x^{3}+2x \cdot y-y\right)$ &#9166;  $\bullet$
+4. $(2x+3y)(-4x) -3y(-4x+y) + (4x^{2}+3y^{2})(-2)$ .
 
 
 
 ### Somme di polinomi
 
-La somma di due polinomi si ottiene sommando tra di loro tutti i monomi di entrambi i polinomi.
+La somma di due polinomi si ottiene sommando (algebricamente) tra di loro tutti i monomi di entrambi i polinomi.
 
 ### ESERCIZIO 6.2 - Somma di polinomi
 
@@ -583,17 +595,19 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 ## UNITA' 6: Prodotti di polinomi
 
-Il prodotto di due polinomi è un polinomio che si scrive moltiplicando ogni monomio del primo polinomio per il secondo polinomio e sommando questi prodotti.
+Il prodotto di due polinomi è un polinomio che si calcola moltiplicando ogni monomio del primo polinomio per il secondo polinomio e sommando questi prodotti.
 
 #### ESEMPIO 1
 
 Nell'esempio seguente il primo polinomio è formato dai monomi $+a$ e $+b$ per cui moltiplichiamo ognuno per il secondo polinomio e poi sommiamo:
 
-a) $(a + b)(c+d)$
+a) $(a + b)(c - d)$
 
-b) $a(c+d)+b(c+d)$
+b) $a(c - d) + b(c - d)$
 
-c) $a \cdot c + a \cdot d +b \cdot c +b \cdot d$     $\bullet$
+c) $a \cdot (c) + a \cdot (-d) + b \cdot (c) +b \cdot (-d)$
+
+d) $ac - a + bc -bd$     $\bullet$
 
 
 
@@ -609,7 +623,7 @@ d) $1 + x - x -x^2$
 
 e) $1 - x^2$.    $\bullet$
 
-Provare ad eseguire i prodotti negli esempi con il comando GEOGEBRA $Sviluppa((a + b)(c+d))$.
+Provare ad eseguire i prodotti negli esempi con il comando GEOGEBRA $Sviluppa((a + b)(c-d))$.
 
 
 

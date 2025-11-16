@@ -78,7 +78,7 @@ La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quan
 Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
 Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
 
-Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione.    $\bullet$
+Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. Se la scatola fosse stata di $6$ uova avremmo avuto $\dfrac{2}{6}$ ossia le uova mangiate sarebbero state $\dfrac{1}{3}$ di scatola.     $\bullet$
 
 
 
@@ -398,11 +398,19 @@ b) Calcola il valore delle seguenti espressioni.
 
 ## UNITA' 4: Divisione tra frazioni ed espressioni con le frazioni
 
-Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{3}{4} : \dfrac{5}{2}$. Cosa rappresenta la divisione tra frazioni?
+Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{2}{1} : \dfrac{1}{2}$. 
 
-Per trovare il risultato dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo. 
+Il risultato della divisione tra due frazioni si calcola trasformando la divisione in una moltiplicazione della prima frazione per il reciproco della seconda: $\dfrac{2}{1} \cdot \dfrac{2}{1} \longrightarrow \dfrac{4}{1}$. 
 
-Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ **costruiamo il risultato** moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
+Se però riflettiamo, in questo caso stiamo dividendo il numero $2$ per una quantità non più intera per cui non riusciamo a capire in quante parti uguali dobbiamo dividere $2$ per trovare il risultato.
+
+Cosa rappresenta allora la divisione tra frazioni?
+
+Per trovare il risultato dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo.
+
+Se abbiamo $\dfrac{2}{1}:\dfrac{1}{2}$ **costruiamo il risultato** moltiplicando $\dfrac{2}{1}$ per il reciproco del divisore, cioè $\dfrac{2}{1}$. Il risultato sarà $\dfrac{2}{1} \cdot \dfrac{2}{1}$ cioè $4$ perché $4$, moltiplicato per il divisore $\dfrac{1}{2}$ darà $\dfrac{2}{1}$.  
+
+Vediamo un altro esempio. Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
 
 $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.   
 
