@@ -709,7 +709,9 @@ b) $2(y-1) + 1$     Moltiplicando e facendo le somme abbiamo
 
 c) $2(y-1) + 1$
 
-d) $2y -1$.     $ \bullet$
+d) $2y- 2 + 1$
+
+e) $2y -1$     $\bullet$
 
 
 
@@ -723,7 +725,7 @@ b) $2a(1 + a^2 -1)$
 
 c) $2a(a^2)$
 
-d) $2a^3$.    $ \bullet$
+d) $2a^3$    $\bullet$
 
 
 

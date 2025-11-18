@@ -31,7 +31,7 @@ Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre 
 
 #### Frazioni come divisioni
 
-Il secondo contesto è l'uso delle frazioni per indicare delle divisioni, che non calcoliamo e lasciamo indicate e che avrebbero come risultato un numero decimale: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il confronto tra la frazione ed il suo risultato ci evidenzia quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+Il secondo contesto è l'uso delle frazioni per indicare delle divisioni, che non calcoliamo e lasciamo indicate e che avrebbero come risultato un numero decimale e non intero: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il confronto tra la frazione ed il suo risultato ci evidenzia quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
 Il passaggio dalla frazione al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
@@ -47,7 +47,7 @@ Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere
 
 L'espressione $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ in notazione lineare si esprime come $2:3 \cdot (1 + 2 \cdot 3):5$.
 
-Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazione lineare è $(2:3) : ((1 - 2 \cdot 3):5)$.    $ \bullet$
+Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazione lineare è $2:3:((1 - 2 \cdot 3):5)$.    $\bullet$
 
 
 
@@ -418,7 +418,7 @@ $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightar
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni intere. Il primo passo è calcolare le espressioni al numeratore e  al denominatore dei rapporti in modo che i rapporti stessi diventano delle frazioni. La linea di frazione raggruppa i numeri come come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ deve essere calcolata come se fosse $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri, le stesse operazioni e le stesse regole di precedenza. Ricordare che nelle operazioni tra numeri razionali le frazioni non devono essere trasformate in numeri decimali durante il calcolo.
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni intere. Il primo passo è calcolare le espressioni al numeratore e  al denominatore dei rapporti in modo che i rapporti stessi diventano delle frazioni. La linea di frazione raggruppa i numeri come come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ deve essere calcolata come se fosse $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri, le stesse operazioni e le stesse regole di precedenza. Ricordare che nelle operazioni tra numeri razionali i rapporti che non hanno un risultato intero non devono essere trasformate in numeri decimali durante il calcolo ma devono restare frazioni.
 
 #### ESEMPIO 1
 
@@ -466,7 +466,7 @@ h) $-7$    $\bullet$
 
 #### ESEMPIO 4
 
-Indicando con $:$ i rapporti che non sono già numeri razionali abbiamo: 
+Indicando con $:$ i rapporti che non sono già numeri razionali abbiamo: 
 
 a) $-\dfrac{-\dfrac{1}{2}}{10 + \dfrac{5}{2}}$ $\Longleftrightarrow-(-\dfrac{1}{2}):(10 + \dfrac{5}{2})$ ha 7 numeri e 6 operazioni
 
@@ -476,7 +476,7 @@ c) $\dfrac{\dfrac{1}{2}}{\dfrac{25}{2}}$ $\Longleftrightarrow \dfrac{1}{2}:\dfra
 
 d) $\dfrac{1}{2} \cdot \dfrac{2}{25}$ $\Longleftrightarrow \dfrac{1}{2} \cdot \dfrac{2}{25}$
 
-e) $\dfrac{1}{25}$     $\bullet$
+e) $\dfrac{1}{25}$     $\bullet$
 
 
 
@@ -630,14 +630,34 @@ e) $\dfrac{9}{25}$    $\bullet$
 
 
 
+E' possibile effettuare sostituzioni di una lettera con intere espressioni numeriche oltre che con singole frazioni come nel caso seguente.
+
+#### ESEMPIO 2
+
+a) $x^2 + 1 ,\  \{x=1 - \dfrac{2}{5}\}$;
+
+b) $\left(1 - \dfrac{2}{5}\right)^2 + 1$;
+
+c) $\left(\dfrac{5}{5} - \dfrac{2}{5}\right)^2 + 1$;
+
+d) $\left(\dfrac{3}{5}\right)^2 + 1$;
+
+e) $\left(\dfrac{9}{25}\right) + 1$;
+
+f) $\dfrac{9}{25} + \dfrac{25}{25}$;
+
+g) $\dfrac{34}{25}$.
+
+
+
 ### ESERCIZIO 5.1 - Sostituzioni (I)
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
 
 1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
-2. $-2 \cdot x + x^2 + 1,\ \{x=\dfrac{2}{5}\}$;
-3. $(1 - y) \cdot y + 3,\ \{y=-\dfrac{5}{2}\}$;
-4. $(1 - y) \cdot y + 3,\ \{y=\dfrac{1}{2}\}$;     $(1 - y) \cdot y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y) \cdot y + 3,\ [y=\dfrac{0}{2}]$;     $(1 - y) \cdot y + 3,\ \{y=\dfrac{4}{2}\}$.
+2. $-2 \cdot x + x^2 + 1,\ \{x=-\dfrac{2}{5}\}$;
+3. $(1 - y) \cdot y + 3,\ \{y=-\dfrac{5}{2} -1\}$;
+4. $(1 - y) \cdot y + 3,\ \{y=\dfrac{1}{2} + 1\}$;     $(1 - y) \cdot y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y) \cdot y + 3,\ [y=\dfrac{0}{2}]$.
 
 
 

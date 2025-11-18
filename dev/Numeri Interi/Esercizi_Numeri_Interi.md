@@ -735,13 +735,13 @@ a) $x + 3 \cdot x;$      b) $x - x : 2;$      c) $4 \cdot x - (x : 3 + 22);$
 
 ### ESERCIZIO 7.4 - Ricerca di sostituzioni
 
-a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere a e b rendono l'uguaglianza vera.
+a) Per ciascuna delle uguaglianze seguenti trova una coppia di numeri che sostituita ordinatamente alle lettere $a$ e $b$ rendono l'uguaglianza vera.
 
 1. $a+b=5;$
 2. $a-b=5;$
 3. $a+b=2;$
 
-b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostituite ordinatamente alle lettere a e b rendono l'uguaglianza vera.
+b) Per ciascuna delle uguaglianze seguenti trova tre coppie di numeri che sostituite ordinatamente alle lettere $a$ e $b$ rendono l'uguaglianza vera.
 
 1. $a+b=0;$
 2. $b=a+1;$
@@ -858,3 +858,28 @@ b) Calcola il valore delle seguenti espressioni.
 2. $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
 3. $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
 
+
+
+## UNITA' 9: Sostituzioni con espressioni intere
+
+Oltre alle sostituzioni di lettere con numeri interi, è possibile sostituire a lettere di espressioni letterali delle intere espressioni composte da numeri interi come nel caso seguente:
+
+a) $2 \cdot c + 1, \{c = 1-2 \cdot3 \}$
+
+b) $2 \cdot (1-2 \cdot 3) + 1$
+
+La sostituzione va fatta tra parentesi e l'espressione risultante, numerica, può essere calcolata come tutte le altre.
+
+
+
+#### ESERCIZIO 9.1
+
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere le espressioni indicate tra parentesi graffe e poi calcola il loro valore.
+
+1. $x^2,\ \{x=1 + 1\};$     $x^2,\ \{x=-4 + 2\};$
+2. $-2 \cdot x + x^2 + 1,\ \{x=2 \cdot 3\}$;     $-2x + x^2 + 1,\ \{x=-2 \cdot 3 + 1\}$.
+
+b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore (ogni sostituzione riguarda due lettere).
+
+1. $3-a^{3}-2 \cdot b^{2}+a^{2}\text{·}(a-b),\ \{a=2 + 3,\ b=-2 - 3\}$  
+2. $3 \cdot a \cdot b-5 \cdot a^{2}+3 \cdot a-1,\ \{a=2-4,\ b= 1-9\}$.
