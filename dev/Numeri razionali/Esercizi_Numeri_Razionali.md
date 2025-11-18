@@ -78,7 +78,7 @@ La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quan
 Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
 Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
 
-Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. Se la scatola fosse stata di $6$ uova avremmo avuto $\dfrac{2}{6}$ ossia le uova mangiate sarebbero state $\dfrac{1}{3}$ di scatola.     $\bullet$
+Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. Se la scatola fosse stata di $6$ uova avremmo avuto $\dfrac{2}{6}$ ossia le uova mangiate sarebbero state $\dfrac{1}{3}$ di scatola.     $\bullet$
 
 
 
@@ -402,13 +402,13 @@ Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un e
 
 Il risultato della divisione tra due frazioni si calcola trasformando la divisione in una moltiplicazione della prima frazione per il reciproco della seconda: $\dfrac{2}{1} \cdot \dfrac{2}{1} \longrightarrow \dfrac{4}{1}$. 
 
-Se però riflettiamo, in questo caso stiamo dividendo il numero $2$ per una quantità non più intera per cui non riusciamo a capire in quante parti uguali dobbiamo dividere $2$ per trovare il risultato.
+Se però riflettiamo, in questo caso stiamo dividendo il numero $2$ per una quantità non più intera per cui non riusciamo a capire in quante parti uguali dobbiamo dividere $2$ per trovare il risultato.
 
 Cosa rappresenta allora la divisione tra frazioni?
 
 Per trovare il risultato dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo.
 
-Se abbiamo $\dfrac{2}{1}:\dfrac{1}{2}$ **costruiamo il risultato** moltiplicando $\dfrac{2}{1}$ per il reciproco del divisore, cioè $\dfrac{2}{1}$. Il risultato sarà $\dfrac{2}{1} \cdot \dfrac{2}{1}$ cioè $4$ perché $4$, moltiplicato per il divisore $\dfrac{1}{2}$ darà $\dfrac{2}{1}$.  
+Se abbiamo $\dfrac{2}{1}:\dfrac{1}{2}$ **costruiamo il risultato** moltiplicando $\dfrac{2}{1}$ per il reciproco del divisore, cioè $\dfrac{2}{1}$. Il risultato sarà $\dfrac{2}{1} \cdot \dfrac{2}{1}$ cioè $4$ perché $4$, moltiplicato per il divisore $\dfrac{1}{2}$ darà $\dfrac{2}{1}$.  
 
 Vediamo un altro esempio. Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
 
@@ -418,7 +418,7 @@ $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightar
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni intere. Il primo passo è calcolare le espressioni al numeratore e  al denominatore dei rapporti in modo che i rapporti stessi diventano delle frazioni. La linea di frazione raggruppa i numeri come come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ deve essere calcolata come se fosse $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri, le stesse operazioni e le stesse regole di precedenza.
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni intere. Il primo passo è calcolare le espressioni al numeratore e  al denominatore dei rapporti in modo che i rapporti stessi diventano delle frazioni. La linea di frazione raggruppa i numeri come come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ deve essere calcolata come se fosse $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri, le stesse operazioni e le stesse regole di precedenza. Ricordare che nelle operazioni tra numeri razionali le frazioni non devono essere trasformate in numeri decimali durante il calcolo.
 
 #### ESEMPIO 1
 
@@ -464,7 +464,19 @@ g) $\dfrac{\cancel{90}^{\cancel{15}}}{\cancel{15}_1}\left( \dfrac{-7}{\cancel{6}
 
 h) $-7$    $\bullet$
 
+#### ESEMPIO 4
 
+Indicando con $:$ i rapporti che non sono già numeri razionali abbiamo: 
+
+a) $-\dfrac{-\dfrac{1}{2}}{10 + \dfrac{5}{2}}$ $\Longleftrightarrow-(-\dfrac{1}{2}):(10 + \dfrac{5}{2})$ ha 7 numeri e 6 operazioni
+
+b) $\dfrac{\dfrac{1}{2}}{10 + \dfrac{5}{2}}$ $\Longleftrightarrow \dfrac{1}{2}:(10 + \dfrac{5}{2})$
+
+c) $\dfrac{\dfrac{1}{2}}{\dfrac{25}{2}}$ $\Longleftrightarrow \dfrac{1}{2}:\dfrac{25}{2}$
+
+d) $\dfrac{1}{2} \cdot \dfrac{2}{25}$ $\Longleftrightarrow \dfrac{1}{2} \cdot \dfrac{2}{25}$
+
+e) $\dfrac{1}{25}$     $\bullet$
 
 
 
@@ -725,12 +737,13 @@ a) Calcola il valore delle seguenti potenze.
 1) $\left(\dfrac{3}{4}\right)^{2}$;    $\left(\dfrac{2}{3}\right)^{4}$;     $\left(\dfrac{1}{2}\right)^{5}$;     $\left(\dfrac{3}{2}\right)^{0}.$
 2) $\dfrac{3}{4}^{2}$;     $\dfrac{2}{3}^{4}$;     $\dfrac{1}{2^{5}}$;     $\dfrac{3^{0}}{2^{0}}$.
 3) $\left(-\dfrac{3}{4}\right)^{2}$;    $\left(-\dfrac{2}{3}\right)^{4}$;     $\left(-\dfrac{1}{2}\right)^{5}$;     $\left(-\dfrac{3}{2}\right)^{0}$.
+4) $\left(1-\dfrac{1}{2}\right)^{2}$;     $\left(2-\dfrac{5}{4}\right)^{0}$;     $\left(\dfrac{3}{2}-\dfrac{6}{4}\right)^{2}$.
 
-2. $\left(1-\dfrac{1}{2}\right)^{2}$;     $\left(2-\dfrac{5}{4}\right)^{0}$;     $\left(\dfrac{3}{2}-\dfrac{6}{4}\right)^{2}$.
+b) Calcola il valore delle seguenti espressioni applicando le proprietà delle potenze
 
-a) Calcola il valore delle seguenti espressioni applicando le proprietà delle potenze
-
-1. $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2$;     $\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6$;     $ \left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$.
+1. $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2$;
+1. $\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6$;
+1. $ \left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$.
 
 
 
