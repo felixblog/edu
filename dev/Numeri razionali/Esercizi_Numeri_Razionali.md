@@ -31,7 +31,7 @@ Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre 
 
 #### Frazioni come divisioni
 
-Il secondo contesto è l'uso delle frazioni per indicare delle divisioni, che non calcoliamo e lasciamo indicate e che avrebbero come risultato un numero decimale e non intero: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il confronto tra la frazione ed il suo risultato ci evidenzia quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+Il secondo contesto è l'uso delle frazioni per indicare **delle divisioni che non calcoliamo** e lasciamo indicate e che avrebbero come risultato un numero decimale e non intero: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il confronto tra la frazione ed il suo risultato ci evidenzia quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
 
 Il passaggio dalla frazione al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
@@ -43,7 +43,7 @@ Usare la frazione come divisione significa che in tutti i casi in cui la divisio
 
 #### ESEMPIO 2
 
-Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Come si vede, la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare, cioè quella di raggruppare ii termini dell'espressione da dividere e quelli per cui viene divisa. Ulteriori esempi sono i seguenti.
+Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare, senza trasformarla in decimale, è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Come si vede, la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare, cioè quella di raggruppare ii termini dell'espressione da dividere e quelli per cui viene divisa. Ulteriori esempi sono i seguenti.
 
 L'espressione $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ in notazione lineare si esprime come $2:3 \cdot (1 + 2 \cdot 3):5$.
 
@@ -418,21 +418,29 @@ $\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightar
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni intere. Il primo passo è calcolare le espressioni al numeratore e  al denominatore dei rapporti in modo che i rapporti stessi diventano delle frazioni. La linea di frazione raggruppa i numeri come come una parentesi, per cui $\dfrac{1-2 \cdot 3}{5-1}$ deve essere calcolata come se fosse $(1 - 2 \cdot 3):(5 -1)$, ossia ha gli stessi numeri, le stesse operazioni e le stesse regole di precedenza. Ricordare che nelle operazioni tra numeri razionali i rapporti che non hanno un risultato intero non devono essere trasformate in numeri decimali durante il calcolo ma devono restare frazioni.
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni. In questo caso i numeri sono interi, ma operando nel campo dei numeri razionali, tutti i numeri sono interpretabili come frazioni, per cui l'espressione è equivalente a:
+$$
+\dfrac{\dfrac{1}{1}-\dfrac{2}{1} \cdot \dfrac{3}{1}}{\dfrac{5}{1}-\dfrac{1}{1}}
+$$
+Adottando la convenzione che le frazioni siano scritte in forma normale e le divisioni tra espressioni in notazione lineare l'espressione è equivalente a $\left(\dfrac{1}{1}-\dfrac{2}{1} \cdot \dfrac{3}{1} \right): \left(\dfrac{5}{1}-\dfrac{1}{1}\right)$.
+
+Il primo passo è calcolare le espressioni al numeratore ed al denominatore del rapporto in modo da ottenere delle singole frazioni e poi proseguire fino all'ultima divisione.
 
 #### ESEMPIO 1
 
-a)  $-\overset{\downarrow}{\phantom|} \dfrac{1 \overset{\downarrow}{\phantom,}-2  \overset{\downarrow}{\cdot} 3 \phantom{,} \downarrow}{5 \overset{\downarrow}{\phantom{,}} -1}$ $\Longleftrightarrow -(1 - 2 \cdot 3):(5 -1)$ ha 6 numeri e 5 operazioni. Eseguiamo la moltiplicazione a numeratore.
+a)  $-\overset{\downarrow}{\phantom|} \dfrac{1 \overset{\downarrow}{\phantom,}-2  \overset{\downarrow}{\cdot} 3 \phantom{,} \downarrow}{5 \overset{\downarrow}{\phantom{,}} -1}$ $\Longleftrightarrow -\left(\dfrac{1}{1} - \dfrac{2}{1} \cdot \dfrac{3}{1}\right):\left(\dfrac{5}{1} - \dfrac{1}{1}\right)$ ha 6 numeri e 5 operazioni. Eseguiamo la moltiplicazione a numeratore.
 
-b) $-\dfrac{1-6}{5-1}$ $\Longleftrightarrow -(1 - 6):(5-1)$
+b) $-\dfrac{1-6}{5-1}$ $\Longleftrightarrow -\left(\dfrac{1}{1} - \dfrac{6}{1}\right):\left(\dfrac{5}{1} - \dfrac{1}{1}\right)$
 
-c) $-\dfrac{-5}{5-1}$ $\Longleftrightarrow -(-5):(5-1)$
+c) $-\dfrac{-5}{5-1}$ $\Longleftrightarrow -\left(-\dfrac{5}{1}\right):\left(\dfrac{5}{1} - \dfrac{1}{1}\right)$
 
-d) $\dfrac{5}{5-1}$ $\Longleftrightarrow 5:(5-1)$
+d) $\dfrac{5}{5-1}$ $\Longleftrightarrow \dfrac{5}{1}:\left(\dfrac{5}{1} - \dfrac{1}{1}\right)$
 
-e) $\dfrac{5}{4}$ $\Longleftrightarrow 5:(4)$
+e) $\dfrac{5}{4}$ $\Longleftrightarrow \dfrac{5}{1}:\left(\dfrac{4}{1}\right)$
 
-f) $\dfrac{5}{4}$      $\bullet$
+f) $\dfrac{5}{4}$ $\Longleftrightarrow \dfrac{5}{1}:\left(\dfrac{4}{1}\right)$
+
+g) $\dfrac{5}{4}$      $\bullet$
 
 
 
