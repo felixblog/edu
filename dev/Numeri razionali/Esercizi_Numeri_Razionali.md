@@ -415,13 +415,19 @@ Se però riflettiamo, in questo caso stiamo dividendo il numero $2$ per una quan
 
 Cosa rappresenta allora la divisione tra frazioni?
 
-Per trovare il risultato dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo.
+Dobbiamo pensare alla definizione di divisione come l'operazione il cui risultato è il numero che moltiplicato per il divisore mi dà il dividendo.
 
 Se abbiamo $\dfrac{2}{1}:\dfrac{1}{2}$ **costruiamo il risultato** moltiplicando $\dfrac{2}{1}$ per il reciproco del divisore, cioè $\dfrac{2}{1}$. Il risultato sarà $\dfrac{2}{1} \cdot \dfrac{2}{1}$ cioè $4$ perché $4$, moltiplicato per il divisore $\dfrac{1}{2}$ darà $\dfrac{2}{1}$.  
 
 Vediamo un altro esempio. Se abbiamo $\dfrac{3}{4}:\dfrac{5}{2}$ costruiamo il risultato moltiplicando $\dfrac{3}{4}$ per il reciproco del divisore, cioè $\dfrac{2}{5}$. Il risultato sarà $\dfrac{3}{4}\cdot\dfrac{2}{5}$ perché questo prodotto, moltiplicato per il divisore $\dfrac{5}{2}$ darà $\dfrac{3}{4}$, infatti:
 
-$\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.   
+$\left( \dfrac{3}{4}\cdot\dfrac{2}{5} \right) \cdot \dfrac{5}{2}$  $\longrightarrow$ $\dfrac{3}{4}\cdot \left(\dfrac{2}{5} \cdot \dfrac{5}{2} \right)$ $\longrightarrow \dfrac{3}{4} \cdot 1 = \dfrac{3}{4}$.
+
+A cosa serve fare la divisione tra due frazioni?
+
+A trovare uno dei fattori di un prodotto quando conosciamo l'altro ed il risultato. Se Pierino fa una frittata, ci mette $6$ uova e facendo così consuma i $\dfrac{3}{4}$ di una confezione di uova, quante uova conteneva la confezione?
+
+Per risolvere il problema abbiamo che se indichiamo con $n$ il numero di uova della scatola, $\dfrac{3}{4} \cdot n = 6$ ed allora $n$ è uguale a $6 : \dfrac{3}{4}$, ossia $6 \cdot \dfrac{4}{3}$ cioè $8$ uova.
 
 
 
