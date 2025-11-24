@@ -322,7 +322,7 @@ d) $0$.   $\bullet$
 
 Durante il calcolo delle espressioni, le operazioni delle espressioni si riducono di numero; in particolare dentro le parentesi le operazioni diminuiscono finché alla fine dentro alla parentesi rimane solo un numero. 
 
-Noi togliamo le parentesi quando in esse è presente solo un numero (nessuna operazione) e si esegue **la prima operazione al di fuori della parentesi stessa**, come nell'esempio seguente quando eseguiamo la moltiplicazione nel passaggio da b) a c).
+Togliamo le parentesi quando in esse è presente **solo un numero** (nessuna operazione) e si esegue **la prima operazione di moltiplicazione o divisione al di fuori della parentesi stessa**, come nell'esempio seguente quando eseguiamo la moltiplicazione nel passaggio da b) a c).
 
 a) $-5 + (\underbracket{10 - 15}):5$
 

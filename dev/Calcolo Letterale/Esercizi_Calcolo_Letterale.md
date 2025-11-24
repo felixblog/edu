@@ -507,37 +507,39 @@ Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -
 
 
 
-Se il monomio che moltiplica è a destra del polinomio lo possiamo spostare a sinistra e procedere come prima
+#### Eliminazione delle parentesi
+
+Nel prodotto di un monomio per un polinomio, il polinomio è sempre racchiuso tra parentesi. La regola per eliminare le parentesi è leggermente diversa da quella utilizzata finora: le parentesi si eliminano quando **si esegue l'ultima operazione di moltiplicazione o divisione** che coinvolge il polinomio nella parentesi. 
+
+Se quindi ci sono due monomi che moltiplicano, uno a sinistra ed uno a destra del polinomio, la parentesi si elimina con il prodotto a destra. Dopo il prodotto a sinistra, davanti alla parentesi, si mette il segno "$+$", che scomparirà insieme alla parentesi.
 
 #### ESEMPIO 3
 
-a) $(1 - b)(-3)$ equivale a 
+a) $(1 - b)(-3)$
 
-b) $-3 (1-b)$
+b) $1 \cdot (-3) -b \cdot (-3)$
 
-c) $-3 \cdot (1) -3 \cdot (-b)$
-
-d) $ -3 + 3b$.     $\bullet$
-
-
-
-Anche nel caso ci sia più di un monomio che moltiplica il polinomio, i monomi a destra del polinomio si spostano a sinistra.
+c) $ -3 + 3b$.     $\bullet$
 
 #### ESEMPIO 4
 
-Il prodotto $a^2(ab^2 -\dfrac{c}{2})(-b)$ è calcolato come segue:
+a) $c -a(1 - b)(-3)$
 
-a) $a^2(ab^2 -\dfrac{c}{2})(-b)$
+b) $c +(-a \cdot 1 -a \cdot (-b))(-3)$   compare il segno $+$ davanti alla parentesi
 
-b) $a^2(-b)(ab^2 -\dfrac{c}{2})$
+c) $c +( -a + ab)(-3)$  Il segno $+$ davanti alla parentesi scomparirà con la parentesi
 
-c) $-a^2b(ab^2 -\dfrac{c}{2})$
+d) $c -a(-3) + ab(-3)$
 
-b) $-a^2b(ab^2) -a^2b(-\dfrac{c}{2})$
+e) $c +3a - 3ab$      $\bullet$
 
-c) $-a^3b^3 + \dfrac{1}{2}a^2bc$.    $\bullet$
 
-Provare ad eseguire ciascuno degli esempi in GEOGEBRA, inserendo i prodotti (ricordare di inserire sempre i segni delle operazioni di moltiplicazione tra lettere!) e dando invio.
+
+Provare ad eseguire ciascuno degli esempi in GEOGEBRA con il comando $Semplifica(\text{<espressione>})$ (ricordare di inserire sempre i segni delle operazioni di moltiplicazione tra lettere!):
+
+$Semplifica(c -a\cdot(1 - b)\cdot(-3))$  &#9166;
+
+$\Longrightarrow -3ab + 3a + c $
 
 
 
