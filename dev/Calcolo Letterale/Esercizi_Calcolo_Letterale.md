@@ -509,9 +509,9 @@ Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -
 
 #### Eliminazione delle parentesi
 
-Nel prodotto di un monomio per un polinomio, il polinomio è sempre racchiuso tra parentesi. La regola per eliminare le parentesi è leggermente diversa da quella utilizzata finora: le parentesi si eliminano quando **si esegue l'ultima operazione di moltiplicazione o divisione** che coinvolge il polinomio nella parentesi. 
+Nel prodotto di un monomio per un polinomio, il polinomio è sempre racchiuso tra parentesi; le parentesi si eliminano **dopo l'ultima operazione di moltiplicazione o divisione** che coinvolge il polinomio in parentesi. 
 
-Se quindi ci sono due monomi che moltiplicano, uno a sinistra ed uno a destra del polinomio, la parentesi si elimina con il prodotto a destra. Dopo il prodotto a sinistra, davanti alla parentesi, si mette il segno "$+$", che scomparirà insieme alla parentesi.
+Se quindi ci sono due monomi che moltiplicano, uno a sinistra ed uno a destra del polinomio, la parentesi si elimina dopo la moltiplicazione con il prodotto a destra. Dopo il primo prodotto a sinistra, davanti alla parentesi si mette il segno "$+$", che scomparirà alla fine insieme alla parentesi.
 
 #### ESEMPIO 3
 
@@ -525,13 +525,13 @@ c) $ -3 + 3b$.     $\bullet$
 
 a) $c -a(1 - b)(-3)$
 
-b) $c +(-a \cdot 1 -a \cdot (-b))(-3)$   compare il segno $+$ davanti alla parentesi
+b) $c +(-a \cdot 1 -a \cdot (-b))(-3)$   compare il segno $+$ davanti alla parentesi del polinomio;
 
-c) $c +( -a + ab)(-3)$  Il segno $+$ davanti alla parentesi scomparirà con la parentesi
+c) $c +( -a + ab)(-3)$
 
-d) $c -a(-3) + ab(-3)$
+d) $c +(+3a - 3ab)$  il segno $+$ scompare con la moltiplicazione per $+1$;
 
-e) $c +3a - 3ab$      $\bullet$
+e) $c +3a - 3ab$      $ \bullet$
 
 
 
@@ -539,7 +539,7 @@ Provare ad eseguire ciascuno degli esempi in GEOGEBRA con il comando $Semplifica
 
 $Semplifica(c -a\cdot(1 - b)\cdot(-3))$  &#9166;
 
-$\Longrightarrow -3ab + 3a + c $
+$\Longrightarrow -3ab + 3a + c $
 
 
 

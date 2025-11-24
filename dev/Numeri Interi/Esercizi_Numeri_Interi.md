@@ -334,7 +334,7 @@ d) $-5 \; \underline{-1}$
 
 e) $-6$
 
-Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, **calcoliamo la potenza e mettiamo il risultato dentro la parentesi senza toglierla**, come nel passaggio da b) a c) dell'esempio seguente:
+Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, **calcoliamo la potenza e mettiamo il risultato dentro la parentesi senza toglierla**, come nel passaggio da b) a c) dell'esempio seguente, in attesa della prima moltiplicazione o divisione per toglierla:
 
 a) $-5 -1 \cdot (\underbracket{10 - 15})^3$
 
