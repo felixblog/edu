@@ -412,7 +412,7 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 ## UNITA' 5: Polinomi 
 
-La somma algebrica di più monomi (non tutti simili) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***.
+La somma algebrica di più monomi (solo somma algebrica, senza alcuna parentesi) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***.
 
 Un polinomio è in ***forma normale*** (o **canonica**) se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado decrescente ed in ordine alfabetico tra quelli dello stesso grado.
 
@@ -422,7 +422,15 @@ L'espressione letterale $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2}$ è una somma 
 
 
 
-Il grado di un polinomio coincide con quello del suo monomio di grado massimo, per cui il grado del monomio dell'esempio precedente è $4$. Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio $x$, $-2x + 1$, $6x^5 -\dfrac{2}{3}x^3 + 2x$. In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
+Il **grado** di un polinomio coincide con quello del suo monomio di grado massimo, per cui il grado del monomio dell'esempio precedente è $4$. Particolarmente importanti sono i polinomi con una sola lettera, ad esempio la $x$ che vengono chiamati "polinomi in $x$", ad esempio:
+
+a) $x$;
+
+b) $-2x + 1$;
+
+c) $6x^5 -\dfrac{2}{3}x^3 + 2x$. 
+
+In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
 
 Da ultimo osserviamo che anche un singolo monomio si considera un caso particolare di polinomio con un solo termine.
 
@@ -487,11 +495,13 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando
 
 ## UNITA' 6: Prodotti di monomi per polinomi e somme di polinomi
 
-Il prodotto di un monomio per un polinomio da come risultato un polinomio che si ottiene sommando (algebricamente) tra di loro i prodotti del monomio per i monomi del polinomio.
+Il prodotto di un monomio per un polinomio, come ad esempio $\dfrac{3}{2}ab^2 \cdot (-x + 3xy)$, è una espressione che ha come risultato il polinomio ottenuto sommando (algebricamente) tra di loro i prodotti del monomio a fattore per tutti i monomi del polinomio.
+
+Il polinomio è scritto tra parentesi, perché il monomio a fattore deve moltiplicare tutti i monomi del polinomio e non solo quello più vicino.
 
 #### ESEMPIO 1
 
-Nel prodotto $-2(x^2 - x)$ Il monomio che moltiplica è il solo numero $-2$; Poiché non è possibile effettuare operazioni all'interno della parentesi, procediamo con la moltiplicazione al di fuori.
+Nel prodotto $-2(x^2 - x)$ Il monomio che moltiplica è il solo numero $-2$; il risultato della moltiplicazione è l'espressione del punto b).
 
 a) $-2(x^2 - x)$
 
@@ -503,7 +513,17 @@ c) $-2x^2+ 2x$    $\bullet$
 
 #### ESEMPIO 2
 
-Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -3 -3b$;    $\bullet$
+Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -3 -3b$.    $\bullet$
+
+
+
+#### ESEMPIO 3
+
+a) $\dfrac{3}{2}ab^2 \cdot (-x + 3xy)$
+
+b) $\dfrac{3}{2}ab^2 \cdot (-x) + \dfrac{3}{2}ab^2 \cdot (3xy)$
+
+c) $-\dfrac{3}{2}ab^2x + \dfrac{9}{2}ab^2xy$.       $\bullet$
 
 
 
@@ -595,7 +615,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-## UNITA' 6: Prodotti di polinomi
+## UNITA' 6: Prodotti di polinomi^*^
 
 Il prodotto di due polinomi è un polinomio che si calcola moltiplicando ogni monomio del primo polinomio per il secondo polinomio e sommando questi prodotti.
 
@@ -651,7 +671,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 ## UNITA' 7: Scomposizione in fattori di polinomi 
 
-Nelle unità precedenti abbiamo visto come si calcola il prodotto di un monomio per un polinomio ed il prodotto di due polinomi. Ora vediamo se e come si può scrivere un polinomio come prodotto tra un monomio ed un polinomio o prodotto di due polinomi. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché, come nel caso dei numeri in cui abbiamo scomposto un numero in fattori, ad esempio $15 = 3 \cdot 5$ oppure $12 = 3 \cdot 2^2$, ha l'obiettivo di scrivere un polinomio come prodotto di due o più monomi o polinomi detti fattori.
+Nelle unità precedenti abbiamo visto come si calcola il prodotto di un monomio per un polinomio (ed il prodotto di due polinomi). Ora vediamo se e come si può fare l'operazione inversa, ossia riconoscere se un polinomio si può anche scrivere come prodotto tra un monomio ed un polinomio. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché, come nel caso dei numeri in cui abbiamo scomposto un numero in fattori, ad esempio $15 = 3 \cdot 5$ oppure $12 = 3 \cdot 2^2$, ha l'obiettivo di scrivere un polinomio come prodotto.
 
 Il caso più semplice si ha quando i monomi che costituiscono il polinomio hanno dei fattori in comune: si estraggono tutti i fattori comuni e se ne fa un monomio che moltiplica il polinomio rimanente; questa operazione si dice **messa in in evidenza di un fattore**. Vediamo un esempio.
 
@@ -665,11 +685,7 @@ $\dfrac{-12ax^2}{3ax} \longrightarrow -4x$
 
 $\dfrac{6a^3x}{3ax} \longrightarrow 2a^2$
 
-Quindi alla fine la scomposizione in fattori è:
-
-a) $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x$
-
-b) $3ax(\dfrac{1}{4}ax -4x +2a^2 )$
+Quindi alla fine la scomposizione in fattori di $\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x$ è $3ax(\dfrac{1}{4}ax -4x +2a^2 )$.
 
 Il comando per effettuare l'operazione con GEOGEBRA è Fattorizza, per cui l'esempio precedente diventa il seguente:
 
