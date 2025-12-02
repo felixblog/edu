@@ -9,7 +9,7 @@ A cosa servono? Consideriamo ad esempio i triangoli; si sa che se conosciamo la 
 
 Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri che misurano la lunghezza della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
 
-Le lettere servono quindi a specificare come calcolare certe quantità, in questo caso l'area, conoscendone altre, base ed altezza, da cui le prime dipendono. 
+Le lettere servono quindi a specificare come calcolare certe quantità, in questo caso l'area, conoscendone altre, in questo caso base ed altezza, da cui le prime dipendono: ogni lettera occupa il posto di uno ed un solo numero, che sarà sostituito alla lettera quando vorremo utilizzare l'espressione in un caso concreto.  
 
 #### ESEMPIO 1
 
@@ -132,15 +132,13 @@ Abbiamo già detto che una espressione letterale non può essere calcolata, cio�
 
 #### ESEMPIO 1
 
-Ogni tanto gioco ad una lotteria, del tipo "gratta e vinci" in cui il premio cambia ogni giorno, ma è lo stesso per tutte le giocate di quel giorno. Se in un certo giorno gioco una volta e vinco, prendo $s$ euro. Se lo stesso giorno vinco due volte, in totale prenderò $s + s$ euro, che non so quanto fa, ma è sicuramente uguale a $2 \cdot s$ euro. Se vinco ancora una volta, in totale avrò vinto $2 \cdot s + s$ euro che, qualunque sia la somma $s$, è uguale a $3 \cdot s$ euro, che possiamo scrivere $3s$ euro.
+Ogni tanto gioco ad una lotteria, del tipo "gratta e vinci" in cui il premio cambia ogni giorno, ma è lo stesso per tutte le giocate di quel giorno. Dopo aver giocato diverse volte per alcune settimane risulta che ho vinto due volte il martedì e tre volte il venerdì. Se la vincita del martedì è pari ad $s$ euro e quella del venerdì è di $t$ euro, il totale delle vincite del martedì sarà $s + s$ e quelle del venerdì $t +t + t$ euro.
 
-Se, qualunque sia la vincita, devo pagare un euro alla ricevitoria per i costi di riscossione, la mia vincita netta in euro, nell'ultimo caso, sarà
+Non so quanto ho vinto il martedì ma sicuramente sarà $s + s$ cioè $2 \cdot s$ ossia il doppio della vincita del martedì e $t+t+t$ sarà $3t$ il triplo di quella del venerdì; in tutto posso dire di aver vinto $2s + 3t$.    $ \bullet$
 
-$s -1 + s - 1 + s - 1$ $ \longrightarrow$ 
 
-​	$3 \cdot s - 3$. 
 
-Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono delle lettere. Proprio per questo introduciamo il concetto di **monomio**. $ \bullet$
+Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con espressioni che contengono, oltre ai numeri, delle lettere, applicando delle regole. Proprio queste regole sono oggetto del calcolo letterale ed il primo concetto che incontriamo è quello di **monomio**.
 
 
 
@@ -523,7 +521,7 @@ a) $\dfrac{3}{2}ab^2 \cdot (-x + 3xy)$
 
 b) $\dfrac{3}{2}ab^2 \cdot (-x) + \dfrac{3}{2}ab^2 \cdot (3xy)$
 
-c) $-\dfrac{3}{2}ab^2x + \dfrac{9}{2}ab^2xy$.       $\bullet$
+c) $-\dfrac{3}{2}ab^2x + \dfrac{9}{2}ab^2xy$.       $\bullet$
 
 
 

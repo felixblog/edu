@@ -887,7 +887,7 @@ a) Calcola le percentuali richieste nei casi seguenti.
 1. In borsa una azienda vede in tre mesi il proprio titolo passare da $\text{13,5}$ a $\text{16}$ euro per azione. Di quanto è salito il titolo in percentuale? [R. $\text{18,52\%}$];
 2. Una automobile incrementa la sua velocità da $\text{80}$ a $\text{100\; Km/h}$. Di che percentuale è salita la velocità?
 3. Se durante i saldi di fine stagione spendo $\text{35}\;\texteuro$ comprando una maglia che ne costava $\text{60}$, che sconto ho avuto? ed in percentuale sul prezzo?
-4. Per fare la parmigiana di melanzane per $\text{6}$ persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di un bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+4. Per fare la parmigiana di melanzane per $\text{6}$ persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
 b) Calcola le quantità assolute richieste nei casi seguenti.
 
@@ -903,7 +903,7 @@ c) Considerando che Il grafico in figura riporta il fatturato di una azienda neg
 
 ![Grafico1](img\Ist-1.png)
 
-d) Comprando su Amazon si pagano, separatamente dal costo del prodotto, i costi di trasporto. Se per il trasporto di ciascun prodotto si pagano 5 euro e si fanno due acquisti distinti in cui, nel primo caso si pagano complessivamente 450 euro e nel secondo 60 euro, quanto incide il costo del trasporto sull'acquisto di ciascun prodotto? Se fossero spediti insieme, quanto inciderebbe il costo del trasporto sulla spesa totale?
+d) Comprando su Amazon si pagano, separatamente dal costo del prodotto, i costi di spedizione. Se per la spedizione di ciascun prodotto si pagano 5 euro e si fanno due acquisti distinti in cui, nel primo caso si pagano complessivamente 450 euro e nel secondo 60 euro, quanto incide il costo di spedizione sull'acquisto di ciascun prodotto? Se fossero acquistati e spediti insieme, sostenendo un costo di spedizione unico, quanto inciderebbe quest'ultimo sulla spesa totale?
 
 e) Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
 
