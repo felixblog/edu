@@ -162,7 +162,7 @@ $2$: monomio di grado $0$.   $\bullet$
 
 Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
-Una espressione letterale è fatta di somme, prodotti, rapporti e potenze di monomi come $a + b$,  $2 \cdot s + 3 \cdot s^2 + 1$ etc. 
+Il monomio è il "**mattone**" con cui costruiamo le espressioni letterali, che saranno quindi fatte di somme (algebriche), prodotti, e rapporti di monomi come $a + \dfrac{1}{2}ab^2$,  $2s + 3s^2 + 1$ etc. Notiamo che in queste espressioni, ad esempio $\dfrac{1}{2}ab^2$ sono monomi le singole lettere come pure il loro prodotto.
 
 
 
@@ -251,9 +251,13 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 ## UNITA' 3: Somme e prodotti di monomi
 
-Come abbiamo visto, due monomi come $2s$ e $3s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $5 \cdot s$. Questo accade solo se i due monomi hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***. 
+Come abbiamo visto, due monomi come $s$ ed $s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $2 \cdot s$, ossia l'espressione $s+ s$ sarà uguale a $2s$ per qualunque sostituzione. Questo accade per tutti i monomi che hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***, e solo per questi.
 
-Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$): il risultato della somma di due monomi simili **è un monomio solo**, che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti). 
+Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$): il risultato della somma di due monomi simili **è un monomio solo**, che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti).
+
+Questa operazione di somma si dice anche **semplificazione**, perché con essa sostituiamo ad una espressione che ha due monomi ed una somma algebrica una espressione costituita da un solo monomio, e quindi più semplice.
+
+$\underbracket{-3x \overset{\overset{+/-}\downarrow}\ +2x}$ $\longrightarrow \underbracket{-x}$
 
 La somma di due monomi **non** simili **non** è però un monomio solo ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
@@ -263,7 +267,7 @@ $-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$;
 
 $5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;       
 
-$-3x + 2x^2 \longrightarrow -3x + 2x^2$   I monomi non si sommano e la somma **non è un monomio!** .    $\bullet$
+$-3x + 2x^2 \longrightarrow -3x + 2x^2$   I monomi non sono simili, non si sommano e la somma **non è un monomio!** .    $ \bullet$
 
 
 
@@ -281,6 +285,8 @@ c) $\underline{-a} \overset{\overset{+/-}\downarrow}\; \underbracket{+ b \overse
 
 d) $-a \overset{\overset{+/-}\downarrow}\; \underline{+4b}$      $\bullet$
 
+Come si vede l'espressione, originariamente costituita da quattro monomi e tre somme è diventata di due monomi ed una somma, cioè si è semplifcata.
+
 
 
 #### Prodotti di monomi
@@ -296,6 +302,8 @@ a) $-3x \cdot 2x$
 b) $-3 \cdot 2 \cdot x \cdot x$
 
 c) $-6x^2$.    $ \bullet$
+
+Anche in questo caso l'esecuzione del prodotto è una semplificazione perché l'espressione risultato è costituita da un solo monomio (senza operazioni), dove la prima aveva due monomi ed un prodotto.
 
 
 
