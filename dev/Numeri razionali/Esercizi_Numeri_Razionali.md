@@ -939,27 +939,33 @@ Nei due esempi seguenti cercheremo di trovare la misura di una (sola) durata tem
 
 Quanto è lunga, in minuti, una pausa di tre quarti d'ora? (o equivalentemente: "quanti minuti ci sono in tre quarti d'ora?")
 
-Prima di rispondere alla domanda scriviamo il problema sotto forma di una uguaglianza: $\dfrac{3}{4}\;h = ?\;min$;  il nostro problema è quello di trovare il numero da sostituire al punto interrogativo
+Prima di rispondere alla domanda scriviamo il problema sotto forma di una uguaglianza: $\dfrac{3}{4}\;h = ?\;min$ (o meglio la relazione $\dfrac{3}{4}\;h \Rightarrow ?\;min$);  il nostro problema è quello di trovare il numero da sostituire al punto interrogativo (ouput) avendo a disposizione il dato "tre quarti d'ora" (input).
 
-Partiamo dalla relazione fondamentale che lega le ore ai minuti e cioè: $1\;h=60\;min$. Per avere su lato sinistro dell'uguaglianza l'espressione $\dfrac{3}{4}\;h$ moltiplichiamo a sinistra ed a destra per $\dfrac{3}{4}$, ottenendo:
+Partiamo da ciò che sappiamo, ossia la relazione fondamentale, base, che lega le ore ai minuti e cioè: $1\;h=60\;min$. Per avere su lato sinistro dell'uguaglianza l'espressione $\dfrac{3}{4}\;h$ moltiplichiamo a sinistra ed a destra per $\dfrac{3}{4}$, ottenendo:
 
-$\dfrac{3}{4} \cdot 1\;h = \dfrac{3}{4} \cdot 60 \;min$, e calcolando i prodotti $\dfrac{3}{4}\;h = 45\; min$, da cui si ricava che $? = 45$.
+$\dfrac{3}{4} \cdot 1\;h = \dfrac{3}{4} \cdot 60 \;min$, e calcolando i prodotti $\dfrac{3}{4}\;h = 45\; min$; confrontando le due relazioni si ricava che $? = 45$.    $\bullet$
 
 #### ESEMPIO 2
 
-Quanto è lunga, in ore, una durata di $10$ minuti?
+Quanto dura, in ore, una fila di $10$ minuti?
 
-Possiamo scrivere la domanda come $? \; h = 10\;min$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione che conosciamo tra le ore ed i minuti: $1\;h=60\;min$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo le ore equivalenti ad un minuto dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;h = \dfrac{\cancel{60}^1}{\cancel{60}_1}\;min$ cioè $\dfrac{1}{60}\;h = 1\;min$, che riscritto in decimale è $ 1\;min \cong 0.0166\;h$
+Possiamo schematizzare il problema come $? \; h \Leftarrow 10\;min$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione di base che conosciamo tra le ore ed i minuti: $1\;h=60\;min$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo **le ore equivalenti ad un minuto** dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;h = \dfrac{\cancel{60}^1}{\cancel{60}_1}\;min$ cioè $\dfrac{1}{60}\;h = 1\;min$, ossia un minuto equivale ad un sessantesimo di ora (che riscritto in decimale è $ 1\;min \approx 0.0166\;h$).
 
-Un minuto equivale ad un sessantesimo di ora. A questo punto moltiplichiamo per $10$ sia a sinistra che a destra: $10 \cdot \dfrac{1}{60}\;h = 10 \cdot1\;min$ $\longrightarrow$$\dfrac{10}{60}\;h = 10 \cdot1\;min$$\longrightarrow$$\dfrac{1}{6}\;h = 10\;min$.
+A questo punto moltiplichiamo per $10$ sia a sinistra che a destra:
 
-In conclusione $10\;min = \dfrac{1}{6}\;h \approx 0.166\;h$, cioè $10$ minuti equivalgono a $0.166$ ore.
+a) $10 \cdot \dfrac{1}{60}\;h = 10 \cdot1\;min$
+
+b) $\dfrac{10}{60}\;h = 10 \cdot1\;min$
+
+c) $\dfrac{1}{6}\;h \Leftarrow 10\;min$.
+
+In conclusione $10\;min \Rightarrow \dfrac{1}{6}\;h \approx 0.166\;h$, cioè $10$ minuti equivalgono a $0.166$ ore.    $\bullet$
 
 #### ESEMPIO 3
 
 Quanto misura, in trimestri, un periodo di $3$ anni e $9$ mesi?
 
-In questo caso abbiamo un periodo espresso come somma (di due periodi): il primo misurato in anni ed il secondo in mesi. Troviamo separatamente l'equivalente in trimestri di entrambi e poi sommiamo, risolviamo cioè le due equivalenze: $3\;anno = ?\;trim$ e $9 \;mese = ?\;trim$.
+In questo caso abbiamo un periodo espresso come somma (di due periodi): il primo misurato in anni ed il secondo in mesi. Troviamo separatamente l'equivalente in trimestri di entrambi e poi sommiamo, risolviamo cioè le due equivalenze: $3\;anno \Rightarrow ?\;trim$ e $9 \;mese \Rightarrow ?\;trim$.
 
 Partiamo dalle due equivalenze che conosciamo:
 
@@ -967,27 +973,33 @@ a) $1\;anno = 4\;trim$, e
 
 b) $1\;trim = 3\;mese$.
 
-Moltiplicando la prima per $3$ abbiamo $3 \cdot 1\;anno = 3 \cdot 4\;trim$ $\longrightarrow$ $3\;anno = 12\;trim$.
+Moltiplicando la prima per $3$ abbiamo $3 \cdot 1\;anno = 3 \cdot 4\;trim$ $\longrightarrow$ $3\;anno = 12\;trim$, ossia $? = 12$
 
 Dividendo la seconda per $3$ e poi moltiplicando tutto per $9$ abbiamo: 
 
-$\dfrac{1}{3}\;trim = \dfrac{\cancel3^1}{\cancel3_1}\;mese$  $\longrightarrow$  $9 \cdot \dfrac{1}{3}\;trim = 9 \cdot 1\;mese$ $\longrightarrow$ $3\;trim = 9 \;mese$ 
+$\dfrac{1}{3}\;trim = \dfrac{\cancel3^1}{\cancel3_1}\;mese$  $\longrightarrow$  $9 \cdot \dfrac{1}{3}\;trim = 9 \cdot 1\;mese$ $\longrightarrow$ $3\;trim = 9 \;mese$, ossia $? = 3$
 
 Il Risultato finale è $15$ trimestri:
 
-$3\;anni \;e\; 9 \;mesi = 12\;trim + 3\;trim \longrightarrow 15\;trim$.
+$3\;anni \;e\; 9 \;mesi = 12\;trim + 3\;trim \longrightarrow 15\;trim$.    $\bullet$
 
 #### ESEMPIO 4
 
-Quale è la lunghezza, in anni, di un periodo di $15$ trimestri?
+Quanto dura, in anni, di un periodo di $15$ trimestri?
 
-In questo caso partiamo sempre da $1\;anno = 4\;trim$ e troviamo la durata in anni di un trimestre dividendo tutto per $4$ e poi moltiplicando per $15$:
+Il problema è $15 \; trim \Rightarrow ?\; anno$ . In questo caso partiamo sempre da $1\;anno = 4\;trim$ e troviamo la durata in anni di un trimestre dividendo tutto per $4$ e poi moltiplicando per $15$:
 
-$\dfrac{1}{4}\;anno = \dfrac{\cancel4^1}{\cancel4_1}\;trim$ $\longrightarrow$ $15 \cdot \dfrac{1}{4}\;anno = 15 \cdot 1\;trim$ $\longrightarrow$ $\dfrac{15}{4}\;anno = 15\;trim$
+a) $1\;anno = 4\;trim$
 
-In conclusione $15$ trimestri sono $3.75$ anni.
+b) $\dfrac{1}{4}\;anno = \dfrac{\cancel4^1}{\cancel4_1}\;trim$
 
-$15\;trim  = \dfrac{15}{4}\;anno \approx 3.75\;anno$
+c) $15 \cdot \dfrac{1}{4}\;anno = 15 \cdot 1\;trim$
+
+d) $\dfrac{15}{4}\;anno = 15\;trim$
+
+e) $15\;trim \Rightarrow \dfrac{15}{4}\;anno \approx 3.75\;anno$.
+
+In conclusione $15$ trimestri sono $3.75$ anni.     $\bullet$
 
 
 
@@ -1006,16 +1018,20 @@ b) Risolvi le seguenti equivalenze.
 2. Un periodo di un anno $5$ mesi quanto dura in mesi? ed in trimestri?
 3. A quanto equivale un periodo di $2$ anni, $6$ mesi e $22$ giorni in trimestri? (Considerare un mese di $30$ giorni).
 
+c) Il Il pollice (inch) è una unità di misura di lunghezza usata nei paesi anglosassoni che equivale esattamente a $2,542 \; cm$. A quanti centimetri di diagonale corrisponde un televisore da $32$ pollici?
+
+d) Gli antichi romani misuravano le distanze sulle strade in "piedi". Il piede romano standard misurava circa $29,6 \;cm$. A quanti piedi romani equivale la distanza di $100$ metri? A quanti centimetri equivalgono $5$ piedi?
+
 
 
 ### ESERCIZIO 8.2 - Equivalenze (II)
 
 a) Risolvi le seguenti equivalenze trovando la misura da scrivere al posto dei puntini.
 
-1. 7 Km + 14 m + 12 dam = ............ dam &emsp;  [R. 713,4]  
-2. 15 dm + 70 cm - 100 mm = ............ m  &emsp;  [R. 2,1]  
-3. 27 dam + 3 200 cm + 2 hm = ............ m  &emsp;  [R. 502]  
-4. 0,5 dam + 5 m + 6 cm + 1,6 m = ............ dm  &emsp;  [R. 116,6]  
+1. $7 \; Km + 14  \; m + 12  \; dam = $............ $dam$ &emsp;  $[R. 713,4]$  
+2. $15  \; dm + 70  \; cm - 100  \; mm = $............ $m$  &emsp;  $[R. 2,1]$  
+3. $27  \; dam + 3 200  \; cm + 2  \; hm = $............ $m$  &emsp;  $[R. 502]$  
+4. $0,5  \; dam + 5  \; m + 6 cm + 1,6  \; m = $............ $dm$  &emsp;  $[R. 116,6]$  
 
 
 

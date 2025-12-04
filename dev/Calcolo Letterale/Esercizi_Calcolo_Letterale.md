@@ -144,7 +144,9 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 #### Componenti e forme di un monomio
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono lettere, scritte in ordine alfabetico. In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche un singolo numero può essere considerato un monomio che presenta la sola parte numerica (ed ha zero lettere, cioè ha grado zero). 
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono tutte lettere, scritte in ordine alfabetico e le lettere compaiono una sola volta con i loro esponenti.
+
+In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche una sola lettera, ad esempio $s$ è un monomio (di grado $1$ e con parte numerica $1$) ed un singolo numero, come $-\dfrac{3}{2}$ o $1$, può essere considerato un monomio con la sola parte numerica (e zero lettere, cioè di grado zero). 
 
 In un monomio il simbolo di prodotto si può anche non scrivere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo **sempre usare il segno di prodotto**.
 
@@ -162,9 +164,7 @@ $2$: monomio di grado $0$.   $\bullet$
 
 Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
-Il monomio è il "**mattone**" con cui costruiamo le espressioni letterali, che saranno quindi fatte di somme (algebriche), prodotti, e rapporti di monomi come $a + \dfrac{1}{2}ab^2$,  $2s + 3s^2 + 1$ etc. Notiamo che in queste espressioni, ad esempio $\dfrac{1}{2}ab^2$ sono monomi le singole lettere come pure il loro prodotto.
-
-
+Il monomio è il "**mattone**" con cui costruiamo le espressioni letterali, che saranno quindi fatte di somme (algebriche), prodotti, e rapporti di monomi come $a + \dfrac{1}{2}ab^2$,  $2s + 3s^2 + 1$ etc. 
 
 ### ESERCIZIO 2.1 - Forma normale dei monomi
 
@@ -251,13 +251,18 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 ## UNITA' 3: Somme e prodotti di monomi
 
-Come abbiamo visto, due monomi come $s$ ed $s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $2 \cdot s$, ossia l'espressione $s+ s$ sarà uguale a $2s$ per qualunque sostituzione. Questo accade per tutti i monomi che hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono ***simili***, e solo per questi.
+Come abbiamo visto, due monomi come $s$ ed $s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $2 \cdot s$, ossia l'espressione $s+ s$ sarà uguale a $2s$ per qualunque sostituzione. Questo accade per tutti i monomi che hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono simili, e solo per questi.
 
-Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$): il risultato della somma di due monomi simili **è un monomio solo**, che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti).
+Diciamo infatti che:
 
-Questa operazione di somma si dice anche **semplificazione**, perché con essa sostituiamo ad una espressione che ha due monomi ed una somma algebrica una espressione costituita da un solo monomio, e quindi più semplice.
+- due monomi sono **uguali** se, quando sono in forma normale, hanno la stessa parte numerica e la stessa parte letterale; 
+-  due monomi sono **simili** se hanno uguale solo la parte letterale. 
+- Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$): il risultato della somma di due monomi simili **è un monomio solo**, che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti).
 
-$\underbracket{-3x \overset{\overset{+/-}\downarrow}\ +2x}$ $\longrightarrow \underbracket{-x}$
+
+Questa operazione di somma si dice anche **semplificazione**, perché con essa sostituiamo, ad una espressione che ha due monomi ed una somma algebrica, una espressione costituita da un solo monomio, e quindi più semplice.
+
+$\underbracket{-3x \overset{\overset{+/-}\downarrow}\ +2x}$ $\longrightarrow \underline{-x}$
 
 La somma di due monomi **non** simili **non** è però un monomio solo ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
@@ -303,7 +308,9 @@ b) $-3 \cdot 2 \cdot x \cdot x$
 
 c) $-6x^2$.    $ \bullet$
 
-Anche in questo caso l'esecuzione del prodotto è una semplificazione perché l'espressione risultato è costituita da un solo monomio (senza operazioni), dove la prima aveva due monomi ed un prodotto.
+Anche in questo caso l'esecuzione del prodotto è una semplificazione perché l'espressione risultato è costituita da un solo monomio (senza operazioni), dove la prima aveva due monomi ed un prodotto. 
+
+I concetti di monomio e di prodotto di monomi si confondono perché un monomio è un prodotto di lettere e numeri e può sempre essere visto come il prodotto delle lettere e dei numeri che lo compongono, considerate esse stesse dei monomi: $\dfrac{1}{2}ab^2$ è un monomio ma è anche il prodotto dei monomi $\dfrac{1}{2}$, $a$, $b$ e $b$.
 
 
 
@@ -343,11 +350,13 @@ a) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale.
 
 2. $2a^{2}\,\cdotp\left(-4a^{5}b^{3}\right)$;     $-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$;  
 
-a) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale. 
+b) Calcola i seguenti prodotti di monomi e scrivi il risultato in forma normale. 
 
 1. $-4a^{5}b^{3}\,\cdotp\left(-ab^{3}\right)\,\cdotp\dfrac{3}{2}a^{2}b^{2}$  
 
+c) Tra i monomi seguenti, quali sono uguali? quali sono simili?
 
+1. $2ab\,\cdotp\left(-3a^{2}b\right)$;    2. $-a^{2}bc\,\cdotp\left(-2ab^{2}\right)$;     3. $3a^{2}\,\cdotp\left(-2ab^{2}\right)$;    4. $-4xy^{3}\,\cdotp\dfrac{1}{2}x^{3}y^{2}$;  
 
 ### ESERCIZIO 3.3 - Somme e prodotti di monomi
 
@@ -783,7 +792,7 @@ b) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tr
 
 
 
-## UNITA' 9: Frazioni Algebriche
+## UNITA' 9: Frazioni algebriche
 
 La scomposizione in fattori di polinomi è utile nella semplificazione delle frazioni algebriche. Una **frazione algebrica** è un rapporto tra un polinomio ed un monomio o tra due polinomi. Ad esempio le seguenti sono tutte frazioni algebriche
 
@@ -817,18 +826,43 @@ c) $\dfrac{2}{5}$.    $ \bullet$
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.
 
-1. $\dfrac{1}{x}$;   $\dfrac{a}{b}$;      $2a^2$;      $-\dfrac{1}{2a^2x}$;
+1. $\dfrac{1}{x}$;      $\dfrac{a}{b}$;      $2a^2$;      $-\dfrac{1}{2a^2x}$;
 2. $\dfrac{1}{x-1}$;      $\dfrac{a+1}{b-1}$;      $2a^2+a$;      $-\dfrac{1+x^2}{2a^2x}$.
 
 b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza i fattori comuni nei polinomi a numeratore o a denominatore.
 
-1. $\dfrac{x^2+3x}{x}$;      $\dfrac{4x^2-2x}{4x^2}$;      $\dfrac{x}{2x^2-x}$;
-2. $\dfrac{2a-2}{5a-5}$;      $\dfrac{-x-y}{x+y}$;      $\dfrac{2x-2y}{y-x}$.
+1. $\dfrac{x^2+3x}{x}$;
+2. $(4x^2-2x):4x^2$;
+3. $\dfrac{x}{2x^2-x}$;
+4. $\dfrac{2a-2}{5a-5}$;
+5. $(-x-y):(x+y)$;
+6. $\dfrac{2x-y}{\dfrac{2}{3}y-\dfrac{1}{3}x}$.
 
 #### Laboratorio GEOGEBRA
 
 Risolvi alcuni esercizi del punto b) con la sequenza di istruzioni GEOGEBRA riportata di seguito.
 
-1. $Semplifica(\dfrac{x^2+3x}{x})$  &#9166; 
-2. $Semplifica(\dfrac{x}{2x^2-x})$  &#9166; 
-3. $Semplifica(\dfrac{-x-y}{x+y})$  &#9166; 
+1. $Semplifica\left(\dfrac{x^2+3x}{x}\right)$  &#9166; 
+2. $Semplifica\left(\dfrac{x}{2x^2-x}\right)$  &#9166; 
+3. $Semplifica\left(\dfrac{-x-y}{x+y}\right)$  &#9166; 
+
+
+
+## UNITA 10: Semplificazione di espressioni letterali
+
+### ESERCIZIO 10.1 - Espressioni con somme, prodotti e rapporti
+
+a) Semplifica le seguenti espressioni.
+
+1. $(3-2)(2x-x)$;
+2. $(3xy-2xy):(5xy+3xy)$;
+3. $-xy+2x(-4y)+1$.
+
+b) Semplifica le seguenti espressioni.
+
+1. $\left(\dfrac{1}{5}a^3b\right):\left(\dfrac{3}{2}a^2b\right)+\left(\dfrac{1}{10}a^4b^2\right):\left(\dfrac{3}{2}a^3b\right)$;
+2. $3a^2\left(-a\right)+\dfrac{5}{2}ab\left(-5b^2\right)-ab^2\left(-b\right)+\dfrac{1}{2}a\left(-2a^2\right)$.
+3. $\left(\dfrac{1}{3}a^2b+\dfrac{2}{3}a^2b\right)-\left(\dfrac{2}{5}xy\right)^2:\left(\dfrac{2}{5}xy\right)-\left(ab\right)^2:b$.
+
+
+
