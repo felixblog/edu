@@ -829,7 +829,7 @@ a) Scrivi il reciproco delle seguenti frazioni algebriche.
 1. $\dfrac{1}{x}$;      $\dfrac{a}{b}$;      $2a^2$;      $-\dfrac{1}{2a^2x}$;
 2. $\dfrac{1}{x-1}$;      $\dfrac{a+1}{b-1}$;      $2a^2+a$;      $-\dfrac{1+x^2}{2a^2x}$.
 
-b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza i fattori comuni nei polinomi a numeratore o a denominatore.
+b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza gli opportuni fattori nei polinomi a numeratore o a denominatore.
 
 1. $\dfrac{x^2+3x}{x}$;
 2. $(4x^2-2x):4x^2$;

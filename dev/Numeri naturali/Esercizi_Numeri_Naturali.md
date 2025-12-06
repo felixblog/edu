@@ -167,6 +167,22 @@ i) $\underline{5}$
 
 
 
+#### Esecuzione di operazioni come semplificazioni
+
+Abbiamo detto che le **espressioni** sono sequenze di operazioni, come $12 \cdot 3 + 4$, in cui il risultato di una operazione viene utilizzato come numero in un'altra operazione dell'espressione. Ad esempio in $12 \cdot 3 + 4$, vediamo due operazioni, un prodotto ed una somma, ed il significato di questo modo di scrivere è che il risultato di $12 \cdot 3$, cioè $36$, deve essere utilizzato nella somma con $4$, cioè il risultato del calcolo di entrambe le operazioni è:
+
+a) $12 \cdot 3 + 4$;
+
+b) $36 + 4$;
+
+c) $40$. 
+
+In questo procedimento possiamo vedere come l'esecuzione di ciascuna operazione può essere vista come una **semplificazione** dell'espressione data, per cui la nuova espressione contiene meno numeri e meno operazioni della precedente: b) contiene un numero ed una operazione in meno di a) e c) contiene un numero ed una operazione in meno di b).
+
+Questa caratteristica si riscontra sempre: il calcolo di una operazione è sempre una sequenza di semplificazioni dell'espressione originale fino a ridursi ad un solo numero, che chiamiamo il **risultato** o **valore** dell'espressione.
+
+
+
 ### ESERCIZIO 1.1 - Operazioni ed Espressioni (I)
 
 a) Calcola il valore delle seguenti espressioni.
