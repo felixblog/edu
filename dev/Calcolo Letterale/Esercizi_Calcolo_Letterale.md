@@ -822,6 +822,14 @@ c) $\dfrac{2}{5}$.    $ \bullet$
 
 
 
+**ATTENZIONE!!** E' possibile semplificare un monomio (o un polinomio) presente sia a numeratore che a denominatore della frazione SOLO se il monomio (o polinomio) è il fattore di un prodotto, sia numeratore che a denominatore; se a numeratore o denominatore della frazione non c'è un prodotto, non è possibile effettuare nessuna semplificazione.
+
+#### ESEMPIO 3
+
+Nella frazione $\dfrac{2x(2x-1)}{2x +1}$, non è possibile semplificare $2x$ sopra e sotto perché sotto non c'è un prodotto ma una somma algebrica di monomi!    $ \bullet$
+
+ 
+
 ### ESERCIZIO 9.1 - Frazioni Algebriche
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.

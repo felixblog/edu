@@ -177,9 +177,9 @@ b) $36 + 4$;
 
 c) $40$. 
 
-In questo procedimento possiamo vedere come l'esecuzione di ciascuna operazione può essere vista come una **semplificazione** dell'espressione data, per cui la nuova espressione contiene meno numeri e meno operazioni della precedente: b) contiene un numero ed una operazione in meno di a) e c) contiene un numero ed una operazione in meno di b).
+Questo procedimento può essere visto come una sequenza di **semplificazioni** che, partendo dall'espressione iniziale, fa sì che ogni nuova espressione contenga meno numeri e meno operazioni della precedente: b) contiene un numero ed una operazione in meno di a) e c) contiene un numero ed una operazione in meno di b).
 
-Questa caratteristica si riscontra sempre: il calcolo di una operazione è sempre una sequenza di semplificazioni dell'espressione originale fino a ridursi ad un solo numero, che chiamiamo il **risultato** o **valore** dell'espressione.
+Il calcolo di una espressione è sempre una sequenza di semplificazioni dell'espressione originale fino a ridursi ad un solo numero, che chiamiamo il **risultato** o **valore** dell'espressione.
 
 
 
