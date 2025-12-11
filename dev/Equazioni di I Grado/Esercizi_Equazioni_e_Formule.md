@@ -3,11 +3,29 @@
 
 ## UNITA' 1: Concetto di equazione e sue soluzioni
 
-Capita frequentemente di risolvere problemi nei quali si cerca un numero sapendo che deve soddisfare una certa condizione. Vediamo un esempio: "Ho comprato un paio di pantaloni ai saldi sui quali c'era il $30 \%$ di sconto ed ho risparmiato $30$ euro. Quanto costavano di listino?"
+Capita frequentemente di risolvere problemi nei quali si cerca un numero sapendo che deve soddisfare una certa condizione. Vediamo un esempio: "Ho comprato un paio di pantaloni ai saldi sui quali c'era il $30 \%$ di sconto ed ho risparmiato $18$ euro. Quanto costavano di listino?"
 
-Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato ($30$ euro) ma non tutti gli elementi che lo determinano, nel caso specifico, il prezzo di listino. Se indichiamo il prezzo con la lettera $p$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot p = 30$.
+Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato dell'operazione ($18$ euro) ma non tutti gli elementi che lo determinano, nel caso specifico, il prezzo di listino. Se indichiamo il prezzo con la lettera $p$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot p = 18$.
 
-Il nostro problema si risolve quindi col trovare un numero che messo al posto della lettera $p$, e quindi moltiplicato per $30 \%$ dia come risultato $30$, cioè renda vera (o soddisfi) la condizione che dipende da $p$. Questo numero è $100$, infatti $30 \% \cdot 100 = 30 \longrightarrow True$. La condizione si definisce ***equazione*** ed il numero $100$ è la ***soluzione*** dell'equazione perché la sostituzione di $r$ con $100$ rende l'equazione una uguaglianza vera.
+Il nostro problema si risolve quindi col trovare un numero che messo al posto della lettera $p$, e quindi moltiplicato per $30 \%$ da come risultato $18$, cioè renda vera (o soddisfi) la condizione che dipende da $p$ e questo, come abbiamo visto è $60$.  
+
+La condizione è una **equazione*** ed il numero $60$ è la ***soluzione*** dell'equazione perché la sostituzione di $p$ con $60$ rende l'equazione una uguaglianza vera.
+
+#### ESEMPIO 1
+
+Quale è il numero che moltiplicato per $2$ ci dà $10$? Sappiamo tutti che è $5$. Se scriviamo il problema in simboli ed il numero che dobbiamo trovare lo chiamiamo con la lettera $x$, otteniamo
+$$
+2 \cdot x = 10
+$$
+che è una equazione. La sua soluzione è $5$ perché sostituendo $5$ ad $x$ l'uguaglianza è vera.
+
+a) $2 \cdot x = 10, \{x = 5\}$;
+
+b) $2 \cdot (5) = 10$;
+
+c) $10= 10  \longrightarrow Vero$     $\bullet$ 
+
+
 
 In generale una ***equazione*** (numerica di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
 
@@ -18,7 +36,7 @@ I problemi che ci si pongono di fronte ad una equazione sono due:
 
 Per rispondere alla prima domanda basta sostituire alla incognita il numero e controllare che l'uguaglianza risulti vera, qualunque sia l'equazione.
 
-#### ESEMPIO 1
+#### ESEMPIO 2
 
 Per verificare se $6$ è soluzione dell'equazione $x+ 12 = 28$ bisogna effettuare una sostituzione in tutta l'equazione, calcolare le espressioni a sinistra ed a destra dell'uguaglianza e controllare che i due valori ottenuti siano uguali:
 
@@ -28,7 +46,7 @@ b) $(6) + 12 = 28$
 
 c) $18 = 28 \longrightarrow Falso$.
 
-L'uguaglianza ottenuta è falsa, quindi $6$ non è soluzione dell'equazione.    $\bullet$
+L'uguaglianza ottenuta è falsa, quindi $6$ **non** è soluzione dell'equazione.    $\bullet$
 
 
 
