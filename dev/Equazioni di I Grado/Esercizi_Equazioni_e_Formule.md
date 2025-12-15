@@ -5,11 +5,13 @@
 
 Capita frequentemente di risolvere problemi nei quali si cerca un numero sapendo che deve soddisfare una certa condizione. Vediamo un esempio: "Ho comprato un paio di pantaloni ai saldi sui quali c'era il $30 \%$ di sconto ed ho risparmiato $18$ euro. Quanto costavano di listino?"
 
-Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato dell'operazione ($18$ euro) ma non tutti gli elementi che lo determinano, nel caso specifico, il prezzo di listino. Se indichiamo il prezzo con la lettera $p$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot p = 18$.
+Se la domanda fosse stata "Quanto risparmio se ho il $30 \%$ di sconto su un paio di pantaloni che costano $60$ euro?" la risposta si sarebbe trovata con una moltiplicazione: $30 \% \cdot 60 \longrightarrow 18$; nel primo caso invece conosciamo il risultato dell'operazione ($18$ euro) ma non tutti gli elementi che lo determinano, nel caso specifico, il prezzo di listino. 
+
+Se indichiamo il prezzo con la lettera $p$, risparmio, sconto e prezzo devono soddisfare la ***condizione*** (o relazione) per cui il $30 \%$ del prezzo è uguale al risparmio, ossia $30 \% \cdot p = 18$.
 
 Il nostro problema si risolve quindi col trovare un numero che messo al posto della lettera $p$, e quindi moltiplicato per $30 \%$ da come risultato $18$, cioè renda vera (o soddisfi) la condizione che dipende da $p$ e questo, come abbiamo visto è $60$.  
 
-La condizione è una **equazione*** ed il numero $60$ è la ***soluzione*** dell'equazione perché la sostituzione di $p$ con $60$ rende l'equazione una uguaglianza vera.
+La condizione è una **equazione** ed il numero $60$ è la ***soluzione*** dell'equazione perché la sostituzione di $p$ con $60$ rende l'equazione una uguaglianza vera.
 
 #### ESEMPIO 1
 
@@ -17,22 +19,22 @@ Quale è il numero che moltiplicato per $2$ ci dà $10$? Sappiamo tutti che è $
 $$
 2 \cdot x = 10
 $$
-che è una equazione. La sua soluzione è $5$ perché sostituendo $5$ ad $x$ l'uguaglianza è vera.
+che è una equazione. La sua soluzione è $5$ perché sostituendo $5$ ad $x$ l'uguaglianza è vera.
 
 a) $2 \cdot x = 10, \{x = 5\}$;
 
 b) $2 \cdot (5) = 10$;
 
-c) $10= 10  \longrightarrow Vero$     $\bullet$ 
+c) $10= 10  \longrightarrow Vero$     $\bullet$ 
 
 
 
-In generale una ***equazione*** (numerica di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza numerica vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
+In generale una ***equazione*** (numerica di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
 
 I problemi che ci si pongono di fronte ad una equazione sono due:
 
-1. ***Verifica di Soluzione***: Dato un numero, controllare se è una soluzione dell'equazione;
-2. ***Ricerca di soluzioni***: Data una equazione, trovare le sue soluzioni.
+1. ***Verifica di una Soluzione***: Dato un numero, controllare se è una soluzione dell'equazione;
+2. ***Ricerca di una soluzione***: Data una equazione, trovare le sue soluzioni.
 
 Per rispondere alla prima domanda basta sostituire alla incognita il numero e controllare che l'uguaglianza risulti vera, qualunque sia l'equazione.
 
@@ -98,13 +100,13 @@ Controllando che $\dfrac{5}{2} \approx 2,5$ mentre $\dfrac{29}{10} \approx 2,9$ 
 
 ## UNITA' 2: Metodo risolutivo delle equazioni di I grado
 
-La soluzione alle equazioni molto semplici può essere trovata per tentativi, ossia con una ricerca "euristica". Ad esempio il numero che raddoppiato è uguale a $10$ è $5$, oppure il numero che sommato a $3$ è uguale ad $1$ è $-2$. Trovare questi numeri significa risolvere le equazioni $2x = 10$ e $3 + x = 1$, che sono molto semplici.
+La soluzione alle equazioni molto semplici può essere trovata per tentativi, ossia con una ricerca "euristica". Ad esempio il numero il cui doppio è $10$, è $5$; oppure il numero che sommato a $3$ è uguale ad $1$ è $-2$. Trovare questi numeri significa risolvere le equazioni $2x = 10$ e $3 + x = 1$, che sono molto semplici.
 
 Se però l'equazione è anche di poco più complessa, trovare la soluzione senza un metodo diventa impossibile. Il metodo per risolvere le equazioni è basato sull'applicazione ripetuta di tre ***regole di equivalenza***, che consentono di trasformare una equazione in una nuova equazione, più vicina ad una equazione elementare, che però abbia le stesse soluzioni di quella originaria.
 
 ### REGOLA DELLA SEMPLIFICAZIONE
 
-Possiamo effettuare le operazioni che fanno parte delle espressioni su uno o entrambi i membri di una equazione ottenendo una nuova equazione che ha le stesse soluzioni di quella originaria.
+Possiamo effettuare le operazioni contenute in uno o in entrambi i membri di una equazione ottenendo così una nuova equazione che ha le stesse soluzioni di quella originaria.
 
 #### ESEMPIO 1
 
@@ -120,23 +122,25 @@ L'equazione c) ha le stesse soluzioni della a), come si può controllare sostitu
 
 ### REGOLA DEL TRASPORTO (DELLA SOMMA)
 
-Possiamo trasportare una espressione che sia parte di una somma, da un membro ad un altro dell'equazione cambiando il suo segno e sommarla algebricamente ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+Possiamo trasportare una espressione che sia parte di una somma, da un membro all'altro dell'equazione, cambiando il suo segno e sommarla algebricamente ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
 
 #### ESEMPIO 2
 
-a) $3 + x = 1$   Trasportando $+3$, che è parte della somma a sinistra, a destra e sommandolo ad $1$ si ottiene l'equazione b);
+a) $3 + x = 1$   Trasportando $+3$, che è parte della somma a sinistra, a destra e sommandolo ad $1$, si ottiene l'equazione b);
 
 b) $x = 1 -3$. Nuova equazione
 
 L'equazione b) ha le stesse soluzioni della a). Se applichiamo alla b) la regola della semplificazione (eseguiamo la somma a destra) otteniamo la c)
 
-c) $x = -2$. 
+c) $x = -2$.
 
-Questa equazione ha le stesse soluzioni della a).
+Questa equazione ha le stesse soluzioni della a).     $\bullet$
 
-In realtà la vera regola è quella della somma:
 
-***Regola della Somma***: Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione che ha le stesse soluzioni della equazione originaria.    $\bullet$
+
+In realtà la vera regola è la seguente, detta "della somma":
+
+***Regola della Somma***: Possiamo sommare ad entrambi i membri di una equazione una stessa espressione ottenendo una nuova equazione che ha le stesse soluzioni della equazione originaria.
 
 #### ESEMPIO 3
 
@@ -158,9 +162,11 @@ Possiamo moltiplicare/dividere entrambi i membri di una equazione per una stessa
 
 #### ESEMPIO 3
 
-a) $2x = 10$    Se moltiplichiamo per il reciproco di $2$, ossia $\dfrac{1}{2}$, otteniamo la nuova equazione b).
+a) $2x = 10$.    Se moltiplichiamo per il reciproco del coefficiente di $x$ che è $2$, ossia $\dfrac{1}{2}$, otteniamo la nuova equazione b).
 
-b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$.   Se applichiamo la regola della semplificazione eseguendo le moltiplicazioni, otteniamo l'equazione c) che ha le stesse soluzioni di b).
+b) $\dfrac{1}{2} \cdot2x = \dfrac{1}{2} \cdot 10$.   
+
+Se applichiamo la regola della semplificazione eseguendo le moltiplicazioni, otteniamo l'equazione c) che ha le stesse soluzioni di b).
 
 c) $x = 5$.
 
@@ -168,9 +174,13 @@ L'equazione b) ha le stesse soluzioni della a), come si può controllare sostitu
 
 
 
-La strategia per risolvere le equazioni consiste nell'applicare ripetutamente le regole scegliendo opportunamente le espressioni da moltiplicare o sommare in modo da semplificare l'equazione riducendo entrambi i membri a polinomi (somma di monomi). A questo punto si trasportano i monomi che contengono l'incognita tutti in un solo membro e quelli che non la contengono tutti nell'altro; i monomi con l'incognita si sommano tra di loro dando come risultato un solo monomio; anche i numeri si sommano e si arriva ad una equazione come: $m \cdot x = q$, dove $m$ e $q$ sono due numeri.
+### STRATEGIA RISOLUTIVA
 
-A questa equazione si applica la regola della moltiplicazione e divisione per $\dfrac{1}{m}$, quindi la semplificazione e si ottiene una equazione elementare con la soluzione $\dfrac{q}{m}$, come riportato di seguito:
+La strategia per risolvere le equazioni consiste nell'applicare ripetutamente le regole scegliendo opportunamente le espressioni da moltiplicare o sommare in modo da semplificare l'equazione, riducendo entrambi i membri a polinomi (somma di monomi). 
+
+A questo punto si trasportano i monomi che contengono l'incognita tutti in un solo membro e quelli che non la contengono tutti nell'altro; i monomi con l'incognita si sommano tra di loro dando come risultato un solo monomio; anche i numeri si sommano e si arriva ad una equazione come: $m \cdot x = q$, dove $m$ e $q$ sono due numeri.
+
+A questa equazione si applica la regola della moltiplicazione/divisione per $\dfrac{1}{m}$, quindi la semplificazione e si ottiene una equazione elementare con la soluzione $\dfrac{q}{m}$, come riportato di seguito:
 
 a) $m \cdot x = q$;   Regola della moltiplicazione/divisione per $\dfrac{1}{m}$; 
 
@@ -321,9 +331,9 @@ L'area di un rettangolo si calcola moltiplicando la base del rettangolo per l'al
 
 L'area di un triangolo è simile: la base del triangolo deve essere moltiplicata per l'altezza ed il tutto diviso per due: $A = \dfrac{b \cdot h}{2}$.
 
-#### Esempio 1
+#### ESEMPIO 1
 
-Un imbianchino ordina vernice bianca per dipingere una parete che ha una superficie di $11,2\; m^2$. La parete è lunga $4$ metri: quanto è alta?
+Un imbianchino ordina vernice bianca per dipingere una parete rettangolare che ha una superficie di $11,2\; m^2$. La parete è lunga $4$ metri: quanto è alta?
 
 Sostituendo alle lettere della formula dell'area del rettangolo i dati del problema, abbiamo l'equazione $11,2 = 4 \cdot h$, dove l'incognita è $h$. La soluzione è $h = \dfrac{11,2}{4} \longrightarrow 2,8$ metri.
 
@@ -341,7 +351,7 @@ $Risolvi(e,h)$
 
 #### Lo sconto ai saldi
 
-Durante i saldi di fine stagione, o le svendite per altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
+Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
 $$
 P_s = P_l - S
 $$
@@ -352,7 +362,7 @@ $$
 P_s = P_l(1 - s).
 $$
 
-#### Esempio 2
+#### ESEMPIO 2
 
 Una maglietta è in saldo al $40 \%$. Se costava $\text{35}$ euro, quanto costa scontata?
 
@@ -377,7 +387,7 @@ L = N + T
 $$
 Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, o "al netto" per indicare l'assenza dell'accessorio. Ad esempio con l'espressione "retribuzione netta" intendiamo l'importo della retribuzione senza gli oneri fiscali e contributivi mentre con "retribuzione lorda" la retribuzione comprensiva di tali somme; con costo di un articolo "al lordo dell'IVA" intendiamo il costo IVA compresa, con prestito "al netto degli interessi" o "al lordo degli interessi" concetti analoghi e così via. 
 
-#### Esempio 3
+#### ESEMPIO 3
 
 Un lavoratore dipendente ha una retribuzione netta che è circa il $50 \%$ del lordo in busta paga. Quale è il "peso" delle tasse e degli altri contributi? 
 
@@ -395,7 +405,7 @@ Con $R$ abbiamo indicato il **ricavo** e con $C$ il **costo** di questa operazio
 
 Spesso è conveniente anche calcolare il margine di una operazione in percentuale sul costo $C$ dell'operazione stessa; in questo caso $R - C$ è detto **mark-up assoluto** e $q = \dfrac{R - C}{C}$ è detto **mark-up percentuale**.
 
-#### Esempio 4
+#### ESEMPIO 4
 
 Un commerciante pensa di acquistare un lotto di $20$ magliette del costo a lui di $15$ euro l'una. Che ricavo dovrà avere dalla loro vendita perché questa operazione abbia un utile dl almeno $100$ euro? Quale dovrà essere il prezzo di ogni maglietta? Quale sarà il mark-up in percentuale?
 
@@ -415,7 +425,7 @@ $$
 P = C(1 + a)
 $$
 
-#### Esempio 5
+#### ESEMPIO 5
 
 Qual è il costo, iva esclusa, di un articolo che ha un prezzo di $170$ euro e sul quale si applica una aliquota IVA del $22 \%$?
 
