@@ -146,7 +146,7 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono tutte lettere, scritte in ordine alfabetico e le lettere compaiono una sola volta con i loro esponenti.
 
-In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche una sola lettera, ad esempio $s$ è un monomio (di grado $1$ e con parte numerica $1$) ed un singolo numero, come $-\dfrac{3}{2}$ o $1$, può essere considerato un monomio con la sola parte numerica (e zero lettere, cioè di grado zero). 
+In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche una sola lettera, ad esempio $s$ è un monomio (di grado $1$ e con parte numerica $1$) ed un singolo numero, come $-\dfrac{3}{2}$ o $1$, può essere considerato un monomio con la sola parte numerica (e zero lettere, cioè un monomio di **grado zero**). 
 
 In un monomio il simbolo di prodotto si può anche non scrivere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo **sempre usare il segno di prodotto**.
 
@@ -256,7 +256,7 @@ Come abbiamo visto, due monomi come $s$ ed $s$ si possono sommare e, qualunque n
 Diciamo infatti che:
 
 - due monomi sono **uguali** se, quando sono in forma normale, hanno la stessa parte numerica e la stessa parte letterale; 
--  due monomi sono **simili** se hanno uguale solo la parte letterale. 
+-  due monomi sono **simili** se, entrambi in forma normale, hanno uguale la parte letterale. 
 - Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$): il risultato della somma di due monomi simili **è un monomio solo**, che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti).
 
 
@@ -409,6 +409,10 @@ Questa espressione non è un monomio ma una frazione algebrica in forma canonica
 
 
 
+Anche un singolo monomio può essere considerato una frazione algebrica (con al denominatore il numero $1$).
+
+
+
 ### ESERCIZIO 4.1 - Rapporti di monomi e semplificazioni
 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
@@ -445,7 +449,7 @@ b) $-2x + 1$;
 
 c) $6x^5 -\dfrac{2}{3}x^3 + 2x$. 
 
-In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo hanno grado 1, il terzo ha grado 5.
+In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo sono di **primo grado** (hanno grado 1), il terzo è di quinto grado (ha grado 5).
 
 Da ultimo osserviamo che anche un singolo monomio si considera un caso particolare di polinomio con un solo termine.
 
@@ -826,7 +830,7 @@ c) $\dfrac{2}{5}$.    $ \bullet$
 
 #### ESEMPIO 3
 
-Nella frazione $\dfrac{2x(2x-1)}{2x +1}$, non è possibile semplificare $2x$ sopra e sotto perché sotto non c'è un prodotto ma una somma algebrica di monomi!    $ \bullet$
+Nella frazione $\dfrac{2x(2x-1)}{2x +1}$, non è possibile semplificare $2x$ sopra e sotto perché sotto non c'è un prodotto ma una somma algebrica di monomi!    $ \bullet$
 
  
 

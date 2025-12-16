@@ -385,7 +385,7 @@ Tutte le volte che abbiamo un oggetto in un contenitore, ad esempio un imballagg
 $$
 L = N + T
 $$
-Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, o "al netto" per indicare l'assenza dell'accessorio. Ad esempio con l'espressione "retribuzione netta" intendiamo l'importo della retribuzione senza gli oneri fiscali e contributivi mentre con "retribuzione lorda" la retribuzione comprensiva di tali somme; con costo di un articolo "al lordo dell'IVA" intendiamo il costo IVA compresa, con prestito "al netto degli interessi" o "al lordo degli interessi" concetti analoghi e così via. 
+Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, e "al netto" per indicare l'assenza dell'accessorio. Ad esempio con l'espressione "retribuzione netta" intendiamo l'importo della retribuzione senza gli oneri fiscali e contributivi mentre con "retribuzione lorda" la retribuzione comprensiva di tali somme; con costo di un articolo "al lordo dell'IVA" intendiamo il costo IVA compresa, con prestito "al netto degli interessi" o "al lordo degli interessi" intendiamo l'ammontare del prestito senza e con gli interessi e così via. 
 
 #### ESEMPIO 3
 
@@ -418,16 +418,18 @@ $$
 
 #### La formula dell'IVA 
 
-L'IVA (Imposta sul Valore Aggiunto) è una imposta che il consumatore paga quando acquista un prodotto. Si calcola applicando una percentuale, l'**aliquota IVA**, al costo, IVA esclusa, del prodotto. In pratica, se indichiamo con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ su un prodotto che costa $C$ sarà $I = a \cdot C$.
+L'IVA (Imposta sul Valore Aggiunto) è una imposta che il consumatore paga quando acquista un prodotto. Si calcola applicando una percentuale, detta **aliquota IVA**, al prezzo, IVA esclusa, del prodotto. 
 
-Il prezzo $P$ del prodotto IVA inclusa, sarà allora $P = C + I$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, diventa:
+In pratica, se indichiamo con $C$ il prezzo, IVA esclusa, di un prodotto e con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ sarà dato da $a \cdot C$ e la formula è $I = a \cdot C$.
+
+Il prezzo finale $P$ del prodotto al consumatore IVA inclusa, sarà allora $P = C + I$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, diventa:
 $$
 P = C(1 + a)
 $$
 
 #### ESEMPIO 5
 
-Qual è il costo, iva esclusa, di un articolo che ha un prezzo di $170$ euro e sul quale si applica una aliquota IVA del $22 \%$?
+Qual è il prezzo, iva esclusa, di un articolo che ha un prezzo di listino di $170$ euro e sul quale si applica una aliquota IVA del $22 \%$?
 
 Sostituendo $P = 170$ ed $a = 0.22$ nella formula e risolvendo si ha:
 $$
@@ -450,9 +452,13 @@ Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola,
 
 a) Nel 2006 il film Titanic ha avuto un incasso mondiale di $\text{1.835}$ milioni di dollari con un profitto di $\text{1.595}$ milioni. Quanto è costato il film?
 
-b) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a $\text{12.95}$ euro e le rivende a $\text{47.50}$. 
+b) A Gennaio un maglione invece che $90$ euro lo puoi pagare $60$. Che percentuale di sconto è stata applicata?
 
+c) Per pavimentare un corridoio rettangolare servono $600$ mattonelle quadrate di $20 \; cm$ di lato. Quanto è lungo il corridoio se è largo $160 \; cm$?
 
+d) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a $\text{12.95}$ euro e le rivende a $\text{47.50}$. 
+
+e) Quanto risparmia un consumatore se l'IVA sui pannolini passasse dal $10\%$ al $5\%$, ed il prezzo di listino di una confezione di pannolini è di $60$ euro?
 
 
 
