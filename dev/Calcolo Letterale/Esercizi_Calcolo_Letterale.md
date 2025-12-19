@@ -134,7 +134,7 @@ Abbiamo già detto che una espressione letterale non può essere calcolata, cio�
 
 Ogni tanto gioco ad una lotteria, del tipo "gratta e vinci" in cui il premio cambia ogni giorno, ma è lo stesso per tutte le giocate di quel giorno. Dopo aver giocato diverse volte per alcune settimane risulta che ho vinto due volte il martedì e tre volte il venerdì. Se la vincita del martedì è pari ad $s$ euro e quella del venerdì è di $t$ euro, il totale delle vincite del martedì sarà $s + s$ e quelle del venerdì $t +t + t$ euro.
 
-Non so quanto ho vinto il martedì ma sicuramente sarà $s + s$ cioè $2 \cdot s$ ossia il doppio della vincita del martedì e $t+t+t$ sarà $3t$ il triplo di quella del venerdì; in tutto posso dire di aver vinto $2s + 3t$.    $ \bullet$
+Solo alla fine della settimana viene detto a quanto ammonta la singola vincita di ciascun giorno e vengono pagati i premi, per cui, prima dell'annuncio, non so quanto ho vinto il martedì ma sicuramente sarà $s + s$ cioè $2 \cdot s$ ossia il doppio della vincita del martedì e $t+t+t$ sarà $3t$ il triplo di quella del venerdì; in tutto posso dire di aver vinto $2s + 3t$.    $ \bullet$
 
 
 
@@ -177,8 +177,12 @@ a) Scrivi i seguenti monomi in forma normale.
 
 b) Individua quali tra le seguenti espressioni letterali sono monomi e scrivili in forma normale.
 
-1.  $ab\left(-\dfrac{1}{2}\right)a^{2},$     $\dfrac{2}{5}a^2\dfrac{3}{b},$   $abcde$;
-2. $\dfrac{5}{3}b\left(-4\right)a,$      $a + 2a^2,$  $\dfrac{ab^2x}{3}$.
+1.  $ab\left(-\dfrac{1}{2}\right)a^{2}$;
+2.  $\dfrac{2}{5}a^2\dfrac{3}{b}$;
+3.  $abcde$;
+4.  $\dfrac{5}{3}b\left(-4\right)a$;
+5.  $a + 2a^2$;
+6.  $\dfrac{ab^2x}{3}$.
 
 c) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti dopo averli scritti in forma normale (ad esempio per il monomio $2ax$ il coefficiente di $x$ è $2a$).
 
@@ -264,7 +268,7 @@ Questa operazione di somma si dice anche **semplificazione**, perché con essa s
 
 $\underbracket{-3x \overset{\overset{+/-}\downarrow}\ +2x}$ $\longrightarrow \underline{-x}$
 
-La somma di due monomi **non** simili **non** è però un monomio solo ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
+La somma di due monomi **non** simili **non** è però un singolo monomi ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
 #### ESEMPIO 1
 
@@ -322,7 +326,23 @@ b) $5 \cdot 2 \cdot (-10) \cdot aaax^2x^2x^2$
 
 b) $-100a^3x^6$.     $ \bullet$
 
- 
+
+
+#### Operazioni nelle espressioni letterali
+
+Nelle unità precedenti spesso ci siamo chiesti quante operazioni ci fossero in una espressione. Anche in questa unità ce lo chiediamo, ma facendo una differenza tra **operazioni tra numeri** ed **operazioni tra monomi**.
+
+Consideriamo l'espressione $2abx -cx +1$. Le operazioni tra numeri sono $7$ e precisamente le seguenti:
+$$
+2 \overset{\overset{\cdot}\downarrow}\cdot a \overset{\overset{\cdot}\downarrow}\cdot  b \overset{\overset{\cdot}\downarrow}\cdot x \overset{\overset{+/-}\downarrow}\ -1 \overset{\overset{\cdot}\downarrow}\cdot c \overset{\overset{\cdot}\downarrow}\cdot x \overset{\overset{+/-}\downarrow}\ +1
+$$
+Se invece consideriamo le operazioni tra monomi, abbiamo due somme algebriche seguenti:
+$$
+2abx \overset{\overset{+/-}\downarrow}\ -cx \overset{\overset{+/-}\downarrow}\ +1
+$$
+Poiché sono i monomi i "building block", ossia i mattoni che costituiscono le espressioni in questa unità, spesso sono proprio le operazioni tra monomi quelle che andremo a considerare.
+
+
 
 ### ESERCIZIO 3.1 - Somme di monomi
 
