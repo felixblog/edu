@@ -420,7 +420,7 @@ $$
 
 L'IVA (Imposta sul Valore Aggiunto) è una imposta che il consumatore paga quando acquista un prodotto. Si calcola applicando una percentuale, detta **aliquota IVA**, al prezzo, IVA esclusa, del prodotto. 
 
-In pratica, se indichiamo con $C$ il prezzo, IVA esclusa, di un prodotto e con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ sarà dato da $a \cdot C$ e la formula è $I = a \cdot C$.
+In pratica, se indichiamo con $C$ il prezzo, IVA esclusa, di un prodotto e con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ sarà dato da $a \cdot C$ e la formula è $I = a \cdot C$.
 
 Il prezzo finale $P$ del prodotto al consumatore IVA inclusa, sarà allora $P = C + I$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, diventa:
 $$
@@ -454,7 +454,7 @@ a) Nel 2006 il film Titanic ha avuto un incasso mondiale di $\text{1.835}$ milio
 
 b) A Gennaio un maglione invece che $90$ euro lo puoi pagare $60$. Che percentuale di sconto è stata applicata?
 
-c) Per pavimentare un corridoio rettangolare servono $600$ mattonelle quadrate di $20 \; cm$ di lato. Quanto è lungo il corridoio se è largo $160 \; cm$?
+c) Per pavimentare un corridoio rettangolare servono $600$ mattonelle quadrate di $20 \; cm$ di lato. Quanto è lungo il corridoio se è largo $160 \; cm$?
 
 d) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a $\text{12.95}$ euro e le rivende a $\text{47.50}$. 
 
@@ -540,7 +540,7 @@ f) Una persona fuma ogni giorno circa $\text{15}$ sigarette. Considerato che un 
 
 Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, l'incognita. Oltre a queste però si usano anche equazioni in cui compaiono altre lettere, oltre a quella che ha il ruolo di incognita, come ad esempio $1-ax=b$, dove l'incognita è $x$.
 
-Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (monomi, polinomi e frazioni algebriche) e la soluzione sarà una **espressione letterale** e non numerica.
+Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (come monomi, polinomi e frazioni algebriche) e la soluzione sarà una **espressione letterale** e non numerica.
 
 **ATTENZIONE**: anche se compare un'altra lettera, l'incognita è una sola! Queste equazioni hanno **una sola incognita** e la loro soluzione è formata da una sola espressione letterale.
 

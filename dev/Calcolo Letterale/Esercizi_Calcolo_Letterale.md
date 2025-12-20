@@ -330,9 +330,9 @@ b) $-100a^3x^6$.     $ \bullet$
 
 #### Operazioni nelle espressioni letterali
 
-Nelle unità precedenti spesso ci siamo chiesti quante operazioni ci fossero in una espressione. Anche in questa unità ce lo chiediamo, ma facendo una differenza tra **operazioni tra numeri** ed **operazioni tra monomi**.
+Nelle unità precedenti spesso ci siamo chiesti quante operazioni ci fossero in una espressione. Anche in questa unità ce lo chiediamo, ma facendo una differenza tra **operazioni tra numeri/lettere** ed **operazioni tra monomi**.
 
-Consideriamo l'espressione $2abx -cx +1$. Le operazioni tra numeri sono $7$ e precisamente le seguenti:
+Consideriamo l'espressione $2abx -cx +1$. Le operazioni tra singoli numeri o lettere sono $7$ e precisamente le seguenti:
 $$
 2 \overset{\overset{\cdot}\downarrow}\cdot a \overset{\overset{\cdot}\downarrow}\cdot  b \overset{\overset{\cdot}\downarrow}\cdot x \overset{\overset{+/-}\downarrow}\ -1 \overset{\overset{\cdot}\downarrow}\cdot c \overset{\overset{\cdot}\downarrow}\cdot x \overset{\overset{+/-}\downarrow}\ +1
 $$
@@ -340,7 +340,7 @@ Se invece consideriamo le operazioni tra monomi, abbiamo due somme algebriche se
 $$
 2abx \overset{\overset{+/-}\downarrow}\ -cx \overset{\overset{+/-}\downarrow}\ +1
 $$
-Poiché sono i monomi i "building block", ossia i mattoni che costituiscono le espressioni in questa unità, spesso sono proprio le operazioni tra monomi quelle che andremo a considerare.
+Poiché i "building block", ossia i mattoni che costituiscono le espressioni in questa unità sono i monomi, spesso sono proprio le operazioni tra monomi quelle che andremo a considerare.
 
 
 
@@ -826,7 +826,7 @@ $\dfrac{x - 1}{x +1}$;    $\dfrac{x - 1}{y - 1}$;    $\dfrac{ax - 1}{ax}$;     $
 
 #### ESEMPIO 1
 
-Nella frazione $\dfrac{4x^2-2x}{4x^2}$, al numeratore si può mettere in evidenza il monomio $4x$ per cui possiamo scrivere:
+Nella frazione $\dfrac{4x^2-2x}{4x^2}$, al numeratore si può mettere in evidenza il monomio $2x$ per cui possiamo scrivere:
 
 a) $\dfrac{4x^2-2x}{4x^2}$
 

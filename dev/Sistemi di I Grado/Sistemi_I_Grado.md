@@ -2,17 +2,24 @@
 
 ## UNITA' 1: Equazioni con due incognite e loro soluzioni
 
-Fino ad ora abbiamo visto equazioni di I grado con una sola incognita, ma una equazione di primo grado può avere due incognite, come ad esempio $x + y = 5$. Le soluzioni di equazioni del genere sono sempre numeri che sostituiti alle incognite rendono l'equazione una uguaglianza vera, ma stavolta i numeri da sostituire sono due, uno per incognita, per cui una soluzione è sempre una ***coppia di numeri*** che sostituita ordinatamente alle incognite (il primo elemento della coppia per la prima lettera, la $x$, ed il secondo per la seconda, la $y$) rende l'equazione vera.
+Fino ad ora abbiamo visto equazioni di I grado con una sola incognita, ma una equazione di primo grado può avere anche due incognite, come ad esempio $x + y = 5$. Le soluzioni di equazioni del genere sono sempre numeri che sostituiti alle incognite rendono l'equazione una uguaglianza vera, ma stavolta i numeri da sostituire sono due, uno per incognita, per cui una soluzione è sempre una ***coppia di numeri*** che sostituita ordinatamente alle incognite (il primo elemento della coppia per la prima lettera, la $x$, ed il secondo per la seconda, la $y$) rende l'equazione vera.
 
-Parlando di equazioni con due incognite i problemi che ci si pongono subito sono due:
+Parlando di equazioni con due incognite, i problemi che ci si pongono, come nel caso di una incognita, sono due:
 
 1. ***Verifica di Soluzioni***: Data una coppia di numeri, controllare se la coppia è una soluzione dell'equazione;
 2. ***Ricerca di soluzioni***: Data una equazione, trovare qualche soluzione dell'equazione (almeno due).
 
 Per rispondere alla prima domanda basta sostituire alle incognite ordinatamente i numeri della coppia e controllare che l'uguaglianza risulti vera.
 
-La tabella seguente riporta alcuni esempi di sostituzioni di coppie di numeri nell'equazione $x + y = 5$.
+#### ESEMPIO 1
 
+Controlliamo se la coppia $(1,4)$ è soluzione di $x + y = 5$.
+
+a) $x + y = 5, \; \{x = 1, y = 4\}$;
+
+b) $1 + 4 = 5 \longrightarrow True$.
+
+La coppia è soluzione. La tabella seguente riporta alcuni esempi di sostituzioni di coppie di numeri nell'equazione $x + y = 5$.
 $$
 \textbf{Sostituzioni} \\
 \begin{array}{|c|c|}
@@ -30,13 +37,15 @@ $$
 (-2, 7) & (-2) + 7 = 5 \longrightarrow True \\
 \hline 
 (3, 3) & 3 + 3 = 5 \longrightarrow False \\
-\hline\end{array}
+\hline\end{array} 
 $$
-Come si può notare a differenza delle equazioni con una sola incognita, dove c'è di norma una sola soluzione, le soluzioni alle equazioni con due incognite sono più di una, sono ***infinite***.
+Come si può notare a differenza delle equazioni con una sola incognita, dove c'è di norma una sola soluzione, le soluzioni alle equazioni con due incognite sono più di una, di norma sono ***infinite***.     $\bullet$
+
+
 
 La ricerca di soluzioni si fa scegliendo un numero a caso come primo elemento della coppia, sostituendolo ad una incognita e risolvendo l'equazione ad una sola incognita che rimane per trovare l'altro elemento della coppia.
 
-#### ESEMPIO
+#### ESEMPIO 2
 
 Per trovare due soluzioni dell'equazione $x + y = 5$ sostituiamo ad $x$ in sequenza i due valori $0$ ed $1$ e risolviamo l'equazione così ottenuta rispetto ad $y$.
 
@@ -44,7 +53,7 @@ a) $x + y = 5, \{x = 0\} \longrightarrow (0) + y = 5 \longrightarrow y = 5$;
 
 b) $x + y = 5, \{x = 1\} \longrightarrow (1) + y = 5 \longrightarrow y = 5 -1 \longrightarrow y = 4$;
 
-Le due soluzioni trovate sono $(0,5)$ e $(1, 4)$. $ \bullet$
+Le due soluzioni trovate sono $(0,5)$ e $(1, 4)$.     $\bullet$
 
 
 
@@ -78,19 +87,19 @@ b) Trova due soluzioni dell'equazione $y+3(y+x)=-1$.
 
 
 
-## UNITA' 2: Equazione in forma esplicita
+## UNITA' 2: Equazioni in forma esplicita
 
-Spesso è utile scrivere una equazione con due incognite in una forma diversa da quella originale, detta ***forma esplicita*** (rispetto ad una incognita). L'equazione in forma esplicita deve essere equivalente a quella originale, ossia deve avere le stesse soluzioni, ma una forma diversa: $y = \text{... in x}$.
+Spesso è utile scrivere una equazione con due incognite in una forma diversa da quella originale, detta ***forma esplicita*** (rispetto ad una incognita). L'equazione in forma esplicita deve essere equivalente a quella originale, ossia deve avere le stesse soluzioni, ma una forma diversa: $y = espressione \; in \; x$ è la forma esplicita dell'equazione rispetto alla $y$.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
-Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che viene detta esplicitazione dell'equazione rispetto all'incognita $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria. $ \bullet$
+Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che è in forma esplicita rispetto alla $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria. Questo procedimento viene detto esplicitazione rispetto all'incognita $y$.  $\bullet$
 
-#### ESEMPIO
+#### ESEMPIO 2
 
-Equazione originale: $0 = 2y + x$,  forma esplicita (rispetto ad $y$):  $y = -\dfrac{1}{2}x$.
+Equazione originale: $0 = 2y + x$,  forma esplicita rispetto alla $y$:  $y = -\dfrac{1}{2}x$.
 
-La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equazione rispetto all'incognita da esplicitare come se questa fosse l'unica incognita. $ \bullet$
+La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equazione rispetto all'incognita da esplicitare **come se questa fosse l'unica incognita**. $ \bullet$
 
 
 
@@ -98,7 +107,7 @@ La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equ
 
 ### ESERCIZIO 2.1 - Esplicitazione di incognita
 
-Risolvi le equazioni seguenti come se la lettera $y$ fosse l'unica incognita.    
+Risolvi le equazioni seguenti come se la lettera $y$ fosse l'unica incognita.
 
 a) $2x-y=0$;   $x+3y=-1$;   $7x-\dfrac{1}{3}y+1=y$  
 b) $3x+y=1-2y$;   $4x-3y = 2y+2-5x$;   $4(y - 2x) + 10x - 3 = -2$  
@@ -115,7 +124,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 ## UNITA' 3: Sistema di equazioni e metodo di soluzione
 
-Un ***sistema*** di equazioni è un gruppo (due) di equazioni (in due incognite) di cui si cercano le soluzioni comuni, ossia le coppie di numeri che siano soluzioni simultaneamente di tutte le equazioni. Mentre una equazione ha solitamente infinite soluzioni, due equazioni hanno solitamente (ossia tranne casi particolari) una sola soluzione. Per trovarla si utilizza un metodo detto di ***sostituzione*** che si articola in 4 passi. Per illustrare il metodo risolveremo il sistema seguente:
+Un ***sistema*** di equazioni è un gruppo (due) di equazioni (in due incognite) **di cui si cercano le soluzioni comuni**, ossia le coppie di numeri che siano soluzioni simultaneamente di tutte le equazioni. Mentre una equazione ha solitamente infinite soluzioni, due equazioni hanno solitamente (ossia tranne casi particolari) una sola soluzione. Per trovarla si utilizza un metodo detto di ***sostituzione*** che si articola in 4 passi. Per illustrare il metodo risolveremo il sistema seguente:
 
 $$\left\{  
 \begin{array}{c} 
@@ -124,21 +133,21 @@ x-3y=10\\
 \end{array} 
 \right.$$
 
-**PASSO 1** (esplicitazione): si sceglie una equazione, si sceglie una incognita e si risolve come se questa fosse l'unica incognita, trovando come soluzione una **espressione letterale**. Ad esempio consideriamo la prima equazione e risolviamo rispetto alla $y$ ottenendo la soluzione $-1-2x$:
+**PASSO 1:  Esplicitazione**. Si sceglie una equazione, si sceglie una incognita e si esplicita rispetto a questa incognita, ossia si risolve come se questa fosse l'unica incognita, trovando come soluzione una **espressione letterale**. Ad esempio consideriamo la prima equazione e risolviamo rispetto alla $y$ ottenendo la soluzione $-1-2x$:
 
 a) $y = -1 - 2x$.
 
 La nostra equazione con due incognite avrà quindi una **soluzione letterale** della forma $(x, -1-2x)$.
 
-**PASSO 2**: (sostituzione): si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare) perché la soluzione deve rendere vera anche la seconda equazione. Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
+**PASSO 2: Sostituzione**. Si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare) perché la soluzione deve rendere vera anche la seconda equazione. Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
 
-b) $x - 3y = 10, \{y = -1-2x\}$ $\longrightarrow x - 3(-1-2x) = 10$
+b) $x - 3y = 10, \{y = -1-2x\}$ $\longrightarrow x - 3(-1-2x) = 10$
 
-**PASSO 3**: (risoluzione): si risolve l'equazione con una sola incognita trovando il numero che la verifica.
+**PASSO 3: Risoluzione**. Si risolve l'equazione con una sola incognita trovando il numero che la verifica.
 
 c) $x +3 +6x = 10 \longrightarrow 7x = 7 \longrightarrow x = 1$.
 
-**PASSO 4**: (completamento): si sostituisce il numero alla incognita nella soluzione letterale trovata alla fine del PASSO 1, che diventa così una soluzione numerica:
+**PASSO 4: Completamento. **. Si sostituisce il numero alla incognita nella equazione esplicitata trovata alla fine del PASSO 1, che diventa così una soluzione numerica:
 
 d) $(x, -1-2x), \{x = 1\} \longrightarrow (1, -1 - 2(1)) \longrightarrow (1, -3)$.
 
