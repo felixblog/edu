@@ -365,7 +365,7 @@ P_s = P_l - S
 $$
 Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, ad esempio il $30\%$, che <u>è la stessa per tanti prodotti in saldo</u> e ci permette di calcolare lo sconto su ciascun prodotto della categoria, moltiplicando per il prezzo di listino ossia $s \cdot P_l = S$.
 
-Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_s = P_l - sP_l$, ossia, mettendo in evidenza $P_l$:
+Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_s = P_l - sP_l$, che possiamo scrivere, mettendo in evidenza $P_l$, come è riportato nella formula seguente:
 $$
 P_s = P_l(1 - s).
 $$
@@ -382,7 +382,7 @@ b) $P_s= 35(1-0.4)$;
 
 c) $P_s = 35 \cdot 0.6$;
 
-d) $P_s =  14$.
+d) $P_s =  14$.
 
 
 
@@ -404,15 +404,21 @@ Questa schematizzazione è così comune che anche in altri contesti, quando vogl
 
 #### ESEMPIO 3
 
-Un lavoratore dipendente ha una retribuzione netta che è circa il $45 \%$ del lordo in busta paga. Se la retribuzione lorda ammonta a $38.000$ euro, a quanto ammontano le tasse e gli altri contributi? 
+Un lavoratore dipendente ha una retribuzione netta che è circa il $45 \%$ del lordo in busta paga. Se la retribuzione lorda ammonta a $38.000$ euro, a quanto ammontano le tasse e gli altri contributi? 
 
-Abbiamo che $N = 0.45 \cdot L$, per cui sostituendo nella formula: $L= 0.45L + T$. Risolvendo rispetto a $T$ abbiamo che $T = L - 0.45L$, cioè $T = 0.65L$. Sostituendo abbiamo:
+Abbiamo che $N = 0.45 \cdot L$, per cui sostituendo nella formula $L = N + T$ abbiamo:
 
-a) $T = 0.65L, \{L = 38.000\}$;
+a) $L = N + T, \{N = 0.45 \cdot L, L = 38\,000\}$;
 
-b) $T = 0.65 \cdot 38.000$;
+b) $L = 0.45 \cdot L + T, \{L = 38\,000\}$;
 
-c) $T = 24.700$    $\bullet$
+c) $38\,000 = 0.45 \cdot 38\,000 + T$;
+
+d) $38\,000 = 17\,100 + T$;
+
+e) $38\,000 - 17\,100 = T$;
+
+f) $20\,900 = T$    $\bullet$
 
 
 
@@ -430,12 +436,22 @@ Spesso è conveniente anche calcolare il margine di una operazione in percentual
 
 Un commerciante pensa di acquistare un lotto di $20$ magliette del costo a lui di $15$ euro l'una. Che ricavo dovrà avere dalla loro vendita perché questa operazione abbia un utile dl almeno $100$ euro? Quale dovrà essere il prezzo di ogni maglietta? Quale sarà il mark-up in percentuale?
 
-Il costo totale $C$ è pari a $300$ euro; se $U= 100$, sostituendo nella formula $100 = R - 300$ da cui risolvendo $R = 400$ euro.
+Per calcolare il ricavo $R$ risolviamo l'equazione che ha incognita $R$ dopo aver sostituito i numeri alle lettere nella prima formula.
 
-Ogni maglietta dovrà avere un prezzo di $20$ euro ed il mark-up è
-$$
-q = \dfrac{U}{C} \longrightarrow \dfrac{100}{300} \approx 33.3 \% \;\; \bullet
-$$
+a) $U= R-C, \{C = 300, U = 100\}$;
+
+b) $100 = R - 300$;
+
+c) $100 + 300 = R$;
+
+d) $400 = R$.
+
+Dividendo $400$ per $20$ abbiamo che ogni maglietta dovrà avere un prezzo di $20$ euro ed per calcolare il mark-up percentuale sostituiamo i numeri alle lettere nella formula.
+
+a) $q = \dfrac{U}{C}, \{C=300, U = 100\}$;
+
+b) $q = \dfrac{100}{300} \approx 33.3 \%$  $ \;\; \bullet$
+
 
 
 
@@ -445,7 +461,7 @@ L'IVA (Imposta sul Valore Aggiunto) è una imposta che il consumatore paga quand
 
 In pratica, se indichiamo con $C$ il prezzo, IVA esclusa, di un prodotto e con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ sarà dato da $a \cdot C$ e la formula è $I = a \cdot C$.
 
-Il prezzo finale $P$ del prodotto al consumatore IVA inclusa, sarà allora $P = C + I$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, diventa:
+Il prezzo finale $P$ del prodotto al consumatore, IVA inclusa, sarà allora $P = C + I$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, possiamo scrivere:
 $$
 P = C(1 + a)
 $$
@@ -454,10 +470,19 @@ $$
 
 Qual è il prezzo, iva esclusa, di un articolo che ha un prezzo di listino di $170$ euro e sul quale si applica una aliquota IVA del $22 \%$?
 
-Sostituendo $P = 170$ ed $a = 0.22$ nella formula e risolvendo si ha:
-$$
-170 = C(1+0.22) \longrightarrow C = \dfrac{170}{1.22} \approx 139.34  \;\; \bullet
-$$
+Sostituendo $P = 170$ ed $a = 0.22$ nella formula e risolvendo l'equazione che ha incognita $C$ si ha:
+
+a) $P = C(1 + a), \{a = 0.22, P = 170\}$;
+
+b) $170 = C(1+0.22)$;
+
+c) $170 = 1.22 \cdot C$;
+
+d) $C = \dfrac{170}{1.22} \approx 139.34$.    $\bullet$ 
+
+
+
+Lo stesso calcolo con GEOGEBRA diventa:
 
 $e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$
 
@@ -473,7 +498,7 @@ $RisolviN(e,C)$
 
 Risolvi i problemi seguenti individuando una formula risolutiva ed applicandola, sostituendo i numeri alle lettere, nel caso specifico, e risolvendo l'equazione risultante.
 
-a) Nel 2006 il film Titanic ha avuto un incasso mondiale di $\text{1.835}$ milioni di dollari con un profitto di $\text{1.595}$ milioni. Quanto è costato il film?
+a) Nel 2006 il film Titanic ha avuto un incasso mondiale di $\text{1\,835}$ milioni di dollari con un profitto di $\text{1\,595}$ milioni. Quanto è costato il film?
 
 b) A Gennaio un maglione invece che $90$ euro lo puoi pagare $60$. Che percentuale di sconto è stata applicata?
 
@@ -547,7 +572,7 @@ $$
 
 a) Se una mongolfiera viaggia ad una media di $\text{37 Km/h}$, quanto tempo impiegherà a percorrere $\text{166 Km}$? 
 
-b) Un aereo vola tra Chicago e S. Francisco in $\text{3.75}$ ore. Se le città distano $\text{2.100 Km}$ quale è la velocità media dell'aereo?
+b) Un aereo vola tra Chicago e S. Francisco in $\text{3.75}$ ore. Se le città distano $\text{2\,100 Km}$ quale è la velocità media dell'aereo?
 
 c) La stazione di Latina si trova sulla linea ferroviaria Roma - Napoli e dista $\text{55 Km}$ da Roma e $\text{155 Km}$ da Napoli. Se un treno parte da Napoli alle $\text{9:30}$ ed arriva a Latina alle $\text{10:00}$, quando possiamo prevedere che arriverà a Roma?
 
