@@ -106,7 +106,7 @@ Se però l'equazione è anche di poco più complessa, trovare la soluzione senza
 
 ### REGOLA DELLA SEMPLIFICAZIONE
 
-Possiamo effettuare le operazioni contenute in uno o in entrambi i membri di una equazione ottenendo così una nuova equazione che ha le stesse soluzioni di quella originaria.
+Possiamo effettuare le operazioni (semplificazioni) contenute in uno o in entrambi i membri di una equazione ottenendo così una nuova equazione che ha le stesse soluzioni di quella originaria.
 
 #### ESEMPIO 1
 
@@ -122,7 +122,7 @@ L'equazione c) ha le stesse soluzioni della a), come si può controllare sostitu
 
 ### REGOLA DEL TRASPORTO (DELLA SOMMA)
 
-Possiamo trasportare una espressione che sia parte di una somma, da un membro all'altro dell'equazione, cambiando il suo segno e sommarla algebricamente ai termini già presenti. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
+Possiamo trasportare una espressione **che sia parte di una somma**, da un membro all'altro dell'equazione, cambiando il suo segno e sommarla algebricamente all'espressione già presente. La nuova equazione che si ottiene ha le stesse soluzioni della precedente.
 
 #### ESEMPIO 2
 
@@ -158,7 +158,7 @@ Il numero $+3$ è scomparso dal membro sinistro ed è comparso sommato al membro
 
 ### REGOLA DELLA MOLTIPLICAZIONE/DIVISIONE
 
-Possiamo moltiplicare/dividere entrambi i membri di una equazione per una stessa espressione (diversa da zero); otteniamo una nuova equazione che ha le stesse soluzioni della equazione originaria.
+Possiamo moltiplicare o dividere entrambi i membri di una equazione per una stessa espressione (diversa da zero); otteniamo una nuova equazione che ha le stesse soluzioni della equazione originaria.
 
 #### ESEMPIO 3
 
@@ -170,7 +170,7 @@ Se applichiamo la regola della semplificazione eseguendo le moltiplicazioni, ott
 
 c) $x = 5$.
 
-L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $5$.    $\bullet$
+L'equazione b) ha le stesse soluzioni della a), come si può controllare sostituendo ad $x$ il numero $5$. Lo stesso risultato si otteneva dividendo tutto per $2$.    $\bullet$
 
 
 
@@ -333,15 +333,23 @@ L'area di un triangolo è simile: la base del triangolo deve essere moltiplicata
 
 #### ESEMPIO 1
 
-Un imbianchino ordina vernice bianca per dipingere una parete rettangolare che ha una superficie di $11,2\; m^2$. La parete è lunga $4$ metri: quanto è alta?
+Un imbianchino ordina vernice bianca per dipingere una parete rettangolare che ha una superficie di $11.2\; m^2$. La parete è lunga $4$ metri: quanto è alta?
 
-Sostituendo alle lettere della formula dell'area del rettangolo i dati del problema, abbiamo l'equazione $11,2 = 4 \cdot h$, dove l'incognita è $h$. La soluzione è $h = \dfrac{11,2}{4} \longrightarrow 2,8$ metri.
+Sostituendo alle lettere della formula dell'area del rettangolo i dati del problema, abbiamo l'equazione $11,2 = 4 \cdot h$, dove l'incognita è $h$. La soluzione è $h = \dfrac{11.2}{4} \longrightarrow 2.8$ metri.
+
+a) $A = b \cdot h, \{A=11.2, b=4\}$;
+
+b) $11,2 = 4 \cdot h$;
+
+c) $\dfrac{11.2}{4} = h$;
+
+d) $2.8 = h$.
 
 Risolvendo il problema con GEOGEBRA avremmo le due istruzioni:
 
 $e = Sostituisci(A = b \cdot h, \{A = 11.2, b = 4\})$
 
-​	$\longrightarrow 11,2 = 4 \cdot h$
+​	$\longrightarrow 11.2 = 4 \cdot h$
 
 $Risolvi(e,h)$ 
 
@@ -355,7 +363,7 @@ Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negoz
 $$
 P_s = P_l - S
 $$
-Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, che è il rapporto tra lo sconto ed il prezzo di listino $ \dfrac{S}{P_l}$ scritto in percentuale. Questa percentuale, ad esempio il $30\%$  <u>è la stessa per tanti prodotti in saldo</u>; se la indichiamo con $s$ abbiamo la formula $s = \dfrac{S}{P_l}$. Da questa formula si trova che $S = s \cdot P_l$ è la formula che ci permette di calcolare lo sconto su ciascun prodotto a partire dalla percentuale di sconto applicata a tutti gli articoli in saldo della stessa categoria.
+Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, ad esempio il $30\%$, che <u>è la stessa per tanti prodotti in saldo</u> e ci permette di calcolare lo sconto su ciascun prodotto della categoria, moltiplicando per il prezzo di listino ossia $s \cdot P_l = S$.
 
 Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_s = P_l - sP_l$, ossia, mettendo in evidenza $P_l$:
 $$
@@ -366,10 +374,17 @@ $$
 
 Una maglietta è in saldo al $40 \%$. Se costava $\text{35}$ euro, quanto costa scontata?
 
-Sostituendo nella formula precedente alle lettere  i numeri, abbiamo $P_l= 35$, $s = 0.4$ e quindi
-$$
-P_s = 35(1-0.4) \longrightarrow 35 \cdot 0.6 \longrightarrow 21\; \text{euro}
-$$
+Sostituendo nella formula precedente alle lettere  i numeri, abbiamo
+
+a) $P_s = P_l(1 - s), \{P_l= 35, s = 0.4\}$
+
+b) $P_s= 35(1-0.4)$;
+
+c) $P_s = 35 \cdot 0.6$;
+
+d) $P_s =  14$.
+
+
 
 Con GEOGEBRA avremmo:
 
@@ -389,9 +404,15 @@ Questa schematizzazione è così comune che anche in altri contesti, quando vogl
 
 #### ESEMPIO 3
 
-Un lavoratore dipendente ha una retribuzione netta che è circa il $50 \%$ del lordo in busta paga. Quale è il "peso" delle tasse e degli altri contributi? 
+Un lavoratore dipendente ha una retribuzione netta che è circa il $45 \%$ del lordo in busta paga. Se la retribuzione lorda ammonta a $38.000$ euro, a quanto ammontano le tasse e gli altri contributi? 
 
-Abbiamo che $N = 0.5 \cdot L$, per cui sostituendo nella formula: $L= 0.5L + T$. Risolvendo rispetto a $T$ abbiamo che $T = L - 0.5L$, cioè $T = 0.5L$: le tasse pesano per la metà della retribuzione lorda.    $ \bullet$
+Abbiamo che $N = 0.45 \cdot L$, per cui sostituendo nella formula: $L= 0.45L + T$. Risolvendo rispetto a $T$ abbiamo che $T = L - 0.45L$, cioè $T = 0.65L$. Sostituendo abbiamo:
+
+a) $T = 0.65L, \{L = 38.000\}$;
+
+b) $T = 0.65 \cdot 38.000$;
+
+c) $T = 24.700$    $\bullet$
 
 
 
@@ -409,7 +430,9 @@ Spesso è conveniente anche calcolare il margine di una operazione in percentual
 
 Un commerciante pensa di acquistare un lotto di $20$ magliette del costo a lui di $15$ euro l'una. Che ricavo dovrà avere dalla loro vendita perché questa operazione abbia un utile dl almeno $100$ euro? Quale dovrà essere il prezzo di ogni maglietta? Quale sarà il mark-up in percentuale?
 
-Il costo totale $C$ è pari a $300$ euro; se $U= 100$, sostituendo nella formula $100 = R - 300$ da cui risolvendo $R = 400$ euro. Ogni maglietta dovrà avere un prezzo di $20$ euro ed il mark-up è
+Il costo totale $C$ è pari a $300$ euro; se $U= 100$, sostituendo nella formula $100 = R - 300$ da cui risolvendo $R = 400$ euro.
+
+Ogni maglietta dovrà avere un prezzo di $20$ euro ed il mark-up è
 $$
 q = \dfrac{U}{C} \longrightarrow \dfrac{100}{300} \approx 33.3 \% \;\; \bullet
 $$
