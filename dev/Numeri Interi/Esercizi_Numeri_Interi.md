@@ -4,7 +4,7 @@
 
 Un numero intero, o relativo, è un numero costituito di due parti: la prima parte è un numero naturale (detto ***valore assoluto***) e la seconda è un segno "$+$" o "$-$"  che lo precede a sinistra, ad esempio $+5$, $-5$, $+134$, $-21$. I numeri con segno "+" si chiamano ***positivi***, mentre quelli con il segno "-" si chiamano ***negativi***. Il numero $+5$ è positivo, $-21$ è negativo, il valore assoluto di $-21$ è $21$ ed il valore assoluto di $+5$ è $5$. 
 
-In una espressione con i numeri interi, **ogni numero ha un segno** alla sua sinistra, ed **ogni segno ha un numero** (alla sua destra). A volte compaiono numeri non preceduti da segno; in tal caso i numeri si intendono positivi.
+In una espressione con i numeri interi i "building block", ossia i mattoni, con cui è costruita l'espressione sono i numeri con segno e le loro operazioni. **Ogni numero ha un segno** (alla sua sinistra), ed **ogni segno ha un numero** (alla sua destra). A volte compaiono numeri non preceduti da segno ed in tal caso i numeri si intendono positivi.
 
 E' molto utile mettere in corrispondenza I numeri interi con alcuni punti di una retta. Consideriamo una retta orizzontale e fissiamo un punto particolare, che chiameremo ***origine*** $O$, un segmento come ***unità di misura*** delle distanze ed un ***verso***, a destra, come in figura. 
 

@@ -357,6 +357,10 @@ $Risolvi(e,h)$
 
 
 
+Come si vede dall'esempio precedente, usare la formula generale per risolvere un problema specifico, si dice anche "applicare" la formula ad un problema specifico, significa far corrispondere le lettere a numeri attraverso una sostituzione, per cui, da quel momento in poi, le lettere diventano il "nome" per i numeri.
+
+
+
 #### Lo sconto ai saldi
 
 Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
@@ -390,7 +394,9 @@ Con GEOGEBRA avremmo:
 
 $Sostituisci(P_s = P_l \cdot (1-s), \{P_l = 35, s = 0.4\})$
 
-​	$\longrightarrow \{P_s = 21\}$      $\bullet$ 
+​	$\longrightarrow \{P_s = 21\}$
+
+In questo caso non è necessario risolvere l'equazione in quanto è già in forma elementare.      $\bullet$ 
 
 
 
@@ -482,7 +488,7 @@ d) $C = \dfrac{170}{1.22} \approx 139.34$.    $\bullet$
 
 
 
-Lo stesso calcolo con GEOGEBRA diventa:
+Lo stesso calcolo con GEOGEBRA diventa:
 
 $e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$
 
