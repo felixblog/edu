@@ -89,17 +89,17 @@ b) Trova due soluzioni dell'equazione $y+3(y+x)=-1$.
 
 ## UNITA' 2: Equazioni in forma esplicita
 
-Spesso è utile scrivere una equazione con due incognite in una forma diversa da quella originale, detta ***forma esplicita*** (rispetto ad una incognita). L'equazione in forma esplicita deve essere equivalente a quella originale, ossia deve avere le stesse soluzioni, ma una forma diversa: $y = espressione \; in \; x$ è la forma esplicita dell'equazione rispetto alla $y$.
+Spesso è utile scrivere una equazione con due incognite in una forma diversa da quella originale, detta ***forma esplicita*** (rispetto ad una incognita). L'equazione in forma esplicita deve essere equivalente a quella originale, ossia deve avere le stesse soluzioni, ma una forma diversa: $y = espressione \; in \; x$ è la forma esplicita dell'equazione rispetto alla $y$.
 
 #### ESEMPIO 1
 
-Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che è in forma esplicita rispetto alla $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria. Questo procedimento viene detto esplicitazione rispetto all'incognita $y$.  $\bullet$
+Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che è in forma esplicita rispetto alla $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria. Questo procedimento viene detto di **esplicitazione** rispetto all'incognita $y$.  $\bullet$
 
 #### ESEMPIO 2
 
 Equazione originale: $0 = 2y + x$,  forma esplicita rispetto alla $y$:  $y = -\dfrac{1}{2}x$.
 
-La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equazione rispetto all'incognita da esplicitare **come se questa fosse l'unica incognita**. $ \bullet$
+La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equazione rispetto all'incognita da esplicitare **come se questa fosse l'unica incognita**. $\bullet$
 
 
 
@@ -141,15 +141,25 @@ La nostra equazione con due incognite avrà quindi una **soluzione letterale** d
 
 **PASSO 2: Sostituzione**. Si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare) perché la soluzione deve rendere vera anche la seconda equazione. Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
 
-b) $x - 3y = 10, \{y = -1-2x\}$ $\longrightarrow x - 3(-1-2x) = 10$
+b) $x - 3y = 10, \{x = x, y = -1-2x\}$;
+
+c) $x - 3(-1-2x) = 10$.
 
 **PASSO 3: Risoluzione**. Si risolve l'equazione con una sola incognita trovando il numero che la verifica.
 
-c) $x +3 +6x = 10 \longrightarrow 7x = 7 \longrightarrow x = 1$.
+d) $x +3 +6x = 10$;
 
-**PASSO 4: Completamento. **. Si sostituisce il numero alla incognita nella equazione esplicitata trovata alla fine del PASSO 1, che diventa così una soluzione numerica:
+e) $7x = 7$;
 
-d) $(x, -1-2x), \{x = 1\} \longrightarrow (1, -1 - 2(1)) \longrightarrow (1, -3)$.
+f) $x = 1$.
+
+**PASSO 4: Completamento**. Si sostituisce il numero alla incognita nella soluzione letterale trovata alla fine del PASSO 1, che diventa così una soluzione numerica:
+
+g) $(x, -1-2x), \{x = 1\}$;
+
+h) $(1, -1 - 2(1))$;
+
+i) $(1, -3)$.
 
 La coppia $(1, -3)$ è una soluzione numerica di entrambe le equazioni e di conseguenza del sistema.
 

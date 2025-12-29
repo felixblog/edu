@@ -237,11 +237,25 @@ $$
 #### ESEMPIO 1
 
 Se abbiamo i punti $P_1 = (0,0)$ e $P_2 = (2,1)$, e $x_1=0, y_1=0, x_2=2, y_2=1$, sostituendo nelle formule precedenti:
+
+a) $m = \dfrac{y_2 - y_1}{x_2 - x_1}, \{x_1=0, y_1=0, x_2=2, y_2=1\}$;
+
+b) $m = \dfrac{(1) - 0}{(2) - 0}$;
+
+c) $m =\dfrac{1}{2}$.
+
+d) $q = y_2 - m \cdot x_2, \{m = \dfrac{1}{2}, x_2=2, y_2=1\}$;
+
+e) $q = 1 - \dfrac{1}{2} 2$;
+
+f) $q = 0$.
+
+Riassumendo:
 $$
 \left\{  
 \begin{array}{l} 
-m = \dfrac{1 - 0}{2 - 0} =\dfrac{1}{2} \\  
-q = 1 - \dfrac{1}{2} 2 = 0 \\   
+m = \dfrac{1}{2} \\  
+q = 0 \\   
 \end{array} 
 \right.
 $$
@@ -301,7 +315,7 @@ Consideriamo l'equazione $5x-3y=12$. Non è nella forma esplicita. Per trovare l
 
 a) $5x-3y=12$
 
-b) $-3y = 12 - 5x$   Moltiplichiamo entrambi i membri per $-\dfrac{1}{3}$
+b) $-3y = 12 - 5x$   Moltiplichiamo entrambi i membri per $-\dfrac{1}{3}$
 
 c) $-\dfrac{1}{3} \cdot \left(-3y\right) = -\dfrac{1}{3} \cdot \left(12 - 5x\right)$
 

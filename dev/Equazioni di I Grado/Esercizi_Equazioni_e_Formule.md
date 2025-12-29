@@ -29,14 +29,19 @@ c) $10= 10  \longrightarrow Vero$     $\bullet$
 
 
 
-In generale una ***equazione*** (numerica di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***. Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza vera. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza è il ***membro sinistro*** mentre l'altro è il ***membro destro***.
+In generale una ***equazione*** (numerica di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***, come ad esempio $2x = 1 + x$.
 
-I problemi che ci si pongono di fronte ad una equazione sono due:
+Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza vera, come ad esempio il numero $1$. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza, cioè $2x$, è il ***membro sinistro*** mentre l'altro, $1+ x$, è il ***membro destro***.
 
-1. ***Verifica di una Soluzione***: Dato un numero, controllare se è una soluzione dell'equazione;
-2. ***Ricerca di una soluzione***: Data una equazione, trovare le sue soluzioni.
+Noi utilizzeremo le equazioni per tre attività:
 
-Per rispondere alla prima domanda basta sostituire alla incognita il numero e controllare che l'uguaglianza risulti vera, qualunque sia l'equazione.
+1. ***Verifica di una Soluzione***: abbiamo una equazione ed un numero e controlliamo se il numero è una soluzione dell'equazione;
+2. ***Ricerca di una soluzione***: abbiamo una equazione e vogliamo trovare un numero che sia una sua soluzione;
+3. **Scrittura di una equazione**: abbiamo un problema e vogliamo scrivere una equazione la cui soluzione risolve il nostro problema.
+
+
+
+Per affrontare la prima attività basta sostituire alla incognita dell'equazione il numero e controllare che l'uguaglianza risulti vera, qualunque sia l'equazione.
 
 #### ESEMPIO 2
 
@@ -100,9 +105,9 @@ Controllando che $\dfrac{5}{2} \approx 2,5$ mentre $\dfrac{29}{10} \approx 2,9$ 
 
 ## UNITA' 2: Metodo risolutivo delle equazioni di I grado
 
-La soluzione alle equazioni molto semplici può essere trovata per tentativi, ossia con una ricerca "euristica". Ad esempio il numero il cui doppio è $10$, è $5$; oppure il numero che sommato a $3$ è uguale ad $1$ è $-2$. Trovare questi numeri significa risolvere le equazioni $2x = 10$ e $3 + x = 1$, che sono molto semplici.
+La ricerca della soluzione delle equazioni molto semplici può essere trovata per tentativi, ossia con una ricerca "euristica". Ad esempio il numero il cui doppio è $10$, è $5$; oppure il numero che sommato a $3$ è uguale ad $1$ è $-2$. Trovare questi numeri significa risolvere le equazioni $2x = 10$ e $3 + x = 1$, che sono molto semplici.
 
-Se però l'equazione è anche di poco più complessa, trovare la soluzione senza un metodo diventa impossibile. Il metodo per risolvere le equazioni è basato sull'applicazione ripetuta di tre ***regole di equivalenza***, che consentono di trasformare una equazione in una nuova equazione, più vicina ad una equazione elementare, che però abbia le stesse soluzioni di quella originaria.
+Se però l'equazione è anche di poco più complessa, trovare la sua soluzione senza un metodo diventa impossibile. Il metodo per risolvere le equazioni è basato sull'applicazione ripetuta di tre ***regole di equivalenza***, che consentono di trasformare una equazione in una nuova equazione, più vicina ad una equazione elementare, che però abbia le stesse soluzioni di quella originaria.
 
 ### REGOLA DELLA SEMPLIFICAZIONE
 
@@ -363,15 +368,15 @@ Come si vede dall'esempio precedente, usare la formula generale per risolvere un
 
 #### Lo sconto ai saldi
 
-Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $S = P_l - P_s$. Il prezzo scontato si calcola a partire dal prezzo di listino meno lo sconto: 
+Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $P_l - P_s = S$. Il prezzo scontato si calcola sottraendo dal prezzo di listino lo sconto: 
 $$
-P_s = P_l - S
+P_l - S = P_s
 $$
 Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, ad esempio il $30\%$, che <u>è la stessa per tanti prodotti in saldo</u> e ci permette di calcolare lo sconto su ciascun prodotto della categoria, moltiplicando per il prezzo di listino ossia $s \cdot P_l = S$.
 
-Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_s = P_l - sP_l$, che possiamo scrivere, mettendo in evidenza $P_l$, come è riportato nella formula seguente:
+Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_l - sP_l = P_s$, che possiamo scrivere, mettendo in evidenza $P_l$, come è riportato nella formula seguente:
 $$
-P_s = P_l(1 - s).
+P_l(1 - s) = P_s.
 $$
 
 #### ESEMPIO 2
@@ -534,15 +539,29 @@ $$
 
 Una persona passeggia per un'ora e mezza alla velocità di $6 \; Km/h$​. Quanti chilometri percorre?
 
-Dalla formula generale, esplicitando la $s$, ossia risolvendo come se $s$ fosse l'unica incognita, otteniamo $s = v \cdot t$, cioè $s = 6 \cdot 1,5 \longrightarrow 9 \; Km/h$.   $\bullet$
+Dalla formula generale, abbiamo l'equazione:
+
+a) $v = \dfrac{s}{t}, \{t = 1.5, v = 6\}$;
+
+b) $6 = \dfrac{s}{1.5}$;  Risolvendo l'equazione abbiamo
+
+c) $6 \cdot 1.5 = s$;
+
+d) $9 = s$.
+
+La persona percorre $9 \ Km$.   $\bullet$
 
 
 
 #### ESEMPIO 2
 
-Nel 2009 l’atleta giamaicano Usain Bolt ha corso i 100 metri piani in $9.58$ secondi. Quale è stata la sua velocità media in $Km/h$?
+Nel 2009 l’atleta giamaicano Usain Bolt ha corso i $100$ metri piani in $9.58$ secondi. Quale è stata la sua velocità media in $Km/h$?
 
-Dalla formula otteniamo $v = \dfrac{s}{t}$, cioè $v = \dfrac{100}{9,58} \longrightarrow 10,44 \;m/s$. Per trasformarli in $Km/h$ al posto di $m$ sostituiamo $\dfrac{1}{1000}Km$ ed al posto di $s$ $\dfrac{1}{3600}h$, per cui $10,44 \;m/s \longrightarrow 10,44 \cdot \dfrac{\dfrac{1}{1000}}{\dfrac{1}{3600}} \longrightarrow 10,44 \cdot 3,6 = 37,584 \; Km/h$.   $\bullet$
+Prima di applicare la formula dobbiamo riportare le quantità alle unità di misura che cerchiamo cioè $Km$ ed ore. $100 \ m$ metri equivalgono a $0.1 \ Km$ e $9.58 \ sec$ corrispondono a $\dfrac{9.58}{3\ 600} \approx 0.0026 \ h$. Dalla formula abbiamo quindi:
+
+a) $v = \dfrac{s}{t}, \{s = 0.1 \ Km, t = 0.0026 \ h\}$;
+
+b) $v = \dfrac{0.1}{0.0026} \approx 38.46 \ \dfrac{Km}{h}$.   $\bullet$
 
 
 
@@ -552,7 +571,7 @@ La velocità non riguarda solo il movimento ma molti altri fenomeni, ad esempio 
 
 Per stampare un documento di $120$ pagine una stampante impiega $12$ minuti. Quale è la sua velocità (di stampa)?
 
-Dalla formula della velocità $v = \dfrac{s}{t}$ abbiamo che $s = 120$ e $t = 12$ per cui $v = \dfrac{120}{12} \longrightarrow 10$ pagine al minuto.   $\bullet$
+Dalla formula della velocità $v = \dfrac{s}{t}$ abbiamo che $s = 120$ e $t = 12$ per cui $v = \dfrac{120}{12} \longrightarrow 10$ pagine al minuto.    $\bullet$
 
 
 
@@ -566,10 +585,15 @@ Se indichiamo con $s$ la quantità di risorse disponibili che vengono esaurite i
 
 Un cucchiaio di olio equivale a circa $15$ millilitri, che è anche equivalente a $3$ cucchiaini. Se una famiglia consuma $12$ cucchiai di olio al giorno, quanti giorni durerà una bottiglia d'olio da un litro?
 
-In un litro ci sono $s = 1000$ millilitri di olio e la famiglia consuma $12 \cdot 15 = 180$ millilitri di olio al giorno. Se indichiamo con $t$ la durata della bottiglia e con $v$ la rapidità di consumo, dalla formula $v = \dfrac{s}{t}$ abbiamo la seguente equazione: 
-$$
-180 = \dfrac{1000}{t} \longrightarrow t = \dfrac{1000}{180} \approx 5.5 \;\text{giorni} \;\;\bullet
-$$
+In un litro ci sono $s = 1000$ millilitri di olio e la famiglia consuma $12 \cdot 15 = 180$ millilitri di olio al giorno. Se indichiamo con $t$ la durata della bottiglia e con $v$ la rapidità di consumo, dalla formula $v = \dfrac{s}{t}$, sostituendo abbiamo
+
+a)  $v = \dfrac{s}{t}, \{v = 180, s = 1\ 000\}$;
+
+b) $180 = \dfrac{1 \ 000}{t}$;
+
+c) $180 \cdot t = 1 \ 000$;
+
+d) $t = \dfrac{1000}{180} \approx 5.5 \;\text{giorni}$.    $\bullet$
 
 
 
