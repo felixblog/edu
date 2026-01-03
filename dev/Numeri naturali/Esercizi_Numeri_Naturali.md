@@ -723,9 +723,11 @@ Se leggiamo l'uguaglianza da sinistra verso destra, ossia $a \cdot (b + c) \Righ
 $$
 a \cdot b + a \cdot c = a \cdot (b + c)
 $$
-la proprietà ci dice che possiamo scrivere una somma di numeri come un prodotto mettendo in evidenza un fattore comune.
+la proprietà ci dice che possiamo scrivere una somma di numeri come un prodotto mettendo in evidenza un fattore comune, se è presente.
 
 #### ESEMPIO 1
+
+I numeri $6$ ed $8$ hanno $2$ come fattore comune, per cui possiamo scrivere:
 
 $6 + 8 \longrightarrow 2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$;
 
@@ -739,21 +741,24 @@ In questo caso $40 + 25 = 5 \cdot 13$.     $\bullet$
 
 #### Proprietà invariantiva del rapporto
 
-Una importante proprietà del rapporto è quella per cui se moltiplichiamo e poi dividiamo un numero per un altro, il numero non cambia. Se moltiplichiamo $5$ per $3$, che fa $15$ e poi dividiamo $15$ per $3$ otteniamo di nuovo $3$. In generale:
+Una importante proprietà del rapporto è quella per cui se moltiplichiamo e poi dividiamo un numero per un altro, il numero non cambia. Se moltiplichiamo $5$ per $3$, che fa $15$ e poi dividiamo $15$ per $3$ otteniamo di nuovo $5$ che è il numero iniziale. In generale se moltiplichiamo un qualsiasi numero $a$ per il numero $b$ e poi dividiamo il risultato per $b$ abbiamo di nuovo $a$:
 $$
 a \cdot b : b = a
 $$
-Questo è un caso particolare di una regola più generale che si chiama proprietà invariantiva del rapporto: se abbiamo due numeri che hanno un fattore in comune (ad esempio $12$ e $4$ hanno in comune il fattore $2$ perché $12= 6 \cdot 2$ e $4 = 2 \cdot 2$) e calcoliamo $12:4$ che fa $3$, il risultato è uguale a quello che abbiamo dividendo prima i due numeri per il fattore comune $2$ e poi tra di loro ossia prima dividiamo $12$ e $2$, che fa $6$, poi $4$ e $2$ che fa $2$ e poi dividiamo $6$ e $2$ e fa sempre $3$.
+Questo è un caso particolare di una regola più generale che si chiama **proprietà invariantiva del rapporto**: se abbiamo due numeri che hanno un fattore in comune (ad esempio $12$ e $4$ hanno in comune il fattore $2$ perché $12= 6 \cdot 2$ e $4 = 2 \cdot 2$) e calcoliamo $12:4$ che fa $3$, il risultato è uguale a quello che abbiamo dividendo prima i due numeri per il fattore comune $2$ e poi i risultati tra di loro ossia: prima dividiamo $12$ e $2$, che fa $6$, poi $4$ e $2$ che fa $2$ e poi dividiamo $6$ e $2$ e fa sempre $3$.
+$$
+12 : 4 = (12:2) : (4:2) \\
+3 = 6 : 2
+$$
+Questo accade perché se indichiamo con $x$ il risultato della divisione $12 : 4$, ossia $3$, abbiamo il ragionamento seguente.
 
-Questo accade perché se indichiamo con $x$ il risultato della divisione $12 : 6$, ossia $3$, abbiamo il ragionamento seguente.
+a) $12 = x \cdot 4$	$\longrightarrow$ per definizione di divisione;
 
-a) $12 = x \cdot 4$;
+b) $6 \cdot 2 = x \cdot 2 \cdot 2$;   $\longrightarrow$ scomponendo in fattori;
 
-b) $6 \cdot 2 = x \cdot 2 \cdot 2$;   dividendo tutto per $2$,
+c) $6 \cdot 2 : 2 = x \cdot 2 \cdot 2 : 2$   $\longrightarrow$ dividendo tutto per $2$,
 
-c) $6 \cdot 2 : 2 = x \cdot 2 \cdot 2 : 2$ e poiché la moltiplicazione per $2$ e la divisione per $2$ si annullano,
-
-d) $6 = x \cdot 2$.
+d) $6 = x \cdot 2$.   $\longrightarrow$ per annullamento di moltiplicazione e divisione.
 
 
 
