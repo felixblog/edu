@@ -410,7 +410,7 @@ La potenza, quando condivide la base o l'esponente insieme ad altre operazioni u
 3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
 4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;     prima si calcola l'esponente e poi il resto.
 
-Fino ad ora abbiamo visto le espressioni scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama **non lineare** ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ .
+Fino a quando non abbiamo incontrato le potenze, le espressioni erano scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama **non lineare** ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ .
 
 Di seguito alcuni esempi di trasformazione tra le due notazioni.
 
@@ -704,24 +704,64 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-## UNITA' 10: Proprietà distributiva del prodotto rispetto alla somma
+## UNITA' 10: Proprietà del prodotto e del rapporto
 
-Fino ad ora di fronte ad una espressione come $2 \cdot (3 + 4)$, abbiamo sempre scritto $2 \cdot(7) \longrightarrow 14$. Continueremo a fare così, ma dobbiamo dire che questo non è l'unico modo per calcolare il valore dell'espressione perchè alternativamente potremmo scrivere $2 \cdot (3 + 4) \longrightarrow 2 \cdot 3 + 2 \cdot 4$ $\longrightarrow 6 + 8 \longrightarrow 14$.
+#### Proprietà distributiva del prodotto rispetto alla somma
+
+Fino ad ora di fronte ad una espressione come $2 \cdot (3 + 4)$, abbiamo sempre scritto $2 \cdot(7) \longrightarrow 14$. Continueremo a fare così, ma dobbiamo dire che questo non è l'unico modo per calcolare il valore dell'espressione perché alternativamente potremmo scrivere $2 \cdot (3 + 4) \longrightarrow 2 \cdot 3 + 2 \cdot 4$ $\longrightarrow 6 + 8 \longrightarrow 14$.
 
 Un altro esempio è $5 \cdot (4 + 3)$ che possiamo scrivere come $5 \cdot 4 + 5 \cdot 3$ ed in tutte e due i casi il risultato è $35$.
 
 Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
 $$
-a \cdot (b + c) = a \cdot b + a \cdot c\;\;\; \bullet
+a \cdot (b + c) = a \cdot b + a \cdot c
 $$
+
+
+
+Se leggiamo l'uguaglianza da sinistra verso destra, ossia $a \cdot (b + c) \Rightarrow  a \cdot b + a \cdot c$, questa proprietà ci fornisce un metodo alternativo di calcolare $a \cdot (b + c)$, mentre se la leggiamo da destra verso sinistra
+$$
+a \cdot b + a \cdot c = a \cdot (b + c)
+$$
+la proprietà ci dice che possiamo scrivere una somma di numeri come un prodotto mettendo in evidenza un fattore comune.
+
+#### ESEMPIO 1
+
+$6 + 8 \longrightarrow 2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$;
+
+Per cui $6 + 8 = 2 \cdot 7$.
+
+$40 + 25 \longrightarrow 5 \cdot 8 + 5 \cdot 5 = 5 \cdot (8 + 5)$;
+
+In questo caso $40 + 25 = 5 \cdot 13$.     $\bullet$
+
+
+
+#### Proprietà invariantiva del rapporto
+
+Una importante proprietà del rapporto è quella per cui se moltiplichiamo e poi dividiamo un numero per un altro, il numero non cambia. Se moltiplichiamo $5$ per $3$, che fa $15$ e poi dividiamo $15$ per $3$ otteniamo di nuovo $3$. In generale:
+$$
+a \cdot b : b = a
+$$
+Questo è un caso particolare di una regola più generale che si chiama proprietà invariantiva del rapporto: se abbiamo due numeri che hanno un fattore in comune (ad esempio $12$ e $4$ hanno in comune il fattore $2$ perché $12= 6 \cdot 2$ e $4 = 2 \cdot 2$) e calcoliamo $12:4$ che fa $3$, il risultato è uguale a quello che abbiamo dividendo prima i due numeri per il fattore comune $2$ e poi tra di loro ossia prima dividiamo $12$ e $2$, che fa $6$, poi $4$ e $2$ che fa $2$ e poi dividiamo $6$ e $2$ e fa sempre $3$.
+
+Questo accade perché se indichiamo con $x$ il risultato della divisione $12 : 6$, ossia $3$, abbiamo il ragionamento seguente.
+
+a) $12 = x \cdot 4$;
+
+b) $6 \cdot 2 = x \cdot 2 \cdot 2$;   dividendo tutto per $2$,
+
+c) $6 \cdot 2 : 2 = x \cdot 2 \cdot 2 : 2$ e poiché la moltiplicazione per $2$ e la divisione per $2$ si annullano,
+
+d) $6 = x \cdot 2$.
 
 
 
 ### ESERCIZIO 10.1 - Evidenza del Fattore Comune
 
-a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono vere le uguaglianze seguenti.
+a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono vere le uguaglianze di ogni esercizio.
 
-1. $5 \cdot(? + !) = 5 \cdot ? + 5 \cdot ! = 40$;
-2. $6 + 8 = 2 \cdot (? + !) = 14$ 
+1. $40 = 5 \cdot(? + !) = 5 \cdot ? + 5 \cdot !$;
+2. $14 = 6 + 8 = 2 \cdot (? + !)$ 
 3. $350 + 252 = ?(!+126) = 602$.
 

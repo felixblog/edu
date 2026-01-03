@@ -31,9 +31,9 @@ c) $10= 10  \longrightarrow Vero$     $\bullet$
 
 In generale una ***equazione*** (numerica di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***, come ad esempio $2x = 1 + x$.
 
-Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza vera, come ad esempio il numero $1$. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza, cioè $2x$, è il ***membro sinistro*** mentre l'altro, $1+ x$, è il ***membro destro***.
+Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza vera, come ad esempio il numero $1$. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza, cioè $2x$, è il ***membro sinistro*** mentre l'altro, $1+ x$, è il ***membro destro***.
 
-Noi utilizzeremo le equazioni per tre attività:
+Noi utilizzeremo le equazioni in tre attività:
 
 1. ***Verifica di una Soluzione***: abbiamo una equazione ed un numero e controlliamo se il numero è una soluzione dell'equazione;
 2. ***Ricerca di una soluzione***: abbiamo una equazione e vogliamo trovare un numero che sia una sua soluzione;
@@ -374,7 +374,7 @@ P_l - S = P_s
 $$
 Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, ad esempio il $30\%$, che <u>è la stessa per tanti prodotti in saldo</u> e ci permette di calcolare lo sconto su ciascun prodotto della categoria, moltiplicando per il prezzo di listino ossia $s \cdot P_l = S$.
 
-Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_l - sP_l = P_s$, che possiamo scrivere, mettendo in evidenza $P_l$, come è riportato nella formula seguente:
+Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_l - sP_l = P_s$, che possiamo scrivere, mettendo in evidenza $P_l$, come è riportato nella formula seguente:
 $$
 P_l(1 - s) = P_s.
 $$
@@ -557,7 +557,7 @@ La persona percorre $9 \ Km$.   $\bullet$
 
 Nel 2009 l’atleta giamaicano Usain Bolt ha corso i $100$ metri piani in $9.58$ secondi. Quale è stata la sua velocità media in $Km/h$?
 
-Prima di applicare la formula dobbiamo riportare le quantità alle unità di misura che cerchiamo cioè $Km$ ed ore. $100 \ m$ metri equivalgono a $0.1 \ Km$ e $9.58 \ sec$ corrispondono a $\dfrac{9.58}{3\ 600} \approx 0.0026 \ h$. Dalla formula abbiamo quindi:
+Prima di applicare la formula dobbiamo riportare le quantità alle unità di misura che cerchiamo cioè $Km$ ed ore. $100 \ m$ metri equivalgono a $0.1 \ Km$ e $9.58 \ sec$ corrispondono a $\dfrac{9.58}{3\ 600} \approx 0.0026 \ h$. Dalla formula abbiamo quindi:
 
 a) $v = \dfrac{s}{t}, \{s = 0.1 \ Km, t = 0.0026 \ h\}$;
 

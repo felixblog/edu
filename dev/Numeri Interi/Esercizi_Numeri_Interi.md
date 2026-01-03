@@ -803,6 +803,96 @@ $$
 
 ## UNITA' 8: Potenze e loro proprietà
 
+Le potenze hanno alcune "proprietà" quando sono moltiplicate o divise per altre potenze che hanno la stessa base o lo stesso esponente. Queste proprietà sono modalità alternative di calcolare il risultato delle moltiplicazioni o divisioni. Vediamo qualche esempio.
+
+#### Prodotto di potenze con la stessa base
+
+Per calcolare $3^2 \cdot 3^3$ possiamo calcolare $3^2 \longrightarrow 9$ e $3^3 \longrightarrow 27$ e poi moltiplicare tra di loro: $9 \cdot 27 \longrightarrow 243$, ma possiamo anche scrivere 
+
+a) $(3 \cdot 3) \cdot (3 \cdot 3 \cdot 3)$;
+
+b) $3 \cdot 3 \cdot 3 \cdot 3 \cdot 3$;
+
+c) $3^{2+3}$;
+
+d) $3^5 \longrightarrow 243$.
+
+Se ne deduce che $3^2 \cdot 3^3 = 3^{2 + 3}$. 
+
+Questo calcolo vale qualunque sia la base e gli esponenti, per cui chiamando con la lettera $a$ un numero generico base delle potenze e con $m$ ed $n$ due numeri come esponenti, abbiamo la proprietà:
+$$
+a^m \cdot a^n = a^{m + n}
+$$
+cioè "Il prodotto di due potenze di uguale base è una (sola) potenza che ha per base la stessa base e per esponente la somma degli esponenti".
+
+
+
+#### Rapporto di potenze con la stessa base
+
+Con il rapporto abbiamo una proprietà simile.
+$$
+a^m : a^n = a^{m - n}
+$$
+cioè "Il rapporto di due potenze di uguale base è una potenza che ha per base la stessa base e per esponente la differenza degli esponenti". Questo perchè:
+
+a) $a^m = a^{m-n} \cdot a^n$; quindi dividendo entrambi i membri dell'uguaglianza per $a^n$: 
+
+b) $a^m : a^n = a^{m-n} \cdot a^n:a^n \Rightarrow a^{m-n}$, per la proprietà di cancellazione della divisione.
+
+
+
+#### Potenza di un prodotto
+
+Per calcolare $(2 \cdot 3)^2$ possiamo procedere con $6^2 \longrightarrow 36$, ma possiamo anche scrivere: 
+
+a) $(2 \cdot 3)^2$;
+
+b) $2 \cdot 3 \cdot 2 \cdot 3$;
+
+c) $2 \cdot 2 \cdot 3 \cdot 3$;
+
+d) $2^2 \cdot 3^2$.
+
+Ossia $(2 \cdot 3)^2 = 2^2 \cdot 3^3$. Questo ragionamento vale per qualunque potenza di un prodotto, per cui possiamo dire che
+$$
+(a \cdot b)^m = a^m \cdot b^m
+$$
+La regola si può esprimere mnemonicamente come: "La potenza di un prodotto è uguale al prodotto delle potenze".
+
+Se la leggiamo da destra verso sinistra abbiamo una regola per il prodotto di due potenze con lo stesso esponente, che dice: "Il prodotto di due potenze con lo stesso esponente è uguale ad una potenza che ha lo stesso esponente e per base il prodotto delle basi".
+
+
+
+#### Potenza di un rapporto
+
+Un ragionamento analogo si può fare per la potenza di un rapporto, per cui
+$$
+(a:b)^n = a^n : b^n
+$$
+Anche qui, se la leggiamo da destra verso sinistra abbiamo una regola per il rapporto di due potenze con lo stesso esponente, che dice: "Il rapporto di due potenze con lo stesso esponente è uguale ad una potenza che ha lo stesso esponente e per base il rapporto delle basi".
+
+
+
+#### Potenze di potenze
+
+Per calcolare $(2^3)^2$ possiamo prima trovare $2^3 \longrightarrow 8$ e poi $(8)^2 \longrightarrow 64$, ma possiamo anche fare il ragionamento seguente:
+
+a) $(2^3)^2$
+
+b) $(2^3) \cdot (2^3)$;
+
+c) $2^{3 +3}$;      per la regola del prodotto di potenze
+
+d) $2^{3 \cdot 2}$
+
+$2^{3 \cdot 2}$ è uguale a $2^6$che è uguale a $64$. Questo ragionamento vale sempre, qualunque sia la base ed i due esponenti, per cui la regola è:
+$$
+(a^m)^n = a^{m \cdot n}
+$$
+che si legge: "la potenza di una potenza è uguale ad una potenza che ha per base la base e per esponente il prodotto degli esponenti".
+
+
+
 ### ESERCIZIO 8.1 - Calcolo di potenze
 
 a) Calcolare le seguenti potenze di numeri interi.
