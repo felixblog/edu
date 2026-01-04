@@ -4,10 +4,11 @@
 
 Fino ad ora abbiamo visto equazioni di I grado con una sola incognita, ma una equazione di primo grado può avere anche due incognite, come ad esempio $x + y = 5$. Le soluzioni di equazioni del genere sono sempre numeri che sostituiti alle incognite rendono l'equazione una uguaglianza vera, ma stavolta i numeri da sostituire sono due, uno per incognita, per cui una soluzione è sempre una ***coppia di numeri*** che sostituita ordinatamente alle incognite (il primo elemento della coppia per la prima lettera, la $x$, ed il secondo per la seconda, la $y$) rende l'equazione vera.
 
-Parlando di equazioni con due incognite, i problemi che ci si pongono, come nel caso di una incognita, sono due:
+Parlando di equazioni con due incognite, i problemi che ci si pongono, come nel caso di una incognita, sono tre:
 
 1. ***Verifica di Soluzioni***: Data una coppia di numeri, controllare se la coppia è una soluzione dell'equazione;
-2. ***Ricerca di soluzioni***: Data una equazione, trovare qualche soluzione dell'equazione (almeno due).
+2. ***Ricerca di soluzioni***: Data una equazione, trovare qualche soluzione dell'equazione (almeno due);
+3. **Scrittura di Equazioni**: Dato un problema, scrivere una o più equazioni le cui soluzioni risolvono il problema
 
 Per rispondere alla prima domanda basta sostituire alle incognite ordinatamente i numeri della coppia e controllare che l'uguaglianza risulti vera.
 
@@ -37,21 +38,33 @@ $$
 (-2, 7) & (-2) + 7 = 5 \longrightarrow True \\
 \hline 
 (3, 3) & 3 + 3 = 5 \longrightarrow False \\
-\hline\end{array} 
+\hline\end{array}
 $$
 Come si può notare a differenza delle equazioni con una sola incognita, dove c'è di norma una sola soluzione, le soluzioni alle equazioni con due incognite sono più di una, di norma sono ***infinite***.     $\bullet$
 
 
 
-La ricerca di soluzioni si fa scegliendo un numero a caso come primo elemento della coppia, sostituendolo ad una incognita e risolvendo l'equazione ad una sola incognita che rimane per trovare l'altro elemento della coppia.
+La ricerca di soluzioni di una equazione con due incognite si fa nel modo seguente: si sceglie un numero a caso come primo elemento della coppia, si sostituisce ad una incognita e si risolve l'equazione ad una sola incognita che rimane per trovare l'altro elemento della coppia.
 
 #### ESEMPIO 2
 
-Per trovare due soluzioni dell'equazione $x + y = 5$ sostituiamo ad $x$ in sequenza i due valori $0$ ed $1$ e risolviamo l'equazione così ottenuta rispetto ad $y$.
+Per trovare una soluzione dell'equazione $x + y = 5$ partiamo sostituendo ad $x$ il valore $0$ e risolviamo l'equazione così ottenuta rispetto ad $y$.
 
-a) $x + y = 5, \{x = 0\} \longrightarrow (0) + y = 5 \longrightarrow y = 5$;
+a) $x + y = 5, \{x = 0\}$;
 
-b) $x + y = 5, \{x = 1\} \longrightarrow (1) + y = 5 \longrightarrow y = 5 -1 \longrightarrow y = 4$;
+b) $(0) + y = 5$;
+
+c) $y = 5$.
+
+La soluzione trovata è $(0, 5)$. Troviamone un'altra sostituendo ad $x$ il valore $1$:
+
+a) $x + y = 5, \{x = 1\}$;
+
+b) $(1) + y = 5$;
+
+c) $y = 5 -1$;
+
+d) $y = 4$;
 
 Le due soluzioni trovate sono $(0,5)$ e $(1, 4)$.     $\bullet$
 
@@ -89,28 +102,39 @@ b) Trova due soluzioni dell'equazione $y+3(y+x)=-1$.
 
 ## UNITA' 2: Equazioni in forma esplicita
 
-Spesso è utile scrivere una equazione con due incognite in una forma diversa da quella originale, detta ***forma esplicita*** (rispetto ad una incognita). L'equazione in forma esplicita deve essere equivalente a quella originale, ossia deve avere le stesse soluzioni, ma una forma diversa: $y = espressione \; in \; x$ è la forma esplicita dell'equazione rispetto alla $y$.
+Spesso è utile scrivere una equazione con due incognite in una forma diversa da quella originale, detta ***forma esplicita*** (rispetto ad una incognita). L'equazione in forma esplicita deve essere equivalente a quella originale, ossia deve avere le stesse soluzioni, ma una forma diversa, la seguente:
+$$
+y = \text{espressione in x;}
+$$
+è la forma esplicita dell'equazione rispetto alla $y$.
 
 #### ESEMPIO 1
 
-Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che è in forma esplicita rispetto alla $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria. Questo procedimento viene detto di **esplicitazione** rispetto all'incognita $y$.  $\bullet$
+Se risolviamo l'equazione $x + y = 5$ rispetto all'incognita $y$, otteniamo, applicando la regola del trasporto $y = 5 - x$, che è in forma esplicita rispetto alla $y$. La nuova equazione ha ovviamente per soluzioni le stesse coppie di numeri dell'equazione originaria. Questo procedimento viene detto di **esplicitazione** rispetto all'incognita $y$.    $\bullet$
 
 #### ESEMPIO 2
 
-Equazione originale: $0 = 2y + x$,  forma esplicita rispetto alla $y$:  $y = -\dfrac{1}{2}x$.
+Equazione originale: $0 = 2y + x$,  forma esplicita rispetto alla $y$:  $y = -\dfrac{1}{2}x$.      $\bullet$
 
-La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equazione rispetto all'incognita da esplicitare **come se questa fosse l'unica incognita**. $\bullet$
-
-
+La trasformazione dell'equazione in forma esplicita viene fatta risolvendo l'equazione rispetto all'incognita da esplicitare **come se questa fosse l'unica incognita**.
 
 
 
 ### ESERCIZIO 2.1 - Esplicitazione di incognita
 
-Risolvi le equazioni seguenti come se la lettera $y$ fosse l'unica incognita.
+a) Risolvi le equazioni seguenti come se la lettera $y$ fosse l'unica incognita.
 
-a) $2x-y=0$;   $x+3y=-1$;   $7x-\dfrac{1}{3}y+1=y$  
-b) $3x+y=1-2y$;   $4x-3y = 2y+2-5x$;   $4(y - 2x) + 10x - 3 = -2$  
+1. $2x-y=0$;
+
+2. $x+3y=-1$;
+
+3. $7x-\dfrac{1}{3}y+1=y$.
+
+b) Risolvi le equazioni seguenti come se la lettera $x$ fosse l'unica incognita.
+
+1. $3x+y=1-2y$;
+2. $4x-3y = 2y+2-5x$;
+3. $4(y - 2x) + 10x - 3 = -2$.
 
 #### Laboratorio GEOGEBRA
 
@@ -133,19 +157,25 @@ x-3y=10\\
 \end{array} 
 \right.$$
 
-**PASSO 1:  Esplicitazione**. Si sceglie una equazione, si sceglie una incognita e si esplicita rispetto a questa incognita, ossia si risolve come se questa fosse l'unica incognita, trovando come soluzione una **espressione letterale**. Ad esempio consideriamo la prima equazione e risolviamo rispetto alla $y$ ottenendo la soluzione $-1-2x$:
+#### PASSO 1:  Esplicitazione
+
+Si sceglie una equazione, si sceglie una incognita e si esplicita rispetto a questa incognita, ossia si risolve come se questa fosse l'unica incognita, trovando come soluzione una **espressione letterale**. Ad esempio consideriamo la prima equazione e risolviamo rispetto alla $y$ ottenendo la soluzione $-1-2x$:
 
 a) $y = -1 - 2x$.
 
 La nostra equazione con due incognite avrà quindi una **soluzione letterale** della forma $(x, -1-2x)$.
 
-**PASSO 2: Sostituzione**. Si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare) perché la soluzione deve rendere vera anche la seconda equazione. Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
+#### PASSO 2: Sostituzione
+
+Si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare) perché la soluzione deve rendere vera anche la seconda equazione. Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
 
 b) $x - 3y = 10, \{x = x, y = -1-2x\}$;
 
 c) $x - 3(-1-2x) = 10$.
 
-**PASSO 3: Risoluzione**. Si risolve l'equazione con una sola incognita trovando il numero che la verifica.
+#### PASSO 3: Risoluzione
+
+Si risolve l'equazione con una sola incognita trovando il numero che la verifica.
 
 d) $x +3 +6x = 10$;
 
@@ -153,7 +183,9 @@ e) $7x = 7$;
 
 f) $x = 1$.
 
-**PASSO 4: Completamento**. Si sostituisce il numero alla incognita nella soluzione letterale trovata alla fine del PASSO 1, che diventa così una soluzione numerica:
+#### PASSO 4: Completamento
+
+Si sostituisce il numero alla incognita nella soluzione letterale trovata alla fine del PASSO 1, che diventa così una soluzione numerica:
 
 g) $(x, -1-2x), \{x = 1\}$;
 
@@ -217,21 +249,21 @@ b) Risolvi i punti a.2) e a.3) dell'esercizio con analoghe sequenze di comandi G
 
 Risolvere con un sistema i problemi seguenti.  
 
-a) Hai a disposizione € 5,00 per acquistare penne e quaderni. Se compri 4 quaderni e 3 penne, ti mancano
-€ 0,25; se compri 3 quaderni e 3 penne, ti avanzano € 0,65. Quanto costa un quaderno e quanto una penna?  
+a) Hai a disposizione € $5,00$ per acquistare penne e quaderni. Se compri $4$ quaderni e $3$ penne, ti mancano
+€ $0,25$; se compri $3$ quaderni e $3$ penne, ti avanzano € $0,65$. Quanto costa un quaderno e quanto una penna?  
 
-b) Possiedo € 30,00. Con questo denaro acquisto alcune magliette da € 6,50 ciascuna e alcuni calzini da € 3,50 al paio. Sapendo che il numero di magliette coincide col numero di paia di calzini, calcola quante sono.    
+b) Possiedo € $30,00$. Con questo denaro acquisto alcune magliette da € $6,50$ ciascuna e alcuni calzini da € $3,50$ al paio. Sapendo che il numero di magliette coincide col numero di paia di calzini, calcola quante sono.    
 
-c) Lucia e Elena sono sorelle. La somma delle loro età è 31 e Lucia è nata tre anni prima di Elena.
+c) Lucia e Elena sono sorelle. La somma delle loro età è $31$ e Lucia è nata tre anni prima di Elena.
 Quanti anni ha ciascuna?  
 
-d) 10 sacchi di frumento ed 8 di mais pesano 1646 Kg; 30 sacchi di frumento e 12 di mais, rispettivamente uguali ai precedenti, pesano 3894 kg.
+d) $10$ sacchi di frumento ed $8$ di mais pesano $1\ 646 \ Kg$; $30$ sacchi di frumento e $12$ di mais, rispettivamente uguali ai precedenti, pesano $3\ 894\ Kg$.
 Quanto pesa ciascun sacco di frumento e ciascun sacco di mais?  
 
-e) In una fabbrica ci sono 2 macchine, la prima produce 10 pezzi all’ora, la seconda 7 pezzi all’ora.
-Le due macchine hanno prodotto in tutto 191 pezzi, lavorando complessivamente 23 ore. Determina il numero dei pezzi prodotti dall’una e dall’altra macchina.  
+e) In una fabbrica ci sono $2$ macchine, la prima produce $10$ pezzi all’ora, la seconda $7$ pezzi all’ora.
+Le due macchine hanno prodotto in tutto $191$ pezzi, lavorando complessivamente $23$ ore. Determina il numero dei pezzi prodotti dall’una e dall’altra macchina.  
 
-f) Due serbatoi hanno capacità rispettivamente proporzionali a 7 e 4. Il serbatoio maggiore contiene tanto liquido quanto quello minore più i $\dfrac{3}{4}$ di quest’ultimo. Determina le capacità. 
+f) Due serbatoi hanno capacità rispettivamente proporzionali a $7$ e $4$. Il serbatoio maggiore contiene tanto liquido quanto quello minore più i $\dfrac{3}{4}$ di quest’ultimo. Determina le capacità. 
 
 
 
