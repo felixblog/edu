@@ -36,9 +36,9 @@ La $x$ tra parentesi indica la lettera da sostituire per calcolare i valori, per
 $$
 f(50) = 125
 $$
-Quello appena visto è un esempio di ***funzione***, che si definisce come "**una regola che associa ad un numero un solo altro numero**".
+Quello appena visto è un esempio di ***funzione***, che si definisce come "**una regola che associa ad un (primo) numero un solo altro (secondo) numero**".
 
-Nei casi che vedremo, la regola consiste nella sostituzione del primo numero alla lettera di una espressione letterale e nel calcolo dell'espressione numerica che si ottiene: il risultato è l'altro numero associato al primo.
+Nei casi che vedremo, applicare questa regola consiste nel sostituire il primo numero alla lettera di una espressione letterale e calcolare l'espressione numerica che si ottiene: il risultato è l'altro (secondo) numero associato al primo.
 
 La tabella delle torte è un esempio di calcolo della funzione $f(x) = 250\% \cdot x$ su un campione di valori possibili della $x$, per cui a $10$ è associato $25$, a $100$ è associato $250$ etc.
 
@@ -95,7 +95,9 @@ Consideriamo il caso di una automobile che si muove sempre con la stessa velocit
 
 In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0.166$ ore, la macchina percorre $0.166 \cdot 60 \approx 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre nel tempo $\Delta t$ (nel nostro caso $10$ minuti), alla velocità $v = 60\; Km/h.$ 
 
-Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti del viaggio, la macchina, farà sempre $10$ Km, cosa che non succede se la macchina accelera. Questa caratteristica è specifica dei movimenti a velocità costante, detti "**moti uniformi**": si dice anche che la macchina percorre "spazi uguali in tempi uguali" e se il tempo aumenta, aumenta anche lo spazio. $ \bullet$
+Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti del viaggio, la macchina, farà sempre $10$ Km, cosa che non succede se la macchina accelera. Questa caratteristica è specifica dei movimenti a velocità costante, detti "**moti uniformi**": si dice anche che la macchina percorre "spazi uguali in tempi uguali" e se il tempo aumenta, aumenta anche lo spazio.     $\bullet$
+
+
 
 Vediamo ora una situazione diversa, in cui al crescere di una quantità, l'altra diminuisce in modo che se una raddoppia l'altra si dimezza.
 
@@ -105,7 +107,9 @@ In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebb
 
 Per analizzare questo problema, introduciamo una misura del lavoro necessario per realizzare qualcosa: il **giorno-persona**. Un giorno-persona (giorno di lavoro di una persona) è la quantità di lavoro eseguito da un lavoratore in un giorno, per cui se due persone lavorano due giorni per realizzare qualcosa, quel qualcosa richiede $4$ giorni-persona di lavoro per essere realizzata. 
 
-Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non il lavoro totale necessario per realizzare la stessa opera, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $t = \dfrac{64}{x}$. $ \bullet$
+Nel caso dell'esempio, la costruzione del prefabbricato richiede $16 \cdot 4 = 64$ giorni-persona di lavoro. Se cambiamo il numero di operai del cantiere, cambierà la durata, ma non il lavoro totale necessario per realizzare la stessa opera, per cui se $x$ operai lavorano $t$ giorni, avremo comunque che $t \cdot x = 64$, ossia $t = \dfrac{64}{x}$.     $\bullet$
+
+
 
  Se calcoliamo la durata della costruzione in vari casi, abbiamo la tabella seguente.
 $$
@@ -212,6 +216,8 @@ $$
 5 & 25 &  340 \\  
 \end{array}
 $$
+
+
 
 Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$, ed è pari ad $m$​. Vediamolo con un esempio.
 
@@ -351,7 +357,7 @@ La funzione $f(x) = x^2 + 1$:
 
 <img src="img/Crescenti2.png" alt="Crescenti2" style="zoom:15%;" />
 
-E' decrescente nell'intervallo $(-\infty, 0)$ e crescente in $[0, \infty)$.
+E' decrescente nell'intervallo $(-\infty, 0)$ e crescente in $[0, \infty)$.    $\bullet$
 
 
 
