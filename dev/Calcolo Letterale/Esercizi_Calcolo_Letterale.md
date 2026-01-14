@@ -846,7 +846,11 @@ c) $\dfrac{2}{5}$.    $ \bullet$
 
 
 
-**ATTENZIONE!!** E' possibile semplificare un monomio (o un polinomio) presente sia a numeratore che a denominatore della frazione SOLO se il monomio (o polinomio) è il fattore di un prodotto, sia numeratore che a denominatore; se a numeratore o denominatore della frazione non c'è un prodotto, non è possibile effettuare nessuna semplificazione.
+#### **ATTENZIONE!!**
+
+E' possibile semplificare un monomio (o un polinomio) presente sia a numeratore che a denominatore della frazione SOLO se il monomio (o polinomio) è il fattore di un prodotto, sia numeratore che a denominatore; se a numeratore o denominatore della frazione non c'è un prodotto, non è possibile effettuare nessuna semplificazione. 
+
+Come per le frazioni numeriche, non si può semplificare $\dfrac{5+7}{4}$ a meno di scrivere $12$ al posto di $5+7$  e scomporlo $12$ in fattori per cui $\dfrac{12}{4} = \dfrac{4 \cdot 3}{4} \longrightarrow \dfrac{\cancel{4} \cdot 3}{\cancel{4}} = 3$
 
 #### ESEMPIO 3
 
@@ -868,7 +872,7 @@ b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza gli op
 3. $\dfrac{x}{2x^2-x}$;
 4. $\dfrac{2a-2}{5a-5}$;
 5. $(-x-y):(x+y)$;
-6. $\dfrac{2x-y}{\dfrac{2}{3}y-\dfrac{1}{3}x}$.
+6. $\dfrac{2x-y}{\dfrac{2}{3}x-\dfrac{1}{3}y}$.
 
 #### Laboratorio GEOGEBRA
 
