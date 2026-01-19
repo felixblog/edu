@@ -383,19 +383,31 @@ $$
 
 Una maglietta è in saldo al $40 \%$. Se costava $\text{35}$ euro, quanto costa scontata?
 
-Sostituendo nella formula precedente alle lettere  i numeri, abbiamo
+Per calcolare il prezzo scontato troviamo prima lo sconto e poi dalla definizione di sconto ricaviamo il prezzo scontato. Sostituendo nella formula abbiamo:
+
+Sostituendo alle lettere i numeri nella formula della percentuale di sconto abbiamo
+
+a) $s \cdot P_l = S, \{s = 40\%, P_l=35\}$
+
+b) $0.40 \cdot 35 = S$
+
+c) $14 = S$
+
+Dalla formula che definisce lo sconto abbiamo quindi:
 
 a) $P_s = P_l(1 - s), \{P_l= 35, s = 0.4\}$
 
-b) $P_s= 35(1-0.4)$;
+b) $P_l - P_s = S, \{P_l=35, S=14\}$
 
-c) $P_s = 35 \cdot 0.6$;
+c) $35 - P_s = 14$
 
-d) $P_s =  14$.
+d) $35 - 14 = P_s$
+
+e) $21 = P_s$. 
 
 
 
-Con GEOGEBRA avremmo:
+Con GEOGEBRA avremmo, dall'ultima formula ricavata:
 
 $Sostituisci(P_s = P_l \cdot (1-s), \{P_l = 35, s = 0.4\})$
 
@@ -417,19 +429,23 @@ Questa schematizzazione è così comune che anche in altri contesti, quando vogl
 
 Un lavoratore dipendente ha una retribuzione netta che è circa il $45 \%$ del lordo in busta paga. Se la retribuzione lorda ammonta a $38.000$ euro, a quanto ammontano le tasse e gli altri contributi? 
 
-Abbiamo che $N = 0.45 \cdot L$, per cui sostituendo nella formula $L = N + T$ abbiamo:
+Calcoliamo prima il netto e poi i contributi. Abbiamo che $N = 0.45 \cdot L$, per cui 
 
-a) $L = N + T, \{N = 0.45 \cdot L, L = 38\,000\}$;
+a) $N = 0.45 \cdot L, \{L =38\,000 \}$
 
-b) $L = 0.45 \cdot L + T, \{L = 38\,000\}$;
+b) $N = 0.45 \cdot 38\,000$
 
-c) $38\,000 = 0.45 \cdot 38\,000 + T$;
+c) $N = 17 \, 100$
 
-d) $38\,000 = 17\,100 + T$;
+sostituendo nella formula $L = N + T$ abbiamo:
 
-e) $38\,000 - 17\,100 = T$;
+a) $L= N + T, \{L = 38\,000, N =17\,100\}$
 
-f) $20\,900 = T$    $\bullet$
+b) $38\,000 = 17\,100 + T$
+
+c) $38\,000 - 17\,100 = T$
+
+d) $T = 20\,900$     $\bullet$
 
 
 
