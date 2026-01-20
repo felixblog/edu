@@ -445,7 +445,7 @@ b) $38\,000 = 17\,100 + T$
 
 c) $38\,000 - 17\,100 = T$
 
-d) $T = 20\,900$     $\bullet$
+d) $T = 20\,900$     $\bullet$
 
 
 
@@ -636,7 +636,7 @@ Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, 
 
 Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (come monomi, polinomi e frazioni algebriche) e la soluzione sarà una **espressione letterale** e non numerica.
 
-**ATTENZIONE**: anche se compare un'altra lettera, l'incognita è una sola! Queste equazioni hanno **una sola incognita** e la loro soluzione è formata da una sola espressione letterale.
+**ATTENZIONE**: anche se compaiono altre lettere, l'incognita è una sola! Queste equazioni hanno **una sola incognita** e la loro soluzione è formata da una sola espressione letterale.
 
 #### ESEMPIO 1
 
@@ -671,6 +671,28 @@ c) $1 - 2a = (a+b)x$;   Dividiamo entrambi i membri per il coefficiente dell'inc
 d) $\dfrac{1 - 2a}{a + b} = \dfrac{(a + b)x}{a + b}$;    Semplificando si ottiene la soluzione $\dfrac{1 - 2a}{a + b}$.
 
 e) $\dfrac{1 - 2a}{a + b} = x$      $\bullet$
+
+
+
+La strategia di risoluzione è sempre quella di applicare le tre regole di risoluzione delle equazioni per portare i monomi con le incognite tutti da una parte ed arrivare ad una equazione elementare. Se l'incognita è al denominatore di una frazione algebrica, portare prima l'espressione al numeratore e poi isolare i monomi da una parte.
+
+#### ESEMPIO 3
+
+Risolviamo l'equazione $\dfrac{1-ax}{1+ax}=b$ considerando la lettera $x$ come incognita.
+
+a) $\dfrac{1-ax}{1+ax}=b$     Moltiplichiamo entrambi i membri per $1+ax$;
+
+b) $\dfrac{1-ax}{1+ax} \cdot (1+ax)=b(1+ax)$;    Semplifichiamo
+
+c) $1-ax = b + abx$;    Spostiamo i monomi con l'incognita
+
+d) $1-b=ax + abx$;    Mettiamo in evidenza l'incognita al secondo membro
+
+e) $1-b=(a+ab)x$;   Dividiamo per il coefficiente di $x$
+
+f) $\dfrac{1-b}{a+ab} = \dfrac{(a+ab)x}{a+ab}$;    Semplifichiamo dove possibile
+
+g) $\dfrac{1-b}{a+ab}=x$
 
 
 
