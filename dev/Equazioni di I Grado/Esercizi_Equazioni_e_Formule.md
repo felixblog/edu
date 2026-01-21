@@ -374,10 +374,7 @@ P_l - S = P_s
 $$
 Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, ad esempio il $30\%$, che <u>è la stessa per tanti prodotti in saldo</u> e ci permette di calcolare lo sconto su ciascun prodotto della categoria, moltiplicando per il prezzo di listino ossia $s \cdot P_l = S$.
 
-Se sostituiamo questa nella formula del prezzo scontato otteniamo $P_l - sP_l = P_s$, che possiamo scrivere, mettendo in evidenza $P_l$, come è riportato nella formula seguente:
-$$
-P_l(1 - s) = P_s.
-$$
+
 
 #### ESEMPIO 2
 
@@ -680,13 +677,13 @@ La strategia di risoluzione è sempre quella di applicare le tre regole di risol
 
 Risolviamo l'equazione $\dfrac{1-ax}{1+ax}=b$ considerando la lettera $x$ come incognita.
 
-a) $\dfrac{1-ax}{1+ax}=b$     Moltiplichiamo entrambi i membri per $1+ax$;
+a) $\dfrac{1-ax}{1+ax}=b$     Moltiplichiamo entrambi i membri per $1+ax$;
 
 b) $\dfrac{1-ax}{1+ax} \cdot (1+ax)=b(1+ax)$;    Semplifichiamo
 
 c) $1-ax = b + abx$;    Spostiamo i monomi con l'incognita
 
-d) $1-b=ax + abx$;    Mettiamo in evidenza l'incognita al secondo membro
+d) $1-b=ax + abx$;    Mettiamo in evidenza l'incognita al secondo membro
 
 e) $1-b=(a+ab)x$;   Dividiamo per il coefficiente di $x$
 
@@ -786,4 +783,84 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 2. $Risolvi(eq1, P_{l})$ &#9166; 
 
 
+
+## UNITA' 8: Composizione di Formule e Sostituzioni
+
+Nell'unità sulle formule abbiamo visto come ci sono formule importanti per calcolare delle quantità se ne conosciamo altre, ad esempio l'area di un rettangolo se conosciamo i lati o lo sconto su un prodotto conoscendo il prezzo di listino e la percentuale di sconto applicata.
+
+In alcuni casi, come ad esempio quello dello sconto, abbiamo visto che le quantità importanti (sconto, prezzo di listino, prezzo scontato etc.) fanno parte di due formule distinte, la prima che calcola lo sconto e la seconda il prezzo scontato:
+$$
+\begin{array}{l} 
+S = s \cdot P_l \\  
+P_s = P_l - S\\   
+\end{array}
+$$
+Qualunque sia il caso specifico che stiamo esaminando, lo sconto $S$ è lo stesso in entrambe le formule,per cui è possibile "comporre" le due formule con una sostituzione di $S$ nella seconda con $sP_l$ della prima e produrre una nuova formula:
+$$
+\begin{array}{l} 
+\text{a)}\, P_s = P_l - S, \{S = s \cdot P_l\}\\
+\text{b)}\, P_s = P_l - sP_l\\
+\text{c)}\, P_s = P_l(1-s)
+\end{array}
+$$
+La formula del punto c) ci dice come possiamo calcolare il prezzo scontato senza calcolare lo sconto ma solo conoscendo il prezzo di listino dell'articolo e la percentuale di sconto ad esso applicata.
+
+#### ESEMPIO 1
+
+Una maglietta è in saldo al $40 \%$. Se costava $\text{35}$ euro, quanto costa scontata?
+
+Questo problema lo abbiamo già risolto, ma applicando la nuova formula trovata possiamo scrivere:
+
+a) $P_s=P_l(1 - s), \{s=40\%, P_l=35\}$;
+
+b) $P_s=35(1-40\%)$;
+
+c) $P_s=35(0.60)$
+
+d) $P_s=21$.     $\bullet$
+
+
+
+
+#### ESEMPIO 2
+
+Se indichiamo con $C$ il prezzo, IVA esclusa, di un prodotto e con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ sarà dato da $a \cdot C$ e la formula è $I = a \cdot C$.
+
+Il prezzo finale $P$ del prodotto al consumatore, IVA inclusa, sarà allora $P = C + I$.
+
+Componendo le due formula abbiamo $P = C + I, \{I = aC\}$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, possiamo scrivere:
+$$
+P = C(1 + a)
+$$
+
+xxx     $\bullet$
+
+#### ESEMPIO X
+
+L'interesse (nel regime dell'interesse semplice) si calcola a partire dalla durata dell'operazione, dall'importo del capitale e dal tasso di interesse.
+
+$I = C \cdot i \cdot t$ e $M = C + I$.
+
+a) $M = C + I, \{I = Cit\}$;
+
+b) $M = C + Cit$;
+
+c) $M = C(1 + it)$.
+
+
+
+xxx     $\bullet$
+
+
+
+### ESERCIZIO 8.1
+
+a) Un articolo ha un prezzo di listino di $42$ euro e l'IVA è al $4\%$. Quale è il costo senz'IVA?
+
+b) Nelle spedizioni dei prodotti di elettronica di consumo di piccole dimensioni il costo dell'imballo è mediamente di $5$ euro. Quanto incide questa somma in percentuale sul costo totale di un prodotto che il consumatore paga $45$ euro? E sul costo al netto dell'imballo?
+
+c) L’Iva sugli assorbenti ha subito una serie di ribassi e rialzi: era al $22\%$, poi è stata ridotta al $10\%$ dal governo Draghi, poi tagliata ancora al $5\%$ nel 2023 e lo stesso governo che aveva ridotto l’Iva ha deciso di riportarla al $10\%$.
+
+1. Scrivi una formula che calcola il prezzo al consumatore di una scatola di assorbenti che costa $3$ euro al netto dell'IVA se l'aliquota è dell'$i\%$.
+2. Calcola IVA e prezzo finale nei vari casi di aliquota.
 
