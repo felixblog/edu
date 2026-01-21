@@ -374,8 +374,6 @@ P_l - S = P_s
 $$
 Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, ad esempio il $30\%$, che <u>è la stessa per tanti prodotti in saldo</u> e ci permette di calcolare lo sconto su ciascun prodotto della categoria, moltiplicando per il prezzo di listino ossia $s \cdot P_l = S$.
 
-
-
 #### ESEMPIO 2
 
 Una maglietta è in saldo al $40 \%$. Se costava $\text{35}$ euro, quanto costa scontata?
@@ -485,36 +483,21 @@ L'IVA (Imposta sul Valore Aggiunto) è una imposta che il consumatore paga quand
 
 In pratica, se indichiamo con $C$ il prezzo, IVA esclusa, di un prodotto e con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ sarà dato da $a \cdot C$ e la formula è $I = a \cdot C$.
 
-Il prezzo finale $P$ del prodotto al consumatore, IVA inclusa, sarà allora $P = C + I$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, possiamo scrivere:
-$$
-P = C(1 + a)
-$$
+Il prezzo finale $P$ del prodotto al consumatore, IVA inclusa, sarà allora $P = C + I$ 
 
 #### ESEMPIO 5
 
-Qual è il prezzo, iva esclusa, di un articolo che ha un prezzo di listino di $170$ euro e sul quale si applica una aliquota IVA del $22 \%$?
+Qual è il prezzo, iva esclusa, di un articolo che ha un'IVA di $30$ euro e sul quale si applica una aliquota IVA del $22 \%$?
 
-Sostituendo $P = 170$ ed $a = 0.22$ nella formula e risolvendo l'equazione che ha incognita $C$ si ha:
+Sostituendo $I = 30$ ed $a = 0.22$ nella formula $I = a \cdot C$ e risolvendo l'equazione che ha incognita $C$ si ha:
 
-a) $P = C(1 + a), \{a = 0.22, P = 170\}$;
+a)  $I = a \cdot C, \{a = 0.22, I = 30\}$;
 
-b) $170 = C(1+0.22)$;
+b) $30 = 0.22C$;
 
-c) $170 = 1.22 \cdot C$;
+c) $\dfrac{30}{0.22} = C$;
 
-d) $C = \dfrac{170}{1.22} \approx 139.34$.    $\bullet$ 
-
-
-
-Lo stesso calcolo con GEOGEBRA diventa:
-
-$e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$
-
-​	$\longrightarrow 170 = \dfrac{61}{50} \cdot C$
-
-$RisolviN(e,C)$ 
-
-​	$\longrightarrow \{C = 139.34426...\}$    $\bullet$ 
+d) $C \approx 136.35$.    $\bullet$ 
 
 
 
@@ -729,13 +712,15 @@ Nell'unità precedente abbiamo presentato diverse formule di uso comune per il c
 
 Ci sono situazioni in cui è conveniente risolvere le stesse formule come equazioni letterali, in cui una delle lettere è l'incognita. L'equazione elementare risultante dalla soluzione dell'equazione letterale è detta **formula inversa**.
 
+Questa operazione si chiama anche **esplicitazione della formula rispetto alla lettera**.
+
 #### ESEMPIO 1
 
-A partire dalla formula dell'IVA $P = C(1 + a)$, trovare quanto vale il costo $C$ di un articolo IVA esclusa.
+A partire dalla formula dell'IVA $P = C + I$, trovare quanto vale il costo $C$ di un articolo IVA esclusa, ossia esplicita la formula dell'IVA rispetto alla lettera C.
 
-Risolvendo la formula come se fosse una equazione con l'unica incognita $C$ abbiamo $\dfrac{P}{1+a} = C$, per cui la formula inversa è:
+Risolvendo la formula come se fosse una equazione con l'unica incognita $C$ abbiamo $P - I = C$, per cui la formula inversa è:
 $$
-C = \dfrac{P}{1+a} \;\;\;\;\bullet
+C = P - I \;\;\;\;\bullet
 $$
 
 #### ESEMPIO 2
@@ -833,7 +818,31 @@ $$
 P = C(1 + a)
 $$
 
-xxx     $\bullet$
+Qual è il prezzo, iva esclusa, di un articolo che ha un prezzo di listino di $170$ euro e sul quale si applica una aliquota IVA del $22 \%$?
+
+Sostituendo $P = 170$ ed $a = 0.22$ nella formula e risolvendo l'equazione che ha incognita $C$ si ha:
+
+a) $P = C(1 + a), \{a = 0.22, P = 170\}$;
+
+b) $170 = C(1+0.22)$;
+
+c) $170 = 1.22 \cdot C$;
+
+d) $C = \dfrac{170}{1.22} \approx 139.34$.    $\bullet$ 
+
+
+
+Lo stesso calcolo con GEOGEBRA diventa:
+
+$e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$
+
+​	$\longrightarrow 170 = \dfrac{61}{50} \cdot C$
+
+$RisolviN(e,C)$ 
+
+​	$\longrightarrow \{C = 139.34426...\}$    $\bullet$ 
+
+
 
 #### ESEMPIO X
 
@@ -863,4 +872,20 @@ c) L’Iva sugli assorbenti ha subito una serie di ribassi e rialzi: era al $22\
 
 1. Scrivi una formula che calcola il prezzo al consumatore di una scatola di assorbenti che costa $3$ euro al netto dell'IVA se l'aliquota è dell'$i\%$.
 2. Calcola IVA e prezzo finale nei vari casi di aliquota.
+
+
+
+### ESERCIZIO 8.2
+
+a) Date le due formule
+$$
+\begin{array}{l} 
+\text{a)}\, aN = bM\\
+\text{b)}\, 1 + N = 2M\\
+\end{array}
+$$
+
+risolvi la prima formula considerando come incognita la lettera $M$ e componila con la seconda;
+
+b) Esplicita la formula risultante rispetto alla lettera $N$. 
 
