@@ -733,14 +733,18 @@ Dalla formula $v = \dfrac{s}{t}$ risolviamo l'equazione come se $t$ fosse l'unic
 
 ### ESERCIZIO 7.1 - Formule inverse I
 
-Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
+a) Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
 
 1. $M = C + I$,  incognita $C$;
 2. $A = b \cdot h$,  incognita $b$;
 3. $A = \dfrac{b \cdot h}{2}$, incognita $b$;    $A = \dfrac{b \cdot h}{2}$,  incognita $h$;
-4. $S = P_l - P_s, ~~~ incognita ~~ P_s;$
-5. $I = C\cdotp i\cdotp t ,~~~ incognita ~~ i$;       $I = C\cdotp i\cdotp t ,~~~ incognita ~~ C$;
-6. $v = \dfrac{s}{t}$,  incognita $s$.
+
+b) Esplicita la formula proposta rispetto alla lettera indicata.
+
+1. $S = P_l - P_s, ~~~ lettera ~~ P_s;$
+2. $I = C\cdotp i\cdotp t ,~~~ lettera ~~ i$;
+3. $I = C\cdotp i\cdotp t ,~~~ lettera ~~ C$;
+4. $v = \dfrac{s}{t}, \,\,\, lettera \,\,\,s$.
 
 
 
@@ -771,16 +775,16 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 
 ## UNITA' 8: Composizione di Formule e Sostituzioni
 
-Nell'unità sulle formule abbiamo visto come ci sono formule importanti per calcolare delle quantità se ne conosciamo altre, ad esempio l'area di un rettangolo se conosciamo i lati o lo sconto su un prodotto conoscendo il prezzo di listino e la percentuale di sconto applicata.
+Abbiamo visto come le formule ci propongano delle espressioni per calcolare delle quantità conoscendone, ad esempio l'area di un rettangolo se conosciamo i lati o lo sconto su un prodotto conoscendo il prezzo di listino e la percentuale di sconto applicata.
 
-In alcuni casi, come ad esempio quello dello sconto, abbiamo visto che le quantità importanti (sconto, prezzo di listino, prezzo scontato etc.) fanno parte di due formule distinte, la prima che calcola lo sconto e la seconda il prezzo scontato:
+In alcuni casi, come ad esempio quello dello sconto, abbiamo visto che le quantità importanti (sconto, prezzo di listino, prezzo scontato etc.) fanno parte di due formule distinte e correlate, la prima che calcola lo sconto e la seconda il prezzo scontato:
 $$
 \begin{array}{l} 
 S = s \cdot P_l \\  
 P_s = P_l - S\\   
 \end{array}
 $$
-Qualunque sia il caso specifico che stiamo esaminando, lo sconto $S$ è lo stesso in entrambe le formule,per cui è possibile "comporre" le due formule con una sostituzione di $S$ nella seconda con $sP_l$ della prima e produrre una nuova formula:
+Qualunque sia il caso specifico che stiamo esaminando, lo sconto $S$ è lo stesso in entrambe le formule, per cui è possibile "comporre" le due formule sostituendo $S$ nella seconda con $sP_l$ della prima e produrre una nuova formula, la c):
 $$
 \begin{array}{l} 
 \text{a)}\, P_s = P_l - S, \{S = s \cdot P_l\}\\
@@ -844,9 +848,9 @@ $RisolviN(e,C)$
 
 
 
-#### ESEMPIO X
+#### ESEMPIO 3
 
-L'interesse (nel regime dell'interesse semplice) si calcola a partire dalla durata dell'operazione, dall'importo del capitale e dal tasso di interesse.
+L'interesse (nel regime dell'interesse semplice) si calcola a partire dalla durata dell'operazione, dall'importo del capitale e dal tasso di interesse. Possiamo allora comporre le due formule del montante e dell'interesse semplice per avere la formula del montante nel regime dell'interesse semplice:
 
 $I = C \cdot i \cdot t$ e $M = C + I$.
 
@@ -854,11 +858,7 @@ a) $M = C + I, \{I = Cit\}$;
 
 b) $M = C + Cit$;
 
-c) $M = C(1 + it)$.
-
-
-
-xxx     $\bullet$
+c) $M = C(1 + it)$.     $\bullet$
 
 
 
@@ -880,7 +880,7 @@ c) L’Iva sugli assorbenti ha subito una serie di ribassi e rialzi: era al $22\
 a) Date le due formule
 $$
 \begin{array}{l} 
-\text{a)}\, aN = bM\\
+\text{a)}\, \dfrac{a}{b}N = M\\
 \text{b)}\, 1 + N = 2M\\
 \end{array}
 $$
