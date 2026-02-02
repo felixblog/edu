@@ -775,7 +775,7 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 
 ## UNITA' 8: Composizione di Formule e Sostituzioni
 
-Abbiamo visto come le formule ci propongano delle espressioni per calcolare delle quantità conoscendone, ad esempio l'area di un rettangolo se conosciamo i lati o lo sconto su un prodotto conoscendo il prezzo di listino e la percentuale di sconto applicata.
+Abbiamo visto come le formule ci propongano delle espressioni per calcolare carte quantità conoscendone altre, ad esempio l'area di un rettangolo se conosciamo i lati o lo sconto su un prodotto conoscendo il prezzo di listino e la percentuale di sconto applicata.
 
 In alcuni casi, come ad esempio quello dello sconto, abbiamo visto che le quantità importanti (sconto, prezzo di listino, prezzo scontato etc.) fanno parte di due formule distinte e correlate, la prima che calcola lo sconto e la seconda il prezzo scontato:
 $$
