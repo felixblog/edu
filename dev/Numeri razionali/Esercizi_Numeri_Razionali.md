@@ -15,7 +15,7 @@ Nella pratica quotidiana le frazioni vengono o **utilizzate** (per calcolare del
 
 #### Frazioni per aumentare o diminuire una quantità
 
-Il primo contesto, forse il più frequente, è quello in cui una frazione viene utilizzata come ***fattore*** per aumentare o diminuire una quantità intera, come in "tre quarti d'ora".
+Il primo contesto, forse il più frequente, è quello in cui una frazione viene utilizzata come ***fattore*** per diminuire una quantità intera, come in "tre quarti d'ora", "mezzo salame" o "un quarto di quella pagnotta".
 
 Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prendendo un'ora, dividendola in 4 parti uguali e prendendone 3. Questo tipo di ragionamento è molto comune, soprattutto quando si usano le percentuali:
 
@@ -79,6 +79,14 @@ Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uo
 Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. Se la scatola fosse stata di $6$ uova avremmo avuto $\dfrac{2}{6}$ ossia le uova mangiate sarebbero state $\dfrac{1}{3}$ di scatola.     $\bullet$
+
+#### ESEMPIO 5
+
+In un problema compare la frase seguente: "Maria ha $15$ anni ed ha la metà degli anni di sua madre". Cosa indica la frazione "metà" (ossia "un mezzo")?
+
+La frazione indica la misura degli anni di Maria **in rapporto a** quelli di sua madre, ossia utilizzando l'età della madre come unità di misura, ed in questo caso la misura è $\dfrac{1}{2}$, in numero decimale $0,5$. Usando parole diverse possiamo dire che il rapporto tra gli anni di Maria e quelli di sua madre deve essere $\dfrac{1}{2}$, ed allora quanti saranno gli anni della madre di Maria?
+
+Ossia per cosa dobbiamo dividere $15$ per avere come risultato $0,5$? Per $30$.
 
 
 

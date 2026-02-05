@@ -2,7 +2,31 @@
 
 ## UNITA' 1: Equazioni con due incognite e loro soluzioni
 
-Fino ad ora abbiamo visto equazioni di I grado con una sola incognita, ma una equazione di primo grado può avere anche due incognite, come ad esempio $x + y = 5$. Le soluzioni di equazioni del genere sono sempre numeri che sostituiti alle incognite rendono l'equazione una uguaglianza vera, ma stavolta i numeri da sostituire sono due, uno per incognita, per cui una soluzione è sempre una ***coppia di numeri*** che sostituita ordinatamente alle incognite (il primo elemento della coppia per la prima lettera, la $x$, ed il secondo per la seconda, la $y$) rende l'equazione vera.
+Fino ad ora abbiamo visto equazioni di I grado con una sola incognita e tutti numeri, ma anche equazioni letterali che avevano una incognita ed altre lettere che indicavano qualunque altro numero generico.
+
+In questo capitolo vedremo un nuovo tipo di equazione che ha due incognite, come ad esempio $y + 2x = 5$, ma prima di cominciare facciamo un riepilogo delle tipologie di equazioni che conosciamo.
+
+#### Equazioni numeriche con una incognita
+
+Sono equazioni con una lettera, l'incognita, e solo altri numeri, come ad esempio $1 + 2x = 5$. La sua soluzione è un numero, in questo caso $2$.
+
+#### Equazioni letterali con una incognita
+
+Sono equazioni con due o più lettere del tipo $y + 2x = 5$, di cui una è l'incognita, ed in questo caso è l'esercizio che deve dire quale, ad esempio la lettera $x$. La sua soluzione è una espressione letterale, in questo caso $\dfrac{5-y}{2}$.
+
+#### Equazioni numeriche con due incognite
+
+Sono equazioni con due lettere, come ad esempio quella vista precedentemente $y + 2x = 5$, ma questa volta sono le soluzioni definite diversamente: si vogliono le soluzioni formate da $2$ numeri, uno per incognita, che sostituiti rendano l'equazione una uguaglianza vera.
+
+In questo tipo di equazioni, ogni soluzione è una ***coppia di numeri***, il primo associato alla prima incognita (la $x$) ed il secondo alla seconda (la $y$); nel caso specifico una soluzione è la coppia $(2, 1)$ perché sostituendo:
+
+a) $y + 2x = 5, \, \{x=2, y=1\}$
+
+b) $(1) + 2(2)=5$
+
+c) $1 + 4 = 5$ è vera.     $\bullet$
+
+
 
 Parlando di equazioni con due incognite, i problemi che ci si pongono, come nel caso di una incognita, sono tre:
 
