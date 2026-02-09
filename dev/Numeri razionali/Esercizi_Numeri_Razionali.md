@@ -13,7 +13,7 @@ Nella pratica quotidiana le frazioni vengono o **utilizzate** (per calcolare del
 
 
 
-#### Frazioni per aumentare o diminuire una quantità
+#### Frazioni utilizzate per calcolare una una quantità
 
 Il primo contesto, forse il più frequente, è quello in cui una frazione viene utilizzata come ***fattore*** per diminuire una quantità intera, come in "tre quarti d'ora", "mezzo salame" o "un quarto di quella pagnotta".
 
@@ -29,33 +29,11 @@ Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre 
 
 
 
-#### Frazioni come divisioni
+#### Frazioni generate per misurare una quantità rispetto ad un'altra
 
-Il secondo contesto è l'uso delle frazioni come notazione per operazioni di **divisione che non calcoliamo** e lasciamo indicate e che avrebbero come risultato un numero decimale e non intero: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il confronto tra la frazione ed il suo risultato ci evidenzia quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
-
-Il passaggio dalla frazione al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
-
-$\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
-
-$\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
-
-Usare la frazione come divisione significa che in tutti i casi in cui la divisione è espressa con "due punti" (notazione lineare), la stessa si può anche esprimere con una linea di frazione. Vediamo alcuni esempi.
+Il questo contesto, una frazione viene costruita per misurare una quantità "rispetto" (o "in rapporto") ad un'altra che utilizziamo come unità di riferimento. Facciamo due esempi.
 
 #### ESEMPIO 2
-
-Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare, senza trasformarla in decimale, è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Come si vede, la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare, cioè quella di raggruppare ii termini dell'espressione da dividere e quelli per cui viene divisa. Ulteriori esempi sono i seguenti.
-
-L'espressione $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ in notazione lineare si esprime come $2:3 \cdot (1 + 2 \cdot 3):5$.
-
-Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazione lineare è $2:3:((1 - 2 \cdot 3):5)$.    $\bullet$
-
-
-
-#### Frazioni per misurare una quantità rispetto ad un'altra
-
-Il terzo contesto d'uso delle frazioni è quello in cui una frazione viene generata, creata per misurare una quantità "rispetto" (o "in rapporto") ad un'altra che utilizziamo come unità di riferimento. Facciamo due esempi.
-
-#### ESEMPIO 3
 
 In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno è atteso con novanta minuti di ritardo". Che ritardo ha il treno?
 
@@ -68,7 +46,7 @@ Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata
 
 Una misura è sempre ottenuta calcolando quante volte l'unità di misura (minuti o ore) "entra" nella quantità da misurare (nell'esempio, il ritardo del treno). Nella prima risposta l'unità di misura utilizzata è il minuto, nella seconda è l'ora e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia **facendo la divisione** tra il ritardo (misurato in minuti) e l'ora espressa in minuti, per cui $90 : 60 \longrightarrow 1,5$.
 
-#### ESEMPIO 4
+#### ESEMPIO 3
 
 La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quante uova ha mangiato Pierino?
 
@@ -80,13 +58,35 @@ Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole,
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. Se la scatola fosse stata di $6$ uova avremmo avuto $\dfrac{2}{6}$ ossia le uova mangiate sarebbero state $\dfrac{1}{3}$ di scatola.     $\bullet$
 
+#### ESEMPIO 4
+
+In un problema compare la frase seguente: "Maria ha $15$ anni ed ha la metà degli anni **di** sua madre". Cosa indica la frazione "metà" (ossia "un mezzo")?
+
+La frazione indica la misura degli anni di Maria **in rapporto a** quelli di sua madre, ossia utilizzando l'età della madre come unità di misura, ed in questo caso la misura è $\dfrac{1}{2}$, in numero decimale $0,5$ (ricordare che la quantità che sta dopo il "di", "del", "della" etc. è al denominatore!). Usando parole diverse possiamo dire che il rapporto tra gli anni di Maria e quelli di sua madre deve essere $\dfrac{1}{2}$, ed allora quanti saranno gli anni della madre di Maria?
+
+Chiederselo equivale a chiedersi per cosa dobbiamo dividere $15$ per avere come risultato $0,5$, e la risposta è $30$.
+
+
+
+#### Frazioni come divisioni
+
+Le frazioni sono una modo di indicare delle **divisioni che non calcoliamo** e lasciamo indicate e che avrebbero come risultato un numero decimale e non intero: $\dfrac{2}{4} \longrightarrow 0.5$,   $\dfrac{3}{4} \longrightarrow 0.75$. Il confronto tra la frazione ed il suo risultato ci evidenzia quante volte il denominatore "entra" nel numeratore, oppure **per quanto deve essere moltiplicato il denominatore per avere il numeratore**: $\dfrac{6}{2} \longrightarrow 3$ significa che $2$ deve essere moltiplicato per tre per avere $4$, mentre $\dfrac{2}{4} \longrightarrow 0.5$ significa che $4$ deve essere preso $0.5$ volte per avere 2, cioè neanche una volta. 
+
+Il passaggio dalla frazione al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
+
+$\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
+
+$\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
+
+Usare la frazione come divisione significa che in tutti i casi in cui la divisione è espressa con "due punti" (notazione lineare), la stessa si può anche esprimere con una linea di frazione. Vediamo alcuni esempi.
+
 #### ESEMPIO 5
 
-In un problema compare la frase seguente: "Maria ha $15$ anni ed ha la metà degli anni di sua madre". Cosa indica la frazione "metà" (ossia "un mezzo")?
+Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare, senza trasformarla in decimale, è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Come si vede, la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare, cioè quella di raggruppare ii termini dell'espressione da dividere e quelli per cui viene divisa. Ulteriori esempi sono i seguenti.
 
-La frazione indica la misura degli anni di Maria **in rapporto a** quelli di sua madre, ossia utilizzando l'età della madre come unità di misura, ed in questo caso la misura è $\dfrac{1}{2}$, in numero decimale $0,5$. Usando parole diverse possiamo dire che il rapporto tra gli anni di Maria e quelli di sua madre deve essere $\dfrac{1}{2}$, ed allora quanti saranno gli anni della madre di Maria?
+L'espressione $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ in notazione lineare si esprime come $2:3 \cdot (1 + 2 \cdot 3):5$.
 
-Ossia per cosa dobbiamo dividere $15$ per avere come risultato $0,5$? Per $30$.
+Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazione lineare è $2:3:((1 - 2 \cdot 3):5)$.    $\bullet$
 
 
 
@@ -94,7 +94,7 @@ Ossia per cosa dobbiamo dividere $15$ per avere come risultato $0,5$? Per $30$.
 
 Il rapporto tra due numeri interi può essere positivo o negativo e la forma **normale** (o canonica) di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$
 
-#### ESEMPIO 5
+#### ESEMPIO 6
 
 Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4} \longleftrightarrow -\dfrac{3}{4}$ mentre $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
 
@@ -107,6 +107,7 @@ a)  $-\dfrac{(3)}{4} \longleftrightarrow -\dfrac{3}{4}$;
 b) $-\dfrac{(-3)}{4} \longleftrightarrow +\dfrac{3}{4}$; Qui abbiamo il prodotto di $-1$ per la frazione $\dfrac{-3}{4}$.
 
 c) $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$    $\bullet$
+
 
 
 ### ESERCIZIO 1.1 - Il Concetto di Frazione
