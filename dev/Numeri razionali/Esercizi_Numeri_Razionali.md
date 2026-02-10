@@ -62,7 +62,7 @@ Come si vede, cambiando l'unità di misura cambia anche misura della quantità d
 
 In un problema compare la frase seguente: "Maria ha $15$ anni ed ha la metà degli anni **di** sua madre". Cosa indica la frazione "metà" (ossia "un mezzo")?
 
-La frazione indica la misura degli anni di Maria **in rapporto a** quelli di sua madre, ossia utilizzando l'età della madre come unità di misura, ed in questo caso la misura è $\dfrac{1}{2}$, in numero decimale $0,5$ (ricordare che la quantità che sta dopo il "di", "del", "della" etc. è al denominatore!). Usando parole diverse possiamo dire che il rapporto tra gli anni di Maria e quelli di sua madre deve essere $\dfrac{1}{2}$, ed allora quanti saranno gli anni della madre di Maria?
+La frazione indica la misura degli anni di Maria **in rapporto a** quelli di sua madre, ossia utilizzando l'età della madre come unità di misura, ed in questo caso la misura è $\dfrac{1}{2}$, in numero decimale $0,5$ (ricordare che la quantità che sta dopo il "di", "del", "della" etc. è al denominatore!). Usando parole diverse possiamo dire che il rapporto tra gli anni di Maria e quelli di sua madre deve essere $\dfrac{1}{2}$, ed allora quanti saranno gli anni della madre di Maria?
 
 Chiederselo equivale a chiedersi per cosa dobbiamo dividere $15$ per avere come risultato $0,5$, e la risposta è $30$.
 
@@ -325,7 +325,108 @@ $0.5$;    $0.005$;    $4$;    $1000.1$;    $10.5$;     $9.69$.
 
 
 
-## UNITA' 3: Somma di frazioni
+
+
+## UNITA' 3: Le Percentuali
+
+Nella vita pratica si fa un notevole uso delle percentuali, come "il $10\%$" o il $110\%$, che sono un modo di scrivere le frazioni. 
+
+Come tutte le frazioni, le percentuali le usiamo come fattore moltiplicativo per calcolare una quantità o le generiamo. Vediamo il primo caso.
+
+ Quando diciamo "il $10\%$ di $50$" intendiamo una frazione di $\text{50}$ ottenuta prendendo "$10$ centesimi di $50$" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
+
+I secondo caso è quello di misura di una quantità rispetto ad un'altra quantità di riferimento. Se diciamo "un bambino in $6$ mesi è cresciuto di $10 \; cm$ ed adesso è alto $110 \; cm$" e ci chiediamo di quanto è cresciuto in percentuale, vogliamo "misurare" la crescita del bambino rispetto alla sua altezza iniziale, che era $100 \; cm$. Per fare questo bisogna "mettere in rapporto" la crescita, $10 \; cm$ con l'altezza iniziale: $\dfrac{10}{100} \longrightarrow \dfrac{1}{10}$. Il bambino è cresciuto di un decimo della sua altezza iniziale, che in percentuale è il $10 \%$.
+
+Una percentuale è una forma costituita da una componente decimale "moltiplicata" per il simbolo $\%$. Quando diciamo "il $110\%$", la componente decimale è $110$, quando diciamo "lo $0,2%$" la componente decimale è $0,2$.
+
+Poiché le percentuali sono frazioni, è' importante saper trasformare una percentuale in numero decimale o in frazione e viceversa una frazione o numero decimale in percentuale.
+
+#### Dalla forma decimale a quella percentuale e viceversa
+
+Ogni numero in forma decimale può essere scritto in forma percentuale: quando diciamo "Il doppio di $10$" potremmo dire "Il $200\%$ di $10$" perché il numero $2$ si scrive $200\%$, oppure al posto di "un quarto di prosciutto" dire "il $25\%$ di prosciutto".
+
+Per trasformare il numero in percentuale eseguiamo i passi seguenti:
+
+a) Moltiplichiamo il numero per $100$ e per $\dfrac{1}{100}$. In questo modo il numero non cambia: ad esempio con il numero $0,75$ abbiamo $0,75 \longrightarrow0,75 \cdot 100 \cdot \dfrac{1}{100}$.
+
+b) Eseguiamo la prima moltiplicazione ma non la seconda, sostituendo a $\dfrac{1}{100}$ il simbolo $0,75 \cdot 100 \cdot \dfrac{1}{100} \longrightarrow 75 \%$.
+
+Per trasformare una percentuale in decimale basta scrivere $\% = \dfrac{1}{100}\longrightarrow 0,01$ e fare il prodotto con la componente decimale del numero percentuale.
+
+
+
+#### Dalla forma percentuale alla frazione e viceversa 
+
+Una percentuale può essere trasformata in frazione trasformando prima in frazione il numero decimale della percentuale e poi il simbolo $\%$ che equivale alla frazione $\dfrac{1}{100}$. Ad esempio trasformiamo $25,5\%$ come $\dfrac{25,5 \cdot 10}{10} \cdot \dfrac{1}{100}$; facendo il prodotto abbiamo $\dfrac{255}{1000}$.
+
+Se viceversa abbiamo una frazione, prima trasformiamola in numero decimale e poi in percentuale. Ad esempio $\dfrac{1}{4}$ in forma decimale equivale a $0,25$ che in percentuale è $0,25 \cdot 100 \cdot \%$ cioè $25\%$. 
+
+Ad esempio $\dfrac{5}{2}$ in forma decimale equivale a $2,5$ che in percentuale è $2,5 \cdot 100 \cdot \%$ cioè $250\%$. 
+
+
+
+### ESERCIZIO 3.1 - Numeri decimali e frazioni
+
+a) Scrivi le seguenti frazioni in forma decimale (arrotonda alla terza cifra decimale):  $\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
+
+b) Scrivi i seguenti numeri decimali in frazioni: 
+
+$\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspace 9.69.$ 
+
+
+
+### ESERCIZIO 3.2 - Le percentuali
+
+a) Trasforma in percentuale i numeri seguenti: $2$;   $0,02$;   $-1,465$;   $5$;   $0$.
+
+b) Trasforma in numeri decimali le percentuali seguenti: $2\%$;   $0,02\%$;   $-30\%$;   $350\%$;   $1000\%$;   $0,0002\%$.
+
+c) Scrivi le seguenti frazioni in percentuali (approssimando):
+
+$\enspace \dfrac{1}{2}$;     $\dfrac{1}{3}$;     $\dfrac{1}{1000}$;     $\dfrac{7}{12}$;     $\dfrac{1}{99}$;     $\dfrac{1}{2}$;     $\dfrac{16}{33}$;     $\dfrac{24}{13}$;      $\dfrac{34}{11}$.
+
+d) Nell'esercizio 1, punto a.1, che percentuale di quadrati ha il colore rosso? ed il colore bianco?
+
+
+
+### ESERCIZIO 3.3 - Problemi con le percentuali
+
+a) Calcola le percentuali richieste nei casi seguenti.
+
+1. In borsa una azienda vede in tre mesi il proprio titolo passare da $\text{13,5}$ a $\text{16}$ euro per azione. Di quanto è salito il titolo in percentuale? [R. $\text{18,52\%}$];
+2. Una automobile incrementa la sua velocità da $\text{80}$ a $\text{100\; Km/h}$. Di che percentuale è salita la velocità?
+3. Se durante i saldi di fine stagione spendo $\text{35}\;\texteuro$ comprando una maglia che ne costava $\text{60}$, che sconto ho avuto? ed in percentuale sul prezzo?
+4. Per fare la parmigiana di melanzane per $\text{6}$ persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+
+b) Calcola le quantità assolute richieste nei casi seguenti.
+
+1. Su una maglietta si calcola il $\text{30\;\%}$ di sconto. Se il prezzo è di $\text{50}\;\texteuro$, quale sarà lo sconto? Quale il prezzo scontato?
+2. Se il fatturato di una azienda, da un anno all'altro, cala del $\text{40\;\%}$, di quanto sarà calato se il primo anno era di $\text{12}$ milioni di euro? Quale sarà il nuovo valore?
+3. Quanti kilogrammi di burro si possono ricavare da $\text{125\; Kg}$ di latte, sapendo che il latte contiene panna per circa l’$\text{11\;\%}$ del suo peso e che la panna produce burro per il $\text{27\;\%}$ del suo peso .      [R. $\text{3.7125\;Kg}$] 
+
+c) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
+
+1. Quale è l'incremento, in percentuale, del fatturato del 2021 sul 2020? Quale quello del 2022 sull'anno precedente? E quello del 2020 sul 2019?
+2. che percentuale di fatturato, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
+3. Nel 2023 si prevede un calo del 22% rispetto all'anno precedente. Quale sarà il fatturato del 2023?
+
+![Grafico1](img\Ist-1.png)
+
+d) Comprando su Amazon si pagano, separatamente dal costo del prodotto, i costi di spedizione. Se per la spedizione di ciascun prodotto si pagano 5 euro e si fanno due acquisti distinti in cui, nel primo caso si pagano complessivamente 450 euro e nel secondo 60 euro, quanto incide il costo di spedizione sull'acquisto di ciascun prodotto? Se fossero acquistati e spediti insieme, sostenendo un costo di spedizione unico, quanto inciderebbe quest'ultimo sulla spesa totale?
+
+e) Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+
+f) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
+
+g) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
+
+h) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+
+
+
+
+
+## UNITA' 4: Somma di frazioni
 
 La somma di due frazioni è una frazione. La somma di due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
 
@@ -363,7 +464,7 @@ d) $\dfrac{5}{12}$     $\bullet$
 
 
 
-### ESERCIZIO 3.1 - Il minimo comune denominatore
+### ESERCIZIO 4.1 - Il minimo comune denominatore
 
 Riduci le frazioni di ognuno dei seguenti gruppi al minimo comune denominatore.  
 
@@ -386,7 +487,7 @@ Passi da seguire per trovare la soluzione per la prima coppia di frazioni del pu
 
 
 
-### ESERCIZIO 3.2 - Somma algebrica di frazioni
+### ESERCIZIO 4.2 - Somma algebrica di frazioni
 
 Calcola le seguenti somme algebriche.
 
@@ -400,7 +501,7 @@ d) $-\dfrac{8}{3}+5-\dfrac{2}{5}$;     $12-\dfrac{1}{3}-\dfrac{1}{9}$.
 
 
 
-### ESERCIZIO 3.3 - Espressioni con somme di frazioni
+### ESERCIZIO 4.3 - Espressioni con somme di frazioni
 
 a) Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -414,7 +515,7 @@ b) Calcola il valore delle seguenti espressioni.
 
 
 
-## UNITA' 4: Divisione tra frazioni ed espressioni con le frazioni
+## UNITA' 5: Divisione tra frazioni ed espressioni con le frazioni
 
 Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{2}{1} : \dfrac{1}{2}$. 
 
@@ -512,7 +613,7 @@ e) $\dfrac{1}{25}$     $\bullet$
 
 
 
-### ESERCIZIO 4.1 - Espressioni con le quattro operazioni tra frazioni
+### ESERCIZIO 5.1 - Espressioni con le quattro operazioni tra frazioni
 
 a) Calcola i seguenti quozienti di frazioni.
 
@@ -533,7 +634,7 @@ c) Individua quante e quali operazioni contiene ciascuna delle espressioni segue
 
 
 
-### ESERCIZIO 4.2 - Dalle parole alle espressioni (I)
+### ESERCIZIO 5.2 - Dalle parole alle espressioni (I)
 
 a) Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.  
 
@@ -552,7 +653,7 @@ b) Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.
 
  
 
-### ESERCIZIO 4.3 - Dalle parole alle espressioni (II)
+### ESERCIZIO 5.3 - Dalle parole alle espressioni (II)
 
 Indicando con $x$ un numero qualsiasi, scrivi le espressioni matematiche che traducono in operazioni le frasi seguenti.  
 
@@ -564,7 +665,7 @@ c) La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del reci
 
 
 
-### ESERCIZIO 4.4 - Rappresentazione delle espressioni
+### ESERCIZIO 5.4 - Rappresentazione delle espressioni
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
@@ -606,7 +707,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando
 
 
 
-### ESERCIZIO 4.5 - Problemi con le frazioni (II)
+### ESERCIZIO 5.5 - Problemi con le frazioni (II)
 
 Per ciascuno dei seguenti problemi:
 
@@ -630,7 +731,7 @@ g) Un libro oggi costa $\text{\euro\;}12,50$. Se il suo prezzo viene aumentato d
 
 
 
-## UNITA' 5: Sostituzioni
+## UNITA' 6: Sostituzioni
 
 Come già fatto per i numeri interi, anche con le frazioni una  ***sostituzione*** consiste nel rimpiazzare una o più lettere in una espressione letterale con dei numeri razionali racchiusi tra parentesi tonde. 
 
@@ -682,7 +783,7 @@ g) $\dfrac{34}{25}$.
 
 
 
-### ESERCIZIO 5.1 - Sostituzioni (I)
+### ESERCIZIO 6.1 - Sostituzioni (I)
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
 
@@ -702,7 +803,7 @@ Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calc
 
 
 
-### ESERCIZIO 5.2 - Dalle parole alle espressioni
+### ESERCIZIO 6.2 - Dalle parole alle espressioni
 
 Traduci in espressioni le seguenti frasi e calcola poi il loro valore, sostituendo alle lettere i dati assegnati.  
 
@@ -722,7 +823,7 @@ g) Moltiplica la differenza tra i $\dfrac{2}{5}$ di $a$ e la metà di $b$ per il
 
 
 
-### ESERCIZIO 5.3 - Sostituzioni (II)
+### ESERCIZIO 6.3 - Sostituzioni (II)
 
 a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore.
 
@@ -776,13 +877,13 @@ b) SECONDA MODALITA': Costruisci una tabella con le istruzioni riportate di segu
 
 
 
-## UNITA' 6: Potenze con le frazioni
+## UNITA' 7: Potenze con le frazioni
 
 Le potenze con le frazioni si calcolano in due modi diversi. La prima è applicando la definizione:  $\left(\dfrac{3}{4}\right)^{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{3}{4} \longrightarrow \dfrac{9}{16}$. La seconda è applicando una trasformazione con la proprietà della "potenza di un rapporto" che è il rapporto di due potenze: $\left(\dfrac{3}{4}\right)^{2} \longrightarrow \dfrac{3^2}{4^2} \longrightarrow \dfrac{9}{16}$.
 
  
 
-### ESERCIZIO 6.1 - Potenze con le frazioni
+### ESERCIZIO 7.1 - Potenze con le frazioni
 
 a) Calcola il valore delle seguenti potenze.
 
@@ -799,7 +900,7 @@ b) Calcola il valore delle seguenti espressioni applicando le proprietà delle p
 
 
 
-### ESERCIZIO 6.2 - Espressioni con le frazioni
+### ESERCIZIO 7.2 - Espressioni con le frazioni
 
 a)  Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -813,7 +914,7 @@ b)  Calcola il valore delle seguenti espressioni contenenti potenze.
 
 
 
-### ESERCIZIO 6.3 - Proprietà delle potenze
+### ESERCIZIO 7.3 - Proprietà delle potenze
 
 Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
 
@@ -824,103 +925,6 @@ b) $\left(-\dfrac{1}{5}\right)^{10}:\left(-\dfrac{1}{5}\right)^{6}\text{·}10^{4
 c) $\left[-\left(\dfrac{1}{25}\right)^{2}\cdot\left(\dfrac{1}{25}\right)^{3}\right]\text{·}\left(\dfrac{25}{3}\right)^{5};$   $[R. \dfrac{1}{243}]$
 
 d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\right)^{6}\text{·}\left(-\dfrac{1}{2}\right)^{6};$     $[R. 1]$
-
-
-
-## UNITA' 7: Le Percentuali
-
-Nella vita pratica si fa un notevole uso delle percentuali, come "il $10\%$" o il $110\%$, che sono un modo di scrivere le frazioni. 
-
-Come tutte le frazioni, le percentuali le usiamo come fattore moltiplicativo per calcolare una quantità o le generiamo. Vediamo il primo caso.
-
- Quando diciamo "il $10\%$ di $50$" intendiamo una frazione di $\text{50}$ ottenuta prendendo "$10$ centesimi di $50$" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
-
-I secondo caso è quello di misura di una quantità rispetto ad un'altra quantità di riferimento. Se diciamo "un bambino in $6$ mesi è cresciuto di $10 \; cm$ ed adesso è alto $110 \; cm$" e ci chiediamo di quanto è cresciuto in percentuale, vogliamo "misurare" la crescita del bambino rispetto alla sua altezza iniziale, che era $100 \; cm$. Per fare questo bisogna "mettere in rapporto" la crescita, $10 \; cm$ con l'altezza iniziale: $\dfrac{10}{100} \longrightarrow \dfrac{1}{10}$. Il bambino è cresciuto di un decimo della sua altezza iniziale, che in percentuale è il $10 \%$.
-
-Una percentuale è una forma costituita da una componente decimale "moltiplicata" per il simbolo $\%$. Quando diciamo "il $110\%$", la componente decimale è $110$, quando diciamo "lo $0,2%$" la componente decimale è $0,2$.
-
-Poiché le percentuali sono frazioni, è' importante saper trasformare una percentuale in numero decimale o in frazione e viceversa una frazione o numero decimale in percentuale.
-
-#### Dalla forma decimale a quella percentuale e viceversa
-
-Ogni numero in forma decimale può essere scritto in forma percentuale: quando diciamo "Il doppio di $10$" potremmo dire "Il $200\%$ di $10$" perché il numero $2$ si scrive $200\%$, oppure al posto di "un quarto di prosciutto" dire "il $25\%$ di prosciutto".
-
-Per trasformare il numero in percentuale eseguiamo i passi seguenti:
-
-a) Moltiplichiamo il numero per $100$ e per $\dfrac{1}{100}$. In questo modo il numero non cambia: ad esempio con il numero $0,75$ abbiamo $0,75 \longrightarrow0,75 \cdot 100 \cdot \dfrac{1}{100}$.
-
-b) Eseguiamo la prima moltiplicazione ma non la seconda, sostituendo a $\dfrac{1}{100}$ il simbolo $0,75 \cdot 100 \cdot \dfrac{1}{100} \longrightarrow 75 \%$.
-
-Per trasformare una percentuale in decimale basta scrivere $\% = \dfrac{1}{100}\longrightarrow 0,01$ e fare il prodotto con la componente decimale del numero percentuale.
-
-
-
-#### Dalla forma percentuale alla frazione e viceversa 
-
-Una percentuale può essere trasformata in frazione trasformando prima in frazione il numero decimale della percentuale e poi il simbolo $\%$ che equivale alla frazione $\dfrac{1}{100}$. Ad esempio trasformiamo $25,5\%$ come $\dfrac{25,5 \cdot 10}{10} \cdot \dfrac{1}{100}$; facendo il prodotto abbiamo $\dfrac{255}{1000}$.
-
-Se viceversa abbiamo una frazione, prima trasformiamola in numero decimale e poi in percentuale. Ad esempio $\dfrac{1}{4}$ in forma decimale equivale a $0,25$ che in percentuale è $0,25 \cdot 100 \cdot \%$ cioè $25\%$. 
-
-Ad esempio $\dfrac{5}{2}$ in forma decimale equivale a $2,5$ che in percentuale è $2,5 \cdot 100 \cdot \%$ cioè $250\%$. 
-
-
-
-### ESERCIZIO 7.1 - Numeri decimali e frazioni
-
-a) Scrivi le seguenti frazioni in forma decimale (arrotonda alla terza cifra decimale):  $\enspace \dfrac{1}{2};\enspace \dfrac{1}{3};\enspace -\dfrac{1}{1000};\enspace \dfrac{7}{12};\enspace -\dfrac{1}{99};\enspace \dfrac{1}{2};\enspace -\dfrac{16}{33};\enspace \dfrac{24}{13};\enspace -\dfrac{34}{11}.$
-
-b) Scrivi i seguenti numeri decimali in frazioni: 
-
-$\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspace 9.69.$ 
-
-
-
-### ESERCIZIO 7.2 - Le percentuali
-
-a) Trasforma in percentuale i numeri seguenti: $2$;   $0,02$;   $-1,465$;   $5$;   $0$.
-
-b) Trasforma in numeri decimali le percentuali seguenti: $2\%$;   $0,02\%$;   $-30\%$;   $350\%$;   $1000\%$;   $0,0002\%$.
-
-c) Scrivi le seguenti frazioni in percentuali (approssimando):
-
-$\enspace \dfrac{1}{2}$;     $\dfrac{1}{3}$;     $\dfrac{1}{1000}$;     $\dfrac{7}{12}$;     $\dfrac{1}{99}$;     $\dfrac{1}{2}$;     $\dfrac{16}{33}$;     $\dfrac{24}{13}$;      $\dfrac{34}{11}$.
-
-d) Nell'esercizio 1, punto a.1, che percentuale di quadrati ha il colore rosso? ed il colore bianco?
-
-
-
-### ESERCIZIO 7.3 - Problemi con le percentuali
-
-a) Calcola le percentuali richieste nei casi seguenti.
-
-1. In borsa una azienda vede in tre mesi il proprio titolo passare da $\text{13,5}$ a $\text{16}$ euro per azione. Di quanto è salito il titolo in percentuale? [R. $\text{18,52\%}$];
-2. Una automobile incrementa la sua velocità da $\text{80}$ a $\text{100\; Km/h}$. Di che percentuale è salita la velocità?
-3. Se durante i saldi di fine stagione spendo $\text{35}\;\texteuro$ comprando una maglia che ne costava $\text{60}$, che sconto ho avuto? ed in percentuale sul prezzo?
-4. Per fare la parmigiana di melanzane per $\text{6}$ persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
-
-b) Calcola le quantità assolute richieste nei casi seguenti.
-
-1. Su una maglietta si calcola il $\text{30\;\%}$ di sconto. Se il prezzo è di $\text{50}\;\texteuro$, quale sarà lo sconto? Quale il prezzo scontato?
-2. Se il fatturato di una azienda, da un anno all'altro, cala del $\text{40\;\%}$, di quanto sarà calato se il primo anno era di $\text{12}$ milioni di euro? Quale sarà il nuovo valore?
-3. Quanti kilogrammi di burro si possono ricavare da $\text{125\; Kg}$ di latte, sapendo che il latte contiene panna per circa l’$\text{11\;\%}$ del suo peso e che la panna produce burro per il $\text{27\;\%}$ del suo peso .      [R. $\text{3.7125\;Kg}$] 
-
-c) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
-
-1. Quale è l'incremento, in percentuale, del fatturato del 2021 sul 2020? Quale quello del 2022 sull'anno precedente? E quello del 2020 sul 2019?
-2. che percentuale di fatturato, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
-3. Nel 2023 si prevede un calo del 22% rispetto all'anno precedente. Quale sarà il fatturato del 2023?
-
-![Grafico1](img\Ist-1.png)
-
-d) Comprando su Amazon si pagano, separatamente dal costo del prodotto, i costi di spedizione. Se per la spedizione di ciascun prodotto si pagano 5 euro e si fanno due acquisti distinti in cui, nel primo caso si pagano complessivamente 450 euro e nel secondo 60 euro, quanto incide il costo di spedizione sull'acquisto di ciascun prodotto? Se fossero acquistati e spediti insieme, sostenendo un costo di spedizione unico, quanto inciderebbe quest'ultimo sulla spesa totale?
-
-e) Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
-
-f) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
-
-g) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
-
-h) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
 
 
 
