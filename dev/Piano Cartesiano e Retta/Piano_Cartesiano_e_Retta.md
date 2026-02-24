@@ -158,20 +158,31 @@ d) $y = -2x + \dfrac{3}{2}$.     $ \bullet$
 
 ### ESERCIZIO 2.1 - Dalla retta generica alle rette specifiche
 
-Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri
+a) Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri.
 
-1. $m=1, \; q=1;$       $m=-1, \;  q=0;$       $m=0, \; q=-2;$
-2. $m=\dfrac{1}{2}, \; q=2;$       $m=-\dfrac{3}{4}, \; q= -5;$        $m=-\dfrac{2}{5}, \; q= -\dfrac{1}{3}$.
+1. $m=1, \; q=1$;
+2. $m=-1, \;  q=0$;
+3. $m=0, \; q=-2$.
+
+b) Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, scrivi nei casi riportati di seguito le equazioni specifiche dopo aver sostituito i parametri con i numeri.
+
+1. $m=\dfrac{1}{2}, \; q=2$;
+2. $m=-\dfrac{3}{4}, \; q= -5$;
+3. $m=-\dfrac{2}{5}, \; q= -\dfrac{1}{3}$.
 
 
 
 ### ESERCIZIO 2.2 - Retta in forma esplicita
 
-Scrivi in forma esplicita le seguenti equazioni. Quanto valgono $m$ e $q$ in ciascun caso?
+a) Scrivi in forma esplicita le seguenti equazioni. Determina quanto valgono $m$ e $q$ in ciascun caso.
 
-a) $y - \dfrac{1}{2}x = 5$,   $y +\dfrac{-1}{3}x - 4 = 0$  
+1. $y - \dfrac{1}{2}x = 5$;
+2. $ y +\dfrac{-1}{3}x - 4 = 0$.
 
-b) $y - x +2 = 0$,   $y - 4 = x + 9$  
+b)  Scrivi in forma esplicita le seguenti equazioni. Determina quanto valgono $m$ e $q$ in ciascun caso.
+
+1. $y - x +2 = 0$;
+2. $y - 4 = x + 9$.
 
 #### Laboratorio GEOGEBRA
 
@@ -397,7 +408,7 @@ Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il co
 
 ### ESERCIZIO 5.1 - Rette parallele e perpendicolari
 
-a) Date le equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
+a) Date le cinque equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
 
 1. $y = 3x - 2;$   $-x + y -4=0;$   $y = \dfrac{2}{3}x;$   $x - y - 5=0;$   $2x+6y-1=0$.
 2. $y = x + \dfrac{1}{3};$   $y = \dfrac{1}{3}x;$   $y = \dfrac{2}{3}x;$   $y = \dfrac{1}{3}x + \dfrac{1}{3};$   $y=+\dfrac{1}{3}$.
