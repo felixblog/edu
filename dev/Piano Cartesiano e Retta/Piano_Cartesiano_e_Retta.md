@@ -318,8 +318,6 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 Per parlare di significato geometrico di $m$ e $q$ come prima cosa dobbiamo assicurarci che l'equazione della retta sia in forma esplicita. Se non lo è, il primo passo per individuare $m$ e $q$ è quello di metterla in ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come "$\text{monomio in x} + \text{numero}$" e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
 
-coordinate complete del punto di intersezione della retta con l'asse delle $y$ sono $(0,q)$.
-
 #### ESEMPIO 1
 
 Consideriamo l'equazione $5x-3y=12$. Non è nella forma esplicita. Per trovare la sua forma esplicita risolviamo l'equazione come se $y$ fosse l'unica incognita:
@@ -374,17 +372,19 @@ $$
 m = \dfrac{y_2 - y_1}{x_2 - x_1} \\
 $$
 
-
-
 Se una retta è meno pendente vuol dire che a parità di spostamento orizzontale, il dislivello verticale che si avrà facendo la salita sarà inferiore, come si vede dalla figura seguente sulla retta rossa dove la pendenza è la metà di quella della retta nera.
 
 <img src="img/Pendenza-rapporto-2.png" alt="q" style="zoom: 80%;" />
 
+Presi due punti, poichè $x_2 - x_1$ è sempre positivo, se $y_2 - y_1$ è positivo, la retta è inclinata verso l'alto ed $m$ è positivo. Se invece $y_2 + y_1$ è negativo, la retta è inclinata verso il basso ed $m$ è negativo. Se è pari a zero la retta è orizzontale e conseguentemente $m$ è pari a zero.
 
 
-Rette diverse che hanno la stessa pendenza sono tra di loro parallele. Possiamo quindi dire che le rette che hanno lo stesso coefficiente angolare sono tra di loro parallele e viceversa che due rette parallele hanno lo stesso coefficiente angolare.
 
+#### Rette parallele
 
+Due rette in un piano si possono incrociare, e si dice che sono **incidenti**, o non incrociare ed allora si dicono **parallele**.  
+
+Due rette sono quindi parallele se non si intersecano. Come si vede dalla figura dell'esempio 3, due rette parallele formano lo stesso angolo con l'asse orizzontale delle $x$, ossia hanno la stessa pendenza e viceversa, rette diverse che hanno la stessa pendenza sono tra di loro parallele. Possiamo quindi dire che le rette che hanno lo stesso coefficiente angolare sono tra di loro parallele e viceversa che due rette parallele hanno lo stesso coefficiente angolare.
 
 #### ESEMPIO 3
 
@@ -400,9 +400,9 @@ L'altezza dei punti di intersezione corrisponde a $(0,q)$ dove $q$ è parametro 
 
 
 
-Se $m$ è positivo la retta è inclinata verso l'alto; se è negativo è inclinata verso il basso e se è pari a zero la retta è orizzontale.
+#### Rette perpendicolari
 
-Oltre a ciò possiamo dire che "due retta sono perpendicolari se e solo se il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$
+Due rette sono perpendicolari se sono incidenti e "dividono il piano in quattro parti uguali" ossia formano 4 angoli di 90 gradi. In questo caso il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$, per cui possiamo dire che due rette sono perpendicolari se e solo se i coefficienti angolari delle equazioni associate sono uno l'opposto del reciproco (o **antireciproco**) dell'altro. 
 
 
 
@@ -435,7 +435,7 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 ## UNITA' 6: Intersezione di due rette
 
-Due rette in un piano cartesiano, non parallele ne coincidenti, geometricamente si intersecano in un punto. Dal punto di vista delle equazioni, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite. 
+Due rette in un piano cartesiano, normalmente, non sono ne parallele ne coincidenti, cioè geometricamente si intersecano in un solo punto. Dal punto di vista delle equazioni, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite. 
 
 #### ESEMPIO 1
 
