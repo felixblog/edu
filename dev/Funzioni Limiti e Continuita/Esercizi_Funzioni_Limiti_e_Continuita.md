@@ -2,7 +2,7 @@
 
 ### ESERCIZIO 1 - Limite finito per x tendente a valore finito
 
-a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione in prossimità del valore di $x$.
+a) Verifica i limiti seguenti disegnando, con una tabella di punti o con GEOGEBRA, un grafico approssimativo della funzione in prossimità del valore di $x$.
 
 1. $\displaystyle \lim_{x\to 1}(2-3x)=-1$;    $\displaystyle \lim_{x\to -3}(x+5)=2$;    $\displaystyle \lim_{x\to \frac{1}{2}}(4x-1)=1$;
 2. $\displaystyle \lim_{x\to 0^+}\sqrt x = 0$;    $\displaystyle \lim_{x\to -1^-}(2x+3)=1$;    $\displaystyle \lim_{x\to 2^-} \sqrt{2-x} = 0$;

@@ -5,7 +5,7 @@
 
 Un'**affermazione** (detta anche **asserzione**) è un'espressione (parlata, scritta, a volte solo pensata) che si può supporre essere vera (ossia ha senso chiedersi se è vera).
 
-Diciamo “supporre” perché, non tutte le affermazioni sono vere: alcune sono deliberatamente false; altre, invece, sono fondate su convinzioni errate, ma, se sono affermazioni, quantomeno ritenerle vere può avere un senso, che le si condivida o meno. In questo capitolo ci occuperemo di questo tipo di frasi, che chiameremo **proposizioni logiche**.
+Diciamo “supporre” perché, non tutte le affermazioni sono vere: alcune sono deliberatamente false; altre, invece, sono fondate su convinzioni errate, ma, se sono affermazioni, quantomeno ritenerle vere può avere un senso, che le si condividi o meno. In questo capitolo ci occuperemo di questo tipo di frasi, che chiameremo **proposizioni logiche**.
 
 Le tre frasi che seguono sono proposizioni logiche:
 
@@ -131,6 +131,8 @@ Le due proposizioni componenti sono "Non si interviene per invertire il cambiame
 
 Pr finire osserviamo che le frasi che presentano una negazione, come "Roma non è la capitale della Romania", "Antonio non è andato via" o "Non si interviene per invertire il cambiamento climatico", si considerano proposizioni complesse costituite dalla proposizione in forma positiva con l'aggiunta di un connettivo particolare, la **negazione**, in quanto coinvolge una frase sola. Una frase negata è falsa se la frase originaria è vera ed è vera se quella originaria è falsa.
 
+
+
 ### FORME SIMBOLICHE
 
 Per riassumere quanto abbiamo detto sul come la verità delle proposizioni complesse dipende dalla verità delle proposizioni semplici componenti, diamo un nome simbolico alle proposizioni semplici ed ai connettivi. Consideriamo i connettivi seguenti (fondamentali) ed i loro simboli:
@@ -186,6 +188,8 @@ $p$: “Tu mi aiuti”, $q$: “Tu vai via", Proposizione composta: "O mi aiuti 
 "Se premi l'interruttore la luce si accende"
 
 $p$: “Tu premi l'interruttore”, $q$: “La luce si accende", Proposizione composta: "Se premi l'interruttore la luca si accende": $p \to q$.
+
+
 
 ### TABELLE DI VERITA'
 

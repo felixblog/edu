@@ -43,13 +43,17 @@ b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
 
 a) Nei casi riportati di seguito, determina quali tra i valori indicati nell'insieme è soluzione della disequazione associata.
 
-1. $\{0, 1, -1\}: x-2<6;$   $\{0, 3\}: 2x-1<3$;
-2. $\{0, 5, 7\}: 3(x-5) - 6 < 0$;   $\{0, 5, 7\}: 5x - (6-x) \ge 0$;
+1. $\{0, 1, -1\}: x-2<6$;
+2. $\{0, 3\}: 2x-1<3$;
+3. $\{0, 5, 7\}: 3(x-5) - 6 < 0$;
+4. $\{0, 5, 7\}: 5x - (6-x) \ge 0$.
 
 b) Scrivi la disequazione corrispondente alle frasi riportate di seguito.
 
-1. Insieme dei numeri minori o uguali ad 1; Insieme dei numeri non maggiori di 2;
-2. Insieme dei numeri il cui doppio è minore di 3; Insieme dei numeri non maggiori di $-\dfrac{4}{13}$.
+1. Insieme dei numeri minori o uguali ad $1$;
+2. Insieme dei numeri non maggiori di $2$;
+3. Insieme dei numeri il cui doppio è minore di $3$;
+4. Insieme dei numeri non maggiori di $-\dfrac{4}{13}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -108,7 +112,18 @@ b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA ana
 
 a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
 
-1. $x-1\ge 2$;   $7x-1\ge 2$;   $-x-1\le 2$;   $\dfrac{x}{5}-1\ge 2$;
-2. $4x - 3 > 5x + 1$;   $4[2(1 - x) -3] > 5x + 1$;    $5(x-1) < 2(x-3)$;
-3. $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;   $3(x-1)-1 < \dfrac{x-2}{3} - \left(x-\dfrac{x-1}{3}\right)$;
-4. $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;   $2x-5\lt 3+2x$;   $2(x+1) - 5x\ge 3x + 4(x+1)$.
+1. $x-1\ge 2$;
+2. $7x-1\ge 2$;
+3. $-x-1\le 2$;
+4. $\dfrac{x}{5}-1\ge 2$;
+5. $4x - 3 > 5x + 1$;
+6. $4[2(1 - x) -3] > 5x + 1$;
+
+b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
+
+1. $5(x-1) < 2(x-3)$;
+2. $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;
+3. $3(x-1)-1 < \dfrac{x-2}{3} - \left(x-\dfrac{x-1}{3}\right)$;
+4. $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;
+5.    $2x-5\lt 3+2x$;
+6. $2(x+1) - 5x\ge 3x + 4(x+1)$.
