@@ -45,14 +45,14 @@ Consideriamo le due frasi:
 
 La prima afferma "una cosa sola" (una relazione tra Angola e Namibia), ossia ci da <u>una sola informazione</u>, mentre la seconda afferma due fatti indipendenti, ossia "I dinosauri erano rettili" e "I dinosauri avevano il sangue freddo", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro.
 
-Frasi come “L'Angola confina con la Namibia”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", che come abbiamo notato ci danno una sola informazione, sono dette **proposizioni semplici** (o **elementari**), mentre se forniscono più informazioni sono dette **proposizioni complesse** (o **composte**) e le proposizioni semplici al suo interno sono le componenti.
+Frasi come “L'Angola confina con la Namibia”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", che come abbiamo notato ci danno una sola informazione, sono dette **proposizioni semplici** (o **elementari**), mentre le frasi che forniscono più informazioni sono dette **proposizioni complesse** (o **composte**) e le proposizioni semplici al suo interno sono le loro **componenti**.
 
-Da ultimo notiamo che non è sempre immediato distinguere le proposizioni semplici da quelle complesse. Vediamo i due casi seguenti:
+Non è sempre immediato capire se una proposizione è semplice o complessa perché la loro forma può essere simile. Vediamo il caso seguente:
 
 - L'Angola e la Namibia sono confinanti;
 - L'Angola e la Namibia sono stati.
 
-Le due frasi ovviamente dicono cose diverse, ma l'aspetto della diversità che qui ci interessa è quello per cui la prima è una proposizione semplice (afferma una relazione tra Angola e Namibia), mentre la seconda è complessa ed è formata dalle due proposizioni "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere vere o false indipendentemente l'una dall'altra, perché, ad esempio, la Namibia potrebbe essere solo una regione e non uno stato.
+Le due frasi dicono cose diverse ma sembrano parlare nello stesso modo di Angola e Namibia. La differenza è che mentre  la prima è una proposizione semplice (afferma una cosa sola: una relazione tra Angola e Namibia che o è vera o è falsa), la seconda è complessa ed è formata dalle due proposizioni "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere vere o false indipendentemente l'una dall'altra, perché, ad esempio, la Namibia potrebbe essere solo una regione di qualche stato e non uno stato di per se.
 
 
 
