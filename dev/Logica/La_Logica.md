@@ -38,21 +38,21 @@ Situazioni analoghe si hanno con i casi seguenti, in cui, dal punto di vista log
 
 ### PROPOSIZIONI SEMPLICI E COMPLESSE
 
-Consideriamo le due frasi 
+Consideriamo le due frasi:
+
+- L'Angola confina con la Namibia.
+- I dinosauri erano rettili ed avevano il sangue freddo.
+
+La prima afferma "una cosa sola" (una relazione tra Angola e Namibia), ossia ci da <u>una sola informazione</u>, mentre la seconda afferma due fatti indipendenti, ossia "I dinosauri erano rettili" e "I dinosauri avevano il sangue freddo", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro.
+
+Frasi come “L'Angola confina con la Namibia”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", che come abbiamo notato ci danno una sola informazione, sono dette **proposizioni semplici** (o **elementari**), mentre se forniscono più informazioni sono dette **proposizioni complesse** (o **composte**) e le proposizioni semplici al suo interno sono le componenti.
+
+Da ultimo notiamo che non è sempre immediato distinguere le proposizioni semplici da quelle complesse. Vediamo i due casi seguenti:
 
 - L'Angola e la Namibia sono confinanti;
 - L'Angola e la Namibia sono stati.
 
-Le due frasi ovviamente dicono cose diverse, ma l'aspetto della diversità che qui ci interessa è quello per cui la prima afferma "un fatto solo" (una relazione tra Angola e Namibia), ossia ci da <u>una sola informazione</u>, mentre la seconda afferma due fatti indipendenti, ossia "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro, perché, ad esempio, la Namibia potrebbe essere solo una regione e non uno stato.
-
-Le frasi come “L'Angola e la Namibia sono confinanti”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", sono affermazioni **semplici**, cioè ci danno una sola informazione. Quelle riportate di seguito, invece, sono delle frasi complesse, in cui ognuna esprime almeno due affermazioni collegate: 
-
-- I dinosauri erano rettili ed avevano il sangue freddo.
-- Claudia ha appena corso una maratona ed ha completato la distanza in meno di quattro ore.
-- l livelli del mare sono in aumento in tutto il mondo, perché il riscaldamento globale sta sciogliendo le calotte polari.
-- Molte parti del mondo saranno presto sommerse se non si interviene per invertire il cambiamento climatico.
-
-Quando una frase afferma un fatto solo viene detta **proposizione semplice** (o **elementare**), mentre se afferma più fatti è detta **proposizione complessa** (o **composta**) e le proposizioni semplici al suo interno sono le componenti.
+Le due frasi ovviamente dicono cose diverse, ma l'aspetto della diversità che qui ci interessa è quello per cui la prima è una proposizione semplice (afferma una relazione tra Angola e Namibia), mentre la seconda è complessa ed è formata dalle due proposizioni "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere vere o false indipendentemente l'una dall'altra, perché, ad esempio, la Namibia potrebbe essere solo una regione e non uno stato.
 
 
 
