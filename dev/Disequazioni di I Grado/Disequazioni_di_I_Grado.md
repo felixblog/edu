@@ -1,12 +1,12 @@
 ## UNITA' 1: Diseguaglianze ed intervalli
 
-La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $1+2 \lt 5 \longrightarrow True$ . Osserviamo che $1+2 \lt 3 \longrightarrow False$ .
+La scrittura $3 \gt 5$ è una **diseguaglianza** ed afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $1+2 \lt 5 \longrightarrow True$ . Osserviamo che $1+2 \lt 3 \longrightarrow False$ .
 
 I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow True$  e  $3 \le 3 \longrightarrow True$​ .
 
-Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per se non è ne vera ne falsa in quanto non contiene solo numeri, ma è importante perché con essa possiamo porci un problema , che è quello di trovare i numeri che sostituiti alla lettera $x$​ rendono la relazione vera.
+La scrittura $x < -2$ è invece una **disequazione**. Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per se non è ne vera ne falsa in quanto non contiene numeri che possono essere confrontati tra di loro, ma è importante perché con essa possiamo porci un problema , che è quello di trovare i numeri che sostituiti alla lettera $x$​ rendono la relazione vera.
 
-La scrittura $x \lt -2$ si chiama "disequazione" ed i numeri che la rendono vera si chiamano "soluzioni" della disequazione. Come si vede, le soluzioni della disequazione sono tutti i numeri che sono minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
+I numeri che rendono vera la disequazione $x < -2$ si chiamano "soluzioni" della disequazione. Come si vede, le soluzioni della disequazione sono tutti i numeri che sono minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
 
 Per indicare questo insieme si utilizza anche un'altra notazione, detta "**intervallo**": $(-\infty, -2)$; in questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo includere anche il numero $-2$ scriviamo $(-\infty, -2]$.
 
@@ -107,6 +107,32 @@ b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA ana
 
 
 ## UNITA' 2: Disequazioni di I grado con una incognita
+
+La disequazione $x < -2$ è **elementare**, ossia è del tipo più semplice che si possa scrivere. 
+
+Una disequazione solo di poco più complessa è, ad esempio, $x + 1 < -2$.
+
+E' facile verificare provando, che per $x$ uguale a $0, 1, 2, ...$ la disequazione è sempre falsa. Per $x$ uguale a $-3, -4,  -5, ...$  la disequazione è sempre vera. Per trovare l'insieme delle soluzioni bisogna applicare lo stesso procedimento utilizzato per le equazioni, con le regole del **trasporto**, **semplificazione** e **moltiplicazione/divisione**:
+
+a) $x + 1 < -2$;  regola del trasporto:
+
+b) $x < -2 -1$; regola della semplificazione
+
+c) $x < -3$.
+
+La disequazione finale trovata ci dice che l'insieme delle soluzioni è l'insieme dei numeri minori di $-2$.
+
+Il procedimento per trovare l'insieme delle soluzioni di una disequazione è lo stesso che per le equazioni, con una differenza nella regola della  **moltiplicazione/divisione**: se moltiplichiamo per un numero negativo, la disuguaglianza cambia "segno" intendendo che "$<$" diventa "$>$" e viceversa e "$\le$" diventa "$\ge$".
+
+Ad esempio, le soluzioni della disequazione $-2x < 4$ si trovano con i passaggi seguenti:
+
+a) $-2x \lt 4$; con la regola della molt/div
+
+b) $-\dfrac{1}{2} \cdot \left( -2x  \right) \gt -\dfrac{1}{2} \cdot 4$
+
+c) $x \lt -2$. 
+
+
 
 ### ESERCIZIO 2.1 - Soluzione di Disequazioni II
 

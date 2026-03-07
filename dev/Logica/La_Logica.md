@@ -1,5 +1,20 @@
-
 # Logica
+
+La logica è lo studio delle <u>argomentazioni</u>. Con questo termine ci si riferisce a quelle forme di discorso in cui una o più <u>proposizioni</u> date per certe, dette premesse, 
+vengono affermate a sostegno di un’altra proposizione, detta conclusione. Per esempio, 
+quelle che seguono sono due semplici argomentazioni, ciascuna costituita da due 
+premesse seguite da una conclusione:
+
+a) Se piove non esco di casa; piove, quindi non esco di casa
+
+b) Nessun essere umano è in grado di prevedere il futuro. Luca è un essere umano. 
+Quindi Luca non è in grado di prevedere il futuro.
+
+Scopo della logica è capire se un ragionamento o argomentazione è corretta, ossia se la conclusione si deduce dalle premesse, se non lo è, e quali caratteristiche deve avere un ragionamento per essere corretto.
+
+Poiché le argomentazioni sono fatte da frasi o proposizioni, cominciamo ad esaminare come possono essere fatte le proposizioni.
+
+ 
 
 ## UNITA' 1: Le proposizioni della logica
 
