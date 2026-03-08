@@ -1,16 +1,13 @@
 # Logica
 
-La logica è lo studio delle <u>argomentazioni</u>. Con questo termine ci si riferisce a quelle forme di discorso in cui una o più <u>proposizioni</u> date per certe, dette premesse, 
-vengono affermate a sostegno di un’altra proposizione, detta conclusione. Per esempio, 
-quelle che seguono sono due semplici argomentazioni, ciascuna costituita da due 
-premesse seguite da una conclusione:
+La logica è lo studio delle <u>argomentazioni</u>. Con questo termine ci si riferisce a quelle forme di discorso in cui una o più <u>proposizioni</u> date per certe, dette premesse, vengono affermate a sostegno di un’altra proposizione, detta conclusione. Per esempio, quelle che seguono sono due semplici argomentazioni, ciascuna costituita da due premesse seguite da una conclusione:
 
 a) Se piove non esco di casa; piove, quindi non esco di casa
 
 b) Nessun essere umano è in grado di prevedere il futuro. Luca è un essere umano. 
 Quindi Luca non è in grado di prevedere il futuro.
 
-Scopo della logica è capire se un ragionamento o argomentazione è corretta, ossia se la conclusione si deduce dalle premesse, se non lo è, e quali caratteristiche deve avere un ragionamento per essere corretto.
+Scopo della logica individuare i criteri per capire se un ragionamento o argomentazione è corretta o meno, ossia se la conclusione si deduce dalle premesse, e quali caratteristiche deve avere un ragionamento per essere corretto.
 
 Poiché le argomentazioni sono fatte da frasi o proposizioni, cominciamo ad esaminare come possono essere fatte le proposizioni.
 
@@ -60,14 +57,15 @@ Consideriamo le due frasi:
 
 La prima afferma "una cosa sola" (una relazione tra Angola e Namibia), ossia ci da <u>una sola informazione</u>, mentre la seconda afferma due fatti indipendenti, ossia "I dinosauri erano rettili" e "I dinosauri avevano il sangue freddo", che potrebbero essere veri o falsi indipendentemente l'uno dall'altro.
 
-Frasi come “L'Angola confina con la Namibia”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", che come abbiamo notato ci danno una sola informazione, sono dette **proposizioni semplici** (o **elementari**), mentre le frasi che forniscono più informazioni sono dette **proposizioni complesse** (o **composte**) e le proposizioni semplici al suo interno sono le loro **componenti**.
+Frasi come “L'Angola confina con la Namibia”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", che come abbiamo notato ci danno una sola informazione, sono dette **proposizioni semplici** (o **elementari**), mentre le frasi che forniscono più informazioni sono dette **proposizioni complesse** (o **composte**) e le proposizioni semplici al suo interno sono le loro **componenti**. Si può anche dire che una proposizione è semplice se non è possibile scomporla in proposizioni più semplici senza farle perdere di significato.
 
-Non è sempre immediato capire se una proposizione è semplice o complessa perché la loro forma può essere simile. Vediamo il caso seguente:
+Non è sempre immediato capire se una proposizione è semplice o complessa perché la forma può essere simile in enrtambi i casi. Vediamo il caso seguente:
 
-- L'Angola e la Namibia sono confinanti;
 - L'Angola e la Namibia sono stati.
 
-Le due frasi dicono cose diverse ma sembrano parlare nello stesso modo di Angola e Namibia. La differenza è che mentre  la prima è una proposizione semplice (afferma una cosa sola: una relazione tra Angola e Namibia che o è vera o è falsa), la seconda è complessa ed è formata dalle due proposizioni "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere vere o false indipendentemente l'una dall'altra, perché, ad esempio, la Namibia potrebbe essere solo una regione di qualche stato e non uno stato di per se.
+- L'Angola e la Namibia sono confinanti;
+
+Le due frasi dicono cose diverse ma sembrano parlare nello stesso modo di Angola e Namibia. La differenza è che mentre  la prima è complessa ed è formata dalle due proposizioni "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere vere o false indipendentemente l'una dall'altra, perché, ad esempio, la Namibia potrebbe essere solo una regione di qualche stato e non uno stato di per se,  la prima è una proposizione semplice ed afferma una cosa sola: una relazione tra Angola e Namibia che o è vera o è falsa (non avrebbe senso separarla in "L'Angola è confinante" e "La Namibia è confinante"). 
 
 
 
@@ -101,7 +99,7 @@ b) Indica il valore di verità delle seguenti proposizioni:
 
 
 
-### ESERCIZIO 1.2 - Proposizioni semplici e composte
+### ESERCIZIO 1.2 - Proposizioni semplici e complesse
 a) Nei casi seguenti, indica quali sono le proposizioni semplici e quali quelle composte.
 1. «Il gatto è un mammifero e il topo è un roditore»;  
 2. «Se passi a prendermi, allora andiamo a passeggio insieme»;  

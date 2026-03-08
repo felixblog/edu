@@ -26,7 +26,7 @@ $\sqrt[n]{b}$, la radice n-esima di $b$, è il numero positivo $a$ tale che $a^n
 
 Tranne che in casi particolari le radici si trovano con la calcolatrice o con GEOGEBRA, trasformando il radicale in potenza.
 
-E' importante dire che se l'indice del radicale è pari ed il numero sotto la radice è negativo non esiste nessun numero corrispondente al radicale. Ad esempio $\sqrt[2]{-4}$ non è un numero perché se esistesse $a$ tale che $\sqrt[2]{-4}=a$ allora $a^2 = -4$ e questo numero non esiste.
+E' importante dire che se l'indice del radicale è pari ed il numero sotto la radice è negativo non esiste nessun numero corrispondente al radicale. Ad esempio $\sqrt[2]{-4}$ non corrisponde ad alcun numero perché se esistesse $a$ tale che $\sqrt[2]{-4}=a$ allora $a^2 = -4$ e questo numero non esiste.
 
  
 
@@ -108,7 +108,7 @@ Ci sono equazioni di II grado che hanno due soluzioni, equazioni con una sola so
 
 Un esempio di equazione che non ha soluzione è la b) perché non c'è nessun numero che al quadrato possa dare $-1$.
 
-Prima di scrivere le formule per calcolare le soluzioni di una equazione di II grado bisogna esaminare la loro forma "standard" detta *forma normale*.
+Prima di scrivere le formule per calcolare le soluzioni di una equazione di II grado bisogna esaminare la loro forma "standard" detta **forma normale**.
 
 Una equazione di II grado è in forma normale se è scritta come un polinomio uguale a zero, ossia ha la forma generica:
 $$
@@ -233,9 +233,9 @@ Se disegniamo sul piano cartesiano le soluzioni delle equazioni di questo tipo, 
 
 Questa forma è chiamata **parabola** ed il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione della parabola si chiama "grafico dell'equazione della parabola" o più semplicemente **grafico della parabola**.
 
-Prendendo in esame le equazioni che hanno la $a > 0$, osserviamo che i grafici hanno una parte che "scende" fino ad un minimo, detto "vertice" e poi risale. In alcuni casi, come quello della prima figura, una parte della parabola è nel semipiano delle $y$ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
+Prendendo in esame le equazioni che hanno la $a > 0$, osserviamo che i grafici hanno una parte a sinistra che "scende" fino ad un minimo, detto "vertice" e poi risale proseguendo verso destra. In alcuni casi, come quello della prima figura, una parte della parabola è nel semipiano delle $y$ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
 
-Come si vede dalle figure, una parabola può incrociare entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse verticale e con il secondo troviamo l'intersezione con l'asse orizzontale:
+Come si vede dalle figure, una parabola può incrociare ino solo o entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse verticale e con il secondo troviamo l'intersezione con l'asse orizzontale:
 
 $$
 \left\{  
@@ -255,7 +255,7 @@ y =0			\\
 \right.
 $$
 
-Risolvendo il primo per sostituzione, la seconda equazione è elementare e sostituendo $0$ al posto della y nella prima otteniamo la soluzione $(0,c)$ che ci dà il punto di intersezione della parabola con l'asse verticale.
+Risolvendo il primo per sostituzione, la seconda equazione è elementare e sostituendo $0$ al posto della $x$ nella prima equazione otteniamo la soluzione $(0,c)$ che ci dà il punto di intersezione della parabola con l'asse verticale.
 
 Per risolvere il secondo sistema, sostituendo $0$ al posto della $y$ nella prima equazione abbiamo da risolvere una equazione di II grado. Le soluzioni di questa equazione sono proprio le ascisse dei punti di intersezione dell'equazione con l'asse orizzontale.
 
@@ -356,7 +356,7 @@ Consideriamo la parabola $y = \dfrac{1}{4}x^2-9$ con il grafico riportato nella 
 
 <img src="img\Parabola-1.png" alt="Parabola" style="zoom:20%;" />
 
-Gli intervalli di positività sono due: $[6,+\infty]$ e $[-\infty,-6]$; gli estremi $6$ e $-6$ sono radici del polinomio associato per cui la $y$ è uguale a zero.
+Guardando il grafico si vede che gli intervalli di positività sono due: $[6,+\infty]$ e $[-\infty,-6]$; gli estremi $6$ e $-6$ sono radici del polinomio associato per cui la $y$ è uguale a zero.
 
  
 
