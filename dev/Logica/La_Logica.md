@@ -59,13 +59,13 @@ La prima afferma "una cosa sola" (una relazione tra Angola e Namibia), ossia ci 
 
 Frasi come “L'Angola confina con la Namibia”, “I manager bancari guadagnano eccessivamente” o "Roma è la capitale della Romania", che come abbiamo notato ci danno una sola informazione, sono dette **proposizioni semplici** (o **elementari**), mentre le frasi che forniscono più informazioni sono dette **proposizioni complesse** (o **composte**) e le proposizioni semplici al suo interno sono le loro **componenti**. Si può anche dire che una proposizione è semplice se non è possibile scomporla in proposizioni più semplici senza farle perdere di significato.
 
-Non è sempre immediato capire se una proposizione è semplice o complessa perché la forma può essere simile in enrtambi i casi. Vediamo il caso seguente:
+Non è sempre immediato capire se una proposizione è semplice o complessa perché la forma può essere simile in entrambi i casi. Vediamo il caso seguente:
 
-- L'Angola e la Namibia sono stati.
+- L'Angola e la Namibia sono due stati.
 
 - L'Angola e la Namibia sono confinanti;
 
-Le due frasi dicono cose diverse ma sembrano parlare nello stesso modo di Angola e Namibia. La differenza è che mentre  la prima è complessa ed è formata dalle due proposizioni "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere vere o false indipendentemente l'una dall'altra, perché, ad esempio, la Namibia potrebbe essere solo una regione di qualche stato e non uno stato di per se,  la prima è una proposizione semplice ed afferma una cosa sola: una relazione tra Angola e Namibia che o è vera o è falsa (non avrebbe senso separarla in "L'Angola è confinante" e "La Namibia è confinante"). 
+Le due frasi dicono cose diverse ma sembrano parlare nello stesso modo di Angola e Namibia. La differenza è che mentre  la prima è complessa ed è formata dalle due proposizioni "L'Angola è uno stato" e "La Namibia è uno stato", che potrebbero essere vere o false indipendentemente l'una dall'altra, perché, ad esempio, la Namibia potrebbe essere solo una regione di qualche stato e non uno stato di per se,  la seconda è una proposizione semplice ed afferma una cosa sola: una relazione tra Angola e Namibia che o è vera o è falsa (non avrebbe senso separarla in "L'Angola è confinante" e "La Namibia è confinante"). 
 
 
 
@@ -138,7 +138,7 @@ Nel caso della prima è abbastanza semplice: il connettivo è “e” e la prima
 
 La seconda frase è più complicata perché le frasi componenti sono legate da un connettivo fatto di due parole: il primo "o" ed il secondo "o" e la frase intende dire che o succede una cosa, o l'altra ma non tutte e due. La conclusione è che nel suo insieme la proposizione sarà vera se e solo se una sola delle sue frasi componenti è vera. In questo caso il connettivo è detto **disgiunzione (esclusiva)**.
 
-La terza è un’altra affermazione complessa e difficile da analizzare. Prima di tutto, essa non sta sostenendo né che alcune parti del mondo saranno presto sott’acqua né che nulla sarà fatto per il cambiamento climatico. La terza viene generalmente detta proposizione condizionale o ipotetica ed è un'affermazione nella quale se una parte è vera, allora lo sarà anche l'altra. Per esempio, se non si fa nulla per i cambiamenti climatici, allora alcune parti del mondo finiranno sott’acqua. Se non si farà nulla, e la previsione si rivelerà un falso allarme, allora la terza proposizione nel suo insieme sarà falsa.
+La terza è un’altra affermazione complessa e difficile da analizzare. Prima di tutto, essa non sta sostenendo né che alcune parti del mondo saranno presto sott’acqua né che nulla sarà fatto per il cambiamento climatico. Viene generalmente detta proposizione condizionale o ipotetica ed è un'affermazione nella quale se una parte è vera, allora lo sarà anche l'altra. Per esempio, se non si fa nulla per i cambiamenti climatici, allora alcune parti del mondo finiranno sott’acqua. Se non si farà nulla, e la previsione si rivelerà un falso allarme, allora la terza proposizione nel suo insieme sarà falsa.
 
 Le due proposizioni componenti sono "Non si interviene per invertire il cambiamento climatico" e "Molte parti del mondo saranno presto sommerse" e sono tenute insieme dal connettivo "Se ... (allora)..." detto **implicazione **(materiale).
 
@@ -153,7 +153,7 @@ Per riassumere quanto abbiamo detto sul come la verità delle proposizioni compl
 | Connettivo             | Simbolo   | Esempi                    |
 | ---------------------- | --------- | ------------------------- |
 | Congiunzione           | $\land$   | e, ma, sebbene, ne ... ne |
-| Disgiunzione           | $\lor$    | o, oppure,                |
+| Disgiunzione           | $\lor$    | o, oppure                 |
 | Disgiunzione esclusiva | $\veebar$ | o ... o, o, ..., oppure   |
 | Negazione              | $\lnot$   | non, non è vero che       |
 | Implicazione           | $\to$     | se ... allora, ... se     |
@@ -186,7 +186,7 @@ Questa è considerata una frase complessa perché quelle semplici sono in forma 
 
    "Vado al bowling con Mario o con Andrea".
 
-- $p$: “Io vado al bowling con Mario”:
+- $p$: “Vado al bowling con Mario”:
 - $q$: “Vado al bowling con Andrea”
 -  $p \lor q$: "Vado al bowling con Mario o con Andrea".
 
@@ -194,13 +194,13 @@ Questa è considerata una frase complessa perché quelle semplici sono in forma 
 
 "O mi aiuti o te ne vai"
 
-$p$: “Tu mi aiuti”, $q$: “Tu vai via", Proposizione composta: "O mi aiuti o te ne vai": $p \veebar q$.
+$p$: “Tu mi aiuti”, $q$: “Tu vai via", la proposizione composta sarà $p \veebar q$: "O mi aiuti o te ne vai".
 
 #### Esempio 5: Implicazione
 
 "Se premi l'interruttore la luce si accende"
 
-$p$: “Tu premi l'interruttore”, $q$: “La luce si accende", Proposizione composta: "Se premi l'interruttore la luca si accende": $p \to q$.
+$p$: “Tu premi l'interruttore”, $q$: “La luce si accende", Proposizione composta: "Se tu premi l'interruttore la luca si accende": $p \to q$.
 
 
 
@@ -549,9 +549,9 @@ T & F & T & T \\
 F & F & T & T \\  
 \end{array}
 $$
-Nella riga in cui le premesse sono tutte vere anche la conclusione è vera, per cui il ragionamento è corretto.
+In tutte le righe in cui le premesse $p_1$ e $p_2$ sono entrambe vere (in questo caso una sola), anche la conclusione è vera, per cui il ragionamento è corretto.
 
-Se invece, indicando con $r$: "Roma è la capitale d'Italia" costruiamo la tabella di verità di $R_2$ (che avrà $8$ righe perché ha tre proposizioni elementari), abbiamo la tabella seguente.
+Se invece, indicando con $r$: "Roma è la capitale d'Italia" costruiamo la tabella di verità del secondo ragionamento $R_2$ (che avrà $8$ righe perché ha tre proposizioni elementari), abbiamo la tabella seguente.
 $$
 \begin{array}{c|c|c}
 p_2:p & q & c:r & p_1:p \to \lnot q \\ 
@@ -569,7 +569,7 @@ F & F & F & T \\
 \end{array}
 $$
 
-In questo caso il ragionamento non è corretto perché nella penultima riga alle due premesse vere corrisponde la conclusione falsa.
+In questo caso il ragionamento non è corretto perché sia nella terza che nella penultima riga le due premesse sono entrambe vere ma la conclusione falsa.
 
  
 
