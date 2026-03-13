@@ -308,7 +308,7 @@ c) Date le seguenti proposizioni composte, indica ogni proposizione componente c
 
 4. "Non leggo quella pagina o la strappo o la brucio";  
 
-5. "Leggo o mangio una mela o tengo in mano una penna";  
+5. "O leggo o mangio una mela o tengo in mano una penna";  
 
 6. "7 è un numero primo o è pari";  
 
@@ -378,7 +378,7 @@ b) Scrivi in forma simbolica le seguenti proposizioni composte:
 
 ## UNITA' 3: Tabelle di verità, tautologie e contraddizioni
 
-Abbiamo già detto che la verità delle proposizioni complesse dipendono dalla verità delle proposizioni componenti. Possiamo capire "quando" una proposizione complessa è vera costruendo la sua tabella di verità. Vediamo alcuni esempi.
+Abbiamo già detto che la verità delle proposizioni complesse dipende dalla verità delle proposizioni componenti. Possiamo capire "quando" una proposizione complessa è vera costruendo la sua tabella di verità. Vediamo alcuni esempi.
 
 #### ESEMPIO 1
 
@@ -549,7 +549,7 @@ T & F & T & T \\
 F & F & T & T \\  
 \end{array}
 $$
-In tutte le righe in cui le premesse $p_1$ e $p_2$ sono entrambe vere (in questo caso una sola), anche la conclusione è vera, per cui il ragionamento è corretto.
+In tutte le righe in cui le premesse $p_1$ e $p_2$ sono entrambe vere (in questo caso una sola), anche la conclusione è vera, per cui il ragionamento è corretto.
 
 Se invece, indicando con $r$: "Roma è la capitale d'Italia" costruiamo la tabella di verità del secondo ragionamento $R_2$ (che avrà $8$ righe perché ha tre proposizioni elementari), abbiamo la tabella seguente.
 $$
@@ -586,7 +586,7 @@ a) Individuando premesse e conclusione, tradurre nel linguaggio della logica pro
 7. Il Parma vince il campionato oppure il Chievo retrocede. D’altra parte, non si dà il caso che, se il Parma vince il campionato, allora il Chievo non retrocede. Inoltre, il Chievo non retrocede e il Sassuolo si qualifica in Europa League. Dunque, il Sassuolo non si qualifica in Europa League.  
     (Indicare con: $p$: "Il Parma vince il campionato", $c$: "Il Chievo retrocede", $s$: "Il Sassuolo si qualifica in Europa League").
 
-b) Analizzare la validità dei ragionamenti del punto a) con le tabelle di verità.
+b) Controllare la validità dei ragionamenti del punto a) con le tabelle di verità.
 
 
 
