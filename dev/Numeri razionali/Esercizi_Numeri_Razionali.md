@@ -946,31 +946,33 @@ b) Scrivi i numeri seguenti in notazione decimale
 
 Abbiamo già detto che le frazioni, come gli altri numeri, misurano delle quantità e che la misura dipende dall'unità di misura che utilizziamo. Ora vediamo come passare da una unità di misura ad un'altra.
 
-Nei due esempi seguenti cercheremo di trovare la misura di una (sola) durata temporale con due unità di misura diverse: le ore ed i minuti. 
+Nei due esempi seguenti cercheremo di trovare la misura di una (singola) durata temporale con due unità di misura diverse: le ore ed i minuti.
+
+Prima di cominciare con gli esempi, indichiamo con il simbolo $1_h$ la durata di un periodo di tempo misurato in ore ed unitario, ossia che misura un'ora e con $1_{min}$ la durata di un periodo di tempo misurato in minuti ed unitario, ossia che misura un minuto, per cui una durata di due ore la indicheremo con $2\cdot 1_h$ (due volte un'ora) ed un periodo di venti minuti sarà $20 \cdot 1_{min}$ (venti volte un minuto).
 
 #### ESEMPIO 1
 
 Quanto è lunga, in minuti, una pausa di tre quarti d'ora? (o equivalentemente: "quanti minuti ci sono in tre quarti d'ora?")
 
-Prima di rispondere alla domanda scriviamo il problema sotto forma di una uguaglianza: $\dfrac{3}{4}\;h = ?\;min$ (o meglio la relazione $\dfrac{3}{4}\;h \Rightarrow ?\;min$);  il nostro problema è quello di trovare il numero da sostituire al punto interrogativo (ouput) avendo a disposizione il dato "tre quarti d'ora" (input).
+Prima di rispondere alla domanda scriviamo il problema sotto forma di una uguaglianza: $\dfrac{3}{4}\;1_h = ?\;1_{min}$, il nostro problema è quello di trovare il numero da sostituire al punto interrogativo (output) avendo a disposizione il dato "tre quarti d'ora" (input).
 
-Partiamo da ciò che sappiamo, ossia la relazione fondamentale, base, che lega le ore ai minuti e cioè: $1\;h=60\;min$. Per avere su lato sinistro dell'uguaglianza l'espressione $\dfrac{3}{4}\;h$ moltiplichiamo a sinistra ed a destra per $\dfrac{3}{4}$, ottenendo:
+Partiamo da ciò che sappiamo, ossia la relazione fondamentale, base, che lega le ore ai minuti e cioè: $1_h\;=60\;1_{min}$. Per avere su lato sinistro dell'uguaglianza l'espressione $\dfrac{3}{4}\;1_h$ moltiplichiamo a sinistra ed a destra per $\dfrac{3}{4}$, ottenendo:
 
-$\dfrac{3}{4} \cdot 1\;h = \dfrac{3}{4} \cdot 60 \;min$, e calcolando i prodotti $\dfrac{3}{4}\;h = 45\; min$; confrontando le due relazioni si ricava che $? = 45$.    $\bullet$
+$\dfrac{3}{4} \cdot 1_h = \dfrac{3}{4} \cdot 60 \;1_{min}$, e calcolando i prodotti $\dfrac{3}{4}\;1_h = 45\; 1_{min}$; confrontando le due relazioni si ricava che $? = 45$.    $\bullet$
 
 #### ESEMPIO 2
 
 Quanto dura, in ore, una fila di $10$ minuti?
 
-Possiamo schematizzare il problema come $? \; h \Leftarrow 10\;min$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione di base che conosciamo tra le ore ed i minuti: $1\;h=60\;min$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo **le ore equivalenti ad un minuto** dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;h = \dfrac{\cancel{60}^1}{\cancel{60}_1}\;min$ cioè $\dfrac{1}{60}\;h = 1\;min$, ossia un minuto equivale ad un sessantesimo di ora (che riscritto in decimale è $ 1\;min \approx 0.0166\;h$).
+Possiamo schematizzare il problema come $? \; 1_h = 10\; 1_{min}$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione di base che conosciamo tra le ore ed i minuti: $1_h=60\; 1_{min}$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo **le ore equivalenti ad un minuto** dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;1_h = \dfrac{\cancel{60}^1}{\cancel{60}_1}\;1_{min}$ cioè $\dfrac{1}{60}\;1_h = 1_{min}$, ossia un minuto equivale ad un sessantesimo di ora (che riscritto in decimale è $ 1_{min} \approx 0.0166\;1_h$).
 
 A questo punto moltiplichiamo per $10$ sia a sinistra che a destra:
 
-a) $10 \cdot \dfrac{1}{60}\;h = 10 \cdot1\;min$
+a) $10 \cdot \dfrac{1}{60}\;1_h = 10 \cdot1_{min}$
 
-b) $\dfrac{10}{60}\;h = 10 \cdot1\;min$
+b) $\dfrac{10}{60}\;1_h = 10 \cdot 1_{min}$
 
-c) $\dfrac{1}{6}\;h \Leftarrow 10\;min$.
+c) $\dfrac{1}{6}\;1_h = 10\cdot 1_{min}$.
 
 In conclusione $10\;min \Rightarrow \dfrac{1}{6}\;h \approx 0.166\;h$, cioè $10$ minuti equivalgono a $0.166$ ore.    $\bullet$
 
@@ -982,15 +984,15 @@ In questo caso abbiamo un periodo espresso come somma (di due periodi): il primo
 
 Partiamo dalle due equivalenze che conosciamo:
 
-a) $1\;anno = 4\;trim$, e 
+a) $1_{anno} = 4\cdot 1_{trim}$, e 
 
-b) $1\;trim = 3\;mese$.
+b) $1_{trim} = 3\cdot 1_{mese}$.
 
-Moltiplicando la prima per $3$ abbiamo $3 \cdot 1\;anno = 3 \cdot 4\;trim$ $\longrightarrow$ $3\;anno = 12\;trim$, ossia $? = 12$
+Moltiplicando la prima per $3$ abbiamo $3 \cdot 1_{anno} = 3 \cdot 4\cdot 1_{trim}$ $\longrightarrow$ $3\cdot 1_{anno} = 12\cdot 1_{trim}$, ossia $? = 12$
 
 Dividendo la seconda per $3$ e poi moltiplicando tutto per $9$ abbiamo: 
 
-$\dfrac{1}{3}\;trim = \dfrac{\cancel3^1}{\cancel3_1}\;mese$  $\longrightarrow$  $9 \cdot \dfrac{1}{3}\;trim = 9 \cdot 1\;mese$ $\longrightarrow$ $3\;trim = 9 \;mese$, ossia $? = 3$
+$\dfrac{1}{3}\;1_{trim} = \dfrac{\cancel3^1}{\cancel3_1}\;1_{mese}$  $\longrightarrow$  $9 \cdot \dfrac{1}{3}\;trim = 9 \cdot 1_{mese}$ $\longrightarrow$ $3\cdot 1_{trim} = 9 \;1_{mese}$, ossia $? = 3$
 
 Il Risultato finale è $15$ trimestri:
 
@@ -1000,17 +1002,17 @@ $3\;anni \;e\; 9 \;mesi = 12\;trim + 3\;trim \longrightarrow 15\;trim$.    $\bul
 
 Quanto dura, in anni, di un periodo di $15$ trimestri?
 
-Il problema è $15 \; trim \Rightarrow ?\; anno$ . In questo caso partiamo sempre da $1\;anno = 4\;trim$ e troviamo la durata in anni di un trimestre dividendo tutto per $4$ e poi moltiplicando per $15$:
+Il problema è $15 \; trim \Rightarrow ?\; anno$ . In questo caso partiamo sempre da $1_{anno} = 4\cdot 1_{trim}$ e troviamo la durata in anni di un trimestre dividendo tutto per $4$ e poi moltiplicando per $15$:
 
-a) $1\;anno = 4\;trim$
+a) $1_{anno} = 4\cdot 1_{trim}$
 
-b) $\dfrac{1}{4}\;anno = \dfrac{\cancel4^1}{\cancel4_1}\;trim$
+b) $\dfrac{1}{4}\;1_{anno} = \dfrac{\cancel4^1}{\cancel4_1}\;1_{trim}$
 
-c) $15 \cdot \dfrac{1}{4}\;anno = 15 \cdot 1\;trim$
+c) $15 \cdot \dfrac{1}{4}\;1_{anno} = 15 \cdot 1_{trim}$
 
-d) $\dfrac{15}{4}\;anno = 15\;trim$
+d) $\dfrac{15}{4}\;1_{anno} = 15\;1_{trim}$
 
-e) $15\;trim \Rightarrow \dfrac{15}{4}\;anno \approx 3.75\;anno$.
+e) $15\;1_{trim} \Rightarrow \dfrac{15}{4}\;1_{anno} \approx 3.75\;1_{anno}$.
 
 In conclusione $15$ trimestri sono $3.75$ anni.     $\bullet$
 

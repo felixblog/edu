@@ -520,9 +520,23 @@ Questo ragionamento sembra stonato: c'è qualcosa che non torna, anche se la con
 
 La cosa stonata è che la conclusione **non si deduce** dalle premesse. Questo è il cuore di un ragionamento: un ragionamento è **corretto** se la conclusione si deduce dalle premesse, altrimenti non lo è. Nel caso di $R_2$ la conclusione è vera, ma non deriva dalle premesse (è vera o falsa indipendentemente dalle premesse), per cui il ragionamento non è corretto.
 
+#### Deduzioni ed implicazioni materiali
+
+Se dovessimo illustrare il ragionamento $R_1$ a parole diremmo:
+
+1. "Sapendo che 'Se piove non esco di casa' e che 'piove' si deduce che 'non esco di casa'".
+
+Questo modo di dire è molto simile alle proposizioni che abbiamo chiamato "implicazioni materiali" del tipo
+
+2. "Se c'è corrente e premi l'interruttore la luce si accende"
+
+Nonostante la similitudine, le due proposizioni sono diverse. La seconda non è un ragionamento, ma l'affermazione di una regola, di una legge per cui avviene una certa cosa se si verificano certe condizioni. La prima è invece un ragionamento, una catena di proposizioni per cui l'ultima si "deduce" dalle precedenti, è come se la sua verità fosse "contenuta" nelle precedenti, cosa che non accade nell'implicazione materiale. $\bullet$
+
+
+
 La derivazione dalle premesse che abbiamo visto finora, è una idea intuitiva; la possiamo precisare con il fatto importante che un ragionamento è corretto se e solo **a premesse vere corrisponde una conclusione vera**. 
 
-Quest'ultima definizione ci fornisce un metodo per controllare se un ragionamento è corretto: costruiamo la tabella di verità delle premesse e della conclusione e verifichiamo se in ogni riga in cui le premesse sono tutte vere anche la condizione è vera. Se è così, la conclusione di deduce dalle premesse ed il ragionamento è corretto, altrimenti no. 
+Quest'ultima definizione ci fornisce un metodo per controllare se un ragionamento è corretto: costruiamo la tabella di verità delle premesse e della conclusione e verifichiamo se <u>in ogni riga in cui le premesse sono tutte vere anche la conclusione è vera</u>. Se è così, la conclusione di deduce dalle premesse ed il ragionamento è corretto, altrimenti no. 
 
 #### ESEMPIO 2  
 
@@ -569,14 +583,14 @@ F & F & F & T \\
 \end{array}
 $$
 
-In questo caso il ragionamento non è corretto perché sia nella terza che nella penultima riga le due premesse sono entrambe vere ma la conclusione falsa.
+Anche in questo caso sono evidenziate in giallo le righe in cui tutte le premesse sono vere, ma poiché nella penultima riga le due premesse sono entrambe vere e la conclusione falsa, il ragionamento non è corretto.
 
  
 
 
 ### ESERCIZIO 4.1 - Analisi del ragionamento
 
-a) Individuando premesse e conclusione, tradurre nel linguaggio della logica proposizionale gli enunciati delle seguenti argomentazioni.
+a) Tradurre nel linguaggio della logica proposizionale gli enunciati delle seguenti argomentazioni, Individuando premesse e conclusione di ciascun ragionamento.
 1. Se piove non esco di casa. Piove o tira vento. Esco di casa. Quindi tira vento. 
 2. Se la squadra A segna una rete e la squadra B non segna allora A vince lo scudetto. Segnano entrambe le squadre, quindi A non vince lo scudetto.
 3. Arturo rimane in casa se e solo se la televisione trasmette un film comico. La televisione trasmette un film comico e Arturo si diverte, quindi Arturo si diverte.  
@@ -620,4 +634,4 @@ b) Completa i seguenti ragionamenti trovando la conclusione.
 
    $p_5$: Il colpevole non entrò dalla finestra.
 
-   Quale è la conclusione, ossia, chi è il colpevole?
+   Quale è la conclusione, ossia, chi è il colpevole (quali caratteristiche ha)?

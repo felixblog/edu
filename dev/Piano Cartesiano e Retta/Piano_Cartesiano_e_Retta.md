@@ -360,9 +360,9 @@ Come si vede l'altezza dell'intersezione con l'asse verticale è la stessa.    $
 
 Il coefficiente angolare determina la pendenza della retta rispetto all'asse orizzontale, che è in piano, cioè non ha pendenza.
 
-Pensiamo alla retta come ad una strada su cui camminiamo, in salita come nel caso della figura di sotto. Mentre camminiamo dalla posizione $P_1$ a quella $P_2$, ci spostiamo contemporaneamente sia verso l'alto che verso destra. Lo spostamento verso l'alto lo chiamiamo ***dislivello***, quello in orizzontale verso destra ***spostamento***. 
+Pensiamo alla retta come ad una strada su cui camminiamo, in salita come nel caso della figura di sotto. Mentre camminiamo dalla posizione $P_1$ a quella $P_2$, ci spostiamo contemporaneamente sia verso l'alto che verso destra. Lo spostamento verticale, verso l'alto, lo chiamiamo ***dislivello***, quello in orizzontale, verso destra, semplicemente ***spostamento***. 
 
-Il dislivello è calcolato dalla differenza delle altezze dei due punti, cioè $y_2 - y_1$ e lo spostamento dalla differenza delle due posizioni $x_2 - x_1$.
+Il dislivello è calcolato dalla differenza delle altezze dei due punti, cioè $y_2 - y_1$ e lo spostamento (orizzontale) dalla differenza delle due posizioni $x_2 - x_1$.
 
 <img src="img/Pendenza-rapporto-1.png" alt="q" style="zoom: 80%;" />
 
@@ -376,7 +376,7 @@ Se una retta è meno pendente vuol dire che a parità di spostamento orizzontale
 
 <img src="img/Pendenza-rapporto-2.png" alt="q" style="zoom: 80%;" />
 
-Presi due punti, poichè $x_2 - x_1$ è sempre positivo, se $y_2 - y_1$ è positivo, la retta è inclinata verso l'alto ed $m$ è positivo. Se invece $y_2 + y_1$ è negativo, la retta è inclinata verso il basso ed $m$ è negativo. Se è pari a zero la retta è orizzontale e conseguentemente $m$ è pari a zero.
+Presi due punti, poichè $x_2 - x_1$ è sempre positivo, se $y_2 - y_1$ è positivo, la retta è inclinata verso l'alto ed $m$ è positivo. Se invece $y_2 + y_1$ è negativo, la retta è inclinata verso il basso ed $m$ è negativo. Se è pari a zero la retta è orizzontale e conseguentemente $m$ è pari a zero.
 
 
 
@@ -402,7 +402,7 @@ L'altezza dei punti di intersezione corrisponde a $(0,q)$ dove $q$ è parametro 
 
 #### Rette perpendicolari
 
-Due rette sono perpendicolari se sono incidenti e "dividono il piano in quattro parti uguali" ossia formano 4 angoli di 90 gradi. In questo caso il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$, per cui possiamo dire che due rette sono perpendicolari se e solo se i coefficienti angolari delle equazioni associate sono uno l'opposto del reciproco (o **antireciproco**) dell'altro. 
+Due rette sono perpendicolari se sono incidenti e "dividono il piano in quattro parti uguali" ossia formano 4 angoli di 90 gradi. In questo caso il coefficiente angolare dell'una è l'opposto del reciproco di quello dell'altra: se il coefficiente angolare della prima è $m_1$ e quello della seconda è $m_2$, la condizione è: $m_1 = -\dfrac{1}{m_2}$, per cui possiamo dire che due rette sono perpendicolari se e solo se i coefficienti angolari delle equazioni associate sono uno l'opposto del reciproco (o **antireciproco**) dell'altro. 
 
 
 

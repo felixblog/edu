@@ -3,32 +3,70 @@
 
 ## UNITA' 1: I radicali
 
-Diverse lezioni fa abbiamo visto il significato ed il calcolo delle potenze. Abbiamo visto come calcolare il ***valore*** della potenza $a^n$ se conosciamo $a$, la ***base*** della potenza (numero intero) e $n$, l'***esponente*** (numero intero), ad esempio
+Diverse lezioni fa abbiamo visto il significato ed il calcolo delle potenze. Abbiamo visto come calcolare il ***valore***, o risultato, della potenza $x^n$ se conosciamo $x$, la ***base*** della potenza ed $n$, l'***esponente*** (numero intero), ad esempio
 
 a) $3^2 \longrightarrow 9$;      $3^{-2} \longrightarrow \dfrac{1}{3^2} \longrightarrow \dfrac{1}{9}$;
 
 b) $(-3)^2 \longrightarrow 9$;      $(-3)^{-2} \longrightarrow \dfrac{1}{(-3)^2} \longrightarrow \dfrac{1}{9}$.
 
-Adesso ci occupiamo del problema inverso, trovare la ***base*** di una potenza, conoscendo il suo ***valore*** e l'***esponente***. In pratica trovare il numero che sostituito alla $x$ ci da il valore della potenza, cioè risolvere l'equazione $x^2 = 9$, oppure $x^3 = 8$.
+Adesso ci occupiamo del problema inverso, ossia trovare la ***base*** $x$ di una potenza, conoscendo l'**esponente** $n$ ed il suo ***valore***; se chiamiamo $y$ il risultato della potenza, il problema è quello di trovare un numero $x$ per cui $y = x^n$. 
 
-Facendo qualche tentativo si vede che nel primo caso $x = 3$, perché $3^2 \longrightarrow 9$ e nel secondo $x = 2$ perché $2^3 \longrightarrow 8$; facendo più attenzione notiamo nel primo caso che anche $x = -3$ risolve il problema perché anche $(-3)^2 \longrightarrow 9$.
+Per fare qualche esempio, cercheremo di trovare il numero che sostituito alla $x$ rende vera l'equazione l'equazione $x^2 = 9$, oppure $x^3 = 8$.
 
-Questi numeri si chiamano **radici** rispettivamente di $9$ e di $8$ e precisamente $3$ è **radice quadrata** di $9$ e $2$ è **radice cubica** di $8$ e si indicano con i simboli $\sqrt[2]{9} = 3$ e $\sqrt[3]{8} = 2$.
+Facendo qualche tentativo si vede che nel primo caso $x = 3$, perché $3^2 \longrightarrow 9$ e nel secondo $x = 2$ perché $2^3 \longrightarrow 8$. Facendo più attenzione notiamo che nel primo caso anche $x = -3$ risolve il problema perché anche $(-3)^2 \longrightarrow 9$.
 
-In generale la radice n-esima di un numero $b$ si scrive o utilizzando l'espressione $\sqrt[n]{b}$ , detta **radicale**, con $n$ detto *indice* del radicale, oppure con l'espressione $b^\frac{1}{n}$, che è una potenza con esponente frazionario reciproco dell'indice del radicale. 
+I numeri $2$ e $3$ si chiamano **radici** rispettivamente di $9$ e di $8$. Precisamente $3$ è **radice quadrata** di $9$ e $2$ è **radice cubica** di $8$; le radici si indicano con i simboli $\sqrt[2]{9} = 3$ e $\sqrt[3]{8} = 2$. 
 
-Abbiamo poi che si può scrivere $8^{\frac{2}{3}} = \sqrt[3]{8^2} \longrightarrow \sqrt[3]{64} \longrightarrow 4$. Cioè in generale:
+In generale la radice n-esima di un numero $y$ si scrive o utilizzando l'espressione $\sqrt[n]{y}$ , detta **radicale**, con $n$ detto *indice* del radicale, oppure con l'espressione $y^\frac{1}{n}$, che è una potenza con esponente frazionario reciproco dell'indice del radicale. 
+
+Abbiamo poi che si può scrivere $8^{\frac{2}{3}} = \sqrt[3]{8^2} \longrightarrow \sqrt[3]{64} \longrightarrow 4$. Cioè in generale, per numero qualsiasi $y$:
 $$
-x^{\frac{m}{n}} = \sqrt[n]{x^m}
+y^{\frac{m}{n}} = \sqrt[n]{y^m}
 $$
 
-$\sqrt[n]{b}$, la radice n-esima di $b$, è il numero positivo $a$ tale che $a^n= b$ o almeno $a^n \approx b$. 
+$\sqrt[n]{y}$, la radice n-esima di $y$, è il numero **positivo** $x$ tale che $x^n= y$ o almeno $x^n \approx y$. 
 
-Tranne che in casi particolari le radici si trovano con la calcolatrice o con GEOGEBRA, trasformando il radicale in potenza.
+Diciamo "positivo" perché se $n$ è un numero pari, ossia del tipo $n= 2, 4, 6, ..., 2k$ per qualche numero $k$, anche $(-\sqrt[2]{4})^2 = 4$,  $(-\sqrt[4]{81})^4 = 81$, $(-\sqrt[6]{2})^6 = 64$ e così via mentre se $n$ è dispari la soluzione di $x^n= y$ è unica.
 
-E' importante dire che se l'indice del radicale è pari ed il numero sotto la radice è negativo non esiste nessun numero corrispondente al radicale. Ad esempio $\sqrt[2]{-4}$ non corrisponde ad alcun numero perché se esistesse $a$ tale che $\sqrt[2]{-4}=a$ allora $a^2 = -4$ e questo numero non esiste.
+Tranne che in casi particolari, le radici si trovano con la calcolatrice o con GEOGEBRA, trasformando il radicale in potenza.
 
- 
+E' importante dire che se l'indice del radicale è pari ed il numero sotto la radice è negativo il radicale non esiste. Ad esempio $\sqrt[2]{-4}$ non corrisponde ad alcun numero perché se esistesse $x$ tale che $x = \sqrt[2]{-4}$ allora $x^2 = -4$ e questo numero non esiste.
+
+
+
+#### Semplificazione di radicali
+
+Poiché i radicali sono potenze, in alcuni casi è possibile effettuare delle semplificazioni del radicale applicando le regole delle potenze. Vediamo qualche esempio.
+
+a) $\sqrt[2]16$;
+
+b) $16^\frac{1}{2}$;
+
+c) $(2^4)^\frac{1}{2}$; per le regole delle potenze abbiamo
+
+d) $(2^4)^\frac{1}{2}$;
+
+e) $2^{4\cdot\frac{1}{2}}$;
+
+f) $2^2$;
+
+g) $4$.
+
+Un altro esempio è:
+
+a) $\sqrt{108}$;
+
+b) $(2^2\cdot 3^3)^\frac{1}{2}$; ottenuto scomponendo in fattori. Applicando le regole delle potenze abbiamo:
+
+c) $2^\frac{2}{2} \cdot 3^\frac{3}{2}$;
+
+d) $2 \cdot 3^{1 + \frac{1}{2}}$;
+
+e) $2 \cdot 3 \cdot 3^\frac{1}{2}$;
+
+f) $6\sqrt3$.
+
+
 
 ### ESERCIZIO 1.1 - Calcolo di radicali
 
