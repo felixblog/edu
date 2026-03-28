@@ -1,6 +1,6 @@
 # Logica
 
-La logica è lo studio delle <u>argomentazioni</u>. Con questo termine ci si riferisce a quelle forme di discorso in cui una o più <u>proposizioni</u> date per certe, dette premesse, vengono affermate a sostegno di un’altra proposizione, detta conclusione. Per esempio, quelle che seguono sono due semplici argomentazioni, ciascuna costituita da due premesse seguite da una conclusione:
+La logica è lo studio delle <u>argomentazioni</u>. Con questo termine ci si riferisce a quelle forme di discorso in cui una o più <u>proposizioni</u> date per certe, dette <u>premesse</u>, vengono affermate a sostegno di un’altra proposizione, detta <u>conclusione</u>. Per esempio, quelle che seguono sono due semplici argomentazioni, ciascuna costituita da due premesse seguite da una conclusione:
 
 a) Se piove non esco di casa; piove, quindi non esco di casa
 
@@ -9,7 +9,7 @@ Quindi Luca non è in grado di prevedere il futuro.
 
 Scopo della logica individuare i criteri per capire se un ragionamento o argomentazione è corretta o meno, ossia se la conclusione si deduce dalle premesse, e quali caratteristiche deve avere un ragionamento per essere corretto.
 
-Poiché le argomentazioni sono fatte da frasi o proposizioni, cominciamo ad esaminare come possono essere fatte le proposizioni.
+Vi sono diversi tipi di argomentazioni; considereremo inizialmente le argomentazioni deduttive rappresentabili con la logica proposizionale e poiché le argomentazioni sono fatte da frasi o proposizioni, cominciamo ad esaminare come possono essere fatte le proposizioni di questo tipo di argomentazioni.
 
  
 
@@ -486,13 +486,13 @@ d) Scrivi le tabelle di verità delle proposizioni simboliche del punto c).
 
 
 
-## UNITA' 4: Ragionamenti e loro correttezza
+## UNITA' 4: Ragionamenti logici e loro correttezza
 
-Un **ragionamento**, o deduzione, è una sequenza di proposizioni: tutte, tranne l'ultima, si chiamano **premesse**, mentre l'ultima è la **conclusione**. Facciamo un esempio.
+Un **ragionamento logico**, o deduzione, è una sequenza di proposizioni: tutte, tranne l'ultima, si chiamano **premesse**, mentre l'ultima è la **conclusione**. Facciamo un esempio.
 
 #### ESEMPIO 1
 
-In questo ragionamento abbiamo due premesse e la conclusione.
+In questo ragionamento, scritto in forma schematica, abbiamo due premesse e la conclusione.
 $$
 \begin{array}{c|l} 
 R_1 & \\ 
@@ -635,3 +635,147 @@ b) Completa i seguenti ragionamenti trovando la conclusione.
    $p_5$: Il colpevole non entrò dalla finestra.
 
    Quale è la conclusione, ossia, chi è il colpevole (quali caratteristiche ha)?
+
+
+
+## Le Argomentazioni
+
+I ragionamenti logici, ossia le deduzioni, non sono l'unica forma di ragionamento che utilizziamo nella vita quotidiana. Da ora in poi ci occuperemo delle argomentazioni più vicine a quelle che si utilizzano tutti i giorni, dove può accadere che:
+
+1. le premesse sono vere solo in una certa misura;
+2. anche se le premesse sono vere la conclusione è vera solo in una certa misura;
+3. le premesse non sono sempre pertinenti rispetto alla conclusione. 
+
+Queste argomentazioni sono più difficili da trattare rispetto i ragionamenti logici, ma sono anche i più utili, considerato che chiunque abbia interesse a convincere qualcun altro, propone argomentazioni subdole, falsamente convincenti, per indurre a credere qualcosa che porti ad un proprio vantaggio.
+
+
+
+#### Premesse vere solo in parte
+
+Iniziamo col dire che un ragionamento, per quanto possa filare, non stabilirà la verità della conclusione se qualcuna delle premesse è falsa. Vediamo un esempio. Abbiamo raccolto dei funghi e non siamo sicuri se un fungo in particolare è buono o velenoso. Un amico cerca di tranquillizzarci argomentando come segue:
+
+$p_1$: I funghi velenosi hanno il cappello rosso.
+
+$p_2$: Il fungo che hai trovato ha il cappello bianco.
+
+$c$: Il tuo fungo è buono da mangiare.
+
+Il ragionamento non fa una piega: accettando le premesse è inevitabile accettare la conclusione, ma il problema è che la prima  premessa è falsa perché ci sono funghi completamente bianchi che risultano mortali, come l'*Amanita Virosa* e quindi non siamo tenuti ad accettarla. Questo ci lascia nell'incertezza sul fungo: non è escluso che il fungo sia buono da mangiare, ma è altrettanto possibile che non lo sia (potrebbe essere un’amanita virosa), per cui l’argomentazione non 
+dimostra nulla.
+
+Non si può accettare la verità della conclusione anche nei casi in cui la verità di tutte le premesse non sia nota (non solo quando sono false!). Anche nel caso seguente la conclusione non è detto che sia vera:
+
+$p_1$: Nel bosco dove sei stato non crescono funghi velenosi..
+
+$p_2$: Il fungo lo hai preso nel bosco dove sei stato.
+
+$c$: Il tuo fungo è buono da mangiare.
+
+Come fa l'amico ad essere sicuro della premessa $p_1$? Nessuno potrebbe esserlo.  In generale, se la verità di una 
+o più premesse è ignota, l’argomentazione fallisce nel suo intento di stabilire la verità della conclusione <u>per quanto ci è dato conoscere</u>.
+
+
+
+#### Conclusioni vere solo in una certa misura;
+
+Consideriamo i due ragionamenti seguenti:
+
+$R_1$: Anita è laureata in medicina. Poiché per laurearsi in medicina è necessario superare l'esame di anatomia, Anita ha sicuramente superato l'esame di anatomia.
+
+$R_2$: Il ladro ha preso soprattutto contanti e gioielli, ma siccome Il vicino di casa è ricco di famiglia, il ladro deve essere qualcun altro.
+
+Nel primo esempio, le due premesse ("Anita è laureata in medicina" e "Per laurearsi in medicina è necessario superare l'esame di anatomia") sostengono la conclusione a tutti gli effetti: 
+posto che entrambe corrispondano al vero, non si può dubitare che Anita non abbia superato l'esame di anatomia: questo è quello che afferma la conclusione e $R_1$ è un chiaro esempio di ragionamento logico. 
+
+Nel caso di $R_2$, pur ammettendo la verità delle premesse ("Il ladro ha preso soprattutto contanti e gioielli" e "Il vicino di casa è ricco di famiglia"), non possiamo dedurre <u>necessariamente</u> la verità della conclusione poiché il vicino di casa potrebbe comunque aver commesso il delitto per accrescere ulteriormente la propria ricchezza. 
+
+Si dice che il sostegno fornito dalle premesse alla conclusione è <u>più debole</u> che nel primo caso, nonostante l'organizzazione delle frasi mostra chiaramente l'intento di sostenere la verità della conclusione ("il ladro deve essere qualcun altro") attraverso le prime due proposizioni che fungono da premesse.
+
+In conclusione possiamo dire che sia $R_1$ che $R_2$ sono esempi di argomentazioni e quello che le differenzia è, supponendo che in entrambe le premesse siano vere, il grado di certezza (o probabilità) con il quale è vera la conclusione.
+
+Le argomentazioni possono essere infatti classificate in due categorie: deduttive ed induttive. Una argomentazione, come $R_1$,  è <u>deduttiva</u>, ossia è una deduzione o ragionamento logico, quando la verità della conclusione segue necessariamente dalla verità delle premesse, mentre è <u>induttiva</u>, come $R_2$, se c'è solo una certa **probabilità** (alta o bassa a seconda dei casi, ma non la certezza) che la conclusione sia vera quando lo sono le premesse.
+
+#### ESEMPIO 1
+
+Le seguenti sono esempi di argomentazioni induttive e deduttive:
+
+$R_1$: Tutti i gatti di Luisa sono neri. Quindi Mao, che è un gatto di Luisa, è nero. 
+
+$R_2$: Quasi tutti i gatti di Luisa sono neri. Quindi Mao, che è un gatto di Luisa, è nero. 
+
+$R_3$: Uno dei gatti di Luisa è nero. Quindi Mao, che è un gatto di Luisa, è nero. 
+
+$R_4$: Nessun gatto di Luisa è nero. Quindi Mao, che è un gatto di Luisa, è nero. 
+
+L'unica argomentazione deduttiva è la prima perché solo in questo caso possiamo affermare con certezza la verità della conclusione. $R_2$, $R_3$ ed $R_4$ sono induttive. Notiamo che la probabilità di verità della conclusione è sempre più bassa passando dall'argomentazione $R_1$, dove la probabilità della conclusione è uno ad $R_4$ dove è proprio pari a zero (evento impossibile).
+
+Osserviamo che nell'ultimo caso è particolare perché è possibile stabilire con certezza la falsità della conclusione e quindi la verità della sua negazione: Mao non è nero.
+
+La probabilità che la conclusione sia vera se le premesse sono vere è detta <u>probabilità induttiva</u>. 
+
+
+
+#### ESEMPIO 2
+
+Consideriamo gli esempi seguenti:
+
+$R_1$: $p_1$: Io non ho comprato da mangiare.
+
+​	$p_2$: Tu non hai comprato da mangiare.
+
+​	$c$: Questa sera non ci sarà niente per cena.
+
+$R_2$: $p_1$: Se non si arresta la corsa agli armamenti ci sarà una guerra nucleare.
+
+​	$p_2$: La corsa agli armamenti non si arresterà.
+
+​	$c$: Ci sarà una guerra nucleare.
+
+$R_3$:  $p_1$: Ettore ha viaggiato da Roma ad Amsterdam in meno di 2 ore.
+
+​	$c$: Ettore ha preso l'aereo.
+
+Queste argomentazioni sono deduttive o induttive?
+
+$R_1$ è una argomentazione chiaramente induttiva, perché è concepibile che qualcun
+altro abbia fatto la spesa o che a casa ci sia già del cibo. Diventa deduttiva se, ad esempio, aggiungiamo la premessa:
+
+$p_3$: Questa sera non ci sarà niente per cena a meno che uno di noi due abbia comprato qualcosa da mangiare.
+
+Questa aggiunta è legittima, in quanto è chiaro che chi sta parlando sta implicitamente assumendo la premessa in questione.
+
+
+
+$R_2$ è deduttiva: non è detto che le premesse siano vere, ma se lo fossero, allora
+sarebbe sicuramente vera anche la conclusione.
+
+
+
+Relativamente ad $R_3$, sebbene sia impossibile, in pratica, spostarsi da una città all’altra in breve tempo senza prendere l’aereo, rimane comunque concepibile: potrebbe esserci un collegamento ferroviario superveloce, o la tecnologia potrebbe raggiungere i 
+livelli fantascientifici dipinti in certi film, dove ci si trasferisce da una località ad un’altra per teletrasporto. Possiamo quindi dire che è possibile 
+(benché poco probabile) che la conclusione sia falsa anche nell’ipotesi in cui la premessa sia vera. Questo significa che l’argomentazione non è deduttiva bensì induttiva.
+
+Come nel primo caso, l’argomentazione può essere resa deduttiva aggiungendo una seconda premessa:
+
+$p_2$: L’unico modo per trasferirsi da Roma ad Amsterdam in meno di due ore è prendere l’aero.
+
+A questo punto non solo è praticamente impossibile che la conclusione sia falsa quando le premesse sono vere, ma diventa impossibile anche in linea di principio.    $\bullet$
+
+
+
+
+
+
+
+
+
+
+
+#### Pertinenza delle premesse
+
+
+
+
+
+
+

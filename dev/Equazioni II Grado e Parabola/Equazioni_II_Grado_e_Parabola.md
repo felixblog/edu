@@ -3,7 +3,7 @@
 
 ## UNITA' 1: I radicali
 
-Diverse lezioni fa abbiamo visto il significato ed il calcolo delle potenze. Abbiamo visto come calcolare il ***valore***, o risultato, della potenza $x^n$ se conosciamo $x$, la ***base*** della potenza ed $n$, l'***esponente*** (numero intero), ad esempio
+Diverse lezioni fa abbiamo visto il significato ed il calcolo delle potenze. Abbiamo visto come calcolare il ***valore***, o risultato, della potenza $x^n$ se conosciamo $x$, la ***base*** della potenza ed $n$, l'***esponente*** (numero intero), ad esempio
 
 a) $3^2 \longrightarrow 9$;      $3^{-2} \longrightarrow \dfrac{1}{3^2} \longrightarrow \dfrac{1}{9}$;
 
@@ -26,7 +26,7 @@ $$
 
 $\sqrt[n]{y}$, la radice n-esima di $y$, è il numero **positivo** $x$ tale che $x^n= y$ o almeno $x^n \approx y$. 
 
-Diciamo "positivo" perché se $n$ è un numero pari, ossia del tipo $n= 2, 4, 6, ..., 2k$ per qualche numero $k$, anche $(-\sqrt[2]{4})^2 = 4$,  $(-\sqrt[4]{81})^4 = 81$, $(-\sqrt[6]{2})^6 = 64$ e così via mentre se $n$ è dispari la soluzione di $x^n= y$ è unica.
+Diciamo "positivo" perché se $n$ è un numero pari, ossia del tipo $n= 2, 4, 6, ..., 2k$ per qualche numero $k$, anche $(-\sqrt[2]{4})^2 = 4$,  $(-\sqrt[4]{81})^4 = 81$, $(-\sqrt[6]{2})^6 = 64$ e così via mentre se $n$ è dispari la soluzione di $x^n= y$ è unica.
 
 Tranne che in casi particolari, le radici si trovano con la calcolatrice o con GEOGEBRA, trasformando il radicale in potenza.
 
@@ -36,27 +36,25 @@ E' importante dire che se l'indice del radicale è pari ed il numero sotto la ra
 
 #### Semplificazione di radicali
 
-Poiché i radicali sono potenze, in alcuni casi è possibile effettuare delle semplificazioni del radicale applicando le regole delle potenze. Vediamo qualche esempio.
+Poiché i radicali sono potenze, in alcuni casi è possibile effettuare delle semplificazioni del radicale scomponendo in fattori la base della radice e poi applicando le regole delle potenze. Vediamo qualche esempio.
 
 a) $\sqrt[2]16$;
 
-b) $16^\frac{1}{2}$;
+b) $16^\frac{1}{2}$;  scomponendo in fattori la base abbiamo:
 
-c) $(2^4)^\frac{1}{2}$; per le regole delle potenze abbiamo
+c) $(2^4)^\frac{1}{2}$; per le regole delle potenze abbiamo:
 
-d) $(2^4)^\frac{1}{2}$;
+d) $2^{4\cdot\frac{1}{2}}$;
 
-e) $2^{4\cdot\frac{1}{2}}$;
+e) $2^2$;
 
-f) $2^2$;
-
-g) $4$.
+f) $4$.
 
 Un altro esempio è:
 
-a) $\sqrt{108}$;
+a) $\sqrt{108}$; Scomponendo in fattori la base abbiamo:. 
 
-b) $(2^2\cdot 3^3)^\frac{1}{2}$; ottenuto scomponendo in fattori. Applicando le regole delle potenze abbiamo:
+b) $(2^2\cdot 3^3)^\frac{1}{2}$; Applicando le regole delle potenze abbiamo:
 
 c) $2^\frac{2}{2} \cdot 3^\frac{3}{2}$;
 
