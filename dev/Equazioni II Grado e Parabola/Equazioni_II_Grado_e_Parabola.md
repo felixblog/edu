@@ -257,7 +257,7 @@ a) Trova, se esistono, le radici dei polinomi seguenti.
 
 ## UNITA' 3: La parabola
 
-In questa unità vogliamo studiare le proprietà di una figura geometrica che è definita, nel piano cartesiano, dalle soluzioni di un particolare tipo di equazione con due incognite. Come per le rette, i cui punti hanno le coordinate che sono soluzioni di una equazione di I grado della forma, ad esempio $x + y = 5$, le parabole sono figure i cui punti hanno le coordinate che sono soluzioni di equazioni quali $y = 2x^2 + 1$, $y=x^2 -5x +6$ oppure $y = -x^2-3$, cioè della forma generale:
+In questa unità vogliamo studiare le proprietà di una figura geometrica che, nel piano cartesiano, è definita dalle soluzioni di un particolare tipo di equazione con due incognite. Come per le rette, i cui punti hanno le coordinate che sono soluzioni di una equazione di I grado della forma, ad esempio $x + y = 5$, le parabole sono figure i cui punti hanno le coordinate che sono soluzioni di equazioni quali $y = 2x^2 + 1$, $y=x^2 -5x +6$ oppure $y = -x^2-3$, cioè della forma generale:
 $$
 y = ax^2 + bx + c
 $$
@@ -386,15 +386,17 @@ Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA ripo
 
 Come per l'equazione della retta, anche per la parabola si definisce ***intervallo di positività*** un intervallo sull'asse delle $x$ per ogni numero del quale il valore della $y$, ossia il valore del polinomio associato, è positivo.
 
+Come nel caso della retta, l'intervallo (o gli intervalli) di positività si individua disegnando il grafico della parabola, individuando con precisione le coordinate dei punti di intersezione del grafico con l'asse orizzontale e deducendo la posizione dell'intervallo dalla positività del grafico. 
+
 ####  ESEMPIO 1
 
 Consideriamo la parabola $y = \dfrac{1}{4}x^2-9$ con il grafico riportato nella figura di sotto.
 
 <img src="img\Parabola-1.png" alt="Parabola" style="zoom:20%;" />
 
-Guardando il grafico si vede che gli intervalli di positività sono due: $[6,+\infty]$ e $[-\infty,-6]$; gli estremi $6$ e $-6$ sono radici del polinomio associato per cui la $y$ è uguale a zero.
+Guardando il grafico si vede che questo è nel semipiano positivo o quando $x$ è maggiore di $6$ oppure quando è minore di $-6$. In altri termini gli intervalli di positività sono $[6,+\infty]$ e $[-\infty,-6]$; gli estremi $6$ e $-6$ sono radici del polinomio associato per cui la $y$ è uguale a zero.
 
- 
+
 
 ### ESERCIZIO 4.1 - Equazioni di II Grado e Parabole Associate
 

@@ -638,19 +638,21 @@ b) Completa i seguenti ragionamenti trovando la conclusione.
 
 
 
-## Le Argomentazioni
 
-I ragionamenti logici, ossia le deduzioni, non sono l'unica forma di ragionamento che utilizziamo nella vita quotidiana. Da ora in poi ci occuperemo delle argomentazioni più vicine a quelle che si utilizzano tutti i giorni, dove può accadere che:
+## La verità delle conclusioni
 
-1. le premesse sono vere solo in una certa misura;
-2. anche se le premesse sono vere la conclusione è vera solo in una certa misura;
-3. le premesse non sono sempre pertinenti rispetto alla conclusione. 
+Fino ad ora abbiamo studiato il problema della correttezza di un ragionamento, (un ragionamento è corretto se, <u>supponendo le premesse vere</u>, si deduce necessariamente la verità della conclusione) ed abbiamo anche individuato il metodo delle tabelle di verità per risolvere il problema della correttezza. 
 
-Queste argomentazioni sono più difficili da trattare rispetto i ragionamenti logici, ma sono anche i più utili, considerato che chiunque abbia interesse a convincere qualcun altro, propone argomentazioni subdole, falsamente convincenti, per indurre a credere qualcosa che porti ad un proprio vantaggio.
+Nella vita di tutti i giorni però il problema principale è più ampio ed è quello di riuscire a stabilire, o giustificare, la **verità delle conclusioni** delle argomentazioni, non solo la loro correttezza. Per avere la verità delle conclusioni occorrono due condizioni:
+
+1. che le premesse siano effettivamente vere;
+2. che dalla loro verità consegua la verità delle conclusioni (correttezza).
+
+E' la verità della conclusione, il focus dell'argomentazione, quello per cui ci si batte ed è particolarmente importante avere dei metodi o degli accorgimenti per scoprire quali argomentazioni siano subdole o falsamente convincenti onde evitare di credere alla verità di affermazioni che chiunque abbia interesse a convincere qualcun altro, propone per ottenere un proprio vantaggio.
 
 
 
-#### Premesse vere solo in parte
+#### Premesse solo in parte vere
 
 Iniziamo col dire che un ragionamento, per quanto possa filare, non stabilirà la verità della conclusione se qualcuna delle premesse è falsa. Vediamo un esempio. Abbiamo raccolto dei funghi e non siamo sicuri se un fungo in particolare è buono o velenoso. Un amico cerca di tranquillizzarci argomentando come segue:
 
@@ -663,7 +665,7 @@ $c$: Il tuo fungo è buono da mangiare.
 Il ragionamento non fa una piega: accettando le premesse è inevitabile accettare la conclusione, ma il problema è che la prima  premessa è falsa perché ci sono funghi completamente bianchi che risultano mortali, come l'*Amanita Virosa* e quindi non siamo tenuti ad accettarla. Questo ci lascia nell'incertezza sul fungo: non è escluso che il fungo sia buono da mangiare, ma è altrettanto possibile che non lo sia (potrebbe essere un’amanita virosa), per cui l’argomentazione non 
 dimostra nulla.
 
-Non si può accettare la verità della conclusione anche nei casi in cui la verità di tutte le premesse non sia nota (non solo quando sono false!). Anche nel caso seguente la conclusione non è detto che sia vera:
+Anche nei casi in cui la verità di tutte le premesse non sia nota (oltre che quando siano false!) non si può accettare la verità della conclusione . Vediamo il caso seguente:
 
 $p_1$: Nel bosco dove sei stato non crescono funghi velenosi..
 
@@ -671,14 +673,14 @@ $p_2$: Il fungo lo hai preso nel bosco dove sei stato.
 
 $c$: Il tuo fungo è buono da mangiare.
 
-Come fa l'amico ad essere sicuro della premessa $p_1$? Nessuno potrebbe esserlo.  In generale, se la verità di una 
+Come fa l'amico ad essere sicuro della premessa $p_1$? Nessuno potrebbe esserlo, per cui se la verità di una 
 o più premesse è ignota, l’argomentazione fallisce nel suo intento di stabilire la verità della conclusione <u>per quanto ci è dato conoscere</u>.
 
 
 
-#### Conclusioni vere solo in una certa misura;
+#### Conclusioni solo in parte vere
 
-Consideriamo i due ragionamenti seguenti:
+Oltre alla verità delle premesse, nella vita quotidiana si incontrano argomentazioni che non conducono alla verità assoluta delle conclusioni. Consideriamo i due ragionamenti seguenti:
 
 $R_1$: Anita è laureata in medicina. Poiché per laurearsi in medicina è necessario superare l'esame di anatomia, Anita ha sicuramente superato l'esame di anatomia.
 
@@ -691,9 +693,9 @@ Nel caso di $R_2$, pur ammettendo la verità delle premesse ("Il ladro ha preso 
 
 Si dice che il sostegno fornito dalle premesse alla conclusione è <u>più debole</u> che nel primo caso, nonostante l'organizzazione delle frasi mostra chiaramente l'intento di sostenere la verità della conclusione ("il ladro deve essere qualcun altro") attraverso le prime due proposizioni che fungono da premesse.
 
-In conclusione possiamo dire che sia $R_1$ che $R_2$ sono esempi di argomentazioni e quello che le differenzia è, supponendo che in entrambe le premesse siano vere, il grado di certezza (o probabilità) con il quale è vera la conclusione.
+Sia $R_1$ che $R_2$ sono esempi di argomentazioni e quello che le differenzia è, supponendo che in entrambe le premesse siano vere, il grado di certezza (o probabilità) con il quale è vera la conclusione, perché nel caso di $R_1$ si ha la certezza, nel caso di $R_2$ no. 
 
-Le argomentazioni possono essere infatti classificate in due categorie: deduttive ed induttive. Una argomentazione, come $R_1$,  è <u>deduttiva</u>, ossia è una deduzione o ragionamento logico, quando la verità della conclusione segue necessariamente dalla verità delle premesse, mentre è <u>induttiva</u>, come $R_2$, se c'è solo una certa **probabilità** (alta o bassa a seconda dei casi, ma non la certezza) che la conclusione sia vera quando lo sono le premesse.
+Le argomentazioni possono essere infatti classificate in due categorie: deduttive ed induttive. Una argomentazione, come $R_1$,  è <u>deduttiva</u>, ossia è una deduzione o ragionamento logico, quando la verità della conclusione segue <u>necessariamente</u> dalla verità delle premesse, mentre è <u>induttiva</u>, come $R_2$, se c'è solo una certa **probabilità** (alta o bassa a seconda dei casi, ma non la certezza) che la conclusione sia vera quando lo sono le premesse.
 
 #### ESEMPIO 1
 
@@ -709,7 +711,7 @@ $R_4$: Nessun gatto di Luisa è nero. Quindi Mao, che è un gatto di Luisa, è n
 
 L'unica argomentazione deduttiva è la prima perché solo in questo caso possiamo affermare con certezza la verità della conclusione. $R_2$, $R_3$ ed $R_4$ sono induttive. Notiamo che la probabilità di verità della conclusione è sempre più bassa passando dall'argomentazione $R_1$, dove la probabilità della conclusione è uno ad $R_4$ dove è proprio pari a zero (evento impossibile).
 
-Osserviamo che nell'ultimo caso è particolare perché è possibile stabilire con certezza la falsità della conclusione e quindi la verità della sua negazione: Mao non è nero.
+Osserviamo che l'ultimo caso è particolare perché è possibile stabilire con certezza la falsità della conclusione e quindi la verità della sua negazione: Mao non è nero.
 
 La probabilità che la conclusione sia vera se le premesse sono vere è detta <u>probabilità induttiva</u>. 
 
@@ -764,14 +766,6 @@ A questo punto non solo è praticamente impossibile che la conclusione sia falsa
 
 
 
-
-
-
-
-
-
-
-#### Pertinenza delle premesse
 
 
 
