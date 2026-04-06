@@ -639,16 +639,16 @@ b) Completa i seguenti ragionamenti trovando la conclusione.
 
 
 
-## La verità delle conclusioni
+## UNITA' 5: Argomentazioni deduttive ed induttive
 
 Fino ad ora abbiamo studiato il problema della correttezza di un ragionamento, (un ragionamento è corretto se, <u>supponendo le premesse vere</u>, si deduce necessariamente la verità della conclusione) ed abbiamo anche individuato il metodo delle tabelle di verità per risolvere il problema della correttezza. 
 
-Nella vita di tutti i giorni però il problema principale è più ampio ed è quello di riuscire a stabilire, o giustificare, la **verità delle conclusioni** delle argomentazioni, non solo la loro correttezza. Per avere la verità delle conclusioni occorrono due condizioni:
+Nella vita di tutti i giorni però il problema principale che ci si pone utilizzando le argomentazioni è quello di riuscire a stabilire, o giustificare, la **verità delle conclusioni**, non solo la correttezza del ragionamento. Per avere la verità delle conclusioni occorrono due condizioni:
 
 1. che le premesse siano effettivamente vere;
 2. che dalla loro verità consegua la verità delle conclusioni (correttezza).
 
-E' la verità della conclusione, il focus dell'argomentazione, quello per cui ci si batte ed è particolarmente importante avere dei metodi o degli accorgimenti per scoprire quali argomentazioni siano subdole o falsamente convincenti onde evitare di credere alla verità di affermazioni che chiunque abbia interesse a convincere qualcun altro, propone per ottenere un proprio vantaggio.
+E' la verità della conclusione ciò per cui ci si batte durante le discussioni, ed è particolarmente importante avere dei metodi o degli accorgimenti per scoprire quali argomentazioni siano subdole o falsamente convincenti, onde evitare di credere alla verità di affermazioni che chiunque abbia interesse a convincere qualcun altro, propone per ottenere un proprio vantaggio.
 
 
 
@@ -665,7 +665,7 @@ $c$: Il tuo fungo è buono da mangiare.
 Il ragionamento non fa una piega: accettando le premesse è inevitabile accettare la conclusione, ma il problema è che la prima  premessa è falsa perché ci sono funghi completamente bianchi che risultano mortali, come l'*Amanita Virosa* e quindi non siamo tenuti ad accettarla. Questo ci lascia nell'incertezza sul fungo: non è escluso che il fungo sia buono da mangiare, ma è altrettanto possibile che non lo sia (potrebbe essere un’amanita virosa), per cui l’argomentazione non 
 dimostra nulla.
 
-Anche nei casi in cui la verità di tutte le premesse non sia nota (oltre che quando siano false!) non si può accettare la verità della conclusione . Vediamo il caso seguente:
+Anche nei casi in cui <u>non sappiamo</u> se le premesse siano tutte vere (oltre che quando sappiamo che qualcuna è falsa!) non si può accettare la verità della conclusione . Vediamo il caso seguente:
 
 $p_1$: Nel bosco dove sei stato non crescono funghi velenosi..
 
@@ -673,33 +673,33 @@ $p_2$: Il fungo lo hai preso nel bosco dove sei stato.
 
 $c$: Il tuo fungo è buono da mangiare.
 
-Come fa l'amico ad essere sicuro della premessa $p_1$? Nessuno potrebbe esserlo, per cui se la verità di una 
+Ma come fa l'amico a sapere che in un bosco non siano cresciuti funghi velenosi? Nessuno può saperlo, per cui se la verità di una 
 o più premesse è ignota, l’argomentazione fallisce nel suo intento di stabilire la verità della conclusione <u>per quanto ci è dato conoscere</u>.
 
 
 
 #### Conclusioni solo in parte vere
 
-Oltre alla verità delle premesse, nella vita quotidiana si incontrano argomentazioni che non conducono alla verità assoluta delle conclusioni. Consideriamo i due ragionamenti seguenti:
+Oltre alla verità delle premesse, nella vita quotidiana si incontrano argomentazioni, la maggior parte delle argomentazioni, che non conducono alla verità assoluta delle conclusioni. Consideriamo i due ragionamenti seguenti:
 
 $R_1$: Anita è laureata in medicina. Poiché per laurearsi in medicina è necessario superare l'esame di anatomia, Anita ha sicuramente superato l'esame di anatomia.
 
 $R_2$: Il ladro ha preso soprattutto contanti e gioielli, ma siccome Il vicino di casa è ricco di famiglia, il ladro deve essere qualcun altro.
 
 Nel primo esempio, le due premesse ("Anita è laureata in medicina" e "Per laurearsi in medicina è necessario superare l'esame di anatomia") sostengono la conclusione a tutti gli effetti: 
-posto che entrambe corrispondano al vero, non si può dubitare che Anita non abbia superato l'esame di anatomia: questo è quello che afferma la conclusione e $R_1$ è un chiaro esempio di ragionamento logico. 
+posto che entrambe corrispondano al vero, <u>non si può dubitare</u> che Anita non abbia superato l'esame di anatomia: questo è quello che afferma la conclusione e $R_1$ è un chiaro esempio di ragionamento logico. 
 
 Nel caso di $R_2$, pur ammettendo la verità delle premesse ("Il ladro ha preso soprattutto contanti e gioielli" e "Il vicino di casa è ricco di famiglia"), non possiamo dedurre <u>necessariamente</u> la verità della conclusione poiché il vicino di casa potrebbe comunque aver commesso il delitto per accrescere ulteriormente la propria ricchezza. 
 
-Si dice che il sostegno fornito dalle premesse alla conclusione è <u>più debole</u> che nel primo caso, nonostante l'organizzazione delle frasi mostra chiaramente l'intento di sostenere la verità della conclusione ("il ladro deve essere qualcun altro") attraverso le prime due proposizioni che fungono da premesse.
+Si dice che il sostegno fornito dalle premesse alla conclusione è <u>più debole</u> in $R_2$ che in $R_1$, nonostante l'organizzazione delle frasi mostra chiaramente l'intento di sostenere la verità della conclusione ("il ladro deve essere qualcun altro") attraverso le prime due proposizioni che fungono da premesse perché è importante, ad esempio nell'ambito di una indagine, sapere che non è il vicino di casa la persona su cui puntare per risolvere il caso.
 
-Sia $R_1$ che $R_2$ sono esempi di argomentazioni e quello che le differenzia è, supponendo che in entrambe le premesse siano vere, il grado di certezza (o probabilità) con il quale è vera la conclusione, perché nel caso di $R_1$ si ha la certezza, nel caso di $R_2$ no. 
+Sia $R_1$ che $R_2$ sono esempi di argomentazioni e quello che le differenzia è, supponendo che in entrambi le premesse siano vere, il grado di certezza (o probabilità) con il quale è vera la conclusione, perché nel caso di $R_1$ si ha la certezza della verità, nel caso di $R_2$ no. 
 
 Le argomentazioni possono essere infatti classificate in due categorie: deduttive ed induttive. Una argomentazione, come $R_1$,  è <u>deduttiva</u>, ossia è una deduzione o ragionamento logico, quando la verità della conclusione segue <u>necessariamente</u> dalla verità delle premesse, mentre è <u>induttiva</u>, come $R_2$, se c'è solo una certa **probabilità** (alta o bassa a seconda dei casi, ma non la certezza) che la conclusione sia vera quando lo sono le premesse.
 
 #### ESEMPIO 1
 
-Le seguenti sono esempi di argomentazioni induttive e deduttive:
+Consideriamo le argomentazioni seguenti:
 
 $R_1$: Tutti i gatti di Luisa sono neri. Quindi Mao, che è un gatto di Luisa, è nero. 
 
@@ -709,17 +709,19 @@ $R_3$: Uno dei gatti di Luisa è nero. Quindi Mao, che è un gatto di Luisa, è 
 
 $R_4$: Nessun gatto di Luisa è nero. Quindi Mao, che è un gatto di Luisa, è nero. 
 
+Quali sono deduttive e quali induttive?
+
 L'unica argomentazione deduttiva è la prima perché solo in questo caso possiamo affermare con certezza la verità della conclusione. $R_2$, $R_3$ ed $R_4$ sono induttive. Notiamo che la probabilità di verità della conclusione è sempre più bassa passando dall'argomentazione $R_1$, dove la probabilità della conclusione è uno ad $R_4$ dove è proprio pari a zero (evento impossibile).
 
-Osserviamo che l'ultimo caso è particolare perché è possibile stabilire con certezza la falsità della conclusione e quindi la verità della sua negazione: Mao non è nero.
+Osserviamo che l'ultimo caso è particolare perché è possibile stabilire con certezza la falsità della conclusione e quindi la verità della sua negazione, cioè "Mao non è nero", a differenza dei casi precedenti dove né le conclusioni né le loro negazioni sono deducibili con certezza.     $\bullet$
+
+
 
 La probabilità che la conclusione sia vera se le premesse sono vere è detta <u>probabilità induttiva</u>. 
 
-
-
 #### ESEMPIO 2
 
-Consideriamo gli esempi seguenti:
+Quali tra le argomentazioni seguenti sono deduttive e quali induttive?
 
 $R_1$: $p_1$: Io non ho comprato da mangiare.
 
@@ -737,7 +739,7 @@ $R_3$:  $p_1$: Ettore ha viaggiato da Roma ad Amsterdam in meno di 2 ore.
 
 ​	$c$: Ettore ha preso l'aereo.
 
-Queste argomentazioni sono deduttive o induttive?
+
 
 $R_1$ è una argomentazione chiaramente induttiva, perché è concepibile che qualcun
 altro abbia fatto la spesa o che a casa ci sia già del cibo. Diventa deduttiva se, ad esempio, aggiungiamo la premessa:
@@ -746,12 +748,8 @@ $p_3$: Questa sera non ci sarà niente per cena a meno che uno di noi due abbia 
 
 Questa aggiunta è legittima, in quanto è chiaro che chi sta parlando sta implicitamente assumendo la premessa in questione.
 
-
-
 $R_2$ è deduttiva: non è detto che le premesse siano vere, ma se lo fossero, allora
 sarebbe sicuramente vera anche la conclusione.
-
-
 
 Relativamente ad $R_3$, sebbene sia impossibile, in pratica, spostarsi da una città all’altra in breve tempo senza prendere l’aereo, rimane comunque concepibile: potrebbe esserci un collegamento ferroviario superveloce, o la tecnologia potrebbe raggiungere i 
 livelli fantascientifici dipinti in certi film, dove ci si trasferisce da una località ad un’altra per teletrasporto. Possiamo quindi dire che è possibile 
@@ -765,11 +763,118 @@ A questo punto non solo è praticamente impossibile che la conclusione sia falsa
 
 
 
+Quando la probabilità di un ragionamento induttivo è alta si dice che il ragionamento, o l'argomentazione, è **forte**; quando è 
+bassa si dice che il ragionamento è **debole**. Questo concetto di "forza" di una argomentazione ci dà la possibilità di paragonare due ragionamenti per vedere quale è il più forte ed il più debole. 
+
+#### ESEMPIO 3
+
+Quale è la più forte tra le argomentazioni seguenti ?
+
+$R_1$: $p_1$: In Vietnam i turisti non visitano quasi mai la provincia di Già Lai.
+
+​	$p_2$:
+Irma è stata in Vietnam come turista.
+
+​	$c$; Irma non ha visitato la provincia di Già Lai.
 
 
 
+$R_2$: $p_1$: In Spagna soltanto metà dei turisti visita le regioni del sud.
+
+​	$p_2$:
+Irma è stata in Spagna come turista.
+
+​	$c$: Irma non ha visitato le regioni del sud.
+
+Poiché "quasi mai" implica un numero di volte minore di "soltanto metà", possiamo concludere che la prima argomentazione è più forte della seconda.    $\bullet$
 
 
+
+### ESERCIZIO 5.1 - Argomentazioni
+
+a) Determinare se il ragionamento delle argomentazioni seguenti è di tipo deduttivo o induttivo e, nel caso sia deduttivo, se la conclusione è vera o falsa e perché.
+
+$R_1$:  $p_1$: I nemici sono stati in possesso di armi nucleari per molti anni.
+
+​	$p_2$: I nemici non hanno mai impiegato armi nucleari in guerra.
+
+​	$c$: I nemici impiegheranno molto presto le loro armi nucleari in guerra.
+
+
+
+$R_2$:  $p_1$: Nelle galassie che non riusciamo a osservare vi è della materia.
+
+​	$p_2$: Tutta la materia osservata fino ad ora, senza eccezioni, è dotata di massa.
+
+​	$c$: La materia in queste galassie non osservate è dotata di massa.
+
+
+
+$R_3$:  $p_1$: Dio ha creato l’universo.
+
+
+​	$p_2$: Dio è infinitamente buono.
+
+​	$p_3$: Tutto ciò che viene creato da un essere infinitamente buono è a sua volta infinitamente buono.
+
+​	$p_4$: Ciò che è infinitamente buono non contiene alcun male.
+
+​	$c$: L’universo non contiene alcun male.
+
+
+
+b) I ragionamenti seguenti hanno dei problemi? Se si, quali?
+
+$R_1$:  $p_1$: Tutti gli arturiani sono bravi baciatori.
+
+​	$p_2$: Alcuni arturiani hanno molte bocche.
+
+​	$c$: Ci sono bravi baciatori con molte bocche.
+
+
+
+$R_2$:  $p_1$: $15$ è un multiplo di $3$.
+
+​	$p_2$: Tutti i multipli di $3$ sono pari.
+
+​	$c$: $15$ è un numero pari.
+
+
+
+$R_3$:  $p_1$: $15$ è un multiplo di $3$.
+
+​	$p_2$: Tutti i multipli di $3$ sono dispari.
+
+​	$c$: $15$ è un numero pari.
+
+
+
+c) Determinare se il ragionamento delle argomentazioni seguenti è di tipo deduttivo o induttivo e, nel caso sia induttivo, se sia forte o debole (cioè se la sua probabilità induttiva sia alta o bassa).
+
+$R_i$:  $p_1$: I numeri non sono entità materiali.
+
+​	$p_2$: I numeri esistono.
+
+​	$c$: Non esistono soltanto entità materiali.
+
+
+
+$R_i$:  $p_1$: Elena ha la febbre alta, macchie rosse sulla lingua, deglutizione dolorosa e
+un forte mal di testa.
+
+​	$p_2$: Giovanni ha questi stessi sintomi.
+
+​	$p_3$: Né Elena né Giovanni hanno altri sintomi.
+
+​	$c$: Elena e Giovanni hanno la stessa malattia.
+
+
+
+$R_i$:  $p_1$: Tutte le scimitarre hanno un’impugnatura.
+
+​	$p_2$: Quest’oggetto ha un’impugnatura.
+
+​	$c$: Quest’oggetto è una scimitarra.
 
 
 
