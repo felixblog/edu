@@ -173,6 +173,10 @@ Il codominio delle funzioni seno e coseno è quindi $[-1; 1]$.
 
 <img src="img/sinusoide.png" alt="sinusoide" style="zoom:30%;" />
 
+La tabella seguente riassume più chiaramente i valori delle funzioni seno e coseno su angoli notevoli.
+
+<img src="img/Valori-Notevoli-sin-cos.png" alt="Valori-Notevoli-sin-cos" style="zoom:67%;" />
+
 
 
 #### I grafici delle funzioni seno e coseno
@@ -264,7 +268,7 @@ Semplifica le seguenti espressioni:
 
 a) $(a \sin \alpha - 2 \cos \alpha)^2 + (a \cos \alpha + 2 \sin \alpha)^2 - 4 + a^2 \sin \dfrac{5}{2}\pi$;		$R: \left[2 a^2\right]$
 
-b) $4 - 4 \sin^2 \alpha + (cos \alpha - \sin \alpha)^2 + 2 \cos \alpha(\sin \alpha + \cos \alpha)$
+b) $4 - 4 \sin^2 \alpha + (cos \alpha - \sin \alpha)^2 + 2 \cos \alpha(\sin \alpha + \cos \alpha)$
 
 
 
