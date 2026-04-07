@@ -2,28 +2,27 @@
 
 ## UNITA' 1: Angoli e loro misura
 
-Gli angoli sono un concetto molto importante in geometria, in matematica in generale, in fisica ed in tante altre discipline. Quella parte della matematica che si occupa della misura degli angoli e delle relative funzioni si chiama Goniometria. Per cominciare vediamo la definizione di Angolo.
+Gli angoli sono un concetto molto importante in matematica, in geometria, in fisica ed in tante altre discipline. Quella parte della matematica che si occupa della misura degli angoli e delle relative funzioni si chiama Goniometria. Per cominciare vediamo la definizione di Angolo.
 
-Un angolo è la parte di piano individuata da due semirette a e b (dette lati) che hanno origine comune V (detto vertice).
+Un angolo è la parte di piano individuata da due semirette a e b (dette lati) che hanno una origine comune V (detta vertice).
 
 <img src="img/angoli.bmp" alt="angoli" style="zoom:50%;" />
 
-Le unità di misura più usate sono il grado (sessagesimale) ed il radiante.
+Le unità di misura più usate per misurare gli angoli sono il grado (sessagesimale) ed il radiante.
 
 
 
 #### La misura in gradi
 
-Nel sistema sessagesimale, l’unità di misura degli angoli è il grado sessagesimale,
+Nel sistema cosiddetto "sessagesimale", l’unità di misura degli angoli è il grado (sessagesimale),
 definito come quell'angolo pari alla 360-esima parte dell’angolo giro.
-Il grado sessagesimale viene indicato con un piccolo cerchio in alto a destra 
-della misura:
+Il grado sessagesimale viene indicato con un piccolo cerchio in alto a destra della misura:
 $$
 1^\circ = \dfrac{1}{360} \cdot \text{Angolo Giro}
 $$
 Il grado viene suddiviso a sua volta in $60$ primi, che 
 vengono indicati con un apice: $1^\circ = 60'$.
-Ogni primo viene suddiviso a sua volta in 60 secondi, indicati con due apici: $1' = 60''$.
+Ogni primo viene suddiviso a sua volta in $60$ secondi, indicati con due apici: $1' = 60''$.
 
 Dalla formula precedente risulta quindi che un angolo giro, in gradi, misura $360$.
 
@@ -52,24 +51,23 @@ In una circonferenza la lunghezza $s$ di un arco e l'angolo $\omega$ sotteso son
 $$
 \dfrac{s}{\omega_{rad}} = \dfrac{2{\pi}r}{2\pi}
 $$
- Semplificando abbiamo che
+ Semplificando abbiamo la formula
 $$
 s = {\omega_{rad}} \cdot r
 $$
+
+che ci dice come calcolare la lunghezza di un arco di circonferenza conoscendo l'angolo sotteso ed il raggio.
 
 
 
 #### Gli angoli orientati
 
-La definizione di angolo come parte di piano, che è stata già data, non è adatta per descrivere tutte le 
-situazioni. Per esempio, nell’avvitare o svitare una vite si descrive un angolo che 
-può essere maggiore di un angolo giro.
-È più utile quindi collegare il concetto di angolo a quello di **rotazione**, cioè al 
-movimento che porta uno dei lati dell’angolo a sovrapporsi all’altro.
-La rotazione è univoca solo quando ne viene specificato il verso, orario o antiorario. Nella figura a lato il senso adottato è quello antiorario.
+La definizione di angolo già data, come parte di piano, non è adatta per descrivere tutte le situazioni in cui gli angoli vengono impiegati. Ad esempio, nell’avvitare o svitare una vite si descrive un angolo che può essere maggiore di un angolo giro.
+È più utile quindi collegare il concetto di angolo a quello di **rotazione**, cioè al movimento che porta uno dei lati dell’angolo a sovrapporsi all’altro.
+La rotazione è univoca solo quando ne viene specificato il verso, orario o antiorario e normalmente il senso adottato è quello antiorario.
 
 Un angolo si dice **orientato** quando si è scelto uno dei due lati come lato di origine e un senso di rotazione. 
-Un angolo orientato sarà **positivo **
+Un angolo orientato sarà **positivo**
 quando è descritto mediante una 
 rotazione in senso antiorario, **negativo** quando la rotazione 
 è in senso orario.
@@ -109,16 +107,16 @@ Ad esempio, gli angoli $\alpha_1 = \dfrac{\pi}{6}$, $\alpha_2 = \dfrac{5}{6}\pi$
 
 ### ESERCIZIO 1.1 - Misure di angoli in gradi
 
-a) Esprimi in gradi e decimali di grado (forma sessadecimale) le seguenti misure di angoli.
+a) Esprimi in gradi e decimali di grado le seguenti misure di angoli.
 
-1. $0^\circ \; 59^{'} \; 59^{''}$
-2. $1^\circ \; 59^{'} \; 30^{''}$
-3. $2^\circ \; 40^{''}$
-4. $60^\circ \; 20^{'}$
-5. $92^\circ \; 20^{'} \; 36^{''}$
+1. $0^\circ \; 59^{'} \; 59^{''}$;     $0^\circ \; 30^{'}$;     $1^\circ \; 59^{'} \; 30^{''}$;		$R: \left[1^\circ;\; 0,5^\circ;\; 1,99^\circ;\right]$
+2. $2^\circ \; 40^{''}$;    $60^\circ \; 20^{'}$;    $92^\circ \; 20^{'} \; 36^{''}$.
 
-b) Esprimi in gradi, primi e secondi le seguenti misure di angoli, espresse in forma sessadecimale (arrotondando 
+b) Esprimi in gradi, primi e secondi le seguenti misure di angoli, espresse in forma decimale (arrotondando 
 eventualmente i secondi).
+
+1. $2,234^\circ$;    $22,52^\circ$;
+2. $90,5^\circ$;    $90,05^\circ$.
 
 
 
@@ -126,20 +124,19 @@ eventualmente i secondi).
 
 a) Trasforma in radianti le misure dei seguenti angoli, espresse in gradi sessagesimali.
 
-1. $15^\circ$, $36^\circ$, $210^\circ$, $300^\circ$; 
-2. $121^\circ \; 3^{''}$, $200^\circ \; 36^{''}$. 
+1. $15^\circ$;    $36^\circ$;    $210^\circ$;    $300^\circ$.		$R: \left[\dfrac{\pi}{12}; \dfrac{\pi}{5}; \dfrac{7}{6}\pi; \dfrac{5}{3}\pi\right]$
+2. $121^\circ$;    $3^{''}$;    $200^\circ$;    $36^{''}$. 
 
 b) Trasforma in gradi sessagesimali le misure dei seguenti angoli, espresse in radianti.
 
-1. $\dfrac{2}{3}$, $\dfrac{2}{3}\pi$, $\dfrac{9}{5}\pi$, $\dfrac{3}{2}\pi$;
-2. $4\pi$, $4$, $\dfrac{5}{2}$, $\dfrac{5}{2}\pi$.
+1. $\dfrac{2}{3}$;    $\dfrac{2}{3}\pi$;    $\dfrac{9}{5}\pi$;    $\dfrac{3}{2}\pi$;
+2. $4\pi$;    $4$;    $\dfrac{5}{2}$;    $\dfrac{5}{2}\pi$.
 
 
 
 #### ESERCIZIO 1.3 - Problemi vari
 
-a)  Calcola la misura, in gradi e in radianti, di un angolo al centro di una circonferenza il cui raggio è uguale a 
-$5$ cm e che sottende un arco lungo $23$ cm.
+a)  Calcola la misura, in gradi e in radianti, di un angolo al centro di una circonferenza il cui raggio è uguale a $5$ cm e che sottende un arco lungo $23$ cm.			$R: \left[263^\circ \; 33^{'} \; 38^{''};\; 4,6\right]$
 
 b) Disegna sul cerchio goniometrico i seguenti angoli, misurati in radianti: $\dfrac{\pi}{4}$,  $\dfrac{3}{4}\pi$,  $\dfrac{11}{4}\pi$, $\dfrac{\pi}{8}$.
 
@@ -160,10 +157,9 @@ Seno e coseno di un angolo $\alpha$ sono funzioni che hanno come dominio $\mathb
 
 #### Variazioni delle funzioni seno e coseno
 
-Supponiamo che un punto B percorra l’intera circonferenza goniometrica, a par-
-tire da E, in verso antiorario. 
-Se a = EOWB, come variano sen a e cos a al variare della posizione di B? Basta 
-osservare che cosa succede all’ascissa di B (ossia il coseno) e alla sua ordinata 
+Supponiamo che un punto $B$ percorra l’intera circonferenza goniometrica, a partire da $E$, in verso antiorario. 
+Se $\alpha = \widehat{EOB}$, come variano $\sin \alpha$ e $\cos \alpha$ al variare della posizione di $B$? Basta 
+osservare che cosa succede all’ascissa di $B$ (ossia il coseno) e alla sua ordinata 
 (ossia il seno).
 
 ![Variazioni-seno-coseno](img/Variazioni-seno-coseno.png)
@@ -196,9 +192,9 @@ Il codominio delle funzioni seno e coseno è quindi $[-1; 1]$.
 Dopo aver percorso un giro completo, il punto $B$ sulla circonferenza goniometrica può ripetere lo stesso movimento altre volte e le funzioni seno e coseno assumono di nuovo gli stessi valori ottenuti al "primo 
 giro":
 
-$\sin \alpha = \sin (\alpha + 2\pi) = \sin (\alpha - 2\pi) = \sin (\alpha + 4\pi) = \sin (\alpha - 4\pi)  \; ...$  
+$\sin \alpha = \sin (\alpha + 2\pi) = \sin (\alpha - 2\pi) = \sin (\alpha + 4\pi) = \sin (\alpha - 4\pi)  \; ...$  
 
-$\cos \alpha = \cos (\alpha + 2\pi) = \cos (\alpha - 2\pi) = \cos (\alpha + 4\pi) = \cos (\alpha - 4\pi)  \; ...$ 
+$\cos \alpha = \cos (\alpha + 2\pi) = \cos (\alpha - 2\pi) = \cos (\alpha + 4\pi) = \cos (\alpha - 4\pi)  \; ...$ 
 
 Le funzioni seno e coseno sono quindi periodiche di periodo $2\pi$. In modo sintetico si può scrivere:
 $$
@@ -223,53 +219,58 @@ Viceversa, se si conosce $\sin \alpha$, si ha: $\cos \alpha = \pm  \sqrt{1 - \si
 
 
 
-#### ESERCIZIO 2.1 - Calcolo delle funzioni seno e coseno
+### ESERCIZIO 2.1 - Calcolo delle funzioni seno e coseno
 
 a) Individua sulla circonferenza goniometrica i seguenti valori.
 
-1. $\cos\left(-\dfrac{\pi}{3}\right)$, $\sin\dfrac{5}{8}\pi$, $\sin(-240^\circ)$, $\cos\dfrac{7}{4}\pi$;
-2. $\sin300^\circ$, $\cos 330^\circ$.
+1. $\cos\left(-\dfrac{\pi}{3}\right)$;    $\sin\dfrac{5}{8}\pi$;    $\sin(-240^\circ)$, $\cos\dfrac{7}{4}\pi$;
+2. $\sin300^\circ$;    $\cos 330^\circ$.
 
 b)  Trova quale condizione deve soddisfare il parametro affinché sia verificata l’uguaglianza.
 
-1. $\cos x = k-2$;
-2. $4a \cos x = a + 1$;
-3. $(k-1)\sin x = k$.
+1. $\cos x = k-2$;		$R: \left[1 \le k \le 3\right]$
+2. $4a \cos x = a + 1$;		$R: \left[a \le -\dfrac{1}{5} \or a \ge \dfrac{1}{3}\right]$
+3. $(k-1)\sin x = k$.		$R: \left[k \le \dfrac{1}{2}\right]$
 
 c) Calcola il valore della funzione indicata, utilizzando le informazioni fornite.
 
-1. Calcolo di $\cos \alpha$ se $\sin \alpha = \dfrac{7}{25}$ e $0 \lt \alpha \lt \dfrac{\pi}{2}$;
+1. Calcolo di $\cos \alpha$ se $\sin \alpha = \dfrac{7}{25}$ e $0 \lt \alpha \lt \dfrac{\pi}{2}$;		$R: \left[\dfrac{24}{25}\right]$
 2. Calcolo di $\sin \alpha$ se $\cos \alpha = -\dfrac{4}{5}$ e $\dfrac{\pi}{2} \lt \alpha \lt \pi$;
 
 
 
-#### ESERCIZIO 2.2 - Calcolo di espressioni goniometriche
+### ESERCIZIO 2.2 - Calcolo di espressioni goniometriche
 
 a) Calcola il valore delle seguenti espressioni.
 
-1. $\dfrac{1}{2} \cos 540^\circ + \dfrac{2}{3} \sin 720^\circ -\dfrac{1}{4} \sin 450^\circ + 6\sin (-270^\circ)  $;
-2. $\cos 4\pi + 2\sin\left(-\dfrac{15}{2}\pi \right) + \dfrac{1}{3}\cos(-3\pi) + \sin\dfrac{9}{2}\pi  $.
+1. $\dfrac{1}{2} \cos 540^\circ + \dfrac{2}{3} \sin 720^\circ -\dfrac{1}{4} \sin 450^\circ + 6\sin (-270^\circ)  $;		$R: \left[\dfrac{21}{4}\right]$
+2. $\cos 4\pi + 2\sin\left(-\dfrac{15}{2}\pi \right) + \dfrac{1}{3}\cos(-3\pi) + \sin\dfrac{9}{2}\pi  $.
 
 b) Se $\alpha= \dfrac{\pi}{2}$ calcola il valore della seguente espressione:
 $$
 \dfrac{a \sin\alpha + b \cos\alpha}{\sin(-4\alpha) - a\cos\left(\alpha + \dfrac{\pi}{2}\right) - b\cos\left(\dfrac{7}{2}\pi + \alpha \right)} 
 $$
 
-#### ESERCIZIO 2.3 - Grafico delle funzioni goniometriche
+### ESERCIZIO 2.3 - Grafico delle funzioni goniometriche
 
-Es. 116
+Disegna il grafico di $y = \sin x$ nell'intervallo $\left[-\dfrac{5}{2}\pi;\; \dfrac{7}{2}\pi\right]$ Trova i punti di intersezione della funzione
+con l’asse $x$ e calcola le ordinate dei punti di ascissa $x = -\dfrac{3}{2}\pi,\; x = -\pi,\; x = 0,\; x = \dfrac{\pi}{2},\; x = \dfrac{7}{2}\pi.$ Determina i valori di $x$ per cui $\sin x = -1$.
 
 
 
-ESERCIZIO 2.4 - Semplificazione di espressioni
+### ESERCIZIO 2.4 - Semplificazione di espressioni
 
-Es. 124 e 125
+Semplifica le seguenti espressioni:
+
+a) $(a \sin \alpha - 2 \cos \alpha)^2 + (a \cos \alpha + 2 \sin \alpha)^2 - 4 + a^2 \sin \dfrac{5}{2}\pi$;		$R: \left[2 a^2\right]$
+
+b) $4 - 4 \sin^2 \alpha + (cos \alpha - \sin \alpha)^2 + 2 \cos \alpha(\sin \alpha + \cos \alpha)$
 
 
 
 ## Unità 3: La funzione Tangente
 
-Consideriamo un angolo orientato $\alpha$ sulla circonferenza goniometrica, come in figura. Chiamiamo come al solito $B$ l’intersezione fra il lato termine e la circonferenza di centro $O$. Si definisce tangente di $\alpha$ la funzione che associa al $\alpha$ il rapporto, quando esiste, fra l’ordinata e l’ascissa del punto $B$.
+Consideriamo un angolo orientato $\alpha$ sulla circonferenza goniometrica, come in figura. Chiamiamo come al solito $B$ l’intersezione fra il lato termine e la circonferenza di centro $O$. Si definisce tangente di $\alpha$ la funzione che associa al $\alpha$ il rapporto, quando esiste, fra l’ordinata e l’ascissa del punto $B$.
 $$
 \tan \alpha = \dfrac{y_B}{x_B}
 $$
