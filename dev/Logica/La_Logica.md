@@ -823,7 +823,7 @@ $R_3$:  $p_1$: Dio ha creato l’universo.
 
 
 
-b) I ragionamenti seguenti hanno dei problemi? Se si, quali?
+b) I ragionamenti seguenti presentano dei problemi? Se si, quali?
 
 $R_1$:  $p_1$: Tutti gli arturiani sono bravi baciatori.
 
@@ -833,23 +833,23 @@ $R_1$:  $p_1$: Tutti gli arturiani sono bravi baciatori.
 
 
 
-$R_2$:  $p_1$: $15$ è un multiplo di $3$.
+$R_2$:  $p_1$: $15$ è un multiplo di $3$.
 
-​	$p_2$: Tutti i multipli di $3$ sono pari.
+​	$p_2$: Tutti i multipli di $3$ sono pari.
 
-​	$c$: $15$ è un numero pari.
-
-
-
-$R_3$:  $p_1$: $15$ è un multiplo di $3$.
-
-​	$p_2$: Tutti i multipli di $3$ sono dispari.
-
-​	$c$: $15$ è un numero pari.
+​	$c$: $15$ è un numero pari.
 
 
 
-c) Determinare se il ragionamento delle argomentazioni seguenti è di tipo deduttivo o induttivo e, nel caso sia induttivo, se sia forte o debole (cioè se la sua probabilità induttiva sia alta o bassa).
+$R_3$:  $p_1$: $15$ è un multiplo di $3$.
+
+​	$p_2$: Tutti i multipli di $3$ sono dispari.
+
+​	$c$: $15$ è un numero pari.
+
+
+
+c) Determinare se i  ragionamenti seguenti sono di tipo deduttivo o induttivo e, nel caso sia induttivo, se sia forte o debole (cioè se la sua probabilità induttiva sia alta o bassa).
 
 $R_i$:  $p_1$: I numeri non sono entità materiali.
 
