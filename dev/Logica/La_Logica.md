@@ -772,17 +772,15 @@ Quale è la più forte tra le argomentazioni seguenti ?
 
 $R_1$: $p_1$: In Vietnam i turisti non visitano quasi mai la provincia di Già Lai.
 
-​	$p_2$:
-Irma è stata in Vietnam come turista.
+​	$p_2$: Irma è stata in Vietnam come turista.
 
-​	$c$; Irma non ha visitato la provincia di Già Lai.
+​	$c$: Irma non ha visitato la provincia di Già Lai.
 
 
 
 $R_2$: $p_1$: In Spagna soltanto metà dei turisti visita le regioni del sud.
 
-​	$p_2$:
-Irma è stata in Spagna come turista.
+​	$p_2$: Irma è stata in Spagna come turista.
 
 ​	$c$: Irma non ha visitato le regioni del sud.
 
