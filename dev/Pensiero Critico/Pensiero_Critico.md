@@ -1,46 +1,91 @@
 # Pensiero Critico
 
-Con "pensiero critico" si intende <u>l'utilizzo del ragionamento e della razionalità</u> nelle discussioni con altri, nei confronti, diretti o attraverso dei social media, nella scrittura di un testo ecc., allo scopo di ottenere:
+## UNITA' 1: Cos'è il Pensiero Critico
 
-- una migliore comprensione di ciò che stiamo leggendo, ascoltando, discutendo o dicendo;
+Ogni giorno siamo bombardati da messaggi che apparentemente ci dicono cosa fare o non fare, in cosa credere o non credere del tipo:
+"compra questo cellulare", "aggiorna questo sistema operativo", "vai a votare!", "prova questa birra", "non mandare messaggi mentre guidi", "bevi [alcol] con moderazione", "l'eutanasia è un omicidio", "l'aborto è un omicidio", "gli alieni hanno visitato la Terra", "il cambiamento climatico minaccia il nostro stile di vita", "vai a vedere questo film che ha vinto 5 oscar" e così via.
+
+Alcuni messaggi li ignoriamo, altri li accettiamo senza riflettere e altri ancora li rifiutiamo senza riflettere. Su altri potremmo riflettere e interrogarci, chiedendoci: "Perché dovrei farlo?, o perché non farlo?" oppure "Perché dovrei crederci, o non crederci?".
+
+Quando ci poniamo la domanda "Perché?", ci stiamo chiedendo una <u>ragione</u> per fare ciò che ci viene suggerito o imposto di fare, o per credere a ciò che ci viene imposto di credere. Perché dovrei andare a votare o comprare questo particolare telefono cellulare? Perché dovrei credere che l'aborto sia un omicidio, o che il cambiamento climatico minacci il nostro stile di vita?
+Quando chiediamo una ragione in questo modo, chiediamo una giustificazione per intraprendere l'azione raccomandata o accettare la convinzione; non solo una ragione, ma una buona ragione, una che dovrebbe motivarci ad agire o credere come ci viene raccomandato.
+
+Spesso su questi temi ci vengono presentate solo slogan o immagini pubblicitarie – ad esempio, immagini attraenti di persone giovani, belle, ricche e contente che si tuffano da una scogliera dopo aver usato il profumo di una nota marca. In casi come questo, mentre è chiaro il tentativo di persuadere ad acquistare il profumo, è altrettanto evidente che non vengono date ragioni valide per farlo: solo la suggestione che il profumo potrà darci la sensazione di essere come quelli che vediamo nello spot.
+
+Tentare di persuadere fornendo buone ragioni significa presentare un <u>argomentazione</u>. Le argomentazioni sono ovunque: nelle trasmissioni televisive e radiofoniche (soprattutto nei programmi di attualità), su Twitter, nei forum e blog online: ovunque si troveranno persone che sostengono le proprie tesi con e senza argomentazioni.
+
+Se sviluppiamo la nostra capacità di analizzare i tentativi di persuasione altrui in modo da poter interpretare accuratamente ciò che dicono o scrivono e valutare se, ad esempio, stanno fornendo una buona argomentazione – se stanno offrendo una buona ragione per ridurre il consumo di plastica monouso – allora potremo iniziare a liberarci dall'accettare passivamente ciò di cui gli altri cercano di convincerci senza sapere se c'è una buona ragione per essere persuaso, e questo ci impedirà di fare o credere la cosa sbagliata.
+
+Particolarmente oggi che i social media ci offrono molti più modi per comunicare, condividere idee e influenzare le opinioni che in passato, che è facile scrivere senza verifiche e controlli, la qualità e l'accuratezza del dibattito e delle informazioni non possono mai essere date per scontate. Questo rende il pensiero critico più importante che mai.
+Chi detiene il potere sempre più spesso dimostra di temere gli effetti di coloro che sanno pensare in modo critico su questioni morali, sociali, economiche e politiche: la capacità di pensare in modo critico, sia riguardo alle proprie convinzioni e impegni, sia riguardo alle affermazioni e alle motivazioni altrui, è quindi essenziale per poter svolgere correttamente il proprio ruolo di cittadino.
+
+Possiamo quindi concludere che con "pensiero critico" si intende <u>l'utilizzo del ragionamento e della razionalità</u> nelle comunicazioni con altri (dirette o attraverso i media), nella scrittura di un testo ecc., con lo scopo di ottenere:
+
+- una migliore comprensione di ciò che stiamo ascoltando, discutendo o dicendo, della sua verità o della sua utilità;
 - una maggiore capacità di risolvere i problemi che stiamo affrontando;
 - una maggiore efficacia dalle decisioni che stiamo prendendo, sia in ambito personale che sociale o politico.
 
-Il pensiero critico, nel confronto di idee, è quindi il contrario del <u>credere a quello che dicono tutti</u>, del <u>dare giudizi affrettati</u>, dell'agire istintivamente e senza pensare e di farsi trascinare dalla forza dell'abitudine. 
-
-Per utilizzare il pensiero critico bisogna avere (o acquisire) certe abilità e conoscere alcune tecniche.
-
-Alcune delle cose che bisogna saper fare sono riassunte nell'elenco seguente:
-
-1. <u>identificare e chiarire le argomentazioni proprie e quelle altrui</u>, le posizioni reciproche e le conclusioni;
-2. <u>selezionare con giudizio le fonti</u>, le prove e gli esempi a supporto della propria tesi;
-3. <u>valutare le argomentazioni e le prove</u> a sostegno di punti di vista alternativi al nostro;
-4. essere in grado di leggere tra le righe, vedere oltre le apparenze e <u>identificare premesse e presupposti falsi o ingiusti</u>;
-5. riconoscere le tecniche utilizzate per rendere certe posizioni più attraenti di altre e <u>scovare i meccanismi persuasivi</u>;
-6. riflettere sulle questioni in modo strutturato, applicando sia logica che intuizione;
-7. trarre conclusioni (che possono comportare decisioni, giudizi o raccomandazioni) basate su <u>ragioni</u> e prove logicamente accettabili e su argomentazioni valide;
-8. presentare un punto di vista in modo strutturato,
-   chiaro e ben argomentato, convincente per gli altri.
+Il pensiero critico applicato al confronto di idee, è quindi il contrario del <u>credere a quello che dicono tutti</u>, del <u>dare giudizi affrettati</u>, dell'agire istintivamente e senza pensare e di farsi trascinare dalla forza dell'abitudine.
 
 
 
-Mettere in pratica Il pensiero critico vuol dire anche essere accurati e precisi, e questo può richiedere impegno. Alcuni degli accorgimenti da tenere presenti sono:
+### LA PERSUASIONE ATTRAVERSO LE ARGOMENTAZIONI
 
-1. dedicare <u>attenzione ai dettagli</u>: prendersi il tempo giusto per notare piccole differenze che gettano maggiore luce sulla questione generale;
-2. <u>ripetere le valutazioni</u>: ossia tornare sullo stesso argomento e ricontrollare il proprio lavoro più volte per verificare che nulla sia stato trascurato;
-3. assumere <u>prospettive diverse</u>: significa chiedersi cosa risponderebbe o farebbe chi sostiene una conclusione diversa dalla propria;
-4. adottare una <u>obiettività di giudizio</u>: il ché non significa rinunciare alle proprie idee ma sforzarsi di mettere da parte i propri gusti, convinzioni ed interessi, almeno durante la fase di analisi delle situazioni, allo scopo di ottenere una comprensione più profonda, soppesando equamente argomentazioni e prove contrastanti;
-5. considerare le implicazioni e le <u>conseguenze a lungo termine</u> delle conclusioni, perché ciò che sembra una buona idea per i suoi effetti immediati potrebbe avere altre ricadute negative in un periodo più lungo.
+Con il linguaggio, sia scritto che parlato, facciamo molte cose: riportare un fatto, porre una domanda, dire a qualcuno di fare qualcosa, insultare qualcuno, lodare qualcuno, promettere qualcosa, recitare in un'opera teatrale, tifare per una squadra di calcio.
+
+Abbiamo già accennato ai "tentativi di persuasione" cui siamo sottoposti, sia attraverso argomentazioni che attraverso vari altri mezzi, che possono essere le immagini usate dalla pubblicità, ma anche un certo tipo di discorsi. 
+
+Chiamiamo tutto questo retorica, ossia è "retorico" qualsiasi tentativo verbale o scritto di persuadere qualcuno a credere, desiderare o fare qualcosa che <u>non si prefigge di fornire valide ragioni</u> per la credenza, il desiderio o l'azione, ma cerca di motivare tale credenza, desiderio o azione con altri mezzi. Un esempio classico è il famoso discorso "I have a dream" di Martin Luther King, ricco di frasi del tipo: 
+
+"Ho un sogno: che un giorno, sulle rosse colline della Georgia, i figli degli ex schiavi e i figli degli ex proprietari di schiavi possano sedersi insieme alla tavola della fratellanza."
 
 
 
-## UNITA' 1: Le argomentazioni
+Quindi, quando analizziamo i tentativi di persuasione, dobbiamo fare tre cose:
 
-Concetto cardine del pensiero critico è <u>l'argomentazione</u>, in quanto principale strumento di persuasione. 
+1. La prima è capire <u>se viene presentata una argomentazione</u>. Dobbiamo identificare la questione in discussione e determinare se chi scrive o parla sta cercando di persuadere per mezzo di un argomentazione, ovvero se sta cercando di fornire delle ragioni.
+2. Una volta stabilito che si sta presentando una argomentazione, si passa alla sua ricostruzione in modo da <u>esprimerla chiaramente</u> e dimostrare in modo inequivocabile i passaggi e la forma del ragionamento.
+3. Una ricostruzione chiara rende molto più semplice la nostra terza e ultima fase che è la <u>valutazione dell'argomentazione</u>, per stabilire cosa c'è di buono e cosa c'è di cattivo.
 
-Durante i confronti di idee e di opinioni, in televisione, sui social media o in presenza, ogni parte coinvolta utilizza delle argomentazioni per persuadere l'interlocutore ad accettare il proprio punto di vista.
+Cominciamo con la prima attività che è capire se si sta proponendo una argomentazione
 
-Chiamiamo <u>punto di vista</u> o posizione di un <u>soggetto</u> il messaggio che il soggetto vuole trasmettere all'interlocutore e della cui verità o utilità vuole convincere  l'interlocutore stesso. 
+
+
+### LA VERITA' DELLE CONCLUSIONI
+
+Quando presentiamo un argomento, stiamo esprimendo un'opinione (un'affermazione che riteniamo vera) o raccomandando un'azione. In entrambi i casi, forniamo una serie di affermazioni volte a supportare l'affermazione o la raccomandazione.
+
+In entrambi i casi abbiamo una argomentazione che fornisce delle ragioni per pensare che una certa affermazione sia vera. Ma cosa intendiamo per "verità" di qualcosa?
+
+Affermare che una asserzione è vera significa affermare che ciò che viene affermato corrisponde alla realtà dei fatti.
+
+
+
+Una singola affermazione, tuttavia, non costituisce un argomentazione: una argomentazione ha bisogno dell'affermazione di cui chi argomenta spera di convincere il suo pubblico, più almeno un'affermazione offerta a sostegno di tale affermazione.
+
+#### ESEMPIO 1
+
+Si considerino le frasi seguenti
+
+1. Dovresti consegnare il tuo compito in tempo.
+2. Il mondo sta affrontando una catastrofe ambientale.
+
+Gli esempi seguenti, al contrario, cercano di fornire un certo supporto a queste affermazioni. Se il supporto sia adeguato è ancora da vedere ma comunque la differenza tra le prime due affermazioni è evidente:
+
+1. Dovreste consegnare il vostro compito in tempo. In caso contrario, riceverete una penalità, o forse anche zero punti.
+2. Gli esperti del clima prevedono che il mondo stia affrontando una catastrofe ambientale.
+   Dato che le loro previsioni si basano su dati scientifici raccolti tramite ricerche che seguono metodologie solide e accettate, dovremmo prendere sul serio le loro affermazioni. 
+
+
+
+Utilizziamo termini specifici per parlare delle due parti di una argomentazione: l'affermazione principale,
+quella che cerchiamo di far accettare agli altri, è la <u>conclusione</u>; le affermazioni di supporto,
+quelle che hanno lo scopo di fornirci le ragioni per accettare la conclusione, sono le
+<u>premesse</u>.
+
+
+
+
 
 Argomentare significa presentare <u>ragioni</u> a sostegno della propria posizione o punto di vista. Se gli interlocutori, o gli ascoltatori, accettano tali ragioni, è più probabile che vengano persuase ad accettare il proprio punto di vista. 
 
@@ -126,12 +171,6 @@ Pag. 70, 4.4.
 
 
 
-
-$R_i$:  $p_1$: Tutte le scimitarre hanno un’impugnatura.
-
-​	$p_2$: Quest’oggetto ha un’impugnatura.
-
-​	$c$: Quest’oggetto è una scimitarra.
 
 
 

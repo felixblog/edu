@@ -12,7 +12,7 @@ Le unità di misura più usate per misurare gli angoli sono il grado (sessagesim
 
 
 
-#### La misura in gradi
+### La misura in gradi
 
 Nel sistema cosiddetto "sessagesimale", l’unità di misura degli angoli è il grado (sessagesimale),
 definito come quell'angolo pari alla 360-esima parte dell’angolo giro.
@@ -28,7 +28,7 @@ Dalla formula precedente risulta quindi che un angolo giro, in gradi, misura $36
 
 
 
-#### La misura in radianti
+### La misura in radianti
 
 Gli angoli, oltre ad essere misurati in gradi, vengono misurati anche in radianti, cioè utilizzando un'altra unità di misura. Il radiante è l’angolo al centro di una circonferenza che sottende un arco di lunghezza uguale al raggio.
 
@@ -45,7 +45,7 @@ $$
 
 
 
-#### Proporzionalità tra archi ed angoli
+### Proporzionalità tra archi ed angoli
 
 In una circonferenza la lunghezza $s$ di un arco e l'angolo $\omega$ sotteso sono due grandezze direttamente proporzionali, ossia il loro rapporto è costante. La costante di proporzionalità è uguale al rapporto tra tutta la circonferenza e l'angolo giro, quindi, misurando gli angoli in radianti:
 $$
@@ -60,7 +60,7 @@ che ci dice come calcolare la lunghezza di un arco di circonferenza conoscendo l
 
 
 
-#### Gli angoli orientati
+### Gli angoli orientati
 
 La definizione di angolo già data, come parte di piano, non è adatta per descrivere tutte le situazioni in cui gli angoli vengono impiegati. Ad esempio, nell’avvitare o svitare una vite si descrive un angolo che può essere maggiore di un angolo giro.
 È più utile quindi collegare il concetto di angolo a quello di **rotazione**, cioè al movimento che porta uno dei lati dell’angolo a sovrapporsi all’altro.
@@ -89,7 +89,8 @@ $$
 $$
 
 
-#### La circonferenza goniometrica
+
+### La circonferenza goniometrica
 
 Per **circonferenza goniometrica** intendiamo la circonferenza che in un piano cartesiano ha come centro l’origine $O$ degli assi ed il raggio di lunghezza $1$, ossia la 
 circonferenza di equazione $x^2 + y^2 = 1$.
@@ -134,7 +135,7 @@ b) Trasforma in gradi sessagesimali le misure dei seguenti angoli, espresse in r
 
 
 
-#### ESERCIZIO 1.3 - Problemi vari
+### ESERCIZIO 1.3 - Problemi vari
 
 a)  Calcola la misura, in gradi e in radianti, di un angolo al centro di una circonferenza il cui raggio è uguale a $5$ cm e che sottende un arco lungo $23$ cm.			$R: \left[263^\circ \; 33^{'} \; 38^{''};\; 4,6\right]$
 
@@ -155,7 +156,7 @@ Seno e coseno di un angolo $\alpha$ sono funzioni che hanno come dominio $\mathb
 
 
 
-#### Variazioni delle funzioni seno e coseno
+### Variazioni delle funzioni seno e coseno
 
 Supponiamo che un punto $B$ percorra l’intera circonferenza goniometrica, a partire da $E$, in verso antiorario. 
 Se $\alpha = \widehat{EOB}$, come variano $\sin \alpha$ e $\cos \alpha$ al variare della posizione di $B$? Basta 
@@ -179,7 +180,7 @@ La tabella seguente riassume più chiaramente i valori delle funzioni seno e cos
 
 
 
-#### I grafici delle funzioni seno e coseno
+### I grafici delle funzioni seno e coseno
 
 
 
@@ -191,7 +192,7 @@ La tabella seguente riassume più chiaramente i valori delle funzioni seno e cos
 
 
 
-#### Il periodo delle funzioni seno e coseno
+### Il periodo delle funzioni seno e coseno
 
 Dopo aver percorso un giro completo, il punto $B$ sulla circonferenza goniometrica può ripetere lo stesso movimento altre volte e le funzioni seno e coseno assumono di nuovo gli stessi valori ottenuti al "primo 
 giro":
@@ -208,10 +209,10 @@ $$
 $$
 
 
-#### La relazione fondamentale della goniometria
+### La relazione fondamentale della goniometria
 
 Poiché il punto $B(\cos \alpha; \sin \alpha)$ appartiene alla circonferenza goniometrica, le sue 
-coordinate soddisfano l’equazione $x^2 + y^2 = 1,$ che è conseguenza diretta dell'applicazione del teorema di pitagora al triangolo rettangolo $\widehat{AOB}$:
+coordinate soddisfano l’equazione $x^2 + y^2 = 1,$ che è conseguenza diretta dell'applicazione del teorema di pitagora al triangolo rettangolo $\triangle{AOB}$:
 
 ![Pitagora-seno-coseno](img/Pitagora-seno-coseno.png)
 
@@ -272,7 +273,7 @@ b) $4 - 4 \sin^2 \alpha + (cos \alpha - \sin \alpha)^2 + 2 \cos \alpha(\sin \alp
 
 
 
-## Unità 3: La funzione Tangente
+## Unità 3: La funzione Tangente e le funzioni inverse
 
 Consideriamo un angolo orientato $\alpha$ sulla circonferenza goniometrica, come in figura. Chiamiamo come al solito $B$ l’intersezione fra il lato termine e la circonferenza di centro $O$. Si definisce tangente di $\alpha$ la funzione che associa al $\alpha$ il rapporto, quando esiste, fra l’ordinata e l’ascissa del punto $B$.
 $$
@@ -282,9 +283,13 @@ $$
 
 Il rapporto  non esiste quando $x_B = 0$ ossia per $\alpha = \dfrac{\pi}{2} + k\pi, \;\; k \in \mathbb{Z}$. Il dominio della funzione tangente è quindi $\{\alpha \in \mathbb{R}: \alpha \ne \dfrac{\pi}{2} + k\pi, \;\; k \in \mathbb{Z} \}$.
 
+Poiché $y_B = \sin \alpha$ e $x_B = \cos \alpha$ abbiamo la relazione fondamentale:
+$$
+\tan \alpha = \dfrac{\sin \alpha}{\cos \alpha}
+$$
+ 
 
-
-#### Un altro modo di definire la tangente
+### Un altro modo di definire la tangente
 
 Consideriamo la circonferenza goniometrica e la retta tangente a essa nel punto
 $E$, origine degli archi.
@@ -293,13 +298,17 @@ La tangente dell’angolo $\alpha$ può anche essere definita come il valore del
 del punto $T$, ossia:
 $\tan \alpha = y_T$.
 
+
+
 ![Tangente2](img/Tangente2.png)
 
-L'equivalenza della definizione deriva dal fatto che i triangoli $TOE$ e $BOA$ sono simili e quindi $\dfrac{BA}{OA} = \dfrac{TE}{OE}$, ma $OE = 1$ perché il cerchio è goniometrico ed ha raggio $1$.
+L'equivalenza della definizione deriva dal fatto che i triangoli $\triangle{TOE}$ e $\triangle{BOA}$ sono simili e quindi $\dfrac{BA}{OA} = \dfrac{TE}{OE}$, ma $OE = 1$ perché il cerchio è goniometrico ed ha raggio $1$, come si vede dall'immagine seguente.
+
+![](img/Tangente3.png)
 
 
 
-#### Il grafico della funzione tangente
+### Il grafico della funzione tangente
 
 ![Grafico-tangente](img/Grafico-tangente.png)
 
@@ -314,3 +323,125 @@ $$
 \tan \alpha = tan(\alpha + k\pi), \;\;  k \in \mathbb{Z}
 $$
 ![Grafico-Tangente2](img/Grafico-Tangente2.png)
+
+
+
+Analogamente a quanto fatto per il seno e coseno, possiamo riassumere nella tabella seguente i valori della tangente in alcuni angoli notevoli.
+
+<img src="img/Valori-Notevoli-sin-cos-tan.png" alt="Valori-Notevoli-sin-cos-tan" style="zoom:67%;" />
+
+
+
+### Significato goniometrico del coefficiente angolare di una retta
+
+Tracciamo la circonferenza goniometrica e la retta generica passante per l'origine di equazione $y = mx$, da cui $m = \dfrac{y}{x}$ per ogni punto della retta di coordinate $(x, y)$. 
+
+
+
+![coeff-angolare](img/coeff-angolare.png)
+
+In particolare, se $x = 1$ ed $y = \tan \alpha$ abbiamo che 
+$$
+m = \dfrac{\tan \alpha}{1}= \tan \alpha
+$$
+*Il coefficiente angolare della retta è uguale alla tangente dell’angolo fra la retta e* *l’asse $x$*. Poiché dalla geometria analitica sappiamo che due rette sono parallele quando hanno lo stesso coefficiente angolare e che rette parallele formano angoli congruenti con l’asse $x$, possiamo dire che per tutte le rette nel piano, il coefficiente angolare è uguale alla tangente trigonometrica dell'angolo tra la retta e l'asse orizzontale.
+
+![rette-parallele](img/rette-parallele.png)
+
+### Le funzioni inverse di sin x e cos x
+
+Una funzione è invertibile, ossia ammette la funzione inversa, solo se è biiettiva. 
+La funzione $y = \sin x$ non è biiettiva perché non è iniettiva. Infatti, se consideriamo una retta $y = k$, parallela all’asse $x$, con $-1 \le k \le 1$, questa interseca il grafico 
+della funzione seno in infiniti punti, quindi ogni valore del codominio $[- 1; 1]$ di $y = \sin x$ è immagine di infiniti valori del dominio $\R$.
+
+![grafico-seno-non-inv](img/grafico-seno-non-inv.png)
+
+Se però restringiamo il dominio della funzione seno all’intervallo $\left[-\dfrac{\pi}{2}; \dfrac{\pi}{2}\right]$, la funzione $y = \sin x$ risulta biiettiva e dunque invertibile. 
+La funzione inversa del seno si chiama arcoseno. Ha come dominio l'intervallo $[-1;1]$ e come codominio $\left[-\dfrac{\pi}{2}; \dfrac{\pi}{2}\right]$.
+
+Il suo grafico è quello riportato in figura.
+
+<img src="img/grafico-arcoseno.png" alt="grafico-arcoseno" style="zoom:67%;" />
+
+
+
+Le stesse considerazioni valgono per la definizione della funzione inversa del coseno e della tangente.
+
+Il coseno è invertibile nell'intervallo $[0; \pi]$ per cui la funzione inversa del coseno si chiama arcocoseno ed ha come dominio l'intervallo $[-1;1]$ e come codominio $[0; \pi]$ .
+
+<img src="img/grafico-arcocoseno.png" alt="grafico-arcocoseno" style="zoom:67%;" />
+
+
+
+#### La funzione inversa di tan x
+
+
+
+## UNITA' 4: La Trigonometria
+
+Finora ci siamo occupati di goniometria, ossia della misurazione degli angoli e 
+delle funzioni associate a essi. Ora tratteremo la trigonometria, che studia le relazioni metriche fra i lati e gli angoli di un triangolo.
+
+Disegniamo un triangolo rettangolo $\triangle ABC$, con l’angolo retto in $\widehat C$, come in figura, ed analizziamo le misure dei lati e degli angoli.
+Tracciamo la circonferenza goniometrica con centro $A$.
+
+<img src="img/trig-1.png" alt="trig-1" style="zoom: 80%;" />
+
+I triangoli $\triangle APH$ e $\triangle ABC$, rispettivamente più piccolo e più grande, sono simili in quanto sono rettangoli e hanno l’angolo acuto $\alpha$ in comune.
+Possiamo quindi scrivere le proporzioni seguenti tra il cateto minore e l'ipotenusa e tra il cateto maggiore l'ipotenusa in entrambi i casi:  
+$$
+BC : AB = PH : AP \\
+
+AC : AB = AH : AP
+$$
+Poiché $AP = 1$, $PH = \sin \alpha$ e $AH = \cos \alpha$, otteniamo: 
+$$
+BC = AB \cdot \sin \alpha,\;\; \text{ossia}\;\;  a = c \cdot \sin \alpha \\
+AC = AB \cdot \cos \alpha,\;\; \text{ossia}\;\; b = c \cdot \cos \alpha.
+$$
+
+
+![I-teo-triang-rett](img/I-teo-triang-rett.png)
+
+Enunciando il risultato a parole abbiamo:
+
+In un triangolo rettangolo la misura di un cateto è uguale a quella dell’ipotenusa moltiplicata per il seno dell’angolo opposto al cateto o per il coseno dell’angolo (acuto) adiacente al cateto.
+$$
+\text{cateto = ipotenusa * seno dell’angolo opposto} \\
+\text{cateto = ipotenusa * coseno dell’angolo acuto adiacente}
+$$
+
+
+Consideriamo nuovamente la figura b. Per la similitudine dei triangoli $\triangle APH$ e 
+$\triangle ABC$, possiamo anche scrivere la proporzione
+$BC :   AC = PH :   AH$, da cui:
+$$
+\dfrac{BC}{AC} = \dfrac{\sin \alpha}{\cos \alpha} = \tan \alpha
+$$
+Scritta nella forma $a = b \cdot \tan \alpha$ ci dice che:
+
+In un triangolo rettangolo la misura di un cateto è uguale a quella dell’altro cateto moltiplicata per la tangente dell’angolo opposto al primo cateto.
+$$
+\text{cateto = altro cateto * tangente dell’angolo opposto al primo cateto}
+$$
+
+
+### ESERCIZIO 4.1 - Risoluzione di Triangoli
+
+Risolvere un triangolo rettangolo significa determinare le misure dei suoi lati e dei suoi angoli conoscendo almeno un lato e un altro dei suoi elementi.
+
+<img src="img/risoluzione-triangoli.png" alt="risoluzione-triangoli" style="zoom:80%;" />
+
+a) Risolvi il triangolo $\triangle ABC$, rettangolo in $A$, conoscendo gli elementi indicati.
+
+<img src="img/Triangolo-Rettangolo.png" alt="Triangolo-Rettangolo" style="zoom:80%;" />
+
+1. un cateto è lungo $10$ cm e l’ipotenusa $26$ cm;
+2. i due cateti sono lunghi $30$ cm e $40$ cm;
+3. $b = 15$;    $a = $;    $\gamma = 60^\circ$; 
+4. $b = 15$;    $\gamma = 30^\circ$.
+
+
+
+## UNITA' 5: Le Funzioni Goniometriche e le Trasformazioni Geometriche
+
