@@ -220,7 +220,7 @@ a) Trova, se esistono, le soluzioni delle equazioni seguenti.
 1. $2x^2 + x = 0;$   $\dfrac{x^2}{4} - 81 = 0;$   $x^2 -5 = 0;$
 
 2. $3x^2 - 12x + 9 = 0;$   $4x^2 + 12x + 9 = 0;$   $x^2 + x + 1 = 0;$
-3. Equazioni dei punti a.3, a.4 e a.5 dell'esercizio 3.
+3. Equazioni dei punti a.3, a.4 e a.5 dell'esercizio 2.1.
 4. $3(x-x^2)-\dfrac{4}{3} = \dfrac{1}{2}x - 1;$   $\dfrac{x+4}{5}+\dfrac{33}{10}=(2+x)(2-x);$   $\dfrac{4}{3}x(12-x)=45$.
 
 b) Scrivi l'equazione e trova le soluzioni, nei casi in cui i coefficienti della forma normale $a$, $b$, $c$ abbiano i valori riportati di seguito:
@@ -394,7 +394,7 @@ Consideriamo la parabola $y = \dfrac{1}{4}x^2-9$ con il grafico riportato nella 
 
 <img src="img\Parabola-1.png" alt="Parabola" style="zoom:20%;" />
 
-Guardando il grafico si vede che questo è nel semipiano positivo o quando $x$ è maggiore di $6$ oppure quando è minore di $-6$. In altri termini gli intervalli di positività sono $[6,+\infty]$ e $[-\infty,-6]$; gli estremi $6$ e $-6$ sono radici del polinomio associato per cui la $y$ è uguale a zero.
+Guardando il grafico si vede che questo è nel semipiano positivo o quando $x$ è maggiore di $6$ oppure quando è minore di $-6$. In altri termini gli intervalli di positività sono $[6,+\infty]$ e $[-\infty,-6]$; gli estremi $6$ e $-6$ sono radici del polinomio associato per cui la $y$ è uguale a zero.
 
 
 

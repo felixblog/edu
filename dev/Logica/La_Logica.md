@@ -643,18 +643,22 @@ b) Completa i seguenti ragionamenti trovando la conclusione.
 
 Fino ad ora abbiamo studiato il problema della correttezza di un ragionamento, (un ragionamento è corretto se, <u>supponendo le premesse vere</u>, si deduce necessariamente la verità della conclusione) ed abbiamo anche individuato il metodo delle tabelle di verità per risolvere il problema della correttezza. 
 
-Nella vita di tutti i giorni però il problema principale che ci si pone utilizzando le argomentazioni è quello di riuscire a stabilire, o giustificare, la **verità delle conclusioni**, non solo la correttezza del ragionamento. Per avere la verità delle conclusioni occorrono due condizioni:
+Nella vita di tutti i giorni però il problema principale che ci si pone utilizzando le argomentazioni è quello di riuscire a stabilire, o giustificare, la **verità delle conclusioni**, non solo la correttezza del ragionamento. Per avere la verità delle conclusioni occorre che il ragionamento soddisfi due condizioni:
 
-1. che le premesse siano effettivamente vere;
-2. che dalla loro verità consegua la verità delle conclusioni (correttezza).
+1. che sia corretto (dalla verità delle premesse consegua la verità delle conclusioni);
+2. che le premesse siano effettivamente vere.
 
-E' la verità della conclusione ciò per cui ci si batte durante le discussioni, ed è particolarmente importante avere dei metodi o degli accorgimenti per scoprire quali argomentazioni siano subdole o falsamente convincenti, onde evitare di credere alla verità di affermazioni che chiunque abbia interesse a convincere qualcun altro, propone per ottenere un proprio vantaggio.
+Una argomentazione può fallire nel dimostrare la verità delle conclusione non soddisfacendo una delle due condizioni o tutte e due: ragionamento non corretto o premesse non tutte vere. 
 
+Se fallisce, non vuol dire che la conclusione è falsa, ma solo che il ragionamento non dimostra la sua verità, ossia non possiamo sapere da quel ragionamento se credere o no alla verità della conclusione; la conclusione potrà essere vera ma questo dovrà essere dimostrato da un altro ragionamento. Vediamo alcuni esempi.
 
+### Premesse vere solo in parte
 
-#### Premesse solo in parte vere
+Un ragionamento, per quanto possa filare, non stabilirà la verità della conclusione se qualcuna delle premesse è falsa. 
 
-Iniziamo col dire che un ragionamento, per quanto possa filare, non stabilirà la verità della conclusione se qualcuna delle premesse è falsa. Vediamo un esempio. Abbiamo raccolto dei funghi e non siamo sicuri se un fungo in particolare è buono o velenoso. Un amico cerca di tranquillizzarci argomentando come segue:
+#### ESEMPIO 1
+
+Abbiamo raccolto dei funghi e non siamo sicuri se un fungo in particolare è buono o velenoso. Un amico cerca di tranquillizzarci argomentando come segue:
 
 $p_1$: I funghi velenosi hanno il cappello rosso.
 
@@ -665,7 +669,7 @@ $c$: Il tuo fungo è buono da mangiare.
 Il ragionamento non fa una piega: accettando le premesse è inevitabile accettare la conclusione, ma il problema è che la prima  premessa è falsa perché ci sono funghi completamente bianchi che risultano mortali, come l'*Amanita Virosa* e quindi non siamo tenuti ad accettarla. Questo ci lascia nell'incertezza sul fungo: non è escluso che il fungo sia buono da mangiare, ma è altrettanto possibile che non lo sia (potrebbe essere un’amanita virosa), per cui l’argomentazione non 
 dimostra nulla.
 
-Anche nei casi in cui <u>non sappiamo</u> se le premesse siano tutte vere (oltre che quando sappiamo che qualcuna è falsa!) non si può accettare la verità della conclusione . Vediamo il caso seguente:
+Anche nei casi in cui <u>non sappiamo</u> se le premesse siano tutte vere (oltre che quando sappiamo che qualcuna è falsa!) <u>non si può accettare la verità della conclusione</u> . Vediamo il caso seguente:
 
 $p_1$: Nel bosco dove sei stato non crescono funghi velenosi..
 
@@ -678,9 +682,51 @@ o più premesse è ignota, l’argomentazione fallisce nel suo intento di stabil
 
 
 
-#### Conclusioni solo in parte vere
+#### ESEMPIO 2
 
-Oltre alla verità delle premesse, nella vita quotidiana si incontrano argomentazioni, la maggior parte delle argomentazioni, che non conducono alla verità assoluta delle conclusioni. Consideriamo i due ragionamenti seguenti:
+Consideriamo i seguenti ragionamenti.
+
+$R_1$:  $p_1$: $15$ è un multiplo di $3$.
+
+​	$p_2$: Tutti i multipli di $3$ sono pari.
+
+​	$c$: $15$ è un numero pari.
+
+
+
+$R_2$:  $p_1$: $15$ è un multiplo di $3$.
+
+​	$p_2$: Tutti i multipli di $3$ sono dispari.
+
+​	$c$: $15$ è un numero dispari.
+
+
+
+$R_3$:  $p_1$: $15$ non è un multiplo di $2$.
+
+​	$p_2$: Tutti i multipli di $2$ sono pari.
+
+​	$c$: $15$ non è un numero pari.
+
+
+
+$R_4$:  $p_1$: $15$ non è un multiplo di $2$.
+
+​	$p_2$: Tutti i multipli di $2$ sono pari.
+
+​	$c$: $15$ non è un numero primo.
+
+I ragionamenti $R_1$, $R_2$ ed $R_3$ sono corretti, ma $R_1$ non dimostra la conclusione perché $p_2$ è falsa (e la conclusione pure!). In $R_2$ abbiamo che la conclusione è vera, ma lo è per altri motivi, non perché la dimostri $R_2$, a causa della falsità di una sua ipotesi.
+
+In $R_3$ le ipotesi sono entrambe vere e quindi possiamo accettare la verità della conclusione: $R_3$ è quindi un ragionamento che dimostra che $15$ è un numero dispari.
+
+$R_4$ non è corretto perché la conclusione non si deduce dalle premesse, anche se è una affermazione vera. Quindi, come nel caso di $R_2$, la verità della conclusione dovrà essere assicurata da un altro ragionamento.
+
+
+
+#### Conclusioni vere solo in parte
+
+Oltre alla verità delle premesse, nella vita quotidiana si incontrano molte argomentazioni che non conducono alla verità assoluta delle conclusioni. Consideriamo i due ragionamenti seguenti:
 
 $R_1$: Anita è laureata in medicina. Poiché per laurearsi in medicina è necessario superare l'esame di anatomia, Anita ha sicuramente superato l'esame di anatomia.
 
@@ -821,9 +867,7 @@ $R_3$:  $p_1$: Dio ha creato l’universo.
 
 
 
-b) I ragionamenti seguenti presentano dei problemi? Se si, quali?
-
-$R_1$:  $p_1$: Tutti gli arturiani sono bravi baciatori.
+$R_4$:  $p_1$: Tutti gli arturiani sono bravi baciatori.
 
 ​	$p_2$: Alcuni arturiani hanno molte bocche.
 
@@ -831,23 +875,7 @@ $R_1$:  $p_1$: Tutti gli arturiani sono bravi baciatori.
 
 
 
-$R_2$:  $p_1$: $15$ è un multiplo di $3$.
-
-​	$p_2$: Tutti i multipli di $3$ sono pari.
-
-​	$c$: $15$ è un numero pari.
-
-
-
-$R_3$:  $p_1$: $15$ è un multiplo di $3$.
-
-​	$p_2$: Tutti i multipli di $3$ sono dispari.
-
-​	$c$: $15$ è un numero pari.
-
-
-
-c) Determinare se i  ragionamenti seguenti sono di tipo deduttivo o induttivo e, nel caso sia induttivo, se sia forte o debole (cioè se la sua probabilità induttiva sia alta o bassa).
+c) Determinare se i ragionamenti seguenti sono di tipo deduttivo o induttivo e, nel caso siano induttivi, se siano forti o deboli (cioè se la loro probabilità induttiva sia alta o bassa).
 
 $R_i$:  $p_1$: I numeri non sono entità materiali.
 
