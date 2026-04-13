@@ -37,7 +37,7 @@ Puntualizziamo ora il significato di alcuni termini di cui discuteremo in seguit
 
 
 
-### Verità, Asserzioni, Convinzioni, Opinioni
+### Verità, Asserzioni, Convinzioni, Opinioni, Fatti
 
 Una frase come "L'acqua della pasta bolle" è una <u>asserzione</u>.
 
@@ -61,7 +61,7 @@ Asserzioni, convinzioni e verità sono internamente legate in questo modo. Sopra
 
 Elena dice, ed è convinta, che Novak Djokovic ha vinto il torneo di singolare maschile a Wimbledon nel 2018.
 
-Il fatto che che Djokovic abbia vinto il torneo non ha nulla a che vedere con la veridicità o meno della sua convinzione o della sua affermazione e se un'suo amico, Ruggero, risponde dicendo "Si, è vero!", ciò che fa è affermare esattamente la stessa cosa che ha affermato Elena. È d'accordo con lei e l'affermazione di Ruggero sarà vera se Novak Djokovic ha vinto Wimbledon e falsa altrimenti, come quella di Elena.
+Cosa abbia fatto Djokovic attiene alla realtà e non alla affermazione di Elena o alle sue convinzioni. Se il suo amico Ruggero risponde dicendo "Si, è vero!", ciò che fa è affermare esattamente la stessa cosa che ha affermato Elena. È d'accordo con lei e l'affermazione di Ruggero sarà vera se Novak Djokovic ha vinto Wimbledon e falsa altrimenti, come quella di Elena.
 
 In conclusione, la veridicità della proposizione "Novak Djokovic ha vinto il torneo di singolare maschile di Wimbledon nel 2018" ha a che fare con la realtà dei fatti e non con la persona che la pronuncia, con le sue convinzioni, la sua cultura o la sua lingua.    $\bullet$
 
