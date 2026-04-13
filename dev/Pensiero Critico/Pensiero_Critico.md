@@ -26,7 +26,7 @@ Cos'è quindi in sintesi il pensiero critico?
 
 >$\triangle$ Con "pensiero critico" si intende <u>l'utilizzo del ragionamento e della razionalità</u> nelle comunicazioni con gli altri, scritte, orali, dirette o mediate, con lo scopo di ottenere:
 >
->- una migliore comprensione di ciò che stiamo ascoltando, discutendo o dicendo, della sua verità o falsità della sua utilità o dannosità;
+>- una migliore comprensione di ciò che stiamo ascoltando, discutendo o dicendo, della sua verità, falsità, utilità o dannosità;
 >- una maggiore capacità di risolvere i problemi che stiamo affrontando;
 >- una maggiore efficacia dalle decisioni che stiamo prendendo, sia in ambito personale che sociale o politico.
 >
@@ -198,19 +198,14 @@ a) Mi piace quel quadro. I colori creano il potente effetto di un tramonto, che 
 
 b) L'eclissi era prevista in Scozia alle 9 di ieri mattina. Molte persone si sono presentate. Il cielo era ancora visibile al loro arrivo, ma si è poi annuvolato. Quando si osserva un'eclissi, bisogna proteggere gli occhi e non guardare direttamente il sole.
 
-c) Le finestre tremavano
-e le porte sbattevano.
-L'aria era carica di tensione.
-Eravamo tutti spaventati.
-Uno strano suono riempì
-l'aria. Doveva essere
-un fantasma.
+c) Le finestre tremavano e le porte sbattevano.
+L'aria era carica di tensione. Eravamo tutti spaventati. Uno strano suono riempì l'aria.
+Doveva essere un fantasma.
 
 d) Molti adulti imparano a leggere più tardi nella vita.
 Sebbene John e Miranda avessero difficoltà a leggere da bambini, da adulti hanno recuperato il divario con i loro coetanei. Hanno apprezzato la partecipazione ai corsi di alfabetizzazione nella loro città. Quasi un milione di persone ha migliorato le proprie competenze di lettura e scrittura grazie ai corsi per adulti negli ultimi anni. 
 
-$R.$ [a) Si, punto: "È un bel quadro."; b) No; c) Si, punto:"Doveva essere
-un fantasma."; d) Si, punto: "Molti adulti imparano a leggere più tardi nella vita."].
+$R.$ [a) Si, punto: "È un bel quadro."; b) No; c) Si, punto:"Doveva essere un fantasma."; d) Si, punto: "Molti adulti imparano a leggere più tardi nella vita."].
 
 
 
