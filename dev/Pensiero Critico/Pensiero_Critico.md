@@ -41,38 +41,42 @@ Puntualizziamo ora il significato di alcuni termini di cui discuteremo in seguit
 
 Una frase come "L'acqua della pasta bolle" è una <u>asserzione</u>.
 
+> 
+> $\triangle$ Una  **asserzione** (o affermazione) è un'espressione (parlata, scritta, a volte solo pensata) che si può supporre essere vera (ossia ha senso chiedersi se è vera).
+> 
+
+Diciamo “supporre” perché, non tutte le affermazioni sono vere: alcune sono false deliberatamente, altre lo sono perché fondate su convinzioni errate, ma, se sono affermazioni, quantomeno ritenerle vere può avere un senso, che le si condividi o meno.
+
 Quando qualcuno dice: "L'acqua della pasta bolle", ossia sta asserendo qualcosa, sta esprimendo una <u>convinzione</u>, cioè che l'acqua della pasta sta bollendo.
 
 >$\triangle$ Una **convinzione** è un atteggiamento che assumiamo nei confronti di una proposizione: stiamo credendo in ciò che dice la proposizione, ossia la stiamo accettando come vera. 
 
 L'asserzione è quindi una frase che pretende di essere vera, e la convinzione è un (nostro) atteggiamento nei confronti della sua verità. Ma cosa intendiamo per "<u>verità</u>" di una asserzione?
 
->$\triangle$ Affermare che una asserzione è **vera** significa affermare che ciò che viene affermato corrisponde alla realtà del mondo.
+>$\triangle$ Affermare una **verità**, ossia che una asserzione è vera, significa affermare che il suo contenuto corrisponde alla realtà del mondo.
 
-Asserzioni, convinzioni e verità sono internamente legate in questo modo. Dire che un'affermazione è vera significa semplicemente dire che le cose stanno come l'affermazione dice che stanno: la verità di una frase è una caratteristica della frase, non delle persone che la pronunciano.
+Asserzioni, convinzioni e verità sono internamente legate in questo modo. Soprattutto bisogna osservare che la verità di una frase è una caratteristica della frase, non delle persone che la pronunciano.
 
 #### ESEMPIO 1
 
-Una persona, ad esempio Elena, crede ed ha affermato che Novak Djokovic ha vinto il torneo di singolare maschile a Wimbledon nel 2018, non ha nulla a che vedere con la veridicità o meno della sua convinzione o affermazione e se un'altra persona, chiamiamola Ruggero risponde dicendo "È vero", ciò che fa è affermare esattamente la stessa cosa che ha affermato Elena. È d'accordo con lei. La sua affermazione sarà vera se Novak Djokovic ha vinto Wimbledon e falsa altrimenti; lo stesso vale per quella di Ruggero.
+Elena dice, ed è convinta, che Novak Djokovic ha vinto il torneo di singolare maschile a Wimbledon nel 2018.
 
-La veridicità della proposizione:
+Il fatto che che Djokovic abbia vinto il torneo non ha nulla a che vedere con la veridicità o meno della sua convinzione o della sua affermazione e se un'suo amico, Ruggero, risponde dicendo "Si, è vero!", ciò che fa è affermare esattamente la stessa cosa che ha affermato Elena. È d'accordo con lei e l'affermazione di Ruggero sarà vera se Novak Djokovic ha vinto Wimbledon e falsa altrimenti, come quella di Elena.
 
-Novak Djokovic ha vinto il torneo di singolare maschile di Wimbledon nel 2018.
-
-non ha nulla a che vedere con la persona che la pronuncia, con le sue convinzioni, la sua cultura o la sua lingua.    $\bullet$
+In conclusione, la veridicità della proposizione "Novak Djokovic ha vinto il torneo di singolare maschile di Wimbledon nel 2018" ha a che fare con la realtà dei fatti e non con la persona che la pronuncia, con le sue convinzioni, la sua cultura o la sua lingua.    $\bullet$
 
 
 
-Le opinioni sono delle convinzioni "particolari":
+> $\triangle$ Un **fatto** è una affermazione la cui verità può essere certificata attraverso l'esperienza, l'osservazione diretta, la sperimentazione o il confronto con prove concrete, ossia attraverso un metodo. 
+
+I fatti vengono normalmente contrapposti alle opinioni, che sono delle convinzioni "particolari":
 
 
 >$\triangle$ Una **opinione** è una convinzione che non si basa su prove o evidenze sostanziali. Un'opinione può essere un punto di vista personale o essere condivisa da un gran numero di persone, anche se contraria alle prove.
 
-Le opinioni vengono normalmente contrapposte ai fatti.
 
->$\triangle$ Un **fatto** è una affermazione la cui verità può essere certificata attraverso l'esperienza, l'osservazione diretta, la sperimentazione o il confronto con prove concrete. 
 
-Con l'aumentare delle conoscenze in un determinato ambito tuttavia, i fatti possono essere smentiti. Oltre a questo bisogna osservare che le opinioni delle persone su cosa sia un fatto e cosa sia un'opinione possono variare.
+Con l'aumentare delle conoscenze in un determinato ambito, anche i fatti possono essere smentiti e nella pratica, le opinioni delle persone su cosa sia un fatto e cosa sia un'opinione possono variare.
 
 
 
@@ -88,6 +92,8 @@ Tutti questi altri mezzi di persuasione li chiameremo complessivamente "<u>retor
 > $\triangle$ Chiamiamo **retorico** qualsiasi tentativo, verbale o scritto, di persuadere qualcuno a credere, desiderare o fare qualcosa che <u>non si prefigge di fornire valide ragioni</u> per la credenza, il desiderio o l'azione, ma cerca di motivare tale credenza, desiderio o azione suscitando emozioni, passioni, sentimenti etc.
 >
 
+I mezzi retorici sono molto usati e quindi sono importanti; possono essere usati per scopi nobili e meno nobili, come frequentemente fanno i dittatori 
+
 #### ESEMPIO 2
 
 Un esempio classico di discorso retorico potente, efficace e rimasto nella storia è "I have a dream" di Martin Luther King, ricco di frasi del tipo: 
@@ -96,7 +102,7 @@ Un esempio classico di discorso retorico potente, efficace e rimasto nella stori
 
 
 
-Nel pensiero critico è essenziale saper distinguere i tentativi di persuasione retorici da quelli argomentativi. Argomentare significa presentare <u>ragioni</u> a sostegno della propria posizione o punto di vista. Se gli interlocutori, o gli ascoltatori, accettano tali ragioni, è più probabile che vengano persuase ad accettare il proprio punto di vista.
+Nel pensiero critico è essenziale saper distinguere i tentativi di persuasione retorici da quelli argomentativi. Argomentare significa presentare <u>ragioni</u> a sostegno della propria posizione o punto di vista. Particolarmente su argomenti tecnici, l'accettazione delle ragioni rende più efficace la persuasione ad accettare il proprio punto di vista.
 
 
 
@@ -143,7 +149,7 @@ Si considerino le frasi seguenti
 1. Dovresti consegnare il tuo compito in tempo.
 2. Il mondo sta affrontando una catastrofe ambientale.
 
-Gli esempi seguenti, al contrario, cercano di fornire un certo supporto a queste affermazioni. Se il supporto sia adeguato è ancora da vedere ma comunque la differenza tra le prime due affermazioni è evidente:
+Le frasi non sono argomentazioni ma semplici affermazioni. Gli esempi seguenti, al contrario, cercano di fornire un certo supporto a queste affermazioni. Al di là se il supporto sia adeguato, la differenza tra le prime e le seconde è evidente:
 
 1. Dovreste consegnare il vostro compito in tempo. In caso contrario, riceverete una penalità, o forse anche zero punti.
 2. Gli esperti del clima prevedono che il mondo stia affrontando una catastrofe ambientale.
@@ -157,20 +163,16 @@ Come si articola l'argomentazione seguente?
 
 Questa zona è diventata famosa, purtroppo per sfortunati motivi. L'incrocio tra Green Road e Mill Street è stato teatro di oltre una dozzina di gravi incidenti stradali negli ultimi cinque anni, a causa degli automobilisti che affrontano la curva troppo velocemente. Un artista locale ha realizzato una documentazione fotografica piuttosto triste di tutti i principali incidenti avvenuti, alcuni dei quali hanno visto tra le vittime anche anche alcuni turisti. Sono però state installate all'angolo della strada nuove telecamere per il controllo della velocità e questo contribuirà a ridurre il numero di incidenti.
 
+Conclusione (Punto dell'Argomentazione): Il numero di incidenti tra Green Road e Mill Street si ridurrà.
 
+Ragioni a sostegno:
 
-Premessa 1: Molti incidenti stradali si verificano all'incrocio tra Green Road e Mill Street.
+1: Molti incidenti stradali si verificano all'incrocio tra Green Road e Mill Street.
 
-Premessa 2: Gli automobilisti affrontano la curva troppo
+2: Gli automobilisti affrontano la curva troppo
 velocemente.
 
-Premessa 3: Sono stati installati nuovi autovelox all'incrocio.
-
-Conclusione: Ora dovrebbero esserci meno
-incidenti.
-
-Punto dell'argomentazione: Gli autovelox saranno efficaci nel ridurre il
-numero di incidenti all'incrocio tra Green Road e Mill Street.    $\bullet$
+3: Sono stati installati nuovi autovelox all'incrocio.    $\bullet$
 
 
 
