@@ -76,7 +76,17 @@ I fatti vengono normalmente contrapposti alle opinioni, che sono delle convinzio
 
 
 
-Con l'aumentare delle conoscenze in un determinato ambito, anche i fatti possono essere smentiti e nella pratica, le opinioni delle persone su cosa sia un fatto e cosa sia un'opinione possono variare.
+#### ESEMPIO 2
+
+Consideriamo il dialogo seguente:
+
+John: "Il maggiordomo è rimasto in casa tutta la notte. Il padrone di casa è stato assassinato durante la notte. Il maggiordomo dice di essere stato un servitore leale, ma forse non lo era. Credo che stesse mentendo e che nutrisse una sorta di vendetta nei confronti del suo datore di lavoro".
+
+Mary: "Io non credo".
+
+Sia John che Mary stanno esprimendo la loro opinione su dei fatti che sono successi.
+
+Con l'aumentare delle conoscenze in un determinato ambito, le opinioni delle persone su qualcosa possono diventare fatti (ad esempio potrebbero emergere evidenze che ad uccidere il padrone di casa sia stato il maggiordomo) e viceversa cosa sia considerato un fatto può essere smentito.    $\bullet$
 
 
 
@@ -94,7 +104,7 @@ Tutti questi altri mezzi di persuasione li chiameremo complessivamente "<u>retor
 
 I mezzi retorici sono molto usati e quindi sono importanti; possono essere usati per scopi nobili e meno nobili, come frequentemente fanno i dittatori 
 
-#### ESEMPIO 2
+#### ESEMPIO 3
 
 Un esempio classico di discorso retorico potente, efficace e rimasto nella storia è "I have a dream" di Martin Luther King, ricco di frasi del tipo: 
 
@@ -114,7 +124,9 @@ Le argomentazioni possono essere semplici, ma anche complesse ed articolate. Com
 >$\triangle$ Il **punto** di una argomentazione è la posizione, il concetto che l'autore dell'argomentazione vuole proporre e del quale vuole convincere il suo uditorio.
 >
 
-#### ESEMPIO 3
+
+
+#### ESEMPIO 4
 
 Quale è il punto delle argomentazioni seguenti?
 
@@ -130,7 +142,7 @@ Caso a) dovrebbero essere introdotte pene detentive più lunghe, caso b) l'aumen
 
 
 
-#### ESEMPIO 4
+#### ESEMPIO 5
 
 Quale è il punto dell'argomentazione seguente?
 
@@ -142,7 +154,7 @@ Il **punto** è che Koch ha apportato uno dei più importanti progressi metodolo
 
 Per quanto possa essere semplice, una argomentazione non è mai costituita da una singola affermazione: oltre al punto, di cui chi argomenta spera di convincere il suo pubblico, l'argomentazione ha almeno un'altra affermazione offerta a sostegno, che chiameremo <u>ragione a sostegno</u> o <u>premessa</u>.
 
-#### ESEMPIO 5
+#### ESEMPIO 6
 
 Si considerino le frasi seguenti
 
@@ -157,7 +169,7 @@ Le frasi non sono argomentazioni ma semplici affermazioni. Gli esempi seguenti, 
 
 
 
-#### ESEMPIO 6
+#### ESEMPIO 7
 
 Come si articola l'argomentazione seguente?
 
