@@ -287,7 +287,7 @@ Poiché $y_B = \sin \alpha$ e $x_B = \cos \alpha$ abbiamo la relazione fondament
 $$
 \tan \alpha = \dfrac{\sin \alpha}{\cos \alpha}
 $$
- 
+
 
 ### Un altro modo di definire la tangente
 
@@ -373,14 +373,20 @@ Il coseno è invertibile nell'intervallo $[0; \pi]$ per cui la funzione inversa 
 
 
 
-#### La funzione inversa di tan x
+### La funzione inversa di tan x
+
+Se consideriamo l'intervallo $\left(-\dfrac{\pi}{2}; \dfrac{\pi}{2}\right)$ come dominio, la funzione tangente è biunivoca e
+quindi invertibile.
+
+La funzione inversa della tangente si chiama arcotangente; ha come dominio tutto l'asse reale e codominio l'intervallo $\left(-\dfrac{\pi}{2}; \dfrac{\pi}{2}\right)$. Il grafico è riportato nella figura seguente.
+
+<img src="img/arcotangente.png" alt="arcotangente" style="zoom:67%;" />
 
 
 
 ## UNITA' 4: La Trigonometria
 
-Finora ci siamo occupati di goniometria, ossia della misurazione degli angoli e 
-delle funzioni associate a essi. Ora tratteremo la trigonometria, che studia le relazioni metriche fra i lati e gli angoli di un triangolo.
+Finora ci siamo occupati di goniometria, ossia della misurazione degli angoli e delle funzioni associate a essi. Ora tratteremo la trigonometria, che studia le relazioni metriche fra i lati e gli angoli di un triangolo.
 
 Disegniamo un triangolo rettangolo $\triangle ABC$, con l’angolo retto in $\widehat C$, come in figura, ed analizziamo le misure dei lati e degli angoli.
 Tracciamo la circonferenza goniometrica con centro $A$.
@@ -411,14 +417,13 @@ $$
 \text{cateto = ipotenusa * coseno dell’angolo acuto adiacente}
 $$
 
-
-Consideriamo nuovamente la figura b. Per la similitudine dei triangoli $\triangle APH$ e 
+Consideriamo nuovamente la figura b all'inizio dell'unità. Per la similitudine dei triangoli $\triangle APH$ e 
 $\triangle ABC$, possiamo anche scrivere la proporzione
 $BC :   AC = PH :   AH$, da cui:
 $$
 \dfrac{BC}{AC} = \dfrac{\sin \alpha}{\cos \alpha} = \tan \alpha
 $$
-Scritta nella forma $a = b \cdot \tan \alpha$ ci dice che:
+Scritta nella forma $a = b \cdot \tan \alpha$ ci dice che:
 
 In un triangolo rettangolo la misura di un cateto è uguale a quella dell’altro cateto moltiplicata per la tangente dell’angolo opposto al primo cateto.
 $$
@@ -426,20 +431,98 @@ $$
 $$
 
 
-### ESERCIZIO 4.1 - Risoluzione di Triangoli
 
-Risolvere un triangolo rettangolo significa determinare le misure dei suoi lati e dei suoi angoli conoscendo almeno un lato e un altro dei suoi elementi.
+### La Risoluzione dei Triangoli Rettangoli
+
+Risolvere un triangolo rettangolo significa determinare le misure dei suoi lati e dei suoi angoli conoscendo almeno un lato e un altro dei suoi elementi (cioè, un angolo o un altro lato).
+
+Esaminiamo quattro casi: due casi in cui si conoscono due lati e due casi in cui si conoscono un lato e un angolo.
 
 <img src="img/risoluzione-triangoli.png" alt="risoluzione-triangoli" style="zoom:80%;" />
 
-a) Risolvi il triangolo $\triangle ABC$, rettangolo in $A$, conoscendo gli elementi indicati.
+a) Sono noti i due cateti.
+
+Conoscendo $a$ e $b$, vogliamo determinare $\alpha$, $\beta$ e $c$.
+
+$\tan \alpha = \dfrac{a}{b}$,   $\alpha = \arctan \dfrac{a}{b}$,   $\beta = 90^\circ - \alpha$,   $c = \sqrt{a^2 + b^2}$ per il teorema di Pitagora.
+
+
+
+b) Conoscendo $a$ e $c$, vogliamo determinare $\alpha$, $\beta$ e $b$.
+
+$\sin \alpha = \dfrac{a}{c}$,   $\alpha = \arcsin \dfrac{a}{c}$,   $\beta = 90^\circ - \alpha$,   $b = \sqrt{c^2 - a^2}$ per il teorema di Pitagora.
+
+
+
+c) Conoscendo $a$ e $\alpha$, vogliamo determinare $\beta$, $b$ e $c$.
+
+ $\beta = 90^\circ - \alpha$,     $b = a \tan \beta$,   $\alpha = \arcsin \dfrac{a}{c}$,  ,   $c = \sqrt{a^2 - b^2}$.
+
+
+
+d) Conoscendo $c$ ed $\alpha$, vogliamo determinare $\beta$, $a$ e $b$.
+
+$\beta = 90^\circ - \alpha$,     $a = c \sin \alpha$,   $b = c \sin \beta$.
+
+
+
+### Area di un Triangolo
+
+L'area di un triangolo si può calcolare conoscendo due lati e l'angolo in essi compreso, ed è uguale alla metà del prodotto tra i due lati ed il seno dell'angolo compreso. Se indichiamo con $S$ l'area, $a$ e $b$ i due lati ed $\alpha$ l'angolo compreso abbiamo:
+$$
+S = \dfrac{1}{2}bc\sin \alpha
+$$
+<img src="img/Area-Triangolo-1.png" alt="Area-Triangolo-1" style="zoom:80%;" />
+
+
+
+Per dimostrarlo facciamo i due casi di $\alpha$ acuto ed ottuso.
+
+<img src="img/Area-Triangolo-2.png" style="zoom: 80%;" />
+
+Nel primo caso l'altezza $\overline{CH} = b\sin \alpha$ e nel secondo $\overline{CH} = b\sin (\pi - \alpha) = b \sin \alpha$. In entrambi i casi l'area $S$ è data da base per altezza diviso $2$, ossia $S = \dfrac{1}{2} \cdot \overline{AB} \cdot \overline{CH}$ che è la formula cercata.
+
+
+
+### ESERCIZIO 4.1 - Risoluzione di Triangoli Rettangoli
+
+Considera il triangolo $\triangle ABC$ seguente, rettangolo in $A$.
+
+
 
 <img src="img/Triangolo-Rettangolo.png" alt="Triangolo-Rettangolo" style="zoom:80%;" />
 
-1. un cateto è lungo $10$ cm e l’ipotenusa $26$ cm;
-2. i due cateti sono lunghi $30$ cm e $40$ cm;
-3. $b = 15$;    $a = $;    $\gamma = 60^\circ$; 
-4. $b = 15$;    $\gamma = 30^\circ$.
+
+
+a) Risolvilo conoscendo gli elementi indicati di sotto:
+
+1. un cateto è lungo $10\; cm$ e l’ipotenusa $26\; cm$;
+2. i due cateti sono lunghi $30\; cm$ e $40\; cm$;
+3. $b = 15$;    $\gamma = 30^\circ$;
+4. $a = 48$;    $b = 24$;
+5. $c = 10$;    $\gamma = 60^\circ$.
+
+b) Risolvilo conoscendo gli elementi indicati di sotto:
+
+1. $b = 12$;    $\beta = \dfrac{\pi}{3}$;
+2. $a = 40$;    $\gamma = 60^\circ$;
+3. $b = 14$;    $\gamma = \arccos \dfrac{2}{3}$.
+
+
+
+### ESERCIZIO 4.2 - Risoluzione di Triangoli
+
+a) Considera il triangolo $\triangle ABC$ seguente. Determina i lati e gli angoli incogniti avendo gli elementi indicati. 
+
+<img src="img/Triangolo-Es.4.2.png" alt="Triangolo-Es.4.2" style="zoom:80%;" />
+
+1. $\alpha = 30^\circ$;    $\beta = 45^\circ$;    $\overline{CH} = 12$;		$R: \left[24;\; 12\sqrt{2};\; 12(\sqrt{3} + 1);\; 105^\circ\right]$
+2. $\overline{CH} = 8$;    $\overline{AH} = 6$;    $\beta = 30^\circ$;		$R: \left[2(3 + 4\sqrt{3});\; 16;\; 10;\; \arcsin \dfrac{4}{5};\; \arcsin \dfrac{3 + 4\sqrt{3}}{10}\right]$
+
+b) In un triangolo rettangolo un cateto è lungo $10\; cm$ e l’angolo opposto a esso è di $40\; cm$. Trova il perimetro del 
+triangolo		$R: [37,47\; cm]$
+
+c) Nel triangolo rettangolo $\triangle ABC$ la lunghezza dell’ipotenusa $BC$ è $41\; cm$ e la tangente dell’angolo $\hat B$ è $\dfrac{40}{9}$. Determina il perimetro e l’area del triangolo.		$R: [90\; cm;\; 180\; cm^2]$
 
 
 
