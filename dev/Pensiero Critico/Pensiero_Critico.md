@@ -26,7 +26,7 @@ Cos'è quindi in sintesi il pensiero critico?
 
 >$\triangle$ Con "pensiero critico" si intende <u>l'utilizzo del ragionamento e della razionalità</u> nelle comunicazioni con gli altri, scritte, orali, dirette o mediate, con lo scopo di ottenere:
 >
->- una migliore comprensione di ciò che stiamo ascoltando, discutendo o dicendo, della sua verità, falsità, utilità o dannosità;
+>- una migliore comprensione di ciò che stiamo leggendo, scrivendo o discutendo, della sua verità, falsità, utilità o dannosità;
 >- una maggiore capacità di risolvere i problemi che stiamo affrontando;
 >- una maggiore efficacia dalle decisioni che stiamo prendendo, sia in ambito personale che sociale o politico.
 >
@@ -49,17 +49,17 @@ Diciamo “supporre” perché, non tutte le affermazioni sono vere: alcune sono
 
 Quando qualcuno dice: "L'acqua della pasta bolle", ossia sta asserendo qualcosa, sta esprimendo una <u>convinzione</u>, cioè che l'acqua della pasta sta bollendo.
 
->$\triangle$ Una **convinzione** è un atteggiamento che assumiamo nei confronti di una proposizione: stiamo credendo in ciò che dice la proposizione, ossia la stiamo accettando come vera. 
+>$\triangle$ Una **convinzione** è un atteggiamento che assumiamo nei confronti di una proposizione: stiamo credendo in ciò che dice la proposizione, ossia la stiamo accettando come vera (indipendentemente se lo sia). Una convinzione è qualcosa che qualcuno pensa.
 
-L'asserzione è quindi una frase che pretende di essere vera, e la convinzione è un (nostro) atteggiamento nei confronti della sua verità. Ma cosa intendiamo per "<u>verità</u>" di una asserzione?
+L'asserzione è quindi una frase che pretende di essere vera, e la convinzione è un (nostro) atteggiamento nei confronti della sua verità. Noi possiamo essere ugualmente convinti sia verità note, come il fatto che Parigi sia la capitale della Francia, così come di stranezze tipo che la terra sia piatta. Ma cosa intendiamo per "<u>verità</u>" di una asserzione?
 
 >$\triangle$ Affermare una **verità**, ossia che una asserzione è vera, significa affermare che il suo contenuto corrisponde alla realtà del mondo.
 
-Asserzioni, convinzioni e verità sono internamente legate in questo modo. Soprattutto bisogna osservare che la verità di una frase è una caratteristica della frase, non delle persone che la pronunciano.
+Asserzioni, convinzioni e verità sono internamente legate in questo modo. Soprattutto bisogna osservare che la verità di una affermazione è una caratteristica della frase stessa, non delle persone che la pronunciano.
 
 #### ESEMPIO 1
 
-Elena dice, ed è convinta, che Novak Djokovic ha vinto il torneo di singolare maschile a Wimbledon nel 2018.
+Elena pensa che Novak Djokovic ha vinto il torneo di singolare maschile a Wimbledon nel 2018 e lo afferma.
 
 Cosa abbia fatto Djokovic attiene alla realtà e non alla affermazione di Elena o alle sue convinzioni. Se il suo amico Ruggero risponde dicendo "Si, è vero!", ciò che fa è affermare esattamente la stessa cosa che ha affermato Elena. È d'accordo con lei e l'affermazione di Ruggero sarà vera se Novak Djokovic ha vinto Wimbledon e falsa altrimenti, come quella di Elena.
 
@@ -67,14 +67,26 @@ In conclusione, la veridicità della proposizione "Novak Djokovic ha vinto il to
 
 
 
-> $\triangle$ Un **fatto** è una affermazione la cui verità può essere certificata attraverso l'esperienza, l'osservazione diretta, la sperimentazione o il confronto con prove concrete, ossia attraverso un metodo. 
+Veniamo ora alla differenza tra fatti ed opinioni.
 
-I fatti vengono normalmente contrapposti alle opinioni, che sono delle convinzioni "particolari":
+> $\triangle$ Un **fatto** è una affermazione la cui verità <u>può</u> (per definizione) essere certificata attraverso l'esperienza, l'osservazione diretta, la sperimentazione o il confronto con prove concrete, ossia attraverso un <u>metodo</u> condiviso. Un fatto viene anche detto una <u>affermazione oggettiva</u>, ossia la cui verità o falsità non dipende dalle convinzioni delle persone sulla sua verità o falsità.
+
+Tra i metodi per accertare un fatto sono importanti le testimonianze dirette, ad esempio oculari di persone che hanno visto o vissuto eventi come incidenti,
+crimini e disastri in prima persona o che hanno vissuto eventi storici. Le testimonianze personali forniscono prove preziose, ma non sono sempre accurate o possibili. I protagonisti possono sbagliare o non ricordare per cui di solito è necessario reperire altre fonti di informazione che corroborino le testimonianze dirette come:
+
+• documenti ufficiali dell'epoca, articoli di giornale, verbali di polizia, rapporti dei servizi sociali o atti giudiziari;
+
+• altre testimonianze;
+
+• filmati degli eventi o fotografie scattate durante gli eventi.
+
+Per introdurre le opinioni osserviamo che non tutte le frasi dichiarative esprimono un'affermazione oggettiva. "Bruno Mars ha stile" non è una affermazione oggettiva. In altre parole, il fatto che qualcuno abbia o meno "stile" dipende da cosa pensa chi fa l'affermazione.
+Se nessuno pensa che Bruno Mars abbia "stile", allora non ce l'ha. Se Elena pensa che ce l'abbia e Ruggero no, diremo che Elena e Ruggero hanno entrambi diritto alla propria opinione.
+
+Il fatto che qualcuno abbia "stile" è un giudizio soggettivo e la veridicità o la falsità di un giudizio soggettivo dipende dalla convinzione di chi lo dice: in altre parole, per dire che un tuo giudizio soggettivo su qualcosa è vero basta che tu pensi che sia vero, ossia è una opinione.
 
 
->$\triangle$ Una **opinione** è una convinzione che non si basa su prove o evidenze sostanziali. Un'opinione può essere un punto di vista personale o essere condivisa da un gran numero di persone, anche se contraria alle prove.
-
-
+>$\triangle$ Una **opinione** è una convinzione che non si basa su prove o evidenze sostanziali. Un'opinione può essere un giudizio, una valutazione, un punto di vista su un evento. Può essere limitata a poche persone o estesa a tanti, ed è vera se chi ha quel giudizio o valutazione pensa che il contenuto del giudizio o valutazione sia vero.
 
 #### ESEMPIO 2
 
@@ -84,9 +96,9 @@ John: "Il maggiordomo è rimasto in casa tutta la notte. Il padrone di casa è s
 
 Mary: "Io non credo".
 
-Sia John che Mary stanno esprimendo la loro opinione su dei fatti che sono successi.
+Sia John che Mary stanno esprimendo la loro opinione sulla colpevolezza di un individuo a seguito di qualcosa che è successo, ossia pensano che "Il maggiordomo ha ucciso il padrone di casa" sia vero.
 
-Con l'aumentare delle conoscenze in un determinato ambito, le opinioni delle persone su qualcosa possono diventare fatti (ad esempio potrebbero emergere evidenze che ad uccidere il padrone di casa sia stato il maggiordomo) e viceversa cosa sia considerato un fatto può essere smentito.    $\bullet$
+Con l'aumentare delle conoscenze in un determinato ambito, alcune opinioni delle persone su certi eventi possono diventare fatti (ad esempio potrebbero emergere evidenze che ad uccidere il padrone di casa sia stato il maggiordomo) e viceversa qualcosa che è stato considerato un fatto può essere smentito.    $\bullet$
 
 
 
@@ -112,7 +124,7 @@ Un esempio classico di discorso retorico potente, efficace e rimasto nella stori
 
 
 
-Nel pensiero critico è essenziale saper distinguere i tentativi di persuasione retorici da quelli argomentativi. Argomentare significa presentare <u>ragioni</u> a sostegno della propria posizione o punto di vista. Particolarmente su argomenti tecnici, l'accettazione delle ragioni rende più efficace la persuasione ad accettare il proprio punto di vista.
+Nel pensiero critico è essenziale saper distinguere i tentativi di persuasione retorici da quelli argomentativi per poterli analizzare. Argomentare significa presentare <u>ragioni</u> a sostegno della propria posizione o punto di vista. Particolarmente su argomenti tecnici, l'accettazione delle ragioni rende più efficace la persuasione ad accettare il proprio punto di vista.
 
 
 
@@ -188,22 +200,6 @@ velocemente.
 
 
 
-### Argomentare a vantaggio di chi?
-
-Nella maggior parte dei casi, chiunque argomenti mira a persuaderci ad adottare un particolare punto di vista perché crede in ciò che afferma, ossia è <u>convinto della verità</u> del suo punto di vista. In alcuni casi, però chi argomenta potrebbe avere un <u>interesse personale</u>, evidente o nascosto, estraneo alla propria buona fede sull'argomento.
-
-Gli esempi vanno da colui che potrebbe lavorare per un'azienda che desidera che il pubblico acquisti i suoi prodotti o aderisca a una particolare visione sulla salute, sull'inquinamento o sulla genetica, all'influencer dei social media che riceve dei compensi dalle aziende per la promozione dei loro prodotti o delle loro opinioni. 
-
-Anche le argomentazioni degli esperti potrebbero essere condizionate da rivalità reciproche di lunga data, magari dovute alla loro appartenenza a diverse scuole di pensiero. 
-
-Per analizzare criticamente ciò che ci viene proposto e quindi capire se l'accettazione del punto di vista va anche <u>a nostro interesse o solo a quello del nostro interlocutore</u>, è essenziale ricostruire chiaramente le argomentazioni che ci vengono proposte attraverso un processo in tre fasi.
-
-1. La prima è capire <u>se viene presentata una argomentazione</u>. Si deve identificare la questione in discussione e determinare se chi scrive o parla sta cercando di persuadere per mezzo di un argomentazione, ovvero se sta cercando di fornire delle ragioni, o no.
-2. Una volta stabilito che si sta presentando una argomentazione, si passa alla sua ricostruzione in modo da <u>esprimerla chiaramente</u> e dimostrare in modo chiaro i passaggi e la forma del ragionamento.
-3. Una ricostruzione chiara rende molto più semplice la terza e ultima fase che è la <u>valutazione dell'argomentazione</u>, per stabilire se l'argomentazione è convincente, se ci possiamo fidare delle conclusioni, se quello che dice è utile o no e così via.
-
-
-
 ### ESERCIZIO 1.1 - Identificazione delle argomentazioni
 
 Identifica quali tra i brani seguenti sono argomentazioni e quali no e perché.
@@ -268,12 +264,6 @@ agli ecosistemi costieri
 di ogni continente";
 
 c) punto: "È importante che le donne in gravidanza e coloro che hanno un sistema immunitario debole siano consapevoli dei potenziali rischi posti dai gatti".
-
-
-
-
-
-
 
 
 
