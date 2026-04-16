@@ -358,25 +358,25 @@ Come si vede l'altezza dell'intersezione con l'asse verticale è la stessa.    $
 
 #### Significato Geometrico di m
 
-Il coefficiente angolare determina la pendenza della retta rispetto all'asse orizzontale, che è in piano, cioè non ha pendenza.
+Il coefficiente angolare di una retta determina la pendenza della retta rispetto all'asse orizzontale, che non ha pendenza.
 
-Pensiamo alla retta come ad una strada su cui camminiamo, in salita come nel caso della figura di sotto. Mentre camminiamo dalla posizione $P_1$ a quella $P_2$, ci spostiamo contemporaneamente sia verso l'alto che verso destra. Lo spostamento verticale, verso l'alto, lo chiamiamo ***dislivello***, quello in orizzontale, verso destra, semplicemente ***spostamento***. 
+Pensiamo alla retta come ad una strada su cui camminiamo, in salita come nel caso della figura di sotto. Mentre camminiamo dalla posizione $P_1$ a quella $P_2$, ci spostiamo contemporaneamente sia verso l'alto che verso destra. Lo spostamento verticale, verso l'alto, lo chiamiamo ***dislivello***, quello in orizzontale, verso destra, semplicemente ***avanzamento***. 
 
-Il dislivello è calcolato dalla differenza delle altezze dei due punti, cioè $y_2 - y_1$ e lo spostamento (orizzontale) dalla differenza delle due posizioni $x_2 - x_1$.
+Il dislivello è calcolato dalla differenza delle altezze dei due punti, cioè $y_2 - y_1$ e l'avanzamento (orizzontale) dalla differenza delle due posizioni $x_2 - x_1$.
 
 <img src="img/Pendenza-rapporto-1.png" alt="q" style="zoom: 80%;" />
 
-La pendenza della strada si misura facendo il rapporto tra il dislivello e lo spostamento cioè $\dfrac{y_2 - y_1}{x_2 - x_1}$ che è proprio l'espressione che ci dà il coefficiente angolare $m$ della retta:
+La pendenza della strada si misura facendo il rapporto tra il dislivello e l'avanzamento cioè $\dfrac{y_2 - y_1}{x_2 - x_1}$ che è proprio l'espressione che ci dà il coefficiente angolare $m$ della retta:
 
 $$
 m = \dfrac{y_2 - y_1}{x_2 - x_1} \\
 $$
 
-Se una retta è meno pendente vuol dire che a parità di spostamento orizzontale, il dislivello verticale che si avrà facendo la salita sarà inferiore, come si vede dalla figura seguente sulla retta rossa dove la pendenza è la metà di quella della retta nera.
+Se una retta è meno pendente vuol dire che a parità di avanzamento orizzontale, il dislivello verticale che si avrà facendo la salita sarà inferiore, come si vede dalla figura seguente sulla retta rossa dove la pendenza è la metà di quella della retta nera.
 
 <img src="img/Pendenza-rapporto-2.png" alt="q" style="zoom: 80%;" />
 
-Presi due punti, poichè $x_2 - x_1$ è sempre positivo, se $y_2 - y_1$ è positivo, la retta è inclinata verso l'alto ed $m$ è positivo. Se invece $y_2 + y_1$ è negativo, la retta è inclinata verso il basso ed $m$ è negativo. Se è pari a zero la retta è orizzontale e conseguentemente $m$ è pari a zero.
+Presi due punti, poichè $x_2 - x_1$ è sempre positivo, se $y_2 - y_1$ è positivo, la retta è inclinata verso l'alto ed $m$ è positivo. Se invece $y_2 - y_1$ è negativo, la retta è inclinata verso il basso ed $m$ è negativo. Se è pari a zero la retta è orizzontale e conseguentemente $m$ è pari a zero.
 
 
 

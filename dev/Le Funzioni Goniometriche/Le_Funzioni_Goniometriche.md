@@ -348,6 +348,32 @@ $$
 
 ![rette-parallele](img/rette-parallele.png)
 
+
+
+### Significato geometrico del coefficiente angolare di una retta
+
+Il coefficiente angolare di una retta determina la pendenza della retta rispetto all'asse orizzontale, che non ha pendenza.
+
+Pensiamo alla retta come ad una strada su cui camminiamo, in salita come nel caso della figura di sotto. Mentre camminiamo dalla posizione $P_1$ a quella $P_2$, ci spostiamo contemporaneamente sia verso l'alto che verso destra. Lo spostamento verticale, verso l'alto, lo chiamiamo ***dislivello***, quello in orizzontale, verso destra, semplicemente ***avanzamento***. 
+
+Il dislivello è calcolato dalla differenza delle altezze dei due punti, cioè $y_2 - y_1$ e l'avanzamento (orizzontale) dalla differenza delle due posizioni $x_2 - x_1$.
+
+<img src="img/Pendenza-rapporto-1.png" alt="q" style="zoom: 80%;" />
+
+La pendenza della strada si misura facendo il rapporto tra il dislivello e l'avanzamento cioè $\dfrac{y_2 - y_1}{x_2 - x_1}$ che è proprio l'espressione che ci dà il coefficiente angolare $m$ della retta:
+
+$$
+m = \dfrac{y_2 - y_1}{x_2 - x_1} \\
+$$
+
+Se una retta è meno pendente vuol dire che a parità di avanzamento orizzontale, il dislivello verticale che si avrà facendo la salita sarà inferiore, come si vede dalla figura seguente sulla retta rossa dove la pendenza è la metà di quella della retta nera.
+
+<img src="img/Pendenza-rapporto-2.png" alt="q" style="zoom: 80%;" />
+
+Presi due punti, poichè $x_2 - x_1$ è sempre positivo, se $y_2 - y_1$ è positivo, la retta è inclinata verso l'alto ed $m$ è positivo. Se invece $y_2 - y_1$ è negativo, la retta è inclinata verso il basso ed $m$ è negativo. Se è pari a zero la retta è orizzontale e conseguentemente $m$ è pari a zero.
+
+
+
 ### Le funzioni inverse di sin x e cos x
 
 Una funzione è invertibile, ossia ammette la funzione inversa, solo se è biiettiva. 
@@ -381,6 +407,52 @@ quindi invertibile.
 La funzione inversa della tangente si chiama arcotangente; ha come dominio tutto l'asse reale e codominio l'intervallo $\left(-\dfrac{\pi}{2}; \dfrac{\pi}{2}\right)$. Il grafico è riportato nella figura seguente.
 
 <img src="img/arcotangente.png" alt="arcotangente" style="zoom:67%;" />
+
+
+
+### ESERCIZIO 3.1 - Le funzioni inverse
+
+a) Calcola il valore delle seguenti espressioni:
+
+1. $\arccos \left(-\dfrac{\sqrt 2}{2}\right)$;    $\arcsin \dfrac{\sqrt 3}{2}$;
+2. $\arctan (-1) + \arcsin \dfrac{1}{2} -\arctan \dfrac{\sqrt 3}{3}$;
+3. $\tan \left(\arccos \dfrac{1}{2} \right)$.
+
+b)  Risolvi le seguenti equazioni:
+
+1. $4 \arctan x = \pi$;
+2. $\arctan x = \arcsin \left(-\dfrac{1}{2}\right)$.
+
+
+
+### ESERCIZIO 3.2 - Pendenza di una linea
+
+a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione $3x + 4y = 12$.
+
+b) Scrivi l'equazione della retta che passa per il punto $(0;-2)$ ed ha pendenza $\dfrac{1}{3}$.
+
+c) Nella figura seguente la salita ha una pendenza del $17\%$. Se in un minuto l'autocarro percorre $500$ metri di strada, di quanti metri sarà salito?
+
+![pendenza](img/pendenza.png)
+
+d) Un auto viaggia da Napoli a Roma percorrendo circa $250\; Km$ in $3$ ore e $10$ minuti con una velocità costante. Indicando con $t$ il tempo, misurato in ore, trascorso dall'inizio del viaggio e con $s$ lo spazio in $Km$ percorso:
+
+1. scrivi la formula che calcola lo spazio $s$ percorso dopo $t$ ore; 
+2. riporta in un piano cartesiano con il tempo sull'asse orizzontale e lo spazio su quello verticale, il grafico dell'equazione trovata. Quale è il significato fisico del coefficiente angolare della retta?
+
+
+
+### ESERCIZIO 3.3 - Dominio di funzioni
+
+a) Determina il dominio delle funzioni riportate di seguito.
+
+1. $y = \arcsin (2x + 1)$;		$R: \left[[-1;0]\right]$
+2. $y = \arctan \dfrac{1}{x}$.		$R: \left[(-\infty; 0) \cup (0; +\infty)\right]$
+
+b) Determina il dominio delle funzioni riportate di seguito.
+
+1. $y = \dfrac{1}{\arcsin \sqrt x}$;		$R: \left[(0;1]\right]$
+2. $y = \arctan \dfrac{x + 1}{1 - x}$.		$R: \left[(-\infty; 0) \cup (0; +\infty)\right]$
 
 
 
@@ -468,7 +540,7 @@ $\beta = 90^\circ - \alpha$,     $a = c \sin \alpha$,   $b = c \sin \beta$.
 
 ### Area di un Triangolo
 
-L'area di un triangolo si può calcolare conoscendo due lati e l'angolo in essi compreso, ed è uguale alla metà del prodotto tra i due lati ed il seno dell'angolo compreso. Se indichiamo con $S$ l'area, $a$ e $b$ i due lati ed $\alpha$ l'angolo compreso abbiamo:
+L'area di un triangolo si può calcolare conoscendo due lati e l'angolo in essi compreso, ed è uguale alla metà del prodotto tra i due lati ed il seno dell'angolo compreso. Se indichiamo con $S$ l'area, $a$ e $b$ i due lati ed $\alpha$ l'angolo compreso abbiamo:
 $$
 S = \dfrac{1}{2}bc\sin \alpha
 $$
@@ -476,7 +548,7 @@ $$
 
 
 
-Per dimostrarlo facciamo i due casi di $\alpha$ acuto ed ottuso.
+Per dimostrarlo facciamo i due casi di $\alpha$ acuto ed ottuso.
 
 <img src="img/Area-Triangolo-2.png" style="zoom: 80%;" />
 
@@ -486,7 +558,7 @@ Nel primo caso l'altezza $\overline{CH} = b\sin \alpha$ e nel secondo $\overline
 
 ### ESERCIZIO 4.1 - Risoluzione di Triangoli Rettangoli
 
-Considera il triangolo $\triangle ABC$ seguente, rettangolo in $A$.
+Considera il triangolo $\triangle ABC$ seguente, rettangolo in $A$.
 
 
 
@@ -496,8 +568,8 @@ Considera il triangolo $\triangle ABC$ seguente, rettangolo in $A$.
 
 a) Risolvilo conoscendo gli elementi indicati di sotto:
 
-1. un cateto è lungo $10\; cm$ e l’ipotenusa $26\; cm$;
-2. i due cateti sono lunghi $30\; cm$ e $40\; cm$;
+1. un cateto è lungo $10\; cm$ e l’ipotenusa $26\; cm$;
+2. i due cateti sono lunghi $30\; cm$ e $40\; cm$;
 3. $b = 15$;    $\gamma = 30^\circ$;
 4. $a = 48$;    $b = 24$;
 5. $c = 10$;    $\gamma = 60^\circ$.
