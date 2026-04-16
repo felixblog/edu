@@ -14,14 +14,12 @@ Le unità di misura più usate per misurare gli angoli sono il grado (sessagesim
 
 ### La misura in gradi
 
-Nel sistema cosiddetto "sessagesimale", l’unità di misura degli angoli è il grado (sessagesimale),
-definito come quell'angolo pari alla 360-esima parte dell’angolo giro.
+Nel sistema cosiddetto "sessagesimale", l’unità di misura degli angoli è il grado (sessagesimale), definito come quell'angolo pari alla 360-esima parte dell’angolo giro.
 Il grado sessagesimale viene indicato con un piccolo cerchio in alto a destra della misura:
 $$
 1^\circ = \dfrac{1}{360} \cdot \text{Angolo Giro}
 $$
-Il grado viene suddiviso a sua volta in $60$ primi, che 
-vengono indicati con un apice: $1^\circ = 60'$.
+Il grado viene suddiviso a sua volta in $60$ primi, che vengono indicati con un apice: $1^\circ = 60'$.
 Ogni primo viene suddiviso a sua volta in $60$ secondi, indicati con due apici: $1' = 60''$.
 
 Dalla formula precedente risulta quindi che un angolo giro, in gradi, misura $360$.
@@ -67,10 +65,7 @@ La definizione di angolo già data, come parte di piano, non è adatta per descr
 La rotazione è univoca solo quando ne viene specificato il verso, orario o antiorario e normalmente il senso adottato è quello antiorario.
 
 Un angolo si dice **orientato** quando si è scelto uno dei due lati come lato di origine e un senso di rotazione. 
-Un angolo orientato sarà **positivo**
-quando è descritto mediante una 
-rotazione in senso antiorario, **negativo** quando la rotazione 
-è in senso orario.
+Un angolo orientato sarà **positivo** quando è descritto mediante una rotazione in senso antiorario, **negativo** quando la rotazione è in senso orario.
 
 ![Angoli-Orientati](img/Angoli-Orientati.png)
 
@@ -92,13 +87,11 @@ $$
 
 ### La circonferenza goniometrica
 
-Per **circonferenza goniometrica** intendiamo la circonferenza che in un piano cartesiano ha come centro l’origine $O$ degli assi ed il raggio di lunghezza $1$, ossia la 
-circonferenza di equazione $x^2 + y^2 = 1$.
+Per **circonferenza goniometrica** intendiamo la circonferenza che in un piano cartesiano ha come centro l’origine $O$ degli assi ed il raggio di lunghezza $1$, ossia la circonferenza di equazione $x^2 + y^2 = 1$.
 
 ![Circonferenza-goniometrica](img/Circonferenza-goniometrica.png)
 
-Utilizzando la circonferenza goniometrica, si possono rappresentare gli angoli 
-orientati, prendendo come lato origine l’asse orizzontale delle $x$. In questo modo, ad ogni angolo corrisponde un punto di intersezione $B$ fra la circonferenza e il lato termine.
+Utilizzando la circonferenza goniometrica, si possono rappresentare gli angoli orientati, prendendo come lato origine l’asse orizzontale delle $x$. In questo modo, ad ogni angolo corrisponde un punto di intersezione $B$ fra la circonferenza e il lato termine.
 
 Ad esempio, gli angoli $\alpha_1 = \dfrac{\pi}{6}$, $\alpha_2 = \dfrac{5}{6}\pi$, $\alpha_3 = -\dfrac{\pi}{3}$ individuano sulla circonferenza i punti $B1$, $B2$ e $B3$.
 
@@ -113,8 +106,7 @@ a) Esprimi in gradi e decimali di grado le seguenti misure di angoli.
 1. $0^\circ \; 59^{'} \; 59^{''}$;     $0^\circ \; 30^{'}$;     $1^\circ \; 59^{'} \; 30^{''}$;		$R: \left[1^\circ;\; 0,5^\circ;\; 1,99^\circ;\right]$
 2. $2^\circ \; 40^{''}$;    $60^\circ \; 20^{'}$;    $92^\circ \; 20^{'} \; 36^{''}$.
 
-b) Esprimi in gradi, primi e secondi le seguenti misure di angoli, espresse in forma decimale (arrotondando 
-eventualmente i secondi).
+b) Esprimi in gradi, primi e secondi le seguenti misure di angoli, espresse in forma decimale (arrotondando eventualmente i secondi).
 
 1. $2,234^\circ$;    $22,52^\circ$;
 2. $90,5^\circ$;    $90,05^\circ$.
@@ -145,8 +137,7 @@ b) Disegna sul cerchio goniometrico i seguenti angoli, misurati in radianti: $\d
 
 ## Unità 2: Le funzioni seno e coseno
 
-Consideriamo la circonferenza goniometrica, un angolo orientato $\alpha$ ed il punto della circonferenza associato ad $\alpha$ che chiamiamo $B$. Definiamo coseno e seno dell’angolo $\alpha$, e le indichiamo con $\sin \alpha$ e $\cos \alpha$, le funzioni che associano ad $\alpha$ rispettivamente, il valore dell’ascissa $x_B$
-e quello dell’ordinata $y_B$ del punto $B$, ossia
+Consideriamo la circonferenza goniometrica, un angolo orientato $\alpha$ ed il punto della circonferenza associato ad $\alpha$ che chiamiamo $B$. Definiamo coseno e seno dell’angolo $\alpha$, e le indichiamo con $\sin \alpha$ e $\cos \alpha$, le funzioni che associano ad $\alpha$ rispettivamente, il valore dell’ascissa $x_B$ e quello dell’ordinata $y_B$ del punto $B$, ossia
 $$
 B=(x_B, y_B) \;\;\; \text{e} \;\;\; \sin \alpha = x_b, \;\; \cos \alpha = y_B
 $$
@@ -159,14 +150,11 @@ Seno e coseno di un angolo $\alpha$ sono funzioni che hanno come dominio $\mathb
 ### Variazioni delle funzioni seno e coseno
 
 Supponiamo che un punto $B$ percorra l’intera circonferenza goniometrica, a partire da $E$, in verso antiorario. 
-Se $\alpha = \widehat{EOB}$, come variano $\sin \alpha$ e $\cos \alpha$ al variare della posizione di $B$? Basta 
-osservare che cosa succede all’ascissa di $B$ (ossia il coseno) e alla sua ordinata 
-(ossia il seno).
+Se $\alpha = \widehat{EOB}$, come variano $\sin \alpha$ e $\cos \alpha$ al variare della posizione di $B$? Basta osservare che cosa succede all’ascissa di $B$ (ossia il coseno) e alla sua ordinata (ossia il seno).
 
 ![Variazioni-seno-coseno](img/Variazioni-seno-coseno.png)
 
-Qualunque sia la posizione di $B$ sulla circonferenza, la sua ordinata e la sua ascissa 
-assumono sempre valori compresi fra $-1$ e $1$, quindi:
+Qualunque sia la posizione di $B$ sulla circonferenza, la sua ordinata e la sua ascissa assumono sempre valori compresi fra $-1$ e $1$, quindi:
 $-1 \le \sin \alpha \le 1$ e $-1 \le \cos \alpha \le 1$.
 Il codominio delle funzioni seno e coseno è quindi $[-1; 1]$.
 
@@ -194,8 +182,7 @@ La tabella seguente riassume più chiaramente i valori delle funzioni seno e cos
 
 ### Il periodo delle funzioni seno e coseno
 
-Dopo aver percorso un giro completo, il punto $B$ sulla circonferenza goniometrica può ripetere lo stesso movimento altre volte e le funzioni seno e coseno assumono di nuovo gli stessi valori ottenuti al "primo 
-giro":
+Dopo aver percorso un giro completo, il punto $B$ sulla circonferenza goniometrica può ripetere lo stesso movimento altre volte e le funzioni seno e coseno assumono di nuovo gli stessi valori ottenuti al "primo giro":
 
 $\sin \alpha = \sin (\alpha + 2\pi) = \sin (\alpha - 2\pi) = \sin (\alpha + 4\pi) = \sin (\alpha - 4\pi)  \; ...$  
 
@@ -258,8 +245,7 @@ $$
 
 ### ESERCIZIO 2.3 - Grafico delle funzioni goniometriche
 
-Disegna il grafico di $y = \sin x$ nell'intervallo $\left[-\dfrac{5}{2}\pi;\; \dfrac{7}{2}\pi\right]$ Trova i punti di intersezione della funzione
-con l’asse $x$ e calcola le ordinate dei punti di ascissa $x = -\dfrac{3}{2}\pi,\; x = -\pi,\; x = 0,\; x = \dfrac{\pi}{2},\; x = \dfrac{7}{2}\pi.$ Determina i valori di $x$ per cui $\sin x = -1$.
+Disegna il grafico di $y = \sin x$ nell'intervallo $\left[-\dfrac{5}{2}\pi;\; \dfrac{7}{2}\pi\right]$ Trova i punti di intersezione della funzione con l’asse $x$ e calcola le ordinate dei punti di ascissa $x = -\dfrac{3}{2}\pi,\; x = -\pi,\; x = 0,\; x = \dfrac{\pi}{2},\; x = \dfrac{7}{2}\pi.$ Determina i valori di $x$ per cui $\sin x = -1$.
 
 
 
@@ -275,13 +261,13 @@ b) $4 - 4 \sin^2 \alpha + (cos \alpha - \sin \alpha)^2 + 2 \cos \alpha(\sin \alp
 
 ## Unità 3: La funzione Tangente e le funzioni inverse
 
-Consideriamo un angolo orientato $\alpha$ sulla circonferenza goniometrica, come in figura. Chiamiamo come al solito $B$ l’intersezione fra il lato termine e la circonferenza di centro $O$. Si definisce tangente di $\alpha$ la funzione che associa al $\alpha$ il rapporto, quando esiste, fra l’ordinata e l’ascissa del punto $B$.
+Consideriamo la circonferenza goniometrica, un angolo orientato $\alpha$ ed il punto della circonferenza associato ad $\alpha$ che chiamiamo $B$. Si definisce tangente di $\alpha$ la funzione che associa al $\alpha$ il rapporto fra l’ordinata e l’ascissa del punto $B$, quando esiste.
 $$
 \tan \alpha = \dfrac{y_B}{x_B}
 $$
 ![Tangente](img/Tangente.png)
 
-Il rapporto  non esiste quando $x_B = 0$ ossia per $\alpha = \dfrac{\pi}{2} + k\pi, \;\; k \in \mathbb{Z}$. Il dominio della funzione tangente è quindi $\{\alpha \in \mathbb{R}: \alpha \ne \dfrac{\pi}{2} + k\pi, \;\; k \in \mathbb{Z} \}$.
+Il rapporto non esiste quando $x_B = 0$ ossia per $\alpha = \dfrac{\pi}{2} + k\pi, \;\; k \in \mathbb{Z}$. Il dominio della funzione tangente è quindi $\{\alpha \in \mathbb{R}: \alpha \ne \dfrac{\pi}{2} + k\pi, \;\; k \in \mathbb{Z} \}$.
 
 Poiché $y_B = \sin \alpha$ e $x_B = \cos \alpha$ abbiamo la relazione fondamentale:
 $$
@@ -291,11 +277,9 @@ $$
 
 ### Un altro modo di definire la tangente
 
-Consideriamo la circonferenza goniometrica e la retta tangente a essa nel punto
-$E$, origine degli archi.
-Il prolungamento del lato termine $OB$ interseca la retta tangente nel punto $T$, come riportato in figura.
-La tangente dell’angolo $\alpha$ può anche essere definita come il valore dell’ordinata 
-del punto $T$, ossia:
+Consideriamo la circonferenza goniometrica e la retta tangente ad essa nel punto $E$, origine degli archi.
+Il prolungamento del lato $OB$ interseca la retta tangente nel punto $T$, come riportato in figura.
+La tangente dell’angolo $\alpha$ può anche essere definita come il valore dell’ordinata del punto $T$, ossia:
 $\tan \alpha = y_T$.
 
 
@@ -312,9 +296,7 @@ L'equivalenza della definizione deriva dal fatto che i triangoli $\triangle{TOE}
 
 ![Grafico-tangente](img/Grafico-tangente.png)
 
-Analogamente a quanto fatto per le funzioni seno e coseno, tracciamo il grafico della funzione $y = tan\; x$ nell’intervallo $[0; \pi]$, riportando 
-sull’asse $x$ i valori degli angoli e sull’asse $y$ le ordinate dei punti corrispondenti 
-sulla retta tangente alla circonferenza goniometrica.
+Analogamente a quanto fatto per le funzioni seno e coseno, tracciamo il grafico della funzione $y = tan\; x$ nell’intervallo $[0; \pi]$, riportando sull’asse $x$ i valori degli angoli e sull’asse $y$ le ordinate dei punti corrispondenti sulla retta tangente alla circonferenza goniometrica.
 
 Il valore $\dfrac{\pi}{2}$ è critico perché se la $x$ vi si avvicina da sinistra (restando minore) il valore della $y$ tende a diventare sempre più grande ossia tende a $+\infty$, se si avvicina da destra (restando maggiore), il valore della funzione tende a $-\infty$.
 
@@ -336,8 +318,6 @@ Analogamente a quanto fatto per il seno e coseno, possiamo riassumere nella tabe
 
 Tracciamo la circonferenza goniometrica e la retta generica passante per l'origine di equazione $y = mx$, da cui $m = \dfrac{y}{x}$ per ogni punto della retta di coordinate $(x, y)$. 
 
-
-
 ![coeff-angolare](img/coeff-angolare.png)
 
 In particolare, se $x = 1$ ed $y = \tan \alpha$ abbiamo che 
@@ -352,9 +332,9 @@ $$
 
 ### Significato geometrico del coefficiente angolare di una retta
 
-Il coefficiente angolare di una retta determina la pendenza della retta rispetto all'asse orizzontale, che non ha pendenza.
+Come sappiamo dalla geometria analitica, il coefficiente angolare di una retta determina la ***pendenza*** della retta rispetto all'asse orizzontale delle ascisse.
 
-Pensiamo alla retta come ad una strada su cui camminiamo, in salita come nel caso della figura di sotto. Mentre camminiamo dalla posizione $P_1$ a quella $P_2$, ci spostiamo contemporaneamente sia verso l'alto che verso destra. Lo spostamento verticale, verso l'alto, lo chiamiamo ***dislivello***, quello in orizzontale, verso destra, semplicemente ***avanzamento***. 
+Pensiamo alla retta come ad una strada su cui camminiamo, in salita come nel caso della figura di sotto. Mentre camminiamo dalla posizione $P_1$ a quella $P_2$, ci spostiamo contemporaneamente sia verso l'alto che verso destra. Lo spostamento verticale, verso l'alto, lo chiamiamo ***dislivello***, quello in orizzontale, verso destra, ***avanzamento***. 
 
 Il dislivello è calcolato dalla differenza delle altezze dei due punti, cioè $y_2 - y_1$ e l'avanzamento (orizzontale) dalla differenza delle due posizioni $x_2 - x_1$.
 
@@ -401,8 +381,7 @@ Il coseno è invertibile nell'intervallo $[0; \pi]$ per cui la funzione inversa 
 
 ### La funzione inversa di tan x
 
-Se consideriamo l'intervallo $\left(-\dfrac{\pi}{2}; \dfrac{\pi}{2}\right)$ come dominio, la funzione tangente è biunivoca e
-quindi invertibile.
+Se consideriamo l'intervallo $\left(-\dfrac{\pi}{2}; \dfrac{\pi}{2}\right)$ come dominio, la funzione tangente è biunivoca e quindi invertibile.
 
 La funzione inversa della tangente si chiama arcotangente; ha come dominio tutto l'asse reale e codominio l'intervallo $\left(-\dfrac{\pi}{2}; \dfrac{\pi}{2}\right)$. Il grafico è riportato nella figura seguente.
 
@@ -460,8 +439,7 @@ b) Determina il dominio delle funzioni riportate di seguito.
 
 Finora ci siamo occupati di goniometria, ossia della misurazione degli angoli e delle funzioni associate a essi. Ora tratteremo la trigonometria, che studia le relazioni metriche fra i lati e gli angoli di un triangolo.
 
-Disegniamo un triangolo rettangolo $\triangle ABC$, con l’angolo retto in $\widehat C$, come in figura, ed analizziamo le misure dei lati e degli angoli.
-Tracciamo la circonferenza goniometrica con centro $A$.
+Disegniamo un triangolo rettangolo $\triangle ABC$, con l’angolo retto in $\widehat C$, come in figura, ed analizziamo le misure dei lati e degli angoli. Tracciamo la circonferenza goniometrica con centro $A$.
 
 <img src="img/trig-1.png" alt="trig-1" style="zoom: 80%;" />
 
@@ -489,9 +467,7 @@ $$
 \text{cateto = ipotenusa * coseno dell’angolo acuto adiacente}
 $$
 
-Consideriamo nuovamente la figura b all'inizio dell'unità. Per la similitudine dei triangoli $\triangle APH$ e 
-$\triangle ABC$, possiamo anche scrivere la proporzione
-$BC :   AC = PH :   AH$, da cui:
+Consideriamo nuovamente la figura b all'inizio dell'unità. Per la similitudine dei triangoli $\triangle APH$ e $\triangle ABC$, possiamo anche scrivere la proporzione $BC :   AC = PH :   AH$, da cui:
 $$
 \dfrac{BC}{AC} = \dfrac{\sin \alpha}{\cos \alpha} = \tan \alpha
 $$
