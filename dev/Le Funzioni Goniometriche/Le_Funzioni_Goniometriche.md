@@ -64,8 +64,7 @@ La definizione di angolo già data, come parte di piano, non è adatta per descr
 È più utile quindi collegare il concetto di angolo a quello di **rotazione**, cioè al movimento che porta uno dei lati dell’angolo a sovrapporsi all’altro.
 La rotazione è univoca solo quando ne viene specificato il verso, orario o antiorario e normalmente il senso adottato è quello antiorario.
 
-Un angolo si dice **orientato** quando si è scelto uno dei due lati come lato di origine e un senso di rotazione. 
-Un angolo orientato sarà **positivo** quando è descritto mediante una rotazione in senso antiorario, **negativo** quando la rotazione è in senso orario.
+Un angolo si dice **orientato** quando si è scelto uno dei due lati come lato di origine e un senso di rotazione. Un angolo orientato sarà **positivo** quando è descritto mediante una rotazione in senso antiorario, **negativo** quando la rotazione è in senso orario.
 
 ![Angoli-Orientati](img/Angoli-Orientati.png)
 
