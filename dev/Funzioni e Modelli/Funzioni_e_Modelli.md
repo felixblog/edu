@@ -85,17 +85,17 @@ b) Risolvi il punto d) dell'esercizio analogamente al precedente la con la funzi
 
 ## UNITA' 2: Proporzionalità diretta ed inversa
 
-Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 250\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ è costante e vale $250 \% \longleftrightarrow 2.5$, ossia $\dfrac{y}{x} = 2.5$. Quando al variare di due quantità il loro rapporto rimane costante si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $2.5$​ della seconda.
+Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 250\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ rimane fisso al cambiare dei numeri delle torte $x$ ed $y$ e vale $250 \% \longleftrightarrow 2.5$, ossia $\dfrac{y}{x} = 2.5$. Quando al variare di due quantità il loro rapporto rimane **costante**, cioè lo stesso, si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $2.5$​ della seconda.
 
-Un altro importante esempio di grandezze direttamente proporzionali sono le distanze percorse ed il tempo impiegato per percorrerle quando ci si muove a velocità fissa (costante).
+Una situazione comune è quella per cui non sappiamo quanto vale il rapporto tra due quantità direttamente proporzionali, ma sappiamo le due quantità in un caso specifico. Facendo la divisione in questo caso specifico troviamo il valore del rapporto, che è uguale per tutti i casi, e poi lo usiamo par calcolare i valori che ci mancano negli altri casi.
 
 #### ESEMPIO 1
 
-Consideriamo il caso di una automobile che si muove sempre con la stessa velocità (costante), senza accelerare, a $60 \; Km/h$. 
+Consideriamo il caso di una automobile che si muove sempre con la stessa velocità (costante), senza accelerare. 
 
-In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0.166$ ore, la macchina percorre $0.166 \cdot 60 \approx 10$ Km, secondo la formula $\Delta s = v \cdot \Delta t$, dove $\Delta s$ sono i $Km$ che la macchina percorre nel tempo $\Delta t$ (nel nostro caso $10$ minuti), alla velocità $v = 60\; Km/h.$ 
+In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0.1666$ ore, la macchina percorre $10$ Km. Quanto percorre in mezz'ora?
 
-Poiché la velocità è sempre la stessa, sia i primi $10$ minuti, che i secondi $10$ minuti che gli ultimi $10$ minuti del viaggio, la macchina, farà sempre $10$ Km, cosa che non succede se la macchina accelera. Questa caratteristica è specifica dei movimenti a velocità costante, detti "**moti uniformi**": si dice anche che la macchina percorre "spazi uguali in tempi uguali" e se il tempo aumenta, aumenta anche lo spazio.     $\bullet$
+Lo spazio percorso ed il tempo impiegato a percorrerlo sono due quantità direttamente proporzionali. Nel caso specifico di $10$ minuti il loro rapporto è $\dfrac{10}{0.1666} \approx 60$, cioè la macchina va a $60\; \dfrac{Km}{h}$. Con la formula $\Delta s = v \cdot \Delta t$, calcoliamo i Km nel caso di mezz'ora, per cui $\Delta s = 60 \cdot 0,5$ che dà $30\;Km$.     $\bullet$
 
 
 
@@ -144,13 +144,13 @@ $$
 \end{array}
 $$
 
-Come si vede la velocità raddoppia ed il tempo si dimezza.    $ \bullet$
+Come si vede la velocità raddoppia ed il tempo si dimezza.    $\bullet$
 
 
 
 ### ESERCIZIO 2.1 - Proporzionalità diretta
 
-a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475\, \mbox{\euro}$ euro, quanto prenderà se lavora $30$ ore? 
+a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475$ euro, quanto prenderà se lavora $30$ ore? 
 
 b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6$ m^2^ ?
 
