@@ -133,7 +133,7 @@ Nel pensiero critico è essenziale saper distinguere i tentativi di persuasione 
 Le argomentazioni possono essere semplici, ma anche complesse ed articolate. Comunque esse siano, c'è sempre "qualcosa" che l'autore vuole dire, dimostrare o sostenere. Questo qualcosa è chiamato <u>il punto dell'argomentazione</u>, o <u>conclusione</u> ed è ciò di cui vuole convincerci l'argomentazione e chi la sta portando avanti.
 
 >
->$\triangle$ Il **punto** di una argomentazione è la posizione, il concetto che l'autore dell'argomentazione vuole proporre e del quale vuole convincere il suo uditorio.
+>$\triangle$ Il **punto** di una argomentazione è il fatto o la riflessione che l'autore dell'argomentazione vuole proporre e del quale vuole convincere il suo uditorio. Per individuare il punto bisogna chiedersi: "Quale è la cosa principale che bisognerebbe fare o bisognerebbe sapere per l'autore dell'argomentazione?" 
 >
 
 
@@ -150,7 +150,7 @@ c) Grazie ai viaggi spaziali sono state fatte molte scoperte. È importante impa
 
 d) I viaggi spaziali sono costosi e i costi superano di gran lunga i benefici. Esistono progetti, che necessitano di investimenti, molto più urgenti dei viaggi spaziali. Relativamente al carburante, in futuro potrebbero essere disponibili alternative migliori per il carburante destinato ai viaggi spaziali.
 
-Caso a) dovrebbero essere introdotte pene detentive più lunghe, caso b) l'aumento delle pene non è lo strumento per diminuire il crimine, caso c) dovremmo investire di più nei viaggi spaziali, caso d) dovremmo smettere di investire nei viaggi spaziali.    $\bullet$
+Caso a) dovrebbero essere introdotte pene detentive più lunghe, caso b) bisognerebbe aumentare l'istruzione per diminuire il crimine, non inasprire le pene, caso c) dovremmo investire di più nei viaggi spaziali, caso d) dovremmo smettere di investire nei viaggi spaziali.    $\bullet$
 
 
 
@@ -237,31 +237,14 @@ Nelle argomentazioni seguenti individua il **punto** e **le ragioni a sostegno**
 
 a) Uno scheletro umano è stato ritrovato vicino al fiume alla fine del mese scorso da una coppia di anziani che portava a spasso il loro cane. Credevano si trattasse di un omicidio commesso da una problematica famiglia del posto. La polizia ha interrogato la famiglia, ma ha escluso il loro coinvolgimento. Si ritiene che le ossa abbiano diverse centinaia di anni. Gli storici confermano che il fiume Marle scorre vicino ad antichi luoghi di sepoltura e che esistono testimonianze di altri corpi trasportati dal fiume in tempi remoti. Questo è stato il primo ritrovamento da oltre 150 anni. Le recenti tempeste hanno causato un innalzamento del livello del fiume di mezzo metro. È probabile che lo scheletro sia stato spostato dalla sua posizione dal fiume piuttosto che essere stato ucciso dalla famiglia del posto.
 
-b) Esistono solo 60 specie di monocotiledoni,
-più comunemente note come fanerogame marine.
-Ciononostante, le fanerogame marine apportano un contributo importante
-agli ecosistemi costieri
-di ogni continente, ad eccezione dell'Antartide. Questo
-è stato scoperto solo alla fine del
-ventesimo secolo. Nelle acque poco profonde come
-estuari e baie, le fanerogame marine sono infatti
-la forma di vegetazione dominante,
-sostenendo una moltitudine di forme di vita marina. Fungono
-da vivai per i pesci, comprese le varietà commerciali.
-Inoltre, senza le fanerogame marine,
-la biodiversità delle regioni costiere sarebbe
-gravemente impoverita. Le Nazioni Unite
-hanno sponsorizzato l'Atlante mondiale delle fanerogame marine
-(Green e Short, 2004) per sensibilizzare l'opinione pubblica sulla
-loro importanza.
+b) Esistono solo 60 specie di monocotiledoni, più comunemente note come fanerogame marine. Ciononostante, le fanerogame marine apportano un contributo importante agli ecosistemi costieri di ogni continente, ad eccezione dell'Antartide. Questo è stato scoperto solo alla fine del ventesimo secolo. Nelle acque poco profonde come estuari e baie, le fanerogame marine sono infatti la forma di vegetazione dominante, sostenendo una moltitudine di forme di vita marina. Fungono da vivai per i pesci, comprese le varietà commerciali.
+Inoltre, senza le fanerogame marine, la biodiversità delle regioni costiere sarebbe gravemente impoverita. Le Nazioni Unite hanno sponsorizzato l'Atlante mondiale delle fanerogame marine (Green e Short, 2004) per sensibilizzare l'opinione pubblica sulla loro importanza.
 
 c) È importante che le donne in gravidanza e coloro che hanno un sistema immunitario debole siano consapevoli dei potenziali rischi posti dai gatti. Molti di noi tengono i gatti come animali domestici senza rendersi conto dei pericoli che possono nascondere. I gatti sono portatori del Toxoplasma Gondii, un protozoo infettivo che causa la toxoplasmosi nei mammiferi, come gli esseri umani. I protozoi hanno una forma a mezzaluna e sono comuni in natura, ma nella fase infettiva dipendono dai gatti come ospiti. Gli esseri umani adulti raramente mostrano segni di una malattia significativa se vengono infettati. Tuttavia, se le donne in gravidanza vengono infettate, il feto può essere infettato dai parassiti e subire gravi danni congeniti. Nei casi peggiori, i neonati possono perdere la vista e sviluppare deficit motori. Nelle persone con un sistema immunitario debole o affette da AIDS, la toxoplasmosi può causare convulsioni e morte. I sintomi della malattia non sono evidenti nei gatti, quindi non c'è modo di sapere se un determinato gatto è a rischio.
 
 $Risposte$: a) punto: "È probabile che lo scheletro sia stato spostato dalla sua posizione dal fiume piuttosto che essere stato ucciso dalla famiglia del posto.";
 
-b) punto: "le fanerogame marine apportano un contributo importante
-agli ecosistemi costieri
-di ogni continente";
+b) punto: "le fanerogame marine apportano un contributo importante agli ecosistemi costieri di ogni continente";
 
 c) punto: "È importante che le donne in gravidanza e coloro che hanno un sistema immunitario debole siano consapevoli dei potenziali rischi posti dai gatti".
 

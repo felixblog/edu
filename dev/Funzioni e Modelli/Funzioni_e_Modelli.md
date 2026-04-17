@@ -85,17 +85,39 @@ b) Risolvi il punto d) dell'esercizio analogamente al precedente la con la funzi
 
 ## UNITA' 2: Proporzionalità diretta ed inversa
 
-Nell'unità precedente abbiamo fatto l'esempio del numero di torte $y$ vendute da una organizzazione caritatevole in un anno, rispetto a quelle dell'anno precedente $x$ ed abbiamo visto come tra le due quantità esista la relazione $y = 250\% \cdot x$. Questa relazione implica che il **rapporto** tra $y$ e $x$ rimane fisso al cambiare dei numeri delle torte $x$ ed $y$ e vale $250 \% \longleftrightarrow 2.5$, ossia $\dfrac{y}{x} = 2.5$. Quando al variare di due quantità il loro rapporto rimane **costante**, cioè lo stesso, si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), con un fattore moltiplicativo pari a $2.5$​ della seconda.
+Sono numerose le situazioni della vita pratica in cui incontriamo due quantità strettamente collegate tra di loro, in cui se in una certa situazione una cresce, cresce anche l'altra in modo che se raddoppia, raddoppia anche l'altra, se dimezza, dimezza anche l'altra. Vediamo un esempio.
 
-Una situazione comune è quella per cui non sappiamo quanto vale il rapporto tra due quantità direttamente proporzionali, ma sappiamo le due quantità in un caso specifico. Facendo la divisione in questo caso specifico troviamo il valore del rapporto, che è uguale per tutti i casi, e poi lo usiamo par calcolare i valori che ci mancano negli altri casi.
+ESEMPIO 1
+
+Quando a cena con amici si comprano delle birre, accade che acquistando ad esempio $4$ birre si spendono $8$ euro; acquistando $10$ birre si spendono $20$ euro e per $2$ birre si spendono $4$ euro. Abbiamo la situazione seguente:
+
+$$
+\begin{array}{c|c}
+\hline
+\textbf{N. Birre } & \textbf{Euro Spesi} \\
+\textbf{x} & \textbf{y} \\
+\hline 
+2 & 4\\ 
+4 & 8 \\ 
+10 & 20 \\  
+\end{array}
+$$
+
+Tutti questi casi hanno in comune che il rapporto tra gli euro spesi e le birre acquistate è $2$: questo valore è proprio il prezzo unitario della birra, per cui possiamo scrivere $\dfrac{y}{x} = 2$.     $\bullet$ 
+
+
+
+Quando al variare di due quantità, tra loro dipendenti, il rapporto rimane **costante**, cioè lo stesso, si dice che le due quantità sono ***direttamente proporzionali*** ed al crescere dell'una ($x$), cresce anche l'altra ($y$), di un fattore moltiplicativo pari alla costante.
+
+Una situazione comune è quella per cui non sappiamo quanto vale il rapporto tra due quantità direttamente proporzionali, ma sappiamo le due quantità in un caso specifico. Facendo la divisione in questo caso specifico troviamo il valore della costante, che è uguale per tutti i casi, e poi lo usiamo par calcolare i valori che ci mancano negli altri casi.
 
 #### ESEMPIO 1
 
-Consideriamo il caso di una automobile che si muove sempre con la stessa velocità (costante), senza accelerare. 
+Consideriamo una automobile che si muove sempre con la stessa velocità (costante), ossia senza accelerare. 
 
-In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0.1666$ ore, la macchina percorre $10$ Km. Quanto percorre in mezz'ora?
+In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0.1666$ ore, la macchina percorre $10 \; Km$. Quanto percorre in mezz'ora?
 
-Lo spazio percorso ed il tempo impiegato a percorrerlo sono due quantità direttamente proporzionali. Nel caso specifico di $10$ minuti il loro rapporto è $\dfrac{10}{0.1666} \approx 60$, cioè la macchina va a $60\; \dfrac{Km}{h}$. Con la formula $\Delta s = v \cdot \Delta t$, calcoliamo i Km nel caso di mezz'ora, per cui $\Delta s = 60 \cdot 0,5$ che dà $30\;Km$.     $\bullet$
+Lo spazio percorso ed il tempo impiegato a percorrerlo sono due quantità direttamente proporzionali. Nel caso specifico di $10$ minuti il loro rapporto è $\dfrac{10}{0.1666} \approx 60$, cioè la macchina va a $60\; \dfrac{Km}{h}$. Con la formula $\Delta s = v \cdot \Delta t$, calcoliamo i chilometri nel caso di mezz'ora, per cui $\Delta s = 60 \cdot 0,5$ che dà $30\;Km$.     $\bullet$
 
 
 
@@ -164,7 +186,7 @@ a) Il tempo necessario ad una auto per raggiungere una destinazione varia invers
 
 b) Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9,\; 11,\; 29,\; 33$.
 
-c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $10,\; 25,\; 33,\; 50 \%$ . Quale sarebbe lo sconto di una giacca da $300\, \mbox{\euro}$ nei vari casi?
+c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $10,\; 25,\; 33,\; 50 \%$ . Quale sarebbe lo sconto di una giacca da $300$ euro nei vari casi?
 
 
 
