@@ -349,7 +349,7 @@ Se una retta è meno pendente vuol dire che a parità di avanzamento orizzontale
 
 <img src="img/Pendenza-Rapporto-2.png" alt="q" style="zoom: 80%;" />
 
-Presi due punti, poichè $x_2 - x_1$ è sempre positivo, se $y_2 - y_1$ è positivo, la retta è inclinata verso l'alto ed $m$ è positivo. Se invece $y_2 - y_1$ è negativo, la retta è inclinata verso il basso ed $m$ è negativo. Se è pari a zero la retta è orizzontale e conseguentemente $m$ è pari a zero.
+Presi due punti, poiché $x_2 - x_1$ è sempre positivo, se $y_2 - y_1$ è positivo, la retta è inclinata verso l'alto ed $m$ è positivo. Se invece $y_2 - y_1$ è negativo, la retta è inclinata verso il basso ed $m$ è negativo. Se è pari a zero la retta è orizzontale e conseguentemente $m$ è pari a zero.
 
 
 
