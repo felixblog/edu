@@ -14,7 +14,7 @@ Perché è importante impegnarsi a cercare ed utilizzare <u>le informazioni migl
 
 ### Informazioni accurate, fuorvianti, false (misinformation) e disinformazione
 
-Una <u>Informazione</u> è qualsiasi comunicazione che sia letteralmente vera, ossia che corrisponda alla realtà del mondo. Se ti dico che Albany è la capitale di New York, ti ho fornito un'informazione. Se leggi che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, sei stato informato. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
+Una <u>Informazione</u> è qualsiasi comunicazione che corrisponda alla realtà del mondo, ossia che sia vera. Se diciamo che Albany è la capitale di New York, diamo una informazione. Se leggiamo che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, ci da una informazione. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
 
 Per comprendere la crisi dell'informazione, è però importante osservare che non tutte le cose vere sono ugualmente <u>utili</u> per la formazione di una visione del mondo reale.
 
@@ -32,17 +32,17 @@ I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso t
 
 
 
-Viene chiamato "**effetto selezione**" l'informazione fuorviante generata da fatti che vengono riportati e fatti che vengono omessi. Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare. Queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo o da distorcere la prospettiva in una direzione o nell'altra. Ecco un semplice esempio. 
+L'informazione fuorviante generata da fatti che vengono riportati e fatti che vengono omessi relativi ad una stessa situazione, viene chiamato "**effetto selezione**". Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare; queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo o da distorcere la prospettiva in una direzione o nell'altra. Ecco un semplice esempio. 
 
 #### ESEMPIO 2
 
-La maggior parte degli americani muore per malattie, con le malattie cardiache e il cancro come cause principali. Ma quasi tutti i notiziari che parlano di decessi si concentrano sulla violenza, con omicidio, terrorismo e suicidio tra le cause più comuni. Dal punto di vista di un giornalista, questo ha senso. C'è un vecchio detto: "Un cane morde un uomo, chi se ne importa? Un uomo morde un cane, questa sì che è una notizia!".
+La maggior parte degli americani muore per malattie, e quelle principali sono le malattie cardiache e il cancro. Ma quasi tutti i notiziari che parlano di decessi si concentrano sulla violenza, con omicidio, terrorismo e suicidio tra le cause più comuni.
 
-Ma dal punto di vista del lettore, notizie di questo tipo sono fuorvianti (anche quando vere). Il rapporto tra notizie di morti violente e morti non violente dà l'impressione che ogni città d'America sia un luogo violento, dove la maggior parte degli americani muore per mano di altri. Questo non è vero, anche quando le notizie riportate sono tutte accurate. Quindi, anche se potrebbe essere vero che c'è stato un omicidio in una città, concentrarsi selettivamente sugli omicidi giorno dopo giorno può indurre a pensare che quella città sia più violenta di quanto non sia in realtà.    $\bullet$
+Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "Un cane morde un uomo non è un notizia, un uomo morde un cane è una notizia!"). Ma dal punto di vista del lettore, notizie di questo tipo sono fuorvianti (anche quando vere). Il rapporto tra notizie di morti violente e morti non violente dà l'impressione che ogni città d'America sia un luogo violento, dove la maggior parte degli americani muore per mano di altri. Questo non è vero, anche quando le notizie riportate sono tutte accurate. Quindi, anche se potrebbe essere vero che c'è stato un omicidio in una città, concentrarsi selettivamente sugli omicidi giorno dopo giorno può indurre a pensare che quella città sia più violenta di quanto non sia in realtà.    $\bullet$
 
 
 
-L'effetto di selezione non è sempre innocuo come mettere in evidenza storie interessanti. Può essere usato come una lente politica per offrire ai lettori una visione fuorviante del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, è necessario selezionare e riportare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi dai cittadini. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, è necessario selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni di guerra culturale, dall'istruzione alla storia.
+L'effetto di selezione non è sempre innocuo come mettere in evidenza storie interessanti. Può essere usato come una lente politica per offrire ai lettori una visione fuorviante del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, è necessario selezionare e riportare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi dai cittadini. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, è necessario selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni di guerra culturale, dall'istruzione alla storia.
 
 
 
@@ -64,18 +64,18 @@ La misinformation può provenire da molte fonti; a volte proviene da persone sem
 
 Casi analoghi sono quelli di molte persone che credono davvero a ciò che dicono sugli alieni, sui politici, sulle mode della medicina alternativa o sulle teorie del complotto. Quando queste affermazioni sono false, rientrano nella categoria della misinformation.
 
-Se la misinformation è un contenuto falso diffuso per errore, la disinformazione è un contenuto falso diffuso intenzionalmente. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare. L'esempio classico è quello del politico che mente per nascondere la verità. Afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
+Se la misinformation è un contenuto falso diffuso per errore, la <u>disinformazione</u> è un contenuto falso diffuso di proposito. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare. L'esempio classico è quello del politico che mente per nascondere la verità. Afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
 
 >
 > $\triangle$ Si ha **disinformazione** quando un contenuto falso viene diffuso intenzionalmente (chi lo diffonde sà che è falso). 
 >
 
-Il nostro ambiente informativo è saturo di disinformazione. Ogni volta che un'azienda inganna consapevolmente gli enti regolatori o i clienti con affermazioni false, si tratta di disinformazione. Ad esempio, quando un'azienda produttrice di tabacco afferma che fumare non aumenta il rischio di sviluppare il cancro, si tratta di disinformazione, dato che sa il contrario da decenni. Oppure quando un'azienda di combustibili fossili nega che il cambiamento climatico sia causato (in parte) dall'inquinamento umano, si tratta di disinformazione. 
+Il nostro ambiente informativo è saturo di disinformazione. Ogni volta che un'azienda inganna consapevolmente gli enti regolatori o i clienti con affermazioni false, si tratta di disinformazione. Ad esempio, quando un'azienda produttrice di tabacco afferma che fumare non aumenta il rischio di sviluppare il cancro, si tratta di disinformazione, dato che sa il contrario da decenni. Oppure quando un'azienda di combustibili fossili nega che il cambiamento climatico sia causato (in parte) dall'inquinamento umano, si tratta di disinformazione.
 
 I governi sono impegnati nel gioco della disinformazione da secoli nella forma della <u>propaganda</u>.
 
 >
-> $\triangle$  La **propaganda** è qualsiasi materiale fuorviante o palesemente falso, diffuso da governi, aziende o altri soggetti al fine di manipolare intenzionalmente una popolazione. Sebbene assuma molte forme diverse, una delle più importanti è la disinformazione vera e propria.
+> $\triangle$  La **propaganda** è qualsiasi materiale fuorviante o palesemente falso, diffuso da governi, aziende o altri soggetti al fine di manipolare intenzionalmente una popolazione. Sebbene assuma molte forme diverse (film, saggi etc.), una delle più importanti è la disinformazione vera e propria.
 > 
 
  Se la guerra non sta andando bene e il governo, consapevolmente, comunica ai cittadini il contrario: si tratta di disinformazione. Quando un troll online inventa una storia per incitare gli avversari politici, si sta impegnando in una campagna di disinformazione.
