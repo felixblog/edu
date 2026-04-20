@@ -10,7 +10,7 @@ b) In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni far
 
 Questi problemi hanno in comune la richiesta di scrivere una espressione letterale che calcola una quantità (il numero di torte di quest'anno) che **dipende** da un'altra quantità (numero di torte dello scorso anno). Il numero di torte di quest'anno si chiama ***variabile dipendente*** e quello dell'anno scorso ***variabile indipendente***. Se ho questa espressione posso calcolare la quantità della variabile dipendente sapendo la quantità della variabile indipendente, . 
 
-Se chiamo $x$ il numero delle le torte dello scorso anno $x$ ed $y$ quello di quest'anno, la relazione tra $y$ ed $x$ è $y = 250 \% \cdot x$. Questa equazione si chiama ***modello matematico del problema***. Per calcolare quante torte venderò quest'anno devo calcolare l'espressione $250\% \cdot x$ all'interno dell'equazione (elementare) dopo aver sostituito alla $x$ il numero delle torte dell'scorso anno, ad esempio $30$, per cui $ y = 250\% \cdot x, \{x = 30\} \longrightarrow y = 2,5 \cdot 30 \longrightarrow y = 75$.
+Se chiamo $x$ il numero delle le torte dello scorso anno $x$ ed $y$ quello di quest'anno, la relazione tra $y$ ed $x$ è $y = 250 \% \cdot x$. Questa equazione si chiama ***modello matematico del problema***. Per calcolare quante torte venderò quest'anno devo calcolare l'espressione $250\% \cdot x$ all'interno dell'equazione (elementare) dopo aver sostituito alla $x$ il numero delle torte dell'scorso anno, ad esempio $30$, per cui $y = 250\% \cdot x, \{x = 30\} \longrightarrow y = 2,5 \cdot 30 \longrightarrow y = 75$.
 
 Un esempio di calcolo per alcuni valori possibili di $x$ è nella tabella seguente​.​
 $$
@@ -115,7 +115,7 @@ Una situazione comune è quella per cui non sappiamo quanto vale il rapporto tra
 
 Consideriamo una automobile che si muove sempre con la stessa velocità (costante), ossia senza accelerare. 
 
-In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0.1666$ ore, la macchina percorre $10 \; Km$. Quanto percorre in mezz'ora?
+In $10$ minuti, che corrispondono a $10 \cdot \dfrac{1}{60} \approx 0.1666$ ore, la macchina percorre $10 \; Km$. Quanto percorre in mezz'ora?
 
 Lo spazio percorso ed il tempo impiegato a percorrerlo sono due quantità direttamente proporzionali. Nel caso specifico di $10$ minuti il loro rapporto è $\dfrac{10}{0.1666} \approx 60$, cioè la macchina va a $60\; \dfrac{Km}{h}$. Con la formula $\Delta s = v \cdot \Delta t$, calcoliamo i chilometri nel caso di mezz'ora, per cui $\Delta s = 60 \cdot 0,5$ che dà $30\;Km$.     $\bullet$
 
@@ -182,7 +182,7 @@ c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio
 
 ### ESERCIZIO 2.2 - Proporzionalità inversa
 
-a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
+a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
 
 b) Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9,\; 11,\; 29,\; 33$.
 
@@ -224,7 +224,7 @@ dove $m$ e $q$ sono due numeri.
 
 Una palestra applica i prezzi seguenti: per entrare bisogna iscriversi e l'iscrizione costa $40$ euro a semestre; ogni ingresso poi costa $12$ euro. Scrivi la formula che calcola il costo semestrale al variare del numero di ingressi $x$.
 
-Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori riportati nella tabella seguente.    $ \bullet$
+Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori riportati nella tabella seguente.    $\bullet$
 $$
 \begin{array}{c|c|c}
 \hline
@@ -300,7 +300,7 @@ Compariranno i punti sul grafico. Se i punti sono allineati la dipendenza è lin
 
 ### ESERCIZIO 3.3 - Interesse semplice
 
-Una persona prende in prestito da una finanziaria $1.000 \, \mbox{\euro}$ (capitale) per pagare un corso di formazione. Dovrà restituire il capitale dopo $5$ anni in una unica soluzione ma pagare trimestralmente l'$1\%$ dell'importo ricevuto, a titolo di interesse, finché non estingue il debito.
+Una persona prende in prestito da una finanziaria $1.000\, €$ (capitale) per pagare un corso di formazione. Dovrà restituire il capitale dopo $5$ anni in una unica soluzione ma pagare trimestralmente l'$1\%$ dell'importo ricevuto, a titolo di interesse, finché non estingue il debito.
 
 a) Se $I_n$ è l'ammontare degli interessi pagati fino all'$n$-esimo trimestre e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
 
@@ -309,8 +309,6 @@ b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trime
 
 
 ### ESERCIZIO 3.4 - Prezzo delle bibite
-
-In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10 \textcent$ a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4\, \mbox{\euro}$, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti dice che ad un prezzo di $40 \textcent$ a lattina si venderebbero $141$ lattine a settimana, e che ogni $5 \textcent$ di aumento sul prezzo, farebbe scendere le vendite settimanali di $12$ lattine.
 
 a) Indicando con $p$ il prezzo di una lattina e con $q$ il numero di lattine settimanali vendute, calcola le quantità vendute per i prezzi riportati in tabella.
 $$
@@ -323,6 +321,8 @@ $$
 60 & ...\\
 \end{array}
 $$
+In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10$ centesimi a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti dice che ad un prezzo di $40$ centesimi a lattina si venderebbero $141$ lattine a settimana, e che ogni $5$ centesimi di aumento sul prezzo, farebbe scendere le vendite settimanali di $12$ lattine.
+
 b) Posiziona i punti della curva di domanda della tabella precedente in un grafico cartesiano dove sull'asse orizzontale è riportata la quantità $q$ e su quello verticale il prezzo $p$​;
 
 c) Scrivi la funzione che lega la quantità di lattine vendute alla settimana $q$ (variabile dipendente) al prezzo $p$ (variabile indipendente) delle lattine; [R. $q = -\dfrac{12}{5}p + 237$].

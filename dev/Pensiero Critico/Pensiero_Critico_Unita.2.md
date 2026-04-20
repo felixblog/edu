@@ -1,18 +1,16 @@
 ## UNITA' 2: Analisi e valutazione delle fonti informative
 
-Abbiamo detto che il pensiero critico consiste nell'utilizzo della razionalità nelle comunicazioni per una migliore comprensione della verità o dell'utilità di ciò che ascoltiamo, leggiamo o diciamo.
+Abbiamo detto che il pensiero critico consiste nell'esercizio della razionalità nelle comunicazioni per una migliore comprensione della verità o dell'utilità di ciò che ascoltiamo, leggiamo o diciamo.
 
-L'accertamento della verità delle informazioni che utilizziamo nei nostri dibattiti a sostegno delle discussioni è quindi un tema fondamentale del pensiero critico. Nelle nostre discussioni non possiamo infatti prescindere dal citare notizie, eventi, in generale delle <u>evidenze</u> su cui si basano le nostre ulteriori considerazioni. Il reperimento di queste evidenze passa attraverso i documenti, i filmati e le fotografie degli eventi eccetera, ed il canale più utilizzato da tutti attualmente è internet.
+L'accertamento della verità delle informazioni che utilizziamo nei nostri dibattiti a sostegno delle discussioni è quindi un tema fondamentale del pensiero critico, insieme alla modalità di reperimento delle informazioni che passa i documenti, i filmati e le fotografie degli eventi eccetera.
 
-Perché è importante impegnarsi a cercare ed utilizzare <u>le informazioni migliori</u> presenti in Internet? Vale la pena spiegare i motivi.
+In questa unità affronteremo i problemi che ci si pongono quando riceviamo delle informazioni attraverso i principali mezzi di comunicazione. Discuteremo la possibilità che ci vengano date notizie vere ma anche notizie false o distorte e come si possa cercare di porre q questo un rimedio.
 
-- Circolano molte credenze false o inesatte. Siamo tutti convinti della veridicità di un'infinità di cose che non abbiamo mai realmente verificato.
-- Migliaia e migliaia di persone diligenti, nel corso della storia e nelle diverse culture, si sono impegnate a fondo per esplorare e scoprire la verità. È arrogante pensare di poter ignorare tutto ciò. Bisogna mostrare rispetto per gli altri e si può utilizzare il lavoro altrui, svilupparlo e contribuire ad esso.
-- Appoggiarsi alle conoscenze consolidate è un modo fondamentale per accrescere la credibilità e la forza persuasiva delle proprie argomentazioni perché si può dimostrare di non essere soli nelle proprie opinioni.
+Prima di entrare nella discussione diamo alcune definizioni dei principali termini e concetti che utilizzeremo.
 
 
 
-### Informazioni accurate, fuorvianti, false (misinformation) e disinformazione
+### Informazioni accurate, ingannevoli, misinformazione e disinformazione
 
 Una <u>Informazione</u> è qualsiasi comunicazione che corrisponda alla realtà del mondo, ossia che sia vera. Se diciamo che Albany è la capitale di New York, diamo una informazione. Se leggiamo che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, ci da una informazione. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
 
@@ -24,7 +22,7 @@ Dobbiamo quindi fare una distinzione tra le informazioni che rendono la nostra v
 > $\triangle$ Una  **informazione accurata** è una informazione vera ed utile, che migliora la nostra visione del mondo ossia che ci aiuta a vedere il mondo così com'è.
 > 
 
-Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni fuorvianti**": anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre informazioni.
+Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni ingannevoli**": anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre informazioni.
 
 #### ESEMPIO 1
 
@@ -38,19 +36,21 @@ L'informazione fuorviante generata da fatti che vengono riportati e fatti che ve
 
 La maggior parte degli americani muore per malattie, e quelle principali sono le malattie cardiache e il cancro. Ma quasi tutti i notiziari che parlano di decessi si concentrano sulla violenza, con omicidio, terrorismo e suicidio tra le cause più comuni.
 
-Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "Un cane morde un uomo non è un notizia, un uomo morde un cane è una notizia!"). Ma dal punto di vista del lettore, notizie di questo tipo sono fuorvianti (anche quando vere). Il rapporto tra notizie di morti violente e morti non violente dà l'impressione che ogni città d'America sia un luogo violento, dove la maggior parte degli americani muore per mano di altri. Questo non è vero, anche quando le notizie riportate sono tutte accurate. Quindi, anche se potrebbe essere vero che c'è stato un omicidio in una città, concentrarsi selettivamente sugli omicidi giorno dopo giorno può indurre a pensare che quella città sia più violenta di quanto non sia in realtà.    $\bullet$
+Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "Un cane morde un uomo non è un notizia, un uomo morde un cane è una notizia!"). Ma dal punto di vista del lettore, notizie di questo tipo sono fuorvianti (anche quando sono vere). Il rapporto tra notizie di morti violente e morti non violente dà l'impressione che ogni città d'America sia un luogo violento, dove la maggior parte degli americani muore per mano di altri. Questo non è vero, anche quando le notizie riportate sono tutte accurate. Quindi, anche se potrebbe essere vero che c'è stato un omicidio in una città, concentrarsi selettivamente sugli omicidi giorno dopo giorno può indurre a pensare che quella città sia più violenta di quanto non sia in realtà.    $\bullet$
 
 
 
-L'effetto di selezione non è sempre innocuo come mettere in evidenza storie interessanti. Può essere usato come una lente politica per offrire ai lettori una visione fuorviante del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, è necessario selezionare e riportare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi dai cittadini. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, è necessario selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni di guerra culturale, dall'istruzione alla storia.
+L'effetto di selezione non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una visione fuorviante del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, è necessario selezionare e riportare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi dai cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, è necessario selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni di guerra culturale, dall'istruzione alla storia.
 
 
 
 Un altro effetto che porta ad una distorsione è l'**effetto cornice** (Framing effect).
 
-Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia rispetto ad altri o dice al lettore come dovrebbe pensare e sentirsi riguardo all'incidente riportato, <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla. Ad esempio, se un articolo di cronaca su un violento temporale o un uragano menziona il fatto che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice. Oppure, quando un podcaster che parla di negligenza medica menziona che un particolare medico è stato assunto tramite un programma di prevenzione sta mettendo in pratica un effetto cornice per denigrare il programma nei confronti del pubblico  (inquadrando l'evento da una cornice). In entrambi i casi, il reportage evidenzia alcuni aspetti della storia e minimizza altri al fine di dare al lettore un'impressione generale di un certo tipo.
+Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia rispetto ad altri o dice al lettore come dovrebbe pensare e sentirsi riguardo all'incidente riportato, <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla. Ad esempio, se un articolo di cronaca su un violento temporale o un uragano menziona il fatto che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice.
 
+Un caso tipico è quando si cita la nazionalità di un immigrato che ha ucciso la compagna solo se è luogo comune che i cittadini di quella nazione sono violenti con le donne e non si cita nessuna nazionalità quando l'omicidio è commesso da altri immigrati o da cittadini non immigrati, o si cita la provenienza meridionale di un borseggiatore a proposito di un borseggio e nessuna provenienza negli altri casi.
 
+La figura seguente riassume le situazioni che possono presentarsi di fronte ad una informazione. 
 
 <img src="img/disinformation.png" alt="disinformation" style="zoom:67%;" />
 
@@ -58,13 +58,16 @@ Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia 
 
 Un'affermazione è falsa quando non corrisponde alla realtà dei fatti. Quando si crede a qualcosa di falso, la visione del mondo è, almeno in parte, imprecisa.
 
-Intendiamo per "misinformation" o informazione falsa, un contenuto falso diffuso da qualcuno che lo crede vero.
-La misinformation deriva da un errore: chi scrive o condivide la notizia pensa che sia vera, ma in realtà non lo è.
-La misinformation può provenire da molte fonti; a volte proviene da persone semplicemente ingenue. Quando una zia un po' stravagante pubblica su Facebook un post in cui afferma che i vaccini causano l'autismo, probabilmente ci crede davvero: questo è un caso di falsa informazione.
+>
+> $\triangle$ Intendiamo per **misinformazione** (in inglese "misinformation"), un contenuto falso diffuso da qualcuno che lo crede vero, ossia diffuso in buona fede.
+> 
 
-Casi analoghi sono quelli di molte persone che credono davvero a ciò che dicono sugli alieni, sui politici, sulle mode della medicina alternativa o sulle teorie del complotto. Quando queste affermazioni sono false, rientrano nella categoria della misinformation.
+La misinformazione deriva da un errore: chi scrive o condivide la notizia pensa che sia vera, ma in realtà non lo è.
+La misinformazione può provenire da molte fonti; a volte proviene da persone semplicemente ingenue. Quando una zia un po' stravagante pubblica su Facebook un post in cui afferma che i vaccini causano l'autismo, probabilmente ci crede davvero: questo è un caso di misinformazione.
 
-Se la misinformation è un contenuto falso diffuso per errore, la <u>disinformazione</u> è un contenuto falso diffuso di proposito. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare. L'esempio classico è quello del politico che mente per nascondere la verità. Afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
+Casi analoghi sono quelli di molte persone che credono davvero a ciò che dicono sugli alieni, sui politici, sulle mode della medicina alternativa o sulle teorie del complotto. Quando queste affermazioni sono false, rientrano nella categoria della misinformazione.
+
+Se la misinformazione è un contenuto falso diffuso per errore, la <u>disinformazione</u> è un contenuto falso diffuso di proposito. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare. L'esempio classico è quello del politico che mente per nascondere la verità. Afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
 
 >
 > $\triangle$ Si ha **disinformazione** quando un contenuto falso viene diffuso intenzionalmente (chi lo diffonde sà che è falso). 
