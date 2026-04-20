@@ -16,7 +16,7 @@ Perché è importante impegnarsi a cercare ed utilizzare <u>le informazioni migl
 
 Una <u>Informazione</u> è qualsiasi comunicazione che sia letteralmente vera, ossia che corrisponda alla realtà del mondo. Se ti dico che Albany è la capitale di New York, ti ho fornito un'informazione. Se leggi che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, sei stato informato. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
 
-Per comprendere la crisi dell'informazione, è però importante osservare che non tutte le cose vere sono ugualmente <u>utili</u> per formarsi una visione della realtà del mondo.
+Per comprendere la crisi dell'informazione, è però importante osservare che non tutte le cose vere sono ugualmente <u>utili</u> per la formazione di una visione del mondo reale.
 
 Dobbiamo quindi fare una distinzione tra le informazioni che rendono la nostra visione del mondo più accurata e quelle che la rendono meno accurata. Chiameremo "informazioni accurate" le informazioni che migliorano la nostra visione del mondo, ossia ci aiutano a vedere il mondo così com'è realmente. 
 
@@ -42,7 +42,7 @@ Ma dal punto di vista del lettore, notizie di questo tipo sono fuorvianti (anche
 
 
 
-L'effetto di selezione non è sempre innocuo come mettere in evidenza storie interessanti. Può essere usato come una lente politica per offrire ai lettori una visione fuorviante del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, è necessario selezionare e riportare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi dai cittadini. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, è necessario selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate per prevenire un crimine. Ciò che è vero per le notizie è vero anche per altre questioni di guerra culturale, dall'istruzione alla storia.
+L'effetto di selezione non è sempre innocuo come mettere in evidenza storie interessanti. Può essere usato come una lente politica per offrire ai lettori una visione fuorviante del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, è necessario selezionare e riportare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi dai cittadini. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, è necessario selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni di guerra culturale, dall'istruzione alla storia.
 
 
 
@@ -67,7 +67,7 @@ Casi analoghi sono quelli di molte persone che credono davvero a ciò che dicono
 Se la misinformation è un contenuto falso diffuso per errore, la disinformazione è un contenuto falso diffuso intenzionalmente. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare. L'esempio classico è quello del politico che mente per nascondere la verità. Afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
 
 >
-> $\triangle$ La **disinformazione** è un contenuto falso diffuso intenzionalmente (che chi lo diffonde sa essere falso). 
+> $\triangle$ Si ha **disinformazione** quando un contenuto falso viene diffuso intenzionalmente (chi lo diffonde sà che è falso). 
 >
 
 Il nostro ambiente informativo è saturo di disinformazione. Ogni volta che un'azienda inganna consapevolmente gli enti regolatori o i clienti con affermazioni false, si tratta di disinformazione. Ad esempio, quando un'azienda produttrice di tabacco afferma che fumare non aumenta il rischio di sviluppare il cancro, si tratta di disinformazione, dato che sa il contrario da decenni. Oppure quando un'azienda di combustibili fossili nega che il cambiamento climatico sia causato (in parte) dall'inquinamento umano, si tratta di disinformazione. 
@@ -107,8 +107,7 @@ Spesso associata alla propaganda o a strategie di marketing, questa tecnica mira
 
 ### I Nuovi Media: Internet
 
-Internet
-ha rivoluzionato il nostro modo di comunicare ed ha fornito un numero incalcolabile di nuove possibilità sia alla nostra vita privata che al mondo degli affari rispetto tra cui l'archiviazione e la immediata messa a disposizione di dati transazionali, istituzionali, educativi e scientifici indispensabili.
+Internet ha rivoluzionato il nostro modo di comunicare ed ha fornito un numero incalcolabile di nuove possibilità sia alla nostra vita privata che al mondo degli affari rispetto tra cui l'archiviazione e la immediata messa a disposizione di dati transazionali, istituzionali, educativi e scientifici indispensabili.
 
 Internet ha però anche un enorme potenziale di diffusione della disinformazione. Le notizie che fornisce devono essere valutate con ancora maggiore cautela rispetto alle informazioni provenienti dalla stampa, dalla radio o dalla televisione.
 Esistono fondamentalmente due tipi di fonti di informazione su Internet. La prima
