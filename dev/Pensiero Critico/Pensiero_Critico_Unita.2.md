@@ -107,25 +107,25 @@ Spesso associata alla propaganda o a strategie di marketing, questa tecnica mira
 
 ### I Nuovi Media: Internet
 
-Internet ha rivoluzionato il nostro modo di comunicare ed ha fornito un numero incalcolabile di nuove possibilità sia alla nostra vita privata che al mondo degli affari rispetto tra cui l'archiviazione e la immediata messa a disposizione di dati transazionali, istituzionali, educativi e scientifici indispensabili.
+Internet ha rivoluzionato il nostro modo di comunicare ed ha fornito un numero enorme di nuove possibilità che hanno avuto impatto sia sulla nostra vita privata che sul mondo degli affari.
 
 Internet ha però anche un enorme potenziale di diffusione della disinformazione. Le notizie che fornisce devono essere valutate con ancora maggiore cautela rispetto alle informazioni provenienti dalla stampa, dalla radio o dalla televisione.
-Esistono fondamentalmente due tipi di fonti di informazione su Internet. La prima
-è costituita da fonti commerciali e istituzionali; la seconda, siti individuali e di gruppo sul World Wide Web. 
+Esistono fondamentalmente due tipi di fonti di informazione su Internet: la prima
+costituita da fonti commerciali e istituzionali, la seconda formata da siti Web individuali e di gruppo. 
 
-La prima categoria include fonti ufficiali come database, istituzioni governative ed educative, nonché i servizi online offerti dai principali organi di informazione.
+La prima categoria include fonti ufficiali come istituzioni governative ed educative e i servizi online offerti dai principali organi di informazione (ad esempio www.repubblica.it www.corriere.it eccetera).
 
-La seconda categoria include tutto il resto che si può trovare sul web: un incredibile assortimento di informazioni buone e meno buone, intrattenimento di qualità molto variabile, consigli utili, pubblicità, offerte allettanti, offerte fraudolente e vere e proprie menzogne e truffe.
+La seconda categoria include tutto il resto che si può trovare sul web: un incredibile assortimento di informazioni buone e meno buone, di intrattenimento di qualità molto variabile, consigli utili, pubblicità, offerte allettanti, offerte fraudolente, vere e proprie menzogne, fino ad arrivare alle truffe on-line.
 
-Chiunque può dire qualsiasi cosa su Internet ed Internet è pieno di fonti di notizie false, il che non sorprende se si considera quanto poco costi pubblicare qualcosa sul web. Come ha affermato Eric Schmidt, Presidente esecutivo di Google dal 2001 al 2015 e di Alphabet dal 2015 al 2017 "Internet è una cloaca di disinformazione".
+Chiunque può dire qualsiasi cosa su Internet ed Internet è pieno di fonti che alimentano notizie false, il che non sorprende se si considera quanto poco costi pubblicare qualcosa sul web. Come ha affermato Eric Schmidt, Presidente esecutivo di Google dal 2001 al 2015 e di Alphabet dal 2015 al 2017 "Internet è una cloaca di disinformazione".
 
 
 
-### Cosa Fare?
+### Come difendersi
 
 Detto tutto ciò, cosa possiamo fare per per informarci attraverso Internet senza cadere preda della disinformazione?
 
-Non ci sono metodi che <u>assicurano</u> di filtrare le notizie vere da quelle false; il massimo che si può fare è adottare degli accorgimenti per abbassare la probabilità di essere manipolati o ingannati e tutti questi accorgimenti convergono sul principio della **verifica delle informazioni**.
+Non ci sono metodi che danno la <u>certezza</u> di scoprire le notizie false ed isolarle dalle altre; il massimo che si può fare è adottare degli accorgimenti per abbassare la probabilità di essere manipolati o ingannati e tutti questi accorgimenti convergono sul principio della **verifica delle informazioni**.
 
 Alcuni modi per verificare se una informazione su Internet, ad esempio un post sui social media, è autentico e affidabile sono:
 
@@ -139,6 +139,7 @@ Alcuni modi per verificare se una informazione su Internet, ad esempio un post s
 8. **Conferma**: Il contenuto può essere verificato tramite altre fonti?
 9. **Recenza**: C'è stato tempo sufficiente perché altri verificassero e confermassero il contenuto?
 10. **Storico**: Conosci la fonte? Si è dimostrata affidabile in passato?
+
 
 
 ### ESERCIZIO 2.1
