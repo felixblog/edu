@@ -1,10 +1,10 @@
 ## UNITA' 2: Analisi e valutazione delle fonti informative
 
-Abbiamo detto che il pensiero critico consiste nell'esercizio della razionalità nelle comunicazioni per una migliore comprensione della verità o dell'utilità di ciò che ascoltiamo, leggiamo o diciamo.
+Nell'unità precedente abbiamo detto che il pensiero critico consiste nell'esercizio della razionalità nelle comunicazioni per una migliore comprensione della verità o dell'utilità di ciò che ascoltiamo, leggiamo o diciamo.
 
-L'accertamento della verità delle informazioni che utilizziamo nei nostri dibattiti a sostegno delle discussioni è quindi un tema fondamentale del pensiero critico, insieme alla modalità di reperimento delle informazioni che passa i documenti, i filmati e le fotografie degli eventi eccetera.
+L'attenzione alla verità delle informazioni che utilizziamo nei nostri dibattiti a sostegno delle discussioni è quindi un atteggiamento essenziale nel pensiero critico, insieme alla modalità di reperimento delle informazioni contenute nei documenti, filmati, fotografie eccetera.
 
-In questa unità affronteremo i problemi che ci si pongono quando riceviamo delle informazioni attraverso i principali mezzi di comunicazione. Discuteremo la possibilità che ci vengano date notizie vere ma anche notizie false o distorte e come si possa cercare di porre q questo un rimedio.
+In questa unità affronteremo i problemi che ci si pongono quando riceviamo delle informazioni attraverso i principali mezzi di comunicazione. Discuteremo la possibilità che ci vengano fornite informazioni vere ma anche informazioni false o distorte e come si possa cercare di porre q questo un rimedio.
 
 Prima di entrare nella discussione diamo alcune definizioni dei principali termini e concetti che utilizzeremo.
 
@@ -22,7 +22,7 @@ Dobbiamo quindi fare una distinzione tra le informazioni che rendono la nostra v
 > $\triangle$ Una  **informazione accurata** è una informazione vera ed utile, che migliora la nostra visione del mondo ossia che ci aiuta a vedere il mondo così com'è.
 > 
 
-Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni ingannevoli**": anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre informazioni.
+Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni ingannevoli**": anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre.
 
 #### ESEMPIO 1
 
@@ -30,7 +30,7 @@ I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso t
 
 
 
-L'informazione fuorviante generata da fatti che vengono riportati e fatti che vengono omessi relativi ad una stessa situazione, viene chiamato "**effetto selezione**". Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare; queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo o da distorcere la prospettiva in una direzione o nell'altra. Ecco un semplice esempio. 
+L'informazione ingannevole risultante dal resoconto di una situazione che riporta alcuni fatti e ne omette altri, viene chiamato "**effetto selezione**". Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare; queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo del lettore o da distorcerla, in una direzione o in un'altra. Facciamo alcuni esempi. 
 
 #### ESEMPIO 2
 
@@ -40,15 +40,15 @@ Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "U
 
 
 
-L'effetto di selezione non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una visione fuorviante del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, è necessario selezionare e riportare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi dai cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, è necessario selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni di guerra culturale, dall'istruzione alla storia.
+L'"effetto selezione" non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una visione ingannevole del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, si possono selezionare ed evidenziare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi da cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, si possono selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate a scopi leciti, ad esempio solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni inerenti a scontri culturali, dall'istruzione alla storia.
 
 
 
-Un altro effetto che porta ad una distorsione è l'**effetto cornice** (Framing effect).
+Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** (Framing effect). Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia rispetto ad altri o induce il lettore ad assumere un certo punto di vista <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla. 
 
-Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia rispetto ad altri o dice al lettore come dovrebbe pensare e sentirsi riguardo all'incidente riportato, <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla. Ad esempio, se un articolo di cronaca su un violento temporale o un uragano menziona il fatto che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice.
+Ad esempio, se un articolo di cronaca su un violento temporale o un uragano menziona il fatto che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice, che aggrava la sensazione di disagio di fronte al cambiamento climatico.
 
-Un caso tipico è quando si cita la nazionalità di un immigrato che ha ucciso la compagna solo se è luogo comune che i cittadini di quella nazione sono violenti con le donne e non si cita nessuna nazionalità quando l'omicidio è commesso da altri immigrati o da cittadini non immigrati, o si cita la provenienza meridionale di un borseggiatore a proposito di un borseggio e nessuna provenienza negli altri casi.
+Quando si cita la nazionalità degli immigrati che uccidono le proprie compagne e non si cita nessuna nazionalità quando questo tipo di omicidi sono commessi da cittadini non immigrati (eventualmente citando solo quelle nazionalità per le quali è luogo comune che gli uomini siano violenti con le donne) si sta introducendo un effetto cornice che conferma il luogo comune.
 
 La figura seguente riassume le situazioni che possono presentarsi di fronte ad una informazione. 
 
@@ -100,7 +100,7 @@ I mass media raramente forniscono un modello per distinguere le fonti affidabili
 
 Puntano sul contrasto ed il conflitto per creare ascolto e quindi preferiscono l'estremo e lo spettacolo alla analisi attenta per estrarre la verità. Per questa tendenza è stato coniato un termine specifico: **infotainment**, unione di "information" ed "entertainment". «informazione» e «divertimento, intrattenimento»: un tipo di produzione, in special modo televisiva, in cui la componente giornalistica viene alternata o fusa con lo spettacolo e il varietà: la forma è quella del salotto in cui giornalisti, politici e personaggi dello spettacolo parlano di attualità dando le loro opinioni e giudizi.
 
-Raramente i media tradizionali dedicano tempo ad esaminare le prove o a valutare dati contraddittori. Hanno una scarsa capacità di attenzione, che, unita al ciclo di notizie 24 ore su 24, genera una frenetica tendenza a trarre conclusioni immediate ed a ripeterle all'infinito.
+Generalmente i media tradizionali dedicano poco tempo ad esaminare le prove o a valutare dati contraddittori. Hanno una scarsa capacità di attenzione, che, unita al ciclo di notizie 24 ore su 24, genera una frenetica tendenza a trarre conclusioni immediate ed a ripeterle all'infinito.
 
 Il fenomeno per cui <u>ripetere più volte un'informazione</u> la fa percepire come vera è un meccanismo psicologico ben noto, spesso sfruttato dai media tradizionali (giornali, TV, radio) e dalla pubblicità per influenzare l'opinione pubblica. Questo principio è conosciuto in psicologia come **"effetto illusorio della verità"**.  La ripetizione rende l'informazione più "familiare". Il cervello umano tende a confondere la familiarità con la verità; pertanto, ciò che è stato già sentito o letto viene elaborato più facilmente e, di conseguenza, accettato più facilmente come corretto. 
 Questo meccanismo funziona soprattutto con i media tradizionali che godono spesso di un'autorità riconosciuta. Quando una notizia viene ripetuta su diverse piattaforme (TG, giornali, programmi di approfondimento), il pubblico tende a considerarla credibile, anche se si tratta di disinformazione o fake news.
@@ -128,20 +128,20 @@ Chiunque può dire qualsiasi cosa su Internet ed Internet è pieno di fonti che 
 
 Detto tutto ciò, cosa possiamo fare per per informarci attraverso Internet senza cadere preda della disinformazione?
 
-Non ci sono metodi che danno la <u>certezza</u> di scoprire le notizie false ed isolarle dalle altre; il massimo che si può fare è adottare degli accorgimenti per abbassare la probabilità di essere manipolati o ingannati e tutti questi accorgimenti convergono sul principio della **verifica delle informazioni**.
+Non ci sono metodi che garantiscono la <u>certezza</u> di scoprire le notizie false ed isolarle dalle altre; il massimo che si può fare è adottare degli accorgimenti per abbassare la probabilità di essere manipolati o ingannati e tutti questi accorgimenti convergono sul principio della **verifica delle informazioni**.
 
-Alcuni modi per verificare se una informazione su Internet, ad esempio un post sui social media, è autentico e affidabile sono:
+Gli aspetti da considerare per valutare l'autenticità o l'affidabilità di una informazione su Internet, ad esempio un post sui social media, sono riportati nell'elenco seguente.
 
-1. **Identità**: Chi ha pubblicato il post? Ha fornito il suo vero nome? Cosa sai di lui con certezza?
+1. **Identità**: Chi ha pubblicato il post? Ha fornito il suo vero nome? Cosa sai di lui con certezza? Questa caratteristica è legata alla <u>responsabilità</u> (accounting) della notizia.
 2. **Rete**: Chi lo segue? Cosa ti dicono le dimensioni e il tipo di follower? È rilevante?
 3. **Motivazione**: Qual era lo scopo di questo post? Cosa cerca di convincerti a credere o a fare?
-4. **Responsabilità**: Proviene da un esperto riconosciuto? Cosa ha da perdere se il contenuto non è vero?
-5. **Interessi personali**: In che modo questo post potrebbe avvantaggiare chi lo ha pubblicato (o la sua reputazione, i suoi follower, i suoi affari, i suoi interessi personali)?
+4. **Autorevolezza**: Proviene da un esperto riconosciuto? Cosa ha da perdere se il contenuto non è vero? Questa caratteristica è legata al concetto di <u>reputazione</u>.
+5. **Interesse personale**: In che modo questo post potrebbe avvantaggiare chi lo ha pubblicato (o la sua reputazione, i suoi follower, i suoi affari, i suoi interessi personali)?
 6. **Coerenza**: I dettagli sono coerenti internamente, ad esempio per quanto riguarda l'ora del giorno, il luogo, l'abbigliamento o sono coerenti tra post correlati tra loro?
-7. **Testimone oculare**: La persona è presente all'evento o nel luogo indicato?
-8. **Conferma**: Il contenuto può essere verificato tramite altre fonti?
+7. **Testimonianza**: La persona è stata presente all'evento o nel luogo indicato?
+8. **Conferma**: Il contenuto può essere verificato tramite altre fonti? Questa caratteristica è legata al concetto di <u>verifica incrociata</u>.
 9. **Recenza**: C'è stato tempo sufficiente perché altri verificassero e confermassero il contenuto?
-10. **Storico**: Conosci la fonte? Si è dimostrata affidabile in passato?
+10. **Affidabilità**: La finte è conosciuta? Si è dimostrata affidabile in passato?
 
 
 
