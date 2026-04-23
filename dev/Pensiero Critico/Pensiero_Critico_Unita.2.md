@@ -22,13 +22,15 @@ Dobbiamo quindi fare una distinzione tra le informazioni che rendono la nostra v
 > $\triangle$ Una  **informazione accurata** è una informazione vera ed utile, che migliora la nostra visione del mondo ossia che ci aiuta a vedere il mondo così com'è.
 > 
 
-Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni ingannevoli**": anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre.
+Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni ingannevoli**": anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre. 
 
 #### ESEMPIO 1
 
 I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso tempo. Se chiedete loro se hanno pulito la loro stanza potreste sentirvi rispondere: "Sì, abbiamo pulito la nostra stanza". Ma se andate a controllare, potreste trovare un disastro e quando chiedete spiegazioni potreste ricevere una risposta del tipo: "Ma non abbiamo mentito. Abbiamo pulito la nostra stanza prima. Non ci hai chiesto se l'avessimo pulita oggi".    $\bullet$
 
 
+
+Oggi siamo pieni di informazioni ingannevoli con le quali vari soggetti cercano di indurci a credere l'una o l'altra cosa. L'obiettivo della persuasione viene perseguito con diverse **tecniche "persuasive"**, che che adesso esaminineremo, di cui le informazioni ingannevoli sono strumento.
 
 L'informazione ingannevole risultante dal resoconto di una situazione che riporta alcuni fatti e ne omette altri, viene chiamato "**effetto selezione**". Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare; queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo del lettore o da distorcerla, in una direzione o in un'altra. Facciamo alcuni esempi. 
 
@@ -40,9 +42,7 @@ Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "U
 
 
 
-L'"effetto selezione" non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una visione ingannevole del mondo. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, si possono selezionare ed evidenziare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi da cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, si possono selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate a scopi leciti, ad esempio solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni inerenti a scontri culturali, dall'istruzione alla storia.
-
-
+L'"effetto selezione" non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una **visione ingannevole del mondo**. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, si possono selezionare ed evidenziare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi da cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, si possono selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate a scopi leciti, ad esempio solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni inerenti a scontri culturali, dall'istruzione alla storia.
 
 Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** (Framing effect). Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia rispetto ad altri o induce il lettore ad assumere un certo punto di vista <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla. 
 
@@ -96,9 +96,9 @@ Ad esempio, quando il Partito Comunista Cinese diffonde disinformazione sui soci
 
 ### Il Ruolo dei Media Tradizionali (Broadcasting) 
 
-I mass media raramente forniscono un modello per distinguere le fonti affidabili da quelle inaffidabili. Hanno diverse cattive abitudini che a loro volta trasmettono altre cattive abitudini. Spesso si macchiano di un <u>falso equilibrio</u>, fornendo una fonte per ciascuna parte, trascurando il diverso peso effettivo delle fonti.
+I mass media raramente forniscono un modello per distinguere le fonti affidabili da quelle inaffidabili, anzi frequentemente utilizzano tecniche di persuasione che si avvalgono di informazioni non affidabili. Uno dei fenomeni più frequenti è quello del  <u>falso equilibrio</u> nei dibattiti, in cui viene fornita una fonte per ciascuna parte, ma si trascura il diverso peso effettivo delle fonti.
 
-Puntano sul contrasto ed il conflitto per creare ascolto e quindi preferiscono l'estremo e lo spettacolo alla analisi attenta per estrarre la verità. Per questa tendenza è stato coniato un termine specifico: **infotainment**, unione di "information" ed "entertainment". «informazione» e «divertimento, intrattenimento»: un tipo di produzione, in special modo televisiva, in cui la componente giornalistica viene alternata o fusa con lo spettacolo e il varietà: la forma è quella del salotto in cui giornalisti, politici e personaggi dello spettacolo parlano di attualità dando le loro opinioni e giudizi.
+I media puntano sul contrasto ed il conflitto per creare ascolto e quindi preferiscono l'estremo e lo spettacolo alla analisi attenta per estrarre la verità. Per questa tendenza è stato coniato un termine specifico: **infotainment**, unione di "information" ed "entertainment". «informazione» e «divertimento, intrattenimento»: un tipo di produzione, in special modo televisiva, in cui la componente giornalistica viene alternata o fusa con lo spettacolo e il varietà: la forma è quella del salotto in cui giornalisti, politici e personaggi dello spettacolo parlano di attualità dando le loro opinioni e giudizi.
 
 Generalmente i media tradizionali dedicano poco tempo ad esaminare le prove o a valutare dati contraddittori. Hanno una scarsa capacità di attenzione, che, unita al ciclo di notizie 24 ore su 24, genera una frenetica tendenza a trarre conclusioni immediate ed a ripeterle all'infinito.
 
