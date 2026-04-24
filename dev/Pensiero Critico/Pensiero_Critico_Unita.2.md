@@ -1,4 +1,4 @@
-## UNITA' 2: Analisi e valutazione delle fonti informative
+## UNITA' 2: Le fonti informative e la disinformazione
 
 Nell'unità precedente abbiamo detto che il pensiero critico consiste nell'esercizio della razionalità nelle comunicazioni per una migliore comprensione della verità o dell'utilità di ciò che ascoltiamo, leggiamo o diciamo.
 
@@ -10,7 +10,7 @@ Prima di entrare nella discussione diamo alcune definizioni dei principali termi
 
 
 
-### Informazioni accurate, ingannevoli, misinformazione e disinformazione
+### Informazioni accurate, ingannevoli e persuasione
 
 Una <u>Informazione</u> è qualsiasi comunicazione che corrisponda alla realtà del mondo, ossia che sia vera. Se diciamo che Albany è la capitale di New York, diamo una informazione. Se leggiamo che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, ci da una informazione. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
 
@@ -30,7 +30,7 @@ I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso t
 
 
 
-Oggi siamo pieni di informazioni ingannevoli con le quali vari soggetti cercano di indurci a credere l'una o l'altra cosa. L'obiettivo della persuasione viene perseguito con diverse **tecniche "persuasive"**, che che adesso esaminineremo, di cui le informazioni ingannevoli sono strumento.
+Oggi siamo pieni di informazioni ingannevoli con le quali vari soggetti cercano di persuaderci a credere l'una o l'altra cosa. L'obiettivo viene perseguito con l'uso di diverse **tecniche**, che che adesso esamineremo, di cui le informazioni ingannevoli sono strumento.
 
 L'informazione ingannevole risultante dal resoconto di una situazione che riporta alcuni fatti e ne omette altri, viene chiamato "**effetto selezione**". Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare; queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo del lettore o da distorcerla, in una direzione o in un'altra. Facciamo alcuni esempi. 
 
