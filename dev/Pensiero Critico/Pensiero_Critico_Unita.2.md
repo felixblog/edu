@@ -30,7 +30,7 @@ I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso t
 
 
 
-Oggi siamo pieni di informazioni ingannevoli con le quali vari soggetti cercano di persuaderci a credere l'una o l'altra cosa. L'obiettivo viene perseguito con l'uso di diverse **tecniche**, che che adesso esamineremo, di cui le informazioni ingannevoli sono strumento.
+Le informazioni possono ingannare in molti modi e di informazioni ingannevoli al giorno d'oggi siamo pieni; sono utilizzate soprattutto a scopi persuasivi da vari soggetti che hanno interesse ad indurci a credere l'una o l'altra cosa. L'obiettivo della persuasione viene perseguito con l'uso di diverse **tecniche**, che che adesso esamineremo, di cui le informazioni ingannevoli sono strumento.
 
 L'informazione ingannevole risultante dal resoconto di una situazione che riporta alcuni fatti e ne omette altri, viene chiamato "**effetto selezione**". Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare; queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo del lettore o da distorcerla, in una direzione o in un'altra. Facciamo alcuni esempi. 
 
@@ -48,7 +48,7 @@ Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** 
 
 Ad esempio, se un articolo di cronaca su un violento temporale o un uragano menziona il fatto che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice, che aggrava la sensazione di disagio di fronte al cambiamento climatico.
 
-Quando si cita la nazionalità degli immigrati che uccidono le proprie compagne e non si cita nessuna nazionalità quando questo tipo di omicidi sono commessi da cittadini non immigrati (eventualmente citando solo quelle nazionalità per le quali è luogo comune che gli uomini siano violenti con le donne) si sta introducendo un effetto cornice che conferma il luogo comune.
+Quando si cita la nazionalità degli immigrati che uccidono le proprie compagne e non si cita nessuna nazionalità nel caso di  omicidi commessi da cittadini non immigrati si sta introducendo un effetto cornice. Questo è particolarmente evidente nei casi delle nazionalità per le quali è diffuso il luogo comune che gli uomini siano violenti con le donne: l'effetto cornice così conferma la diceria.
 
 La figura seguente riassume le situazioni che possono presentarsi di fronte ad una informazione. 
 
