@@ -1,8 +1,8 @@
 ## UNITA' 2: Le fonti informative e la disinformazione
 
-Nell'unità precedente abbiamo detto che il pensiero critico consiste nell'esercizio della razionalità nelle comunicazioni per una migliore comprensione della verità o dell'utilità di ciò che ascoltiamo, leggiamo o diciamo.
+Nell'unità precedente abbiamo detto che il pensiero critico consiste nell'esercizio della razionalità nelle comunicazioni tra gli uomini per una migliore comprensione della verità o dell'utilità di ciò che ascoltiamo, leggiamo o diciamo.
 
-L'attenzione alla verità delle informazioni che utilizziamo nei nostri dibattiti a sostegno delle discussioni è quindi un atteggiamento essenziale nel pensiero critico, insieme alla modalità di reperimento delle informazioni contenute nei documenti, filmati, fotografie eccetera.
+L'attenzione alla verità delle informazioni che utilizziamo nei nostri dibattiti è quindi un atteggiamento essenziale nel pensiero critico, insieme alla modalità di reperimento delle informazioni contenute nei documenti, filmati, fotografie eccetera.
 
 In questa unità affronteremo i problemi che ci si pongono quando riceviamo delle informazioni attraverso i principali mezzi di comunicazione. Discuteremo la possibilità che ci vengano fornite informazioni vere ma anche informazioni false o distorte e come si possa cercare di porre q questo un rimedio.
 
@@ -22,7 +22,7 @@ Dobbiamo quindi fare una distinzione tra le informazioni che rendono la nostra v
 > $\triangle$ Una  **informazione accurata** è una informazione vera ed utile, che migliora la nostra visione del mondo ossia che ci aiuta a vedere il mondo così com'è.
 > 
 
-Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni ingannevoli**": anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre. 
+Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni ingannevoli**" o fuorvianti: anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre. 
 
 #### ESEMPIO 1
 
@@ -30,7 +30,9 @@ I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso t
 
 
 
-Le informazioni possono ingannare in molti modi e di informazioni ingannevoli al giorno d'oggi siamo pieni; sono utilizzate soprattutto a scopi persuasivi da vari soggetti che hanno interesse ad indurci a credere l'una o l'altra cosa. L'obiettivo della persuasione viene perseguito con l'uso di diverse **tecniche**, che che adesso esamineremo, di cui le informazioni ingannevoli sono strumento.
+Le informazioni possono ingannare in molti modi e di informazioni ingannevoli al giorno d'oggi siamo pieni; sono utilizzate da vari soggetti per persuadere con la retorica, con risposte ad effetto, senza argomentare, per indurre a credere di volta in volta all'una o l'altra cosa.
+
+L'obiettivo della persuasione viene perseguito con l'uso di diverse **tecniche**, di cui le informazioni ingannevoli sono strumento. Tra le tecniche generali, esamineremo l'effetto selezione, l'effetto cornice e la ripetizione.
 
 L'informazione ingannevole risultante dal resoconto di una situazione che riporta alcuni fatti e ne omette altri, viene chiamato "**effetto selezione**". Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare; queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo del lettore o da distorcerla, in una direzione o in un'altra. Facciamo alcuni esempi. 
 
@@ -38,17 +40,21 @@ L'informazione ingannevole risultante dal resoconto di una situazione che riport
 
 La maggior parte degli americani muore per malattie, e quelle principali sono le malattie cardiache e il cancro. Ma quasi tutti i notiziari che parlano di decessi si concentrano sulla violenza, con omicidio, terrorismo e suicidio tra le cause più comuni.
 
-Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "Un cane morde un uomo non è un notizia, un uomo morde un cane è una notizia!"). Ma dal punto di vista del lettore, notizie di questo tipo sono fuorvianti (anche quando sono vere). Il rapporto tra notizie di morti violente e morti non violente dà l'impressione che ogni città d'America sia un luogo violento, dove la maggior parte degli americani muore per mano di altri. Questo non è vero, anche quando le notizie riportate sono tutte accurate. Quindi, anche se potrebbe essere vero che c'è stato un omicidio in una città, concentrarsi selettivamente sugli omicidi giorno dopo giorno può indurre a pensare che quella città sia più violenta di quanto non sia in realtà.    $\bullet$
+Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "Un cane morde un uomo non è un notizia, un uomo morde un cane è una notizia!"). Ma dal punto di vista del lettore, notizie di questo tipo sono fuorvianti, anche quando sono vere. Il rapporto tra notizie di morti violente e morti non violente dà l'impressione che ogni città d'America sia un luogo violento, dove la maggior parte degli americani muore per mano di altri e questo non è vero. Quindi, anche se le notizie degli omicidi avvenuti in una determinata città sono tutte autentiche, concentrarsi selettivamente sugli omicidi giorno dopo giorno può indurre a pensare che quella città sia più violenta di quanto non sia in realtà.    $\bullet$
 
 
 
 L'"effetto selezione" non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una **visione ingannevole del mondo**. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, si possono selezionare ed evidenziare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi da cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, si possono selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate a scopi leciti, ad esempio solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni inerenti a scontri culturali, dall'istruzione alla storia.
 
-Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** (Framing effect). Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia rispetto ad altri o induce il lettore ad assumere un certo punto di vista <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla. 
+Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** (Framing effect). Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia rispetto ad altri o induce il lettore ad assumere un certo punto di vista <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla.
 
-Ad esempio, se un articolo di cronaca su un violento temporale o un uragano menziona il fatto che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice, che aggrava la sensazione di disagio di fronte al cambiamento climatico.
+#### ESEMPIO 3
 
-Quando si cita la nazionalità degli immigrati che uccidono le proprie compagne e non si cita nessuna nazionalità nel caso di  omicidi commessi da cittadini non immigrati si sta introducendo un effetto cornice. Questo è particolarmente evidente nei casi delle nazionalità per le quali è diffuso il luogo comune che gli uomini siano violenti con le donne: l'effetto cornice così conferma la diceria.
+Se un articolo di cronaca su un violento temporale o un uragano menziona il fatto che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice, che aggrava la sensazione di disagio di fronte al cambiamento climatico.
+
+Quando si cita la nazionalità degli immigrati che uccidono le proprie compagne e non si cita nessuna nazionalità nel caso di  omicidi commessi da cittadini non immigrati si sta introducendo un effetto cornice. Questo è particolarmente evidente nei casi delle nazionalità per le quali è diffuso il luogo comune che gli uomini siano violenti con le donne: l'effetto cornice così conferma la diceria.    $\bullet$
+
+
 
 La figura seguente riassume le situazioni che possono presentarsi di fronte ad una informazione. 
 
@@ -65,9 +71,9 @@ Un'affermazione è falsa quando non corrisponde alla realtà dei fatti. Quando s
 La misinformazione deriva da un errore: chi scrive o condivide la notizia pensa che sia vera, ma in realtà non lo è.
 La misinformazione può provenire da molte fonti; a volte proviene da persone semplicemente ingenue. Quando una zia un po' stravagante pubblica su Facebook un post in cui afferma che i vaccini causano l'autismo, probabilmente ci crede davvero: questo è un caso di misinformazione.
 
-Casi analoghi sono quelli di molte persone che credono davvero a ciò che dicono sugli alieni, sui politici, sulle mode della medicina alternativa o sulle teorie del complotto. Quando queste affermazioni sono false, rientrano nella categoria della misinformazione.
+Casi analoghi sono quelli delle persone che credono davvero a ciò che essi stessi scrivono su alieni, su politici, sulle mode della medicina alternativa o sulle teorie del complotto. Quando queste affermazioni sono false, rientrano nella categoria della misinformazione.
 
-Se la misinformazione è un contenuto falso diffuso per errore, la <u>disinformazione</u> è un contenuto falso diffuso di proposito. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare. L'esempio classico è quello del politico che mente per nascondere la verità. Afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
+Se la misinformazione è un contenuto falso diffuso per errore, la <u>disinformazione</u> è un contenuto falso diffuso di proposito. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare. L'esempio classico è quello del politico che mente per nascondere la verità: afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
 
 >
 > $\triangle$ Si ha **disinformazione** quando un contenuto falso viene diffuso intenzionalmente (chi lo diffonde sà che è falso). 
@@ -75,13 +81,13 @@ Se la misinformazione è un contenuto falso diffuso per errore, la <u>disinforma
 
 Il nostro ambiente informativo è saturo di disinformazione. Ogni volta che un'azienda inganna consapevolmente gli enti regolatori o i clienti con affermazioni false, si tratta di disinformazione. Ad esempio, quando un'azienda produttrice di tabacco afferma che fumare non aumenta il rischio di sviluppare il cancro, si tratta di disinformazione, dato che sa il contrario da decenni. Oppure quando un'azienda di combustibili fossili nega che il cambiamento climatico sia causato (in parte) dall'inquinamento umano, si tratta di disinformazione.
 
-I governi sono impegnati nel gioco della disinformazione da secoli nella forma della <u>propaganda</u>.
+I governi sono impegnati nella disinformazione da secoli, nella forma che viene chiamata <u>propaganda</u>.
 
 >
-> $\triangle$  La **propaganda** è qualsiasi materiale fuorviante o palesemente falso, diffuso da governi, aziende o altri soggetti al fine di manipolare intenzionalmente una popolazione. Sebbene assuma molte forme diverse (film, saggi etc.), una delle più importanti è la disinformazione vera e propria.
+> $\triangle$  La **propaganda** è costituita da qualsiasi materiale ingannevole o palesemente falso, diffuso da governi, aziende o altri soggetti, al fine di manipolare intenzionalmente una popolazione. Sebbene possa assumere forme diverse (film, opere d'arte eccetera), una delle più importanti è la disinformazione vera e propria.
 > 
 
- Se la guerra non sta andando bene e il governo, consapevolmente, comunica ai cittadini il contrario: si tratta di disinformazione. Quando un troll online inventa una storia per incitare gli avversari politici, si sta impegnando in una campagna di disinformazione.
+Se la guerra non sta andando bene e il governo, consapevolmente, comunica ai cittadini il contrario: si tratta di disinformazione. Quando un troll online inventa una storia per incitare gli avversari politici, si sta impegnando in una campagna di disinformazione.
 
 Una forma particolarmente comune di disinformazione è la fake news. La fake news si verifica quando le persone pubblicano o condividono informazioni che sanno essere false, spacciandole per fonti di notizie legittime.
 
@@ -89,22 +95,22 @@ Una forma particolarmente comune di disinformazione è la fake news. La fake new
 > $\triangle$  Una **Fake News** è una notizia falsa, mascherata da notizia vera e diffusa intenzionalmente.
 >
 
-Ad esempio, quando il Partito Comunista Cinese diffonde disinformazione sui social media con il nome di CNN, si tratta di fake news. Oppure, quando un attivista politico crea un sito web che sembra quello di una rispettabile testata giornalistica locale, ma che in realtà è solo una copertura per pubblicare disinformazione, si tratta di fake news. Mentre i politici tendono a considerare le fake news come qualsiasi notizia che non gradiscono, è meglio considerarle come un sottoinsieme della disinformazione: notizie false o contraffatte mascherate da notizie vere.
+Ad esempio, quando il Partito Comunista Cinese diffonde disinformazione sui social media attribuendola alla CNN, sta producendo fake news. Oppure, quando un attivista politico crea un sito web che sembra quello di una rispettabile testata giornalistica locale, ma nella realtà è una copertura per pubblicare disinformazione, si tratta di fake news. In breve le Fake News sono notizie false o contraffatte mascherate da notizie vere.
 
 
 
 
 ### Il Ruolo dei Media Tradizionali (Broadcasting) 
 
-I mass media raramente forniscono un modello per distinguere le fonti affidabili da quelle inaffidabili, anzi frequentemente utilizzano tecniche di persuasione che si avvalgono di informazioni non affidabili. Uno dei fenomeni più frequenti è quello del  <u>falso equilibrio</u> nei dibattiti, in cui viene fornita una fonte per ciascuna parte, ma si trascura il diverso peso effettivo delle fonti.
+I mass media raramente si impegnano nel separare le fonti affidabili da quelle inaffidabili, anzi, spesso, utilizzano tecniche di persuasione che si avvalgono di informazioni non affidabili. Uno dei fenomeni più frequenti è quello del  <u>falso equilibrio</u> nei dibattiti, in cui viene fornita una fonte per ciascuna parte, ma si trascura il diverso peso effettivo delle fonti.
 
-I media puntano sul contrasto ed il conflitto per creare ascolto e quindi preferiscono l'estremo e lo spettacolo alla analisi attenta per estrarre la verità. Per questa tendenza è stato coniato un termine specifico: **infotainment**, unione di "information" ed "entertainment". «informazione» e «divertimento, intrattenimento»: un tipo di produzione, in special modo televisiva, in cui la componente giornalistica viene alternata o fusa con lo spettacolo e il varietà: la forma è quella del salotto in cui giornalisti, politici e personaggi dello spettacolo parlano di attualità dando le loro opinioni e giudizi.
+I media puntano sul contrasto ed il conflitto per creare ascolto e quindi preferiscono le posizioni estreme e lo spettacolo alla analisi attenta per estrarre la verità. Per questa tendenza è stato coniato un termine specifico: **infotainment**, unione di "information" ed "entertainment". «informazione» e «divertimento, intrattenimento»: un tipo di produzione, in special modo televisiva, in cui la componente giornalistica viene alternata o fusa con lo spettacolo e il varietà: la forma è quella del salotto in cui giornalisti, politici e personaggi dello spettacolo parlano di attualità dando le loro opinioni e giudizi.
 
 Generalmente i media tradizionali dedicano poco tempo ad esaminare le prove o a valutare dati contraddittori. Hanno una scarsa capacità di attenzione, che, unita al ciclo di notizie 24 ore su 24, genera una frenetica tendenza a trarre conclusioni immediate ed a ripeterle all'infinito.
 
-Il fenomeno per cui <u>ripetere più volte un'informazione</u> la fa percepire come vera è un meccanismo psicologico ben noto, spesso sfruttato dai media tradizionali (giornali, TV, radio) e dalla pubblicità per influenzare l'opinione pubblica. Questo principio è conosciuto in psicologia come **"effetto illusorio della verità"**.  La ripetizione rende l'informazione più "familiare". Il cervello umano tende a confondere la familiarità con la verità; pertanto, ciò che è stato già sentito o letto viene elaborato più facilmente e, di conseguenza, accettato più facilmente come corretto. 
+Il fenomeno per cui <u>ripetere più volte un'informazione</u> la fa percepire come vera è un meccanismo psicologico ben noto, spesso sfruttato dai media tradizionali (giornali, TV, radio) e dalla pubblicità per influenzare l'opinione pubblica. Questo principio è conosciuto in psicologia come **"effetto illusorio della verità"**.  La ripetizione rende l'informazione più "familiare" ed il cervello umano tende a **confondere la familiarità con la verità**; pertanto, ciò che è stato già sentito o letto viene elaborato più facilmente e, di conseguenza, accettato più facilmente come corretto. 
 Questo meccanismo funziona soprattutto con i media tradizionali che godono spesso di un'autorità riconosciuta. Quando una notizia viene ripetuta su diverse piattaforme (TG, giornali, programmi di approfondimento), il pubblico tende a considerarla credibile, anche se si tratta di disinformazione o fake news.
-Spesso associata alla propaganda o a strategie di marketing, questa tecnica mira a trasformare una menzogna in una verità percepita, ignorando il dibattito critico e puntando sulla "fabbrica del consenso" attraverso l'esposizione costante a determinati messaggi. 
+Spesso associata alla propaganda o a strategie di marketing delle aziende, questa tecnica mira a trasformare una menzogna in una verità percepita, ignorando il dibattito critico e puntando sulla "fabbrica del consenso" attraverso l'esposizione costante a determinati messaggi. 
 
 
 
@@ -112,9 +118,10 @@ Spesso associata alla propaganda o a strategie di marketing, questa tecnica mira
 
 Internet ha rivoluzionato il nostro modo di comunicare ed ha fornito un numero enorme di nuove possibilità che hanno avuto impatto sia sulla nostra vita privata che sul mondo degli affari.
 
-Internet ha però anche un enorme potenziale di diffusione della disinformazione. Le notizie che fornisce devono essere valutate con ancora maggiore cautela rispetto alle informazioni provenienti dalla stampa, dalla radio o dalla televisione.
+Internet ha però anche un enorme potenziale di diffusione della disinformazione, per cui le notizie che fornisce devono essere valutate con ancora maggiore cautela rispetto alle informazioni provenienti dalla stampa, dalla radio o dalla televisione.
+
 Esistono fondamentalmente due tipi di fonti di informazione su Internet: la prima
-costituita da fonti commerciali e istituzionali, la seconda formata da siti Web individuali e di gruppo. 
+è costituita da fonti commerciali e istituzionali, la seconda è formata da siti Web, individuali e di gruppo. 
 
 La prima categoria include fonti ufficiali come istituzioni governative ed educative e i servizi online offerti dai principali organi di informazione (ad esempio www.repubblica.it www.corriere.it eccetera).
 
@@ -128,20 +135,20 @@ Chiunque può dire qualsiasi cosa su Internet ed Internet è pieno di fonti che 
 
 Detto tutto ciò, cosa possiamo fare per per informarci attraverso Internet senza cadere preda della disinformazione?
 
-Non ci sono metodi che garantiscono la <u>certezza</u> di scoprire le notizie false ed isolarle dalle altre; il massimo che si può fare è adottare degli accorgimenti per abbassare la probabilità di essere manipolati o ingannati e tutti questi accorgimenti convergono sul principio della **verifica delle informazioni**.
+Premesso che non ci sono metodi che <u>garantiscono</u> di scoprire le notizie false ed isolarle dalle altre con certezza, si possono adottare degli accorgimenti per ridurre il rischio di essere manipolati o ingannati e tutti questi accorgimenti convergono sul principio della **verifica delle informazioni**.
 
 Gli aspetti da considerare per valutare l'autenticità o l'affidabilità di una informazione su Internet, ad esempio un post sui social media, sono riportati nell'elenco seguente.
 
 1. **Identità**: Chi ha pubblicato il post? Ha fornito il suo vero nome? Cosa sai di lui con certezza? Questa caratteristica è legata alla <u>responsabilità</u> (accounting) della notizia.
-2. **Rete**: Chi lo segue? Cosa ti dicono le dimensioni e il tipo di follower? È rilevante?
-3. **Motivazione**: Qual era lo scopo di questo post? Cosa cerca di convincerti a credere o a fare?
-4. **Autorevolezza**: Proviene da un esperto riconosciuto? Cosa ha da perdere se il contenuto non è vero? Questa caratteristica è legata al concetto di <u>reputazione</u>.
-5. **Interesse personale**: In che modo questo post potrebbe avvantaggiare chi lo ha pubblicato (o la sua reputazione, i suoi follower, i suoi affari, i suoi interessi personali)?
-6. **Coerenza**: I dettagli sono coerenti internamente, ad esempio per quanto riguarda l'ora del giorno, il luogo, l'abbigliamento o sono coerenti tra post correlati tra loro?
-7. **Testimonianza**: La persona è stata presente all'evento o nel luogo indicato?
+2. **Affidabilità**: La fonte è conosciuta? Si è dimostrata affidabile in passato?
+3. **Autorevolezza**: Proviene da un esperto riconosciuto? Cosa ha da perdere se il contenuto non è vero? Questa caratteristica è legata al concetto di <u>reputazione</u>.
+4. **Seguito**: Chi segue quel post e quella fonte? Cosa ti dicono le dimensioni e il tipo di follower? È rilevante?
+5. **Motivazione**: Qual era lo scopo del post? Cosa cerca di convincerti a credere o a fare?
+6. **Interesse personale**: In che modo questo post potrebbe avvantaggiare chi lo ha pubblicato (o la sua reputazione, i suoi follower, i suoi affari, i suoi interessi personali)?
+7. **Coerenza**: I dettagli sono coerenti internamente, ad esempio ora del giorno e luoghi citati sono coerenti tra i post correlati tra loro?
 8. **Conferma**: Il contenuto può essere verificato tramite altre fonti? Questa caratteristica è legata al concetto di <u>verifica incrociata</u>.
-9. **Recenza**: C'è stato tempo sufficiente perché altri verificassero e confermassero il contenuto?
-10. **Affidabilità**: La finte è conosciuta? Si è dimostrata affidabile in passato?
+9. **Testimonianza**: La persona è stata presente all'evento o nel luogo indicato? Ci sono testimoni di quanto detto?
+10. **Recenza**: C'è stato tempo sufficiente perché altri verificassero e confermassero il contenuto?
 
 
 
