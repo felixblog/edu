@@ -131,27 +131,6 @@ Chiunque può dire qualsiasi cosa su Internet ed Internet è pieno di fonti che 
 
 
 
-### Come difendersi
-
-Detto tutto ciò, cosa possiamo fare per per informarci attraverso Internet senza cadere preda della disinformazione?
-
-Premesso che non ci sono metodi che <u>garantiscono</u> di scoprire le notizie false ed isolarle dalle altre con certezza, si possono adottare degli accorgimenti per ridurre il rischio di essere manipolati o ingannati e tutti questi accorgimenti convergono sul principio della **verifica delle informazioni**.
-
-Gli aspetti da considerare per valutare l'autenticità o l'affidabilità di una informazione su Internet, ad esempio un post sui social media, sono riportati nell'elenco seguente.
-
-1. **Identità**: Chi ha pubblicato il post? Ha fornito il suo vero nome? Cosa sai di lui con certezza? Questa caratteristica è legata alla <u>responsabilità</u> (accounting) della notizia.
-2. **Affidabilità**: La fonte è conosciuta? Si è dimostrata affidabile in passato?
-3. **Autorevolezza**: Proviene da un esperto riconosciuto? Cosa ha da perdere se il contenuto non è vero? Questa caratteristica è legata al concetto di <u>reputazione</u>.
-4. **Seguito**: Chi segue quel post e quella fonte? Cosa ti dicono le dimensioni e il tipo di follower? È rilevante?
-5. **Motivazione**: Qual era lo scopo del post? Cosa cerca di convincerti a credere o a fare?
-6. **Interesse personale**: In che modo questo post potrebbe avvantaggiare chi lo ha pubblicato (o la sua reputazione, i suoi follower, i suoi affari, i suoi interessi personali)?
-7. **Coerenza**: I dettagli sono coerenti internamente, ad esempio ora del giorno e luoghi citati sono coerenti tra i post correlati tra loro?
-8. **Conferma**: Il contenuto può essere verificato tramite altre fonti? Questa caratteristica è legata al concetto di <u>verifica incrociata</u>.
-9. **Testimonianza**: La persona è stata presente all'evento o nel luogo indicato? Ci sono testimoni di quanto detto?
-10. **Recenza**: C'è stato tempo sufficiente perché altri verificassero e confermassero il contenuto?
-
-
-
 ### ESERCIZIO 2.1
 
 Per ciascuna delle notizie seguenti scegli la migliore tra le risposte proposte.
@@ -209,4 +188,51 @@ Questa notizia è:
 c) Hai letto recensioni entusiastiche di "The Life Plan", un libro che promette di rallentare l'invecchiamento, aumentare la forza, migliorare la vita sessuale e così via attraverso la dieta, l'esercizio fisico e la terapia ormonale. Un lettore del libro può aspettarsi di ottenere i risultati descritti? Ci sono delle precauzioni da prendere prima di iniziare un programma del genere?
 
 
+
+## UNITA' 3: La credibilità delle informazioni
+
+In questo capitolo ci porremo il problema della credibilità di una informazione, ossia cercheremo di rispondere al problema della **credibilità delle informazioni**, che ci si può porre in diversi modi, tutti equivalenti:
+
+1. come possiamo sapere se una informazione in cui ci imbattiamo è vera?
+2. di cosa abbiamo bisogno per credere che una informazione sia vera?
+3. cosa possiamo fare per assicurarci della verità di una informazione? 
+
+Premesso che non ci sono metodi che <u>garantiscono</u> di scoprire le notizie false ed isolarle dalle altre con certezza, si possono adottare degli accorgimenti per ridurre il rischio di essere manipolati o ingannati e tutti questi accorgimenti possono essere ripartiti in due gruppi, quelli che riguardano la credibilità del contenuto e quelli che riguardano la credibilità della fonte.
+
+
+
+### Credibilità del contenuto
+
+
+
+Quanto più bassa è la probabilità che un'affermazione sia vera, in base alle nostre osservazioni (e ai ricordi di osservazioni precedenti) e a ciò che altrimenti abbiamo motivo di credere e non credere, tanto meno credibile è e tanto più ci sono motivi per dubitarne. Si consideri l'affermazione secondo cui entro tre anni la maggior parte della popolazione mondiale moriranno a causa di un'epidemia provocata da una misteriosa forma di batterio. È altamente improbabile, ovviamente, ma non è così improbabile come l'affermazione che tra tre anni la maggior parte della popolazione mondiale verrà uccisa da Justin Bieber. Se qualcuno ci dicesse che indossare scarpe di diverse taglie più piccole renderà i nostri piedi più comodi, o che più teniamo acceso il condizionatore, minore sarà la bolletta elettrica saremmo scettici.
+
+Le nostre osservazioni personali rappresentano la fonte di informazioni più affidabile sul mondo.
+È quindi ragionevole diffidare di qualsiasi affermazione che contraddica ciò che osserviamo o ricordiamo di aver osservato.
+Ma le osservazioni e la memoria sono tutt'altro che infallibili. Si dice che i chirurghi abbiano dimenticato quale arto di un paziente avrebbero dovuto operare, e che i testimoni abbiano identificato erroneamente gli autori di un crimine. Il riquadro qui accanto, "Quando l'osservazione personale fallisce...", presenta statistiche allarmanti su persone innocenti ingiustamente condannate a causa di identificazioni errate da parte di testimoni oculari.
+
+
+
+
+
+### Credibilità delle fonti
+
+
+
+### Come difendersi
+
+
+
+Gli aspetti da considerare per valutare l'autenticità o l'affidabilità di una informazione su Internet, ad esempio un post sui social media, sono riportati nell'elenco seguente.
+
+1. **Identità**: Chi ha pubblicato il post? Ha fornito il suo vero nome? Cosa sai di lui con certezza? Questa caratteristica è legata alla <u>responsabilità</u> (accounting) della notizia.
+2. **Affidabilità**: La fonte è conosciuta? Si è dimostrata affidabile in passato?
+3. **Autorevolezza**: Proviene da un esperto riconosciuto? Cosa ha da perdere se il contenuto non è vero? Questa caratteristica è legata al concetto di <u>reputazione</u>.
+4. **Seguito**: Chi segue quel post e quella fonte? Cosa ti dicono le dimensioni e il tipo di follower? È rilevante?
+5. **Motivazione**: Qual era lo scopo del post? Cosa cerca di convincerti a credere o a fare?
+6. **Interesse personale**: In che modo questo post potrebbe avvantaggiare chi lo ha pubblicato (o la sua reputazione, i suoi follower, i suoi affari, i suoi interessi personali)?
+7. **Coerenza**: I dettagli sono coerenti internamente, ad esempio ora del giorno e luoghi citati sono coerenti tra i post correlati tra loro?
+8. **Conferma**: Il contenuto può essere verificato tramite altre fonti? Questa caratteristica è legata al concetto di <u>verifica incrociata</u>.
+9. **Testimonianza**: La persona è stata presente all'evento o nel luogo indicato? Ci sono testimoni di quanto detto?
+10. **Recenza**: C'è stato tempo sufficiente perché altri verificassero e confermassero il contenuto?
 
