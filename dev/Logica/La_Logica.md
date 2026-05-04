@@ -352,6 +352,8 @@ a) Dire a quali connettivi proposizionali fondamentali (congiunzione, disgiunzio
 7. "Carlo gioca <u>a meno che</u> piova";  
 8. "<u>A meno che</u> Carlo intervenga, lo scontro è inevitabile".
 
+Suggerimento: "dato che", "perché" e "a meno che" (sinonimo di "se non") introducono una antecedente. 
+
 
 
 ### ESERCIZIO 2.3 - Forme Simboliche II
