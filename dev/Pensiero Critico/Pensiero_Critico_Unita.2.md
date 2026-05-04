@@ -197,21 +197,37 @@ In questo capitolo ci porremo il problema della credibilità di una informazione
 2. di cosa abbiamo bisogno per credere che una informazione sia vera?
 3. cosa possiamo fare per assicurarci della verità di una informazione? 
 
-Premesso che non ci sono metodi che <u>garantiscono</u> di scoprire le notizie false ed isolarle dalle altre con certezza, si possono adottare degli accorgimenti per ridurre il rischio di essere manipolati o ingannati e tutti questi accorgimenti possono essere ripartiti in due gruppi, quelli che riguardano la credibilità del contenuto e quelli che riguardano la credibilità della fonte.
+Premesso che non ci sono metodi che <u>garantiscono</u> di scoprire le notizie false ed isolarle dalle altre con certezza, si possono adottare degli accorgimenti per ridurre il rischio di essere manipolati o ingannati e tutti questi accorgimenti possono essere ripartiti in due gruppi, quelli che riguardano la <u>credibilità del contenuto</u> e quelli che riguardano la <u>credibilità della fonte</u>.
 
 
 
 ### Credibilità del contenuto
 
+Quanto più bassa è la probabilità che un'affermazione sia vera, in base alle nostre osservazioni (e ai ricordi di osservazioni precedenti) e a ciò che altrimenti abbiamo motivo di credere e non credere, tanto meno credibile è e tanto più ci sono motivi per dubitarne. Si consideri l'affermazione secondo cui entro tre anni la maggior parte della popolazione mondiale moriranno a causa di un'epidemia provocata da una misteriosa forma di batterio. È altamente improbabile, ovviamente, ma non è così improbabile come l'affermazione che tra tre anni la maggior parte della popolazione mondiale verrà uccisa da Lady Gaga. Se qualcuno ci dicesse che indossare scarpe di diverse taglie più piccole renderà i nostri piedi più comodi, o che più teniamo acceso il condizionatore, minore sarà la bolletta elettrica saremmo scettici.
 
-
-Quanto più bassa è la probabilità che un'affermazione sia vera, in base alle nostre osservazioni (e ai ricordi di osservazioni precedenti) e a ciò che altrimenti abbiamo motivo di credere e non credere, tanto meno credibile è e tanto più ci sono motivi per dubitarne. Si consideri l'affermazione secondo cui entro tre anni la maggior parte della popolazione mondiale moriranno a causa di un'epidemia provocata da una misteriosa forma di batterio. È altamente improbabile, ovviamente, ma non è così improbabile come l'affermazione che tra tre anni la maggior parte della popolazione mondiale verrà uccisa da Justin Bieber. Se qualcuno ci dicesse che indossare scarpe di diverse taglie più piccole renderà i nostri piedi più comodi, o che più teniamo acceso il condizionatore, minore sarà la bolletta elettrica saremmo scettici.
-
-Le nostre osservazioni personali rappresentano la fonte di informazioni più affidabile sul mondo.
+La prima verifica della credibilità di un contenuto va fatta mediante il confronto con le nostre **osservazioni personali**, che  rappresentano la fonte di informazioni più affidabile sul mondo.
 È quindi ragionevole diffidare di qualsiasi affermazione che contraddica ciò che osserviamo o ricordiamo di aver osservato.
-Ma le osservazioni e la memoria sono tutt'altro che infallibili. Si dice che i chirurghi abbiano dimenticato quale arto di un paziente avrebbero dovuto operare, e che i testimoni abbiano identificato erroneamente gli autori di un crimine. Il riquadro qui accanto, "Quando l'osservazione personale fallisce...", presenta statistiche allarmanti su persone innocenti ingiustamente condannate a causa di identificazioni errate da parte di testimoni oculari.
+Ma le osservazioni e la memoria sono tutt'altro che infallibili: ci sono diversi casi di cronaca che riportano come equipe di chirurghi abbiano dimenticato quale arto di un paziente avrebbero dovuto operare, e che in alcuni processi i testimoni abbiano identificato erroneamente gli autori di un crimine. 
 
+Anche le aspettative possono influenzare le nostre osservazioni, attraverso un fenomeno noto come "penetrazione cognitiva". Se sentiamo che una casa è infestata dalle pulci, siamo propensi a vedere ogni piccolo insetto nero come una pulce. Se qualcuno che crede nei fantasmi sente che una casa è infestata, potrebbe benissimo credere di vedere nella casa le prove della loro presenza.
 
+Ci sono molti esempi del genere, ma sebbene le osservazioni dirette non siano infallibili, rimangono comunque la migliore fonte di informazione a nostra disposizione: le informazioni che contraddicono le nostre osservazioni dirette sono <u>devono</u> essere considerate con diffidenza.
+
+Il secondo confronto è con le nostre **conoscenze pregresse**, ovvero quel grande insieme di convinzioni che possediamo, costituito da fatti appresi tramite osservazioni dirette e da fatti appresi da altri. Gran parte delle nostre conoscenze pregresse è ben confermata da diverse fonti. Le segnalazioni che contraddicono questo insieme di informazioni – i nostri "presupposti", come dicono gli statistici – sono di solito, giustamente, soggette a dubbi, anche se non possiamo smentirle tramite osservazione diretta: rifiutiamo immediatamente l'affermazione "Le palme crescono in abbondanza vicino al Polo Nord" considerandola altamente improbabile, anche se non siamo in grado di confermarla o smentirla tramite osservazione diretta.
+
+Quando ci imbattiamo per la prima volta in un'affermazione, iniziamo assegnandole una certa plausibilità iniziale, una valutazione approssimativa di quanto ci sembri probabile o improbabile.
+Questa valutazione dipende da quanto l'affermazione sia coerente con le nostre informazioni di base, ovvero da quanto bene "si adatti" a tali informazioni. Se si adatta bene, attribuiamo all'affermazione un ragionevole grado di plausibilità iniziale: c'è una ragionevole aspettativa che sia vera. Se, invece, l'affermazione è in conflitto con le nostre informazioni di base, le attribuiamo una bassa plausibilità iniziale e tendiamo a respingerla a meno che non vengano prodotte prove molto solide a suo favore.
+
+Questo criterio presenta due criticità:
+
+- scarsa efficacia in ambiti che per noi sono nuovi e sui quali non abbiamo conoscenze pregresse;
+- possibilità che la nuova informazione sia vera nonostante il conflitto con le nostre conoscenze pregresse.
+
+>
+> Qualche tempo fa, un giornale aveva un articolo sul furto di una casa a in Texas: una casa in mattoni. È certamente inverosimile: come si può rubare una casa? Eppure esistono <u>prove credibili</u> che l'evento sia realmente accaduto, ed a volte anche cose più strane si rivelano vere.
+>
+
+Il nostro compito, in quanto pensatori critici, è quindi quello di utilizzare le conoscenze pregresse per valutare la plausibilità di una nuova affermazione, ma allo stesso tempo mantenere una mente aperta e renderci conto che ulteriori informazioni potrebbero portarci ad abbandonare una convinzione pregressa che credevamo vera ed rivalutare la nuova affermazione che aveva una bassa plausibilità iniziale.
 
 
 

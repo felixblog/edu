@@ -134,7 +134,7 @@ b) Disegna sul cerchio goniometrico i seguenti angoli, misurati in radianti: $\d
 
 
 
-## Unità 2: Le funzioni seno e coseno
+## UNITA' 2: Le funzioni seno e coseno
 
 Consideriamo la circonferenza goniometrica, un angolo orientato $\alpha$ ed il punto della circonferenza associato ad $\alpha$ che chiamiamo $B$. Definiamo coseno e seno dell’angolo $\alpha$, e le indichiamo con $\sin \alpha$ e $\cos \alpha$, le funzioni che associano ad $\alpha$ rispettivamente, il valore dell’ascissa $x_B$ e quello dell’ordinata $y_B$ del punto $B$, ossia
 $$
@@ -258,7 +258,7 @@ b) $4 - 4 \sin^2 \alpha + (cos \alpha - \sin \alpha)^2 + 2 \cos \alpha(\sin \alp
 
 
 
-## Unità 3: La funzione Tangente e le funzioni inverse
+## UNITA' 3: La funzione Tangente e le funzioni inverse
 
 Consideriamo la circonferenza goniometrica, un angolo orientato $\alpha$ ed il punto della circonferenza associato ad $\alpha$ che chiamiamo $B$. Si definisce tangente di $\alpha$ la funzione che associa al $\alpha$ il rapporto fra l’ordinata e l’ascissa del punto $B$, quando esiste.
 $$
@@ -573,5 +573,16 @@ c) Nel triangolo rettangolo $\triangle ABC$ la lunghezza dell’ipotenusa $BC$ �
 
 
 
-## UNITA' 5: Le Funzioni Goniometriche e le Trasformazioni Geometriche
+
+
+### ESERCIZIO 4.3 - La risoluzione dei triangoli nella realtà
+
+a) Una funivia collega due località, $A$ e $B$, distanti $1.200 \;m$ ed è inclinata di $42^\circ$ sul piano orizzontale. A che altezza, rispetto ad $A$, si trova la stazione $B$?		$R: [802,96\; m]$
+
+b) Lo scivolo di un parchetto per bambini è alto $2,5\; m$. Per arrivare a terra un bimbo scivola per $3,36\; m$. Che 
+angolo forma lo scivolo con il terreno?		$R: [48^\circ]$
+
+c) In un cartello stradale si legge: «Pendenza del $14\%$». Percorrendo un tratto di $280\; m$, quanto si sale in altezza? Che angolo forma la strada con il piano orizzontale?		$R: [39,2\; m; 8,05^\circ]$
+
+
 

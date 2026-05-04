@@ -354,7 +354,7 @@ a) Dire a quali connettivi proposizionali fondamentali (congiunzione, disgiunzio
 
 
 
-### ESERCIZIO 2.2 - Forme Simboliche II
+### ESERCIZIO 2.3 - Forme Simboliche II
 
 Posto $c$: "Carlo è ligure" e $d$: "Diego è piemontese":
 
@@ -363,9 +363,11 @@ a) Scrivi in forma simbolica le seguenti proposizioni composte:
 1. "Carlo non è ligure”  
 2. "Carlo è ligure e Diego è piemontese";  
 3. "Carlo è ligure sebbene Diego sia piemontese";  
-4. "Non è vero che Carlo sia ligure e Diego piemontese";  
-5. "Se Carlo non è ligure, allora Diego non è piemontese";  
-6. "È falso che se Carlo è ligure, allora Diego è piemontese".
+4. "Non è vero che Carlo sia ligure e Diego piemontese";
+5. "E' falso che Carlo è ligure e Diego è piemontese";
+6. "E' falso sia che Carlo sia ligure, sia che Diego sia piemontese";
+7. "Se Carlo non è ligure, allora Diego non è piemontese";  
+8. "È falso che se Carlo è ligure, allora Diego è piemontese".
 
 b) Scrivi in forma simbolica le seguenti proposizioni composte:
 
@@ -720,7 +722,7 @@ I ragionamenti $R_1$, $R_2$ ed $R_3$ sono corretti, ma $R_1$ non dimostra la con
 
 In $R_3$ le ipotesi sono entrambe vere e quindi possiamo accettare la verità della conclusione: $R_3$ è quindi un ragionamento che dimostra che $15$ è un numero dispari.
 
-$R_4$ non è corretto perché la conclusione non si deduce dalle premesse, anche se è una affermazione vera. Quindi, come nel caso di $R_2$, la verità della conclusione dovrà essere assicurata da un altro ragionamento.
+$R_4$ non è corretto perché la conclusione non si deduce dalle premesse, anche se è una affermazione vera. Quindi, come nel caso di $R_2$, la verità della conclusione dovrà essere assicurata da un altro ragionamento.
 
 
 
