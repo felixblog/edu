@@ -562,7 +562,7 @@ p_2:p & q & c:\lnot q & p_1:p \to \lnot q \\
 \hline 
 T & T & F & F \\ 
 F & T & F & F \\
-\textcolor{red}{T} & \textcolor{red}{F} & \textcolor{red}{T} & \textcolor{red}{T} \\
+\textcolor{red}{T} & \textcolor{red}{F} & \textcolor{red}{\underline{T}} & \textcolor{red}{T} \\
 F & F & T & T \\  
 \end{array}
 $$
@@ -579,7 +579,7 @@ F & T & T & F \\
 F & F & T & T \\
 T & T & F & F \\ 
 F & T & F & F \\
-\textcolor{red}{T} & \textcolor{red}{F} & \textcolor{red}{F} & \textcolor{red}{T} \\  
+\textcolor{red}{T} & \textcolor{red}{F} & \textcolor{red}{\underline{F}} & \textcolor{red}{T} \\  
 F & F & F & T \\ 
 \end{array}
 $$
@@ -667,8 +667,7 @@ $p_2$: Il fungo che hai trovato ha il cappello bianco.
 
 $c$: Il tuo fungo è buono da mangiare.
 
-Il ragionamento non fa una piega: accettando le premesse è inevitabile accettare la conclusione, ma il problema è che la prima  premessa è falsa perché ci sono funghi completamente bianchi che risultano mortali, come l'*Amanita Virosa* e quindi non siamo tenuti ad accettarla. Questo ci lascia nell'incertezza sul fungo: non è escluso che il fungo sia buono da mangiare, ma è altrettanto possibile che non lo sia (potrebbe essere un’amanita virosa), per cui l’argomentazione non 
-dimostra nulla.
+Il ragionamento non fa una piega: accettando le premesse è inevitabile accettare la conclusione, ma il problema è che la prima  premessa è falsa perché ci sono funghi completamente bianchi che risultano mortali, come l'*Amanita Virosa* e quindi non siamo tenuti ad accettarla. Questo ci lascia nell'incertezza sul fungo: non è escluso che il fungo sia buono da mangiare, ma è altrettanto possibile che non lo sia (potrebbe essere un’amanita virosa), per cui l’argomentazione non dimostra nulla.
 
 Anche nei casi in cui <u>non sappiamo</u> se le premesse siano tutte vere (oltre che quando sappiamo che qualcuna è falsa!) <u>non si può accettare la verità della conclusione</u> . Vediamo il caso seguente:
 
@@ -678,8 +677,7 @@ $p_2$: Il fungo lo hai preso nel bosco dove sei stato.
 
 $c$: Il tuo fungo è buono da mangiare.
 
-Ma come fa l'amico a sapere che in un bosco non siano cresciuti funghi velenosi? Nessuno può saperlo, per cui se la verità di una 
-o più premesse è ignota, l’argomentazione fallisce nel suo intento di stabilire la verità della conclusione <u>per quanto ci è dato conoscere</u>.
+Ma come fa l'amico a sapere che in un bosco non siano cresciuti funghi velenosi? Nessuno può saperlo, per cui se la verità di una o più premesse è ignota, l’argomentazione fallisce nel suo intento di stabilire la verità della conclusione <u>per quanto ci è dato conoscere</u>.
 
 
 
@@ -733,16 +731,15 @@ $R_1$: Anita è laureata in medicina. Poiché per laurearsi in medicina è neces
 
 $R_2$: Il ladro ha preso soprattutto contanti e gioielli, ma siccome Il vicino di casa è ricco di famiglia, il ladro deve essere qualcun altro.
 
-Nel primo esempio, le due premesse ("Anita è laureata in medicina" e "Per laurearsi in medicina è necessario superare l'esame di anatomia") sostengono la conclusione a tutti gli effetti: 
-posto che entrambe corrispondano al vero, <u>non si può dubitare</u> che Anita non abbia superato l'esame di anatomia: questo è quello che afferma la conclusione e $R_1$ è un chiaro esempio di ragionamento logico. 
+Nel primo esempio, le due premesse ("Anita è laureata in medicina" e "Per laurearsi in medicina è necessario superare l'esame di anatomia") sostengono la conclusione a tutti gli effetti:  posto che entrambe corrispondano al vero, <u>non si può dubitare</u> che Anita non abbia superato l'esame di anatomia: questo è quello che afferma la conclusione e $R_1$ è un chiaro esempio di ragionamento logico. 
 
 Nel caso di $R_2$, pur ammettendo la verità delle premesse ("Il ladro ha preso soprattutto contanti e gioielli" e "Il vicino di casa è ricco di famiglia"), non possiamo dedurre <u>necessariamente</u> la verità della conclusione poiché il vicino di casa potrebbe comunque aver commesso il delitto per accrescere ulteriormente la propria ricchezza. 
 
 Si dice che il sostegno fornito dalle premesse alla conclusione è <u>più debole</u> in $R_2$ che in $R_1$, nonostante l'organizzazione delle frasi mostra chiaramente l'intento di sostenere la verità della conclusione ("il ladro deve essere qualcun altro") attraverso le prime due proposizioni che fungono da premesse perché è importante, ad esempio nell'ambito di una indagine, sapere che non è il vicino di casa la persona su cui puntare per risolvere il caso.
 
-Sia $R_1$ che $R_2$ sono esempi di argomentazioni e quello che le differenzia è, supponendo che in entrambi le premesse siano vere, il grado di certezza (o probabilità) con il quale è vera la conclusione, perché nel caso di $R_1$ si ha la certezza della verità, nel caso di $R_2$ no. 
+Sia $R_1$ che $R_2$ sono esempi di argomentazioni e quello che le differenzia, supponendo che le premesse siano vere in entrambi, è il grado di certezza (o probabilità) con il quale è vera la conclusione, perché nel caso di $R_1$ si ha la certezza della verità, nel caso di $R_2$ no. 
 
-Le argomentazioni possono essere infatti classificate in due categorie: deduttive ed induttive. Una argomentazione, come $R_1$,  è <u>deduttiva</u>, ossia è una deduzione o ragionamento logico, quando la verità della conclusione segue <u>necessariamente</u> dalla verità delle premesse, mentre è <u>induttiva</u>, come $R_2$, se c'è solo una certa **probabilità** (alta o bassa a seconda dei casi, ma non la certezza) che la conclusione sia vera quando lo sono le premesse.
+Le argomentazioni possono essere classificate in due categorie: **deduttive** ed **induttive**. Una argomentazione, come $R_1$,  è <u>deduttiva</u>, ossia è una deduzione o ragionamento logico, quando la verità della conclusione segue <u>necessariamente</u> dalla verità delle premesse, mentre è <u>induttiva</u>, come $R_2$, se c'è solo una certa **probabilità** (alta o bassa a seconda dei casi, ma non la certezza) che la conclusione sia vera quando lo sono le premesse.
 
 #### ESEMPIO 1
 
@@ -798,9 +795,7 @@ Questa aggiunta è legittima, in quanto è chiaro che chi sta parlando sta impli
 $R_2$ è deduttiva: non è detto che le premesse siano vere, ma se lo fossero, allora
 sarebbe sicuramente vera anche la conclusione.
 
-Relativamente ad $R_3$, sebbene sia impossibile, in pratica, spostarsi da una città all’altra in breve tempo senza prendere l’aereo, rimane comunque concepibile: potrebbe esserci un collegamento ferroviario superveloce, o la tecnologia potrebbe raggiungere i 
-livelli fantascientifici dipinti in certi film, dove ci si trasferisce da una località ad un’altra per teletrasporto. Possiamo quindi dire che è possibile 
-(benché poco probabile) che la conclusione sia falsa anche nell’ipotesi in cui la premessa sia vera. Questo significa che l’argomentazione non è deduttiva bensì induttiva.
+Relativamente ad $R_3$, sebbene sia impossibile, in pratica, spostarsi da una città all’altra in breve tempo senza prendere l’aereo, rimane comunque concepibile: potrebbe esserci un collegamento ferroviario superveloce, o la tecnologia potrebbe raggiungere i livelli fantascientifici dipinti in certi film, dove ci si trasferisce da una località ad un’altra per teletrasporto. Possiamo quindi dire che è possibile (benché poco probabile) che la conclusione sia falsa anche nell’ipotesi in cui la premessa sia vera. Questo significa che l’argomentazione non è deduttiva bensì induttiva.
 
 Come nel primo caso, l’argomentazione può essere resa deduttiva aggiungendo una seconda premessa:
 
@@ -810,8 +805,7 @@ A questo punto non solo è praticamente impossibile che la conclusione sia falsa
 
 
 
-Quando la probabilità di un ragionamento induttivo è alta si dice che il ragionamento, o l'argomentazione, è **forte**; quando è 
-bassa si dice che il ragionamento è **debole**. Questo concetto di "forza" di una argomentazione ci dà la possibilità di paragonare due ragionamenti per vedere quale è il più forte ed il più debole. 
+Quando la probabilità di un ragionamento induttivo è alta si dice che il ragionamento, o l'argomentazione, è **forte**; quando è bassa si dice che il ragionamento è **debole**. Questo concetto di "forza" di una argomentazione ci dà la possibilità di paragonare due ragionamenti per vedere quale è il più forte ed il più debole. 
 
 #### ESEMPIO 3
 
