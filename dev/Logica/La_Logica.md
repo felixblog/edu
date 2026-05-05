@@ -156,7 +156,7 @@ Per riassumere quanto abbiamo detto sul come la verità delle proposizioni compl
 | Disgiunzione           | $\lor$    | o, oppure                 |
 | Disgiunzione esclusiva | $\veebar$ | o ... o, o, ..., oppure   |
 | Negazione              | $\lnot$   | non, non è vero che       |
-| Implicazione           | $\to$     | se ... allora, ... se     |
+| Implicazione           | $\to$     | se ... allora             |
 
 Se indichiamo le proposizioni semplici una lettera, ad esempio $p$, $q$ o $r$, possiamo scrivere tutta una frase in un modo molto sintetico e simbolico, come negli esempi seguenti.
 
@@ -562,8 +562,7 @@ p_2:p & q & c:\lnot q & p_1:p \to \lnot q \\
 \hline 
 T & T & F & F \\ 
 F & T & F & F \\
-\rowcolor{yellow}
-T & F & T & T \\  
+\textcolor{red}{T} & \textcolor{red}{F} & \textcolor{red}{T} & \textcolor{red}{T} \\
 F & F & T & T \\  
 \end{array}
 $$
@@ -576,18 +575,16 @@ p_2:p & q & c:r & p_1:p \to \lnot q \\
 \hline
 T & T & T & F \\ 
 F & T & T & F \\
-\rowcolor{yellow}
-T & F & T & T \\  
+\textcolor{red}{T} & \textcolor{red}{F} & \textcolor{red}{T} & \textcolor{red}{T} \\  
 F & F & T & T \\
 T & T & F & F \\ 
 F & T & F & F \\
-\rowcolor{yellow}
-T & F & F & T \\  
+\textcolor{red}{T} & \textcolor{red}{F} & \textcolor{red}{F} & \textcolor{red}{T} \\  
 F & F & F & T \\ 
 \end{array}
 $$
 
-Anche in questo caso sono evidenziate in giallo le righe in cui tutte le premesse sono vere, ma poiché nella penultima riga le due premesse sono entrambe vere e la conclusione falsa, il ragionamento non è corretto.
+Anche in questo caso sono in rosso le righe in cui tutte le premesse sono vere, ma poiché nella penultima riga le due premesse sono entrambe vere e la conclusione falsa, il ragionamento non è corretto.
 
  
 
