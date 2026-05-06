@@ -160,11 +160,9 @@ $$
 \vec{v_1} = |v| \cdot \cos \theta \\
 \vec{v_2} = |v| \cdot \sin \theta
 $$
-dove $\theta$ è l'angolo tra $\vec{v}$ ed una delle due direzioni.
+dove $\theta$ è l'angolo tra $\vec{v}$ ed una delle due direzioni.
 
 
-
-Esercizi pag. 705 
 
 ### ESERCIZIO 1
 
@@ -200,7 +198,7 @@ c) Considera i vettori $\vec{V_1}$ e $\vec{V_2}$ in ﬁgura, di modulo rispettiv
 <img src="img/somma-vettori-es3.png" alt="somma-vettori-es3" style="zoom:80%;" />
 
 1. Disegna le componenti dei vettori e trovane il valore numerico;
-2. Disegna il vettore somma $\vec{V_1} + \vec{V_2}$ e trova il valore delle sue componenti;
+2. Disegna il vettore somma $\vec{V_1} + \vec{V_2}$ e trova il valore delle sue componenti;
 3. Quanto vale il modulo del vettore somma?
 
 
