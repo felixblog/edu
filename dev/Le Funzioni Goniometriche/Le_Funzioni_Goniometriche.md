@@ -624,21 +624,19 @@ Dalle funzioni goniometriche si possono costruire altre funzioni nei seguenti mo
 
 4. moltiplicando l'argomento per un numero;
 
-nonché combinando insieme le operazioni precedenti. 
+5. combinando insieme le operazioni precedenti. 
 
 Le funzioni ottenute sono dette **sinusoidali** e sono importanti in molti campi della ingegneria e della fisica. Vediamo alcuni esempi.
-
-
 
 ### Traslazione verticale
 
 Se sommiamo una costante $k$ ad una funzione generica $y = f(x)$ ottenendo $y = f(x) + k$ tutti i punti del grafico della funzione originaria $(x, f(x))$ saranno spostati (verso l'alto se $k > 0$ o verso il basso se $k < 0$ o **traslati** di $k$ unità.
 
-Questo vale per ogni funzione e nel caso della funzione seno abbiamo l'esempio seguente.
+Questo vale per ogni funzione e, nel caso della funzione $\sin x$, abbiamo l'esempio seguente.
 
 #### ESEMPIO 1: Somma di una costante
 
-
+Il nuovo grafico è parallelo al precedente.     $\bullet$
 
 <img src="img/sinx+2.png" alt="sinx+2" style="zoom:25%;" />
 
@@ -646,13 +644,15 @@ Questo vale per ogni funzione e nel caso della funzione seno abbiamo l'esempio s
 
 ### Contrazione/Dilatazione verticale
 
-Se moltiplichiamo per una costante $A$ positiva una funzione generica $y = f(x)$ ottenendo $y = A \cdot f(x)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ dove $f(x) \ne 0$ risulteranno allungati o accorciati verticalmente , o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, Af(x))$.
+Se moltiplichiamo per una costante $A$ positiva una funzione generica $y = f(x)$ ottenendo $y = A \cdot f(x)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ dove $f(x) \ne 0$, risulteranno allungati o accorciati verticalmente , o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, Af(x))$.
 
-Nel caso della funzione seno abbiamo l'esempio seguente.
+Nel caso della funzione $\sin x$ abbiamo l'esempio seguente.
 
 #### ESEMPIO 2: Prodotto per una costante 
 
-La funzione $y = 3 \sin x$ è ottenuta moltiplicando per $3$ la funzione $\sin x$ . Se disegniamo il suo grafico e lo confrontiamo con $\sin x$ abbiamo:
+La funzione $y = 3 \sin x$ è ottenuta moltiplicando per $3$ la funzione $\sin x$ .
+
+Se disegniamo il suo grafico e lo confrontiamo con $\sin x$ abbiamo il grafico seguente.    $\bullet$
 
 <img src="img/sinus-1.png" alt="sinus-1" style="zoom: 25%;" />
 
@@ -662,11 +662,11 @@ La funzione $y = 3 \sin x$ è ottenuta moltiplicando per $3$ la funzione $\sin x
 
 Se sommiamo una costante $\phi$ all'argomento di una funzione generica $y = f(x)$ ottenendo $y = f(x + \phi)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ saranno spostati (verso sinistra se $\phi > 0$ o verso destra se $\phi < 0$ o **traslati** di $\phi$ unità, diventando $(x, f(x + \phi))$.
 
-Questo vale per ogni funzione e nel caso della funzione seno abbiamo l'esempio seguente.
-
-
+Questo vale per ogni funzione e, nel caso della funzione $\sin x$, abbiamo l'esempio seguente.
 
 #### ESEMPIO 2: Somma di una costante all'argomento
+
+L'argomento $x + \phi$ della nuova funzione raggiungerà il valore $2\pi$ quando $x = 2\pi - \phi$, cioè prima della funzione originaria.    $\bullet$
 
 <img src="img/sinus-4.png" alt="sinus-4" style="zoom:25%;" />
 
@@ -674,13 +674,15 @@ Questo vale per ogni funzione e nel caso della funzione seno abbiamo l'esempio s
 
 ### Contrazione/Dilatazione orizzontale
 
-Se moltiplichiamo per una costante $\omega$ positiva una funzione generica $y = f(x)$ ottenendo $y = f(\omega \cdot x)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ risulteranno allungati o accorciati orizzontalmente, o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, f(\omega x))$.
+Se moltiplichiamo per una costante $\omega$ positiva una funzione generica $y = f(x)$ ottenendo $y = f(\omega \cdot x)$, tutti i punti del grafico della funzione originaria $(x, f(x))$ risulteranno allungati o accorciati orizzontalmente, o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, f(\omega x))$.
 
-Nel caso della funzione seno abbiamo l'esempio seguente.
+Nel caso della funzione $\sin x$ abbiamo l'esempio seguente.
 
 #### ESEMPIO 2: Prodotto dell'argomento per una costante
 
-Se $\omega = 3$, il nuovo argomento $\omega x$ raggiungerà il valore $1$ quando $x = \dfrac{1}{3}$, cioè prima di quando l'argomento della funzione originaria raggiungeva l'unità e quindi abbiamo una contrazione, come si vede in figura. 
+Se $\omega = 3$, il nuovo argomento $\omega x$ raggiungerà il valore $2\pi$ quando $x = \dfrac{2\pi}{3}$, il valore $4\pi$ quando $x = \dfrac{4\pi}{3}$ e $6\pi$ quando $x = \dfrac{6\pi}{3} \longrightarrow 2\pi$: ossia quando la funzione originaria ha compiuto un ciclo quella nuova ne ha fatti tre.
+
+Abbiamo quindi una contrazione, come si vede in figura.    $\bullet$
 
 <img src="img/sin-3x.png" alt="sin+2" style="zoom:25%;" />
 
