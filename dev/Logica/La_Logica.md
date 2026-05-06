@@ -785,15 +785,13 @@ $R_3$:  $p_1$: Ettore ha viaggiato da Roma ad Amsterdam in meno di 2 ore.
 
 
 
-$R_1$ è una argomentazione chiaramente induttiva, perché è concepibile che qualcun
-altro abbia fatto la spesa o che a casa ci sia già del cibo. Diventa deduttiva se, ad esempio, aggiungiamo la premessa:
+$R_1$ è una argomentazione chiaramente induttiva, perché è concepibile che qualcun altro abbia fatto la spesa o che a casa ci sia già del cibo. Diventa deduttiva se, ad esempio, aggiungiamo la premessa:
 
 $p_3$: Questa sera non ci sarà niente per cena a meno che uno di noi due abbia comprato qualcosa da mangiare.
 
 Questa aggiunta è legittima, in quanto è chiaro che chi sta parlando sta implicitamente assumendo la premessa in questione.
 
-$R_2$ è deduttiva: non è detto che le premesse siano vere, ma se lo fossero, allora
-sarebbe sicuramente vera anche la conclusione.
+$R_2$ è deduttiva: non è detto che le premesse siano vere, ma se lo fossero, allora sarebbe sicuramente vera anche la conclusione.
 
 Relativamente ad $R_3$, sebbene sia impossibile, in pratica, spostarsi da una città all’altra in breve tempo senza prendere l’aereo, rimane comunque concepibile: potrebbe esserci un collegamento ferroviario superveloce, o la tecnologia potrebbe raggiungere i livelli fantascientifici dipinti in certi film, dove ci si trasferisce da una località ad un’altra per teletrasporto. Possiamo quindi dire che è possibile (benché poco probabile) che la conclusione sia falsa anche nell’ipotesi in cui la premessa sia vera. Questo significa che l’argomentazione non è deduttiva bensì induttiva.
 

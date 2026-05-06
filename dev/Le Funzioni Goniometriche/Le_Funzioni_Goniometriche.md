@@ -45,13 +45,13 @@ $$
 
 ### Proporzionalità tra archi ed angoli
 
-In una circonferenza la lunghezza $s$ di un arco e l'angolo $\omega$ sotteso sono due grandezze direttamente proporzionali, ossia il loro rapporto è costante. La costante di proporzionalità è uguale al rapporto tra tutta la circonferenza e l'angolo giro, quindi, misurando gli angoli in radianti:
+In una circonferenza la lunghezza $s$ di un arco e l'angolo $\theta$ sotteso sono due grandezze direttamente proporzionali, ossia il loro rapporto è costante. La costante di proporzionalità è uguale al rapporto tra tutta la circonferenza e l'angolo giro, quindi, misurando gli angoli in radianti:
 $$
-\dfrac{s}{\omega_{rad}} = \dfrac{2{\pi}r}{2\pi}
+\dfrac{s}{\theta_{rad}} = \dfrac{2{\pi}r}{2\pi}
 $$
  Semplificando abbiamo la formula
 $$
-s = {\omega_{rad}} \cdot r
+s = {\theta_{rad}} \cdot r
 $$
 
 che ci dice come calcolare la lunghezza di un arco di circonferenza conoscendo l'angolo sotteso ed il raggio.
@@ -434,6 +434,8 @@ b) Determina il dominio delle funzioni riportate di seguito.
 
 
 
+
+
 ## UNITA' 4: La Trigonometria
 
 Finora ci siamo occupati di goniometria, ossia della misurazione degli angoli e delle funzioni associate a essi. Ora tratteremo la trigonometria, che studia le relazioni metriche fra i lati e gli angoli di un triangolo.
@@ -583,6 +585,143 @@ b) Lo scivolo di un parchetto per bambini è alto $2,5\; m$. Per arrivare a terr
 angolo forma lo scivolo con il terreno?		$R: [48^\circ]$
 
 c) In un cartello stradale si legge: «Pendenza del $14\%$». Percorrendo un tratto di $280\; m$, quanto si sale in altezza? Che angolo forma la strada con il piano orizzontale?		$R: [39,2\; m; 8,05^\circ]$
+
+d) Una imbarcazione deve calcolare la sua distanza con il primo punto di riferimento sulla sua rotta. Facendo riferimento alla figura, abbiamo le relazioni seguenti, che ci forniscono la misura della distanza $d$ potendo misurare l'imbarcazione gli angolo $\alpha$ e $\beta$ : 
+
+<img src="img/Distance_by_triangulation.png" alt="Distance_by_triangulation" style="zoom:80%;" />
+$$
+\left\{  
+\begin{array}{c} 
+x+y = l \\  
+y \cdot \tan \alpha = x \cdot \tan \beta\\   
+\end{array} 
+\right.
+$$
+Risolvendo per $x$ ed $y$ otteniamo:
+$$
+\left\{  
+\begin{array}{c} 
+x = \dfrac{l \cdot \tan \alpha}{\tan \alpha + \tan \beta} \\  
+y = \dfrac{l \cdot \tan \beta}{\tan \alpha + \tan \beta} \\   
+\end{array} 
+\right.
+$$
+e quindi $d = y \cdot \tan \alpha \longrightarrow \dfrac{l \cdot \tan \alpha \cdot \tan \beta}{\tan \alpha + \tan \beta}$.  La distanza tra l'imbarcazione ed il primo punto di riferimento è $d \cdot \sin \alpha$.
+
+Se la distanza tra il primo ed il secondo punto a terra misura $15\; Km$ e gli angoli $\alpha$ e $\beta$ sono rispettivamente di $30^\circ$ e $45^\circ$, quanto dista l'imbarcazione dal primo punto? 
+
+
+
+## UNITA' 5: Trasformazioni Geometriche e Funzioni Sinusoidali
+
+Dalle funzioni goniometriche si possono costruire altre funzioni nei seguenti modi modi:
+
+1. sommando alla funzione un numero;
+
+2. moltiplicando la funzione per un numero;
+
+3. sommando all'argomento un numero;
+
+4. moltiplicando l'argomento per un numero;
+
+nonché combinando insieme le operazioni precedenti. 
+
+Le funzioni ottenute sono dette **sinusoidali** e sono importanti in molti campi della ingegneria e della fisica. Vediamo alcuni esempi.
+
+
+
+### Traslazione verticale
+
+Se sommiamo una costante $k$ ad una funzione generica $y = f(x)$ ottenendo $y = f(x) + k$ tutti i punti del grafico della funzione originaria $(x, f(x))$ saranno spostati (verso l'alto se $k > 0$ o verso il basso se $k < 0$ o **traslati** di $k$ unità.
+
+Questo vale per ogni funzione e nel caso della funzione seno abbiamo l'esempio seguente.
+
+#### ESEMPIO 1: Somma di una costante
+
+
+
+<img src="img/sinx+2.png" alt="sinx+2" style="zoom:25%;" />
+
+
+
+### Contrazione/Dilatazione verticale
+
+Se moltiplichiamo per una costante $A$ positiva una funzione generica $y = f(x)$ ottenendo $y = A \cdot f(x)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ dove $f(x) \ne 0$ risulteranno allungati o accorciati verticalmente , o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, Af(x))$.
+
+Nel caso della funzione seno abbiamo l'esempio seguente.
+
+#### ESEMPIO 2: Prodotto per una costante 
+
+La funzione $y = 3 \sin x$ è ottenuta moltiplicando per $3$ la funzione $\sin x$ . Se disegniamo il suo grafico e lo confrontiamo con $\sin x$ abbiamo:
+
+<img src="img/sinus-1.png" alt="sinus-1" style="zoom: 25%;" />
+
+
+
+### Traslazione orizzontale
+
+Se sommiamo una costante $\phi$ all'argomento di una funzione generica $y = f(x)$ ottenendo $y = f(x + \phi)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ saranno spostati (verso sinistra se $\phi > 0$ o verso destra se $\phi < 0$ o **traslati** di $\phi$ unità, diventando $(x, f(x + \phi))$.
+
+Questo vale per ogni funzione e nel caso della funzione seno abbiamo l'esempio seguente.
+
+
+
+#### ESEMPIO 2: Somma di una costante all'argomento
+
+<img src="img/sinus-4.png" alt="sinus-4" style="zoom:25%;" />
+
+
+
+### Contrazione/Dilatazione orizzontale
+
+Se moltiplichiamo per una costante $\omega$ positiva una funzione generica $y = f(x)$ ottenendo $y = f(\omega \cdot x)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ risulteranno allungati o accorciati orizzontalmente, o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, f(\omega x))$.
+
+Nel caso della funzione seno abbiamo l'esempio seguente.
+
+#### ESEMPIO 2: Prodotto dell'argomento per una costante
+
+Se $\omega = 3$, il nuovo argomento $\omega x$ raggiungerà il valore $1$ quando $x = \dfrac{1}{3}$, cioè prima di quando l'argomento della funzione originaria raggiungeva l'unità e quindi abbiamo una contrazione, come si vede in figura. 
+
+<img src="img/sin-3x.png" alt="sin+2" style="zoom:25%;" />
+
+
+
+Le funzioni ottenute mediante queste trasformazioni sono dette sinusoidali; le funzioni sinusoidali sono quindi quelle della forma:
+$$
+y = A \sin(\omega x + \phi),\; y = A \cos(\omega x + \phi) \:\;\; \text{con}\; A, \omega, \phi \in \mathbb{R}
+$$
+dove i parametri sono generici: tutte le funzioni precedenti sono il risultato della sostituzione dei parametri con valori specifici.
+
+Il codominio delle funzioni sinusoidali è $[-|A|, |A|]$. Il numero $|A|$ è detto **ampiezza** della 
+funzione sinusoidale, il numero $\omega$ è detto **pulsazione** e $\phi$ **sfasamento** o fase iniziale.
+
+
+
+### La derivata delle funzioni goniometriche
+
+La derivata della funzione $y = \sin x$ è $y^\prime = \cos x$ mentre la derivata di $y = \cos x$ è $y^\prime = -\sin x$.
+
+La derivata della tangente si ricava dalla derivata del rapporto $\tan x = \dfrac{\sin x}{\cos x}$ per cui se $y = \tan x$, $y^\prime = \dfrac{1}{\cos^2 x}$.
+
+
+
+### ESERCIZIO 1
+
+a) Disegna le seguenti funzioni, utilizzando il grafico delle funzioni goniometriche. (pg. 74-77)
+
+1. $y = \cos x + 2$;
+2. $y = \cos \left(x - \dfrac{\pi}{4} \right) + 1$;
+3. $y = \sin \left(x + \dfrac{\pi}{2} \right) - 1$.
+
+
+
+### ESERCIZIO 2
+
+Disegna i grafici delle seguenti funzioni e scrivi il valore dell’ampiezza, della pulsazione, della fase iniziale e del periodo.
+
+1. $y = \dfrac{1}{4}\sin \left(\dfrac{1}{2}x + \dfrac{\pi}{2} \right)$;
+2. $y = 4\cos \left(2x + \dfrac{\pi}{4} \right)$;
+3. $y = \dfrac{1}{2}\sin \left(\dfrac{1}{2}x + \dfrac{\pi}{4} \right)$;
 
 
 
