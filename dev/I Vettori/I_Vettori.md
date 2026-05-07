@@ -88,7 +88,7 @@ Il fatto che i segmenti $\overrightarrow{AA^\prime}$, $\overrightarrow{BB^\prime
 
 Gli elementi caratteristici di $\vec{v}$ sono:
 
-- la misura del segmento $AA^\prime$, detta **modulo del vettore**, che indichiamo con $\|AA^\prime\|$ o $|AA^\prime|$;
+- la misura del segmento $AA^\prime$, detta **modulo del vettore**, che indichiamo con $\|AA^\prime\|$ o $|AA^\prime|$;
 - la **direzione**, che è la direzione della retta $AA^\prime$;
 - il **verso**, da $A$ ad $A^\prime$.
 
@@ -101,6 +101,10 @@ I vettori vengono rappresentati con un particolare segmento orientato che ha com
 Le componenti del vettore sono proprio i coefficienti $a$ e $b$ delle
 equazioni della traslazione, per cui si scrive che $\vec{v} = \vec{v}(1;3)$, oppure con una notazione detta "**colonna**", che la differenzia da quella delle coordinate dei punti: $\vec{v} =$ $\begin{pmatrix} 1 \\ 3 \end{pmatrix}$.
 
+Se di un vettore conosciamo le componenti cartesiane, il suo modulo si ricava con il teorema di Pitagora, per cui:
+$$
+\vec{v} = \begin{pmatrix} x \\ y \end{pmatrix} \longrightarrow |\vec{v}| = \sqrt{x^2 + y^2}
+$$
 Quindi ricapitolando, se abbiamo le equazioni di una traslazione possiamo definire un vettore e se abbiamo un vettore possiamo scrivere le equazioni di una traslazione che utilizza il vettore per spostare ogni punto del piano.
 
 #### ESEMPIO 3
@@ -116,7 +120,9 @@ y^{\prime} = y + 1 \\
 \end{array} 
 \right.
 $$
-Sostituendo abbiamo $A(0; 0) \longrightarrow A^\prime(-2; 1)$,  $B(1; 0) \longrightarrow B^\prime (-1; 1)$,  $C(0; -1) \longrightarrow C^\prime(-2; 0)$.     $\bullet$
+Sostituendo abbiamo $A(0; 0) \longrightarrow A^\prime(-2; 1)$,  $B(1; 0) \longrightarrow B^\prime (-1; 1)$,  $C(0; -1) \longrightarrow C^\prime(-2; 0)$.
+
+Il modulo di $\vec{v}$ è $|\vec{v}| = \sqrt{(-2)^2 + (1)^2} \longrightarrow \sqrt{5}$     $\bullet$
 
 
 
@@ -130,7 +136,7 @@ $$
 $$
 Lo spostamento di un punto secondo il nuovo vettore $\vec{z}$ corrisponde alla <u>sequenza dei due spostamenti</u> di $\vec{v}$ e poi di $\vec{w}$, cioè alla <u>composizione delle due traslazioni</u>. 
 
-Se indichiamo con $F$ la traslazione del vettore $\vec{v}$ e con $G$ quella di $\vec{w}$ abbiamo
+Se indichiamo con $F$ la traslazione del vettore $\vec{v}$ e con $G$ quella di $\vec{w}$ abbiamo
 $$
 F:\left\{  
 \begin{array}{l} 
@@ -147,7 +153,7 @@ y^{\prime \prime} = y^\prime + 1 \\
 \end{array} 
 \right.
 $$
-Componendo le due trasformazioni, ossia sostituendo $x^\prime$ e $y^\prime$ di $F$ in $G$ abbiamo: 
+Componendo le due trasformazioni, ossia sostituendo $x^\prime$ e $y^\prime$ di $F$ in $G$ abbiamo: 
 $$
 G(F(x,y)):
 \left\{  
@@ -170,7 +176,7 @@ Se vediamo l'operazione dal punto di vista delle frecce, la costruzione della fr
 
 <img src="img/somma-vettori.png" alt="somma-vettori" style="zoom:80%;" /> 
 
-Lo spostamento di qualunque punto $P$ potrà quindi avvenire prima costruendo il vettore somma e poi applicando il vettore risultato al punto da spostare, come nella figura seguente, per ottenere il punto $P^\prime$.
+Lo spostamento di qualunque punto $P$ potrà quindi avvenire prima costruendo il vettore somma e poi applicando il vettore risultato al punto da spostare, come nella figura seguente, per ottenere il punto $P^\prime$.
 
 <img src="img/spostamento-somma.png" alt="spostamento-somma" style="zoom:25%;" /> 
 
@@ -212,7 +218,7 @@ dove $\theta$ è l'angolo tra $\vec{v}$ ed una delle due direzioni.
 
 ### ESERCIZIO 1
 
-a) Disegna un vettore $\vec{a}$ e rappresenta poi i vettori $-2\vec{a}$,  $\dfrac{1}{4}\vec{a}$,  $3\vec{a}$.
+a) Su un piano cartesiano disegna un vettore $\vec{a}$ e rappresenta poi i vettori $-2\vec{a}$,  $\dfrac{1}{4}\vec{a}$,  $3\vec{a}$.
 
 b) Traccia il vettore differenza $\vec{u} - \vec{v}$ dei vettori $\vec{u}$ e $\vec{v}$ disegnati in figura.
 
@@ -235,8 +241,7 @@ b)  Scomponi il vettore $\vec{v}$ lungo le due direzioni assegnate nella figura 
 a) Una nave percorre $20$ miglia verso sud, $15$ miglia 
 verso ovest e $12$ miglia verso sud-ovest. In un piano cartesiano disegna i vettori che rappresentano i tre spostamenti e lo spostamento totale. Quale è la distanza finale dal punto di partenza?
 
-b) Una formica si muove dal formicaio a una briciola di pane seguendo un percorso ad L in cui il primo tratto è lungo $4,3\; m$ e il secondo $5,5\; m$. Poi, seguendo un 
-marcatore olfattivo, torna al formicaio seguendo lo 
+b) Una formica si muove dal formicaio a una briciola di pane seguendo un percorso ad L in cui il primo tratto è lungo $4,3\; m$ e il secondo $5,5\; m$. Poi, seguendo un marcatore olfattivo, torna al formicaio seguendo lo 
 stesso percorso a ritroso. Quanto è lungo lo spostamento dal formicaio alla briciola di pane? Quanto è lungo lo spostamento complessivo della formica?
 
 c) Considera i vettori $\vec{V_1}$ e $\vec{V_2}$ in ﬁgura, di modulo rispettivamente $|\vec{V_1}| = 3$ e $|\vec{V_2}| = 4$.

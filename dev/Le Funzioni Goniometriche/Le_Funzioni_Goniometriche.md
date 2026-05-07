@@ -187,12 +187,18 @@ $\sin \alpha = \sin (\alpha + 2\pi) = \sin (\alpha - 2\pi) = \sin (\alpha + 4\pi
 
 $\cos \alpha = \cos (\alpha + 2\pi) = \cos (\alpha - 2\pi) = \cos (\alpha + 4\pi) = \cos (\alpha - 4\pi)  \; ...$ 
 
-Le funzioni seno e coseno sono quindi periodiche di periodo $2\pi$. In modo sintetico si può scrivere:
+Si chiama periodo, e si indica con $T$, il valore minimo per cui, per ogni $\alpha$:
+$$
+\sin (\alpha + T) = \sin \alpha  \\
+\cos (\alpha + T) = \cos \alpha
+$$
+ Le funzioni seno e coseno sono quindi periodiche di periodo $2\pi$ ed In modo sintetico si può scrivere:
 $$
 \sin (\alpha + 2k\pi) =\sin \alpha, \;\; k \in \mathbb{Z} \\
 
 \cos (\alpha + 2k\pi) =\cos \alpha, \;\; k \in \mathbb{Z}
 $$
+
 
 
 ### La relazione fondamentale della goniometria
@@ -568,8 +574,8 @@ a) Considera il triangolo $\triangle ABC$ seguente. Determina i lati e gli angol
 1. $\alpha = 30^\circ$;    $\beta = 45^\circ$;    $\overline{CH} = 12$;		$R: \left[24;\; 12\sqrt{2};\; 12(\sqrt{3} + 1);\; 105^\circ\right]$
 2. $\overline{CH} = 8$;    $\overline{AH} = 6$;    $\beta = 30^\circ$;		$R: \left[2(3 + 4\sqrt{3});\; 16;\; 10;\; \arcsin \dfrac{4}{5};\; \arcsin \dfrac{3 + 4\sqrt{3}}{10}\right]$
 
-b) In un triangolo rettangolo un cateto è lungo $10\; cm$ e l’angolo opposto a esso è di $40\; cm$. Trova il perimetro del 
-triangolo		$R: [37,47\; cm]$
+b) In un triangolo rettangolo un cateto è lungo $10\; cm$ e l’angolo opposto a esso è di $40^\circ$. Trova il perimetro del 
+triangolo.		$R: [37,47\; cm]$
 
 c) Nel triangolo rettangolo $\triangle ABC$ la lunghezza dell’ipotenusa $BC$ è $41\; cm$ e la tangente dell’angolo $\hat B$ è $\dfrac{40}{9}$. Determina il perimetro e l’area del triangolo.		$R: [90\; cm;\; 180\; cm^2]$
 
@@ -579,12 +585,12 @@ c) Nel triangolo rettangolo $\triangle ABC$ la lunghezza dell’ipotenusa $BC$ �
 
 ### ESERCIZIO 4.3 - La risoluzione dei triangoli nella realtà
 
-a) Una funivia collega due località, $A$ e $B$, distanti $1.200 \;m$ ed è inclinata di $42^\circ$ sul piano orizzontale. A che altezza, rispetto ad $A$, si trova la stazione $B$?		$R: [802,96\; m]$
+a) Una funivia collega due località, $A$ e $B$, distanti $1.200 \;m$ in linea d'aria, ed è inclinata di $42^\circ$ sul piano orizzontale. A che altezza, rispetto ad $A$, si trova la stazione $B$?		$R: [802,96\; m]$
 
 b) Lo scivolo di un parchetto per bambini è alto $2,5\; m$. Per arrivare a terra un bimbo scivola per $3,36\; m$. Che 
 angolo forma lo scivolo con il terreno?		$R: [48^\circ]$
 
-c) In un cartello stradale si legge: «Pendenza del $14\%$». Percorrendo un tratto di $280\; m$, quanto si sale in altezza? Che angolo forma la strada con il piano orizzontale?		$R: [39,2\; m; 8,05^\circ]$
+c) In un cartello stradale si legge: «Pendenza del $14\%$». Percorrendo un tratto orizzontale di $280\; m$, quanto si sale in altezza? Che angolo forma la strada con il piano orizzontale?		$R: [39,2\; m; 7,97^\circ]$
 
 d) Una imbarcazione deve calcolare la sua distanza con il primo punto di riferimento sulla sua rotta. Facendo riferimento alla figura, abbiamo le relazioni seguenti, che ci forniscono la misura della distanza $d$ potendo misurare l'imbarcazione gli angolo $\alpha$ e $\beta$ : 
 
@@ -636,7 +642,7 @@ Questo vale per ogni funzione e, nel caso della funzione $\sin x$, abbiamo l'ese
 
 #### ESEMPIO 1: Somma di una costante
 
-Il nuovo grafico è parallelo al precedente.     $\bullet$
+Il nuovo grafico è parallelo al precedente ed il periodo non cambia.     $\bullet$
 
 <img src="img/sinx+2.png" alt="sinx+2" style="zoom:25%;" />
 
@@ -646,7 +652,7 @@ Il nuovo grafico è parallelo al precedente.     $\bullet$
 
 Se moltiplichiamo per una costante $A$ positiva una funzione generica $y = f(x)$ ottenendo $y = A \cdot f(x)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ dove $f(x) \ne 0$, risulteranno allungati o accorciati verticalmente , o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, Af(x))$.
 
-Nel caso della funzione $\sin x$ abbiamo l'esempio seguente.
+La funzione $\sin x$ ha una ampiezza, ossia la differenza tra il valore massimo ed il minimo, pari a $2$. La moltiplicazione per $A$ porta la nuova ampiezza a $2A$.
 
 #### ESEMPIO 2: Prodotto per una costante 
 
@@ -662,7 +668,7 @@ Se disegniamo il suo grafico e lo confrontiamo con $\sin x$ abbiamo il grafico s
 
 Se sommiamo una costante $\phi$ all'argomento di una funzione generica $y = f(x)$ ottenendo $y = f(x + \phi)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ saranno spostati (verso sinistra se $\phi > 0$ o verso destra se $\phi < 0$ o **traslati** di $\phi$ unità, diventando $(x, f(x + \phi))$.
 
-Questo vale per ogni funzione e, nel caso della funzione $\sin x$, abbiamo l'esempio seguente.
+Questo vale per ogni funzione e, nel caso della funzione $\sin x$, abbiamo l'esempio seguente, dove si vede che il periodo della nuova funzione resta invariato..
 
 #### ESEMPIO 2: Somma di una costante all'argomento
 
@@ -676,7 +682,7 @@ L'argomento $x + \phi$ della nuova funzione raggiungerà il valore $2\pi$ quando
 
 Se moltiplichiamo per una costante $\omega$ positiva una funzione generica $y = f(x)$ ottenendo $y = f(\omega \cdot x)$, tutti i punti del grafico della funzione originaria $(x, f(x))$ risulteranno allungati o accorciati orizzontalmente, o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, f(\omega x))$.
 
-Nel caso della funzione $\sin x$ abbiamo l'esempio seguente.
+Questa operazione cambia il periodo della funzione. La funzione $\sin x$ ha un periodo di $2\pi$, mentre la nuova funzione $\sin \omega x$ avrà un periodo pari a $T$ per cui $\omega T = 2\pi$, da cui si ricava che $T = \dfrac{2\pi}{\omega}$.
 
 #### ESEMPIO 2: Prodotto dell'argomento per una costante
 
@@ -701,6 +707,8 @@ funzione sinusoidale, il numero $\omega$ è detto **pulsazione** e $\phi$ **sfas
 
 ### La derivata delle funzioni goniometriche
 
+Come per tutte le altre funzioni, la derivata delle funzioni goniometriche ci dà la pendenza in ogni punto dei rispettivi grafici. 
+
 La derivata della funzione $y = \sin x$ è $y^\prime = \cos x$ mentre la derivata di $y = \cos x$ è $y^\prime = -\sin x$.
 
 La derivata della tangente si ricava dalla derivata del rapporto $\tan x = \dfrac{\sin x}{\cos x}$ per cui se $y = \tan x$, $y^\prime = \dfrac{1}{\cos^2 x}$.
@@ -709,7 +717,7 @@ La derivata della tangente si ricava dalla derivata del rapporto $\tan x = \dfra
 
 ### ESERCIZIO 1
 
-a) Disegna le seguenti funzioni, utilizzando il grafico delle funzioni goniometriche. (pg. 74-77)
+a) Disegna le seguenti funzioni, utilizzando il grafico delle funzioni goniometriche.
 
 1. $y = \cos x + 2$;
 2. $y = \cos \left(x - \dfrac{\pi}{4} \right) + 1$;
@@ -721,9 +729,9 @@ a) Disegna le seguenti funzioni, utilizzando il grafico delle funzioni goniometr
 
 Disegna i grafici delle seguenti funzioni e scrivi il valore dell’ampiezza, della pulsazione, della fase iniziale e del periodo.
 
-1. $y = \dfrac{1}{4}\sin \left(\dfrac{1}{2}x + \dfrac{\pi}{2} \right)$;
+1. $y = \dfrac{1}{4}\sin \left(\dfrac{1}{2}x + \dfrac{\pi}{2} \right)$;		$R: [A = \dfrac{1}{4};\; \omega = \dfrac{1}{2};\; \phi = \dfrac{\pi}{2};\; T = 4\pi]$
 2. $y = 4\cos \left(2x + \dfrac{\pi}{4} \right)$;
-3. $y = \dfrac{1}{2}\sin \left(\dfrac{1}{2}x + \dfrac{\pi}{4} \right)$;
+3. $y = \dfrac{1}{2}\sin \left(\dfrac{1}{2}x - \dfrac{\pi}{4} \right)$;
 
 
 
