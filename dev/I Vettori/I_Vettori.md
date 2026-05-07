@@ -2,7 +2,7 @@
 
 
 
-## UNITA' 1: Le Trasformazioni Geometriche ed i Vettori
+## UNITA' 1: I Vettori e le Trasformazioni Geometriche
 
 Una **trasformazione geometrica** nel piano è una corrispondenza biunivoca che associa a ogni punto del piano uno e un solo punto del piano stesso, che quindi "sposta" un qualunque punto del piano in un nuovo punto.
 
@@ -43,11 +43,13 @@ $$
 Possiamo quindi scrivere la corrispondenza:
 $A(2; 1) \longrightarrow A^\prime(6; − 2)$ ed analogamente $B(0; 4) \longrightarrow B^\prime(14; 0,5)$.    $\bullet$
 
+Dal punto di vista astratto, una trasformazione di questo tipo è una funzione biunivoca $F$ da $\mathbb{R}^2$ in $\mathbb{R}^2$: a differenza delle funzioni reali di due variabili, anche il risultato prodotto ha due veriabili.
 
+ 
 
-### Le Traslazioni ed i Vettori
+### Vettori come Traslazioni
 
-Vediamo ora alcune trasformazioni particolari. Una **traslazione** è una trasformazione geometrica che ha le equazioni della forma seguente:
+Esaminiamo ora le trasformazioni dette traslazioni. Una **traslazione** è una trasformazione geometrica che ha le equazioni della forma seguente:
 $$
 \left\{  
 \begin{array}{l} 
@@ -70,7 +72,7 @@ y^{\prime} = y + 3 \\
 $$
 Sostituendo le coordinate dei punti nelle equazioni otteniamo: $A(2; 1) \longrightarrow A^\prime(3; 4)$,  $B(6; 5) \longrightarrow B^\prime (7; 8)$,  $C(8; 2) \longrightarrow C^\prime(9; 5)$.
 
-Rappresentando nel piano cartesiano i punti $A, B, C$ ed i loro trasformati, vediamo che ogni punto viene traslato, in pratica **spostato**, aumentando di una unità la sua ascissa e di $3$ unità la sua ordinata.
+Rappresentando nel piano cartesiano i punti $A, B, C$ ed i loro trasformati, vediamo che ogni punto viene traslato, ossia **spostato**, aumentando di una unità la sua ascissa e di $3$ unità la sua ordinata.
 
 <img src="img/traslazione.png" alt="traslazione" style="zoom:80%;" />
 
@@ -78,21 +80,21 @@ Se congiungiamo ogni punto con il suo trasformato otteniamo dei segmenti orienta
 
 <img src="img/congruenti.png" alt="congruenti" style="zoom:80%;" />
 
-In pratica ogni punto viene spostato come indicano le frecce, che sono però tutte "uguali" (si dice congruenti) a parte il fatto che  partono da punti diversi      $\bullet$
+In pratica ogni punto viene spostato come indicano le frecce, che sono però tutte "<u>uguali</u>" (si dice <u>congruenti</u>) a parte il fatto che  partono da punti diversi      $\bullet$
 
 
 
 Il fatto che i segmenti $\overrightarrow{AA^\prime}$, $\overrightarrow{BB^\prime}$, $\overrightarrow{CC^\prime}$ abbiano queste caratteristiche è importante perché possiamo dire che ognuno rappresenta la stessa "<u>freccia</u>", o **vettore** $\vec{v}$, applicato ad un punto diverso.
 
-I suoi elementi caratteristici sono:
+Gli elementi caratteristici di $\vec{v}$ sono:
 
-- la misura del segmento $AA^\prime$, detta modulo del vettore, che indichiamo con $\|AA^\prime\|$;
-- la direzione, che è la direzione della retta $AA^\prime$;
-- il verso, da $A$ ad $A^\prime$.
+- la misura del segmento $AA^\prime$, detta **modulo del vettore**, che indichiamo con $\|AA^\prime\|$ o $|AA^\prime|$;
+- la **direzione**, che è la direzione della retta $AA^\prime$;
+- il **verso**, da $A$ ad $A^\prime$.
 
-Un vettore è quindi un segmento orientato che ci consente di traslare qualunque punto del piano in una <u>stessa direzione, per una stessa lunghezza e in uno stesso verso</u>. 
+Un vettore è quindi un segmento orientato che ci consente di traslare qualunque punto del piano in una <u>stessa direzione, per una stessa lunghezza e in uno stesso verso</u> ed in pratica <u>identifica la traslazione</u> come trasformazione del piano, per cui ogni vettore ci consente di scrivere una traslazione ed ogni traslazione ha un unico vettore associato.
 
-I vettori vengono rappresentati con un particolare segmento orientato che ha come primo estremo sempre il punto $O(0; 0)$ e come secondo il punto $O^\prime$ che ha le coordinate opportune per indicare la lunghezza e la direzione del vettore. Le coordinate del punto $O^\prime$ sono dette **componenti (cartesiane) del** **vettore**, come nella figura seguente.
+I vettori vengono rappresentati con un particolare segmento orientato che ha come primo estremo sempre l'<u>origine degli assi</u> $O(0; 0)$ e come secondo il punto $O^\prime$ che ha le coordinate opportune per indicare la lunghezza e la direzione del vettore. Le coordinate del punto $O^\prime$ sono dette **componenti (cartesiane) del** **vettore**, come nella figura seguente.
 
 ![vettore](img/vettore.png)
 
@@ -118,7 +120,7 @@ Sostituendo abbiamo $A(0; 0) \longrightarrow A^\prime(-2; 1)$,  $B(1; 0) \longri
 
 
 
-### Somma di vettori e moltiplicazione per uno scalare
+### Somma di vettori
 
 Esaminiamo ora due operazioni molto comuni che riguardano i vettori e che ci consentono di creare vettori nuovi a partire da vettori vecchi: la somma di due vettori e la moltiplicazione per uno scalare.
 
@@ -126,11 +128,55 @@ Se abbiamo due vettori, $\vec{v} =$ $\begin{pmatrix} 0 \\ 1 \end{pmatrix}$ e  $\
 $$
 \vec{v} + \vec{w} = \begin{pmatrix} 0 \\ 1 \end{pmatrix} + \begin{pmatrix} 1 \\ 1 \end{pmatrix} \longrightarrow \begin{pmatrix} 1 \\ 2 \end{pmatrix} = \vec{z}
 $$
-Lo spostamento di un punto secondo il nuovo vettore $\vec{z}$ corrisponde alla <u>sequenza dei due spostamenti</u> di $\vec{v}$ e poi di $\vec{w}$.
+Lo spostamento di un punto secondo il nuovo vettore $\vec{z}$ corrisponde alla <u>sequenza dei due spostamenti</u> di $\vec{v}$ e poi di $\vec{w}$, cioè alla <u>composizione delle due traslazioni</u>. 
 
+Se indichiamo con $F$ la traslazione del vettore $\vec{v}$ e con $G$ quella di $\vec{w}$ abbiamo
+$$
+F:\left\{  
+\begin{array}{l} 
+x^{\prime} = x + 0 \\  
+y^{\prime} = y + 1 \\   
+\end{array} 
+\right.
+\;\;\;
+G:
+\left\{  
+\begin{array}{l} 
+x^{\prime \prime} = x^\prime + 1 \\  
+y^{\prime \prime} = y^\prime + 1 \\   
+\end{array} 
+\right.
+$$
+Componendo le due trasformazioni, ossia sostituendo $x^\prime$ e $y^\prime$ di $F$ in $G$ abbiamo: 
+$$
+G(F(x,y)):
+\left\{  
+\begin{array}{l} 
+x^{\prime \prime} = x + 0 + 1 \\  
+y^{\prime \prime} = y + 1 + 1 \\
+\end{array} 
+\right.
+
+\longrightarrow
+
+\left\{  
+\begin{array}{l} 
+x^{\prime \prime} = x + 1 \\
+y^{\prime \prime} = y + 2
+\end{array} 
+\right.
+$$
 Se vediamo l'operazione dal punto di vista delle frecce, la costruzione della freccia risultato avviene secondo la regola detta del "triangolo" o "parallelogramma".
 
 <img src="img/somma-vettori.png" alt="somma-vettori" style="zoom:80%;" /> 
+
+Lo spostamento di qualunque punto $P$ potrà quindi avvenire prima costruendo il vettore somma e poi applicando il vettore risultato al punto da spostare, come nella figura seguente, per ottenere il punto $P^\prime$.
+
+<img src="img/spostamento-somma.png" alt="spostamento-somma" style="zoom:25%;" /> 
+
+
+
+#### Moltiplicazione di un vettore per uno scalare
 
 Se abbiamo un vettore e vogliamo costruirne uno lungo il doppio, possiamo sommare il vettore a se stesso ed otteniamo:
 $$
