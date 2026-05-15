@@ -115,7 +115,7 @@ Conoscere il graﬁco spazio-tempo è importante, perché permette di ricavare t
 
 
 
-### Grafico Spazio-Tempo, Traiettorie e Moti Vincolati
+### Grafico Spazio-Tempo e Traiettorie
 
 Traiettoria e graﬁco spazio-tempo sono due cose molto diverse. Un moto può essere rettilineo, ossia vere una traiettoria rettilinea, anche se il graﬁco spazio-tempo che lo rappresenta non è una retta. Il grafico spazio-tempo contiene infatti informazioni sul tempo, a differenza della traiettoria, che ci dà solo informazioni spaziali. Il fatto che il moto si svolga lungo una retta è espresso dal fatto che le posizioni si trovano su un unico asse. 
 
@@ -127,9 +127,9 @@ Un moto unidimensionale può essere approssimato con un moto rettilineo, ossia u
 
 <img src="img/strada.png" alt="strada" style="zoom: 67%;" />
 
-Per i moti che cambiano direzione nel tempo in modo <u>autonomo</u>, ossia dei quali non conosciamo la traiettoria ma che rimangono in uno stesso piano, ad esempio una formica che cammina su un pavimento, sono necessarie due coordinate per individuare la posizione dell'oggetto in movimento.
+Per i moti che cambiano direzione nel tempo in modo libero, ossia dei quali non conosciamo la traiettoria ma che rimangono in uno stesso piano, ad esempio una formica che cammina su un pavimento, sono necessarie due coordinate per individuare la posizione dell'oggetto in movimento.
 
-Se il corpo in movimento non è vincolato ad un piano ma si muove, sempre in modo <u>autonomo</u>, nello spazio, come un uccello o un aereo, sono necessarie tre coordinate per la sua posizione.
+Se il corpo in movimento non è vincolato ad un piano ma si muove, sempre in modo libero, nello spazio, come un uccello o un aereo, sono necessarie tre coordinate per la sua posizione.
 
 <img src="img/dimensioni.png" alt="dimensioni" style="zoom:75%;" />
 
@@ -145,15 +145,15 @@ Se chiamiamo $P$ il generico punto che individua la <u>posizione</u> del motocic
 
 Al passare del tempo, se il motociclista si muove, il punto $P$ fa una traiettoria ed il vettore posizione $\vec{s}$ si allunga, si accorcia, cambia orientazione: in una parola, varia. 
 
-Come abbiamo già visto, lo «<u>spostamento</u>» è la variazione della posizione, e lo spostamento è dato dalla differenza tra due vettori posizione.
+Come abbiamo già visto, lo «<u>spostamento</u>» è la variazione della posizione, e lo spostamento è dato dalla differenza tra due vettori posizione.  Se $\vec{s_1}$ ed $\vec{s_2}$ sono i vettori posizione negli istanti $t_1$ e $t_2$, tenendo presente la regola del parallelogramma e che la differenza tra due vettori è uguale alla somma tra l’uno e l’opposto dell’altro, si vede che:
+$$
+\Delta \vec{s} = \vec{s_2} - \vec{s_1}
+$$
+Lo spostamento $\Delta \vec{s}$ è un vettore diretto dal punto $P1$  al punto $P2$.
 
-Pag. 152
+<img src="img/vettore-spostamento.png" alt="vettore-spostamento" style="zoom:80%;" />
 
-
-
-Come vedremo i vettori sono lo strumento fondamentale per analizzare i moti dei corpi in un piano.
-
-
+Il suo modulo è tanto maggiore quanto maggiore è stata la variazione di $\vec{s}$.
 
 
 
@@ -196,6 +196,8 @@ b) Durante il moto di un corpo sul piano, le componenti cartesiane di tre vettor
 c) Due alpinisti partono alle $\text{7:00}$ e raggiungono la base di una parete verticale percorrendo un pendio in salita lungo $500\; m$; successivamente scalano la parete, lunga $150\; m$. La salita termina alle $\text{11:15}$, a $400$ metri di quota sopra il livello di partenza.
 - Rappresenta la situazione con un disegno dei vettori spostamento degli alpinisti. 
 - Calcola l’angolo di inclinazione del pendio rispetto all’orizzontale.
+
+
 
 
 
@@ -270,9 +272,9 @@ $$
 
 ### Uso della Velocità Media
 
-Nella vita di tutti i giorni capita spesso di usare la formula (3.1) della velocità media, per esempio quando viaggiamo: se impieghiamo 2 h per andare da una città a un’altra che dista 200 km dalla prima calcoliamo immediatamente che la nostra velocità (media) è di 100 km/h. Non facciamo fatica nemmeno a ricavare che per percorrere 250 km con una velocità media di 100 km/h impiegheremmo 2,5 h. Sappiamo dunque usare con disinvoltura la formula, anche se con numeri tondi e familiari, come le velocità delle automobili e le distanze fra le città.
+Nella vita di tutti i giorni capita spesso di usare la formula della velocità media, per esempio quando viaggiamo: se impieghiamo $2\; h$ per andare da una città a un’altra che dista $200\; km$ dalla prima calcoliamo immediatamente che la nostra velocità (media) è di $100\; km/h$. E' semplice anche calcolare che, per percorrere $250\; km$ con una velocità media di $100\; km/h$ impiegheremmo $2.5\; h$, perché siamo abituati a fare i calcoli in $Km/h$.
 
-Ora si tratta di imparare a fare calcoli meno immediati e a usare le unità di misura del Sistema Internazionale.
+Vediamo ora qualche esempio di calcolo con metri e secondi, unità di misura del Sistema Internazionale.
 
 #### ESEMPIO 1
 
