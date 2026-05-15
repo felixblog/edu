@@ -11,6 +11,8 @@ I ﬁsici che studiano l’origine dell’Universo sono detti cosmologi, altri, 
 
 Ciò che distingue un ﬁsico da un altro scienziato, un geoﬁsico da un geologo o un bioﬁsico da un biologo non sta tanto nell’oggetto di studio, quanto nel <u>metodo</u>. Oggi i ﬁsici applicano il loro metodo nei più svariati campi, forti dei quattro secoli di lavoro di chi li ha preceduti. La ﬁsica poggia su una struttura molto solida, patrimonio dell’umanità, frutto di grandi menti creative, di uomini e donne che hanno dedicato la loro vita alla ricerca di una via scientiﬁca alla conoscenza
 
+### La Fisica nell'Antichità
+
 Gli antenati dei ﬁsici moderni sono gli antichi ﬁlosoﬁ greci, che si interrogavano sulla natura, alla ricerca dei suoi <u>principi primi</u>, per spiegare l’inﬁnita varietà del mondo. Diversamente da chi trovava risposte di tipo religioso o mitologico, i ﬁlosoﬁ sostenevano che la razionalità del pensiero fosse lo strumento più importante per la conoscenza. Gli stessi greci furono anche i primi a riconoscere regolarità matematiche nei fenomeni naturali e a utilizzarle nell’arte e nella tecnica. Ma non basta la curiosità per ciò che accade o il rigore di un ragionamento a fare di un pensatore un ﬁsico; così come non è sufﬁciente saper utilizzare correttamente numeri e forme geometriche per studiare scientiﬁcamente la natura. 
 
 La ﬁsica iniziò a distinguersi dalla ﬁlosoﬁa e a delinearsi come scienza in senso moderno 
@@ -29,9 +31,7 @@ La grande differenza tra la ﬁsica e le altre scienze naturali non sta nell’u
 
 L’uso della matematica per la descrizione di ciò che accade in natura consente ai ﬁsici di fare previsioni. Le leggi sono equazioni in cui compaiono grandezze ﬁsiche: cambiando il loro valore si può riprodurre una realtà ipotetica, ancora prima di sperimentarla. Per esempio, la ﬁsica permette di prevedere dove cadrà un proiettile che sia sparato con una certa velocità in una certa direzione, anche se non è mai stato fatto prima; mentre la chimica non permette di prevedere che cosa accadrà se due molecole si incontrano, a meno che non sia già stata osservata una precedente situazione dello stesso tipo. Non esiste una teoria delle reazioni chimiche e si conosce solo ciò che è già stato osservato: un chimico deve sapere davvero moltissime cose per fare il suo lavoro!
 
-
-
-## UNITA' 2: Il Movimento dei Corpi: La Posizione
+### Lo Studio del Moto
 
 Il movimento naturale degli oggetti è il primo e principale fenomeno che si presenta agli studiosi della natura, come abbiamo visto, filosofi nell'antichità è fisici nei tempi più moderni, ed il più comune tra questi è la caduta a terra di un corpo lasciato libero nell'aria, detto "la caduta di un grave".
 
@@ -43,7 +43,9 @@ La fisica antica, riassunta e sistematizzata da Aristotele, era mossa dalla rice
 
 Facendo questo Galileo scoprì, con un esperimento al tempo semplice e sorprendente, che la velocità di caduta di un corpo non dipendeva dal suo peso e che le differenze osservate erano dovute alla resistenza dell'aria. Misurò poi la velocità di caduta, che aumenta man mano che passa il tempo, stabilendo le leggi della cinematica, ossia del movimento dei corpi.
 
+ 
 
+## UNITA' 2: Il Movimento dei Corpi: La Posizione
 
 ### Moto Rettilineo
 
@@ -161,8 +163,7 @@ Il suo modulo è tanto maggiore quanto maggiore è stata la variazione di $\vec{
 
 a) Lungo un’autostrada due automobili $A$ e $B$ procedono a velocità diverse lungo la stessa direzione. Alle $\text{13:14}$ l’automobile $A$ supera l’automobile $B$, all’altezza del kilometro $\text{124}$. Alle $\text{13:00}$ l’automobile $A$ si trovava al $\text{94}$-esimo kilometro, mentre l’automobile $B$ al $\text{97}$-esimo. Disegna sullo stesso piano cartesiano i graﬁci spazio-tempo di entrambe le automobili, usando colori diversi per ciascuna di esse.
 
-b) Durante un esperimento didattico in cui si studia il 
-moto di un carrello vengono raccolti i dati nella seguente tabella:
+b) Durante un esperimento didattico in cui si studia il moto di un carrello vengono raccolti i dati nella seguente tabella:
 $$
 \begin{array}{|c|c|}
 \hline
@@ -291,9 +292,7 @@ La velocità è di $33.33\; Km/h$.    $\bullet$
 
 #### ESEMPIO 2
 
-Un ragazzo è uscito di casa alle $\text{15:30}$ e ha raggiunto la casa di un 
-amico alle $\text{15:50}$. Se la velocità media lungo il tragitto è stata di 
-$2.0\; m/s$, quanta strada ha percorso?
+Un ragazzo è uscito di casa alle $\text{15:30}$ e ha raggiunto la casa di un amico alle $\text{15:50}$. Se la velocità media lungo il tragitto è stata di $2.0\; m/s$, quanta strada ha percorso?
 
 Abbiamo che $\Delta t = \text{15:50} - \text{15:30} = 20\; min = 1200\; s$. Dalla formula $v_m = \dfrac{\Delta s}{\Delta t}$, sostituendo i numeri alle lettere:
 $$
@@ -318,8 +317,7 @@ a)  Quali elementi di questo graﬁco contengono le informazioni «il moto è re
 
 <img src="img/Es-3.1.png" alt="Es-3.1" style="zoom:80%;" />
 
-b) Scrivi la legge oraria del moto descritto dal seguente 
-graﬁco spazio-tempo.
+b) Scrivi la legge oraria del moto descritto dal seguente graﬁco spazio-tempo.
 
 
 
