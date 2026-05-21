@@ -296,11 +296,11 @@ La velocità media tra gli istanti $t_1$ e $t_2$ è data dalla <u>pendenza</u> d
 
 <img src="img/velocita-istantanea.png" alt="velocita-istantanea" style="zoom:80%;" />
 
-Gli istanti $t_1$ e $t_2$ sono vicinissimi, ma restano comunque due punti che individuano un intervallo di tempo Δt; quindi possiamo continuare a usare la formula della velocità media. Tuttavia, se si vuole deﬁnire una velocità istantanea, bisogna continuare a spostare t2 verso t1: i punti P1 e P2 saranno sempre più vicini e il segmento diventerà quasi un punto. Mentre $t_2$ si avvicina a $t_1$, anche $x_2$ si avvicina a $x_1$: $P_2$ si avvicina a $P_1$ e la retta diventa la tangente alla curva del graﬁco. 
+Gli istanti $t_1$ e $t_2$ sono vicinissimi, ma restano comunque due punti che individuano un intervallo di tempo $\Delta t$; quindi possiamo continuare a usare la formula della velocità media. Tuttavia, se si vuole deﬁnire una velocità istantanea, bisogna continuare a spostare $t_2$ verso $t_1$: i punti $P_1$ e $P_2$ saranno sempre più vicini e il segmento diventerà quasi un punto. Mentre $t_2$ si avvicina a $t_1$, anche $x_2$ si avvicina a $x_1$: $P_2$ si avvicina a $P_1$ e la retta diventa la tangente alla curva del graﬁco. 
 
 La velocità istantanea in $t_1$ si ottiene quindi come limite della velocità media per $t_2$ che tende a $t_1$:
 $$
-v(t_1) = \displaystyle \lim_{t_2 \to t_1} \dfrac{x_2 - x_1}{t_2 - t_1} = \displaystyle \lim_{t_2 \to t_1} \dfrac{\Delta x}{\Delta t}
+\displaystyle \lim_{t_2 \to t_1} \dfrac{x_2 - x_1}{t_2 - t_1} = \displaystyle \lim_{t_2 \to t_1} \dfrac{\Delta x}{\Delta t} = v(t_1)
 $$
 
 Il limite è un numero finito e per comprenderlo bisogna tornare alla osservazione sulla <u>velocità come coefficiente angolare</u> della retta che unisce i punti $P_1$ e $P_2$ nel piano spazio-tempo; guardando la figura precedente si nota come le rette che uniscono i punti mentre $P_2$ tende a $P_1$ tendano tutte alla tangente del grafico del moto nel punto $(t_1, P_1)$, che avrà quindi come coefficiente angolare $v(t_1)$.
@@ -311,11 +311,11 @@ Il limite è un numero finito e per comprenderlo bisogna tornare alla osservazio
 
 
 ### Il Moto Rettilineo Uniforme
-In generale, in un moto rettilineo qualsiasi la velocità istantanea cambia nel tempo, come si vede confrontando tra loro le pendenze delle tangenti in diversi punti di un ipotetico graﬁco spazio-tempo.
+In generale, in un <u>moto rettilineo qualsiasi</u> la velocità istantanea cambia nel tempo, come si vede confrontando tra loro le pendenze delle tangenti in diversi punti di un ipotetico graﬁco spazio-tempo.
 
 <img src="img/velocita-e-tangenti.png" alt="velocita-e-tangenti" style="zoom:80%;" />
 
-Se la velocità istantanea non cambia mai durante il moto, questo è detto <u>moto rettilineo uniforme</u> e corrisponde alla situazione del graﬁco seguente, in cui si vede che la pendenza delle tangenti coincide con la pendenza della retta che unisce gli estremi del moto. La velocità è, istante per istante, sempre uguale alla velocità media.
+Se la velocità istantanea non cambia mai durante il moto, questo è detto <u>moto rettilineo uniforme</u> e corrisponde alla situazione del graﬁco seguente, in cui si vede che la pendenza delle tangenti in ogni istante coincide con la pendenza della retta che unisce gli estremi del moto. La velocità è, istante per istante, sempre uguale alla velocità media.
 
 <img src="img/velocita-uniforme-e-tangenti.png" alt="velocita-uniforme-e-tangenti" style="zoom:80%;" />
 
@@ -337,12 +337,12 @@ Su qualsiasi intervallo si vada a calcolare la velocità media, questa ha sempre
 
 ### Legge Oraria del Moto rettilineo uniforme
 
-Galileo Galilei fu il primo a introdurre il tempo nello studio dei moti. In particolare si occupò dei corpi in caduta libera, che all’epoca si riteneva avvenissero a velocità costante e dipendente dal peso. Galileo iniziò a chiedersi che cosa accade nel tempo mentre il corpo cade, e riuscì a scoprire non solo che la velocità non dipende dal peso ma che non è nemmeno costante, perché aumenta seguendo una regola che vedremo più avanti. 
+Galileo Galilei fu il primo a introdurre il tempo nello studio dei moti. In particolare si occupò dei corpi in caduta libera, che all’epoca si riteneva avvenissero a velocità costante e dipendente dal peso. Galileo iniziò a chiedersi che cosa accade, nel tempo, mentre il corpo cade, e riuscì a scoprire non solo che la velocità non dipende dal peso ma che non è nemmeno costante, perché aumenta seguendo una regola che vedremo più avanti. 
 
-Un moto è noto nel tempo quando si sa fornire istante per istante la posizione del corpo: come scoprì Galileo, alcuni moti possono essere ben descritti da una formula matematica, detta <u>legge oraria</u>.
+Un moto è noto quando si sa fornire istante per istante la posizione del corpo: come scoprì Galileo, alcuni moti possono essere ben descritti da una formula matematica, detta <u>legge oraria</u>.
 
 >
-> $\triangle$ La **legge oraria** di un moto è una regola che stabilisce come varia la posizione di un corpo al variare del tempo. 
+> $\triangle$ La **legge oraria** di un moto è una regola che stabilisce come varia la <u>posizione</u> di un corpo al variare del <u>tempo</u>. 
 >
 
 
@@ -371,22 +371,18 @@ x = v \cdot t + x_0
 $$
 Questa formula fornisce la posizione $x$ di un corpo che si muove a velocità costante lungo una retta, al variare del tempo $t$. Se conosciamo $x_0$ e $v$, basta che sostituiamo nella legge del moto l’istante di tempo che ci interessa e otteniamo la corrispondente posizione del corpo.
 
-Una osservazione importante è anche quella che dalla formula precedente abbiamo che $x - x_0 = v \cdot t$, cioè **lo spazio percorso è uguale all'area dello spazio sotto al grafico della velocità** nell'intervallo $\Delta t$ , che essendo un rettangolo, si ottiene moltiplicando la base $\Delta t$ per l'altezza $v$.
+Una osservazione importante è che, dalla formula precedente, abbiamo $x - x_0 = v \cdot t$, cioè **lo spazio percorso è uguale all'area sotto al grafico della velocità** nell'intervallo $\Delta t$ , che essendo un rettangolo, si ottiene moltiplicando la base $\Delta t$ per l'altezza $v$.
 
 <img src="img/tempo-velocita-costante.png" alt="tempo-velocita-costante" style="zoom:80%;" />
-
-
 
 #### ESEMPIO 3
 
 Un ciclista si muove di moto rettilineo uniforme con una velocità di $25\; km/h$. Se fa partire il cronometro quando si trova a $1.0\; km$ da casa sua, a quale distanza da questa si trova dopo $15\; min$?
 
 Utilizzando le unità di misura del Sistema Internazionale abbiamo:
-
-$v = 25\; Km/h = \dfrac{25}{3.6}\; m/s = 6.9\; m/s$
-
-
-
+$$
+v = 25\; Km/h = \dfrac{25}{3.6}\; m/s = 6.9\; m/s
+$$
 Dopo $15\; min$ il ciclista è a $7.2\; km$ da casa.     $\bullet$
 
 
@@ -397,11 +393,11 @@ Se la velocità è negativa, il graﬁco del moto nel piano spazio-tempo ha un�
 
 <img src="img/velocita-negativa.png" alt="velocita-negativa" style="zoom:80%;" />
 
-Calcolando la velocità tra i punti $(0, 4.0)$ e $(3.0, 1.0)$ avremo:
+Calcolando la velocità tra i punti $(0; 4)$ e $(3; 1)$ avremo:
 $$
 v = \dfrac{x_2 - x_1}{t_2 - t_1} = \dfrac{1 - 4}{3 - 0} = -1\; m/s
 $$
-Spostamenti negativi corrispondono a velocità negative, in quanto gli intervalli di tempo sono sempre positivi.
+Velocità negative corrispondono a spostamenti negativi, in quanto gli intervalli di tempo sono sempre positivi.
 
 Quale è la legge del moto?     $\bullet$
 
@@ -440,28 +436,22 @@ Estendiamo ora la deﬁnizione di velocità media del caso unidimensionale al ca
 >$$
 >
 
-
+Quando l’intervallo di tempo diventa inﬁnitamente piccolo (nel modo già discusso nel caso unidimensionale) il vettore $\vec{v}$ diventa una velocità vettoriale <u>istantanea</u> e la sua direzione è quella della <u>tangente alla traiettoria</u>.
 
 <img src="img/velocita-vettoriale-istantanea.png" alt="velocita-vettoriale-istantanea" style="zoom:80%;" />
 
-Quando l’intervallo di tempo diventa inﬁnitamente piccolo (nel modo già discusso nel caso unidimensionale) il vettore vÀ diventa una velocità vettoriale istantanea e la sua direzione è quella della tangente alla traiettoria (ﬁgura 22).
-Tra velocità vettoriale e velocità scalare (il modulo del vettore, per intenderci) può sorgere qualche confusione. Se diciamo, per esempio, che una curva è percorsa a velocità costante, ci stiamo riferendo alla grandezza scalare, perché in una curva la direzione del vettore cambia istante per istante. Se invece vogliamo che sia costante il vettore velocità, allora dobbiamo necessariamente riferirci a traiettorie rettilinee. 
+Tra velocità vettoriale e <u>velocità scalare</u> (ossia il modulo del vettore, per intenderci) può sorgere qualche confusione. Se diciamo, per esempio, che "una curva è percorsa a velocità costante", ci stiamo riferendo alla grandezza scalare, perché in una curva la direzione del vettore cambia istante per istante. Se invece vogliamo che sia <u>costante il vettore velocità</u>, allora dobbiamo necessariamente riferirci a <u>traiettorie rettilinee</u>. 
 
+La velocità istantanea è ottenuta dalla velocità media mediante un passaggio al limite. La formula $\vec{v} = \dfrac{\Delta s}{\Delta t}$ è un rapporto tra due incrementi (rapporto incrementale): se scriviamo $t_2 = t_1 + \Delta t$ abbiamo che in ogni istante $t$ del moto $x = x(t) = x(t + \Delta t)$ ed allora la velocità istantanea è il limite del rapporto incrementale per $\Delta t \rightarrow 0$ :
 
-
-
-
-
-
-
-Come si vede la velocità istantanea è un rapporto incrementale; se scriviamo $t_2 = t_1 + \Delta t$ abbiamo che in ogni istante $t$ del moto $x = x(t) = x(t + \Delta t)$:
 $$
 v(t) = \displaystyle \lim_{\Delta t \to 0} \dfrac{x(t + \Delta t) - x(t)}{\Delta t} = x'(t)
 $$
 Quindi possiamo dire che se la posizione del corpo in movimento $x(t)$ è espresso da una funzione, la velocità istantanea è la derivata di tale funzione rispetto al tempo. 
 
-
-
+>
+> $\triangle$ La **velocità istantanea** è la derivata del <u>vettore posizione</u> rispetto al tempo. 
+> 
 
 
 
@@ -486,7 +476,7 @@ b) Scrivi la legge oraria del moto descritto dal seguente graﬁco spazio-tempo.
 
 ### ESERCIZIO 3.3
 
-Secondo la teoria della deriva dei continenti di Wegener, l’Oceano Atlantico ha iniziato a formarsi con la divisione della Pangea e da allora è in continua espansione. Il Sud America e l’Africa si allontanano con una velocità di circa $6\; cm/anno$ e attualmente hanno una distanza media di $7000\; km$. 
+Secondo la teoria della deriva dei continenti di Wegener, l’Oceano Atlantico ha iniziato a formarsi con la divisione della Pangea e da allora è in continua espansione. Il Sud America e l’Africa si allontanano con una velocità di circa $6\; cm/anno$ e attualmente hanno una distanza media di $7\,000\; km$. 
 - Supponendo costante la velocità di allontanamento stima quanto tempo fa i due continenti erano uniti.
 - Perché parliamo di «stima»? 
 
@@ -499,19 +489,6 @@ a) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra mo
 b) Un viaggiatore impiega $12$ ore per un tragitto di andata e ritorno, con una velocità di $20 \;Km/h$ per l’andata e $30 \;Km/h$ per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
 
 c) Un postino che viaggia a $30 \;Km/h$ è in viaggio da $3$ ore. Un altro postino, inviato per raggiungerlo, viaggia a $50 \;Km/h$. Quanto impiegherà il secondo per raggiungere il primo? Quale distanza coprirà?  
-
-
-
-Es. Pag. 107
-
-
-
-### ESERCIZIO 3.5
-
-Una biglia inizialmente in moto da ovest a est lungo una retta a velocità costante di modulo $2.5\; m/s$ urta contro una parete e inverte il suo moto, mantenendo costante il modulo della velocità.
-
-- Rappresenta graﬁcamente la situazione.
-- Quanto vale il modulo del vettore accelerazione?		$R: [5.6\; m/s]$
 
 
 
@@ -553,33 +530,43 @@ L’accelerazione è dunque una variazione di una variazione della posizione, e 
 
 ### Il segno dell’accelerazione media
 
-Dato che $\Delta t$ è sempre positivo, il segno dell’accelerazione media dipende da $\Delta v$, che può anche essere negativo o nullo. Se l’accelerazione è nulla la velocità è costante e il moto è uniforme. Se l’accelerazione è negativa signiﬁca che la variazione di velocità è negativa: questo accade o quando il corpo rallenta mentre procede nello stesso verso dell’asse dello spazio, oppure quando la velocità aumenta in verso opposto.
+Dato che $\Delta t$ è sempre positivo, il segno dell’accelerazione media dipende da $\Delta v$, che può anche essere negativo o nullo. Se l’accelerazione è nulla la velocità è costante e il moto è uniforme. Se l’accelerazione è negativa signiﬁca che <u>la variazione di velocità è negativa</u>: questo accade o quando il corpo <u>rallenta</u> mentre procede nello stesso verso dell’asse dello spazio, oppure quando la velocità <u>aumenta in verso opposto</u>.
 
 <img src="img/accelerazione-decelerazione.png" alt="accelerazione-decelerazione" style="zoom:80%;" />
+
+Se nell'esempio precedente l'automobile va verso sinistra ed accelera da $-3\; Km/h$ a $-7\; Km/h$ l'accelerazione sarà negativa perché $-7 -(-3) = -4$ ma sarà positiva se decelera verso sinistra, perché  $-3 -(-7) = +4$.
+
+
 
 #### ESEMPIO 1
 
 Un’auto sportiva impiega $4.3\; s$ a passare da $0$ a $100\; km/h$. Quanto vale la sua accelerazione media?
 
-pag. 114
+Applichiamo la formula $a_m = \dfrac{\Delta v}{\Delta t}$ dopo aver trasformato la velocità in metri al secondo: 
+$$
+\Delta v = 100; Km/h = \dfrac{100}{3,6} m/s = 27.8\; m/s
+$$
+sostituendo i dati alle lettere:
+
+a) $a_m = \dfrac{\Delta v}{\Delta t}, \{\Delta v = 27.8, \Delta t = 4.3\}$;
+
+b) $a_m = \dfrac{27.8}{4.3} \longrightarrow 6.47$.
 
 
 
 #### ESEMPIO 2
 
-Durante una frenata della durata di $4.0\; s$ un’auto ha un’accelerazione media di  $5.5\; m/s^2$. A quale velocità, in $km/h$, andava il veicolo prima di frenare?
+Durante una frenata della durata di $4.0\; s$ un’auto ha un’accelerazione media di $-5.5\; m/s^2$. A quale velocità, in $km/h$, andava il veicolo prima di frenare?
 
-pag. 115
+Applichiamo la formula $a_m = \dfrac{\Delta v}{\Delta t}$ sostituendo i dati alle lettere:
 
+a) $a_m = \dfrac{\Delta v}{\Delta t}, \{a_m = -5.5, \Delta t = 4.0\}$;
 
+b) $-5.5 = \dfrac{\Delta v}{4}$;
 
-#### ESEMPIO 3
+c) $\Delta v = -5.5 \cdot 4 \longrightarrow -22\; m/s$.
 
-Su strada asciutta, la decelerazione media di un'auto in buone condizioni varia generalmente tra $7\; m/s^2$ e $9\; m/s^2$. Nelle frenate di emergenza con veicoli moderni dotati di sistemi ABS, il valore può raggiungere o superare leggermente $9.8\; m/s^2$.
-
-Quanto durano le frenate con accelerazioni medie di $-7$, $-8$ e $-9.8\; m/s^2$ se la velocità iniziale è $130\; km/h$?
-
-Quale è, nei vari casi, lo spazio di frenata?
+Poiché $\Delta v = v_1 - v_0$ e la macchina si arresta cioè $v_1 = 0$, abbiamo che $-v_0 = -22$ cioè la velocità iniziale era di $22\; m/s$, che in $Km/h$ sono $22 \cdot \dfrac{3600}{1000} \longrightarrow 79.2\; Km/h$.
 
 
 
@@ -619,7 +606,7 @@ v = v_0 + at
 $$
 Con la legge della velocità nel moto uniformemente accelerato possiamo fare dei calcoli analoghi a quelli che si fanno con la legge oraria del moto rettilineo uniforme,
 
-#### ESEMPIO 4
+#### ESEMPIO 3
 
 pag. 117
 
@@ -661,9 +648,9 @@ x = \dfrac{1}{2}a {\Delta t}^2 + v_0\Delta t + x_0
 $$
 
 
-#### ESEMPIO 5
+#### ESEMPIO 4
 
-Un’automobile procede a $50\; km/h$ quando il conducente agisce sui freni con un’accelerazione di  $3.0\; m/s^2$. Quanto spazio percorre in $4.0\; s$?
+Un’automobile procede a $50\; km/h$ quando il conducente agisce sui freni con un’accelerazione di $-3.0\; m/s^2$. Quanto spazio percorre in $4.0\; s$?
 
 Lo spazio percorso $\Delta x$ è dato dalla formula precedente, nella quale dobbiamo sostituire i dati numerici ai simboli, usando le unità del SI:
 
@@ -677,11 +664,11 @@ Sostituendo i dati alle lettere nella legge oraria $\Delta x = \dfrac{1}{2}a {\D
 $$
 \Delta x = (14\; m/s) \cdot (4.0\; s) + 0.5(-3.0\; m/s^2) \cdot (4.0\; s)^2 = 32\; m
 $$
-$\bullet$
+Lo spazio percorso è di $32\; m$.    $\bullet$
 
 
 
-#### ESEMPIO 6
+#### ESEMPIO 5
 
 Quanto tempo impiega un’auto a percorrere $150\; m$, partendo da ferma, con un’accelerazione costante a $3.5\; m/s^2$?
 
@@ -709,12 +696,6 @@ Come si può facilmente vedere, il grafico nel piano cartesiano spazio-tempo $(t
 
 
 
-#### ESEMPIO 7
-
-Calcola lo spazio percorso da un corpo a partire dal graﬁco 
-
-
-
 ### La Caduta dei Gravi
 
 La legge oraria del moto uniformemente accelerato è stata trovata sperimentalmente da Galileo Galilei nel caso particolare dei corpi in caduta libera per effetto dell’attrazione gravitazionale terrestre. Nel linguaggio della ﬁsica un grave è un corpo soggetto alla forza di gravità che, nel caso dell’attrazione gravitazionale esercitata dalla Terra su un corpo, viene deﬁnita forza-peso.
@@ -736,7 +717,7 @@ Per scrivere la legge oraria di un oggetto che cade da una certa altezza dobbiam
 
 
 
-#### ESEMPIO 8
+#### ESEMPIO 6
 
 Quanto tempo impiega una mela a cadere dalla sommità di un albero alto $2.5\; m$?
 
@@ -759,9 +740,66 @@ c) $0 = 2.5 - 4.9 \cdot t^2$,     e risolvendo l'equazione
 $$
 t = \sqrt{\dfrac{2.5}{4.9}} \approx \sqrt{0.51} \approx 0.71\; s
 $$
-$\bullet$
+La caduta dura circa $0.71$ secondi.       $\bullet$
+
+
+
+### Il Vettore Accelerazione
+
+pag. 154
+
+### ESERCIZIO 4.1
+
+Una biglia inizialmente in moto da ovest a est lungo una retta a velocità costante di modulo $2.5\; m/s$ urta contro una parete e inverte il suo moto, mantenendo costante il modulo della velocità.
+
+- Rappresenta graﬁcamente la situazione.
+- Quanto vale il modulo del vettore accelerazione?		$R: [5.6\; m/s]$
+
+
+
+### ESERCIZIO 4.2
+
+Su strada asciutta, la decelerazione media di un'auto in buone condizioni varia generalmente tra $7\; m/s^2$ e $9\; m/s^2$. Nelle frenate di emergenza con veicoli moderni dotati di sistemi ABS, il valore può raggiungere o superare leggermente $9.8\; m/s^2$.
+
+Quanto durano le frenate con accelerazioni medie di $-7$, $-8$ e $-9.8\; m/s^2$ se la velocità iniziale è $130\; km/h$?
+
+Quale è, nei vari casi, lo spazio di frenata?
+
+
+
+### ESERCIZIO 4.3
+
+a) Un cavallo da corsa raggiunge in $2.5$ secondi una velocità di $42\; km/h$ con un’accelerazione costante di $1.7 m/s^2$. 
+Quale era la sua velocità iniziale?			$R: \left[7.4\; m/s^2\right]$
+
+b) Un motociclista viaggia a $120\; km/h$ quando inizia a rallentare con accelerazione costante. In $3.5\; s$ la sua velocità è diventata $58\; km/h$. 
+Scrivi la legge della velocità.
+
+c) Un tuffatore professionista in gara si tuffa da un trampolino che si trova a un’altezza di $2.5\; m$ dal livello della superﬁcie dell’acqua della piscina.
+Considerando nulla la velocità iniziale e trascurabile la resistenza dell’aria, dopo quanto tempo che si è staccato dal trampolino tocca la superﬁcie dell’acqua?			$R: \left[0.7\; s \right]$
+
+
+
+### ESERCIZIO 4.4
+
+Achille Piè Veloce e la tartaruga concorrono in una gara in cui devono percorrere $2.0\; km$. Il primo parte da fermo e accelera costantemente con un’accelerazione di $0.7\; m/s^2$, mentre la seconda procede con moto rettilineo uniforme.
+
+Quale dovrebbe essere la velocità minima della tartaruga per battere Achille?
+
+
+
+### ESERCIZIO 4.5
+
+Per stimare la profondità di un pozzo misuriamo con un cronometro il tempo che passa tra l’istante in cui lasciamo cadere un sassolino e l’istante in cui percepiamo il rumore dell’impatto con l’acqua. Sappiamo infatti che il suono viaggia a velocità costante pari a circa $340\; m/s$ e che il moto del sassolino in fase di caduta è uniformemente accelerato. 
+
+- Se tale intervallo di tempo è pari a $3.0\; s$, quanto si stima sia profondo il pozzo? 
+- Si tratta di una stima per difetto o per eccesso? 
+
+(Suggerimento: imponi l’uguaglianza tra le relazioni che legano lo spazio percorso al tempo impiegato nei due moti di caduta del sassolino e di risalita del suono.)			$R: \left[\approx 40\; m \right]$
 
 ESERCIZI pag. 134
+
+
 
 
 
@@ -816,7 +854,7 @@ v_y = v_{0y} - gt
 $$
 Questo signiﬁca che $v_y$ diminuisce ﬁno ad annullarsi, per poi ricominciare ad aumentare durante la caduta, esattamente come nel caso con velocità iniziale nulla. Dobbiamo semplicemente aggiungere un tratto ascendente al caso studiato precedentemente.
 
-ESEMPIO 2
+#### ESEMPIO 2
 
 Calcola la quota massima che raggiunge un pallone calciato con 
 velocità $v_0 = 20\; m/s$ formante un angolo di $30^{\circ}$ con il terreno. 
@@ -835,7 +873,21 @@ pag. 171
 
 
 
+### Il Moto Circolare uniforme
 
+Diciamo che un corpo, in un piano, ha un moto circolare uniforme quando si muove su una circonferenza a velocità fissa.
+
+Più precisamente e parola per parola intendiamo che il corpo è in:
+
+moto: perché il corpo cambia posizione nel tempo;
+
+circolare: la traiettoria è una circonferenza;
+
+uniforme: signiﬁca che il <u>modulo</u> della velocità è costante.
+
+Attenzione: è necessario speciﬁcare che è costante il modulo della velocità, perché in realtà il vettore velocità cambia direzione istante per istante mentre il corpo si muove sulla circonferenza. Se fosse costante <u>il vettore</u> velocità, il moto sarebbe uniforme e rettilineo.
+
+Anche nel moto circolare uniforme, come in quello rettilineo, lo spazio percorso è direttamente proporzionale al tempo impiegato a percorrerlo, ma in questo caso la sua rappresentazione graﬁca anziché essere un segmento è un arco di circonferenza. Lungo la circonferenza si possono deﬁnire posizioni, velocità e accelerazioni, usando la rappresentazione vettoriale, come visto
 
 
 

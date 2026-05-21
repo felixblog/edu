@@ -57,17 +57,17 @@ $$
 
 Calcola l’interesse semplice e il montante dei seguenti capitali (in euro) impiegati alle condizioni indicate: 
 
-a) 500 per 1 anno al tasso del 12% annuo;
+a) $500$ per un anno al tasso del $12\; \%$ annuo;
 
-b) 1.200 per 8 mesi al tasso dell’11% annuo;
+b) $1\,200$ per $8$ mesi al tasso dell’$11\; \%$ annuo;
 
-c) 400 per 4 mesi e 20 giorni al tasso del 9% annuo;
+c) $400$ per $4$ mesi e $20$ giorni al tasso del $9\; \%$ annuo;
 
-d) 1.500 per 8 mesi al tasso del 3% bimestrale;
+d) $1\,500$ per $8$ mesi al tasso del $3\; \%$ bimestrale;
 
-e) 600 per 7 mesi al tasso del 2,50% trimestrale;
+e) $600$ per $7$ mesi al tasso del $250\; \%$ trimestrale;
 
-f) 845 per 4 mesi e 15 giorni al tasso del 6% semestrale.
+f) $845$ per $4$ mesi e $15$ giorni al tasso del $6\; \%$ semestrale.
 
 
 
@@ -75,9 +75,9 @@ f) 845 per 4 mesi e 15 giorni al tasso del 6% semestrale.
 ### ESERCIZIO 1.2 - Interesse semplice: capitale
 a) Determina i capitali che, nel regime dell’interesse semplice, hanno prodotto i seguenti montanti alle condizioni indicate:  
 
-1. 890 in 9 mesi al tasso del 15% annuo  
-2. 504 in 150 giorni al tasso del 12% annuo  
-3. 861,42 in 102 giorni al tasso del 3% quadrimestrale
+1. 890 in 9 mesi al tasso del 15% annuo;
+2. 504 in 150 giorni al tasso del 12% annuo;
+3. 861,42 in 102 giorni al tasso del 3% quadrimestrale.
 
 b) Calcola quale capitale impiegato al tasso annuo del 10% da in 8 mesi l’interesse semplice di 34 euro.  
 
@@ -151,9 +151,9 @@ Se la capitalizzazione avvenisse, ad esempio, ogni trimestre, si potrebbe ragion
 
 a) Calcolare il montante ad interesse composto delle operazioni seguenti.
 
-1. 500 euro per 10 anni al tasso dell’8,10% annuo;
+1. $500$ euro per $10$ anni al tasso dell’$8.10\; \%$ annuo;
 
-2. 1.800 euro per 6 anni al tasso del 12,15% annuo;
+2. $1\,800$ euro per $6$ anni al tasso del $12.15\; \%$ annuo;
 
 b) Calcolare il montante ad interesse composto delle operazioni seguenti che hanno capitalizzazione periodale
 
@@ -224,6 +224,8 @@ $$
 a) Determinare il tasso trimestrale equivalente al tasso annuo di interesse dell’$1.8\%$.
 
 b) Determinare il tasso annuo di interesse $i$ di un investimento sapendo che il tasso mensile corrispondente $0,31\%$.
+
+
 
 ### ESERCIZIO 4.2 - Tassi nominali convertibili
 
