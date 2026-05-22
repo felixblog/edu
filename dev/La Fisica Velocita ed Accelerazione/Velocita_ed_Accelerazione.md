@@ -655,7 +655,7 @@ Estendiamo il risultato e diciamo che anche nel moto uniformemente accelerato, l
 - sommare (o sottrarre) all’area del rettangolo di altezza pari alla velocità iniziale $v_0$ l’area del triangolo che ha per base la durata del moto e per altezza la differenza: $v_1 - v_0$ (o $v_0 - v_1$), oppure
 - calcolare l'area del trapezio rettangolo come semi-somma delle basi $\dfrac{1}{2}(v_1 + v_0)$ per l'altezza $\Delta v$
 
-<img src="img/legge-oraria-accelerazione.png" alt="legge-oraria-accelerazione" style="zoom:80%;" />
+<img src="img/legge-oraria-accelerazione-1.png" alt="legge-oraria-accelerazione" style="zoom:80%;" /> <img src="img/legge-oraria-accelerazione-2.png" alt="legge-oraria-accelerazione" style="zoom:80%;" /> <img src="img/legge-oraria-accelerazione-3.png" alt="legge-oraria-accelerazione" style="zoom:80%;" />
 
 Ricordando che $v_1 - v_0 = a\Delta t$, nel primo casi avremo:
 
