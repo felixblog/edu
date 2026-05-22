@@ -249,9 +249,21 @@ $$
 $$
 
 
-### Uso della Velocità Media
+### Uso della Velocità Media e le unità del S.I.
 
 Nella vita di tutti i giorni capita spesso di usare la formula della velocità media, per esempio quando viaggiamo: se impieghiamo $2\; h$ per andare da una città a un’altra che dista $200\; km$ dalla prima calcoliamo immediatamente che la nostra velocità (media) è di $100\; km/h$. E' semplice anche calcolare che, per percorrere $250\; km$ con una velocità media di $100\; km/h$ impiegheremmo $2.5\; h$, perché siamo abituati a fare i calcoli in $Km/h$.
+
+Capita spesso di dover passare dalla velocità misurata in $Km/h$ alla stessa velocità misurata in $m/s$. Poiché $1\; Km = 1\,000 \; m$ e $1\; h = 3\,600\; s$ abbiamo
+
+a) $1\; \dfrac{km}{h} = \dfrac{1\,000}{3\,600}\; \dfrac{m}{s}$;   dividendo per $1\,000$ la seconda frazione:
+
+b) $1\; \dfrac{km}{h} = \dfrac{1}{3,6}\; \dfrac{m}{s}$   ed allora
+
+c) $1\; \dfrac{m}{s} = 3,6\; \dfrac{km}{h}$   per cui:
+$$
+1\; m/s = 3.6\; Km/h
+$$
+
 
 Vediamo ora qualche esempio di calcolo con metri e secondi, unità di misura del Sistema Internazionale.
 
@@ -259,11 +271,12 @@ Vediamo ora qualche esempio di calcolo con metri e secondi, unità di misura del
 
 Quanto vale in $m/s$ la velocità di $120\; km/h$?
 
-Abbiamo che $1\; Km = 1000\; m$ e $1\; h = 3600\; s$ per cui sostituendo:
-$$
-120 \dfrac{Km}{h} = 120 \cdot \dfrac{1000}{3600}\dfrac{m}{s} \\
-v = 120 \dfrac{10}{26} = 120 \dfrac{1}{3,6} \longrightarrow 33.33
-$$
+Da $1\; m/s = 3,6\; km/h$ abbiamo $\dfrac{1}{3.6}\; m/s = 1\; km/h$ e moltiplicando entrambi i membri per $120$:
+
+a) $120 \cdot \dfrac{1}{3.6} m/s = 120\; Km/h$;
+
+b) $33.33\; m/s = 120\; Km/h$.
+
 La velocità è di $33.33\; Km/h$.    $\bullet$
 
 
@@ -608,7 +621,25 @@ Con la legge della velocità nel moto uniformemente accelerato possiamo fare dei
 
 #### ESEMPIO 3
 
-pag. 117
+Un ciclista frena e dopo $2.5\; s$ raggiunge la velocità di $25\; km/h$, con un’accelerazione costante pari a $-1.4\; m/s^2$ (decelerazione). Qual era la sua velocità iniziale in $km/h$?
+
+I dati sono: $v_1 = 25\; km/h = \dfrac{25}{3.6}\; m/s = 6.9\; m/s$, velocità finale;
+
+$a = -1.4\; m/s^2$, decelerazione (accelerazione negativa);
+
+$t_1 -t_0 = 2.5\; s$, durata della decelerazione.
+
+L'incognita è la velocità iniziale $v_0$. Sostituendo i dati nella formula dell'accelerazione media:
+
+a) $a = \dfrac{v_1 - v_0}{t_1 - t_0}, \{v_1 = 6.9, t_1 - t_0 = 2.5\}$;
+
+b) $-1.4 = \dfrac{6.9 - v_0}{2.5}$;    moltiplicando per $2.5$
+
+c) $-1.4 \cdot 2.5 = 6.9 - v_0$;
+
+d) $v_0 = 6.9 + 3.5$;
+
+e) $v_0 = 10.4; m/s = 10.4 \cdot 3.6\; Km/h \longrightarrow 37.44\; Km/h$
 
 
 
@@ -745,8 +776,29 @@ La caduta dura circa $0.71$ secondi.       $\bullet$
 
 
 ### Il Vettore Accelerazione
+L’accelerazione è una variazione della velocità nel tempo. L’<u>accelerazione vettoriale media</u> si deﬁnisce come il rapporto tra la variazione della velocità e l’intervallo di tempo in cui è avvenuta:
 
-pag. 154
+$$
+a_m  = \dfrac{\Delta \vec{v}}{\Delta t}
+$$
+Poiché la velocità media è una grandezza vettoriale, lo è anche l'accelerazione.
+
+Anche in questo caso deﬁniamo il vettore <u>accelerazione istantanea</u> come l’accelerazione media su un intervallo di tempo inﬁnitamente piccolo.
+Per vedere come è diretta l<u>’accelerazione rispetto alla traiettoria</u> prendiamo due casi particolari:
+
+- moto in cui la velocità non cambia direzione ma solo modulo (moto rettilineo non uniforme);
+- moto in cui la velocità non cambia modulo ma solo direzione (moto curvilineo uniforme).
+
+Se il moto è <u>rettilineo e non uniforme</u>, la freccia che rappresenta il vettore velocità si allunga o si accorcia lungo la traiettoria, ma la direzione non cambia: in tal caso l’accelerazione ha la stessa direzione del moto e il verso dipende dal fatto che il vettore velocità si stia allungando o accorciando lungo il senso di marcia.
+
+<img src="img/moto-rettilineo-non-uniforme.png" alt="moto-rettilineo-non-uniforme" style="zoom:80%;" />
+
+
+Se invece il moto è <u>curvilineo e uniforme</u>, la freccia che rappresenta il vettore velocità ha sempre la stessa lunghezza e cambia direzione istante per istante. In tal caso l’accelerazione è un vettore diretto verso il centro di curvatura della traiettoria, cioè perpendicolare al moto
+
+<img src="img/moto-curvilineo-uniforme.png" alt="moto-curvilineo-uniforme" style="zoom:80%;" />
+
+<!--Pag. 154-->
 
 ### ESERCIZIO 4.1
 
@@ -797,7 +849,7 @@ Per stimare la profondità di un pozzo misuriamo con un cronometro il tempo che 
 
 (Suggerimento: imponi l’uguaglianza tra le relazioni che legano lo spazio percorso al tempo impiegato nei due moti di caduta del sassolino e di risalita del suono.)			$R: \left[\approx 40\; m \right]$
 
-ESERCIZI pag. 134
+<!--ESERCIZI pag. 134-->
 
 
 
@@ -869,7 +921,7 @@ b) $v_{0y} = v_0 \cdot \sin \theta , \{v_0 = 20, \theta = 30^{\circ}\}$ $\longri
 
 La quota massima raggiunta $y_*$ riguarda solo la componente verticale del moto ed è quella per la quale la velocità $v_y$ si annulla. Questo avviene nell’istante di tempo $t_*$ che si ricava dalla legge della velocità per il moto uniformemente accelerato:
 
-pag. 171
+<!--pag. 171-->
 
 
 
