@@ -25,11 +25,21 @@ Le tre frasi che seguono sono proposizioni logiche:
 - I dinosauri erano rettili ed avevano il sangue freddo.
 - I manager bancari guadagnano eccessivamente.
 
-Mentre quelle seguenti non lo sono, ossia per queste non ha senso chiedersi se sono vere o false.
+Quelle seguenti o sicuramente non lo sono, ossia non ha senso chiedersi se sono vere o false.
 
 - Chi vincerà il prossimo campionato? (Frase interrogativa)
 - Va via di qui! (Frase imperativa)
 - Mio Dio, fammi diventare un milionario!  (Frase invocativa)
+
+Ci sono poi frasi affermative dal significato così vago o ambiguo per cui non è immediato percepire il senso di chiedersi se siano vere, ossia prima di chiedersi se siano vere sarebbe necessario precisarne il significato:
+
+- "Per noi il tuo cane non è mai solo un animale" (slogan di azienda produttrice di cibo per animali domestici);
+- "Vecchia Romagna etichetta nera, il brandy che crea un atmosfera" (slogan anni 50 di azienda produttrice di liquori);
+- "Più bianco non si può" (slogan anni 60 di azienda di detersivi).
+
+Queste proposizioni saranno trattate nel capitolo dedicato al pensiero critico.
+
+
 
 ### PROPOSIZIONI EQUIVALENTI
 

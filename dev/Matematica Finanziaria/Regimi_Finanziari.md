@@ -59,7 +59,7 @@ Calcola l’interesse semplice e il montante dei seguenti capitali (in euro) imp
 
 a) $500$ per un anno al tasso del $12\; \%$ annuo;
 
-b) $1\,200$ per $8$ mesi al tasso dell’$11\; \%$ annuo;
+b) $1\,200$ per $8$ mesi al tasso dell’$11\; \%$ annuo;
 
 c) $400$ per $4$ mesi e $20$ giorni al tasso del $9\; \%$ annuo;
 
@@ -75,29 +75,29 @@ f) $845$ per $4$ mesi e $15$ giorni al tasso del $6\; \%$ semestrale.
 ### ESERCIZIO 1.2 - Interesse semplice: capitale
 a) Determina i capitali che, nel regime dell’interesse semplice, hanno prodotto i seguenti montanti alle condizioni indicate:  
 
-1. 890 in 9 mesi al tasso del 15% annuo;
-2. 504 in 150 giorni al tasso del 12% annuo;
-3. 861,42 in 102 giorni al tasso del 3% quadrimestrale.
+1. $890$ in $9$ mesi al tasso del $15\%$ annuo;
+2. $504$ in $150$ giorni al tasso del $12\%$ annuo;
+3. $861.42$ in $102$ giorni al tasso del $3\%$ quadrimestrale.
 
-b) Calcola quale capitale impiegato al tasso annuo del 10% da in 8 mesi l’interesse semplice di 34 euro.  
+b) Calcola quale capitale impiegato al tasso annuo del $10\%$ da in $8$ mesi l’interesse semplice di $34$ euro.  
 
-c) Calcola quale capitale impiegato al tasso annuo del 9% da in 3 mesi e 10 giorni un interesse semplice di 115 euro.
+c) Calcola quale capitale impiegato al tasso annuo del $9\%$ da in $3$ mesi e $10$ giorni un interesse semplice di $115$ euro.
 
-d) Il capitale di 6.000 euro ha prodotto l’interesse semplice di 480 euro. Calcola i tassi annui se la durata dell’impiego e stata di:
+d) Il capitale di $6\,000$ euro ha prodotto l’interesse semplice di $480$ euro. Calcola i tassi annui se la durata dell’impiego e stata di:
 
 1. un anno;
-2. 10 mesi; 
-3. 8 mesi;
-4. 4 mesi 
+2. $10$ mesi; 
+3. $8$ mesi;
+4. $4$ mesi 
 
 
 
 
 ### ESERCIZIO 1.3 - Interesse semplice: durata
 
-a) Calcola in quanto tempo il capitale di 3.300 euro, impiegato al tasso annuo del 10%, ha prodotto il montante di 3.547 euro  
+a) Calcola in quanto tempo il capitale di $3\,300$ euro, impiegato al tasso annuo del $10\%$, ha prodotto il montante di $3\,547$ euro  
 
-b) Per quanto tempo e necessario lasciare depositato il capitale di 540 euro, al tasso del 4% trimestrale, per poter ritirare il montante di 600 euro? 
+b) Per quanto tempo e necessario lasciare depositato il capitale di $540$ euro, al tasso del $4\%$ trimestrale, per poter ritirare il montante di $600$ euro? 
 
 
 
@@ -120,13 +120,13 @@ dove $t$ è la durata del periodo di anticipazione e $i$​ è il tasso di inter
 
 ### ESERCIZIO 2.1 - Interesse semplice: sconto
 
-a) Una cambiale del valore nominale di 510 euro viene scontata, in regime di capitalizzazione semplice, 3 mesi prima della scadenza, al tasso dell’8% annuo. Calcolare la somma scontata e lo sconto. 
+a) Una cambiale del valore nominale di $510$ euro viene scontata, in regime di capitalizzazione semplice, $3$ mesi prima della scadenza, al tasso dell’$8\,%$ annuo. Calcolare la somma scontata e lo sconto. 
 
-b) Con il pagamento di 840 euro si salda anticipatamente un debito del valore nominale di 863 euro fruendo dello sconto razionale, al tasso dell’8,50% annuo. Determinare il tempo di anticipazione.
+b) Con il pagamento di $840$ euro si salda anticipatamente un debito del valore nominale di $863$ euro fruendo dello sconto razionale, al tasso dell’$8.50\%$ annuo. Determinare il tempo di anticipazione.
 
-c) Un debito viene saldato prima della scadenza, fruendo dello sconto razionale al tasso del 16%. Calcolare la scadenza del debito se la somma scontata è pari ai 9/10 del valore nominale. 
+c) Un debito viene saldato prima della scadenza, fruendo dello sconto razionale al tasso del $16\%$. Calcolare la scadenza del debito se la somma scontata è pari ai $\dfrac{9}{10}$ del valore nominale. 
 
-d) Un commerciante per 1'acquisto di una merce deve fare tre pagamenti uguali, di 300 euro ciascuno, scadenti il primo oggi, il secondo fra 2 mesi, il terzo fra 6 mesi. Pagando tutto oggi può fruire dello sconto razionale al tasso del 9% annuo. Calcolare il valore complessivo da pagare oggi.
+d) Un commerciante per 1'acquisto di una merce deve fare tre pagamenti uguali, di $300$ euro ciascuno, scadenti il primo oggi, il secondo fra $2$ mesi, il terzo fra $6$ mesi. Pagando tutto oggi può fruire dello sconto razionale al tasso del $9\%$ annuo. Calcolare il valore complessivo da pagare oggi.
 
 
 
@@ -167,7 +167,7 @@ b) Calcolare il montante ad interesse composto delle operazioni seguenti che han
 
 
 ### ESERCIZIO 3.2 - Interesse composto: montante II
-a) II capitale di 6.000 euro è impiegato ad interesse composto al tasso annuo del $14\%$ per $5$ anni. Il montante viene subito reinvestito per altri $4$ anni al tasso annuo dell’$11\%$.  
+a) II capitale di $6\,000$ euro è impiegato ad interesse composto al tasso annuo del $14\%$ per $5$ anni. Il montante viene subito reinvestito per altri $4$ anni al tasso annuo dell’$11\%$.  
 1. Quale montante si può ritirare? 
 2. Quale montante si sarebbe ritirato se per i primi $4$ anni il tasso fosse stato dell’$11\%$ e per i successivi $5$ fosse stato del $14\%$? 
 
@@ -180,23 +180,23 @@ b) Una persona prende in prestito $20.000$ euro al tasso annuo del $12\%$ e le i
 
 a) Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:
 
-1. 1.200 euro per 5 anni al tasso del 7% annuo;
+1. $1\,200$ euro per $5$ anni al tasso del $7\%$ annuo;
 
-2. 800 euro per 10 anni al tasso del 12% annuo;
+2. $800$ euro per $10$ anni al tasso del $12\%$ annuo;
 
 b) Calcola il valore attuale con interesse composto dei seguenti capitali alle condizioni indicate:
 
-1. 665 euro per 4 anni e 6 mesi al tasso del 3% trimestrale;
+1. $665$ euro per $4$ anni e $6$ mesi al tasso del $3\%$ trimestrale;
 
-2. 3.012 euro per 2 anni e 5 mesi al tasso dell’1,50% mensile.
+2. $3\,012$ euro per $2$ anni e $5$ mesi al tasso dell’$1.50\%$ mensile.
 
 
 
 
 ### ESERCIZIO 3.4 - Interesse composto: valore attuale II
-a) Scontiamo una cambiale del valore di 20.000 euro scadente fra 5 anni con sconto composto al tasso del 12%. Investiamo subito la somma riscossa al lasso del 16%. Quale guadagno realizzeremo fra 5 anni?
+a) Scontiamo una cambiale del valore di $20\,000$ euro scadente fra $5$ anni con sconto composto al tasso del $12\%$. Investiamo subito la somma riscossa al lasso del $16\%$. Quale guadagno realizzeremo fra $5$ anni?
 
-b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: L. 30.000.000 alla stipulazione del contralto e tre somme di euro 10.000 ciascuna scadenti fra 2, 4 e 6 anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del 9%. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? 
+b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: $60\,000$ euro alla stipulazione del contralto e tre somme di euro $30\,000$ ciascuna scadenti fra $2$, $4$ e $6$ anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del $9\%$. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? 
 
 
 

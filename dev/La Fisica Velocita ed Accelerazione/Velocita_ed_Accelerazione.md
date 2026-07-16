@@ -497,7 +497,29 @@ Secondo la teoria della deriva dei continenti di Wegener, l’Oceano Atlantico h
 
 ### ESERCIZIO 3.4
 
-a) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di $40 \;Km/h$ mentre l’altra a $20 \;Km/h$. Se la distanza tra le due città è di $150 \;Km$ quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso?  
+a) Una moto parte da Napoli verso Roma nello stesso istante in cui un’altra moto parte da Roma verso Napoli. La moto da Napoli viaggia ad una velocità di $40 \;Km/h$ mentre l’altra a $20 \;Km/h$. Se la distanza tra le due città è di $150 \;Km$ quanto tempo impiegheranno I due mezzi per incontrarsi e quale distanza avranno percorso? 
+
+#### SOLUZIONE
+
+Si tratta di due moti rettilinei uniformi. Studiamoli in un sistema di riferimento che ha l'asse orizzontale centrato in Roma, direzione Napoli e orientamento (verso) Napoli. Il punto di incontro delle due moto, incognito, lo indichiamo nel piano spazio-tempo con $(t, x)$. Per la moto che parte da Roma, abbiamo $x_0 = 0$, $t_0 = 0$, $v_{med} = 20\; Km/h$, per cui:
+
+a) $v_{med} = \dfrac{x - x_0}{t - t_0}, \{x_0 = 0, t_0 = 0, v_{med} = 20, \}$;
+
+b) $20 = \dfrac{x}{t}$.
+
+Per la moto che parte da Napoli abbiamo la velocità negativa:
+
+a) $v_{med} = \dfrac{x - x_0}{t - t_0}, \{x_0 = 150, t_0 = 0, v_{med} = -40, \}$;
+
+b) $-40 = \dfrac{x - 150}{t}$.
+
+Queste due equazioni vanno risolte come sistema nelle due incognite $t, x$. Ricavando $t$ da entrambe abbiamo, dalla prima $t = \dfrac{x}{20}$ e dalla seconda $t = \dfrac{150 - x}{40}$. L'equazione risolutiva è allora:
+$$
+\dfrac{x}{20} = \dfrac{150 - x}{40}
+$$
+la cui soluzione è $x = 50\; Km$, $t = 2.5 \; h$.     $\bullet$
+
+
 
 b) Un viaggiatore impiega $12$ ore per un tragitto di andata e ritorno, con una velocità di $20 \;Km/h$ per l’andata e $30 \;Km/h$ per il ritorno. Trova la durata (in ore) del tragitto di andata e di quello del ritorno.  
 
@@ -518,6 +540,8 @@ L'aumento (o variazione) della velocità nel tempo si chiama <u>accelerazione</u
 
 Gli appassionati di motori sportivi sanno bene che tra i dati più indicativi sulle caratteristiche di un’automobile o di una motocicletta c’è proprio la sua accelerazione. Questa non viene espressa in forma esplicita, ma attraverso informazioni sul tempo impiegato da un certo veicolo a raggiungere la velocità di $100\; km/h$. «Da zero a cento in tot secondi» è un’espressione tipica delle riviste specializzate.
 Intuitivamente ci rendiamo subito conto che l’auto che impiega meno tempo a raggiungere la velocità di $100\;  km/h$ è quella capace di un’accelerazione maggiore.
+
+Sempre a proposito di automobili, un altro parametro importante è l'accelerazione tra $100$ e $200\; Km/h$. Solitamente qui i tempi sono superiori: per le supercar si passa da circa $2$ a $6$ secondi. 
 
 L'accelerazione è quindi la "velocità della velocità": misura quanto velocemente cambia la velocità rapportandola ad un intervallo di tempo, come è stato fatto per gli spostamenti.
 

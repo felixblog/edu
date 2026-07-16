@@ -325,7 +325,7 @@ Se la quantità richiesta non è stata trovata ed è rimasta incognita, chiamiam
 
 Una azienda ha avuto, nell'anno appena trascorso, un fatturato di $2.100.000$ euro ed un utile pari al $20\%$ del fatturato. Quale è il costo sostenuto?
 
-Nel testo si parla di "Fatturato" (la cui misura indichiamo con $R$, ricavato), "Utile" (la cui misura indichiamo con $U$) e "Costo", che indichiamo con $C$. Il testo indica una relazione tra Fatturato ed Utile, che possiamo scrivere come $U = 20\% \cdot R$.
+Nel testo si parla di "Fatturato" (la cui misura indichiamo con $R$, ricavato), "Utile" (la cui misura indichiamo con $U$) e "Costo", che indichiamo con $C$. Il testo indica una relazione tra Fatturato ed Utile, che possiamo scrivere come $U = 20\% \cdot R$.
 
 Noi però sappiamo che c'è anche la relazione fondamentale tra $R$, $C$ ed $U$: $U = R - C$; il primo fatto ci consente di calcolare la misura dell'utile specifica per questo problema mentre il secondo ci permette di impostare una espressione per l'utile generale che vale per tutti i problemi, per cui abbiamo il diagramma seguente. $ \bullet$
 
@@ -624,31 +624,32 @@ c) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel ra
 ### ESERCIZIO 7.1 - Problemi sulle monete
 Trova il valore complessivo di monete e francobolli nei casi seguenti:
 
-a) 3 centesimi e 5 pezzi da 10 centesimi (in centesimi);  
+a) $3$ centesimi e $5$ pezzi da $10$ centesimi (in centesimi);  
 
-b) 3 centesimi e 5 pezzi da 10 centesimi (in euro);  
+b) $3$ centesimi e $5$ pezzi da $10$ centesimi (in euro);  
 
-c) q monete da 25 centesimi 7 centesimi (in centesimi).
+c) $q$ monete da $25$ centesimi $7$ centesimi (in centesimi).
 
 
 
 ### ESERCIZIO 7.2 - Problemi sulle miscele
 a) Scrivi l’espressione del valore totale della merce in euro al chilo e semplifica (ricorda di trasformare tutte le quantità nella stessa unità di misura).
 
-1. 3 Kg di te al costo di un euro e cinquanta l’etto;
-2. $n$ Kg di caffè del costo di 90¢ l’etto;
-3. $n + 3$ Kg di caffè del costo di 1,05€ il Kg;
-4. $n$ Kg al costo di 1,75€ al Kg;  
+1. $3\; Kg$ di te al costo di un euro e cinquanta l’etto;
+2. $n\; Kg$ di caffè del costo di $90\;¢$ l’etto;
+3. $n + 3\; Kg$ di caffè del costo di $1.05€$ al $Kg$;
+4. $n\; Kg$ al costo di $1.75€$ al $Kg$;  
 
 b) Scrivi l’espressione del valore totale della merce in centesimi e semplifica
 
-1. $n$ francobolli del costo di ¢ 35 ciascuno;
-2. $20 \:–\; n$ francobolli del costo di ¢ 50 l’uno;
-3. $x$ dozzine di matite del valore di ¢ 20 l’una;
-4. 3 dozzine di matite a ¢ 60 la dozzina.
+1. $n$ francobolli del costo di $35\; ¢$  ciascuno;
+2. $20 \:–\; n$ francobolli del costo di $50\; ¢$ l’uno;
+3. $x$ dozzine di matite del valore di $20\;¢$  l’una;
+4. $3$ dozzine di matite a $60\;¢$ la dozzina.
 
-c) Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di 0,23 e 1,20 euro al Kg.  
-La miscela di 30 Kg ha un valore di 1,02 euro al Kg. Quanti Kg di ciascun caffè ha utilizzato?
+c) Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di $0.23$ e $1.20 €/Kg$. 
+
+La miscela di $30\; Kg$ ha un valore di $1.02\; €/Kg$. Quanti $Kg$ di ciascun caffè ha utilizzato?
 
 
 
@@ -657,10 +658,12 @@ Risolvi i seguenti problemi.
 
 a) Un mattone pesa un chilo più mezzo mattone: quanto pesa il mattone?  
 
-b) Una botte contiene 80 litri di vino che vengono versati in 44 bottiglie, parte da 2 litri e parte da 1 litro e mezzo. Quante sono le bottiglie da 1 litro e mezzo e quante quelle da 2 litri? [R. 16 e 28]  
+b) Una botte contiene $80$ litri di vino che vengono versati in $44$ bottiglie, parte da due litri e parte da un litro e mezzo. Quante sono le bottiglie da un litro e mezzo e quante quelle da due litri?		$R: \left[16\; e \; 28\right]$.  
 
-c) Un treno parte completo dalla stazione A; alla stazione B scendono 42 passeggeri e ne salgono 1/24 di quelli rimasti; nella successiva stazione C scendono 75 passeggeri e ne salgono 3/5 di quelli rimasti più altri 2. Sapendo che alla partenza da C il treno e di nuovo completo, determina quanti passeggeri stanno sul treno. [R. 282]  
+c) Un treno parte completo dalla stazione $A$; alla stazione $B$ scendono $42$ passeggeri e ne salgono $\dfrac{1}{24}$ di quelli rimasti; nella successiva stazione $C$ scendono $75$ passeggeri e ne salgono $\dfrac{3}{5}$ di quelli rimasti più altri $2$. Sapendo che alla partenza da $C$ il treno e di nuovo completo, determina quanti passeggeri stanno sul treno.		$R: \left[282\right]$.  
 
-d) Per l’ingresso a uno spettacolo, ogni adulto paga 5 euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che 20 bambini e 30 adulti pagano 15 euro di meno di quello che pagano 40 bambini e 15 adulti. [R. 18 euro]
+d) Per l’ingresso a uno spettacolo, ogni adulto paga $5$ euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che $20$ bambini e $30$ adulti pagano $15$ euro di meno di quello che pagano $40$ bambini e $15$ adulti.		$R: \left[18\; €\right]$.
 
-e) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale 500, spendendo in tutto 4500 euro. Per chi è cliente da più di un anno si è speso in media 10 euro, per chi da meno di un anno 5 euro. Quanti sono i soggetti clienti da più di un anno?
+e) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale $500$, spendendo in tutto $4500$ euro. Per chi è cliente da più di un anno si è speso in media $10$ euro, per chi da meno di un anno $5$ euro. Quanti sono i soggetti clienti da più di un anno?
+
+f) Un bambino compra una caramella ed una cioccolata spendendo un euro e dieci centesimi. Se la cioccolata costa un euro in più della caramella, quanto costa la caramella? 

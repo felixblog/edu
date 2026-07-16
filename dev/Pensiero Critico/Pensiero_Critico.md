@@ -2,7 +2,7 @@
 
 ## UNITA' 1: Cos'è il Pensiero Critico
 
-Ogni giorno siamo bombardati da messaggi che ci dicono cosa fare o non fare, in cosa credere o non credere, del tipo:
+Ogni giorno siamo bombardati da messaggi di natura promozionale, politica, istituzionale, che ci dicono cosa fare o non fare, in cosa credere o non credere, del tipo:
 "compra questo cellulare", "aggiorna questo sistema operativo", "vai a votare!", "assaggia questa birra", "non mandare messaggi mentre guidi", "bevi [alcol] con moderazione", "l'eutanasia è un omicidio", "l'aborto è un omicidio", "gli alieni hanno visitato la Terra", "il cambiamento climatico minaccia il nostro stile di vita", "vai a vedere questo film che ha vinto 5 oscar", e così via.
 
 Alcuni messaggi li ignoriamo, altri li accettiamo senza riflettere e altri ancora li rifiutiamo senza riflettere. Su alcuni potremmo riflettere e interrogarci, chiedendoci: "Perché dovrei farlo?", o "Perché non dovrei farlo?" oppure "Perché dovrei crederci?".
@@ -19,14 +19,14 @@ Se sviluppiamo la nostra capacità di analizzare i tentativi di persuasione altr
 
 Particolarmente oggi, dove i social media offrono molti più modi per comunicare, condividere idee e influenzare opinioni, la qualità e l'accuratezza delle informazioni e dei dibattiti non possono mai essere date per scontate.
 
-Enormemente più che in passato, oggi è facile scrivere pubblicamente senza verifiche e controlli da parte di redazioni, giornalisti o esperti e questo rende il pensiero critico dei lettori più importante che mai.
+Enormemente di più che in passato, oggi è facile scrivere e pubblicare testi senza alcuna verifica o controllo da parte di redazioni, giornalisti o esperti, e questo rende il pensiero critico dei lettori più importante che mai.
 Chi detiene il potere, sempre più spesso dimostra di temere coloro che sanno pensare in modo critico su questioni morali, sociali, economiche e politiche: la capacità di pensare in modo critico, sia riguardo alle affermazioni e motivazioni altrui che a quelle proprie, è quindi essenziale per poter svolgere correttamente il proprio ruolo di cittadino.
 
-Cos'è quindi in sintesi il pensiero critico?
+Cos'è quindi, in sintesi, il pensiero critico?
 
->$\triangle$ Il "pensiero critico" è una disciplina che ci consente di analizzare i messaggi comunicativi, scritti o orali, diretti o mediati, che facciamo o riceviamo, con lo scopo di ottenere:
+>$\triangle$ Il "pensiero critico" è una disciplina che ci consente di analizzare i messaggi comunicativi, scritti, orali, diretti o mediati, che facciamo o riceviamo, con lo scopo di ottenere:
 >
->- una migliore comprensione di ciò che stiamo leggendo, scrivendo o discutendo, della sua verità, falsità, utilità o dannosità;
+>- una migliore comprensione di ciò che stiamo leggendo, scrivendo o discutendo, in merito alla sua verità, falsità, utilità o dannosità;
 >- una maggiore capacità di risolvere i problemi che stiamo affrontando;
 >- una maggiore efficacia dalle decisioni che stiamo prendendo, sia in ambito personale che sociale o politico.
 >
@@ -42,12 +42,12 @@ Puntualizziamo ora il significato di alcuni termini di cui discuteremo in seguit
 Una frase come "L'acqua della pasta bolle" è una <u>asserzione</u>.
 
 > 
-> $\triangle$ Una  **asserzione** (o affermazione) è un'espressione (parlata, scritta, a volte solo pensata) per la quale ha senso chiedersi se sia vera, ossia che si può supporre essere vera.
+> $\triangle$ Una  **asserzione** (o affermazione) è un'espressione, che può essere parlata, scritta, a volte solo pensata, per la quale ha senso chiedersi se sia vera, ossia che si può supporre essere vera.
 > 
 
-Non per tutte le espressioni ha senso chiedersi se siano vere; l'espressione "Ah, se fossi andato al cinema!" è una esclamazione e non ha senso chiedersi se sia vera. Diciamo inoltre “supporre” perché, non tutte le affermazioni sono vere: alcune sono false deliberatamente, altre lo sono perché fondate su convinzioni errate, ma, se sono affermazioni, quantomeno ritenerle vere può avere un senso, che le si condividi o meno.
+Non per tutte le espressioni ha senso chiedersi se siano vere; l'espressione "Ah, se fossi andato al cinema!" è una esclamazione e non ha senso chiedersi se sia vera. Diciamo inoltre “supporre” perché, non tutte le affermazioni sono vere: alcune sono false deliberatamente, altre lo sono perché fondate su convinzioni errate; in ogni caso, se sono affermazioni, quantomeno ritenerle vere può avere un senso, che le si condivida o meno.
 
-Quando qualcuno dice: "L'acqua della pasta bolle", ossia sta asserendo qualcosa, sta esprimendo anche una <u>convinzione</u>, quella che l'acqua della pasta sta bollendo.
+Quando qualcuno dice: "L'acqua della pasta bolle", ossia sta asserendo qualcosa, sta esprimendo anche una <u>convinzione</u>, quella che l'acqua della pasta stia bollendo.
 
 >$\triangle$ Una **convinzione** è un atteggiamento che assumiamo nei confronti di una proposizione: stiamo credendo in ciò che dice la proposizione, ossia la stiamo accettando come vera (indipendentemente se lo sia). Una convinzione è qualcosa che qualcuno pensa.
 
@@ -59,9 +59,9 @@ Asserzioni, convinzioni e verità sono internamente legate in questo modo e biso
 
 #### ESEMPIO 1
 
-Elena pensa che Novak Djokovic ha vinto il torneo di singolare maschile a Wimbledon nel 2018 e lo afferma.
+Elena pensa che Novak Djokovic ha vinto il torneo di singolare maschile a Wimbledon nel 2018 ed afferma: "Hai visto, Djokovic ha vinto Wimbledon 2018!".
 
-Cosa abbia fatto Djokovic attiene alla realtà e non alla affermazione di Elena o alle sue convinzioni. Se il suo amico Ruggero risponde dicendo "Si, è vero!", ciò che fa è affermare esattamente la stessa cosa che ha affermato Elena. È d'accordo con lei e l'affermazione di Ruggero sarà vera se Novak Djokovic ha vinto Wimbledon e falsa altrimenti, come quella di Elena.
+Cosa abbia fatto Djokovic nel 2018 attiene alla realtà e non alla affermazione o alle convinzioni di Elena. Se il suo amico Ruggero risponde dicendo "Si, ho visto!!", ciò che fa è affermare esattamente la stessa cosa che ha affermato Elena. È d'accordo con lei e l'affermazione di Ruggero sarà vera se Novak Djokovic ha vinto Wimbledon e falsa altrimenti, come quella di Elena.
 
 In conclusione, la veridicità della proposizione "Novak Djokovic ha vinto il torneo di singolare maschile di Wimbledon nel 2018" ha a che fare con la realtà dei fatti e non con le persone che la pronunciano, con le loro convinzioni, cultura o lingua.    $\bullet$
 
@@ -69,9 +69,9 @@ In conclusione, la veridicità della proposizione "Novak Djokovic ha vinto il to
 
 Veniamo ora alla differenza tra fatti ed opinioni.
 
-> $\triangle$ Un **fatto** è una affermazione la cui verità <u>può</u> (per definizione) essere certificata attraverso l'esperienza, l'osservazione diretta, la sperimentazione o il confronto con prove concrete, ossia attraverso un <u>metodo</u> condiviso. Un fatto viene anche detto una <u>affermazione oggettiva</u>, ossia la cui verità o falsità non dipende dalle convinzioni delle persone sulla sua verità o falsità.
+> $\triangle$ Un **fatto** è una affermazione la cui verità <u>può</u> (per definizione) essere certificata attraverso l'esperienza, l'osservazione diretta, la sperimentazione o il confronto con prove concrete, ossia attraverso un <u>metodo</u> condiviso. Un fatto viene anche detto una <u>affermazione oggettiva</u>, ossia una affermazione la cui verità o falsità non dipende dalle <u>convinzioni</u> delle persone (sulla verità o falsità).
 
-Tra i metodi per accertare un fatto sono importanti le testimonianze dirette, ad esempio oculari di persone che hanno visto o vissuto eventi come incidenti,
+Tra i metodi per accertare un fatto sono importanti le testimonianze dirette, ad esempio oculari, di persone che hanno visto o vissuto eventi come incidenti,
 crimini e disastri in prima persona o che hanno vissuto eventi storici. Le testimonianze personali forniscono prove preziose, ma non sono sempre accurate o possibili. I protagonisti possono sbagliare o non ricordare per cui di solito è necessario reperire altre fonti di informazione che corroborino le testimonianze dirette come:
 
 • documenti ufficiali dell'epoca, articoli di giornale, verbali di polizia, rapporti dei servizi sociali o atti giudiziari;
@@ -80,13 +80,13 @@ crimini e disastri in prima persona o che hanno vissuto eventi storici. Le testi
 
 • filmati degli eventi o fotografie scattate durante gli eventi.
 
-Nell'introdurre le <u>opinioni</u>, osserviamo preliminarmente che non tutte le frasi dichiarative esprimono un'affermazione oggettiva. "Bruno Mars ha stile" non è una affermazione oggettiva: il fatto che qualcuno abbia o meno "stile" dipende da cosa pensa chi fa l'affermazione.
+Ai fatti si contrappongono spesso le <u>opinioni</u>. Prima di parlare di opinioni osserviamo che non tutte le frasi dichiarative sono affermazioni oggettive. "Bruno Mars ha stile" non è una affermazione oggettiva: il fatto che qualcuno abbia o meno "stile" dipende da cosa pensa chi fa l'affermazione.
 Se nessuno pensa che Bruno Mars abbia "stile", allora non ce l'ha. Se qualcuno pensa che ce l'abbia e qualcun altro no, diremo che tutti hanno diritto alla propria opinione.
 
-Il fatto che qualcuno abbia "stile" è un giudizio <u>soggettivo</u> e la veridicità o la falsità di un giudizio soggettivo dipende dalla convinzione che ha chi lo dice: in altre parole, per dire che un tuo giudizio soggettivo su qualcosa è vero basta che tu pensi che il giudizio) sia vero, ossia è una opinione.
+Il fatto che qualcuno abbia "stile" è un giudizio <u>soggettivo</u> e la veridicità o la falsità di un giudizio soggettivo dipende dalla convinzione di chi lo dice: in altre parole, per dire che un tuo giudizio soggettivo su qualcosa sia vero basta che tu pensi che il giudizio sia vero, cioè basta che sia una tua opinione.
 
 
->$\triangle$ Una **opinione** è una convinzione che non si basa su prove o evidenze sostanziali. Un'opinione può essere un giudizio, una valutazione, un punto di vista su un evento. Può essere limitata a poche persone o estesa a tanti, ed è "vera" se chi ha quel giudizio o valutazione pensa che il contenuto del giudizio o valutazione sia vero.
+>$\triangle$ Una **opinione** è una <u>convinzione</u> che non si basa su prove o evidenze sostanziali. Un'opinione può essere un giudizio, una valutazione, un punto di vista su un evento. Può essere limitata a poche persone o estesa a tanti, ed è "vera" se chi ha quel giudizio o valutazione pensa che il contenuto del giudizio o valutazione sia vero.
 
 #### ESEMPIO 2
 
@@ -98,27 +98,31 @@ Mary: "Io non credo".
 
 Sia John che Mary stanno esprimendo la loro opinione sulla colpevolezza di un individuo a seguito di qualcosa che è successo, ossia pensano che "Il maggiordomo ha ucciso il padrone di casa" sia vero.
 
-C'è da notare anche che con l'aumentare delle conoscenze in un determinato ambito, alcune opinioni su certi eventi possono diventare fatti (ad esempio potrebbero emergere evidenze che ad uccidere il padrone di casa sia stato il maggiordomo) e viceversa qualcosa che è stato considerato un fatto può essere smentito.    $\bullet$
+C'è da notare anche che con l'aumentare delle conoscenze in un determinato ambito, le opinioni su certi eventi possono diventare fatti (ad esempio potrebbero emergere evidenze che ad uccidere il padrone di casa sia stato il maggiordomo) e viceversa qualcosa che veniva considerato un fatto può essere smentito.    $\bullet$
 
 
 
 ### Persuadere Attraverso le Argomentazioni
 
-Con il linguaggio, sia scritto che parlato, facciamo innumerevoli cose come ad esempio riportare un fatto, porre una domanda, dire a qualcuno di fare qualcosa, insultare o lodare qualcuno, promettere qualcosa, recitare in un'opera teatrale, tifare per una squadra di calcio e così via.
+Con il linguaggio, sia scritto che parlato, facciamo innumerevoli cose, tra le quali riportare un fatto, porre una domanda, dire a qualcuno di fare qualcosa, insultare o lodare qualcuno, promettere qualcosa, recitare in un'opera teatrale, tifare per una squadra di calcio e così via.
 
-Abbiamo già accennato ai "tentativi di persuasione" cui siamo quotidianamente sottoposti, sia attraverso argomentazioni che attraverso vari altri mezzi, quali immagini pubblicitarie, video ed altro. 
-
-Tutti questi altri mezzi di persuasione li chiameremo complessivamente "<u>retorici</u>".
+Abbiamo già accennato ai "tentativi di persuasione" cui siamo quotidianamente sottoposti, sia attraverso argomentazioni che attraverso vari altri mezzi, quali immagini pubblicitarie, video ed altro. Tutti questi altri mezzi di persuasione li chiameremo complessivamente "<u>retorici</u>".
 
 >
-> $\triangle$ Chiamiamo **retorico** qualsiasi tentativo, verbale o scritto, di persuadere qualcuno a credere, desiderare o fare qualcosa <u>senza prefiggersi di fornire valide ragioni</u> per la credenza, il desiderio o l'azione, ma cercando di motivare il soggetto da persuadere suscitando <u>emozioni</u>, <u>passioni</u>, <u>sentimenti</u> etc.
+> $\triangle$ Chiamiamo **retorico** qualsiasi tentativo, verbale o scritto, di persuadere qualcuno a credere, desiderare o fare qualcosa <u>senza il tentativo di fornire valide ragioni</u> per la credenza, il desiderio o l'azione, ma cercando di motivare il soggetto da persuadere suscitando in lui <u>emozioni</u>, <u>passioni</u>, <u>sentimenti</u> etc.
 >
 
-I mezzi retorici sono molto usati e quindi sono importanti; possono essere usati per scopi nobili e meno nobili, come frequentemente capita a centri di potere politico o economico. 
+I mezzi retorici sono molto usati e quindi sono estremamente importanti: sono di uso comune in pubblicità, nei discorsi morali o religiosi; a volte hanno scopi nobili a volte meno. 
 
 #### ESEMPIO 3
 
-Un esempio classico di discorso retorico potente, efficace e rimasto nella storia è "I have a dream" di Martin Luther King, ricco di frasi del tipo: 
+Alcuni esempi di discorsi retorici in pubblicità:
+
+- "Per noi il tuo cane non è mai solo un animale" (slogan di azienda produttrice di cibo per animali domestici);
+- "Vecchia Romagna etichetta nera, il brandy che crea un atmosfera" (slogan anni 50 di azienda produttrice di liquori);
+- "Un diamante è per sempre" (slogan anni 50 di azienda produttrice di gioielli);
+
+Un esempio classico di discorso retorico in ambito politico/diritti civili, potente ed efficace è quello rimasto nella storia con il nome "I have a dream" di Martin Luther King, ricco di frasi del tipo: 
 
 "Ho un sogno: che un giorno, sulle rosse colline della Georgia, i figli degli ex schiavi e i figli degli ex proprietari di schiavi possano sedersi insieme alla tavola della fratellanza."    $\bullet$
 
@@ -128,12 +132,12 @@ Nel pensiero critico è essenziale saper distinguere i tentativi di persuasione 
 
 
 
-### Identificare il Punto e le Premesse delle Argomentazioni
+### Identificare le argomentazioni: il Punto e le Premesse
 
 Le argomentazioni possono essere semplici, ma anche complesse ed articolate. Comunque esse siano, c'è sempre "qualcosa" che l'autore vuole dire, dimostrare o sostenere e delle ragioni portate a suo sostegno. Il qualcosa da dimostrare è chiamato <u>il punto dell'argomentazione</u>, o <u>conclusione</u> ed è ciò di cui vuole convincerci l'argomentazione e chi la sta portando avanti.
 
 >
->$\triangle$ Il **punto** di una argomentazione è il fatto o la riflessione che l'autore dell'argomentazione vuole proporre come vera e della cui verità vuole convincere il suo uditorio. Per individuare il punto bisogna chiedersi: "Quale è la cosa principale che, secondo l'autore dell'argomentazione, bisognerebbe credere o fare?"
+>$\triangle$ Il **punto** di una argomentazione è l'asserzione o la riflessione che l'autore dell'argomentazione vuole proporre come vera e della cui verità vuole convincere il suo uditorio. Per individuare il punto bisogna chiedersi: "Quale è la cosa principale che, secondo l'autore dell'argomentazione, bisognerebbe credere o fare?"
 >
 
 
@@ -160,7 +164,7 @@ Quale è il punto dell'argomentazione seguente?
 
 La natura e l'origine delle malattie sono rimaste poco chiare fino a tempi relativamente recenti. Alla fine del XIX secolo, Koch, uno scienziato prussiano, introdusse una serie di procedure oggi note come postulati di Koch. Egli condusse esperimenti con colonie batteriche coltivate in laboratorio, ricavate dal sangue di bovini morenti. Quando queste colture vennero iniettate in bovini vivi e sani, anche questi contrassero la stessa malattia. All'epoca, questi risultati furono sorprendenti: Koch era riuscito a fornire prove a sostegno della teoria secondo cui le malattie si diffondevano tramite germi. Questo fu uno dei più importanti progressi metodologici nella storia della medicina.
 
-Il **punto** è che Koch ha apportato uno dei più importanti progressi metodologici nella storia della medicina. Il brano lo conferma con informazioni sugli esperimenti sviluppati da Koch che hanno permesso di dimostrare la teoria dei germi come causa delle malattie.    $\bullet$
+Il **punto** è che, secondo l'autore, Koch ha apportato uno dei più importanti progressi metodologici nella storia della medicina. Il brano lo conferma con informazioni sugli esperimenti sviluppati da Koch che hanno permesso di dimostrare la teoria dei germi come causa delle malattie.    $\bullet$
 
 
 

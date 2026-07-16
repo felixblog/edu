@@ -4,7 +4,7 @@ Nell'unità precedente abbiamo detto che il pensiero critico consiste nell'eserc
 
 L'attenzione alla verità delle informazioni che utilizziamo nei nostri dibattiti è quindi un atteggiamento essenziale nel pensiero critico, insieme alla modalità di reperimento delle informazioni contenute nei documenti, filmati, fotografie eccetera.
 
-In questa unità affronteremo i problemi che ci si pongono quando riceviamo delle informazioni attraverso i principali mezzi di comunicazione. Discuteremo la possibilità che ci vengano fornite informazioni vere ma anche informazioni false o distorte e come si possa cercare di porre q questo un rimedio.
+In questa unità affronteremo i problemi che ci si pongono quando riceviamo delle informazioni attraverso i principali mezzi di comunicazione. Discuteremo la possibilità che ci vengano fornite informazioni vere ma anche informazioni false o distorte e come si possa cercare di porre a questo un rimedio.
 
 Prima di entrare nella discussione diamo alcune definizioni dei principali termini e concetti che utilizzeremo.
 
@@ -12,27 +12,35 @@ Prima di entrare nella discussione diamo alcune definizioni dei principali termi
 
 ### Informazioni accurate, ingannevoli e persuasione
 
-Una <u>Informazione</u> è qualsiasi comunicazione che corrisponda alla realtà del mondo, ossia che sia vera. Se diciamo che Albany è la capitale di New York, diamo una informazione. Se leggiamo che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, ci da una informazione. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
+Una <u>Informazione</u> è qualsiasi comunicazione che <u>corrisponda alla realtà del mondo</u>, ossia che sia vera. Se diciamo che Albany è la capitale di New York, diamo una informazione. Se leggiamo che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, ci da una informazione. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
 
 Per comprendere la crisi dell'informazione, è però importante osservare che non tutte le cose vere sono ugualmente <u>utili</u> per la formazione di una visione del mondo reale.
 
 Dobbiamo quindi fare una distinzione tra le informazioni che rendono la nostra visione del mondo più accurata e quelle che la rendono meno accurata. Chiameremo "informazioni accurate" le informazioni che migliorano la nostra visione del mondo, ossia ci aiutano a vedere il mondo così com'è realmente. 
 
+> $\triangle$ Una **Informazione** è qualsiasi comunicazione che <u>corrisponda alla realtà del mondo</u>, ossia che sia vera. 
 > 
-> $\triangle$ Una  **informazione accurata** è una informazione vera ed utile, che migliora la nostra visione del mondo ossia che ci aiuta a vedere il mondo così com'è.
-> 
+> Una  **informazione accurata** è una informazione vera ed utile, che migliora la nostra visione del mondo ossia che ci aiuta a vedere il mondo così com'è.
+
+
 
 Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "**informazioni ingannevoli**" o fuorvianti: anche se vere, non dovremmo crederci senza un pizzico di scetticismo o senza confrontarle con altre. 
 
 #### ESEMPIO 1
 
-I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso tempo. Se chiedete loro se hanno pulito la loro stanza potreste sentirvi rispondere: "Sì, abbiamo pulito la nostra stanza". Ma se andate a controllare, potreste trovare un disastro e quando chiedete spiegazioni potreste ricevere una risposta del tipo: "Ma non abbiamo mentito. Abbiamo pulito la nostra stanza prima. Non ci hai chiesto se l'avessimo pulita oggi".    $\bullet$
+I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso tempo. Se chiedete loro se hanno pulito la loro stanza potreste sentirvi rispondere: "Sì, abbiamo pulito la nostra stanza". Ma se andate a controllare, potreste trovare un disastro e quando chiedete spiegazioni potreste ricevere una risposta del tipo: "Ma non abbiamo mentito. Abbiamo pulito la nostra stanza prima. Non ci hai chiesto se l'avessimo pulita oggi!".
+
+Il problema di questa comunicazione è la distanza tra il significato attribuito alla domanda da parte delle due parti in causa, in buona o cattiva fede.     $\bullet$
 
 
 
-Le informazioni possono ingannare in molti modi e di informazioni ingannevoli al giorno d'oggi siamo pieni; sono utilizzate da vari soggetti per persuadere con la retorica, con risposte ad effetto, senza argomentare, per indurre a credere di volta in volta all'una o l'altra cosa.
+Le informazioni possono ingannare in molti modi e di informazioni ingannevoli al giorno d'oggi siamo pieni; sono utilizzate da vari soggetti per persuadere con la retorica, con risposte ad effetto, senza argomentare e per indurre a credere di volta in volta all'una o l'altra cosa.
 
-L'obiettivo della persuasione viene perseguito con l'uso di diverse **tecniche**, di cui le informazioni ingannevoli sono strumento. Tra le tecniche generali, esamineremo l'effetto selezione, l'effetto cornice e la ripetizione.
+L'obiettivo della persuasione viene perseguito con l'uso di diverse **tecniche**, di cui le informazioni ingannevoli sono strumento. Tra le tecniche generali, esamineremo l'<u>effetto selezione</u>, l'<u>effetto cornice</u> e la <u>ripetizione</u>.
+
+
+
+### L'effetto selezione
 
 L'informazione ingannevole risultante dal resoconto di una situazione che riporta alcuni fatti e ne omette altri, viene chiamato "**effetto selezione**". Nell'ecosistema dell'informazione, giornalisti, influencer e podcaster devono decidere quali storie raccontare e quali ignorare; queste selezioni possono essere fatte in modo da migliorare la visione d'insieme del mondo del lettore o da distorcerla, in una direzione o in un'altra. Facciamo alcuni esempi. 
 
@@ -44,9 +52,13 @@ Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "U
 
 
 
-L'"effetto selezione" non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una **visione ingannevole del mondo**. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, si possono selezionare ed evidenziare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi da cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante. Oppure, se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, si possono selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate a scopi leciti, ad esempio solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni inerenti a scontri culturali, dall'istruzione alla storia.
+L'"effetto selezione" non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una **visione ingannevole del mondo**. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, si possono selezionare ed evidenziare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi da cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante perché induce a pensare che la percentuale di questi crimini sia maggiore di quella dei crimini commessi da cittadini non immigrati. Se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, si possono selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate a scopi leciti, ad esempio solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni inerenti a scontri culturali, dall'istruzione alla storia.
 
-Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** (Framing effect). Si verifica quando una notizia di cronaca enfatizza alcuni aspetti della storia rispetto ad altri o induce il lettore ad assumere un certo punto di vista <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla.
+
+
+### L'effetto cornice
+
+Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** (Framing effect). Si verifica quando una notizia di cronaca <u>enfatizza</u> alcuni aspetti della storia rispetto ad altri o induce il lettore ad assumere un certo punto di vista <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla.
 
 #### ESEMPIO 3
 
@@ -65,7 +77,7 @@ La figura seguente riassume le situazioni che possono presentarsi di fronte ad u
 Un'affermazione è falsa quando non corrisponde alla realtà dei fatti. Quando si crede a qualcosa di falso, la visione del mondo è, almeno in parte, imprecisa.
 
 >
-> $\triangle$ Intendiamo per **misinformazione** (in inglese "misinformation"), un contenuto falso diffuso da qualcuno che lo crede vero, ossia diffuso in buona fede.
+> $\triangle$ Con **misinformazione** (in inglese "misinformation"), intendiamo un contenuto falso diffuso da qualcuno che lo crede vero, ossia diffuso in buona fede.
 > 
 
 La misinformazione deriva da un errore: chi scrive o condivide la notizia pensa che sia vera, ma in realtà non lo è.
@@ -108,7 +120,9 @@ I media puntano sul contrasto ed il conflitto per creare ascolto e quindi prefer
 
 Generalmente i media tradizionali dedicano poco tempo ad esaminare le prove o a valutare dati contraddittori. Hanno una scarsa capacità di attenzione, che, unita al ciclo di notizie 24 ore su 24, genera una frenetica tendenza a trarre conclusioni immediate ed a ripeterle all'infinito.
 
-Il fenomeno per cui <u>ripetere più volte un'informazione</u> la fa percepire come vera è un meccanismo psicologico ben noto, spesso sfruttato dai media tradizionali (giornali, TV, radio) e dalla pubblicità per influenzare l'opinione pubblica. Questo principio è conosciuto in psicologia come **"effetto illusorio della verità"**.  La ripetizione rende l'informazione più "familiare" ed il cervello umano tende a **confondere la familiarità con la verità**; pertanto, ciò che è stato già sentito o letto viene elaborato più facilmente e, di conseguenza, accettato più facilmente come corretto. 
+Il fenomeno per cui <u>ripetere più volte un'informazione</u> la fa percepire come vera è un meccanismo psicologico ben noto, spesso sfruttato dai media tradizionali (giornali, TV, radio) e dalla pubblicità per influenzare l'opinione pubblica (*“Ripetete una bugia cento, mille, un milione di volte e diventerà una verità”* è una famosa frase attribuita a Joseph Goebbels, ministro della propaganda nella Germania nazista degli anni '30).
+
+Questo principio è conosciuto in psicologia come **"effetto illusorio della verità"**.  La ripetizione rende l'informazione più "familiare" ed il cervello umano tende a **confondere la familiarità con la verità**; pertanto, ciò che è stato già sentito o letto viene elaborato più facilmente e, di conseguenza, accettato più facilmente come corretto. 
 Questo meccanismo funziona soprattutto con i media tradizionali che godono spesso di un'autorità riconosciuta. Quando una notizia viene ripetuta su diverse piattaforme (TG, giornali, programmi di approfondimento), il pubblico tende a considerarla credibile, anche se si tratta di disinformazione o fake news.
 Spesso associata alla propaganda o a strategie di marketing delle aziende, questa tecnica mira a trasformare una menzogna in una verità percepita, ignorando il dibattito critico e puntando sulla "fabbrica del consenso" attraverso l'esposizione costante a determinati messaggi. 
 
