@@ -63,13 +63,13 @@ Elena pensa che Novak Djokovic ha vinto il torneo di singolare maschile a Wimble
 
 Cosa abbia fatto Djokovic nel 2018 attiene alla realtà e non alla affermazione o alle convinzioni di Elena. Se il suo amico Ruggero risponde dicendo "Si, ho visto!!", ciò che fa è affermare esattamente la stessa cosa che ha affermato Elena. È d'accordo con lei e l'affermazione di Ruggero sarà vera se Novak Djokovic ha vinto Wimbledon e falsa altrimenti, come quella di Elena.
 
-In conclusione, la veridicità della proposizione "Novak Djokovic ha vinto il torneo di singolare maschile di Wimbledon nel 2018" ha a che fare con la realtà dei fatti e non con le persone che la pronunciano, con le loro convinzioni, cultura o lingua.    $\bullet$
+In conclusione, la veridicità della proposizione "Novak Djokovic ha vinto il torneo di singolare maschile di Wimbledon nel 2018" ha a che fare con la realtà dei fatti e non con le persone che la pronunciano, con le loro convinzioni, cultura o lingua, anche se queste persone sono molte.    $\bullet$
 
 
 
 Veniamo ora alla differenza tra fatti ed opinioni.
 
-> $\triangle$ Un **fatto** è una affermazione la cui verità <u>può</u> (per definizione) essere certificata attraverso l'esperienza, l'osservazione diretta, la sperimentazione o il confronto con prove concrete, ossia attraverso un <u>metodo</u> condiviso. Un fatto viene anche detto una <u>affermazione oggettiva</u>, ossia una affermazione la cui verità o falsità non dipende dalle <u>convinzioni</u> delle persone (sulla verità o falsità).
+> $\triangle$ Un **fatto** è una affermazione la cui verità <u>può</u> (per definizione) essere certificata attraverso un <u>metodo</u> condiviso che può essere l'esperienza, l'osservazione diretta, la sperimentazione o il confronto con prove concrete. Un fatto viene anche detto una <u>affermazione oggettiva</u>, ossia una affermazione la cui verità o falsità non dipende dalle <u>convinzioni</u> delle persone (sulla verità o falsità).
 
 Tra i metodi per accertare un fatto sono importanti le testimonianze dirette, ad esempio oculari, di persone che hanno visto o vissuto eventi come incidenti,
 crimini e disastri in prima persona o che hanno vissuto eventi storici. Le testimonianze personali forniscono prove preziose, ma non sono sempre accurate o possibili. I protagonisti possono sbagliare o non ricordare per cui di solito è necessario reperire altre fonti di informazione che corroborino le testimonianze dirette come:
