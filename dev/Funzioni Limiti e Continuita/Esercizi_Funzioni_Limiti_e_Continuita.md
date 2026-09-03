@@ -4,7 +4,7 @@
 
 a) Verifica i limiti seguenti disegnando, con una tabella di punti o con GEOGEBRA, un grafico approssimativo della funzione in prossimità del valore di $x$.
 
-1. $\displaystyle \lim_{x\to 1}(2-3x)=-1$;    $\displaystyle \lim_{x\to -3}(x+5)=2$;    $\displaystyle \lim_{x\to \frac{1}{2}}(4x-1)=1$;
+1. $\displaystyle \lim_{x\to 1}(2-3x)=-1$;    $\displaystyle \lim_{x\to -3}(x+5)=2$;    $\displaystyle \lim_{x\to \frac{1}{2}}(4x-1)=\dfrac{1}{2}$;
 2. $\displaystyle \lim_{x\to 0^+}\sqrt x = 0$;    $\displaystyle \lim_{x\to -1^-}(2x+3)=1$;    $\displaystyle \lim_{x\to 2^-} \sqrt{2-x} = 0$;
 
 b) Data le funzioni seguenti
@@ -16,6 +16,27 @@ g(x) = \begin{cases} x^2 & se \; x \ge 0 \\ x^2 - 1 & se \; x \lt 0 \end{cases}
 $$
 
 verifica i limiti $\displaystyle \lim_{x\to 1^+}f(x) = -2$;    $\displaystyle \lim_{x\to 0^-}g(x) = 0$.
+
+
+
+#### Laboratorio GEOGEBRA
+
+a) Verifica con GEOGEBRA i limiti degli esercizi a.1.2, a.1.3, a.2.3.
+
+```GEOGEBRA
+Limite(x + 5, -3)
+= 2
+```
+
+```
+Limite(4*x - 1, 1:2)
+= 1
+```
+
+```
+LimiteSinistro(sqrt(2 - x), 2)
+= 0
+```
 
 
 
@@ -52,6 +73,24 @@ b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 2. ![lim-4](img/lim-4.png) 
 
   $\displaystyle \lim_{x\to \infty} f(x) = ...$;  $\displaystyle \lim_{x\to -\infty} f(x) = ...$;   $\displaystyle \lim_{x\to ...} f(x) = 1$.
+
+
+
+#### Laboratorio GEOGEBRA
+
+a) Verifica con GEOGEBRA i limiti degli esercizi a.1 e a.2.
+
+```GEOGEBRA
+Limite(2:(x + 10), +∞)
+= 0
+```
+
+```
+Limite((4*x - 1):(2*x + 1),  +∞)
+= 2
+```
+
+
 
 
 

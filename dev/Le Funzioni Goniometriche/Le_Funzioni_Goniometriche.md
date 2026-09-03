@@ -4,11 +4,11 @@
 
 Gli angoli sono un concetto molto importante in matematica, in geometria, in fisica ed in tante altre discipline. Quella parte della matematica che si occupa della misura degli angoli e delle relative funzioni si chiama Goniometria. Per cominciare vediamo la definizione di Angolo.
 
-Un angolo è la parte di piano individuata da due semirette a e b (dette lati) che hanno una origine comune V (detta vertice).
+Un angolo è la parte di piano individuata da due semirette $a$ e $b$ (dette lati) che hanno una origine comune $V$ (detta vertice).
 
 <img src="img/angoli.bmp" alt="angoli" style="zoom:50%;" />
 
-Le unità di misura più usate per misurare gli angoli sono il grado (sessagesimale) ed il radiante.
+Le unità di misura più usate per misurare gli angoli sono il **grado** (sessagesimale) ed il **radiante**.
 
 
 
@@ -61,10 +61,10 @@ che ci dice come calcolare la lunghezza di un arco di circonferenza conoscendo l
 ### Gli angoli orientati
 
 La definizione di angolo già data, come parte di piano, non è adatta per descrivere tutte le situazioni in cui gli angoli vengono impiegati. Ad esempio, nell’avvitare o svitare una vite si descrive un angolo che può essere maggiore di un angolo giro.
-È più utile quindi collegare il concetto di angolo a quello di **rotazione**, cioè al movimento che porta uno dei lati dell’angolo a sovrapporsi all’altro.
+È utile quindi associare al concetto di angolo quello di **rotazione**, cioè il movimento che porta uno dei lati dell’angolo a sovrapporsi all’altro.
 La rotazione è univoca solo quando ne viene specificato il verso, orario o antiorario e normalmente il senso adottato è quello antiorario.
 
-Un angolo si dice **orientato** quando si è scelto uno dei due lati come lato di origine e un senso di rotazione. Un angolo orientato sarà **positivo** quando è descritto mediante una rotazione in senso antiorario, **negativo** quando la rotazione è in senso orario.
+Un angolo si dice **orientato** quando, avendo un angolo, si è scelto uno dei due lati come lato di origine ed un senso di rotazione. Un angolo orientato sarà **positivo** quando è descritto mediante una rotazione in senso antiorario, **negativo** quando la rotazione è in senso orario.
 
 ![Angoli-Orientati](img/Angoli-Orientati.png)
 
@@ -585,7 +585,7 @@ c) Nel triangolo rettangolo $\triangle ABC$ la lunghezza dell’ipotenusa $BC$ �
 
 ### ESERCIZIO 4.3 - La risoluzione dei triangoli nella realtà
 
-a) Una funivia collega due località, $A$ e $B$, distanti $1.200 \;m$ in linea d'aria, ed è inclinata di $42^\circ$ sul piano orizzontale. A che altezza, rispetto ad $A$, si trova la stazione $B$?		$R: [802,96\; m]$
+a) Una funivia collega due località, $A$ e $B$, distanti $1.200 \;m$ in linea d'aria, ed è inclinata di $42^\circ$ sul piano orizzontale. A che altezza, rispetto ad $A$, si trova la stazione $B$?		$R: [802,96\; m]$
 
 b) Lo scivolo di un parchetto per bambini è alto $2,5\; m$. Per arrivare a terra un bimbo scivola per $3,36\; m$. Che 
 angolo forma lo scivolo con il terreno?		$R: [48^\circ]$
@@ -652,7 +652,7 @@ Il nuovo grafico è parallelo al precedente ed il periodo non cambia.     $\bull
 
 Se moltiplichiamo per una costante $A$ positiva una funzione generica $y = f(x)$ ottenendo $y = A \cdot f(x)$ tutti i punti del grafico della funzione originaria $(x, f(x))$ dove $f(x) \ne 0$, risulteranno allungati o accorciati verticalmente , o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, Af(x))$.
 
-La funzione $\sin x$ ha una ampiezza, ossia la differenza tra il valore massimo ed il minimo, pari a $2$. La moltiplicazione per $A$ porta la nuova ampiezza a $2A$.
+La funzione $\sin x$ ha una ampiezza, ossia la differenza tra il valore massimo ed il minimo, pari a $2$. La moltiplicazione per $A$ porta la nuova ampiezza a $2A$.
 
 #### ESEMPIO 2: Prodotto per una costante 
 
@@ -682,7 +682,7 @@ L'argomento $x + \phi$ della nuova funzione raggiungerà il valore $2\pi$ quando
 
 Se moltiplichiamo per una costante $\omega$ positiva una funzione generica $y = f(x)$ ottenendo $y = f(\omega \cdot x)$, tutti i punti del grafico della funzione originaria $(x, f(x))$ risulteranno allungati o accorciati orizzontalmente, o in altri termini **dilatati** o **contratti**: i nuovi punti del grafico saranno $(x, f(\omega x))$.
 
-Questa operazione cambia il periodo della funzione. La funzione $\sin x$ ha un periodo di $2\pi$, mentre la nuova funzione $\sin \omega x$ avrà un periodo pari a $T$ per cui $\omega T = 2\pi$, da cui si ricava che $T = \dfrac{2\pi}{\omega}$.
+Questa operazione cambia il periodo della funzione. La funzione $\sin x$ ha un periodo di $2\pi$, mentre la nuova funzione $\sin \omega x$ avrà un periodo pari a $T$ per cui $\omega T = 2\pi$, da cui si ricava che $T = \dfrac{2\pi}{\omega}$.
 
 #### ESEMPIO 2: Prodotto dell'argomento per una costante
 
