@@ -10,36 +10,76 @@ a) Nei seguenti esercizi, data la funzione $f(x)$, calcola i valori a fianco ind
 
 b) Determina il rapporto incrementale delle seguenti funzioni quando $x$ varia nel modo indicato.
 
-1. $f (x) = x^4 - 3x^2$,  $x$ varia da 0 a 2;
-2. $f (x) = 2x - 3$,   $x$ varia da -3 a -1.
+1. $f (x) = x^4 - 3x^2$,  $x$ varia da $0$ a $2$;
+2. $f (x) = 2x - 3$,   $x$ varia da $-3$ a $-1$.
 
-c) Calcola il valore della derivata delle funzioni nei punti indicati come limite del rapporto incrementale in un generico punto c.
+c) Calcola il valore della derivata delle funzioni nei punti indicati come limite del rapporto incrementale in un valore generico indicato con $c$.
 
 1. $f(x) = 4x - 9$;
 2. $f(x) =-x^2 + 4x$. 
 
 
 
-### ESERCIZIO 2: Derivate fondamentali e di somma, prodotto e rapporto di funzioni
+### ESERCIZIO 2: Derivate fondamentali e derivate di somma, prodotto e rapporto di funzioni
 
-a) Calcola le derivate delle seguenti funzioni in un punto generico $x$.
+a) Calcola le derivate delle seguenti funzioni in un valore generico $x$.
 
-1.  $y = \dfrac{3}{2}$;    $y = \ln x$;     $ y = e$;
-2. $ y = 5x$;    $y = 2e^x$;
-3. $y = 3x - 2 \ln x$;    $y = 4x + 2 \ln x - 3$;
+1.  $y = x$;    $y = x^2$;    $y = x^5$;
+2.  $y = \dfrac{3}{2}$;    $y = \ln x$;     $y = e$;
+3.  $y = 3x - 2 \ln x$;    $y = 4x + 2 \ln x - 3$;
 
-b) Calcola le derivate delle seguenti funzioni in un punto generico $x$.
+b) Calcola le derivate delle seguenti funzioni in un valore generico $x$.
 
-1. $y = xe^x$;    $y = 3x \ln x$;    $y = e^x \ln x$;
-2. $y = x^5$;    $y = \dfrac{1}{9}x^9$;    $y = \dfrac{1}{x}$;
-3. $y = 2x^2 - 3x + 4$;    $y = 2x^5 - 3x^3 + 2x - 4$;
-4. $y = \sqrt[5]x - 3x^3$;    $y = \sqrt[4]{x^3} + 3x - 2$. 
+1. $y = \dfrac{1}{9}x^9$;    $y = \dfrac{1}{x}$;
+2. $y = 2x^2 - 3x + 4$;    $y = 2x^5 - 3x^3 + 2x - 4$;
+3. $y = \sqrt[5]x - 3x^3$;    $y = \sqrt[4]{x^3} + 3x - 2$;
+4. $y = xe^x$;    $y = 3x \ln x$;    $y = e^x \ln x$;
 
-c) Calcola le derivate delle seguenti funzioni in un punto generico $x$.
+c) Calcola le derivate delle seguenti funzioni in un valore generico $x$.
 
 1. $y = \dfrac{1}{x-1}$;    $y = \dfrac{5}{x^3 + 1}$.
 2. $y = \dfrac{x^2}{x+1}$;    $y = \dfrac{x^2}{\ln x}$.
 3. $y = \dfrac{2 \ln x}{x^2}$;    $y = \dfrac{\ln x - 2}{x}$.
+
+
+
+#### Laboratorio GEOGEBRA
+
+a) Calcola con GEOGEBRA le derivate degli esercizi a.1.1 ed a.1.3, a.2.2.
+
+```GEOGEBRA
+Derivata(x)
+= 1
+```
+
+```
+Derivata(x^5)
+= 5*x^4
+```
+
+```
+x Derivata(ln(x))
+= 1:x
+```
+
+b) Calcola con GEOGEBRA le derivate degli esercizi b.1.2, b.2.1, b.4.1
+
+```GEOGEBRA
+Derivata(1:x)
+= -1:x^2
+```
+
+```
+Derivata(2*x^2 - 3*x + 4)
+= 4x - 3
+```
+
+```
+Derivata(x*e^x)
+= e^x + xe^x
+```
+
+
 
 
 
