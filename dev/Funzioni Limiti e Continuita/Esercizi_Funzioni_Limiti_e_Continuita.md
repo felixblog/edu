@@ -29,7 +29,7 @@ Limite(x + 5, -3)
 ```
 
 ```
-Limite(4*x - 1, 1:2)
+Limite(4*x - 1, 1/2)
 = 1
 ```
 
@@ -81,12 +81,12 @@ b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 a) Verifica con GEOGEBRA i limiti degli esercizi a.1 e a.2.
 
 ```GEOGEBRA
-Limite(2:(x + 10), +∞)
+Limite(2/(x + 10), +∞)
 = 0
 ```
 
 ```
-Limite((4*x - 1):(2*x + 1),  +∞)
+Limite((4*x - 1)/(2*x + 1),  +∞)
 = 2
 ```
 

@@ -59,14 +59,14 @@ Derivata(x^5)
 
 ```
 x Derivata(ln(x))
-= 1:x
+= 1/x
 ```
 
 b) Calcola con GEOGEBRA le derivate degli esercizi b.1.2, b.2.1, b.4.1
 
 ```GEOGEBRA
-Derivata(1:x)
-= -1:x^2
+Derivata(1/x)
+= -1/x^2
 ```
 
 ```
@@ -111,4 +111,20 @@ b) Calcola le derivate delle seguenti funzioni in un punto generico $x$.
 2. $y = e^{-x}$;    $y = e^{\frac{2x}{x-1}}$.
 3. $y = \ln (x-1)$;    $y = \ln (x^2-1)$.
 4. $y = e^{x^2 -2}$;    $y = (x^3 + 3x + 1)^3$.
+
+
+
+#### Laboratorio GEOGEBRA
+
+a) Calcola con GEOGEBRA le derivate degli esercizi a.1.2, a.2.1
+
+```GEOGEBRA
+Derivata(3/x^4)
+= -12/x^5
+```
+
+```
+Derivata(x^(1/3))
+= 1/3 * x^(1/3)/x
+```
 
