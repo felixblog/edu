@@ -331,13 +331,13 @@ $0.5$;    $0.005$;    $4$;    $1000.1$;    $10.5$;     $9.69$.
 
 Nella vita pratica si fa un notevole uso delle percentuali, come "il $10\%$" o il $110\%$, che sono un modo di scrivere le frazioni. 
 
-Come tutte le frazioni, le percentuali le usiamo come fattore moltiplicativo per calcolare una quantità o le generiamo. Vediamo il primo caso.
+Come tutte le frazioni, le percentuali le usiamo sia come fattore moltiplicativo per calcolare una quantità sia per esprimere una misurazione (ossia le generiamo). Vediamo il primo caso.
 
  Quando diciamo "il $10\%$ di $50$" intendiamo una frazione di $\text{50}$ ottenuta prendendo "$10$ centesimi di $50$" ossia $\dfrac{10}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$. Il simbolo $\%$ equivale ad  $\dfrac{1}{100}$ per cui il calcolo della percentuale di un numero, partendo dalle parole e sostituendo ai simboli i numeri e le operazioni porta a: $10 \cdot \dfrac{1}{100} \cdot 50 \longrightarrow \dfrac{500}{100} = 5$.
 
 I secondo caso è quello di misura di una quantità rispetto ad un'altra quantità di riferimento. Se diciamo "un bambino in $6$ mesi è cresciuto di $10 \; cm$ ed adesso è alto $110 \; cm$" e ci chiediamo di quanto è cresciuto in percentuale, vogliamo "misurare" la crescita del bambino rispetto alla sua altezza iniziale, che era $100 \; cm$. Per fare questo bisogna "mettere in rapporto" la crescita, $10 \; cm$ con l'altezza iniziale: $\dfrac{10}{100} \longrightarrow \dfrac{1}{10}$. Il bambino è cresciuto di un decimo della sua altezza iniziale, che in percentuale è il $10 \%$.
 
-Una percentuale è una forma costituita da una componente decimale "moltiplicata" per il simbolo $\%$. Quando diciamo "il $110\%$", la componente decimale è $110$, quando diciamo "lo $0,2%$" la componente decimale è $0,2$.
+Una percentuale è una forma numerica costituita da una componente decimale "moltiplicata" per il simbolo $\%$. Quando diciamo "il $110\%$", la componente decimale è $110$, quando diciamo "lo $0,2\%$" la componente decimale è $0,2$.
 
 Poiché le percentuali sono frazioni, è' importante saper trasformare una percentuale in numero decimale o in frazione e viceversa una frazione o numero decimale in percentuale.
 
@@ -395,12 +395,12 @@ a) Calcola le percentuali richieste nei casi seguenti.
 
 1. In borsa una azienda vede in tre mesi il proprio titolo passare da $\text{13,5}$ a $\text{16}$ euro per azione. Di quanto è salito il titolo in percentuale? [R. $\text{18,52\%}$];
 2. Una automobile incrementa la sua velocità da $\text{80}$ a $\text{100\; Km/h}$. Di che percentuale è salita la velocità?
-3. Se durante i saldi di fine stagione spendo $\text{35}\;\texteuro$ comprando una maglia che ne costava $\text{60}$, che sconto ho avuto? ed in percentuale sul prezzo?
+3. Se durante i saldi di fine stagione spendo $\text{35 €}$ comprando una maglia che ne costava $\text{60}$, che sconto ho avuto? ed in percentuale sul prezzo?
 4. Per fare la parmigiana di melanzane per $\text{6}$ persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
 b) Calcola le quantità assolute richieste nei casi seguenti.
 
-1. Su una maglietta si calcola il $\text{30\;\%}$ di sconto. Se il prezzo è di $\text{50}\;\texteuro$, quale sarà lo sconto? Quale il prezzo scontato?
+1. Su una maglietta si calcola il $\text{30\;\%}$ di sconto. Se il prezzo è di $\text{50 €}$, quale sarà lo sconto? Quale il prezzo scontato?
 2. Se il fatturato di una azienda, da un anno all'altro, cala del $\text{40\;\%}$, di quanto sarà calato se il primo anno era di $\text{12}$ milioni di euro? Quale sarà il nuovo valore?
 3. Quanti kilogrammi di burro si possono ricavare da $\text{125\; Kg}$ di latte, sapendo che il latte contiene panna per circa l’$\text{11\;\%}$ del suo peso e che la panna produce burro per il $\text{27\;\%}$ del suo peso .      [R. $\text{3.7125\;Kg}$] 
 
@@ -418,7 +418,7 @@ e) Una squadra perde due partite su tre. Quante partite perde in percentuale sul
 
 f) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
 
-g) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6250 euro; € 18 750]
+g) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6 250 euro; € 18 750]
 
 h) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
 
@@ -444,7 +444,7 @@ a) $\dfrac{1}{4} + \dfrac{1}{6}$
 
 b) $\dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4}$
 
-c) $ \dfrac{6}{24} + \dfrac{4}{24}$
+c) $\dfrac{6}{24} + \dfrac{4}{24}$
 
 d) $\dfrac{10}{24} \longrightarrow \dfrac{5}{12}$     $\bullet$
 
@@ -458,7 +458,7 @@ a) $\dfrac{1}{4} + \dfrac{1}{6}$  dove $MCM(4,6) \longrightarrow 12$
 
 b) $\dfrac{1 \cdot 3}{12} + \dfrac{1 \cdot 2}{12}$
 
-c) $ \dfrac{3}{12} + \dfrac{2}{12}$
+c) $\dfrac{3}{12} + \dfrac{2}{12}$
 
 d) $\dfrac{5}{12}$     $\bullet$
 
@@ -543,17 +543,17 @@ Per risolvere il problema abbiamo che se indichiamo con $n$ il numero di uova de
 
 #### Rapporti tra espressioni
 
-Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma rapporti tra espressioni. In questo caso i numeri sono interi, ma operando nel campo dei numeri razionali, tutti i numeri sono interpretabili come frazioni, per cui l'espressione è equivalente a:
+Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che non sono frazioni ma **rapporti tra espressioni**. In questo caso i numeri sono interi, ma operando nel campo dei numeri razionali, tutti i numeri sono interpretabili come frazioni, per cui l'espressione è equivalente a:
 $$
 \dfrac{\dfrac{1}{1}-\dfrac{2}{1} \cdot \dfrac{3}{1}}{\dfrac{5}{1}-\dfrac{1}{1}}
 $$
 Adottando la convenzione che le frazioni siano scritte in forma normale e le divisioni tra espressioni in notazione lineare l'espressione è equivalente a $\left(\dfrac{1}{1}-\dfrac{2}{1} \cdot \dfrac{3}{1} \right): \left(\dfrac{5}{1}-\dfrac{1}{1}\right)$.
 
-Il primo passo è calcolare le espressioni al numeratore ed al denominatore del rapporto in modo da ottenere delle singole frazioni e poi proseguire fino all'ultima divisione.
+Per calcolare l'espressione, il primo passo è quello di calcolare le espressioni al numeratore ed al denominatore in modo da ottenere delle singole frazioni e poi proseguire fino all'ultima divisione.
 
 #### ESEMPIO 1
 
-a)  $-\overset{\downarrow}{\phantom|} \dfrac{1 \overset{\downarrow}{\phantom,}-2  \overset{\downarrow}{\cdot} 3 \phantom{,} \downarrow}{5 \overset{\downarrow}{\phantom{,}} -1}$ $\Longleftrightarrow -\left(\dfrac{1}{1} - \dfrac{2}{1} \cdot \dfrac{3}{1}\right):\left(\dfrac{5}{1} - \dfrac{1}{1}\right)$ ha 6 numeri e 5 operazioni. Eseguiamo la moltiplicazione a numeratore.
+a)  $-\overset{\downarrow}{\phantom|} \dfrac{1 \overset{\downarrow}{\phantom,}-2  \overset{\downarrow}{\cdot} 3 \phantom{,} \downarrow}{5 \overset{\downarrow}{\phantom{,}} -1}$ $\Longleftrightarrow -\left(\dfrac{1}{1} - \dfrac{2}{1} \cdot \dfrac{3}{1}\right):\left(\dfrac{5}{1} - \dfrac{1}{1}\right)$ ha $6$ numeri e $5$ operazioni. Eseguiamo la moltiplicazione a numeratore.
 
 b) $-\dfrac{1-6}{5-1}$ $\Longleftrightarrow -\left(\dfrac{1}{1} - \dfrac{6}{1}\right):\left(\dfrac{5}{1} - \dfrac{1}{1}\right)$
 
@@ -571,7 +571,7 @@ g) $\dfrac{5}{4}$      $\bullet$
 
 #### ESEMPIO 2
 
-a) $- \dfrac{1 \phantom{,} \downarrow }{\underbracket{10 \overset{\downarrow}{\phantom,} + 5}}$ $\Longleftrightarrow-1:(\underbracket{10 + 5})$ ha 3 numeri e 2 operazioni
+a) $- \dfrac{1 \phantom{,} \downarrow }{\underbrace{10 \overset{\downarrow}{\phantom,} + 5}}$ $\Longleftrightarrow-1:(\underbrace{10 + 5})$ ha 3 numeri e 2 operazioni
 
 b) $-\dfrac{1}{15}$ $\Longleftrightarrow-1:(15)$ ha 3 numeri e 2 operazioni
 
@@ -583,15 +583,15 @@ c) $-\dfrac{1}{15}$     ha la sola divisione che lasciamo indicata come frazione
 
 Di seguito un esempio di calcolo di una espressione più complessa
 
-a) $9\left(-\dfrac{1}{\underbracket{10 + 5}}\right)\left(-10\right)\left(-\dfrac{1 + \underbracket{2 \cdot 3}}{6}\right)$ $\Longleftrightarrow9(-1:(\underbracket{10 + 5})) \cdot (-10)\left(-(1 + \underbracket{2 \cdot 3}) : 6\right)$
+a) $9\left(-\dfrac{1}{\underbrace{10 + 5}}\right)\left(-10\right)\left(-\dfrac{1 + \underbrace{2 \cdot 3}}{6}\right)$ $\Longleftrightarrow9(-1:(\underbrace{10 + 5})) \cdot (-10)\left(-(1 + \underbrace{2 \cdot 3}) : 6\right)$
 
-b) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{\underbracket{1 + 6}}{6}\right)$  $\Longleftrightarrow 9(\underbracket{-1:(15)}) \cdot (-10)\left(-(\underbracket{1 + 6}) : 6\right)$
+b) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{\underbrace{1 + 6}}{6}\right)$  $\Longleftrightarrow 9(\underbrace{-1:(15)}) \cdot (-10)\left(-(\underbrace{1 + 6}) : 6\right)$
 
-c) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$ $\Longleftrightarrow 9(-\dfrac{1}{15}) \cdot (-10)\left( \underbracket{-(7) : 6}\right)$ A questo punto i rapporti sono frazioni
+c) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right)$ $\Longleftrightarrow 9(-\dfrac{1}{15}) \cdot (-10)\left( \underbrace{-(7) : 6}\right)$ A questo punto i rapporti sono frazioni
 
-e) $\underbracket{9(-\dfrac{1}{15})} \cdot (-10)\left( -\dfrac{7}{6}\right)$
+e) $\underbrace{9(-\dfrac{1}{15})} \cdot (-10)\left( -\dfrac{7}{6}\right)$
 
-f) $\underbracket{-\dfrac{9}{15} \cdot (-10)}\left( \dfrac{-7}{6}\right)$
+f) $\underbrace{-\dfrac{9}{15} \cdot (-10)}\left( \dfrac{-7}{6}\right)$
 
 g) $\dfrac{\cancel{90}^{\cancel{15}}}{\cancel{15}_1}\left( \dfrac{-7}{\cancel{6}_1}\right)$ Semplificando si ha il risultato
 
@@ -599,7 +599,7 @@ h) $-7$    $\bullet$
 
 #### ESEMPIO 4
 
-Indicando con $:$ i rapporti che non sono già numeri razionali abbiamo: 
+Indicando con il simbolo "$:$" i rapporti che non sono già numeri razionali abbiamo: 
 
 a) $-\dfrac{-\dfrac{1}{2}}{10 + \dfrac{5}{2}}$ $\Longleftrightarrow-(-\dfrac{1}{2}):(10 + \dfrac{5}{2})$ ha 7 numeri e 6 operazioni
 
@@ -739,7 +739,7 @@ La lettera che compare in una espressione è utilizzata per **indicare la posizi
 
 La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, **tra parentesi tonde**. 
 
-Anche in questo caso, poiché **ogni lettera sta per un numero**, comprensivo di segno, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi, il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
+Anche in questo caso, poiché **ogni lettera sta per un numero comprensivo di segno**, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi, il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri e $2$ operazioni, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
 
 $1 - a$ equivale a $1 \overset{{\downarrow}}{\phantom{,}} -1 \overset{\downarrow}{\cdot} a$
 
@@ -948,17 +948,19 @@ Abbiamo già detto che le frazioni, come gli altri numeri, misurano delle quanti
 
 Nei due esempi seguenti cercheremo di trovare la misura di una (singola) durata temporale con due unità di misura diverse: le ore ed i minuti.
 
-Prima di cominciare con gli esempi, indichiamo con il simbolo $1_h$ la durata di un periodo di tempo misurato in ore ed unitario, ossia che misura un'ora e con $1_{min}$ la durata di un periodo di tempo misurato in minuti ed unitario, ossia che misura un minuto, per cui una durata di due ore la indicheremo con $2\cdot 1_h$ (due volte un'ora) ed un periodo di venti minuti sarà $20 \cdot 1_{min}$ (venti volte un minuto).
+Prima di cominciare con gli esempi, indichiamo con il simbolo $1_h$ la durata di un periodo di tempo unitario misurato in ore, ossia che misura un'ora, e con $1_{min}$ la durata di un periodo di tempo unitario misurato in minuti, ossia che misura un minuto; in tal modo una durata di due ore la indicheremo con $2\cdot 1_h$ (due volte un'ora) ed un periodo di venti minuti sarà $20 \cdot 1_{min}$ (venti volte un minuto).
 
 #### ESEMPIO 1
 
 Quanto è lunga, in minuti, una pausa di tre quarti d'ora? (o equivalentemente: "quanti minuti ci sono in tre quarti d'ora?")
 
-Prima di rispondere alla domanda scriviamo il problema sotto forma di una uguaglianza: $\dfrac{3}{4}\;1_h = ?\;1_{min}$, il nostro problema è quello di trovare il numero da sostituire al punto interrogativo (output) avendo a disposizione il dato "tre quarti d'ora" (input).
+Prima di rispondere alla domanda scriviamo il problema sotto forma di una uguaglianza: $\dfrac{3}{4}\;1_h = ?\;1_{min}$, il nostro problema è quello di trovare il numero da sostituire al punto interrogativo (l'output), avendo a disposizione il dato "tre quarti d'ora" (l'input).
 
 Partiamo da ciò che sappiamo, ossia la relazione fondamentale, base, che lega le ore ai minuti e cioè: $1_h\;=60\;1_{min}$. Per avere su lato sinistro dell'uguaglianza l'espressione $\dfrac{3}{4}\;1_h$ moltiplichiamo a sinistra ed a destra per $\dfrac{3}{4}$, ottenendo:
 
 $\dfrac{3}{4} \cdot 1_h = \dfrac{3}{4} \cdot 60 \;1_{min}$, e calcolando i prodotti $\dfrac{3}{4}\;1_h = 45\; 1_{min}$; confrontando le due relazioni si ricava che $? = 45$.    $\bullet$
+
+
 
 #### ESEMPIO 2
 
@@ -975,6 +977,8 @@ b) $\dfrac{10}{60}\;1_h = 10 \cdot 1_{min}$
 c) $\dfrac{1}{6}\;1_h = 10\cdot 1_{min}$.
 
 In conclusione $10\;min \Rightarrow \dfrac{1}{6}\;h \approx 0.166\;h$, cioè $10$ minuti equivalgono a $0.166$ ore.    $\bullet$
+
+
 
 #### ESEMPIO 3
 
@@ -997,6 +1001,8 @@ $\dfrac{1}{3}\;1_{trim} = \dfrac{\cancel3^1}{\cancel3_1}\;1_{mese}$  $\longright
 Il Risultato finale è $15$ trimestri:
 
 $3\;anni \;e\; 9 \;mesi = 12\;trim + 3\;trim \longrightarrow 15\;trim$.    $\bullet$
+
+
 
 #### ESEMPIO 4
 

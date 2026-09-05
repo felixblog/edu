@@ -23,20 +23,17 @@ verifica i limiti $\displaystyle \lim_{x\to 1^+}f(x) = -2$;    $\displaystyle \l
 
 a) Verifica con GEOGEBRA i limiti degli esercizi a.1.2, a.1.3, a.2.3.
 
-```GEOGEBRA
-Limite(x + 5, -3)
-= 2
-```
+1. $Limite(x + 5, -3)$&#9166;
 
-```
-Limite(4*x - 1, 1/2)
-= 1
-```
+   $= 2$
 
-```
-LimiteSinistro(sqrt(2 - x), 2)
-= 0
-```
+2. $Limite(4x - 1, \dfrac{1}{2})$
+
+   $= 1$
+
+3. $LimiteSinistro(\sqrt{2 - x}, 2)$&#9166;
+
+   $= 0$
 
 
 
@@ -80,16 +77,13 @@ b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
 a) Verifica con GEOGEBRA i limiti degli esercizi a.1 e a.2.
 
-```GEOGEBRA
-Limite(2/(x + 10), +∞)
-= 0
-```
+1. $Limite(\dfrac{2}{x + 10}, +\infty)$&#9166;
 
-```
-Limite((4*x - 1)/(2*x + 1),  +∞)
-= 2
-```
+   $= 0$
 
+2. $Limite(\dfrac{4x - 1}{2x + 1}, +\infty)$
+
+   $= 2$
 
 
 
