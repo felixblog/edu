@@ -5,13 +5,15 @@
 
 In matematica oltre alle espressioni con sole operazioni e numeri (espressioni numeriche) si usano anche espressioni in cui compaiono delle lettere, come ad esempio $a+1$, $b^2$,  $2 \cdot c + 1$, dette ***espressioni letterali***. 
 
-A cosa servono? Consideriamo ad esempio i triangoli; si sa che se conosciamo la base e l'altezza di un triangolo possiamo calcolare la sua area moltiplicando base per altezza e dividendo per 2, e questo vale per tutti i triangoli. 
+A cosa servono? Consideriamo ad esempio i triangoli; si sa che se conosciamo la base e l'altezza di un triangolo possiamo calcolare la sua area moltiplicando base per altezza e dividendo per 2, e questo vale per tutti i triangoli.
 
-Come facciamo a dire che l'area va calcolata moltiplicando la lunghezza della base per la lunghezza dell'altezza e dividendo il risultato per due, qualunque sia il triangolo, piccolo o grande?
+<img src="img/Area-Triangoli.png" alt="Area-Triangoli" style="zoom:80%;" />
 
-Non possiamo usare dei numeri specifici perché la regola vale per tutti i triangoli, quindi indichiamo la lunghezza della base di un triangolo qualsiasi (tanto deve valere per tutti!) con $a$, con $b$ l'altezza dello stesso triangolo, ed allora l'area del triangolo sarà calcolata con le operazioni indicate dall'espressione letterale $\dfrac{a \cdot b}{2}$.
+Come facciamo a scrivere la regola che per calcolare l'area bisogna moltiplicare la lunghezza della base per la lunghezza dell'altezza e dividere il risultato per due, qualunque sia il triangolo, piccolo o grande?
 
-Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri che misurano la lunghezza della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
+Non possiamo usare dei numeri specifici perché la regola vale per tutti i triangoli, quindi indichiamo la lunghezza della base di un triangolo qualsiasi (tanto deve valere per tutti!) con una lettera, ad esempio $a$, e con un'altra lettera, ad esempio $b$, l'altezza dello stesso triangolo. Allora l'area del triangolo sarà calcolata con le operazioni indicate dall'espressione letterale $\dfrac{a \cdot b}{2}$.
+
+Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri che misurano la effettiva lunghezza della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
 
 Le lettere servono quindi a specificare come calcolare certe quantità, in questo caso l'area, conoscendone altre, in questo caso base ed altezza, da cui le prime dipendono: ogni lettera occupa il posto di uno ed un solo numero, che sarà sostituito alla lettera quando vorremo utilizzare l'espressione in un caso concreto.  
 

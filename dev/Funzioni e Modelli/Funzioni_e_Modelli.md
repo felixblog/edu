@@ -87,7 +87,7 @@ b) Risolvi il punto d) dell'esercizio analogamente al precedente la con la funzi
 
 Sono numerose le situazioni della vita pratica in cui incontriamo due quantità strettamente collegate tra di loro, in cui se in una certa situazione una cresce, cresce anche l'altra in modo che se raddoppia, raddoppia anche l'altra, se dimezza, dimezza anche l'altra. Vediamo un esempio.
 
-ESEMPIO 1
+#### ESEMPIO 1
 
 Quando a cena con amici si comprano delle birre, accade che acquistando ad esempio $4$ birre si spendono $8$ euro; acquistando $10$ birre si spendono $20$ euro e per $2$ birre si spendono $4$ euro. Abbiamo la situazione seguente:
 
@@ -111,7 +111,7 @@ Quando al variare di due quantità, tra loro dipendenti, il rapporto rimane **co
 
 Una situazione comune è quella per cui non sappiamo quanto vale il rapporto tra due quantità direttamente proporzionali, ma sappiamo le due quantità in un caso specifico. Facendo la divisione in questo caso specifico troviamo il valore della costante, che è uguale per tutti i casi, e poi lo usiamo par calcolare i valori che ci mancano negli altri casi.
 
-#### ESEMPIO 1
+#### ESEMPIO 2
 
 Consideriamo una automobile che si muove sempre con la stessa velocità (costante), ossia senza accelerare. 
 
@@ -123,7 +123,7 @@ Lo spazio percorso ed il tempo impiegato a percorrerlo sono due quantità dirett
 
 Vediamo ora una situazione diversa, in cui al crescere di una quantità, l'altra diminuisce in modo che se una raddoppia l'altra si dimezza.
 
-#### ESEMPIO 2
+#### ESEMPIO 3
 
 In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$​ operai?
 
@@ -151,7 +151,7 @@ Come si vede quando $x$ aumenta, $t$ diminuisce ed il loro prodotto è costante 
 
 Un altro caso importante di grandezze inversamente proporzionali è quello del tempo e della velocità nei moti uniformi.
 
-#### ESEMPIO 3
+#### ESEMPIO 4
 
 Una macchina va da Latina a Roma la mattina e percorre la distanza di $60 \; Km$ in un'ora, andando ad una velocità media di $60 \; Km/h$. La sera rientra a Latina andando a $120 \; Km/h$​. Quanto tempo impiega?
 
@@ -174,7 +174,7 @@ Come si vede la velocità raddoppia ed il tempo si dimezza.    $\bullet$
 
 a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475$ euro, quanto prenderà se lavora $30$ ore? 
 
-b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6$ m^2^ ?
+b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6\; m^2$?
 
 c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
 
@@ -247,7 +247,7 @@ Le funzioni lineari hanno la caratteristica che la differenza tra due valori del
 
 Riprendiamo l'esempio precedente. Se consideriamo la differenza tra $5$ e $15$ ingressi ($10$ ingressi, $\Delta x = x_3 - x_1 \longrightarrow 15 - 5 = 10$), il costo passa da $100$ a $220$ euro, con un aumento di $\Delta y = y_3 - y_1 \longrightarrow 220 - 100 = 120$ euro; il rapporto tra i due incrementi è $\dfrac{\Delta y}{\Delta x} = \dfrac{120}{10} = 12$. 
 
-Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro.    $ \bullet$
+Lo stesso calcolo tra $10$ e $25$ ingressi ($\Delta x = x_5 - x_2 \longrightarrow 25 - 10 = 15$ ingressi), comporta un incremento di costo da $160$ a $340$ euro, ossia $180$ euro ($\Delta y = y_5 - y_2 \longrightarrow 340 - 160 = 180$) ed il rapporto è sempre $\dfrac{\Delta y}{\Delta x} = \dfrac{180}{15} = 12$, ossia è costante ed è pari al costo unitario dell'ingresso, che è $12$ euro.    $\bullet$
 
 
 
@@ -279,8 +279,9 @@ a) Risolvi i punti dell'esercizio con i seguenti comandi GEOGEBRA, cambiando di 
 ### ESERCIZIO 3.2 - Dipendenza lineare
 
 a) Date le seguenti tabelle, stabilisci se tra $x$ e $y$ c’è una dipendenza lineare. In caso affermativo, scrivi la corrispondente funzione e rappresentala nel piano cartesiano.
-
-![F](img/f1.png)    ![F](img/f2.png)   ![F](img/f3.png) 
+<p align="center">
+	<img src="img\f1.png" /> <img src="img\f2.png" /> <img src="img\f3.png" />
+<p/>
 
 b) Individua quali delle successioni indicate dalle tabelle sono crescenti e quali decrescenti.
 
@@ -321,7 +322,7 @@ $$
 60 & ...\\
 \end{array}
 $$
-In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10$ centesimi a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti dice che ad un prezzo di $40$ centesimi a lattina si venderebbero $141$ lattine a settimana, e che ogni $5$ centesimi di aumento sul prezzo, farebbe scendere le vendite settimanali di $12$ lattine.
+In una scuola si sta decidendo di introdurre dei distributori di bibite e valutando il prezzo dei prodotti. Se il prezzo fosse molto basso, ad esempio $10$ centesimi a lattina, si venderebbero molte bibite. Se viceversa il prezzo a lattina fosse alto, ad esempio $4$ euro, è probabile che solo pochi studenti pagherebbero e molti altri ne farebbero a meno. Un sondaggio tra gli studenti dice che ad un prezzo di $40$ centesimi a lattina si venderebbero $141$ lattine a settimana, e che ogni $5$ centesimi di aumento sul prezzo, farebbe scendere le vendite settimanali di $12$ lattine.
 
 b) Posiziona i punti della curva di domanda della tabella precedente in un grafico cartesiano dove sull'asse orizzontale è riportata la quantità $q$ e su quello verticale il prezzo $p$​;
 
@@ -437,12 +438,12 @@ f(x) = \begin{cases}
 x -1 & se \; 1 \lt x
 \end{cases}
 $$
-c) STAMPA LIBRI DI TESTO. Un editore valuta che il costo per stampare un numero variabile tra 1.000 e 10.000 copie di un certo libro di testo è 50 euro a copia; tra 10.001 e 20.000 copie il costo è 40 euro a copia e tra 20.001 e 50.000 il costo è 35 euro per copia (non si stampano meno di 1000 copie).  
+c) **STAMPA LIBRI DI TESTO**. Un editore valuta che il costo per stampare un numero variabile tra 1.000 e 10.000 copie di un certo libro di testo è 50 euro a copia; tra 10.001 e 20.000 copie il costo è 40 euro a copia e tra 20.001 e 50.000 il costo è 35 euro per copia (non si stampano meno di 1000 copie).  
 
 1. Trova quanto costa stampare 5.500 copie e 23.000 copie;
 2. Compila una tabella (2 colonne,  prima colonna: Numero di Copie, seconda colonna: Costo) che riporta i casi del punto 1 più quelli relativi a 2.000, 7.000, 45.000 copie.
 
-d) QUOTA ISCRIZIONE. L'iscrizione ad una piscina costa 250 euro per le 12 settimane della stagione estiva. Se qualcuno si iscrive dopo l'inizio della stagione, una parte della della quota (proporzionale al ritardo) si può recuperare dalla quota dell'anno successivo.
+d) **QUOTA ISCRIZIONE**. L'iscrizione ad una piscina costa 250 euro per le 12 settimane della stagione estiva. Se qualcuno si iscrive dopo l'inizio della stagione, una parte della della quota (proporzionale al ritardo) si può recuperare dalla quota dell'anno successivo.
 
 1. Calcolare quanto spende nell'anno successivo chi si iscrive in ritardo di 5 settimane;  
 2. Calcolare la spesa se il ritardo è di 2 settimane;  
