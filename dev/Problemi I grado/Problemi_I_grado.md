@@ -23,7 +23,7 @@ La traduzione in simboli della condizione è:
 $$
 50 = 2 \cdot x
 $$
-Questa è l'"equazione risolutiva del problema", che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$. $ \bullet$
+Questa è l'"equazione risolutiva del problema", che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$. $\bullet$
 
 
 
@@ -39,10 +39,10 @@ Il metodo per risolvere questi problemi si articola in quattro passi:
 
 Il primo passo è l'individuazione delle quantità nel testo del problema. Dopo aver letto attentamente il problema, tante volte quante sono necessarie per capire cosa dice, ossia quale situazione descrive e cosa ci chiede, bisogna individuare:
 
-1. Quali sono le **quantità** di cui si parla nel testo del problema, sia la quantità richiesta, che tutte le altre;
+1. Quali sono le **quantità** di cui si parla nel testo del problema, sia la **quantità richiesta**, che tutte le altre;
 2. Di quali quantità si conosce anche la **misura** (detta anche **valore noto** o **dato**) e di quali no.
 
-Una quantità non è solo un "numero": la quantità è un concetto, una proprietà quantitativa di qualcosa, come ad esempio l'età di una persona, la lunghezza di una strada, il peso di una porzione di prosciutto, oppure l'importo di un pagamento, l'ammontare di un debito, il prezzo di un prodotto etc.
+Una quantità non è solo un "numero": la quantità è un concetto, una proprietà quantitativa di qualcosa, come ad esempio **l'età di una persona** (dove il qualcosa è la persona e la quantità è l'età), la **lunghezza di una strada**, il peso di una porzione di prosciutto, oppure **l'importo di un pagamento** (la proprietà è l'importo, la cosa è il pagamento), l'ammontare di un debito, il prezzo di un prodotto etc.
 
 Il numero che è associato alla quantità è la sua misura, presa utilizzando una **unità di misura**: ad esempio la lunghezza della strada è $60 \;Km$, il peso di una persona è $72 \; Kg$ il prezzo di un oggetto è $\text{\euro} \; 25$; la misura dipende dall'unità con cui misuriamo e può essere **nota**, perché è contenuta nel testo del problema, oppure no.
 
@@ -55,10 +55,8 @@ Alle quantità deve essere dato un nome preciso ed appropriato.
 - Nella domanda "**Quante palline** sono rimaste nella scatola?", la quantità richiesta è la "numerosità" (il numero) di un insieme di oggetti e l'unità di misura è l'"unità" di oggetti coinvolti (unità di palline, unità di oggetti o altro). Le stesse considerazioni vanno fatte per domande come "**Quanti giornali** ha venduto?", "**Quante persone** sono a bordo della macchina ...".
 - In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
-- Nella frase "**Solo i due terzi** della strada erano asfaltati ..." la quantità che vale "due terzi", e che può essere definita "Rapporto tra lunghezza del tratto asfaltato e tutta la strada", è un numero che non ha una unità di misura: è un fattore moltiplicativo di una lunghezza per avere la misura di un'altra lunghezza. I valori che non hanno unità di misura si dicono "**puri**".
-- In "**Trova il numero** che diviso per due da 115" si parla di tre quantità che potremmo indicare come il numero richiesto, il numero divisore ed il numero risultato. Nessuno dei tre numeri citati misura una grandezza fisica (come una lunghezza, un peso, una durata o altro), oppure di una grandezza economica (importo monetario, giorni di lavoro etc.), ne una numerosità, ma sono rappresentativi solo di se stessi in quanto numeri interi o razionali. Come nel caso precedente non c'è una unità di misura ed i tre numeri si dicono puri. $ \bullet$
-
-
+- Nella frase "**Solo i due terzi** della strada erano asfaltati ..." la quantità, che vale "due terzi" e che può essere definita "misura del tratto asfaltato in rapporto a tutta la strada", è un numero che non ha una unità di misura: è un fattore moltiplicativo di una lunghezza (tutta la strada) per avere la misura di un'altra lunghezza (tratto asfaltato). I valori che non hanno unità di misura si dicono "**puri**".
+- In "**Trova il numero** che diviso per due da 115" si parla di tre quantità che potremmo indicare come il numero richiesto, il numero divisore ed il numero risultato. Nessuno dei tre numeri citati misura una grandezza fisica (come una lunghezza, un peso, una durata o altro), oppure di una grandezza economica (importo monetario, giorni di lavoro etc.), nè una numerosità, ma sono rappresentativi solo di se stessi in quanto numeri interi o razionali. Come nel caso precedente non c'è una unità di misura ed i tre numeri si dicono puri. $\bullet$
 
 Nella scelta del nome delle quantità, è opportuno utilizzare termini che precisano la loro natura, ossia indicare le somme di denaro come "importi", i periodi di tempo come "durate", le lunghezze come "distanze" o "lunghezze" etc. I pesi, le lunghezze, gli importi, si chiamano **grandezze** (fisiche, economiche etc.), mentre nelle situazioni specifiche indicate nei problemi le chiamiamo **quantità**. 
 
@@ -76,7 +74,7 @@ La prima è "Importo Eredità del Marito"; è una quantità monetaria e la sua m
 
   "Una trave di cemento è i due terzi del camion che la trasporta"
 
-Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lunghezza del Camion", "Rapporto Lunghezze Trave-Camion"; di queste conosciamo la misura (o il valore) solo della terza, e le quantità non sono indipendenti l'una dall'altra, ma la Lunghezza della Trave è uguale alla Lunghezza del Camion per due terzi. $ \bullet$
+Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lunghezza del Camion", "Misura Lunghezza Trave in rapporto al Camion"; di queste conosciamo solo della terza, e le quantità non sono indipendenti l'una dall'altra, ma la Lunghezza della Trave è uguale alla Lunghezza del Camion per due terzi. $\bullet$
 
 
 
@@ -133,7 +131,7 @@ Si vede chiaramente che la lunghezza della trave dipende da quella del camion e 
 
 In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati. Quali sono le quantità e le loro relazioni?
 
-Le quantità sono "Numero di Impiegati" e "Numero di Operai". Il testo ci dice che il numero di operai dipende dal numero di impiegati perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. Osserviamo che nessuna delle due quantità è nota. $ \bullet$
+Le quantità sono "Numero di Impiegati" e "Numero di Operai". Il testo ci dice che il numero di operai dipende dal numero di impiegati perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. Osserviamo che nessuna delle due quantità è nota. $\bullet$
 
 <img src="img/Impiegati-Operai-1.png" alt="Impiegati-Operai-1" style="zoom:80%;" />
 
@@ -161,7 +159,7 @@ U = 20\% \cdot F
 $$
  Le quantità indipendenti sono "Fatturato" e "Percentuale di Utile", quella dipendente è l'"Utile". 
 
-Un diagramma che rappresenta le dipendenze è il seguente. $ \bullet$
+Un diagramma che rappresenta le dipendenze è il seguente. $\bullet$
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
@@ -201,7 +199,7 @@ Poiché l'area è anche uguale a $24$ abbiamo che $3 \cdot l$ e $24$ sono uguali
 
 #### ESEMPIO 6
 
-Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è il diagramma per il calcolo della percentuale di sconto?
+Un vecchio video game è stato ribassato da $48$ a $18$ euro. Quale è il diagramma per il calcolo della percentuale di sconto?
 
 Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo di Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro, il Prezzo Scontato o  $Ps$, che è $18$ euro e la percentuale di sconto, che è la quantità richiesta e che possiamo indicare con $s$.
 
@@ -294,7 +292,7 @@ Per trovare la risposta basta propagare i valori: $Sostituisci(\dfrac{2}{3} \cdo
 
 #### ESEMPIO 2
 
-Un vecchio video game è stato ribassato da $48$ a $18 \; \texteuro$. Quale è la percentuale di sconto?
+Un vecchio video game è stato ribassato da $48$ a $18$ euro. Quale è la percentuale di sconto?
 
 La formula per risolvere il problema è:
 $$
@@ -361,7 +359,7 @@ Come si vede le due espressioni che misurano la trave devono essere uguali per c
 $$
 \dfrac{2}{3} \cdot x = 18
 $$
-La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow x = 27$ $ \bullet$
+La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow x = 27$ $\bullet$
 
 
 
@@ -376,7 +374,7 @@ Possiamo dire quindi che se gli impiegati sono $x$, l'espressione (letterale) ch
 
 <img src="img/Impiegati-Operai-2.png" alt="Impiegati-Operai-2" style="zoom:80%;" />
 
-L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$, come si vede da $Risolvi(x+1000=5x,\{x\}) \longrightarrow x = 250$. $ \bullet$
+L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$, come si vede da $Risolvi(x+1000=5x,\{x\}) \longrightarrow x = 250$. $\bullet$
 
 
 
@@ -393,7 +391,7 @@ e l'equazione risolutiva è:
 $$
 x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
 $$
-La soluzione è $12$, come si vede da $Risolvi(x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5,\{x\}) \longrightarrow x = 12$. $ \bullet$
+La soluzione è $12$, come si vede da $Risolvi(x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5,\{x\}) \longrightarrow x = 12$. $\bullet$
 
 
 
@@ -571,7 +569,7 @@ Il prodotto di Giacomo è una parete; il tempo è $3$ ore e la sua produttività
 
 <img src="img/Parete.png" alt="Parete" style="zoom:80%;" />
 
-La somma delle produttività deve essere uguale alla produttività del gruppo, per cui abbiamo l'equazione $\dfrac{1}{t}=\dfrac{8}{15}$, che ha soluzione $\dfrac{15}{8}$, ossia $1,8$ ore ($Risolvi(\dfrac{1}{t}=\dfrac{8}{15}, \{t\}) \longrightarrow t=\dfrac{8}{15}). $ $\bullet$
+La somma delle produttività deve essere uguale alla produttività del gruppo, per cui abbiamo l'equazione $\dfrac{1}{t}=\dfrac{8}{15}$, che ha soluzione $\dfrac{15}{8}$, ossia $1,8$ ore ( in GEOGEBRA: $Risolvi(\dfrac{1}{t}=\dfrac{8}{15}, \{t\}) \longrightarrow t=\dfrac{8}{15}).$ $\bullet$
 
 
 
