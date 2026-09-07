@@ -25,7 +25,7 @@ Con "tre quarti d'ora" indichiamo una durata inferiore ad un'ora, ottenuta prend
 - Quanto pesa un quarto di torta da $800$ grammi?
 - Quanto vale mezzo euro (in centesimi)?
 
-Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti", come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.    $ \bullet$
+Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre quarti", come "tre volte un quarto". Si trova un quarto della quantità dividendo per $4$ e se ne prende il triplo: $\dfrac{1}{4} \cdot 60 \longrightarrow 15; 15 \cdot 3 \longrightarrow 45$ per cui tre quarti d'ora equivalgono a $45$ minuti. Un quarto di torta pesa $800 : 4 \longrightarrow 200$ grammi.    $\bullet$
 
 
 
@@ -64,7 +64,15 @@ In un problema compare la frase seguente: "Maria ha $15$ anni ed ha la metà deg
 
 La frazione indica la misura degli anni di Maria **in rapporto a** quelli di sua madre, ossia utilizzando l'età della madre come unità di misura, ed in questo caso la misura è $\dfrac{1}{2}$, in numero decimale $0,5$ (ricordare che la quantità che sta dopo il "di", "del", "della" etc. è al denominatore!). Usando parole diverse possiamo dire che il rapporto tra gli anni di Maria e quelli di sua madre deve essere $\dfrac{1}{2}$, ed allora quanti saranno gli anni della madre di Maria?
 
-Chiederselo equivale a chiedersi per cosa dobbiamo dividere $15$ per avere come risultato $0,5$, e la risposta è $30$.
+Chiederselo equivale a chiedersi per cosa dobbiamo dividere $15$ per avere come risultato $0,5$, e la risposta è $30$.    $\bullet$
+
+#### ESEMPIO 5
+
+Ci sono due coniugi, Antonio e Maria ed uno ha molti più capelli dell'altro; diciamo che Antonio ha un quarto dei capelli che ha Maria. Chi dei due ha più capelli?
+
+Maria ha più capelli di Antonio; il problema ci dice che la "misura" dei capelli di Antonio **in rapporto a** quelli di Maria è $\dfrac{1}{4}$, che è meno di uno. Sarebbe la stessa cosa dire che Maria ha quattro volte i capelli di Antonio, ed allora $4$ sarebbe la misura dei capelli di Maria **in rapporto a** quelli di Antonio.
+
+Nono sappiamo quanti capelli hanno Maria ed Antonio, ma sappiamo che se Maria avesse $2\;000$ capelli, Antonio ne avrebbe un quarto, cioè $500$, mentre se Antonio avesse $1\;000$ capelli, Maria ne avrebbe $4\;000$.    $\bullet$
 
 
 
@@ -80,7 +88,7 @@ $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 Usare la frazione come divisione significa che in tutti i casi in cui la divisione è espressa con "due punti" (notazione lineare), la stessa si può anche esprimere con una linea di frazione. Vediamo alcuni esempi.
 
-#### ESEMPIO 5
+#### ESEMPIO 6
 
 Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare, senza trasformarla in decimale, è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Come si vede, la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare, cioè quella di raggruppare ii termini dell'espressione da dividere e quelli per cui viene divisa. Ulteriori esempi sono i seguenti.
 
@@ -94,7 +102,7 @@ Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazi
 
 Il rapporto tra due numeri interi può essere positivo o negativo e la forma **normale** (o canonica) di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$
 
-#### ESEMPIO 6
+#### ESEMPIO 7
 
 Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4} \longleftrightarrow -\dfrac{3}{4}$ mentre $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
 
@@ -200,8 +208,8 @@ b) $-\dfrac{1}{3},\dfrac{11}{6},-\dfrac{9}{8},+\dfrac{2}{3},-\dfrac{6}{5},+\dfra
 
 a) Scrivi le seguenti espressioni, contenenti divisioni in forma lineare, in espressioni contenenti frazioni.
 
-1. $1 - (4-1):2 \cdot 5 $;    $1 - 4 - 1:2 \cdot 5 $
-2. $1 - 2 : (4-1) \cdot 5 $;    $(1 - 2) : (4 - 1) \cdot (7 + 3)$
+1. $1 - (4-1):2 \cdot 5$;    $1 - 4 - 1:2 \cdot 5$
+2. $1 - 2 : (4-1) \cdot 5$;    $(1 - 2) : (4 - 1) \cdot (7 + 3)$
 
 b) Scrivi i seguenti rapporti come frazioni in forma canonica.
 
@@ -234,13 +242,13 @@ Il caso più semplice è quello del prodotto di una frazione per un numero inter
 
 #### ESEMPIO 2
 
-La metà di dieci: $\dfrac{1}{2} \cdot 10 \longrightarrow \dfrac{1}{2} \cdot \dfrac{10}{1} \longrightarrow $
+La metà di dieci: $\dfrac{1}{2} \cdot 10 \longrightarrow \dfrac{1}{2} \cdot \dfrac{10}{1} \longrightarrow$
 
 ​					$\dfrac{1 \cdot 10}{2 \cdot 1} \longrightarrow \dfrac{10}{2} \longrightarrow 5$;
 
 
 
-Il doppio di tre quarti: $2 \cdot \dfrac{3}{4} \longrightarrow \dfrac{2 \cdot 3}{4} \longrightarrow $
+Il doppio di tre quarti: $2 \cdot \dfrac{3}{4} \longrightarrow \dfrac{2 \cdot 3}{4} \longrightarrow$
 
 ​							$\dfrac{6}{4} \longrightarrow \dfrac{2}{3}$;
 
@@ -739,7 +747,7 @@ La lettera che compare in una espressione è utilizzata per **indicare la posizi
 
 La sostituzione va fatta limitatamente alla <u>sola lettera</u> interessata, tutte le volte che la lettera compare nell'espressione, **tra parentesi tonde**. 
 
-Anche in questo caso, poiché **ogni lettera sta per un numero comprensivo di segno**, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi, il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri e $2$ operazioni, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
+Anche in questo caso, poiché **ogni lettera sta per un numero comprensivo di segno**, il segno davanti alle lettere indica, come nel caso dei segni davanti alle parentesi, il prodotto del numero con $\pm 1$: ad esempio, l'espressione $1 -a$ contiene $3$ numeri e $2$ operazioni, una somma algebrica ed un prodotto, come descritto nei due esempi seguenti.
 
 $1 - a$ equivale a $1 \overset{{\downarrow}}{\phantom{,}} -1 \overset{\downarrow}{\cdot} a$
 
@@ -779,7 +787,7 @@ e) $\left(\dfrac{9}{25}\right) + 1$;
 
 f) $\dfrac{9}{25} + \dfrac{25}{25}$;
 
-g) $\dfrac{34}{25}$.
+g) $\dfrac{34}{25}$.    $\bullet$
 
 
 
@@ -1049,10 +1057,10 @@ d) Gli antichi romani misuravano le distanze sulle strade in "piedi". Il piede r
 
 a) Risolvi le seguenti equivalenze trovando la misura da scrivere al posto dei puntini.
 
-1. $7 \; Km + 14  \; m + 12  \; dam = $............ $dam$ &emsp;  $[R. 713,4]$  
-2. $15  \; dm + 70  \; cm - 100  \; mm = $............ $m$  &emsp;  $[R. 2,1]$  
-3. $27  \; dam + 3 200  \; cm + 2  \; hm = $............ $m$  &emsp;  $[R. 502]$  
-4. $0,5  \; dam + 5  \; m + 6 cm + 1,6  \; m = $............ $dm$  &emsp;  $[R. 116,6]$  
+1. $7 \; Km + 14  \; m + 12  \; dam =$............ $dam$ &emsp;  $[R. 713,4]$  
+2. $15  \; dm + 70  \; cm - 100  \; mm =$............ $m$  &emsp;  $[R. 2,1]$  
+3. $27  \; dam + 3 200  \; cm + 2  \; hm =$............ $m$  &emsp;  $[R. 502]$  
+4. $0,5  \; dam + 5  \; m + 6 cm + 1,6  \; m =$............ $dm$  &emsp;  $[R. 116,6]$  
 
 
 
