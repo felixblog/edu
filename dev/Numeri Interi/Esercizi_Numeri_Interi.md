@@ -115,7 +115,7 @@ Per scrivere una somma algebrica tra due o più numeri dobbiamo scrivere i numer
 
 La somma algebrica tra i numeri $-2$, $+5$, $-1$ è $-2 +5 +1$ e la somma algebrica tra i numeri $+2$, $5$, $1$ è $+2 + 5 + 1$.
 
-Soltanto il primo numero, se è positivo, può essere scritto senza il segno, quindi la somma precedente poteva anche essere scritta $2 + 5 + 1$.    $ \bullet$
+Soltanto il primo numero, se è positivo, può essere scritto senza il segno, quindi la somma precedente poteva anche essere scritta $2 + 5 + 1$.
 
 
 
@@ -252,7 +252,7 @@ Nell'espressione $-8 · 12 + 5$ abbiamo tre numeri e due operazioni, un prodotto
 
 Quando c'è un numero condiviso tra moltiplicazione e somma si pone il problema di quale operazione lo deve usare per ottenere il suo risultato: poiché la moltiplicazione ha priorità sulla somma, il $12$ essere usato nella moltiplicazione che quindi sarà la prima operazione da eseguire. La sequenza sarà allora:
 
-a) $\underbracket{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12} \overset{\overset{(b)}{\downarrow}}{\phantom{,}} + 5$
+a) $\underbrace{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12} \overset{\overset{(b)}{\downarrow}}{\phantom{,}} + 5$
 
 $\downarrow$
 
@@ -264,9 +264,9 @@ Nell'espressione $+5 - 8 · 12$ la prima operazione che si incontra è la somma 
 
 La sequenza delle operazioni sarà allora:
 
-a) $5 \overset{\overset{(b)}{\downarrow}}{\phantom{,}} \underbracket{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12}$
+a) $5 \overset{\overset{(b)}{\downarrow}}{\phantom{,}} \underbrace{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12}$
 
-b) $ 5 \overset{\downarrow}{\phantom{,}} \;  \underline{-96}$
+b) $5 \overset{\downarrow}{\phantom{,}} \;  \underline{-96}$
 
 c) $-91$   $\bullet$
 
@@ -280,7 +280,7 @@ Nell'espressione $-8 · (12 + 5)$, analoga alla precedente ma con presenza di pa
 
 La prima operazione che è possibile eseguire è quindi la somma algebrica dentro la parentesi. La sequenza delle operazioni da eseguire sarà:
 
-a) $-8 \overset{\overset{(b)}\downarrow}{\phantom{,}} \cdot (\underbracket{12 \overset{\overset{(a)}\downarrow}{\phantom{,}} +5})$
+a) $-8 \overset{\overset{(b)}\downarrow}{\phantom{,}} \cdot (\underbrace{12 \overset{\overset{(a)}\downarrow}{\phantom{,}} +5})$
 
 b) $-8 \cdot (\underline{17})$
 
@@ -304,11 +304,11 @@ $$
 $$
 Come si vede i numeri dell'espressione sono quattro e le operazioni sono tre. La prima operazione del fare è la somma algebrica dentro la parentesi:
 
-a) $-5 -1 \cdot (\underbracket{10 - 15})$
+a) $-5 -1 \cdot (\underbrace{10 - 15})$
 
 La seconda è il prodotto immediatamente fuori:
 
-b) $-5 \underbracket{-1 \cdot (\underline{-5})}$ 
+b) $-5 \underbrace{-1 \cdot (\underline{-5})}$ 
 
 La terza è la somma algebrica dopo il primo $-5$:
 
@@ -324,11 +324,11 @@ Durante il calcolo delle espressioni, le operazioni delle espressioni si riducon
 
 Togliamo le parentesi quando in esse è presente **solo un numero** (nessuna operazione) e si esegue **la prima operazione di moltiplicazione o divisione al di fuori della parentesi stessa**, come nell'esempio seguente quando eseguiamo la moltiplicazione nel passaggio da b) a c).
 
-a) $-5 + (\underbracket{10 - 15}):5$
+a) $-5 + (\underbrace{10 - 15}):5$
 
-b) $-5 \underbracket{+ (\underline{-5})}:5$
+b) $-5 \underbrace{+ (\underline{-5})}:5$
 
-c) $-5 \underbracket{\underline{-5}:5}$
+c) $-5 \underbrace{\underline{-5}:5}$
 
 d) $-5 \; \underline{-1}$
 
@@ -336,11 +336,11 @@ e) $-6$
 
 Se l'espressione nella parentesi è la base di una potenza, quando è stata ridotta ad un solo numero, **calcoliamo la potenza e mettiamo il risultato dentro la parentesi senza toglierla**, come nel passaggio da b) a c) dell'esempio seguente, in attesa della prima moltiplicazione o divisione per toglierla:
 
-a) $-5 -1 \cdot (\underbracket{10 - 15})^3$
+a) $-5 -1 \cdot (\underbrace{10 - 15})^3$
 
-b) $-5 -1 \cdot \underbracket{(\underline{-5})^3}$
+b) $-5 -1 \cdot \underbrace{(\underline{-5})^3}$
 
-c) $-5 \underbracket{-1 \cdot (\underline{-125}})$
+c) $-5 \underbrace{-1 \cdot (\underline{-125}})$
 
 d) $-5 \; \underline{+ 125}$
 
@@ -885,7 +885,7 @@ c) $2^{3 +3}$;      per la regola del prodotto di potenze
 
 d) $2^{3 \cdot 2}$
 
-$2^{3 \cdot 2}$ è uguale a $2^6$che è uguale a $64$. Questo ragionamento vale sempre, qualunque sia la base ed i due esponenti, per cui la regola è:
+$2^{3 \cdot 2}$ è uguale a $2^6$che è uguale a $64$. Questo ragionamento vale sempre, qualunque sia la base ed i due esponenti, per cui la regola è:
 $$
 (a^m)^n = a^{m \cdot n}
 $$

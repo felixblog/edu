@@ -49,15 +49,15 @@ a) Calcola con GEOGEBRA le derivate degli esercizi a.1.1 ed a.1.3, a.2.2.
 
 1. $Derivata(x)$&#9166;
 
-   $= 1$
+   $\longrightarrow 1$
 
 2. $Derivata(x^5)$
 
-   $= 5x^4$
+   $\longrightarrow 5x^4$
 
 3. $Derivata(\ln x)$&#9166;
 
-   $= \dfrac{1}{x}$
+   $\longrightarrow \dfrac{1}{x}$
 
 
 
@@ -65,15 +65,15 @@ b) Calcola con GEOGEBRA le derivate degli esercizi b.1.2, b.2.1, b.4.1.
 
 1. $Derivata(\dfrac{1}{x})$&#9166;
 
-   $= -\dfrac{1}{x^2}$
+   $\longrightarrow -\dfrac{1}{x^2}$
 
 2. $Derivata(2x^2 - 3x + 4)$
 
-   $= 4x - 3$
+   $\longrightarrow 4x - 3$
 
 3. $Derivata(xe^x)$&#9166;
 
-   $= e^x + xe^x$
+   $\longrightarrow e^x + xe^x$
 
 
 
@@ -115,8 +115,8 @@ a) Calcola con GEOGEBRA le derivate degli esercizi a.1.2, a.2.1.
 
 1. $Derivata(\dfrac{3}{x^4})$&#9166;
 
-   $= -\dfrac{12}{x^5}$
+   $\longrightarrow -\dfrac{12}{x^5}$
 
 2. $Derivata(x^{\frac{1}{3}})$&#9166;
 
-   $= \dfrac{1}{3}\dfrac{x^{\frac{1}{3}}}{x}$
+   $\longrightarrow \dfrac{1}{3}\dfrac{x^{\frac{1}{3}}}{x}$

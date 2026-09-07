@@ -25,15 +25,15 @@ a) Verifica con GEOGEBRA i limiti degli esercizi a.1.2, a.1.3, a.2.3.
 
 1. $Limite(x + 5, -3)$&#9166;
 
-   $= 2$
+   $\longrightarrow 2$
 
 2. $Limite(4x - 1, \dfrac{1}{2})$
 
-   $= 1$
+   $\longrightarrow 1$
 
 3. $LimiteSinistro(\sqrt{2 - x}, 2)$&#9166;
 
-   $= 0$
+   $\longrightarrow 0$
 
 
 
@@ -79,11 +79,11 @@ a) Verifica con GEOGEBRA i limiti degli esercizi a.1 e a.2.
 
 1. $Limite(\dfrac{2}{x + 10}, +\infty)$&#9166;
 
-   $= 0$
+   $\longrightarrow 0$
 
 2. $Limite(\dfrac{4x - 1}{2x + 1}, +\infty)$
 
-   $= 2$
+   $\longrightarrow 2$
 
 
 

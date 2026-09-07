@@ -294,13 +294,13 @@ In una espressione letterale possono comparire dei monomi simili non vicini tra 
 
 a) $a \overset{\overset{+/-}\downarrow}\; +b \overset{\overset{+/-}\downarrow}\; -2a \overset{\overset{+/-}\downarrow}\; + 3b$   Sono presenti tre somme algebriche, nessuna delle quali può essere eseguita perché gli addendi non sono simili. Riordinando i monomi abbiamo la somma seguente.
 
-b) $\underbracket{a \overset{\overset{+/-}\downarrow}\; - 2a} \overset{\overset{+/-}\downarrow}\; + b \overset{\overset{+/-}\downarrow}\; + 3b$   Ora è possibile eseguire la prima somma.
+b) $\underbrace{a \overset{\overset{+/-}\downarrow}\; - 2a} \overset{\overset{+/-}\downarrow}\; + b \overset{\overset{+/-}\downarrow}\; + 3b$   Ora è possibile eseguire la prima somma.
 
-c) $\underline{-a} \overset{\overset{+/-}\downarrow}\; \underbracket{+ b \overset{\overset{+/-}\downarrow}\; + 3b}$   Qui è possibile effettuare la seconda somma algebrica.
+c) $\underline{-a} \overset{\overset{+/-}\downarrow}\; \underbrace{+ b \overset{\overset{+/-}\downarrow}\; + 3b}$   Qui è possibile effettuare la seconda somma algebrica.
 
 d) $-a \overset{\overset{+/-}\downarrow}\; \underline{+4b}$      $\bullet$
 
-Come si vede l'espressione, originariamente costituita da quattro monomi e tre somme è diventata di due monomi ed una somma, cioè si è semplifcata.
+Come si vede l'espressione, originariamente costituita da quattro monomi e tre somme è diventata di due monomi ed una somma, cioè si è semplificata.
 
 
 
@@ -854,13 +854,13 @@ c) $\dfrac{2}{5}$.    $ \bullet$
 
 #### **ATTENZIONE!!**
 
-E' possibile semplificare un monomio (o un polinomio) presente sia a numeratore che a denominatore della frazione SOLO se il monomio (o polinomio) è il fattore di un prodotto, sia numeratore che a denominatore; se a numeratore o denominatore della frazione non c'è un prodotto, non è possibile effettuare nessuna semplificazione. 
+E' possibile semplificare un monomio (o un polinomio) presente sia a numeratore che a denominatore della frazione SOLO se il monomio (o polinomio) è il fattore di un prodotto, sia a numeratore che a denominatore; se a numeratore o denominatore della frazione non c'è un prodotto, non è possibile effettuare nessuna semplificazione. 
 
 Come per le frazioni numeriche, non si può semplificare $\dfrac{5+7}{4}$ a meno di scrivere $12$ al posto di $5+7$  e scomporlo $12$ in fattori per cui $\dfrac{12}{4} = \dfrac{4 \cdot 3}{4} \longrightarrow \dfrac{\cancel{4} \cdot 3}{\cancel{4}} = 3$
 
 #### ESEMPIO 3
 
-Nella frazione $\dfrac{2x(2x-1)}{2x +1}$, non è possibile semplificare $2x$ sopra e sotto perché sotto non c'è un prodotto ma una somma algebrica di monomi!    $ \bullet$
+Nella frazione $\dfrac{2x(2x-1)}{2x +1}$, non è possibile semplificare $2x$ sopra e sotto perché sotto non c'è un prodotto ma una somma algebrica di monomi!    $\bullet$
 
  
 

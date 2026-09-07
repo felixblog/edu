@@ -1,4 +1,3 @@
-
 # Equazioni di I Grado
 
 ## UNITA' 1: Concetto di equazione e sue soluzioni
@@ -85,7 +84,7 @@ a) Risolvi i punti dell'esercizio con il comando GEOGEBRA seguente:
 
 a1) $Sostituisci(x + 12 = 28, x=6)$ &#9166; 
 
-a2) $\longrightarrow 18 = 28$
+​	$\longrightarrow 18 = 28$
 
 I due numeri sono chiaramente diversi, per cui $6$ non è soluzione.
 
@@ -93,9 +92,11 @@ b) Risolvi i punti dell'esercizio con la sequenza di comandi GEOGEBRA riportata 
 
 b1) $e1: 0,5x = 2,9$ &#9166; 
 
+​	$\longrightarrow \dfrac{1}{2}x = \dfrac{29}{10}$
+
 b2) $s1: Sostituisci(e1, x=5)$ &#9166; 
 
-b3) $\longrightarrow \dfrac{5}{2} = \dfrac{29}{10}$
+​	$\longrightarrow \dfrac{5}{2} = \dfrac{29}{10}$
 
 Controllando che $\dfrac{5}{2} \approx 2,5$ mentre $\dfrac{29}{10} \approx 2,9$ si vede che le frazioni sono diverse e che l'uguaglianza è falsa. 
 
