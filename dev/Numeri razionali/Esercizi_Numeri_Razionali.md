@@ -13,7 +13,7 @@ Nella pratica quotidiana le frazioni vengono o **utilizzate** (per calcolare del
 
 
 
-#### Frazioni utilizzate per calcolare una una quantità
+#### Frazioni utilizzate per calcolare una quantità
 
 Il primo contesto, forse il più frequente, è quello in cui una frazione viene utilizzata come ***fattore*** per diminuire una quantità intera, come in "tre quarti d'ora", "mezzo salame" o "un quarto di quella pagnotta".
 
@@ -31,7 +31,7 @@ Per trovare il risultato degli esempi si considera la frazione, ad esempio "tre 
 
 #### Frazioni generate per misurare una quantità rispetto ad un'altra
 
-Il questo contesto, una frazione viene costruita per misurare una quantità "rispetto" (o "in rapporto") ad un'altra che utilizziamo come unità di riferimento. Facciamo due esempi.
+Il questo contesto, una frazione viene costruita per misurare una quantità "rispetto" (o "in rapporto a") un'altra che utilizziamo come unità di riferimento. Facciamo due esempi.
 
 #### ESEMPIO 2
 
@@ -40,11 +40,11 @@ In una stazione l'altoparlante dice "Avvisiamo i signori passeggeri che il treno
 1. Prima risposta: $90$ minuti (numero intero);
 2. Seconda risposta: un ora e mezza ($1,5$ ore oppure $1 + \dfrac{1}{2}$ ore, numero frazionario).
 
-Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato in modo diverso: nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).     $\bullet$
+Le risposte sono entrambe corrette, perché **misurano lo stesso ritardo (durata)** che viene indicato con due numeri diversi, $90$ e $1,5$: questo perché nella prima risposta l'unità di riferimento (di misura) è il minuto, nel secondo l'ora (fatta di $60$ minuti).     $\bullet$
 
 
 
-Una misura è sempre ottenuta calcolando quante volte l'unità di misura (minuti o ore) "entra" nella quantità da misurare (nell'esempio, il ritardo del treno). Nella prima risposta l'unità di misura utilizzata è il minuto, nella seconda è l'ora e questo si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia **facendo la divisione** tra il ritardo (misurato in minuti) e l'ora espressa in minuti, per cui $90 : 60 \longrightarrow 1,5$.
+Una misura è sempre ottenuta calcolando quante volte l'unità di misura (minuti o ore) "entra" nella quantità da misurare (nell'esempio, il ritardo del treno). Nella prima risposta l'unità di misura utilizzata è il minuto, nella seconda è l'ora e la misura si fa calcolando quante volte $60$ minuti "entrano" in $90$ minuti, ossia **facendo la divisione** tra il ritardo (misurato in minuti) e l'ora espressa in minuti, per cui $90 : 60 \longrightarrow 1,5$.
 
 #### ESEMPIO 3
 
@@ -60,19 +60,25 @@ Come si vede, cambiando l'unità di misura cambia anche misura della quantità d
 
 #### ESEMPIO 4
 
-In un problema compare la frase seguente: "Maria ha $15$ anni ed ha la metà degli anni **di** sua madre". Cosa indica la frazione "metà" (ossia "un mezzo")?
+Un fumatore fuma un pacchetto e mezzo di sigarette al giorno. Se in un pacchetto ci sono $20$ sigarette ed una stecca di sigarette contiene $10$ pacchetti, quante stecche si fuma al giorno? quante sigarette?
 
-La frazione indica la misura degli anni di Maria **in rapporto a** quelli di sua madre, ossia utilizzando l'età della madre come unità di misura, ed in questo caso la misura è $\dfrac{1}{2}$, in numero decimale $0,5$ (ricordare che la quantità che sta dopo il "di", "del", "della" etc. è al denominatore!). Usando parole diverse possiamo dire che il rapporto tra gli anni di Maria e quelli di sua madre deve essere $\dfrac{1}{2}$, ed allora quanti saranno gli anni della madre di Maria?
-
-Chiederselo equivale a chiedersi per cosa dobbiamo dividere $15$ per avere come risultato $0,5$, e la risposta è $30$.    $\bullet$
+Per misurare il consumo di sigarette in stecche bisogna dividere il consumo, in pacchetti, per una stecca, anche questa misurata in pacchetti, cioè $1,5:10 \longrightarrow 0,15$ stecche.  Per misurare la stessa cosa in sigarette, abbiamo che un pacchetto misura $20$ sigarette e un pacchetto e mezzo misurerà $30$ sigarette.    $\bullet$
 
 #### ESEMPIO 5
 
-Ci sono due coniugi, Antonio e Maria ed uno ha molti più capelli dell'altro; diciamo che Antonio ha un quarto dei capelli che ha Maria. Chi dei due ha più capelli?
+In un problema compare la frase seguente: "Maria ha $15$ anni ed ha la metà degli anni **di** sua madre". Cosa indica la frazione "metà" (ossia "un mezzo")?
 
-Maria ha più capelli di Antonio; il problema ci dice che la "misura" dei capelli di Antonio **in rapporto a** quelli di Maria è $\dfrac{1}{4}$, che è meno di uno. Sarebbe la stessa cosa dire che Maria ha quattro volte i capelli di Antonio, ed allora $4$ sarebbe la misura dei capelli di Maria **in rapporto a** quelli di Antonio.
+La frazione indica la misura degli anni di Maria **in rapporto a** quelli di sua madre, ossia utilizzando l'età della madre come unità di misura, ed in questo caso la misura è $\dfrac{1}{2}$, in numero decimale $0,5$. Usando parole diverse, possiamo dire che il rapporto tra gli anni di Maria e quelli di sua madre deve essere $\dfrac{1}{2}$, ed allora quanti saranno gli anni della madre di Maria?
 
-Nono sappiamo quanti capelli hanno Maria ed Antonio, ma sappiamo che se Maria avesse $2\;000$ capelli, Antonio ne avrebbe un quarto, cioè $500$, mentre se Antonio avesse $1\;000$ capelli, Maria ne avrebbe $4\;000$.    $\bullet$
+Chiederselo equivale a chiedersi per cosa dobbiamo dividere $15$ per avere come risultato $0,5$, e la risposta è $30$.    $\bullet$
+
+#### ESEMPIO 6
+
+Ci sono due coniugi, Antonio e Maria ed uno ha molti più capelli dell'altro. Se Antonio ha un quarto dei capelli che ha Maria, chi dei due ha più capelli?
+
+Maria ha più capelli di Antonio; il problema ci dice che la "misura" dei capelli di Antonio **in rapporto a** quelli di Maria è $\dfrac{1}{4}$, che è meno di uno. Sarebbe la stessa cosa dire che Maria ha quattro volte i capelli di Antonio, ed allora $4$ sarebbe la misura dei capelli di Maria **in rapporto a** quelli di Antonio.
+
+Non sappiamo quanti capelli hanno Maria ed Antonio, ma sappiamo che se Maria avesse $2\;000$ capelli, Antonio ne avrebbe un quarto, cioè $500$, mentre se Antonio avesse $1\;000$ capelli, Maria ne avrebbe $4\;000$.    $\bullet$
 
 
 
@@ -88,9 +94,9 @@ $\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
 
 Usare la frazione come divisione significa che in tutti i casi in cui la divisione è espressa con "due punti" (notazione lineare), la stessa si può anche esprimere con una linea di frazione. Vediamo alcuni esempi.
 
-#### ESEMPIO 6
+#### ESEMPIO 7
 
-Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare, senza trasformarla in decimale, è come scrivere il numero razionale $\dfrac{3}{4}$; anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Come si vede, la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare, cioè quella di raggruppare ii termini dell'espressione da dividere e quelli per cui viene divisa. Ulteriori esempi sono i seguenti.
+Scrivere la divisione (o rapporto) $3 : 4$ in notazione lineare, senza trasformarla in decimale, è come scrivere il numero razionale $\dfrac{3}{4}.$ Anche scrivere il rapporto $(5 - 2) : (8 - 4)$ è come scrivere $\dfrac{5-2}{8-4}$, che di per se non è un numero razionale finché non  eseguiamo le operazioni ed otteniamo $\dfrac{5-2}{8-4} \longrightarrow \dfrac{3}{4}$. Come si vede, la linea di frazione orizzontale, oltre a rappresentare la divisione, ha una funzione analoga alle le parentesi nella notazione lineare, cioè quella di raggruppare ii termini dell'espressione da dividere e quelli per cui viene divisa. Ulteriori esempi sono i seguenti.
 
 L'espressione $\dfrac{2}{3} \cdot \dfrac{1+ 2 \cdot 3}{5}$ in notazione lineare si esprime come $2:3 \cdot (1 + 2 \cdot 3):5$.
 
@@ -100,7 +106,7 @@ Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazi
 
 #### Forma normale delle frazioni
 
-Il rapporto tra due numeri interi può essere positivo o negativo e la forma **normale** (o canonica) di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$
+Il rapporto tra due numeri interi (positivi e/o negativi), può essere positivo o negativo e la forma **normale** (o canonica) di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$ e $+\dfrac{-3}{4}$.
 
 #### ESEMPIO 7
 
