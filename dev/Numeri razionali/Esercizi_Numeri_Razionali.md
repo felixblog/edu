@@ -54,7 +54,7 @@ La mamma di Pierino compra una scatola da $4$ uova e Pierino ne mangia $2$. Quan
 2. Seconda risposta: mezza scatola (numero frazionario).
 
 Le risposte sono entrambe corrette, perché **misurano la stessa quantità di uova mangiate** che però viene indicata in modo diverso: nella prima risposta l'unità di misura è l'uovo, nel secondo è la scatola (da $4$ uova).
-Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. 
+Per avere la seconda risposta dobbiamo misurare le $2$ uova mangiate in scatole, e per farlo rapportiamo la parte mangiata all'unità di misura, la scatola, usando per entrambe le quantità l'uovo, che è la quantità più piccola, in modo da avere in entrambi i casi due numeri interi, $2$ e $4$, che diventano $\dfrac{2}{4}$, ossia $\dfrac{1}{2}$. Possiamo quindi dire che in due uova "entra" mezza scatola di uova.
 
 Come si vede, cambiando l'unità di misura cambia anche misura della quantità di uova mangiate, che passa da numero intero a frazione. Se la scatola fosse stata di $6$ uova avremmo avuto $\dfrac{2}{6}$ ossia le uova mangiate sarebbero state $\dfrac{1}{3}$ di scatola.     $\bullet$
 
@@ -62,7 +62,7 @@ Come si vede, cambiando l'unità di misura cambia anche misura della quantità d
 
 Un fumatore fuma un pacchetto e mezzo di sigarette al giorno. Se in un pacchetto ci sono $20$ sigarette ed una stecca di sigarette contiene $10$ pacchetti, quante stecche si fuma al giorno? quante sigarette?
 
-Per misurare il consumo di sigarette in stecche bisogna dividere il consumo, in pacchetti, per una stecca, anche questa misurata in pacchetti, cioè $1,5:10 \longrightarrow 0,15$ stecche.  Per misurare la stessa cosa in sigarette, abbiamo che un pacchetto misura $20$ sigarette e un pacchetto e mezzo misurerà $30$ sigarette.    $\bullet$
+Per misurare il consumo di sigarette in stecche bisogna dividere il consumo, in pacchetti, per una stecca, anche questa misurata in pacchetti, cioè $1,5:10 \longrightarrow 0,15$ stecche.  Per misurare la stessa cosa in sigarette, abbiamo che un pacchetto misura $20$ sigarette, un pacchetto e mezzo misurerà $30$ sigarette ed una sigaretta entra in $30$ sigarette trenta volte.    $\bullet$
 
 #### ESEMPIO 5
 
@@ -893,7 +893,7 @@ b) SECONDA MODALITA': Costruisci una tabella con le istruzioni riportate di segu
 
 ## UNITA' 7: Potenze con le frazioni
 
-Le potenze con le frazioni si calcolano in due modi diversi. La prima è applicando la definizione:  $\left(\dfrac{3}{4}\right)^{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{3}{4} \longrightarrow \dfrac{9}{16}$. La seconda è applicando una trasformazione con la proprietà della "potenza di un rapporto" che è il rapporto di due potenze: $\left(\dfrac{3}{4}\right)^{2} \longrightarrow \dfrac{3^2}{4^2} \longrightarrow \dfrac{9}{16}$.
+Le potenze con le frazioni si possono calcolare in due modi diversi con gli stessi risultati. La prima è applicando la definizione:  $\left(\dfrac{3}{4}\right)^{2} \longrightarrow \dfrac{3}{4} \cdot \dfrac{3}{4} \longrightarrow \dfrac{9}{16}$. La seconda è applicando una trasformazione con la proprietà della "potenza di un rapporto" che è il rapporto di due potenze: $\left(\dfrac{3}{4}\right)^{2} \longrightarrow \dfrac{3^2}{4^2} \longrightarrow \dfrac{9}{16}$.
 
  
 
@@ -980,7 +980,7 @@ $\dfrac{3}{4} \cdot 1_h = \dfrac{3}{4} \cdot 60 \;1_{min}$, e calcolando i prodo
 
 Quanto dura, in ore, una fila di $10$ minuti?
 
-Possiamo schematizzare il problema come $? \; 1_h = 10\; 1_{min}$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione di base che conosciamo tra le ore ed i minuti: $1_h=60\; 1_{min}$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo **le ore equivalenti ad un minuto** dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;1_h = \dfrac{\cancel{60}^1}{\cancel{60}_1}\;1_{min}$ cioè $\dfrac{1}{60}\;1_h = 1_{min}$, ossia un minuto equivale ad un sessantesimo di ora (che riscritto in decimale è $ 1_{min} \approx 0.0166\;1_h$).
+Possiamo schematizzare il problema come $? \; 1_h = 10\; 1_{min}$ e cercare il numero da mettere al posto del punto interrogativo. Come prima, partiamo dalla relazione di base che conosciamo tra le ore ed i minuti: $1_h=60\; 1_{min}$; i minuti che ci interessano sono $10$ e non $60$, per cui cerchiamo **le ore equivalenti ad un minuto** dividendo tutto per $60$ in modo da avere sul lato destro $1$ (la misura in ore di una durata lunga un minuto): $\dfrac{1}{60}\;1_h = \dfrac{\cancel{60}^1}{\cancel{60}_1}\;1_{min}$ cioè $\dfrac{1}{60}\;1_h = 1_{min}$, ossia un minuto equivale ad un sessantesimo di ora (che riscritto in decimale è $1_{min} \approx 0.0166\;1_h$).
 
 A questo punto moltiplichiamo per $10$ sia a sinistra che a destra:
 
@@ -1035,6 +1035,14 @@ d) $\dfrac{15}{4}\;1_{anno} = 15\;1_{trim}$
 e) $15\;1_{trim} \Rightarrow \dfrac{15}{4}\;1_{anno} \approx 3.75\;1_{anno}$.
 
 In conclusione $15$ trimestri sono $3.75$ anni.     $\bullet$
+
+
+
+#### ESEMPIO 5
+
+Il mio telefono cellulare ha una memoria RAM di $12$ Gigabyte ed una memoria interna di $512$ Gigabyte. Se una fotografia ha una dimensione media di $256$ Kilobyte, quante fotografie posso, al massimo, archiviare nella memoria interna?
+
+Un Gigabyte corrisponde ad un milione di Kilobyte, ossia $1_{GB} = 1\;000\;000\;1_{KB}$, per cui abbiamo che $512\;1_{GB} = 512\;000\;000\;1_{KB}$ e dividendo la memoria interna per $256$: $\dfrac{512\;000\;000}{256} = 2\;000\;000$ di foto.    $\bullet$
 
 
 
