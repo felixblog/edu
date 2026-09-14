@@ -13,7 +13,7 @@ Come facciamo a scrivere la regola che per calcolare l'area bisogna moltiplicare
 
 Non possiamo usare dei numeri specifici perché la regola vale per tutti i triangoli, quindi indichiamo la lunghezza della base di un triangolo qualsiasi (tanto deve valere per tutti!) con una lettera, ad esempio $a$, e con un'altra lettera, ad esempio $b$, l'altezza dello stesso triangolo. Allora l'area del triangolo sarà calcolata con le operazioni indicate dall'espressione letterale $\dfrac{a \cdot b}{2}$.
 
-Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri che misurano la effettiva lunghezza della base e della altezza di un triangolo specifico ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
+Essendo presenti delle lettere, non possiamo calcolare nulla prima di aver sostituito ad $a$ ed a $b$ i numeri che misurano la effettiva lunghezza della base e della altezza di un triangolo specifico, ma l'espressione è comunque importante perché ci dice quali operazioni dobbiamo fare per calcolare l'area se conosciamo due altre quantità di un triangolo.
 
 Le lettere servono quindi a specificare come calcolare certe quantità, in questo caso l'area, conoscendone altre, in questo caso base ed altezza, da cui le prime dipendono: ogni lettera occupa il posto di uno ed un solo numero, che sarà sostituito alla lettera quando vorremo utilizzare l'espressione in un caso concreto.  
 
@@ -272,7 +272,7 @@ Diciamo infatti che:
 
 Questa operazione di somma si dice anche **semplificazione**, perché con essa sostituiamo, ad una espressione che ha due monomi ed una somma algebrica, una espressione costituita da un solo monomio, e quindi più semplice.
 
-$\underbracket{-3x \overset{\overset{+/-}\downarrow}\ +2x}$ $\longrightarrow \underline{-x}$
+$\underbrace{-3x \overset{\overset{+/-}\downarrow}\ +2x}$ $\longrightarrow \underline{-x}$
 
 La somma di due monomi **non** simili **non** è però un singolo monomi ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
@@ -596,7 +596,7 @@ c) $c +( -a + ab)(-3)$
 
 d) $c +(+3a - 3ab)$  il segno $+$ scompare con la moltiplicazione per $+1$;
 
-e) $c +3a - 3ab$      $ \bullet$
+e) $c +3a - 3ab$      $\bullet$
 
 
 
@@ -604,7 +604,7 @@ Provare ad eseguire ciascuno degli esempi in GEOGEBRA con il comando $Semplifica
 
 $Semplifica(c -a\cdot(1 - b)\cdot(-3))$  &#9166;
 
-$\Longrightarrow -3ab + 3a + c $
+$\Longrightarrow -3ab + 3a + c$
 
 
 
@@ -838,7 +838,7 @@ a) $\dfrac{4x^2-2x}{4x^2}$
 
 b) $\dfrac{2x(2x-1)}{4x^2}$
 
-c) $\dfrac{2x-1}{2x}$.    $ \bullet$
+c) $\dfrac{2x-1}{2x}$.    $\bullet$
 
 #### ESEMPIO 2
 
@@ -848,7 +848,7 @@ a) $\dfrac{2a-2}{5a-5}$
 
 b) $\dfrac{2(a-1)}{5(a-1)}$
 
-c) $\dfrac{2}{5}$.    $ \bullet$
+c) $\dfrac{2}{5}$.    $\bullet$
 
 
 

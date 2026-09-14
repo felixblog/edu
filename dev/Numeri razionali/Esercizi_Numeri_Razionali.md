@@ -62,7 +62,7 @@ Come si vede, cambiando l'unità di misura cambia anche misura della quantità d
 
 Un fumatore fuma un pacchetto e mezzo di sigarette al giorno. Se in un pacchetto ci sono $20$ sigarette ed una stecca di sigarette contiene $10$ pacchetti, quante stecche si fuma al giorno? quante sigarette?
 
-Per misurare il consumo di sigarette in stecche bisogna dividere il consumo, in pacchetti, per una stecca, anche questa misurata in pacchetti, cioè $1,5:10 \longrightarrow 0,15$ stecche.  Per misurare la stessa cosa in sigarette, abbiamo che un pacchetto misura $20$ sigarette, un pacchetto e mezzo misurerà $30$ sigarette ed una sigaretta entra in $30$ sigarette trenta volte.    $\bullet$
+Per misurare il consumo di sigarette in stecche bisogna dividere il consumo, in pacchetti, per una stecca, anche questa misurata in pacchetti, cioè $1,5:10 \longrightarrow 0,15$ stecche.  Per misurare la stessa cosa in sigarette, abbiamo che un pacchetto misura $20$ sigarette, un pacchetto e mezzo misurerà $30$ sigarette ed una sigaretta entra in $30$ sigarette trenta volte.    $\bullet$
 
 #### ESEMPIO 5
 
@@ -910,7 +910,7 @@ b) Calcola il valore delle seguenti espressioni applicando le proprietà delle p
 
 1. $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2$;
 1. $\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6$;
-1. $ \left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$.
+1. $\left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$.
 
 
 
@@ -919,7 +919,7 @@ b) Calcola il valore delle seguenti espressioni applicando le proprietà delle p
 a)  Individua quante e quali frazioni ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \dfrac{529}{25} = \left(\dfrac{23}{5}\right)^2]$
-2. $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}; $     $[R. \dfrac{7}{9}]$
+2. $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}$;     $[R. \dfrac{7}{9}]$
 
 b)  Calcola il valore delle seguenti espressioni contenenti potenze.
 
@@ -946,13 +946,13 @@ d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\ri
 
 a) Semplifica le seguenti espressioni usando la definizione di esponente negativo
 
-1. $12^{-2}$;     $11^{-2}$;     $(-4)^{-1}$;     $(-8)^{-2}$;     $ 3\cdot 4^{-1} + 2\cdot 4^{-2}$
+1. $12^{-2}$;     $11^{-2}$;     $(-4)^{-1}$;     $(-8)^{-2}$;     $3\cdot 4^{-1} + 2\cdot 4^{-2}$
 
 2. $\dfrac{1}{5^{-3}}$;     $\dfrac{1}{3^{-3}}$;     $\dfrac{2^{-4}}{3^{-1}}$;     $\dfrac{7^{-2}}{2^{-3}}$ .
 
 b) Scrivi i numeri seguenti in notazione decimale
 
-1. $0.51\cdot 10^{-3}$;     $0.07\cdot 10^3$;     $2.37\cdot 10^{-4}$;     $ 0.012\cdot 10^4$.
+1. $0.51\cdot 10^{-3}$;     $0.07\cdot 10^3$;     $2.37\cdot 10^{-4}$;     $0.012\cdot 10^4$.
 
 
 
@@ -1042,7 +1042,7 @@ In conclusione $15$ trimestri sono $3.75$ anni.     $\bullet$
 
 Il mio telefono cellulare ha una memoria RAM di $12$ Gigabyte ed una memoria interna di $512$ Gigabyte. Se una fotografia ha una dimensione media di $256$ Kilobyte, quante fotografie posso, al massimo, archiviare nella memoria interna?
 
-Un Gigabyte corrisponde ad un milione di Kilobyte, ossia $1_{GB} = 1\;000\;000\;1_{KB}$, per cui abbiamo che $512\;1_{GB} = 512\;000\;000\;1_{KB}$ e dividendo la memoria interna per $256$: $\dfrac{512\;000\;000}{256} = 2\;000\;000$ di foto.    $\bullet$
+Un Gigabyte corrisponde ad un milione di Kilobyte, ossia $1_{GB} = 1\;000\;000\;1_{KB}$, per cui abbiamo che $512\;1_{GB} = 512\;000\;000\;1_{KB}$ e dividendo la memoria interna per $256$: $\dfrac{512\;000\;000}{256} = 2\;000\;000$ di foto.    $\bullet$
 
 
 
