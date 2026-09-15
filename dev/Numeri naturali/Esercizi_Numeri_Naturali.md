@@ -19,11 +19,15 @@ La ***divisione o rapporto*** è l'operazione che ci permette di dividere un ins
 
 Il primo numero (nell'esempio il $12$) è chiamato ***dividendo***,  il secondo (il $3$) ***divisore*** ed il risultato è chiamato anche ***quoziente***. 
 
-La divisione serve anche a trovare uno dei due fattori di una moltiplicazione quando conosciamo l'altro ed il risultato. Nell'esempio di prima, se abbiamo $5$ studenti che in totale portano $45$ libri e tutti portano lo stesso numero di libri, quanti libri porta ciascuno?
+Importante anche il fatto che la divisione ci dice "quante volte" il divisore "entra" nel dividendo, ossia, nell'esempio precedente, quante volte il $3$ entra nel $12$, e la risposta è $4$ volte. Utilizziamo questo modo di concepire la divisione quando dobbiamo riempire, ad esempio una damigiana di $10$ litri di vino con bottiglie di vino da $2$ litri: quante bottiglie di vino possiamo mettere nella damigiana?
+
+La risposta è "quante ce ne entrano", cioè $10 : 2 \longrightarrow 5$.
+
+La divisione serve anche a trovare uno dei due fattori di una moltiplicazione quando conosciamo l'altro ed il risultato. Se abbiamo $5$ studenti che in totale portano $45$ libri e tutti portano lo stesso numero di libri, quanti libri porta ciascuno?
 
 Bisogna calcolare $45 : 5 \longrightarrow 9$. La stessa cosa se sappiamo che i libri sono $45$ ed ogni studente porta $9$ libri: per sapere quanti sono gli studenti bisogna dividere $45 : 9 \longrightarrow 5$ studenti. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per $4$; se le gambe sono $100$ le pecore sono $100 : 4 \longrightarrow 25$.  
 
-Come per la sottrazione, non sempre il risultato della divisione di due numeri naturali è un numero naturale: se i bambini dell'esempio precedente delle caramelle fossero $5$, non sarebbe possibile dividere $12$ caramelle tra $5$ bambini in parti uguali senza "rompere" qualche caramella, per cui il risultato di $12 : 5$ non è un numero naturale.
+Come per la sottrazione, non sempre il risultato della divisione di due numeri naturali è un numero naturale: se i bambini dell'esempio precedente delle caramelle fossero $5$, non sarebbe possibile dividere $12$ caramelle tra $5$ bambini in parti uguali senza "rompere" qualche caramella, per cui il risultato di $12 : 5$ non è un numero naturale. Analogamente se la damigiana contenesse $11$ litri, non potremmo riempirla con un numero intero di bottiglie.
 
 Ultima importante osservazione, il risultato della divisione, cioè **il quoziente, è l'unico numero che moltiplicato per il divisore mi da il dividendo**. Questa proprietà della divisione la ritroveremo anche nella divisione tra numeri interi, tra frazioni e tra qualsiasi altra tipologia di numero che incontreremo. 
 
@@ -47,7 +51,7 @@ Le operazioni si eseguono man mano che si trovano, leggendo da sinistra verso de
 
 Nell'espressione $8 · 12 + 5$ la prima operazione che si incontra leggendo è il prodotto tra $8$ e $12$. Vediamo però che il $12$ fa parte anche della somma $12$ + $5$ e quindi si dice "condiviso" tra il prodotto e la somma. Quando c'è un numero condiviso tra moltiplicazione e somma, il numero è ***conteso*** tra le due operazioni e si pone il problema se usarlo nel prodotto o nella somma. 
 
-La soluzione è che il $12$ deve essere usato nella moltiplicazione, perché la moltiplicazione ha la **priorità nell'uso dei numeri contesi con la somma**. La prima operazione da eseguire sarà il prodotto e quindi la sequenza corretta delle operazioni da fare sarà:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
+La soluzione è che il $12$ deve essere usato nella moltiplicazione, perché la moltiplicazione ha la **priorità nell'uso dei numeri contesi con la somma**. La prima operazione da eseguire sarà il prodotto e quindi la sequenza corretta delle operazioni da fare sarà:  $8 \overset{(a)}\cdot 12 \overset{(b)}+ 5 \longrightarrow 96 \overset{(b)} + 5 \longrightarrow 101$.
 
 Nell'espressione $5 + 8 · 12$ la prima operazione che si incontra leggendo è la somma, e l'$8$ è conteso tra la somma e la moltiplicazione. Poiché la moltiplicazione ha la priorità nell'uso del numero, l'$8$ dovrà essere impiegato nella moltiplicazione. La somma quindi non può essere eseguita per prima (mancherebbe il secondo numero!) e verrà eseguita per seconda **sul risultato del prodotto**. 
 
