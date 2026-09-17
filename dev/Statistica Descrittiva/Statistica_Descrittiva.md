@@ -140,7 +140,7 @@ E' importante notare che le variabili sono <u>quantitative</u> non solo quando h
 
 Le variabili si possono inoltre analizzare per livello di misura, ossia per il dettaglio della loro misura del fenomeno, ed abbiamo i livelli seguenti.
 
-- **Livello Nominale**, se date due modalità è possibile solo affermare se queste sono uguali o diverse, e non è definibile alcuna relazione d'ordine, ad esempio la variabile "Sesso" con le modalità 'M' e 'F' o "Religione", con i valori 'Cattolica', 'Islamica' ecc., oppure i nomi e cognomi di persone o gli indirizzi;
+- **Livello Nominale**, se date due modalità è possibile solo affermare se queste sono uguali o diverse, e non è significativa alcuna relazione d'ordine, ad esempio la variabile "Sesso" con le modalità 'M' e 'F' o "Religione", con i valori 'Cattolica', 'Islamica' ecc., oppure i nomi e cognomi di persone o gli indirizzi;
 - **Livello Ordinale**, ossia qualitativi o quantitativi ove sia significativo un qualche ordinamento naturale (ad esempio, il carattere titolo di studio, o grado nella gerarchia militare, via via più elevato). Per questi dati, anche quando sono quantitativi, non è confrontabile tra di loro una differenza di livello: ad esempio non si può dire quale salto tra i livelli diploma/laurea e licenza elementare/media sia il maggiore;
 - **Livello di Intervallo**, ossia quantitativi per i quali è confrontabile tra di loro una **differenza di livello** tra il maggiore ed il minore, come ad esempio per le date o per la temperatura: l'incremento tra 5 e 10 gradi è maggiore di quello tra 17 e 21 gradi di temperatura.
 - **Livello di Rapporto** Sono dati quantitativi per i quali ha significato il rapporto tra di loro, e quindi la percentuale. Lo zero significa assenza della misura, come ad esempio nel caso di Reddito, Peso, Età. Sono misure a tutti gli effetti.
@@ -340,7 +340,7 @@ $$
 \end{array}
 $$
 
-La classe di lavoratori più numerosa è quella dei Maturi.  $\bullet$
+La classe di lavoratori più numerosa è quella dei Maturi.   $\bullet$
 
 
 
@@ -950,8 +950,6 @@ $$
 
 
 
-
-
 ## UNITA' 4: Grafici dei Dati Statistici
 
 Le rappresentazioni graﬁche hanno lo scopo di illustrare, mediante linee, segmenti, simboli convenzionali ecc., le RELAZIONI tra due insiemi di dati presenti in una tabella con almeno due colonne: la prima che diremo delle **etichette** e le altre che diremo **serie**.
@@ -1150,7 +1148,7 @@ $$
 
 ![Spesa-Spettacoli](img/Spesa-Spettacoli.png)
 
-I dati sono stati ordinati in modo decrescente rispetto alla spesa prima di essere riportati nel grafico.   $\bullet$
+I dati sono stati ordinati in modo decrescente rispetto alla spesa prima di essere riportati nel grafico.    $\bullet$
 
 
 
@@ -1191,6 +1189,8 @@ $$
 
 
 ![Vendite-Area-Geografica](img/Vendite-Area-Geografica.png)
+
+​    $\bullet$
 
 
 

@@ -21,27 +21,27 @@ L'insieme delle vocali, che chiameremo $V$, è rappresentato graficamente dalla 
 
 
 
-Rappresentare un insieme per elencazione significa scrivere la sequenza degli elementi identificati dai loro nomi univoci (in un insieme ***non ci possono essere due elementi uguali***) separati da virgola e racchiusi tra parentesi graffe.
+Rappresentare un insieme per elencazione significa scrivere la sequenza degli elementi identificati dai loro nomi univoci (in un insieme ***non ci possono essere due elementi uguali***) separati da virgola e racchiusi tra parentesi graffe.     $\bullet$
 
 #### ESEMPIO 2
 
-Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, o, u\}$; se vogliamo dare il nome $V$ all'insieme (di solito i nomi degli insiemi sono maiuscoli) scriviamo $V = \{ a, e, i, o, u\}$.
+Per rappresentare per elencazione l'insieme delle vocali scriviamo $\text{\{ a, e, i, o, u\}}$; se vogliamo dare il nome $V$ all'insieme (di solito i nomi degli insiemi sono maiuscoli) scriviamo $V = \text{\{ a, e, i, o, u\}}$.
 
 
 
 Una proprietà è ***caratteristica*** degli elementi di un insieme se consente di individuare tali oggetti tra tutti gli altri che non sono elementi dell'insieme. Una proprietà di un oggetto si esprime attraverso una frase che sarà vera per tutti gli oggetti che possiederanno quella proprietà e falsa per gli altri.
 
-Solitamente la proprietà si esprime utilizzando una frase generica, che riguarda un oggetto qualsiasi $x$ e che dovrà essere vera se al posto dell'oggetto generico abbiamo un oggetto specifico, come nell'esempio seguente.
+Solitamente la proprietà si esprime utilizzando una frase generica, che riguarda un oggetto qualsiasi $x$ e che dovrà essere vera se al posto dell'oggetto generico abbiamo un oggetto specifico, come nell'esempio seguente.     $\bullet$
 
 #### ESEMPIO 3
 
-Presupponendo che tutti sappiano, tra le lettere dell'alfabeto, quali sono le vocali, la proprietà caratteristica dell'insieme delle vocali è data dalla proposizione: "$\text{`x' e' una vocale}$", perché sostituendo alla $\text{x}$ una vocale ed un'altra lettera abbiamo:
+Presupponendo che tutti sappiano, tra le lettere dell'alfabeto, quali sono le vocali, la proprietà caratteristica dell'insieme delle vocali è data dalla proposizione: $\text{x è una vocale}$", perché sostituendo alla $\text{x}$ una vocale ed un'altra lettera abbiamo:
 
-$\text{"x" e' una vocale}, \{x = u\} \longrightarrow \text{"u" e' una vocale} \longrightarrow True$.
+$\text{x e' una vocale, \{x = "u"\}} \longrightarrow \text{"u" è una vocale} \longrightarrow True$.
 
-$\text{`x' e' una vocale}, \{x = b\} \longrightarrow \text{`b' e' una vocale} \longrightarrow False$.
+$\text{x e' una vocale, \{x = "b"\}} \longrightarrow \text{"b" è una vocale} \longrightarrow False$.
 
-Quindi l'insieme delle vocali è indicato come $V = \{x: x \; \acute{e} \; una \; vocale\}$ che si legge "V è ***l'insieme delle x tali che...*** x è una vocale". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
+Quindi l'insieme delle vocali è indicato come $V = \text{\{x: x è una vocale\}}$ che si legge "V è ***l'insieme delle x tali che...*** x è una vocale". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
 
 
 
@@ -55,7 +55,7 @@ Un sottoinsieme di un insieme $I$ è un insieme formato da alcuni elementi di $I
 $$
 V \sub L
 $$
-che è vero.
+che è vero.     $\bullet$
 
 
 
@@ -65,45 +65,48 @@ a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi $A$,
 
 b) Rappresenta per elencazione i seguenti insiemi:  
 
-1. I naturali non maggiori di 8;  
-2. I naturali dispari compresi fra 30 e 40;  
-3. I multipli pari di 7 minori di 40;  
-4. I divisori di 42;  
-5. I divisori primi di 42:  
+1. I naturali non maggiori di $8$;  
+2. I naturali dispari compresi fra $30$ e $40$;  
+3. I multipli pari di $7$ minori di $40$;  
+4. I divisori di $42$;  
+5. I divisori primi di $42$:  
 6. I giorni della settimana che iniziano per «b»;  
 7. Le vocali della parola «farfalla»
 
 c) Rappresenta per elencazione i seguenti insiemi:  
-1. L’insieme A dei numeri del tipo $3n$, con n ∈ {0, 2, 4, 6};  
-2. L’insieme B dei numeri del tipo $2n + 1$, con n ∈ {0, 1, 2, 3, 4};  
-3. L’insieme C dei numeri del tipo $-2n$, con n ∈ {-2, -1, 0, 1, 2};  
-4. L’insieme D dei numeri del tipo $\dfrac{3n + 1}{3}$, con n ∈ {-3, -2, -1, 1, 2, 3}.
+1. L’insieme $A$ dei numeri del tipo $3n$, con $n ∈ {0, 2, 4, 6}$;  
+2. L’insieme $B$ dei numeri del tipo $2n + 1$, con $n ∈ {0, 1, 2, 3, 4}$;  
+3. L’insieme $C$ dei numeri del tipo $-2n$, con $n ∈ {-2, -1, 0, 1, 2}$;  
+4. L’insieme $D$ dei numeri del tipo $\dfrac{3n + 1}{3}$, con $n ∈ {-3, -2, -1, 1, 2, 3}$.
 
 #### Laboratorio
 
 a) Risolvi il punto a) dell'esercizio prendendo ad esempio i comandi GEOGEBRA riportati di seguito:
 
-​		$Unico(Suddividi(''rododendro'',\{''''\})))$ &#9166; 
+​	$\text{Unico(Suddividi("rododendro",\{""\})))}$ &#9166; 
+
+​	$\longrightarrow \text{\{"d", "e", "n", "o", "r"\}}$
+
 
 b) Risolvi il punto c) dell'esercizio prendendo ad esempio i comandi GEOGEBRA riportati di seguito:
 
-1. $Compatta(3\cdot n, n, \{0, 2, 4, 6\} )$ &#9166; 
-2. $Compatta(2 \cdot n + 1, n, \{0, 1, 2, 3, 4\} )$ &#9166; 
+1. $\text{Compatta(3} \cdot \text{n, n, \{0, 2, 4, 6\} )}$ &#9166; 
+2. $\text{Compatta(2} \cdot \text{n + 1, n, \{0, 1, 2, 3, 4\} )}$ &#9166; 
 
 
 
 ### ESERCIZIO 1.2 - Rappresentazione mediante proprietà caratteristica
 
 a) Rappresenta gli insiemi seguenti mediante una proprietà caratteristica dei loro elementi.  
-1. $A = \{martedi, mercoledi\}$;  
-2. $B = \{Nord, Sud, Est, Ovest\}$;  
+1. $A = \text{\{martedi, mercoledi\}}$;  
+2. $B = \text{\{Nord, Sud, Est, Ovest\}}$; 
 3. $C = \{\alpha, \beta, \gamma\}$;  
-4. $D = \{a, e, i, o, u\}$;  
+4. $D = \text{\{a, e, i, o, u\}}$;  
 5. $E = \{5, 7, 9, 11, 13\}$;  
 6. $F = \{8, 9, 10, 11, 12, 13, 14, 15\}$;  
-8. $G = \{12, 16, 20, 24, 28, 32\}$;  
-9. I numeri interi pari minori o uguali a 16;  
-10. I numeri naturali compresi fra 10 e 30;  
+8. $G = \text{\{12, 16, 20, 24, 28, 32\}}$;  
+9. I numeri interi pari minori o uguali a $16$;  
+10. I numeri naturali compresi fra $10$ e $30$;  
 11. Gli interi negativi.
 
 
@@ -111,22 +114,25 @@ a) Rappresenta gli insiemi seguenti mediante una proprietà caratteristica dei l
 ### ESERCIZIO 1.3 - Dalla proprietà caratteristica all'elencazione
 
 a) Scrivi la rappresentazione per elencazione dei seguenti insiemi.  
-1. $A = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «avvocato»\}$;  
-2. $B = \{x: x \; \acute{e} \; una \; vocale\}$;  
-3. $C = \{x: x \; \acute{e} \; il \; nome \; di \; un \; mese \; che \; inizia \; con \; la \; lettera \; «g»\}$;  
+1. $A = \text{\{x: x è una lettera della parola «avvocato»\}}$;  
+2. $B = \text{\{x: x è una vocale\}}$;  
+3. $C = \text{\{x: x è il nome di un mese che inizia con la lettera «g»\}}$;  
 
 b) Trova il numero degli elementi degli insiemi riportati di seguito.  
 
-1. $A = \{x: x \; \acute{e} \; un \; pianeta \; del \; sistema \; solare \}$;  
-2. $B = \{x: x \; \acute{e} \; una \; provincia \; del \; Lazio \}$;
-5. $C = \{x: 2x - 5 = -x + 7 + 3x\}$.
+1. $A = \text{\{x: x è un pianeta del sistema solare \}}$;  
+2. $B = \text{\{x: x è una provincia del Lazio \}}$;
+5. $C = \text{\{x: 2x - 5 = -x + 7 + 3x\}}$.
 
 #### Laboratorio
 
 a) Risolvi il punto b.2 dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $B = \{''Roma'', ''Latina'', ''Rieti'', ''Viterbo'', ''Frosinone''\}$ &#9166; 
-2. $ContaSe(true, B)$  &#9166;
+1. $\text{B = \{"Roma", "Latina", "Rieti", "Viterbo", "Frosinone"\}}$ &#9166; 
+
+2. $\text{ContaSe(True, B)}$  &#9166;
+
+   $\longrightarrow 5$
 
 b) Utilizzando le istruzioni GEOGEBRA del punto precedente, risolvi il punto a) dell'esercizio.
 
@@ -134,38 +140,44 @@ b) Utilizzando le istruzioni GEOGEBRA del punto precedente, risolvi il punto a) 
 
 ### ESERCIZIO 1.4 - I Sottoinsiemi
 
-a) Considera i seguenti insiemi: $A = \{SERA\}$, $B = \{S, E, R, A\}$, $C = \{A, R, S, E\}$, $D = \{R, E, S, A\}$, $E = \{RESA\}$.  
+a) Considera i seguenti insiemi: $A = \text{\{SERA\}}$, $B = \text{\{S, E, R, A\}}$, $C = \text{\{A, R, S, E\}}$, $D = \text{\{R, E, S, A\}}$, $E = \text{\{RESA\}}$.  
 1. Descrivi a parole i loro elementi  
 2. Quali insiemi sono uguali tra loro?  
 
-b) Scrivi tutti i sottoinsiemi dell’insieme $A = \{a, b, c\}$.
+b) Scrivi tutti i sottoinsiemi dell’insieme $A = \text{\{a, b, c\}}$.
 
 c) Scrivi tre parole le cui lettere formino tre insiemi $A$, $B$, $C$, tali che $A \subset B \subset C$.
 
 d) Stabilisci se gli insiemi $A$, $B$, $C$ sono sottoinsiemi dell’insieme $D$:  
 
-1. $A = \{x \in \mathbb{N}: x \; \acute{e} \; multiplo \; di \; 5\}$, $B = \{x \in  \mathbb{Z}: x \ge -1\}$, $C = \{5, 10, 15\}$, $D = \mathbb{N}$.  
-2. $A = \{x: x \; \acute{e} \; una \; lettera \; di \; «diario»\}$, $B = \{x: x \; \acute{e} \; una \; lettera \; di \; «ardore»\}$, $C = \{x: x \; \acute{e} \; una \; lettera \; di \; «orda»\}$, $D = \{x: x \; \acute{e} \; una \; lettera \; di \; «radio»\}$.
+1. $A = \text{\{x}  \in \mathbb{N}: \text{x è multiplo di 5\}}$, $B = \text{\{x} \in  \mathbb{Z}: \text{x} \ge -1\}$, $C = \{5, 10, 15\}$, $D = \mathbb{N}$.  
+2. $A = \text{\{x: x è una lettera di «diario»\}}$, $B = \text{\{x: x è una lettera di «ardore»\}}$, $C = \text{\{x: x è una lettera di «orda»\}}$, $D = \text{\{x: x è una lettera di «radio»\}}$.
 
 #### Laboratorio
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $Unico(\{''SERA''\}) == Unico(\{''S'',  ''E'', ''R'', ''A''\})$  &#9166;
-2. $Unico(\{''S'', ''E'', ''R'', ''A''\}) == Unico(\{''A'', ''R'', ''S'', ''E''\})$  &#9166;
-3. $Unico(\{''A'', ''R'', ''S'', ''E''\}) == Unico(\{''R'', ''E'', ''S'', ''A''\})$  &#9166;
-4. $Unico(\{''R'', ''E'', ''S'', ''A''\}) == Unico(''RESA'')$  &#9166;
+1. $\text{Unico(\{"SERA"\})}$  &#9166;
+
+   $\longrightarrow 1$
+   
+1. $\text{Unico(\{"S", "E", "R", "A"\})}$  &#9166;
+
+   $\longrightarrow 4$
 
 b) Risolvi il punto d.2) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $A=Unico(Suddividi(''diario'',\{''''\})))$ &#9166;
-2. $B=Unico(Suddividi(''ardore'',\{''''\})))$ &#9166;
-3. $C=Unico(Suddividi(''orda'',\{''''\}))$ &#9166;
-4. $D=Unico(Suddividi(''radio'',\{''''\})))$&#9166; 
-5. $A \subseteq B$  &#9166; 
-6. $A \subseteq D$  &#9166; 
-7. $A \subset D$  &#9166; 
+1. $\text{Unico(Suddividi("diario",\{""\})))}$ &#9166;   Aggiungi Etichetta
 
+   $\longrightarrow \text{l1 = \{"a", "d", "i", "o", "r"\}}$
+
+2. $\text{Unico(Suddividi("ardore",\{""\})))}$ &#9166;   Aggiungi Etichetta
+
+   $\longrightarrow \text{l2 = \{"a", "d", "e", "o", "r"\}}$
+
+3. $l1 \subseteq l2$  &#9166; 
+
+​	$\longrightarrow \text{false}$
 
 
 ## UNITA' 2: Operazioni tra insiemi
@@ -265,7 +277,7 @@ a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comand
 a) Dati gli insiemi $A$ e $B$, rappresenta il prodotto $A \times B$ per elencazione e con un diagramma cartesiano nei casi seguenti.
 
 1. $A = \{a, b\}$ e $B = \{4, 6\}$
-2. $A = \{x ∈ N: 1 \lt x \;e \; x \le 4 \}$ e $B = \{x ∈ N: 5 \lt x \;e \; x \lt 10 \}$
+2. $\text{A = \{x ∈ N: 1 < x \;e \; x <= 4 \}}$ e $B = \{x ∈ N: 5 \lt x \;e \; x \lt 10 \}$
 3. $A = \{Milan, Inter, Sampdoria\}$ e $B = \{Roma, Lazio, Juventus\}$
 
 b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e quelli dell’insieme B.
@@ -299,7 +311,7 @@ Se quindi esprimiamo la relazione utilizzando una frase generica, che riguarda d
 $$
 \{(0,0), (2,1), (-2, -1)\} = \{(x,y): x \; è \; il \; doppio \; di \; y\}
 $$
-cioè $S = \{(x,y): R(x,y)\}$.
+cioè $S = \{(x,y): R(x,y)\}$.     $\bullet$
 
 
 
@@ -327,7 +339,7 @@ $$
 
 <img src="img/Relazioni-cartesiana.png" alt="Relazioni-cartesiana" style="zoom:15%;" />
 
-
+​     $\bullet$
 
 
 
@@ -336,6 +348,8 @@ $$
 
 
 <img src="img/Sagittale.png" alt="Sagittale" style="zoom:80%;" />
+
+​     $\bullet$
 
 
 
@@ -353,6 +367,7 @@ $$
 \end{array}
 $$
 
+​     $\bullet$
 
 #### ESEMPIO 5: Rappresentazione ad Albero
 

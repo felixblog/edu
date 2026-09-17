@@ -23,6 +23,8 @@ Importante anche il fatto che la divisione ci dice "quante volte" il divisore "e
 
 La risposta è "quante ce ne entrano", cioè $10 : 2 \longrightarrow 5$.
 
+Non sempre un numero "entra" in un altro un numero preciso di volte: mentre $2$ entra nel $4$ esattamente $2$ volte, $2$ entra nel $3$ una sola volta con il resto di $1$; entrerebbe nel $3$ una volta e mezzo, ossia il $2$ più mezzo $2$, cioè $1$, ma per ora non ci occupiamo delle frazioni di numeri e diciamo che la divisione tra $3$ e $2$ non si può fare tra i numeri interi e quindi il risultato non è un numero naturale ma decimale.
+
 La divisione serve anche a trovare uno dei due fattori di una moltiplicazione quando conosciamo l'altro ed il risultato. Se abbiamo $5$ studenti che in totale portano $45$ libri e tutti portano lo stesso numero di libri, quanti libri porta ciascuno?
 
 Bisogna calcolare $45 : 5 \longrightarrow 9$. La stessa cosa se sappiamo che i libri sono $45$ ed ogni studente porta $9$ libri: per sapere quanti sono gli studenti bisogna dividere $45 : 9 \longrightarrow 5$ studenti. C'è anche un famoso esempio di questo tipo che dice: per contare il numero delle sue pecore un pastore sdraiato conta il numero delle gambe che vede e poi divide per $4$; se le gambe sono $100$ le pecore sono $100 : 4 \longrightarrow 25$.  

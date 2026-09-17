@@ -434,10 +434,10 @@ Come si può vedere anche questa di tabella ha una caratteristica particolare: l
 ### ESERCIZIO 3.1 - Tabelle di verità, tautologie e contraddizioni
 
 a) Costruisci le tabelle di verità delle proposizioni seguenti.
-1. $ \lnot p \to q$
+1. $\lnot p \to q$
 2. $\lnot q \to \lnot p$;
 3. $p \lor (p \land q)$;  
-4. $ \lnot ( \lnot p \land \lnot q)$;
+4. $\lnot ( \lnot p \land \lnot q)$;
 5. $\lnot (\lnot p \lor \lnot q)$
 6. $(p \to q) \land p$.
 
@@ -445,7 +445,7 @@ b) Individua tra le proposizioni seguenti le tautologie e le contraddizioni.
 
 1. $p \to ( q \to p);$  
 2. $p \to (\lnot p \lor q);$  
-3. $p \lor \lnot \lnot p; $  
+3. $p \lor \lnot \lnot p$;  
 4. $(p \to q) \land (\lnot p \lor q);$  
 5. $(p \land q) \land (p \lor q);$  
 6. $(p \to q) \land p) \to q$.
