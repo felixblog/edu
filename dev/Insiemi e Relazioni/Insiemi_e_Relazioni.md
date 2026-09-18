@@ -167,17 +167,26 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 b) Risolvi il punto d.2) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $\text{Unico(Suddividi("diario",\{""\})))}$ &#9166;   Aggiungi Etichetta
+1. $\text{Unico(Suddividi("diario",\{""\})))}$ &#9166;   
 
-   $\longrightarrow \text{l1 = \{"a", "d", "i", "o", "r"\}}$
+2. Aggiungi Etichetta
 
-2. $\text{Unico(Suddividi("ardore",\{""\})))}$ &#9166;   Aggiungi Etichetta
+3. $\text{l1 = Unico(Suddividi("diario",\{""\})))}$
 
-   $\longrightarrow \text{l2 = \{"a", "d", "e", "o", "r"\}}$
+   $\longrightarrow \text{\{"a", "d", "i", "o", "r"\}}$
 
-3. $l1 \subseteq l2$  &#9166; 
+4. $\text{Unico(Suddividi("ardore",\{""\})))}$ &#9166;   
+
+5. Aggiungi Etichetta
+
+6. $\text{l2 = Unico(Suddividi("ardore",\{""\})))}$
+
+   $\longrightarrow \text{\{"a", "d", "e", "o", "r"\}}$
+
+7. $l1 \subseteq l2$  &#9166; 
 
 ​	$\longrightarrow \text{false}$
+
 
 
 ## UNITA' 2: Operazioni tra insiemi
@@ -205,12 +214,12 @@ $$
 ### ESERCIZIO 2.1 - Intersezione ed Unione
 
 a) Per ogni coppia di insiemi determina l’unione e l’intersezione, e rappresentale per elencazione e mediante un diagramma di Eulero-Venn:  
-1. $A = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «tegame»\}$, $B = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «gomito»\}$.
-2. $C = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «attesa»\}$, $D = \{x: x \; \acute{e} \; una \; lettera \; della \; parola \; «paese»\}$.  
+1. $A = \text{\{x: x è una lettera della  parola «tegame»\}}$, $B = \text{\{x:  x è una lettera della  parola «gomito»\}}$.
+2. $C = \text{\{x:  x è una lettera della  parola «attesa»\}}$, $D = \text{\{x:  x è una lettera della  parola «paese»\}}$.  
 
 b) Per ciascuna coppia di insiemi $A$ e $B$ determina l'insieme $A \cap B$:  
-1. $A = \{x: x \; \acute{e} \; un \; multiplo \; di \; 4\}$ e $B = \{x: x \; \acute{e} \; un \; multiplo \; di \; 6\}$;  
-2. $A = \{x: x \; \acute{e} \; un \; divisore \; di \; 8\}$ e $B = \{x: x \; \acute{e} \; un \; divisore \; di \; 12\}$.  
+1. $A = \text{\{x: x è un multiplo di 4\}}$ e $B = \text{\{x: x è un multiplo di 6\}}$;  
+2. $A = \text{\{x: x è un divisore di 8\}}$ e $B = \text{\{x: x è un  divisore di 12\}}$.  
 
 c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$, calcola i risultati delle seguenti espressioni:  
 1. $A \cap B \cap C$  
@@ -220,10 +229,29 @@ c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$,
 
 a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $A=Unico(Suddividi(''tegame'',\{''''\})))$ &#9166;   $B=Unico(Suddividi(''gomito'',\{''''\})))$ &#9166;   
-2. $C=Unico(Suddividi(''attesa'',\{''''\}))$ &#9166;   $D=Unico(Suddividi(''paese'',\{''''\})))$ &#9166; 
-3. $Unione(A, B)$  &#9166; 
-4. $Interseca(A, B)$  &#9166;  
+1. $\text{Unico(Suddividi("tegame",\{""\})))}$ &#9166;   
+
+2. Aggiungi Etichetta
+
+3. $\text{l1 = Unico(Suddividi("tegame",\{""\})))}$
+
+   $\longrightarrow \text{\{"a", "e", "g", "m", "t"\}}$
+
+4. $\text{Unico(Suddividi("gomito",\{""\})))}$
+
+5. Aggiungi Etichetta
+
+6. $\text{l2 = Unico(Suddividi("gomito",\{""\})))}$
+
+   $\longrightarrow \text{\{"g", "i", "m", "o", "t"\}}$
+
+7. $\text{Unione(l1, l2)}$  &#9166; 
+
+   $\longrightarrow \text{\{"a", "e", "g", "i", "m", "o", t"\}}$
+
+8. $\text{Interseca(l1, l2)}$  &#9166;
+
+   $\longrightarrow \text{\{g", "m", t"\}}$
 
 
 
@@ -243,7 +271,7 @@ d) In una sala sono presenti 62 persone, ognuna delle quali ha almeno una delle 
 
 ### ESERCIZIO 2.3 - Differenza e Complemento
 
-a) Dati $A = \{x: \; x \;è \;residente \;in \;Veneto \}$ e $B = \{x: \;x \;è \;residente \;a \;Venezia\}$, descrivi a parole $A \setminus B$ e $B \setminus A$.
+a) Dati $A = \text{\{x: è residente in Veneto \}}$ e $B = \text{\{x: x è residente a Venezia\}}$, descrivi a parole $A \setminus B$ e $B \setminus A$.
 
 b) Dati gli insiemi $A$, $B$, $C$, formati rispettivamente dalle lettere delle parole «colore», «sapore», «odore», determina la differenza fra tutte le possibili coppie di insiemi.
 
