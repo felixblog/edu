@@ -113,21 +113,21 @@ Se ci sono parentesi, i numeri dentro le parentesi devono essere utilizzati prio
 
 #### Quando si tolgono le parentesi?
 
-Le parentesi si tolgono quando al loro interno non ci sono più operazioni da fare, cioè quando contengono un solo numero. La parentesi scompare nel momento in cui il numero tra parentesi, che viene utilizzato come un qualsiasi altro numero senza parentesi, viene utilizzato in una operazione limitrofa, ossia immediatamente fuori dalla parentesi stessa.
+Le parentesi si tolgono quando al loro interno non ci sono più operazioni da fare, cioè quando contengono un solo numero. La parentesi scompare nel momento in cui il numero tra parentesi, che viene utilizzato come un qualsiasi altro numero senza parentesi, viene utilizzato in una operazione immediatamente fuori dalla parentesi stessa, ossia limitrofa.
 
 L'esempio seguente chiarisce quanto detto, nel passaggio tra d) ed e).
 
 #### ESEMPIO 4
 
-a) $(2\overset{(a)}·4 + 7) + (2 + 8) : 2$;
+a) $(2\overset{\downarrow}·4 + 7) + (2 + 8) : 2$;
 
-b) $3 \cdot (\underline{8} \overset{(a)}+ 7) + (2 + 8) : 2$;
+b) $3 \cdot (\underline{8} \overset{\downarrow}+ 7) + (2 + 8) : 2$;
 
-c) $3 \cdot (\underline{15}) + (2 \overset{(a)}+ 8) : 2$;
+c) $3 \cdot (\underline{15}) + (2 \overset{\downarrow}+ 8) : 2$;
 
-d) $3 \overset{(a)}\cdot (15) + (\underline{10}) : 2$;
+d) $3 \overset{\downarrow}\cdot (15) + (\underline{10}) : 2$;
 
-e) $\underline{45} + (10) \overset{(a)}: 2$;
+e) $\underline{45} + (10) \overset{\downarrow}: 2$;
 
 f) $45 + \underline{5}$;
 
@@ -268,7 +268,7 @@ d) $6 − (15 : (2 + 3))$.
 
 Scrivi le espressioni  (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore.  
 
-a) Anna riceve dalla madre 8 euro e va ad acquistare 2 scatole di colori del costo di 3 euro l'una. Al ritorno si ferma dalla nonna che le regala 5 euro. Con quanto denaro arriva a casa Anna? $[R. \,\, 8 - 2 \cdot 3 + 5$,  $7 \,\, \texteuro]$  
+a) Anna riceve dalla madre 8 euro e va ad acquistare 2 scatole di colori del costo di 3 euro l'una. Al ritorno si ferma dalla nonna che le regala 5 euro. Con quanto denaro arriva a casa Anna? $[R. \,\, 8 - 2 \cdot 3 + 5$,  $7\text{ euro}]$  
 
 b) Roberta vuole offrire delle pizzette a degli amici. Ne ha già due ed al forno ne compra quattro volte tante. All'uscita del forno ne mangia una. Quante sono le pizzette rimaste? Se raggiunti i suoi due amici, divide le pizzette rimaste in parti uguali tra loro tre, quante ne toccano ciascuno? $[R. \,\, 2 + 2 \cdot 4 - 1, \,\, (2 + 2 \cdot 4 - 1):3, \,\, 3]$.  
 
@@ -403,11 +403,18 @@ f ) $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
 a) Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $Sostituisci(5 \cdot x,\; \{x = 50\})$&#9166;
+
+   $\longrightarrow 250$
+
 2. $Sostituisci(2 \cdot y, \; \{y = 32\})$&#9166;
+
+   $\longrightarrow 64$
 
 b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $Sostituisci(a-b,\; \{a = 10, b=7\})$&#9166;
+
+   $\longrightarrow 3$
 
 
 
@@ -424,7 +431,7 @@ La potenza è quindi una operazione, come la somma, la sottrazione etc., che non
 La potenza, quando condivide la base o l'esponente insieme ad altre operazioni un una espressione, **ha la massima priorità** di esecuzione. Vediamo alcuni esempi:
 
 1. $5 + 2^3 \longrightarrow 5 + 8 \longrightarrow 13$;  	prima si calcola la potenza e poi la somma.
-2. $5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;  	prima si calcola la potenza e poi la moltiplicazione.
+2. $5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;  	     prima si calcola la potenza e poi la moltiplicazione.
 3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
 4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;     prima si calcola l'esponente e poi il resto.
 
@@ -640,14 +647,27 @@ g) Scrivi tutti i divisori comuni ai numeri $18$ e 24.
 a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $ListaDivisori(6)$&#9166;
+
+   $\longrightarrow \{1, 2, 3, 6\}$
+
 2. $ListaDivisori(15)$&#9166;
+
+   $\longrightarrow \{1, 3, 5, 15\}$
+
 3. $ListaDivisori(18)$&#9166;
 
 b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $Successione(25k, \; k, \; 1, \; 4)$&#9166; 
+
+   $\longrightarrow \{25, 50, 75, 100\}$
+
 2. $Successione(40k, \; k, \; 1, \; 4)$&#9166; 
+
+   $\longrightarrow \{40, 80, 120, 160\}$
+
 3. $Successione(33k, \; k, \; 1, \; 4)$&#9166; 
+
 4. $Successione(6k, \; k, \; 1, \; 4)$&#9166; 
 
 c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
@@ -698,8 +718,15 @@ scomposizione in potenze di numeri primi.
 a) Risolvi il punto a) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $Fattorizza(25)$&#9166;
+
+   $\longrightarrow 5^2$
+
 2. $Fattorizza(40)$&#9166;
+
+   $\longrightarrow 2^3 \cdot 5$
+
 3. $Fattorizza(33)$&#9166;
+
 4. $Fattorizza(6)$&#9166;
 
 

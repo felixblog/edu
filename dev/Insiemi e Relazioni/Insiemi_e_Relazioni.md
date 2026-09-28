@@ -45,7 +45,7 @@ Quindi l'insieme delle vocali è indicato come $V = \text{\{x: x è una vocale\}
 
 
 
-Introduciamo ora il simbolo $\in$ che si legge "appartiene a". Con questo simbolo possiamo scrivere, riprendendo l'insieme delle vocali $V$, che $a \in V$, che si legge "a appartiene a $V$"e che è una formula vera. Invece $b \in V$ è falsa perché $b$ è una consonante e non appartiene a $V$. 
+Introduciamo ora il simbolo $\in$ che si legge "appartiene a". Riprendendo l'insieme delle vocali $V$, con questo simbolo possiamo scrivere che $a \in V$, che si legge "a appartiene a $V$"e che è una formula vera. Invece $b \in V$ è falsa perché $b$ è una consonante e non appartiene a $V$. 
 
 Se vogliamo affermare che $b$ non appartiene a $V$ possiamo usare il simbolo $\notin$ che si legge "non appartiene a", per cui $b \notin V$​ diventa una formula vera. 
 
@@ -83,15 +83,18 @@ c) Rappresenta per elencazione i seguenti insiemi:
 
 a) Risolvi il punto a) dell'esercizio prendendo ad esempio i comandi GEOGEBRA riportati di seguito:
 
-​	$\text{Unico(Suddividi("rododendro",\{""\})))}$ &#9166; 
+1. $\text{Unico(Suddividi("rododendro",\{""\})))}$ &#9166; 
 
 ​	$\longrightarrow \text{\{"d", "e", "n", "o", "r"\}}$
 
 
 b) Risolvi il punto c) dell'esercizio prendendo ad esempio i comandi GEOGEBRA riportati di seguito:
 
-1. $\text{Compatta(3} \cdot \text{n, n, \{0, 2, 4, 6\} )}$ &#9166; 
-2. $\text{Compatta(2} \cdot \text{n + 1, n, \{0, 1, 2, 3, 4\} )}$ &#9166; 
+1. Seleziona calcolatrice "Grafici";
+
+2. $\text{Compatta(3} \cdot \text{n, n, \{0, 2, 4, 6\} )}$ &#9166; 
+
+   $\longrightarrow \text{\{0, 6, 12, 18\}}$
 
 
 
@@ -195,19 +198,19 @@ Con gli insiemi è possibile fare delle operazioni, come ad esempio con la molti
 
 L'**unione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cup B$ formato dagli elementi che appartengono ad $A$ o a $B$; in simboli:
 $$
-A \cup B = \{x: x \in A \; oppure \;x \in B\}
+A \cup B = \{x: x \in A \text{ oppure } x \in B\}
 $$
 
 
 L'**intersezione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cap B$ formato dagli elementi che appartengono sia ad $A$ che a $B$:
 $$
-A \cup B = \{x: x \in A \; e \;x \in B\}
+A \cup B = \{x: x \in A \text{ e }x \in B\}
 $$
 
 
 La differenza tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \setminus B$ formato dagli elementi che appartengono ad $A$ ma non a $B$:
 $$
-A \setminus B = \{x: x \in A \; e \;x \notin B\}
+A \setminus B = \{x: x \in A \text{ e } x \notin B\}
 $$
 
 
@@ -258,14 +261,14 @@ a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comand
 
 ### ESERCIZIO 2.2 - Problemi su intersezione ed unione
 
-a) In una classe di 32 alunni, 18 giocano a calcio e 20 a pallavolo. Di essi, 16 praticano entrambi gli sport. Calcola quanti alunni non praticano ne’ il calcio ne’ la pallavolo.  
+a) In una classe di $32$ alunni, $18$ giocano a calcio e $20$ a pallavolo. Di essi, $16$ praticano entrambi gli sport. Calcola quanti alunni non praticano ne’ il calcio ne’ la pallavolo.  
 
-b) Un’indagine di mercato compiuta su 90 famiglie ha evidenziato che 59 possiedono il robot da cucina, 80 hanno il forno a microonde o il robot da cucina e 24 possiedono entrambi gli elettrodomestici.  
-Quante famiglie hanno solo il robot e quante solo il forno? Quante non possiedono nessuno di questi elettrodomestici? [R. 35; 21; 10]  
+b) Un’indagine di mercato compiuta su $90$ famiglie ha evidenziato che $59$ possiedono il robot da cucina, $80$ hanno il forno a microonde o il robot da cucina e $24$ possiedono entrambi gli elettrodomestici.  
+Quante famiglie hanno solo il robot e quante solo il forno? Quante non possiedono nessuno di questi elettrodomestici? $[R. 35; 21; 10]$  
 
-c) In un gruppo di 18 persone ciascuno porta almeno uno fra cappello, giacca e cravatta. Si sa che in 6 portano il cappello, in 9 la giacca e in 12 la cravatta. Due persone portano cappello e cravatta e nessuno porta cappello e giacca. Stabilisci quante persone hanno giacca e cravatta.  
+c) In un gruppo di $18$ persone ciascuno porta almeno uno fra cappello, giacca e cravatta. Si sa che in $6$ portano il cappello, in $9$ la giacca e in $12$ la cravatta. Due persone portano cappello e cravatta e nessuno porta cappello e giacca. Stabilisci quante persone hanno giacca e cravatta.  
 
-d) In una sala sono presenti 62 persone, ognuna delle quali ha almeno una delle caratteristiche seguenti: essere europei o essere studenti. Si sa che gli studenti non europei sono 12, che gli inglesi non studenti sono 8, che gli studenti europei non inglesi sono 22 e che gli europei non inglesi né studenti sono tanti quanti gli studenti inglesi. Determina il numero degli inglesi.
+d) In una sala sono presenti $62$ persone, ognuna delle quali ha almeno una delle caratteristiche seguenti: essere europei o essere studenti. Si sa che gli studenti non europei sono $12$, che gli inglesi non studenti sono $8$, che gli studenti europei non inglesi sono $22$ e che gli europei non inglesi né studenti sono tanti quanti gli studenti inglesi. Determina il numero degli inglesi.
 
 
 
@@ -286,17 +289,27 @@ Le informazioni fornite sono eccessive. Quante ne bastano?
 
 d) Determina descrivendolo a parole, il complementare dei seguenti insiemi rispetto all’insieme $U$ indicato.  
 
-1. $U = \{x: \;x \;è \;una \;lettera \;dell’alfabeto\}$, $A = \{x: \;x \;è \;una \;vocale\}$.  
-2. $U = \{x: \;x \;è \;un \;punto \;della \;superficie \;terrestre\}$, $A = \{x: \;x \;è \;un \;punto \;delle \;terre \;emerse\}$.
+1. $U = \text{\{x: x è una lettera dell’alfabeto\}}$, $A = \text{\{x: x è una vocale\}}$.  
+2. $U = \text{\{x: x è un punto della superficie terrestre\}}$, $A = \text{\{x: x è un punto delle terre emerse\}}$.
 
 #### Laboratorio
 
 a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito:
 
-1. $A=Unico(Suddividi(''colore'',\{''''\})))$ &#9166;
-2. $B=Unico(Suddividi(''sapore'',\{''''\})))$ &#9166;   
-3. $A \setminus B$  &#9166; 
-4. $B \setminus A$  &#9166; 
+1. $\text{Unico(Suddividi("colore",\{""\})))}$ &#9166;
+2. Aggiungi Etichetta
+3. $\text{l1 = Unico(Suddividi("colore",\{""\})))}$
+
+   $\longrightarrow \text{\{"c", "e", "l", "r"\}}$
+
+4. $\text{Unico(Suddividi("sapore",\{""\})))}$ &#9166;
+5. Aggiungi Etichetta
+6. $\text{l2 = Unico(Suddividi("sapore",\{""\})))}$
+
+   $\longrightarrow \text{\{"a", "e", "p", "r", "s"\}}$
+
+7. $l1 \setminus l2$  &#9166; 
+8. $l2 \setminus l1$  &#9166; 
 
 
 
@@ -305,8 +318,8 @@ a) Risolvi il punto b) dell'esercizio prendendo esempio dalla sequenza di comand
 a) Dati gli insiemi $A$ e $B$, rappresenta il prodotto $A \times B$ per elencazione e con un diagramma cartesiano nei casi seguenti.
 
 1. $A = \{a, b\}$ e $B = \{4, 6\}$
-2. $\text{A = \{x ∈ N: 1 < x \;e \; x <= 4 \}}$ e $B = \{x ∈ N: 5 \lt x \;e \; x \lt 10 \}$
-3. $A = \{Milan, Inter, Sampdoria\}$ e $B = \{Roma, Lazio, Juventus\}$
+2. $A = \{x ∈ N: 1 < x \text{ e } \; x \le 4 \}$ e $B = \{x ∈ N: 5 < x \text{ e } x < 10 \}$
+3. $A = \text{\{Milan, Inter, Sampdoria\}}$ e $B = \text{\{Roma, Lazio, Juventus\}}$
 
 b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e quelli dell’insieme B.
 
@@ -314,12 +327,7 @@ b) Dati i seguenti prodotti cartesiani, scrivi gli elementi dell’insieme A e q
 2. $B \times A =  \{(1, a), (2, a), (1, b), (2, b)\}$
 3. $A \times B = \{(+, a), (+ , b), (+, c), (+ , a), (- , b),  (-, c)\}$
 
-#### Laboratorio
 
-a) Risolvi il punto a) dell'esercizio prendendo esempio dalla sequenza di comandi GEOGEBRA riportata di seguito (utilizza una singola lettera minuscola al posto dei nomi delle squadre):
-
-1. $A=\{a, b\}$  &#9166;   $B=\{4, 6\}$  &#9166;
-2. $Compatta(Compatta((h,k),h,A), k, B\})$ &#9166;   
 
 
 
