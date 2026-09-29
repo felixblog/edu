@@ -23,7 +23,9 @@ Importante anche il fatto che la divisione ci dice "quante volte" il divisore "e
 
 La risposta è "quante ce ne entrano", cioè $10 : 2 \longrightarrow 5$.
 
-Non sempre un numero "entra" in un altro un numero preciso di volte: mentre $2$ entra nel $4$ esattamente $2$ volte, $2$ entra nel $3$ una sola volta con il resto di $1$; entrerebbe nel $3$ una volta e mezzo, ossia il $2$ più mezzo $2$, cioè $1$, ma per ora non ci occupiamo delle frazioni di numeri e diciamo che la divisione tra $3$ e $2$ non si può fare tra i numeri interi e quindi il risultato non è un numero naturale ma decimale.
+Non sempre un numero "entra" in un altro un numero preciso di volte: mentre $2$ entra nel $4$ esattamente $2$ volte, $2$ entra nel $3$ una sola volta con il resto di $1$; entrerebbe nel $3$ una volta e mezzo, ossia il $2$ più mezzo $2$, cioè $1$. Solo se il divisore "entra" nel dividendo un numero preciso di volte, ossia il resto è zero, diciamo che la divisione tra numeri naturali (cioè interi) si può fare, altrimenti, come nel caso di $3:2$ che fa $1$ con il resto di $1$, la divisione nell'ambito dei numeri naturali non si può fare perché il risultato esatto è $1,5$ che non è un numero naturale, ma un **numero decimale**.
+
+Quando facciamo la divisione tra numeri naturali parliamo di **divisione intera**, che normalmente ha un **risultato** ed un **resto**.
 
 La divisione serve anche a trovare uno dei due fattori di una moltiplicazione quando conosciamo l'altro ed il risultato. Se abbiamo $5$ studenti che in totale portano $45$ libri e tutti portano lo stesso numero di libri, quanti libri porta ciascuno?
 
@@ -264,6 +266,65 @@ d) $6 − (15 : (2 + 3))$.
 
 ## UNITA' 2: Dalle parole ai numeri
 
+#### A cosa servono le espressioni?
+
+Le espressioni sono **sequenze di operazioni** che indicano come fare un calcolo. Facciamo un esempio calcolando l'area di un triangolo.
+
+#### ESEMPIO 1
+
+Si sa che l'area di un triangolo come quello nella figura si calcola moltiplicando la lunghezza della sua base per la lunghezza dell'altezza e dividendo per $2$.
+
+<img src="img/Area-Triangolo.png" alt="Area-Triangoli"  />
+
+Per fare il calcolo possiamo eseguire le operazioni una per una:
+
+a) $10 \cdot 12 \longrightarrow 120$;
+
+b) $120 : 2 \longrightarrow 60$,
+
+oppure scrivere una espressione sintetica ce mette insieme la moltiplicazione e la divisione: $10 \cdot 12 :2$. Abbiamo quindi una espressione che ha tre numeri e due operazioni. Se la calcoliamo abbiamo:
+
+a) $10 \cdot 12 :2$;
+
+b) $120 : 2$;
+
+c) $60$.    $\bullet$
+
+
+
+#### ESEMPIO 2
+
+Un appartamento di $80$ metri quadri ha una cucina, bagno, salone due camere da letto ed un corridoio. La cucina misura $12$ metri quadri, le due camere da letto insieme fanno $25$ metri quadri, il bagno è di $8$ metri quadri, il salone è rettangolare, è lungo  $6$ metri ed è largo $5$. Quanto misura il corridoio?
+
+Possiamo fare il calcolo un passo alla volta: calcoliamo la superficie di ogni stanza che conosciamo, sommiamo le superfici e sottraiamo il risultato da $80$.
+$$
+\textbf{Superfici (senza corridoio)} \\
+\begin{array}{|l|c|}
+\hline
+\textbf{Stanza} & \textbf{Superficie} \\
+\hline
+\text{Cucina} & 12 \\
+\hline
+\text{Bagno}  & 8  \\
+\hline
+\text{Salone} & 30  \\
+\hline
+\text{Camere} & 25  \\
+\hline
+\text{TOTALE} & 75  \\
+\hline
+\end{array}
+$$
+Ed il corridoio sarà $80 - 75 \longrightarrow 5$ metri quadri.
+
+Per calcolare la superficie del corridoio possiamo alternativamente scrivere una espressione che ci da il suo valore:
+$$
+80 - (12 + 8 + 6 \cdot 5 + 25)
+$$
+Il risultato sarà sempre $5 \; m^2$.    $\bullet$
+
+
+
 ### ESERCIZIO 2.1 - Dalle parole ai numeri (II)
 
 Scrivi le espressioni  (**NON il solo risultato!**) che, utilizzando i dati contenuti nel testo, forniscono le soluzioni ai problemi seguenti e calcolane il valore.  
@@ -274,11 +335,11 @@ b) Roberta vuole offrire delle pizzette a degli amici. Ne ha già due ed al forn
 
 c) Una cuoca possiede 4 sacchetti di farina del peso di 1 kg ciascuno. Deve fare 7 dolci: nei primi 3 occorrono 350 g di farina per ciascuno e negli altri, 600 g di farina per ciascuno. Quanta farina consuma la cuoca? Quanta farina rimane? $[R. \,\, 350 \cdot 3 + 600 \cdot 4 \,g \,\, , 4000 - (350 \cdot 3 + 600 \cdot 4) \,g \,\, ,550 \, g]$  
 
-d) Se una azienda produce 600 unità di prodotto ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale è il suo profitto?  
+d) Se una azienda in un mese produce 600 borse ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale sarà il suo ricavo? Ed il suo profitto?  
 
 e) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 m di tela. La tela viene suddivisa in pezze da 32 m ciascuna. Quante pezze vengono prodotte giornalmente?  
 
-f) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro l'ora. Se fa un intervento che dura 4 ore, quanto pagherà il cliente?
+f) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro per ogni ora di intervento. Se fa una riparazione che dura 4 ore, quanto pagherà il cliente?
 
 g) Una famiglia sta imbottigliando della conserva di pomodoro. I barattoli sono tutti uguali ed hanno una capienza 750 grammi. Quanti barattoli serviranno per 18 Kg di conserva?
 
@@ -359,25 +420,51 @@ L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo l
 
 ## UNITA' 4: Numeri, lettere e sostituzioni
 
-Nelle espressioni possono comparire, oltre ai numeri, anche delle lettere. Ma cosa significa fare operazioni con le lettere?
+In matematica possiamo incontrare espressioni che contengono anche delle lettere. Vediamo un esempio.
+
+Si sa che l'area di un rettangolo si calcola moltiplicando la lunghezza della sua base per quella della sua altezza. 
+
+
+
+<img src="img/Rettangolo.png" alt="Rettangolo" style="zoom:80%;" />
+
+Il rettangolo in figura ha quindi area di $24$ unità. Questo vale per tutti i rettangoli, piccoli o grandi che siano, per cui, per scrivere che bisogna sempre fare questo calcolo, qualunque sia la lunghezza della base e dell'altezza, indichiamo con la lettera $b$ la lunghezza della base del rettangolo e con $h$ la lunghezza dell'altezza dello stesso rettangolo: l'area sarà calcolata da $b \cdot h$.
+
+
+
+<img src="img/Rettangoli.png" alt="Rettangoli" style="zoom:80%;" />
 
 Ovviamente non è possibile "fare" delle operazioni con le lettere, per cui una lettera che compare in una espressione è utilizzata per **indicare la posizione di un numero** che, quando dobbiamo calcolare l'espressione, deve essere **sostituito** alla lettera stessa. In pratica è come se la lettera indicasse un "buco" nell'espressione, che dovrà essere riempito da un numero quando dobbiamo calcolare l'espressione.
 
 #### ESEMPIO 1
 
-L'espressione $a+1$ non la possiamo "calcolare" finché non sostituiamo alla lettera $a$ un numero, ad esempio $3$ oppure $0$, cosicché, nel caso di 3, $a + 1$ diventa $3 + 1$ che a sua volta diventa 4. Analogamente  con $0$,  $a + 1$ diventa $0 + 1 \longrightarrow 1$.    $\bullet$
+L'espressione $b \cdot h$ non la possiamo "calcolare" finché non sostituiamo alla lettera $b$ un numero, ad esempio $8$, oppure $7$ ed alla lettera $h$ un altro numero, ad esempio $3$, cosicché $a \cdot b$ diventa $24$.    $\bullet$
 
 
 
-Usare le lettere al posto dei numeri è utile se vogliamo indicare quali operazioni fare per calcolare qualcosa. Ad esempio, l'area di tutti i rettangoli si calcola moltiplicando la lunghezza della loro base per quella della loro altezza. Se indichiamo con la lettera $b$ la lunghezza della base di un rettangolo e con $h$ la lunghezza dell'altezza dello stesso rettangolo, possiamo dire che, qualunque siano queste lunghezze, l'area sarà calcolata da $b \cdot h$.
+L'operazione di passare da $b \cdot h$ a $8 \cdot 3$ si chiama sostituzione, perché sostituiamo numeri a lettere e si indica con 
 
-Se dobbiamo calcolare l'area di un rettangolo con $b = 12$ ed $h = 5$, sostituiamo i numeri alle lettere nella espressione ed otteniamo $60$, scrivendo la sequenza seguente che si chiama **sostituzione**: $b \cdot h, \; \{b = 12, h = 5\} \longrightarrow 12 \cdot 5 \longrightarrow 60$.
+a) $b \cdot h, \; \{b = 8, h = 3\}$;
+
+b) $8 \cdot 3$;
+
+c) $24$.
 
 Le espressioni in cui compare almeno una lettera si chiamano **espressioni letterali**, quelle dove ci sono solo numeri **espressioni numeriche**. Se una stessa lettera compare più di una volta, dobbiamo sostituire alla lettera il numero che abbiamo scelto **tutte le volte che la lettera compare**. Se ci sono due lettere diverse, ogni lettera avrà il suo numero da sostituire.
 
 #### ESEMPIO 2
 
-Se in  $1 + x \cdot (x - 2)$ sostituiamo $3$ ad $x$, dobbiamo sostituirlo per ogni $x$ ed otteniamo $1 + 3 \cdot (3-2) \longrightarrow 4$.   
+Se in  $1 + x \cdot (x - 2)$ sostituiamo $3$ ad $x$, dobbiamo sostituirlo per ogni $x$ ed otteniamo
+
+a) $1 + x \cdot (x - 2), \; \{x = 3\}$
+
+b) $1 + 3 \cdot (3-2)$;
+
+c) $1 + 3 \cdot (1)$;
+
+d) $1 + 3$;
+
+e) $4$.   
 
 Se invece abbiamo l'espressione $1 + a \cdot (a - b)$, possiamo decidere di sostituire $a$ con $10$ e, ad esempio, $b$ con $3$, ottenendo: $1 + 10 \cdot (10- 3)$ che fa $71$.    $\bullet$
 
@@ -397,6 +484,8 @@ d) $a^{2} − b^{2}, \enspace \{a = 1, b = 1\};$     $a^{2} − b^{2}, \enspace 
 e) $2 \cdot a \cdot (b + 1) - 6ab , \enspace \{a = 3, b = 0\};$
 
 f ) $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
+
+
 
 #### Laboratorio GEOGEBRA
 
@@ -431,7 +520,7 @@ La potenza è quindi una operazione, come la somma, la sottrazione etc., che non
 La potenza, quando condivide la base o l'esponente insieme ad altre operazioni un una espressione, **ha la massima priorità** di esecuzione. Vediamo alcuni esempi:
 
 1. $5 + 2^3 \longrightarrow 5 + 8 \longrightarrow 13$;  	prima si calcola la potenza e poi la somma.
-2. $5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;  	     prima si calcola la potenza e poi la moltiplicazione.
+2. $5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;  	     prima si calcola la potenza e poi la moltiplicazione.
 3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
 4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;     prima si calcola l'esponente e poi il resto.
 
