@@ -618,17 +618,19 @@ Vediamo due modi per descrivere (o ***rappresentare***) un insieme:
 
 Rappresentare un insieme in modo grafico significa disegnare un cerchio o ellisse (che rappresenta l'insieme) con all'interno gli elementi rappresentati con dei punti ed il loro nome (univoco) o dal nome soltanto.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 L'insieme delle vocali, che chiameremo $V$, è rappresentato graficamente dalla figura seguente.
 
 <img src="img\venn-1.png" alt="venn-1" style="zoom:10%;" />
 
+​     $\bullet$
+
 Rappresentare un insieme per elencazione significa scrivere la sequenza degli elementi identificati dai loro nomi univoci (in un insieme ***non ci possono essere due elementi uguali***) separati da virgola e racchiusi tra parentesi graffe.
 
-#### ESEMPIO
+#### ESEMPIO 2
 
-Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, o, u\}$. Se vogliamo dare il nome $V$ all'insieme (di solito i nomi degli insiemi sono maiuscoli) scriviamo $V = \{ a, e, i, o, u\}$.
+Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, o, u\}$. Se vogliamo dare il nome $V$ all'insieme (di solito i nomi degli insiemi sono maiuscoli) scriviamo $V = \{ a, e, i, o, u\}$.     $\bullet$
 
 
 
@@ -640,9 +642,7 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 1. I naturali non maggiori di $8$;  
 2. I naturali dispari compresi fra $30$ e $40$;  
-3. I multipli pari di $7$ minori di $40$;  
-4. I divisori di $42$;  
-5. I divisori dispari di 4$2$:  
+3. I giorni feriali della settimana;  
 6. I giorni della settimana che iniziano per «b»;  
 7. Le vocali della parola «farfalla»
 
@@ -696,7 +696,7 @@ Se prendiamo due numeri e troviamo i loro divisori potrebbe essere che ci siano 
 
 Una cosa analoga si può dire dei multipli di due numeri: se ci sono numeri che sono multipli di entrambi, questi si chiamano ***multipli comuni*** e sono gli elementi dell'*<u>intersezione</u>* dell'insieme dei multipli del primo e del secondo numero.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Consideriamo i due numeri $12$ e $8$. I divisori di $12$ sono $\{1,2,3,4,6,12\}$ e quelli di $8$ sono $\{1,2, 4, 8\}$. I divisori comuni sono $\{1, 2, 4\}$. $1$ è sempre divisore di qualunque numero, così come il numero stesso. Se indichiamo il primo insieme con $A$ ed il secondo con $B$, abbiamo che $A \cap B = \{1, 2, 4\}$ .
 
