@@ -426,7 +426,7 @@ Si sa che l'area di un rettangolo si calcola moltiplicando la lunghezza della su
 
 
 
-<img src="img/Rettangolo.png" alt="Rettangolo" style="zoom:80%;" />
+<img src="img/Rettangolo_.png" alt="Rettangolo" style="zoom:80%;" />
 
 Il rettangolo in figura ha quindi area di $24$ unità. Questo vale per tutti i rettangoli, piccoli o grandi che siano, per cui, per scrivere che bisogna sempre fare questo calcolo, qualunque sia la lunghezza della base e dell'altezza, indichiamo con la lettera $b$ la lunghezza della base del rettangolo e con $h$ la lunghezza dell'altezza dello stesso rettangolo: l'area sarà calcolata da $b \cdot h$.
 
@@ -438,7 +438,7 @@ Ovviamente non è possibile "fare" delle operazioni con le lettere, per cui una 
 
 #### ESEMPIO 1
 
-L'espressione $b \cdot h$ non la possiamo "calcolare" finché non sostituiamo alla lettera $b$ un numero, ad esempio $8$, oppure $7$ ed alla lettera $h$ un altro numero, ad esempio $3$, cosicché $a \cdot b$ diventa $24$.    $\bullet$
+L'espressione $b \cdot h$ non la possiamo "calcolare" finché non sostituiamo alla lettera $b$ un numero, ad esempio $8$, oppure $7$ ed alla lettera $h$ un altro numero, ad esempio $3$, cosicché $a \cdot b$ diventa $24$.    $\bullet$
 
 
 
