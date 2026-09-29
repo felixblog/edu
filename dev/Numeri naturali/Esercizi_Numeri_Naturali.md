@@ -509,9 +509,9 @@ b) Risolvi il punto c) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 ## UNITA' 5: Potenze ed altre notazioni non lineari
 
-In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $ 2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
+In matematica è molto frequente utilizzare espressioni in cui sono presenti solo moltiplicazioni di un numero per se stesso come ad esempio $2 \cdot 2 \cdot 2 \longrightarrow 8$ oppure $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 81$. A queste moltiplicazioni che si ripetono è stato dato il nome di potenze.
 
-Un **<u>potenza</u>** è una operazione che consiste in una moltiplicazione di un numero per se stesso: è un modo abbreviato per scrivere più moltiplicazioni. Gli esempi precedenti si scrivono $ 2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
+Un **<u>potenza</u>** è una operazione che consiste in una moltiplicazione di un numero per se stesso: è un modo abbreviato per scrivere più moltiplicazioni. Gli esempi precedenti si scrivono $2 \cdot 2 \cdot 2 \longrightarrow 2^3$ e $3 \cdot 3 \cdot 3 \cdot 3 \longrightarrow 3^4$. Il numero che viene moltiplicato si chiama **<u>base</u>** ed il numero delle volte che viene moltiplicato si chiama **<u>esponente</u>** e si scrive in piccolo in alto a destra della base. 
 $$
 base \rightarrow 3^{4 \leftarrow esponente}
 $$
