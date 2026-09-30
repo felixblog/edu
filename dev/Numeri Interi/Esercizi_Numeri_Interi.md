@@ -12,7 +12,7 @@ E' molto utile mettere in corrispondenza I numeri interi con alcuni punti di una
 
 Questo disegno ci da un modo (o ***sistema di riferimento***), per indicare la ***posizione*** di ogni punto.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Consideriamo il problema seguente. Su una lunga strada dritta ci sono delle buche, ed una squadra di operai su un piccolo camion deve riparare il manto stradale, come nella figura seguente.
 
@@ -58,11 +58,15 @@ b) decrescente i numeri $+8, -3, 0, -5, +4, -11.$
 
 #### Laboratorio GEOGEBRA
 
-Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calcolatrice ALGEBRA):
+Risolvi i punti a) e b) dell'esercizio con le istruzioni GEOGEBRA seguenti:
 
-1. $Ordina(\{-6,9,-1,7,-2,-4\})$&#9166;
-2. $l = Ordina(\{+8, -3, 0, -5, +4, -11\})$&#9166;
-3. $Inverti(l)$&#9166;
+1. $l = Ordina(\{+8, -3, 0, -5, +4, -11\})$&#9166;
+
+   $\longrightarrow \{-11, -5, -3, 0, 4, 8\}$
+
+2. $Inverti(l)$&#9166;
+
+   $\longrightarrow \{8, 4, 0, -3, -5, -11\}$
 
 
 
@@ -246,7 +250,7 @@ L'ordine di esecuzione delle operazioni è da sinistra verso destra ed una opera
 
 La priorità maggiore è quella delle **potenze**, immediatamente dopo ci sono **prodotti e rapporti** allo stesso livello e ancora dopo c'è la **somma algebrica**.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Nell'espressione $-8 · 12 + 5$ abbiamo tre numeri e due operazioni, un prodotto ed una somma algebrica. Il numero $-8$ fa parte solo del prodotto, il numero $+5$ fa parte solo della somma algebrica mentre il numero $12$ fa parte sia del prodotto che della somma algebrica, ossia è condiviso.
 
@@ -472,7 +476,7 @@ Nell'unità 1 abbiamo visto come, se il nostro mondo è limitato agli spostament
 
 Se in un piano disegniamo due rette perpendicolari, una orizzontale ed una verticale, indicando su ciascuna retta la posizione dei numeri interi a partire dal punto di incrocio, che diciamo ***origine degli assi***, come fatto nell'unità 1, abbiamo la figura seguente, detta ***sistema di riferimento cartesiano nel piano***.
 
-#### ESEMPIO
+#### ESEMPIO 1
 
 Consideriamo il problema seguente. In una città ci sono delle buche sulle strade ed una squadra di operai su un piccolo camion deve riparare il manto stradale. Per semplicità facciamo finta che le strade della città siano tutte dritte, alcune orizzontali ed alcune verticali, come a Manhattan, e che le buche siano negli incroci, come nella figura seguente.
 
@@ -779,7 +783,7 @@ b) Alle 6 del pomeriggio la temperatura era di 5 gradi. Per le successive 4 ore 
 
 c) Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 3 colonne con, in ogni riga, la data del sedici del mese, il numero di sequenza del mese del pagamento e l'importo, come nell'esempio seguente.
 
-#### Esempio
+#### ESEMPIO 1
 
 L'abbonato non paga per due mesi consecutivi e poi salda tutto il debito entro il la scadenza del terzo mese 
 $$
