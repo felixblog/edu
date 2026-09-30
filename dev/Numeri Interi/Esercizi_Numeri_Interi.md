@@ -258,9 +258,7 @@ Quando c'è un numero condiviso tra moltiplicazione e somma si pone il problema 
 
 a) $\underbrace{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12} \overset{\overset{(b)}{\downarrow}}{\phantom{,}} + 5$
 
-$\downarrow$
-
-b) $-\underline{96} \overset{\downarrow}{\phantom{,}} +5$
+b) $-\underline{96} \overset{\overset{(b)}{\downarrow}}{\phantom{,}} +5$
 
 c) $-91$
 
@@ -270,7 +268,7 @@ La sequenza delle operazioni sarà allora:
 
 a) $5 \overset{\overset{(b)}{\downarrow}}{\phantom{,}} \underbrace{-8 \overset{\overset{(a)}{\downarrow}}{\cdot} 12}$
 
-b) $5 \overset{\downarrow}{\phantom{,}} \;  \underline{-96}$
+b) $5 \overset{\overset{(b)}{\downarrow}}{\phantom{,}} \;  \underline{-96}$
 
 c) $-91$   $\bullet$
 
@@ -284,9 +282,9 @@ Nell'espressione $-8 · (12 + 5)$, analoga alla precedente ma con presenza di pa
 
 La prima operazione che è possibile eseguire è quindi la somma algebrica dentro la parentesi. La sequenza delle operazioni da eseguire sarà:
 
-a) $-8 \overset{\overset{(b)}\downarrow}{\phantom{,}} \cdot (\underbrace{12 \overset{\overset{(a)}\downarrow}{\phantom{,}} +5})$
+a) $-8 \overset{\overset{(b)}{\downarrow}} \cdot (\underbrace{12 \overset{\overset{(a)}\downarrow}{\phantom{,}} +5})$
 
-b) $-8 \cdot (\underline{17})$
+b) $-8 \overset{\overset{(b)}{\downarrow}} \cdot (\underline{17})$
 
 c) $-136$.
 
