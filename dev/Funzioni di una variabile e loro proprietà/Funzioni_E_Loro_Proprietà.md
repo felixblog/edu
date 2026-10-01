@@ -4,7 +4,7 @@
 
 ## UNITA' 1: Definizione di funzione
 
-Il concetto di funzione è uno dei più importanti in matematica. Serve a rappresentare il legame, ossia la relazione che c'è tra due quantità, ossia a calcolare quanto vale la seconda quando la prima ha un certo valore. Facciamo un esempio.
+Il concetto di funzione è uno dei più importanti in matematica. Serve a rappresentare il legame, ossia la relazione, che c'è tra due quantità, a calcolare quanto vale la seconda quando la prima ha un certo valore. Facciamo un esempio.
 
 #### ESEMPIO 1
 
@@ -33,7 +33,7 @@ Come si vede all'aumentare della durata aumenta la distanza.    $\bullet$
 
 Questo è un esempio di **funzione**, ossia di regola o legge che lega una quantità, nel nostro caso la durata del viaggio, detta **indipendente**, ad un altra, la distanza dal punto di partenza, detta **dipendente**, perché quanto vale dipende da quanto vale la prima e precisamente è $90$ volte il valore della prima: la regola di calcolo è la moltiplicazione $90 \cdot x$.
 
-Spesso è utile dare anche un nome o etichetta alle funzioni: se questa funzione la chiamiamo $f$, si scrive $f(x) = 90 \cdot x$. Allora abbiamo 
+Spesso è utile dare anche un nome o etichetta alle funzioni: se questa funzione la chiamiamo con la lettera $f$, si scrive $f(x) = 90 \cdot x$. Allora abbiamo 
 $$
 \begin{array}{c|c}
 \hline\textbf{Durata (h) } & \textbf{Distanza (Km)} \\
@@ -47,7 +47,7 @@ $$
 
 Non sempre l'espressione che definisce una funzione è così semplice; potrebbe essere costruita con un prodotto ed una somma come ad esempio $2\cdot x + 10$ oppure il quadrato di un numero come $x^2$ o una frazione, ad esempio $\dfrac{1}{x}$. 
 
-In ogni caso una tabella come quella di sopra rappresenta il calcolo di un **campione di valori della funzione**, che sono dati da una **coppia di numeri**: il primo riguarda la variabile indipendente, la $x$, ed il secondo la variabile dipendente, $f(x)$.
+In ogni caso una tabella come quella di sopra rappresenta una funzione, che è sempre data da un insieme di **coppie di numeri**: il primo numero riguarda la variabile indipendente, la $x$, ed il secondo la variabile dipendente, $f(x)$.
 
 $$
 \begin{array}{r|l}
@@ -61,7 +61,7 @@ x & y = x^2\\
 \end{array}
 $$
 
-Le coppie di numeri del campione, nel caso precedente un campione di $5$ elementi, possono essere rappresentate in forma di tabella, come nel caso di sopra, come **insieme di coppie**, ad esempio:
+Le coppie di numeri della funzione possono essere scritte in forma di tabella, come nel caso di sopra, come **insieme di coppie**, ad esempio:
 $$
 F = \{(0,0), (1,1), (-1, 1), (2, 4), (-2, -4)\}
 $$
@@ -69,9 +69,9 @@ o come **grafico cartesiano**, dove sull'asse orizzontale si posizionano i valor
 
 <img src="img/grafico-di-funzione.png" alt="grafico-di-funzione" style="zoom: 20%;" />
 
-Una funzione può essere definita in vari modi, ad esempio con una espressione, con una tabella con un insieme di coppie o con un grafico cartesiano. Questi sono tutti modi in cui associamo a dei valori della variabile indipendente, i corrispondenti valori della variabile dipendente. Non tutte le associazioni sono però funzioni: una funzione associa ad un valore della variabile indipendente uno ed un solo valore della dipendente.
+Una funzione può quindi essere definita in vari modi, ad esempio con una espressione, con una tabella con un insieme di coppie o con un grafico cartesiano. Questi sono tutti modi in cui associamo a dei valori della variabile indipendente, i corrispondenti valori della variabile dipendente. Non tutte le associazioni sono però funzioni: **una funzione associa ad un valore della variabile indipendente uno ed un solo valore della dipendente**.
 
-Quindi tutti gli esempi visti sono funzioni, ma quello definito dal grafico seguente non lo è perché ad $x = -1$ associa sia $y=1$ che $y = 2$.
+Quindi tutti gli esempi visti finora sono funzioni, ma quella definita dal grafico seguente non lo è perché ad $x = -1$ associa sia $y=1$ che $y = 2$.
 
 <img src="img/grafico-di-non-funzione.png" alt="grafico-di-non-funzione" style="zoom:20%;" />
 
@@ -79,7 +79,7 @@ Quindi tutti gli esempi visti sono funzioni, ma quello definito dal grafico segu
 
 ### ESERCIZIO 1 - Definizione di Funzione
 
-a) Determina quali dei seguenti insiemi di coppie cartesiane definisce una funzione (per la coppia $(x, y)$ la funzione è $y=f(x)$.) e rappresenta la funzione in forma tabellare e cartesiana
+a) Determina quali dei seguenti insiemi di coppie cartesiane definisce una funzione e rappresenta l'insieme in forma tabellare e cartesiana.
 
 1. $\{(1, 3), (2, 5), (3, 7), (4, 8)\}$;
 2. $\{(2, 1), (3, 3), (2, 5), (4, 7)\}$;
@@ -89,7 +89,7 @@ b) Determina quali delle seguenti tabelle definisce una funzione $y=f(x)$ e rapp
 
 ![tab-1](img\tab-1.png) 
 
-c) Disegna in un grafico cartesiano un insieme di punti che non corrisponde al grafico di una funzione.
+c) Disegna in un grafico cartesiano un insieme di punti che non corrisponde ad una funzione.
 
 
 
@@ -107,7 +107,7 @@ x & y = x^2\\
 -2 & 4 = f(-2) \\
 \end{array}
 $$
-l'insieme dei numeri, o valori, che prende di volta in volta la $x$ è detto **dominio della funzione**. Quindi il dominio della funzione che abbiamo chiamato $f$ è l'insieme seguente che potremmo chiamare $D_f$:
+l'insieme dei numeri, o valori, che prende di volta in volta la $x$ è detto **dominio della funzione**. Quindi il dominio della funzione che abbiamo chiamato $f$ è l'insieme seguente che potremmo chiamare $D_f$:
 $$
 D_f = \{0, 1, -1, 2, -2\}
 $$
@@ -115,9 +115,31 @@ I valori che diamo alla $y$, associati a quelli del dominio, detti **codominio d
 $$
 C_f = \{0, 1, 4\}
 $$
-Se consideriamo però solo l'espressione che abbiamo usato per definire la funzione $f$, ossia $x^2$, vediamo che può calcolare molti altri valori, come $-5$, $30$, $-100$ e così via. Praticamente di tutti i numeri che conosciamo può essere calcolato il quadrato, e questo insieme, cioè tutti i possibili numeri utilizzabili per calcolare l'espressione viene chiamato dominio naturale dell'espressione. Quindi il dominio naturale di $f(x) = x^2$ sono tutti i numeri reali ossia $\mathbb{R} = (-\infty, +\infty)$.
+Se consideriamo però solo l'espressione che abbiamo usato per definire la funzione $f$, ossia $x^2$, vediamo che con essa si possono calcolare molti altri valori, come $-5$, $30$, $-100$ e così via. Praticamente di tutti i numeri che conosciamo può essere calcolato il quadrato, e questo insieme, cioè tutti i possibili numeri utilizzabili per calcolare l'espressione viene chiamato **dominio naturale dell'espressione**. Quindi il dominio naturale di $f(x) = x^2$ sono tutti i numeri reali ossia $\mathbb{R} = (-\infty, +\infty)$.
 
-L'espressione $\dfrac{1}{x}$ può essere calcolata sostituendo ad $x$ tutti i numeri tranne lo zero, quindi il dominio naturale sarà $(-\infty, 0) \cup (0, +\infty)$, analogamente $\sqrt{x}$ può essere calcolata solo sostituendo ad $x$ numeri positivi ed il dominio è l'intervallo $[0, +\infty)$.
+L'espressione $\dfrac{1}{x}$ può essere calcolata sostituendo ad $x$ tutti i numeri tranne lo zero, quindi il dominio naturale sarà $(-\infty, 0) \cup (0, +\infty)$, analogamente $\sqrt{x}$ può essere calcolata solo sostituendo ad $x$ numeri positivi ed il dominio è quindi l'intervallo $[0, +\infty)$.
+
+Consideriamo ora una funzione che ha come dominio tutti i numeri, ad esempio $f(x) = \dfrac{1}{2}x^2$. I valori che possiamo dare alla $x$ sono infiniti e quindi se volessimo scrivere una tabella dei suoi valori la tabella sarebbe infinita.
+
+Poiché è impossibile scrivere una tabella infinita, si sceglie un **campione di punti del dominio**, ad esempio $\{0, 1, -1, 2, -2\}$ e su questo campione si calcola il valore ottenendo una tabella come quella seguente.
+$$
+\begin{array}{r|l}
+x & y = \dfrac{1}{2}x^2\\
+\hline
+0 & 0 = f(0) \\
+1 & \dfrac{1}{2} = f(1) \\
+-1 & \dfrac{1}{2} = f(-1) \\
+2 & 2 = f(2) \\
+-2 & 2 = f(-2) \\
+\end{array}
+$$
+Rappresentando il campione su un grafico cartesiano abbiamo il disegno seguente:
+
+<img src="img/solo-campione.png" alt="solo-campione" style="zoom:20%;" />
+
+Se volessimo rappresentare le infinite coppie della funzione corrispondenti agli infiniti valori del dominio avremmo la figura seguente, dove i punti sono sulla linea verde.
+
+<img src="img/campione-e-funzione.png" alt="campione-e-funzione" style="zoom:20%;" />
 
 
 
