@@ -8,7 +8,7 @@ a) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di to
 
 b) In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
 
-Questi problemi hanno in comune la richiesta di scrivere una espressione letterale che calcola una quantità (il numero di torte di quest'anno) che **dipende** da un'altra quantità (numero di torte dello scorso anno). Il numero di torte di quest'anno si chiama ***variabile dipendente*** e quello dell'anno scorso ***variabile indipendente***. Se ho questa espressione posso calcolare la quantità della variabile dipendente sapendo la quantità della variabile indipendente, . 
+Questi problemi hanno in comune la richiesta di scrivere una espressione letterale che calcola una quantità (il numero di torte di quest'anno) che **dipende** da un'altra quantità (numero di torte dello scorso anno). Il numero di torte di quest'anno si chiama ***variabile dipendente*** e quello dell'anno scorso ***variabile indipendente***. Se ho questa espressione posso calcolare la quantità della variabile dipendente sapendo la quantità della variabile indipendente. 
 
 Se chiamo $x$ il numero delle le torte dello scorso anno $x$ ed $y$ quello di quest'anno, la relazione tra $y$ ed $x$ è $y = 250 \% \cdot x$. Questa equazione si chiama ***modello matematico del problema***. Per calcolare quante torte venderò quest'anno devo calcolare l'espressione $250\% \cdot x$ all'interno dell'equazione (elementare) dopo aver sostituito alla $x$ il numero delle torte dell'scorso anno, ad esempio $30$, per cui $y = 250\% \cdot x, \{x = 30\} \longrightarrow y = 2,5 \cdot 30 \longrightarrow y = 75$.
 
