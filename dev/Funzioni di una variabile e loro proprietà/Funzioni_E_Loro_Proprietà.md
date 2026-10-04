@@ -45,7 +45,7 @@ x & y = f(x)\\
 \end{array}
 $$
 
-Il calcolo si fa sostituendo alla lettera $x$ dell'espressione i corrispondenti numeri, quindi, ad esempio 
+Il calcolo si fa **sostituendo alla lettera $x$ dell'espressione i corrispondenti numeri**, quindi, ad esempio  per $x = 0.33$ abbiamo:
 
 a) $f(0.33) = 90 \cdot x, \{x = 0.33\}$; 
 
@@ -71,15 +71,17 @@ x & y = x^2\\
 \end{array}
 $$
 
-Le coppie di numeri della funzione possono essere scritte in forma di tabella, come nel caso di sopra, come **insieme di coppie**, ad esempio:
+Le coppie di numeri della funzione possono essere scritte in forma di tabella, come nel caso di sopra, ma anche come **insieme di coppie**, ad esempio:
 $$
 F = \{(0,0), (1,1), (-1, 1), (2, 4), (-2, -4)\}
 $$
-La funzione può essere rappresentata in un grafico **grafico cartesiano**. Ogni punto viene posizionato sul grafico e l'ascissa del punto (la $x$) rappresenta il punto del dominio, l'ordinata (la $y$) rappresenta il **valore della funzione**, che risulta quindi **l'altezza del punto rispetto all'asse orizzontale,** come nella figura seguente che riporta sul piano cartesiano gli stessi valori del campione.
+La funzione può inoltre essere rappresentata in un grafico **grafico cartesiano**. Ogni coppia viene posizionata sul grafico: l'ascissa del punto (la $x$) rappresenta il punto del dominio, l'ordinata (la $y$) rappresenta il **valore della funzione**, che risulta quindi **l'altezza del punto rispetto all'asse orizzontale,** corrispondente alla lunghezza dei segmenti tratteggiati, come nella figura seguente che riporta sul piano cartesiano gli stessi valori del campione.
 
 <img src="img/grafico-di-funzione.png" alt="grafico-di-funzione" style="zoom: 20%;" />
 
-Una funzione può quindi essere definita in vari modi, ad esempio con una espressione, con una tabella con un insieme di coppie o con un grafico cartesiano. Questi sono tutti modi in cui associamo a dei valori della variabile indipendente i corrispondenti valori della variabile dipendente. 
+Una funzione può quindi essere definita in vari modi, ad esempio con una tabella, con un insieme di coppie o con un grafico cartesiano o, come nella maggior parte delle volte faremo, con una espressione letterale ed un insieme di valori: l'espressione letterale, calcolata sui numeri dell'insieme mediante sostituzione, ci darà i valori della funzione corrispondenti.
+
+Questi sono tutti modi di associare a dei valori della variabile indipendente i corrispondenti valori della variabile dipendente. 
 
 Non tutte le associazioni sono però funzioni: **una funzione associa ad un valore della variabile indipendente uno ed un solo valore della dipendente**.
 
@@ -87,7 +89,11 @@ Quindi tutti gli esempi visti finora sono funzioni, ma quella definita dal grafi
 
 <img src="img/grafico-di-non-funzione.png" alt="grafico-di-non-funzione" style="zoom:20%;" />
 
-Osserviamo da ultimo che una funzione, ad esempio $f(x) = \dfrac{1}{2}x^2$ può anche essere scritta con la notazione $x \rightarrow \dfrac{1}{2}x^2$ dove la freccia indica proprio che ad un valore di $x$ viene associato quello ricavato dal calcolo di $\dfrac{1}{2}x^2$ attraverso una sostituzione.
+
+
+Una funzione, ad esempio $f(x) = \dfrac{1}{2}x^2$ può anche essere scritta con la notazione $x \rightarrow \dfrac{1}{2}x^2$ dove la freccia indica proprio che ad un valore di $x$ viene associato quello ricavato dal calcolo di $\dfrac{1}{2}x^2$ attraverso una sostituzione.
+
+Le lettere che si usano per scrivere le etichette delle funzioni o le lettere nelle espressioni che definiscono le funzioni stesse non sono importanti: la funzione $f(x) = x^2 + 1$ è la stessa della funzione $g(y) = y^2 + 1$ perché l'espressione che definisce le due funzioni è la stessa e quindi calcolata sugli stessi numeri produce gli stessi valori.
 
 
 
@@ -187,11 +193,11 @@ In questo capitolo vediamo alcuni esempi di importanti categorie di funzioni.
 
 Le funzioni più semplici che esistono sono probabilmente le funzioni costanti e la funzione identica.
 
-Una funzione è costante se al cambiare del valore della $x$ non cambia ed è sempre uguale ad un numero fissato, ad esempio $y = 2$ oppure $y = -1$. Il suo grafico cartesiano ha la forma di una retta orizzontale che ha altezza pari al valore della funzione.
+Una funzione è **costante** se al cambiare del valore della $x$ non cambia ed è sempre uguale ad un numero fissato, ad esempio $y = 2$ oppure $y = -1$. Il suo grafico cartesiano ha la forma di una retta orizzontale che ha altezza pari al valore della funzione.
 
 <img src="img/funzione-costante.png" alt="funzione-costante" style="zoom:20%;" />
 
-La funzione identica associa ad ogni numero (nel dominio) il numero stesso (nel codominio), cioè $y = x$. Il suo grafico è una retta inclinata di $45^o$.
+La funzione **identica** associa ad ogni numero (nel dominio) il numero stesso (nel codominio), cioè $y = x$. Il suo grafico è una retta inclinata di $45^o$.
 
 <img src="img/funzione-identica.png" alt="funzione-identica" style="zoom:20%;" />
 
@@ -199,7 +205,7 @@ La funzione identica associa ad ogni numero (nel dominio) il numero stesso (nel 
 
 ### Funzioni lineari
 
-Una funzione tra due grandezze $x$ ed $y$ si dice "lineare" se l'espressione che definisce la funzione è un polinomio di primo grado nella grandezza indipendente $x$​, come nel caso dell'equazione seguente:
+Una funzione tra due grandezze $x$ ed $y$ si dice "**lineare**" se l'espressione che definisce la funzione è un polinomio di primo grado nella grandezza indipendente $x$​, come nel caso dell'equazione seguente:
 $$
 y = 3x -5
 $$
@@ -209,7 +215,7 @@ y = mx+q
 $$
 dove $m$ e $q$ sono due numeri.
 
-Si chiamano "lineari" perché l'equazione che le definisce è uguale a quella di una retta in forma esplicita ed il loro grafico in un piano cartesiano è una retta.
+Si chiamano "lineari" perché l'equazione che le definisce è uguale a quella di una retta in forma esplicita ed il loro grafico in un piano cartesiano è una retta. Le funzioni costanti e la funzione identica sono casi particolari di funzioni lineari.
 
 <img src="img/funzione-lineare.png" alt="funzione-lineare" style="zoom:20%;" />
 
@@ -288,8 +294,6 @@ a) Costruisci una tabella ed un grafico cartesiano assegnando cinque numeri a sc
 4. $f(x) = -2x +1$;
 5. $f(x) = 4x$.
 
-b) Individua quali delle funzioni sono crescenti e quali decrescenti.
-
 
 
 ### ESERCIZIO 3.2 - Le funzioni definite a tratti
@@ -320,6 +324,7 @@ a) Per ciascuna delle funzioni seguenti disegna un grafico approssimativo costru
 2. $y = e^x$;   $y = 5\cdot e^x$;   $y = e^{2x}$; 
 3. $y = ln(x)$;   $y = ln(x) + 2$;   $y = ln(2x)$; 
 4. $y = ln(|x|)$;   $y = ln(x^2)$;   $y = -ln(x)$; 
+
 
 
 ## UNITA' 4: Crescenza, decrescenza, massimi e minimi
@@ -360,6 +365,46 @@ a) Individua quali delle funzioni dell'esercizio 3.1 sono crescenti e quali decr
 
 ## UNITA' 5: Funzioni composte e funzioni inverse
 
+Se  calcoliamo il valore di una funzione sul risultato ottenuto dal calcolo di un'altra funzione si dice che stiamo calcolando una funzione composta. Facciamo un esempio.
+
+#### ESEMPIO 1
+
+Ho la funzione $f(x) = x + 1$ e per ogni $x$, dopo aver calcolato $x + 1$, calcolo il suo quadrato, cioè calcolo il valore di $g(x) = x^2$. Ottengo $g(x+1) = (x+1)^2$.
+
+E' ancora più chiaro se riscrivo con la notazione $x \xrightarrow{x+1} x + 1 \xrightarrow{x^2} (x + 1)^2$ . Possiamo quindi scrivere che $g(f(x)) = (x+1)^2$.
+
+Se invece calcoliamo $f(g(x))$ otteniamo $x \xrightarrow{x^2} x + 1 \xrightarrow{x+1} (x + 1)^2$.    $\bullet$
+
+
+
+La funzione inversa di una funzione, è un'altra funzione che composta con la precedente da la funzione identica ossia $y = x$.
+
+Per trovare la funzione inversa di una funzione, bisogna esplicitare la variabile $x$, risolvendo una equazione. Facciamo un esempio.
+
+#### ESEMPIO 2
+
+Consideriamo la funzione $f(x) = 2x +1$. Per trovare la funzione inversa scriviamo $y = 2x + 1$ e risolviamo l'equazione come se $x$ fosse l'unica incognita.
+
+a) $y = 2x + 1$;
+
+b) $y - 1 = 2x$
+
+c) $\dfrac{y - 1}{2} = x$.
+
+La funzione inversa di $f$ è quindi $g(x) = \dfrac{x - 1}{2}$. 
+
+Per controllare calcoliamo la funzione composta:
+
+a) $g(f(x)) = \dfrac{(2x + 1) - 1}{2}$;
+
+b) $g(f(x)) = \dfrac{2x + 1 - 1}{2}$;
+
+c) $g(f(x)) = \dfrac{2x}{2}$;
+
+d) $g(f(x)) = x$.
+
+Ossia la funzione identica.     $\bullet$
+
 
 
 ### ESERCIZIO 5.1 - Funzioni Composte
@@ -369,4 +414,21 @@ a) Per ciascuno dei punti seguenti scrivi le due funzioni composte $f(g(x))$ e $
 1. $f(x)=x^2$,   $g(x)=2x-1$;
 2. $f(x)=x+12$,   $g(x)=x-3$;
 3. $f(x)=2^x$,   $g(x)=-x^2$.
+
+b) Per ciascun punto seguente, individua due funzioni di cui la funzione è la composizione.
+
+1. $f(x)=(x + 1)^2$;
+2. $f(x)=\dfrac{1}{x+1}$;
+3. $f(x)=2^{x+1}$;
+4. $f(x)=ln(x^2 + 1)$.
+
+
+
+### ESERCIZIO 5.2 - Funzioni Inverse
+
+a) Calcola la funzione inversa delle funzioni seguenti
+
+1. $f(x) = x + 1$;
+2. $f(x) = \dfrac{1}{x}$;
+3. $f(x) = \dfrac{1}{1 + x}$;
 

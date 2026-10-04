@@ -1,61 +1,32 @@
 # Funzioni: Limiti e Continuità
 
-### ESERCIZIO 1 - Limite finito per x tendente a valore finito
 
-a) Verifica i limiti seguenti disegnando, con una tabella di punti o con GEOGEBRA, un grafico approssimativo della funzione in prossimità del valore di $x$.
 
-1. $\displaystyle \lim_{x\to 1}(2-3x)=-1$;    $\displaystyle \lim_{x\to -3}(x+5)=2$;    $\displaystyle \lim_{x\to \frac{1}{2}}(4x-1)=\dfrac{1}{2}$;
-2. $\displaystyle \lim_{x\to 0^+}\sqrt x = 0$;    $\displaystyle \lim_{x\to -1^-}(2x+3)=1$;    $\displaystyle \lim_{x\to 2^-} \sqrt{2-x} = 0$;
-
-b) Data le funzioni seguenti
-$$
-f(x) = \begin{cases} 2x-4  & se \; x \ge 1 \\ 2 - x & se \; x \lt 1 \end{cases}
-$$
-$$
-g(x) = \begin{cases} x^2 & se \; x \ge 0 \\ x^2 - 1 & se \; x \lt 0 \end{cases}
-$$
-
-verifica i limiti $\displaystyle \lim_{x\to 1^+}f(x) = -2$;    $\displaystyle \lim_{x\to 0^-}g(x) = 0$.
+## UNITA' 1: Comportamento delle Funzioni al Limite
 
 
 
-#### Laboratorio GEOGEBRA
-
-a) Verifica con GEOGEBRA i limiti degli esercizi a.1.2, a.1.3, a.2.3.
-
-1. $Limite(x + 5, -3)$&#9166;
-
-   $\longrightarrow 2$
-
-2. $Limite(4x - 1, \dfrac{1}{2})$
-
-   $\longrightarrow 1$
-
-3. $LimiteSinistro(\sqrt{2 - x}, 2)$&#9166;
-
-   $\longrightarrow 0$
 
 
+### ESERCIZIO 1 - Limite infinito per x tendente a valore infinito
 
-### ESERCIZIO 2 - Limite infinito per x tendente a valore finito
+a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione per un insieme di valori di $x$ che tendano a $+\infty$ o $-\infty$.
 
-a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione in prossimità del valore di $x$.
-
-1. $\displaystyle \lim_{x\to 0^+} \frac{1}{x} = +\infty$;   $\displaystyle \lim_{x\to 0} \dfrac{1}{x^2} = +\infty$;    $\displaystyle \lim_{x\to 0^+}-\dfrac{1}{4x^4} = -\infty$;
+1. $\displaystyle \lim_{x\to 0^+} \frac{1}{x} = +\infty$;    $\displaystyle \lim_{x\to 0} \dfrac{1}{x^2} = +\infty$;    $\displaystyle \lim_{x\to 0^+}-\dfrac{1}{4x^4} = -\infty$;
 
 b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
-1. ![lim-1](img/lim-1.png) 
+1. ![lim-3](img/lim-5.png) 
 
-   $\displaystyle \lim_{x\to 0} f(x) = ...$;  $\displaystyle \lim_{x\to 0^+} f(x) = ...$;  $\displaystyle \lim_{x\to 0^-} f(x) = ...$;  $\displaystyle \lim_{x\to 2^+} f(x) = ...$;  $\displaystyle \lim_{x\to 2^-} f(x) = ...$; 
+  $\displaystyle \lim_{x\to -\infty} f(x) = ...$;  $\displaystyle \lim_{x\to +\infty} f(x) = ...$.
 
-c) La funzione rappresentata dal grafico della figura ha due asintoti verticali. Scrivi le loro equazioni e i limiti che li esprimono.
+2. ![lim-4](img/lim-6.png) 
 
-1. ![lim-2](img/lim-2.png) 
+  $\displaystyle \lim_{x\to -\infty} f(x) = ...$;  $\displaystyle \lim_{x\to +\infty} f(x) = ...$;   $\displaystyle \lim_{x\to 1} f(x) = ...$.
 
 
 
-### ESERCIZIO 3 - Limite finito per x tendente a valore infinito
+### ESERCIZIO 2 - Limite finito per x tendente a valore infinito
 
 a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione per un insieme di valori di $x$ che tendano a $+\infty$ o $-\infty$.
 
@@ -87,22 +58,65 @@ a) Verifica con GEOGEBRA i limiti degli esercizi a.1 e a.2.
 
 
 
+#### Laboratorio GEOGEBRA
 
-### ESERCIZIO 4 - Limite infinito per x tendente a valore infinito
+a) Verifica con GEOGEBRA i limiti degli esercizi a.1.2, a.1.3, a.2.3.
 
-a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione per un insieme di valori di $x$ che tendano a $+\infty$ o $-\infty$.
+1. $Limite(x + 5, -3)$&#9166;
 
-1. $\displaystyle \lim_{x\to 0^+} \frac{1}{x} = +\infty$;    $\displaystyle \lim_{x\to 0} \dfrac{1}{x^2} = +\infty$;    $\displaystyle \lim_{x\to 0^+}-\dfrac{1}{4x^4} = -\infty$;
+   $\longrightarrow 2$
+
+2. $Limite(4x - 1, \dfrac{1}{2})$
+
+   $\longrightarrow 1$
+
+3. $LimiteSinistro(\sqrt{2 - x}, 2)$&#9166;
+
+   $\longrightarrow 0$
+
+
+
+### ESERCIZIO 3 - Limite infinito per x tendente a valore finito
+
+a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione in prossimità del valore di $x$.
+
+1. $\displaystyle \lim_{x\to 0^+} \frac{1}{x} = +\infty$;   $\displaystyle \lim_{x\to 0} \dfrac{1}{x^2} = +\infty$;    $\displaystyle \lim_{x\to 0^+}-\dfrac{1}{4x^4} = -\infty$;
 
 b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
-1. ![lim-3](img/lim-5.png) 
+1. ![lim-1](img/lim-1.png) 
 
-  $\displaystyle \lim_{x\to -\infty} f(x) = ...$;  $\displaystyle \lim_{x\to +\infty} f(x) = ...$.
+   $\displaystyle \lim_{x\to 0} f(x) = ...$;  $\displaystyle \lim_{x\to 0^+} f(x) = ...$;  $\displaystyle \lim_{x\to 0^-} f(x) = ...$;  $\displaystyle \lim_{x\to 2^+} f(x) = ...$;  $\displaystyle \lim_{x\to 2^-} f(x) = ...$; 
 
-2. ![lim-4](img/lim-6.png) 
+c) La funzione rappresentata dal grafico della figura ha due asintoti verticali. Scrivi le loro equazioni e i limiti che li esprimono.
 
-  $\displaystyle \lim_{x\to -\infty} f(x) = ...$;  $\displaystyle \lim_{x\to +\infty} f(x) = ...$;   $\displaystyle \lim_{x\to 1} f(x) = ...$.
+1. ![lim-2](img/lim-2.png) 
+
+
+
+
+
+### ESERCIZIO 4 - Limite finito per x tendente a valore finito
+
+a) Verifica i limiti seguenti disegnando, con una tabella di punti o con GEOGEBRA, un grafico approssimativo della funzione in prossimità del valore di $x$.
+
+1. $\displaystyle \lim_{x\to 1}(2-3x)=-1$;    $\displaystyle \lim_{x\to -3}(x+5)=2$;    $\displaystyle \lim_{x\to \frac{1}{2}}(4x-1)=\dfrac{1}{2}$;
+2. $\displaystyle \lim_{x\to 0^+}\sqrt x = 0$;    $\displaystyle \lim_{x\to -1^-}(2x+3)=1$;    $\displaystyle \lim_{x\to 2^-} \sqrt{2-x} = 0$;
+
+b) Data le funzioni seguenti
+$$
+f(x) = \begin{cases} 2x-4  & se \; x \ge 1 \\ 2 - x & se \; x \lt 1 \end{cases}
+$$
+
+$$
+g(x) = \begin{cases} x^2 & se \; x \ge 0 \\ x^2 - 1 & se \; x \lt 0 \end{cases}
+$$
+
+verifica i limiti $\displaystyle \lim_{x\to 1^+}f(x) = -2$;    $\displaystyle \lim_{x\to 0^-}g(x) = 0$.
+
+
+
+## UNITA' 2: Continuità delle Funzioni
 
 
 
@@ -121,6 +135,9 @@ b)  Verifica se le funzioni riportate di seguito sono continue nel punto $x_0$ i
    \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,    x_0 = 0
    $$
    
+3. 
+
+
 
 ### ESERCIZIO 6 - Tipi di Discontinuità
 
