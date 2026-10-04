@@ -93,7 +93,7 @@ Quindi tutti gli esempi visti finora sono funzioni, ma quella definita dal grafi
 
 Una funzione, ad esempio $f(x) = \dfrac{1}{2}x^2$ può anche essere scritta con la notazione $x \rightarrow \dfrac{1}{2}x^2$ dove la freccia indica proprio che ad un valore di $x$ viene associato quello ricavato dal calcolo di $\dfrac{1}{2}x^2$ attraverso una sostituzione.
 
-Le lettere che si usano per scrivere le etichette delle funzioni o le lettere nelle espressioni che definiscono le funzioni stesse non sono importanti: la funzione $f(x) = x^2 + 1$ è la stessa della funzione $g(y) = y^2 + 1$ perché l'espressione che definisce le due funzioni è la stessa e quindi calcolata sugli stessi numeri produce gli stessi valori.
+Le lettere che si usano per scrivere le etichette delle funzioni o le lettere nelle espressioni che definiscono le funzioni stesse non sono importanti: la funzione $f(x) = x^2 + 1$ è la stessa della funzione $g(y) = y^2 + 1$ perché l'espressione che definisce le due funzioni è la stessa e quindi calcolata sugli stessi numeri produce gli stessi valori.
 
 
 
@@ -193,13 +193,15 @@ In questo capitolo vediamo alcuni esempi di importanti categorie di funzioni.
 
 Le funzioni più semplici che esistono sono probabilmente le funzioni costanti e la funzione identica.
 
-Una funzione è **costante** se al cambiare del valore della $x$ non cambia ed è sempre uguale ad un numero fissato, ad esempio $y = 2$ oppure $y = -1$. Il suo grafico cartesiano ha la forma di una retta orizzontale che ha altezza pari al valore della funzione.
+Una funzione è **costante** se il suo valore non cambia al cambiare della $x$ ed è sempre uguale ad un numero fissato, ad esempio $y = 2$ oppure $y = -1$. Il suo grafico cartesiano ha la forma di una retta orizzontale che ha altezza pari al valore della funzione.
 
 <img src="img/funzione-costante.png" alt="funzione-costante" style="zoom:20%;" />
 
 La funzione **identica** associa ad ogni numero (nel dominio) il numero stesso (nel codominio), cioè $y = x$. Il suo grafico è una retta inclinata di $45^o$.
 
 <img src="img/funzione-identica.png" alt="funzione-identica" style="zoom:20%;" />
+
+A volte la funzione identica viene indicata con $Id(x)$, per cui $Id(x) = x$.
 
 
 
@@ -215,7 +217,7 @@ y = mx+q
 $$
 dove $m$ e $q$ sono due numeri.
 
-Si chiamano "lineari" perché l'equazione che le definisce è uguale a quella di una retta in forma esplicita ed il loro grafico in un piano cartesiano è una retta. Le funzioni costanti e la funzione identica sono casi particolari di funzioni lineari.
+Si chiamano "lineari" perché l'equazione che le definisce è uguale a quella di una retta in forma esplicita ed in un piano cartesiano il loro grafico è una retta. Sia le funzioni costanti che la funzione identica sono casi particolari di funzioni lineari.
 
 <img src="img/funzione-lineare.png" alt="funzione-lineare" style="zoom:20%;" />
 
@@ -298,14 +300,19 @@ a) Costruisci una tabella ed un grafico cartesiano assegnando cinque numeri a sc
 
 ### ESERCIZIO 3.2 - Le funzioni definite a tratti
 
-a) Calcola il valore della funzione seguente per $n \in \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$: 
+a) Data la funzione seguente:
 $$
-f(n) = 
+f(x) = 
 \begin{cases} 
-1  & se\; n\; \lt 0 \\ 
-3n+1 & se\; n\; \ge 0 
+1  & se\; x\; \lt 0 \\ 
+3x+1 & se\; x\; \ge 0 
 \end{cases}
 $$
+
+1. Calcola i suoi valori per $x \in \{0, 1, -1, 2, -2, 3, -3, 4, -4\}$;
+2. Quanti sono i punti del dominio? ed i valori del codominio? 
+
+
 
 b) Disegna un grafico della funzione seguente.
 $$
@@ -315,6 +322,8 @@ f(x) = \begin{cases}
 x -1 & se \; 1 \lt x
 \end{cases}
 $$
+
+
 
 ### ESERCIZIO 3.3 - Funzioni Esponenziali e Logaritmiche
 
@@ -373,13 +382,15 @@ Ho la funzione $f(x) = x + 1$ e per ogni $x$, dopo aver calcolato $x + 1$, calco
 
 E' ancora più chiaro se riscrivo con la notazione $x \xrightarrow{x+1} x + 1 \xrightarrow{x^2} (x + 1)^2$ . Possiamo quindi scrivere che $g(f(x)) = (x+1)^2$.
 
-Se invece calcoliamo $f(g(x))$ otteniamo $x \xrightarrow{x^2} x + 1 \xrightarrow{x+1} (x + 1)^2$.    $\bullet$
+Se invece calcoliamo $f(g(x))$ otteniamo $x \xrightarrow{x^2} x + 1 \xrightarrow{x+1} x^2 + 1$, che è una funzione diversa dalla precedente.    $\bullet$
 
 
 
-La funzione inversa di una funzione, è un'altra funzione che composta con la precedente da la funzione identica ossia $y = x$.
+### Funzioni Inverse
 
-Per trovare la funzione inversa di una funzione, bisogna esplicitare la variabile $x$, risolvendo una equazione. Facciamo un esempio.
+La funzione inversa di una funzione, è un'altra funzione che composta con la precedente da la funzione identica ossia $y = x$. In pratica la funzione inversa, diciamo $g(x)$ di una funzione $y = f(x)$ (chiamata diretta), prende il valore $y$ e ricalcola la $x$, per cui calcolando $g(f(x))$ otteniamo nuovamente $x$. 
+
+Per trovare la funzione inversa di una funzione, bisogna esplicitare la variabile $x$, risolvendo l'equazione $y = f(x)$. Facciamo un esempio.
 
 #### ESEMPIO 2
 
@@ -393,7 +404,7 @@ c) $\dfrac{y - 1}{2} = x$.
 
 La funzione inversa di $f$ è quindi $g(x) = \dfrac{x - 1}{2}$. 
 
-Per controllare calcoliamo la funzione composta:
+Per controllare, calcoliamo la funzione composta:
 
 a) $g(f(x)) = \dfrac{(2x + 1) - 1}{2}$;
 
@@ -404,6 +415,8 @@ c) $g(f(x)) = \dfrac{2x}{2}$;
 d) $g(f(x)) = x$.
 
 Ossia la funzione identica.     $\bullet$
+
+Spesso la funzione inversa di una funzione $f(x)$ viene indicata con $f^{-1}(x)$.
 
 
 
@@ -424,6 +437,20 @@ b) Per ciascun punto seguente, individua due funzioni di cui la funzione è la c
 
 
 
+#### Laboratorio Geogebra
+
+a) Calcolo della funzione composta $f(g(x))$ dove $f$ e $g$ sono le due funzioni dell'esercizio a.2
+
+1. $f(x)=x+12$  &#9166;
+
+2. $g(x)=x-3$  &#9166;
+
+3. $f(g(x))$  &#9166;
+
+   $\longrightarrow x + 9$
+
+
+
 ### ESERCIZIO 5.2 - Funzioni Inverse
 
 a) Calcola la funzione inversa delle funzioni seguenti
@@ -431,4 +458,20 @@ a) Calcola la funzione inversa delle funzioni seguenti
 1. $f(x) = x + 1$;
 2. $f(x) = \dfrac{1}{x}$;
 3. $f(x) = \dfrac{1}{1 + x}$;
+
+
+
+#### Laboratorio Geogebra
+
+a) Calcolo dell'inversa della funzione $f(x) = \dfrac{1}{1 + x}$;
+
+1. $f(x) = \dfrac{1}{1 + x}$ &#9166;
+
+2. $\text{Inversa(f)}$ &#9166;
+
+   $\longrightarrow \dfrac{-x + 1}{x}$
+
+
+
+
 
