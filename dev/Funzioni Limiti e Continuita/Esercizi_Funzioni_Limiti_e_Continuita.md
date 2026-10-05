@@ -4,7 +4,11 @@
 
 ## UNITA' 1: Comportamento delle Funzioni al Limite
 
+In questa unità vogliamo esaminare cosa succede ai valori di una funzione quando la $x$ diventa sempre più grande, positiva, verso destra, ma anche negativa, verso sinistra. Vediamo alcuni esempi.
 
+### ESEMPIO 1
+
+La funzione lineare $f(x) = 2x + 1$ quando $x$ diventa sempre più grande diventa a sua volta sempre più grande. 
 
 
 

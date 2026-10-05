@@ -111,6 +111,18 @@ b) Determina quali delle seguenti tabelle definisce una funzione $y=f(x)$ e rapp
 
 c) Disegna in un grafico cartesiano un insieme di punti che non corrisponde ad una funzione.
 
+#### Laboratorio Geogebra
+
+a) Rappresentazione tabellare e grafica dell'insieme di coppie dell'esercizio 1.1.a.1
+
+1. Visualizzazione del tasto "Tabella"
+
+2. Visualizzazione della tabella
+
+3. Inserimento delle coppie $(1,3), (2,5), ...$ il primo numero nella colonna $x$
+
+   il secondo nella colonna a fianco.
+
 
 
 ## UNITA' 2: Dominio di funzioni
@@ -131,17 +143,17 @@ l'insieme dei numeri, o valori, che prende di volta in volta la $x$ è detto **d
 $$
 D_f = \{0, 1, -1, 2, -2\}
 $$
-I numeri che fanno parte del dominio vengono anche chiamati **punti del dominio** e quindi **punti della funzione**. I numeri che calcoliamo per la $y$, associati a quelli del dominio, vengono chiamati **valori della funzione**. Il loro insieme è chiamato **codominio della funzione**. Il codominio è un insieme di valori che possiamo indicare con $C_f$ e nell'esempio precedente è: 
+I numeri che fanno parte del dominio vengono anche chiamati **punti del dominio**. I numeri che calcoliamo per la $y$, associati a quelli del dominio, vengono chiamati **valori della funzione**. Il loro insieme è chiamato **codominio della funzione**. Il codominio è un insieme di valori che possiamo indicare con $C_f$ e nell'esempio precedente è: 
 $$
 C_f = \{0, 1, 4\}
 $$
 Consideriamo ora solo l'espressione che abbiamo usato per definire la funzione $f$, ossia $x^2$; vediamo che con essa si possono calcolare molti altri valori, come $-5$, $30$, $-100$ e così via. Praticamente di tutti i numeri che conosciamo può essere calcolato il quadrato, e questo insieme, cioè tutti i possibili numeri utilizzabili per calcolare l'espressione viene chiamato **dominio naturale dell'espressione**. Quindi il dominio naturale di $f(x) = x^2$ sono tutti i numeri reali ossia $\mathbb{R} = (-\infty, +\infty)$.
 
-L'espressione $\dfrac{1}{x}$ può essere calcolata sostituendo ad $x$ tutti i numeri tranne lo zero, quindi il dominio naturale sarà $(-\infty, 0) \cup (0, +\infty)$, analogamente $\sqrt{x}$ può essere calcolata solo sostituendo ad $x$ numeri positivi ed il dominio è quindi l'intervallo $[0, +\infty)$.
+L'espressione $\dfrac{1}{x}$ può essere calcolata sostituendo ad $x$ tutti i numeri tranne lo zero, quindi il suo dominio naturale sarà $(-\infty, 0) \cup (0, +\infty)$; analogamente $\sqrt{x}$ può essere calcolata solo sostituendo ad $x$ numeri positivi ed il suo dominio (naturale) è quindi l'intervallo $[0, +\infty)$.
 
 Consideriamo ora una funzione che ha come dominio tutti i numeri, ad esempio $f(x) = \dfrac{1}{2}x^2$. I valori che possiamo dare alla $x$ sono infiniti e quindi se volessimo scrivere una tabella dei suoi valori la tabella sarebbe infinita.
 
-Poiché è impossibile scrivere una tabella infinita, si sceglie un **campione di punti del dominio**, ad esempio $\{0, 1, -1, 2, -2\}$ e su questo campione si calcola il valore ottenendo una tabella come quella seguente.
+Poiché è impossibile scrivere una tabella infinita, per fare un grafico approssimativo si sceglie un **campione di punti del dominio**, ad esempio $\{0, 1, -1, 2, -2\}$ e su questo campione si calcola il valore ottenendo una tabella come quella seguente.
 $$
 \begin{array}{r|l}
 x & y = \dfrac{1}{2}x^2\\
@@ -268,15 +280,19 @@ Il grafico è il seguente.
 
 <img src="img/funzione-a-tratti.png" alt="funzione-a-tratti" style="zoom:20%;" />
 
+Le funzioni che utilizzano più di una espressione per la loro definizione (su intervalli diversi di numeri reali), si dicono "definite  tratti".
+
+
+
 ### Funzioni Esponenziali
 
 Si chiamano esponenziali le funzioni la cui espressione che le definisce è una potenza e la variabile indipendente compare all'esponente, come ad esempio $x \rightarrow y = 2^x$ oppure $x \rightarrow y = 5^x$.
 
-Il valori si possono calcolare facilmente solo per i punti interi del dominio; se l'argomento è decimale serve la calcolatrice. Il grafico ha la forma seguente.
+Negli esempi precedenti, si possono calcolare facilmente solo i valori che corrispondono a punti interi del dominio; se l'argomento è decimale serve la calcolatrice. Il grafico ha la forma seguente.
 
 <img src="img/funzione-esponenziale-2-alla-x.png" alt="funzione-esponenziale-2-alla-x" style="zoom:20%;" />
 
-I valori della funzione diventano subito molto grandi per $x = 5$, $x = 10$, mentre diventano molto piccoli (ma positivi) per $x$ negative come $x = -5$, $x = -10$.
+I valori della funzione diventano subito molto grandi per $x = 5$, $x = 10$, mentre diventano molto piccoli (ma positivi) per le $x$ negative come $x = -5$, $x = -10$.
 
 
 
@@ -323,6 +339,24 @@ x -1 & se \; 1 \lt x
 \end{cases}
 $$
 
+#### Laboratorio Geogebra
+
+a) Rappresentazione tabellare e grafica della funzione dell'esercizio 3.2.a.
+
+1. $f(x) = \text{Se}(x<0,1,3x+1)$&#9166;
+
+   $\longrightarrow$
+   $$
+   \begin{cases} 
+   1  & : 0 > x\\ 
+   3x+1 & \text{altrove} 
+   \end{cases}
+   $$
+
+2. Dal menu di riga seleziona "Tabella di Valori" e poi "Annulla" sulla finestra di inserimento;
+
+3. Inserisci nella colonna $x$ i valori $0, 1, -1, 2, ...$
+
 
 
 ### ESERCIZIO 3.3 - Funzioni Esponenziali e Logaritmiche
@@ -336,9 +370,11 @@ a) Per ciascuna delle funzioni seguenti disegna un grafico approssimativo costru
 
 
 
+
+
 ## UNITA' 4: Crescenza, decrescenza, massimi e minimi
 
-Un concetto molto importante nell'analisi di una funzione è quello di della sua "crescenza" e "decrescenza". Una funzione si dice **crescente** in un intervallo di numeri, ad esempio tra $-2$ e $2$,  $[-2, 2]$ se passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ aumenta; si dice **decrescente** se, sempre passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ diminuisce. Vediamo un esempio.
+Un concetto molto importante nell'analisi di una funzione è quello di della sua "crescenza" e "decrescenza". Una funzione si dice **crescente** in un intervallo, ad esempio tra $-2$ e $2$,  $[-2, 2]$ se passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ aumenta; si dice **decrescente** se, sempre passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ diminuisce. Vediamo un esempio.
 
 #### ESEMPIO 1
 
@@ -354,15 +390,61 @@ La funzione $f(x) = x^2 + 1$:
 
 ha come dominio naturale tutti i numeri (reali) ed è decrescente a sinistra dello zero, nell'intervallo $(-\infty, 0)$, e crescente in $[0, \infty)$.    $\bullet$
 
-Se una funzione, come $f(x) = x^2 + 1$, decresce a sinistra di un punto del dominio, ad esempio $x = 0$ e cresce a destra, si dice che quello è un  **punto di minimo**. Se chiamiamo $x_{min}$ il punto di minimo, $f(x_{min})$ è il **valore minimo** della funzione. Questo significa che ci sarà almeno un intervallo intorno ad $x_{min}$ in cui $f(x_{min})$ è il valore più basso della funzione nell'intervallo.
+
+
+### Massimi e minimi locali e globali
+
+Consideriamo una funzione in un intervallo limitato, ad esempio $(-2, 2)$; se la funzione, ad esempio $f(x) = x^2 + 1$, decresce a sinistra di un punto dell'intervallo, ad esempio $x = 0$ e cresce a destra, si dice che quello è un  **punto di minimo nell'intervallo**. Se chiamiamo $x_{min}$ il punto di minimo, $f(x_{min})$ è il **valore minimo** della funzione (sempre nell'intervallo). 
 
 #### ESEMPIO 2
 
-Nella funzione $f(x) = x^2 + 1$ consideriamo il punto $x = 0$, il valore $f(0) = 1$ ed un intervallo intorno a $0$, ad esempio $(-0.5, +0.5)$. Abbiamo che qualsiasi numero $x \in (-0.5, +0.5)$ la funzione è minore di $f(0)$. In simboli:
+Nella funzione $f(x) = x^2 + 1$ consideriamo il punto $x = 0$, il valore $f(0) = 1$ ed un intervallo intorno a $0$, ad esempio $(-0.5, +0.5)$. Abbiamo che per qualsiasi numero $x \in (-0.5, +0.5)$ il valore $f(x)$ della funzione è maggiore o uguale ad $f(0)$. In simboli:
+$$
+f(x) \ge f(0)
+$$
+$x = 0$ è un punto di minimo e $f(0) = 1$ è il valore minimo della funzione.    $\bullet$
+
+
+
+Lo stesso discorso si può fare per un punto ed un valore di massimo. Consideriamo una funzione in un intervallo limitato, ad esempio $(-2, 2)$; se la funzione, ad esempio $f(x) = -x^2 + 1$, cresce a sinistra di un punto dell'intervallo, ad esempio $x = 0$ e decresce a destra, si dice che quello è un  **punto di massimo nell'intervallo**. Se chiamiamo $x_{max}$ il punto di massimo, $f(x_{max})$ è il **valore massimo** della funzione (sempre nell'intervallo). 
+
+#### ESEMPIO 3
+
+Nella funzione $f(x) = -x^2 + 1$ consideriamo il punto $x = 0$, il valore $f(0) = 1$ ed un intervallo intorno a $0$, ad esempio $(-0.5, +0.5)$. Abbiamo che per qualsiasi numero $x \in (-0.5, +0.5)$ il valore della funzione $f(x)$ è minore o uguale ad $f(0)$. In simboli:
 $$
 f(x) \le f(0)
 $$
 $x = 0$ è un punto di minimo e $f(0) = 1$ è il valore minimo della funzione.    $\bullet$
+
+
+
+Fino ad ora abbiamo parlato di punti di massimo e minimo di una funzione in un intervallo del dominio. Una funzione può avere un punto di massimo ed un valore massimo in un intervallo ma non essere questo il valore più grande che la funzione può valere, come di vede  dall'esempio seguente:
+
+### ESEMPIO 4
+
+La funzione $f(x) = x^3 - 3x$ ha il grafico riportato di sotto.
+
+<img src="img/max-locale-non-globale.png" alt="max-locale-non-globale" style="zoom: 20%;" />
+
+Come si vede, il punto $x = -1$ è di massimo locale ed il corrispondente valore massimo (locale) è $f(-1)= 2$; stessa cosa per il minimo locale $f(1)=-2$, ma la funzione ha valori molto maggiori di $2$ e molto minori di $-2$.    $\bullet$
+
+
+
+Un punto del dominio il cui valore della funzione è più grande di qualsiasi altro valore è detto **punto di massimo globale**. Se $x_{max}^*$ è un punto di massimo globale, per ogni altro valore $x$ si ha che
+$$
+f(x) \le f(x_{max}^*)
+$$
+Una cosa analoga vale per il punto di minimo globale, che è il punto $x_{min}^*$ per cui, per ogni altro $x$ si ha 
+$$
+f(x) \ge x_{min}^*
+$$
+Non è detto che i punti di massimo e minimo locali o globali esistano sempre. Un esempio di minimo globale è punto $x = 0$ della funzione $f(x) = x^2 + 1$ ed il valore minimo è $f(0) = 1$.
+
+<img src="img/Crescenti2.png" alt="Crescenti2" style="zoom:15%;" />
+
+Ma, come si vede dal grafico, questa funzione non ha punti di massimo, né locali ne globali. Un altro esempio di funzione molto semplice che non ha nessun punto né di massimo né di minimo, locale o globale è la funzione identica che ha il grafico riportato di seguito:
+
+<img src="img/funzione-identica.png" alt="funzione-identica" style="zoom:20%;" />
 
 
 
