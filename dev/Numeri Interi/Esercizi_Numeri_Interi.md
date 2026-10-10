@@ -350,13 +350,13 @@ e) $+120$
 
 
 
-### ESERCIZIO 5.1 - Espressioni con le quattro operazioni
+### ESERCIZIO 5.1 - Espressioni con tutte le operazioni
 
 a) Calcola il valore delle espressioni seguenti. 
 
-1.  $-7-5\cdot2+16$.		[$R. -1$];
+1.  $-7-5\cdot2+16$		[$R. -1$];
 
-2.  $-7-5\cdot2+16:8-5+6-18:3$.		[$R. -20$];
+2.  $-7-5\cdot2+16:8-5+6-18:3$		[$R. -20$].
 
 
 
@@ -364,9 +364,9 @@ a) Calcola il valore delle espressioni seguenti.
 
 a) Calcola il valore delle espressioni seguenti. 
 
-1.  $(-15):3-6+18:(-6)-(+7 \cdot 3-10)+7\cdot2$.		[$R. -11$];
+1.  $(-15):3-6+18:(-6)-(+7 \cdot 3-10)+7\cdot2$		[$R. -11$];
 
-2.  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$.		[$R. +20$];  
+2.  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$		[$R. +20$].  
 
 b) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -378,9 +378,14 @@ b) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle 
 
 c) Calcola il valore delle seguenti espressioni.
 
-1. $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]. \enspace\enspace\enspace [R. 5];$  
-2. ^*^  $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1). \enspace\enspace\enspace\enspace\enspace\enspace\enspace [R. 21];$  
-3. ^*^  $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
+1. $(5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8) :80$;  
+2. $(4+3\text{·}5):(3+2\text{·}8)$;  
+3. ^*^  $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]$      $[R. 5]$; 
+4. $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\}$; 
+5. ^*^  $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1)$      $[R. 21]$;
+6. $-\left\{ [-(+5)]-[-(-7)]\right\}$;
+7. ^*^  $-\left\{ -[-(-3)]-[-(-6)]\right\}$
+8. ^*^  $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}$     $[R. 15].$  
 
 d) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le espressioni senza le parentesi "inutili" e di tutte calcola il valore.
 
@@ -912,7 +917,7 @@ b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle 
 1. $(-6)^9:(-6)^3$;
 2. $(-2)^2\cdot(-2)\cdot(-2)^4$;
 3. $[(-6)^3]^2:(6)^5$;
-4. ^*^  $[(-5)^4\cdot(4)^4] : (-20)^3$;
+4. ^*^  $[(-5)^4\cdot(4)^4] : (-20)^3$;
 5. ^*^  $[(2)^3\cdot(5)^3]^2:(-10)^3$.
 
 
@@ -923,7 +928,7 @@ a) Applicando le proprietà delle potenze, calcola il valore delle seguenti espr
 
 1. $2^{5}:2^{4} + 2·2^{2} - 2^{0};$  
 2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5};$  
-3. ^*^  $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
+3. ^*^  $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
 
 b) Applicando le proprietà, semplifica le espressioni seguenti.
 
@@ -957,7 +962,7 @@ a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle 
 
 1. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
 
-2. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right]+\left[3^{2}\cdot2^{2}:\left(6^{3}:6^{2}\right)\right]$;    $[R. 12];$  
+2. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right]+\left[3^{2}\cdot2^{2}:\left(6^{3}:6^{2}\right)\right]$;    $[R. 12];$  
 
 3. ^*^  $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right)$.    $[R. 2];$  
 
@@ -967,7 +972,7 @@ b) Calcola il valore delle seguenti espressioni.
 2. $40:(-4)5$;
 3. $-2^2-(-2)^2$;
 4. $67-5[-1+(2-8)^2]$;
-5. ^*^  $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}$;      $[R. +25]$
+5. ^*^  $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}$;      $[R. +25]$
 6. $(-20+3(-5)):(21-(-4)^2)$.
 
 
@@ -994,4 +999,4 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere le espressi
 b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore (ogni sostituzione riguarda due lettere).
 
 1. $3-a^{3}-2 \cdot b^{2}+a^{2}\text{·}(a-b),\ \{a=2 + 3,\ b=-2 - 3\}$  
-2. ^*^  $3 \cdot a \cdot b-5 \cdot a^{2}+3 \cdot a-1,\ \{a=2-4,\ b= 1-9\}$.
+2. ^*^  $3 \cdot a \cdot b-5 \cdot a^{2}+3 \cdot a-1,\ \{a=2-4,\ b= 1-9\}$.
