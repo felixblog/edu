@@ -4,9 +4,9 @@
 
 a) Nei seguenti esercizi, data la funzione $f(x)$, calcola i valori a fianco indicati.  
 
-1. $f(x)=(x-1)^2: \:\:\: f(1), f(-2)$; 
-1. $f(x)=-\ln x + 1: \:\:\: f(1), 2f(x), f(2x), f(1 + h) - f(1)$; 
-1. $f(x)=2x-1: \:\:\: f(1), f(-2), f(4), f(c), f(c+h)$;  
+1. $f(x)=(x-1)^2: \:\:\: f(1),\: f(-2)$; 
+1. $f(x)=-\ln x + 1: \:\:\: f(1),\: 2f(x),\: f(2x),\: f(1 + h) - f(1)$; 
+1. $f(x)=2x-1: \:\:\: f(1),\: f(-2),\: f(4),\: f(c),\: f(c+h)$;  
 
 b) Determina il rapporto incrementale delle seguenti funzioni quando $x$ varia nel modo indicato.
 
@@ -45,7 +45,7 @@ c) Calcola le derivate delle seguenti funzioni in un valore generico $x$.
 
 #### Laboratorio GEOGEBRA
 
-a) Calcola con GEOGEBRA le derivate degli esercizi a.1.1 ed a.1.3, a.2.2.
+a) Calcola con GEOGEBRA le derivate degli esercizi a.1.1, a.1.3 ed a.2.2.
 
 1. $Derivata(x)$&#9166;
 

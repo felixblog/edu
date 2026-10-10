@@ -6,17 +6,41 @@
 
 In questa unità vogliamo esaminare cosa succede ai valori di una funzione quando la $x$ diventa sempre più grande, positiva, verso destra, ma anche negativa, verso sinistra. Vediamo alcuni esempi.
 
-### ESEMPIO 1
 
-La funzione lineare $f(x) = 2x + 1$ quando $x$ diventa sempre più grande diventa a sua volta sempre più grande. 
 
+### Limite infinito per x tendente a valore infinito
+
+#### ESEMPIO 1
+
+I valori della funzione lineare $f(x) = 2x + 1$ diventano sempre più grandi quando $x$ diventa sempre più grande. Come si vede dal grafico, qualunque valore $k$ grande a piacere si scelga, basta spostarsi con la $x$ abbastanza a destra ed il valore della funzione $f(x)$ diventa più grande di $k$. 
+
+<img src="img/infty-2x+1-per-x-infty.png" alt="infty-2x+1-per-x-infty" style="zoom:20%;" />
+
+La stessa cosa accade per tante altre funzioni, ad esempio $f(x)=2^x$.
+
+<img src="img/infty-e^x-per-x-infty.png" alt="infty-e^x-per-x-infty" style="zoom:20%;" />
+
+    $\bullet$
+
+Quando accade questo, si dice che la funzione "tende all'infinito per $x$ che tende all'infinito" e si scrive
+$$
+\displaystyle \lim_{x\to +\infty} f(x) = +\infty
+$$
+Nel primo grafico abbiamo anche che i valori di $f(x) = 2x + 1$ diventano sempre più grandi ma negativi, quando $x$ si sposta più a sinistra: qualunque valore $k$ negativo si scelga, basta spostarsi con la $x$ abbastanza a sinistra ed il valore della funzione $f(x)$ diventa minore di $k$. 
+
+Quando accade questo, si dice che la funzione "tende a meno infinito per $x$ che tende a meno infinito" e si scrive
+$$
+\displaystyle \lim_{x\to -\infty} f(x) = -\infty
+$$
 
 
 ### ESERCIZIO 1 - Limite infinito per x tendente a valore infinito
 
 a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione per un insieme di valori di $x$ che tendano a $+\infty$ o $-\infty$.
 
-1. $\displaystyle \lim_{x\to 0^+} \frac{1}{x} = +\infty$;    $\displaystyle \lim_{x\to 0} \dfrac{1}{x^2} = +\infty$;    $\displaystyle \lim_{x\to 0^+}-\dfrac{1}{4x^4} = -\infty$;
+1. $\displaystyle \lim_{x\to -\infty} x^2 = +\infty$;
+1.  $\displaystyle \lim_{x\to +\infty} \dfrac{1}{x^2} = +\infty$;
+1. $\displaystyle \lim_{x\to \infty} -2^x = -\infty$;
 
 b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 
@@ -27,6 +51,16 @@ b) Dal grafico della funzione deduci i valori dei limiti richiesti.
 2. ![lim-4](img/lim-6.png) 
 
   $\displaystyle \lim_{x\to -\infty} f(x) = ...$;  $\displaystyle \lim_{x\to +\infty} f(x) = ...$;   $\displaystyle \lim_{x\to 1} f(x) = ...$.
+
+
+
+### Limite finito per x tendente a valore infinito
+
+I valori della funzione $f(x) = \dfrac{1}{x}$ diventano sempre più piccoli e vicini allo zero quando $x$ diventa sempre più grande. Come si vede dal grafico, qualunque valore $k$ positivo e piccolo a piacere si scelga, basta spostarsi con la $x$ abbastanza a destra ed il valore della funzione $f(x)$ diventa più piccolo di $k$.
+
+
+
+
 
 
 
@@ -80,6 +114,14 @@ a) Verifica con GEOGEBRA i limiti degli esercizi a.1.2, a.1.3, a.2.3.
 
 
 
+## UNITA' 1: Comportamento delle Funzioni vicino ad un punto
+
+In questa unità vogliamo esaminare cosa succede ai valori di una funzione quando la $x$ diventa sempre più vicina ad un punto del dominio. Vediamo alcuni esempi.
+
+### Limite infinito per x tendente a valore finito
+
+
+
 ### ESERCIZIO 3 - Limite infinito per x tendente a valore finito
 
 a) Verifica i limiti seguenti disegnando con una tabella di punti o con GEOGEBRA un grafico approssimativo della funzione in prossimità del valore di $x$.
@@ -97,6 +139,8 @@ c) La funzione rappresentata dal grafico della figura ha due asintoti verticali.
 1. ![lim-2](img/lim-2.png) 
 
 
+
+### Limite finito per x tendente a valore finito
 
 
 

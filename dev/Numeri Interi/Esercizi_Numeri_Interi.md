@@ -92,7 +92,7 @@ $-4$;      $+9$;      $+7$;      $7\cdot 4$;      $0$.
 
 ### ESERCIZIO 2.2: Uguaglianze e disuguaglianze
 
-a) Controlla la verità delle seguenti relazioni:
+a)^*^  Controlla la verità delle seguenti relazioni:
 
 1. $-1 > 0;$     $-7 < -3;$      $0 \le 0;$      $1 = 1 + 0;$      $5-4 \ge 1+3-4;$
 2. $2+3=11-5;$      $3^{2}-2\text{·}3-1=\left(3-2\right)^{2};$
@@ -162,7 +162,7 @@ Scrivi le espressioni (**NON il solo risultato!**) che, utilizzando i dati conte
 
 a) Ho ottenuto un prestito di 75 euro senza interessi. Dopo un certo tempo ho restituito al creditore 37 euro, poi ho preso in prestito altri 42 euro. Oggi, dopo aver restituito altri 25 euro, qual è la mia situazione (saldo) con il creditore, considerando  negativamente i miei aumenti di debiti (e diminuzione di crediti) e positivamente la diminuzione di debiti (e aumento di crediti)?
 
-b) Una azienda ha realizzato negli anni i profitti riportati in figura:
+b)^*^  Una azienda ha realizzato negli anni i profitti riportati in figura:
 
 <img src="img\profitti.png" alt="profitti" style="zoom:25%;" />
 
@@ -188,7 +188,7 @@ $$
 $$
 Indicando con un numero positivo il distacco tra una squadra e le inseguitrici e con un numero negativo il distacco con le precedenti in classifica, scrivi i distacchi dell'Atalanta e della Juventus. Quale è il nuovo distacco dell'Atalanta dalla Juventus se la prima dimezza il distacco esistente? 
 
-e) Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
+e)^*^  Giocando a carte con tre avversari, effettuo due partite che terminano nel modo seguente:
 1. vincita di 40 punti con il primo giocatore; perdita di 170 punti con il secondo giocatore; vincita di 10 punti con il terzo giocatore;
 2. vincita di 60 punti con ciascun giocatore.
 
@@ -374,20 +374,23 @@ b) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle 
 
 2.  $80+[(4+3\text{·}5):(3+2\text{·}8)].$  
 
-3.  $-(+5)-(-(-1))$.  
+3.  ^*^  $-(+5)-(-(-1))$.  
 
 c) Calcola il valore delle seguenti espressioni.
 
 1. $\left\{ 5[10-2\text{·}(3\text{·}7-5\text{·}4)]\text{·}8\right\} :80+[(4+3\text{·}5):(3+2\text{·}8)]. \enspace\enspace\enspace [R. 5];$  
-2. $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1). \enspace\enspace\enspace\enspace\enspace\enspace\enspace [R. 21];$  
-3. $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
+2. ^*^  $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1). \enspace\enspace\enspace\enspace\enspace\enspace\enspace [R. 21];$  
+3. ^*^  $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}. \enspace\enspace\enspace    [R. 15];$  
 
 d) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le espressioni senza le parentesi "inutili" e di tutte calcola il valore.
 
-1. $4+(3-2)+1;$    $-1(2-3)+5(-6);$    $(2-3)-1-6\cdot 5;$
-2. $(+4)+(+5-9);$    $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
+1. $4+(3-2)+1$;
+2.  $-1(2-3)+5(-6)$;
+3. $(2-3)-1-6\cdot 5$;
+4. $(+4)+(+5-9)$;
+5. ^*^  $[+15-(+7+3-2)]+[-15-(-6+7-1)]$.
 
-e) Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutili.
+e)^*^  Scrivi tre espressioni ciascuna contenente tre numeri, due operazioni ed una coppia di parentesi NON inutili.
 
 #### Laboratorio GEOGEBRA
 
@@ -423,7 +426,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-3.    
+3.    ^*^  
 
    
 
@@ -435,7 +438,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti:
 
 1) $-4(-3)^2-(-2);$
 2) $67-5[-1+(2-8)^2];$  
-4) $ (-20+3(-5)):(21-(-4)^2).$
+4) $(-20+3(-5)):(21-(-4)^2).$
 
 #### Esempio di SOLUZIONE
 
@@ -457,10 +460,10 @@ d) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3;
 
 e) Scrivi il rapporto tra 15 e la somma tra 2 e 3;
 
-f) Sottrai alla somma di 7 e del prodotto di 2 per 3 la differenza tra 15 e il prodotto di 7 per 2, aggiungi poi al
+f)^*^  Sottrai alla somma di 7 e del prodotto di 2 per 3 la differenza tra 15 e il prodotto di 7 per 2, aggiungi poi al
 risultato il quoziente di 16 per -2;
 
-g) Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi al risultato il risultato della divisione tra 15 e la somma tra 2 e 3.
+g)^*^  Moltiplica per -3 la differenza tra 4 e il prodotto di 2 per 3, sottrai poi al risultato il risultato della divisione tra 15 e la somma tra 2 e 3.
 
 #### Esempio di SOLUZIONE
 
@@ -631,8 +634,8 @@ b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 
 1. $3-a^{3}-2 \cdot b^{2}+a^{2}\text{·}(a-b),\ \{a=2,\ b=-2\}$  
 2. $3 \cdot a \cdot b-5 \cdot a^{2}+3 \cdot a-1,\ \{a=-2,\ b=-8\}$  
-3. $(a+b) \cdot (a-b)+a \cdot b-a^{2},\ \{a=6,\ b=-3\}$  
-4. $(x^{2}+a) \cdot x-a \cdot (x-1):(x+1)+4 \cdot a,\ \{x=1,a=-9\}$
+3. ^*^  $(a+b) \cdot (a-b)+a \cdot b-a^{2},\ \{a=6,\ b=-3\}$  
+4. ^*^  $(x^{2}+a) \cdot x-a \cdot (x-1):(x+1)+4 \cdot a,\ \{x=1,a=-9\}$
 
 C) Scrivi le espressioni letterali ottenute sostituendo ai numeri interi le lettere indicate negli esercizi seguenti. Fai attenzione a non cambiare, con la sostituzione, le operazioni contenute nell'espressione. 
 
@@ -685,17 +688,19 @@ $$
 
 #### Laboratorio GEOGEBRA
 
-a) Risolvi i punti a.1) e a.2) con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
+a) Risolvi il punto a.1 con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
 
-a.1.1) $l = \{-5, 5\}$  &#9166;
+1) $l = \{-5, 5\}$  &#9166;
 
-a.1.2) $2 \cdot l \longrightarrow \{10, -10\}$
+2) $2 \cdot l \longrightarrow \{10, -10\}$
 
-a.2.1) $l = \{0, 1, -1, 2, -2\}$  &#9166;
+b) Risolvi il punto a.2 con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
 
-a.2.2) $l^2 \longrightarrow \{0, 1, 1, 4, 4\}$.
+1) $l = \{0, 1, -1, 2, -2\}$  &#9166;
 
-b) Risolvi i punti b.1) e b.2) con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
+2) $l^2 \longrightarrow \{0, 1, 1, 4, 4\}$.
+
+b) Risolvi il punto b.1) con le istruzioni GEOGEBRA seguenti (calcolatrice **CAS**):
 
 1. Inserisci l'espressione letterale, dagli un nome e la lettera da sostituire con l'istruzione seguente:
 
@@ -725,9 +730,9 @@ d) Moltiplica un numero per 4, sottrai al prodotto un suo terzo e somma al risul
 
 e) Somma alla metà di un numero la sua quinta parte e sottrai il numero stesso diminuito di 6. [Sostituzione con $\{x=-20\}$];
 
-f) Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato. [Sostituzione con $\{x=0\}$];
+f)^*^ Scrivi il doppio di un numero diminuito di uno sommato al triplo dello stesso numero al quadrato. [Sostituzione con $\{x=0\}$];
 
-g) Scrivi due numeri consecutivi. [Sostituzione con $\{x=3\}$]. 
+g)^*^ Scrivi due numeri consecutivi. [Sostituzione con $\{x=3\}$]. 
 
 #### Esempio di SOLUZIONE
 
@@ -759,9 +764,9 @@ a) Sottrai $b$ al triplo di $a$,  [Sostituzione con $\{a = 3, b = 2\}$];
 
 b) Aggiungi il quadruplo di $b$ alla differenza tra il triplo di $a$ e $b$ , [Sostituzione con  $\{a = 3, b = 2\}$];
 
-c) Dividi la somma di sette volte $a$ e il cubo di $b$ per la somma di $a$ e $b$,  [Sostituzione con $\{a = 3, b = 3\}$];
+c)^*^ Dividi la somma di sette volte $a$ e il cubo di $b$ per la somma di $a$ e $b$,  [Sostituzione con $\{a = 3, b = 3\}$];
 
-d) Moltiplica la somma del quadruplo di $a$ e del triplo di $b$ per la somma del doppio di $a$ e del triplo di $b$,  [Sostituzione con  $\{a = 3, b = 2\}$].
+d)^*^ Moltiplica la somma del quadruplo di $a$ e del triplo di $b$ per la somma del doppio di $a$ e del triplo di $b$,  [Sostituzione con  $\{a = 3, b = 2\}$].
 
 #### Esempio di SOLUZIONE
 
@@ -779,7 +784,7 @@ a) Un investitore ha comprato il lunedì 800 azioni ad un prezzo di 19 euro cias
 
 b) Alle 6 del pomeriggio la temperatura era di 5 gradi. Per le successive 4 ore la temperatura è scesa di 3 gradi l'ora. Che temperatura c'era alle 10 di sera?
 
-c) Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 3 colonne con, in ogni riga, la data del sedici del mese, il numero di sequenza del mese del pagamento e l'importo, come nell'esempio seguente.
+c)^*^ Un abbonato paga per un contratto telefonico 20 euro al mese. Se una rata non è pagata entro la scadenza (15 del mese successivo), dovrà versare un interesse di mora di 2 euro per ogni mese di ritardo nel pagamento della rata. Calcola il debito/credito accumulato il 16 di ogni mese nei casi elencati di seguito e riportalo (con segno negativo se debito, positivo se credito) in una tabella di 3 colonne con, in ogni riga, la data del sedici del mese, il numero di sequenza del mese del pagamento e l'importo, come nell'esempio seguente.
 
 #### ESEMPIO 1
 
@@ -904,8 +909,11 @@ a) Calcolare le seguenti potenze di numeri interi.
 
 b) Calcola il valore delle seguenti espressioni, applicando le proprietà delle potenze.
 
-1. $(-6)^9:(-6)^3,$    $(-2)^2\cdot(-2)\cdot(-2)^4,$    $[(-6)^3]^2:(6)^5;$
-2. $[(-5)^4\cdot(4)^4] : (-20)^3$,     $[(2)^3\cdot(5)^3]^2:(-10)^3$.
+1. $(-6)^9:(-6)^3$;
+2. $(-2)^2\cdot(-2)\cdot(-2)^4$;
+3. $[(-6)^3]^2:(6)^5$;
+4. ^*^  $[(-5)^4\cdot(4)^4] : (-20)^3$;
+5. ^*^  $[(2)^3\cdot(5)^3]^2:(-10)^3$.
 
 
 
@@ -915,22 +923,31 @@ a) Applicando le proprietà delle potenze, calcola il valore delle seguenti espr
 
 1. $2^{5}:2^{4} + 2·2^{2} - 2^{0};$  
 2. $(3^{4} · 3^{3})^{4} : 3^{5} : (3^{3} )^{5};$  
-3. $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
+3. ^*^  $2^{6} · 3^{6} : 6^{4} : 3^{2};$  
 
-b) Applicando le proprietà, semplifica le espressioni seguenti riscrivendole usando, per ciascuna di esse, il minor numero possibile di potenze.
+b) Applicando le proprietà, semplifica le espressioni seguenti.
 
-1. $2^{4} · 2^{2}·2; \enspace (3^{4})^{2} · 3^{7}; \enspace  2^{3} · 5^{3}; \enspace 2^{4} · 3^{4};$   
-2. $(7^{2} · 2^{2}) · 7^{2}; \enspace (4^{3})^{2} · 2^{6}; \enspace 6^{5} · 2^{5}; \enspace  (4^{5})^{2};$  
+1. $2^{4} · 2^{2}·2$
+2. $(3^{4})^{2} · 3^{7}$
+3. $2^{3} · 5^{3}$
+4. $2^{4} · 3^{4};$   
+5. $(7^{2} · 2^{2}) · 7^{2}$;
+6. ^*^  $(4^{3})^{2} · 2^{6}$;
+7. $6^{5} · 2^{5}$;
+8. ^*^  $(4^{5})^{2}$.
 
 c) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
 
-1. $(6^{3}:6\text{·}6^{2})^{2};$    $(2^{3})^{4}:4^{4};$    $(4\text{·}3^{2})^{3};$     [Suggerimento: sostituisci $4$ con $2^2$];
-2. $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3};$    $[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
+1. $(6^{3}:6\text{·}6^{2})^{2}$;
+2. $(2^{3})^{4}:4^{4}$;
+3. $(4\text{·}3^{2})^{3}$;     [Suggerimento: sostituisci $4$ con $2^2$];
+4. ^*^  $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}$;
+5. ^*^  $[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}];$
 
 d) Semplifica le espressioni seguenti applicando le proprietà delle potenze e calcola il loro valore.
 
-1. $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$
-2. $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$
+1. ^*^  $(6^{3}:6\text{·}6^{2})^{2}:(4\text{·}3^{2})^{3}-[(2^{3})^{4}:4^{4}+2^{0}\text{·}2^{2}]+3^{3}:3;$
+2. ^*^  $\left\{ [(2^{4}-7\text{·}3+2)^{6}:(-3)^{2}]^{3}:(3)^{6}\right\} :[13-(16+6)]^{2}-4^{3}+7.$
 
 
 
@@ -940,15 +957,18 @@ a) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle 
 
 1. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right].$  
 
-2. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right]+\left[3^{2}\cdot2^{2}:\left(6^{3}:6^{2}\right)\right]. \enspace\enspace\enspace [R. 12];$  
+2. $\left[\left(2^{4}+2^{3}\right):\left(8^{2}:4^{2}\right)\right]+\left[3^{2}\cdot2^{2}:\left(6^{3}:6^{2}\right)\right]$;    $[R. 12];$  
 
-3. $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right). \enspace\enspace\enspace [R. 2];$  
+3. ^*^  $\left\{ \left[\left(-6\right)^{3}\cdot\left(-3\right)^{3}\right]:18^{2}\right\} :\left(-18\right)\text{·}\left(-2\right)$.    $[R. 2];$  
 
 b) Calcola il valore delle seguenti espressioni.
 
-1. $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}.     \enspace\enspace\enspace [R. +25];$  
-2. $-4(-3)^2-(-2);\enspace 40:(-4)5;\enspace  -2^2-(-2)^2;\enspace  -15+3(-4+7\cdot 2);$
-3. $67-5[-1+(2-8)^2];\enspace (-20+3(-5)):(21-(-4)^2).$
+1. $-4(-3)^2-(-2)$;
+2. $40:(-4)5$;
+3. $-2^2-(-2)^2$;
+4. $67-5[-1+(2-8)^2]$;
+5. ^*^  $\left\{ 2^{4}:\left[3^{2}\cdot2^{2}-3\left(3^{3}:3\right)-2^{4}:2^{3}+2^{2}-3\right]+3\right\} ^{2}$;      $[R. +25]$
+6. $(-20+3(-5)):(21-(-4)^2)$.
 
 
 
@@ -974,4 +994,4 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere le espressi
 b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi e poi calcola il loro valore (ogni sostituzione riguarda due lettere).
 
 1. $3-a^{3}-2 \cdot b^{2}+a^{2}\text{·}(a-b),\ \{a=2 + 3,\ b=-2 - 3\}$  
-2. $3 \cdot a \cdot b-5 \cdot a^{2}+3 \cdot a-1,\ \{a=2-4,\ b= 1-9\}$.
+2. ^*^  $3 \cdot a \cdot b-5 \cdot a^{2}+3 \cdot a-1,\ \{a=2-4,\ b= 1-9\}$.

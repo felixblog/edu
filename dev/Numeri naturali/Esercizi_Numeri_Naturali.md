@@ -115,9 +115,9 @@ Se ci sono parentesi, i numeri dentro le parentesi devono essere utilizzati prio
 
 #### Quando si tolgono le parentesi?
 
-Le parentesi si tolgono quando al loro interno non ci sono più operazioni da fare, cioè quando contengono un solo numero. La parentesi scompare nel momento in cui il numero tra parentesi, che viene utilizzato come un qualsiasi altro numero senza parentesi, viene utilizzato in una operazione immediatamente fuori dalla parentesi stessa, ossia limitrofa.
+Le parentesi si tolgono quando quando contengono un solo numero, al loro interno non ci sono più operazioni da fare e stiamo eseguendo una operazione immediatamente fuori dalla parentesi stessa, ossia limitrofa: nel passaggio eliminiamo la parentesi ed al suo posto compare il risultato. 
 
-L'esempio seguente chiarisce quanto detto, nel passaggio tra d) ed e).
+L'esempio seguente chiarisce quanto detto, nel passaggio tra d) ed e), per $(15)$ e nel passaggio tra e) ed f) per $(10)$.
 
 #### ESEMPIO 4
 
@@ -228,9 +228,8 @@ b) Individua i numeri, le operazioni di ciascuna delle espressioni seguenti ed i
 5. $15 + 20 : 4 − 2;$
 6. $15 + 20 : (4 − 2)$;    $(15 − 10) · 3 + 2;$
 7. $8·(12 : 6 − 2) + 1$;    $6 − (15 : (2 + 3))$;
-
-8. $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5;$        $[R. 5];$
-9. $4 + 3·(15 : (3 + 1·2) − 1);$            $[R. 10];$
+8. ^*^  $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5;$        $[R. 5];$
+9. ^*^  $4 + 3·(15 : (3 + 1·2) − 1);$            $[R. 10];$
 
 #### Laboratorio GEOGEBRA
 
@@ -252,7 +251,7 @@ c) Sottrai 3 al risultato della divisione di 12 per la differenza tra 5 ed 1.
 
 ### ESERCIZIO 1.3 - Dai numeri alle parole
 
-Scrivi a parole le seguenti espressioni:  
+Scrivi a parole le operazioni da fare per calcolare le seguenti espressioni: ad esempio per la prima "Sottrai a $12$ il risultato di $6$ diviso $3$".
 
 a) $12 − 6 : 3;$
 
@@ -260,7 +259,7 @@ b) $(15 − 10) · 3 + 2;$
 
 c) $8·(12 : 6 − 2) + 1;$
 
-d) $6 − (15 : (2 + 3))$.
+d)^*^  $6 − (15 : (2 + 3))$.
 
 
 
@@ -337,13 +336,13 @@ c) Una cuoca possiede 4 sacchetti di farina del peso di 1 kg ciascuno. Deve fare
 
 d) Se una azienda in un mese produce 600 borse ad un costo medio di 76 euro ciascuna e le vende ad un prezzo di 99 euro l'una, quale sarà il suo ricavo? Ed il suo profitto?  
 
-e) In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 m di tela. La tela viene suddivisa in pezze da 32 m ciascuna. Quante pezze vengono prodotte giornalmente?  
+e)^*^  In uno stabilimento tessile, in una settimana (6 giorni lavorativi), si producono 26.304 m di tela. La tela viene suddivisa in pezze da 32 m ciascuna. Quante pezze vengono prodotte giornalmente?  
 
 f) Un idraulico ha un costo fisso a chiamata di 40 euro ed un ulteriore costo di 35 euro per ogni ora di intervento. Se fa una riparazione che dura 4 ore, quanto pagherà il cliente?
 
-g) Una famiglia sta imbottigliando della conserva di pomodoro. I barattoli sono tutti uguali ed hanno una capienza 750 grammi. Quanti barattoli serviranno per 18 Kg di conserva?
+g)^*^  Una famiglia sta imbottigliando della conserva di pomodoro. I barattoli sono tutti uguali ed hanno una capienza 750 grammi. Quanti barattoli serviranno per 18 Kg di conserva?
 
-h) Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 minuti?   
+h)^*^  Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 10 minuti?   
 
 
 
@@ -406,9 +405,9 @@ c) $15 + 20 : 4 − 2;$
 
 d) $15 + 20 : (4 − 2);$
 
-e) $((27 + 2) - 4 : (3 + 1)) - 20 ;$
+e)^*^  $((27 + 2) - 4 : (3 + 1)) - 20 ;$
 
-f) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $.
+f)^*^  $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)$.
 
 #### Esempio di SOLUZIONE
 
@@ -473,6 +472,7 @@ Se invece abbiamo l'espressione $1 + a \cdot (a - b)$, possiamo decidere di sost
 ### ESERCIZIO 4.1 - Sostituzioni
 
 Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore.
+
 a) $5 \cdot x, \enspace \{x = 50\};$  
 
 b) $2 \cdot y, \enspace \{y = 32\};$
@@ -483,7 +483,7 @@ d) $a^{2} − b^{2}, \enspace \{a = 1, b = 1\};$     $a^{2} − b^{2}, \enspace 
 
 e) $2 \cdot a \cdot (b + 1) - 6ab , \enspace \{a = 3, b = 0\};$
 
-f ) $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
+f )^*^  $(2 \cdot a \cdot b)^{3}, \enspace \{a = 2, b = 3\}$.
 
 
 
@@ -524,7 +524,7 @@ La potenza, quando condivide la base o l'esponente insieme ad altre operazioni u
 3. $5 \cdot 2^3 : 4 \longrightarrow 5 \cdot 8 : 4 \longrightarrow 40 : 4 \longrightarrow 10$;
 4. $5 \cdot 2^{9:3} \longrightarrow 5 \cdot 2^3 \longrightarrow 5 \cdot 8 \longrightarrow 40$;     prima si calcola l'esponente e poi il resto.
 
-Fino a quando non abbiamo incontrato le potenze, le espressioni erano scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta lineare. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama **non lineare** ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ .
+Fino a quando non abbiamo incontrato le potenze, le espressioni erano scritte con numeri ed operazioni tutte sulla stessa linea, con una notazione detta **lineare**. La potenza invece è scritta con l'esponente in alto a destra, al di sopra della linea degli altri numeri ed operazioni. Questa notazione si chiama **non lineare** ed è quella normalmente usata. Se vogliamo scrivere la potenza in forma lineare utilizziamo il simbolo **^**,  ad esempio $2$ \^ $3 \longrightarrow 2^3$ .
 
 Di seguito alcuni esempi di trasformazione tra le due notazioni.
 
@@ -535,7 +535,7 @@ Di seguito alcuni esempi di trasformazione tra le due notazioni.
 5.  $3$ ^ $2 + 1 \longleftrightarrow 3^2 + 1 \longrightarrow 10$;
 6.  $3$ ^ $(2 + 1) \longleftrightarrow 3^3 \longrightarrow 27$;
 
-Un altra situazione in cui si usa una forma non lineare è la divisione. La divisione $10 : 2$ può essere scritta nella forma $\dfrac{10}{2}$, chiamata ***frazione***. Il numero al di sopra della linea orizzontale, che corrisponde al dividendo della divisione, viene chiamato ***numeratore***, e quello al di sotto, corrispondente al divisore, si chiama ***denominatore***. 
+Un altra situazione in cui si usa una forma non lineare è la divisione. La divisione $10 : 2$ ha una forma lineare, così come la sua variante $10 / 2$. La forma $\dfrac{10}{2}$, è una altro modo di scrivere la stessa divisione, chiamata ***frazione***, che però, come si vede, non è lineare. Il numero al di sopra della linea orizzontale, che corrisponde al dividendo della divisione, viene chiamato ***numeratore***, e quello al di sotto, corrispondente al divisore, si chiama ***denominatore***. 
 
 GEOGEBRA scrive le divisioni in forma di frazioni per cui bisogna fare attenzione quando si inseriscono le espressioni per il loro calcolo: quando come dividendo o divisore abbiamo una espressione tra parentesi, **tutta** l'espressione che compare tra le parentesi deve essere scritta al di sopra della linea orizzontale di frazione o al di sotto, senza riportare le parentesi. Le casistiche sono riportate di seguito.
 
@@ -557,9 +557,9 @@ b) Un numero è in notazione scientifica quando è scritto come prodotto di un n
 
 1. Scrivi ciascuno dei numeri che seguono in notazione scientifica: $80, 2000000, 5, 6000, 3000000000;$
 2. Scrivi ciascuno dei numeri che seguono come numero naturale:  $9\cdot 10^4$, $0\cdot 10^2$, $1\cdot 10^8$, $9\cdot 10^0$, $10\cdot 10^1;$
-3. Calcola il valore delle seguenti espressioni in notazione scientifica: $2 \cdot 10^2 \cdot 2 \cdot 10^3; 3 \cdot 10^1 \cdot 2 \cdot 10^3; 8 \cdot 10^9 : (2 \cdot 10^3).$
+3. ^*^  Calcola il valore delle seguenti espressioni in notazione scientifica: $2 \cdot 10^2 \cdot 2 \cdot 10^3; 3 \cdot 10^1 \cdot 2 \cdot 10^3; 8 \cdot 10^9 : (2 \cdot 10^3).$
 
-c) Quali delle uguaglianze seguenti sono vere? Quali false?  
+c)^*^  Quali delle uguaglianze seguenti sono vere? Quali false?  
 
 1. $6^{2} · 6^{4}=6^{8}; \enspace$  
 2. $5^{3} + 5^{4} = 5^{7};$
@@ -584,20 +584,20 @@ a) Trasforma le espressioni seguenti in notazione non lineare e calcola il loro 
 1) $15 + 20 : 4 − 2;$
 2) $15 + 20 : (2$ ^ $2 − 2);$
 3) $((27 + 2) - 4 : (3 + 1)) - 20 ;$
-4) $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)  $;
-5) $(2 - 1)$ ^ $3 + 2$ ^ $2 \cdot 3:(5 + 1)$.
+4) ^*^  $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)$;
+5) ^*^  $(2 - 1)$ ^ $3 + 2$ ^ $2 \cdot 3:(5 + 1)$.
 
 b) Trasforma le espressioni seguenti in notazione lineare.
 
 1. $\dfrac{4 − 1}{ 2^{2}} + \dfrac{45}{3}$;
 2. $\dfrac{4 + 3^{2} − 1}{ 2^{2}} + \dfrac{45}{3^2}$;
-3. $\left( 25 - \dfrac{4 + 3^{2}}{ 2^{2}}\right)^3 - \dfrac{2 \cdot 3^2}{6}$.
+3. ^*^  $\left( 25 - \dfrac{4 + 3^{2}}{ 2^{2}}\right)^3 - \dfrac{2 \cdot 3^2}{6}$.
 
 c) Calcola il valore delle seguenti espressioni
 
 1. $((2^{4} + 2^{3}) : (8^{2} : 4^{2})) +(3^{2} · 2^{2} : (6^{3} : 6^{2}))$;                $[R. 12]$
 
-2. $((2^{4} + 2^{3}) : (2^{2 \cdot 3} : 2^{2+2})) +(3^{2} · 2^{2} : 6^{3-2}))$;                $[R. 12]$  
+2. ^*^  $((2^{4} + 2^{3}) : (2^{2 \cdot 3} : 2^{2+2})) +(3^{2} · 2^{2} : 6^{3-2}))$;                $[R. 12]$  
 
 
 
@@ -759,7 +759,7 @@ b) Risolvi il punto b) dell'esercizio con le istruzioni GEOGEBRA seguenti (calco
 
 4. $Successione(6k, \; k, \; 1, \; 4)$&#9166; 
 
-c) Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
+c)^*^  Scrivi i multipli minori di 100 dei numeri 25, 40 con le istruzioni GEOGEBRA seguenti (calcolatrice CAS):
 
 1. $a=floor(\dfrac{100}{25}))$&#9166;    		// Parte intera della divisione tra 100 e 25 
 
@@ -886,13 +886,13 @@ $$
 $$
 Questo accade perché se indichiamo con $x$ il risultato della divisione $12 : 4$, ossia $3$, abbiamo il ragionamento seguente.
 
-a) $12 = x \cdot 4$	$\longrightarrow$ per definizione di divisione;
+a) $12 = x \cdot 4$	per definizione di divisione;
 
-b) $6 \cdot 2 = x \cdot 2 \cdot 2$;   $\longrightarrow$ scomponendo in fattori;
+b) $6 \cdot 2 = x \cdot 2 \cdot 2$;    scomponendo in fattori;
 
-c) $6 \cdot 2 : 2 = x \cdot 2 \cdot 2 : 2$   $\longrightarrow$ dividendo tutto per $2$,
+c) $6 \cdot 2 : 2 = x \cdot 2 \cdot 2 : 2$   dividendo tutto per $2$,
 
-d) $6 = x \cdot 2$.   $\longrightarrow$ per annullamento di moltiplicazione e divisione.
+d) $6 = x \cdot 2$.    per annullamento di moltiplicazione e divisione.
 
 
 
@@ -902,5 +902,5 @@ a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono v
 
 1. $40 = 5 \cdot(? + !) = 5 \cdot ? + 5 \cdot !$;
 2. $14 = 6 + 8 = 2 \cdot (? + !)$ 
-3. $350 + 252 = ?(!+126) = 602$.
+3. ^*^  $350 + 252 = ?(!+126) = 602$.
 
