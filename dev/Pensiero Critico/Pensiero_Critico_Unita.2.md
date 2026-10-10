@@ -77,7 +77,7 @@ La figura seguente riassume le situazioni che possono presentarsi di fronte ad u
 Un'affermazione è falsa quando non corrisponde alla realtà dei fatti. Quando si crede a qualcosa di falso, la visione del mondo è, almeno in parte, imprecisa.
 
 >
-> $\triangle$ Con **misinformazione** (in inglese "misinformation"), intendiamo un contenuto falso diffuso da qualcuno che lo crede vero, ossia diffuso in buona fede.
+> $\triangle$ Con **misinformazione** (in inglese "misinformation"), intendiamo una informazione, un contenuto falso, inesatto o fuorviante diffuso da qualcuno che lo crede vero, ossia diffuso in buona fede.
 > 
 
 La misinformazione deriva da un errore: chi scrive o condivide la notizia pensa che sia vera, ma in realtà non lo è.
@@ -96,7 +96,7 @@ Il nostro ambiente informativo è saturo di disinformazione. Ogni volta che un'a
 I governi sono impegnati nella disinformazione da secoli, nella forma che viene chiamata <u>propaganda</u>.
 
 >
-> $\triangle$  La **propaganda** è costituita da qualsiasi materiale ingannevole o palesemente falso, diffuso da governi, aziende o altri soggetti, al fine di manipolare intenzionalmente una popolazione. Sebbene possa assumere forme diverse (film, opere d'arte eccetera), una delle più importanti è la disinformazione vera e propria.
+> $\triangle$  La **propaganda** è costituita da qualsiasi materiale ingannevole o palesemente falso, diffuso da governi, aziende o altri soggetti, al fine di manipolare intenzionalmente una popolazione. Sebbene possa assumere forme diverse come pubblicità commerciale, film, opere d'arte eccetera, una delle più importanti per le sue conseguenze negative è la disinformazione vera e propria.
 > 
 
 Se la guerra non sta andando bene e il governo, consapevolmente, comunica ai cittadini il contrario: si tratta di disinformazione. Quando un troll online inventa una storia per incitare gli avversari politici, si sta impegnando in una campagna di disinformazione.
@@ -107,18 +107,18 @@ Una forma particolarmente comune di disinformazione è la fake news. La fake new
 > $\triangle$  Una **Fake News** è una notizia falsa, mascherata da notizia vera e diffusa intenzionalmente.
 >
 
-Ad esempio, quando il Partito Comunista Cinese diffonde disinformazione sui social media attribuendola alla CNN, sta producendo fake news. Oppure, quando un attivista politico crea un sito web che sembra quello di una rispettabile testata giornalistica locale, ma nella realtà è una copertura per pubblicare disinformazione, si tratta di fake news. In breve le Fake News sono notizie false o contraffatte mascherate da notizie vere.
+Ad esempio, quando il Partito Comunista Cinese diffonde disinformazione sui social media attribuendola alla CNN, sta producendo fake news. Oppure, quando un attivista politico crea un sito web che sembra quello di una rispettabile testata giornalistica locale, ma nella realtà è una copertura per pubblicare disinformazione, si tratta di fake news. In breve le Fake News sono notizie false o contraffatte **mascherate** da notizie vere.
 
 
 
 
 ### Il Ruolo dei Media Tradizionali (Broadcasting) 
 
-I mass media raramente si impegnano nel separare le fonti affidabili da quelle inaffidabili, anzi, spesso, utilizzano tecniche di persuasione che si avvalgono di informazioni non affidabili. Uno dei fenomeni più frequenti è quello del  <u>falso equilibrio</u> nei dibattiti, in cui viene fornita una fonte per ciascuna parte, ma si trascura il diverso peso effettivo delle fonti.
+I mass media raramente si impegnano nel separare le fonti affidabili da quelle inaffidabili, anzi, spesso, utilizzano tecniche di persuasione che tendono a fuorviare gli spettatori. Uno dei fenomeni più frequenti è quello del  <u>falso equilibrio</u> nei dibattiti, in cui viene fornita una fonte per ciascuna parte, trascurando la diversa credibilità delle fonti stesse, ad esempio si dà lo stesso peso e la stessa dignità a una tesi scientifica consolidata (basata su prove e consenso degli esperti) e ad un'opinione minoritaria, priva di fondamento o smentita dai fatti come quando si mette a confronto un climatologo e uno scettico del riscaldamento globale, oppure un medico e un oppositore dei vaccini.
 
-I media puntano sul contrasto ed il conflitto per creare ascolto e quindi preferiscono le posizioni estreme e lo spettacolo alla analisi attenta per estrarre la verità. Per questa tendenza è stato coniato un termine specifico: **infotainment**, unione di "information" ed "entertainment". «informazione» e «divertimento, intrattenimento»: un tipo di produzione, in special modo televisiva, in cui la componente giornalistica viene alternata o fusa con lo spettacolo e il varietà: la forma è quella del salotto in cui giornalisti, politici e personaggi dello spettacolo parlano di attualità dando le loro opinioni e giudizi.
+Tali contrasti sono favoriti perché creano più ascolto, motivo per cui i media tradizionali preferiscono le posizioni estreme e lo spettacolo ad una analisi attenta per individuare la verità. Per l'utilizzo dello spettacolo durante l'informazione è stato coniato un termine specifico: **infotainment**, unione di "information" (informazione) ed "entertainment" (divertimento, intrattenimento). Si tratta di un tipo di produzione, in special modo televisiva, in cui la componente giornalistica viene alternata o fusa con lo spettacolo e il varietà: la forma è quella del salotto in cui giornalisti, politici e personaggi dello spettacolo parlano di attualità dando le loro opinioni e giudizi.
 
-Generalmente i media tradizionali dedicano poco tempo ad esaminare le prove o a valutare dati contraddittori. Hanno una scarsa capacità di attenzione, che, unita al ciclo di notizie 24 ore su 24, genera una frenetica tendenza a trarre conclusioni immediate ed a ripeterle all'infinito.
+Come si è visto, i media tradizionali dedicano generalmente poco tempo all'esame accurato e critico delle problematiche trattate; questo atteggiamento, motivato e giustificato sia dallo scarso interesse ed attenzione degli spettatori per l'esame attento delle argomentazioni che al ciclo delle notizie 24 ore su 24, genera nel dibattito pubblico una frenetica tendenza a trarre conclusioni immediate che vengono ripetute innumerevoli volte.
 
 Il fenomeno per cui <u>ripetere più volte un'informazione</u> la fa percepire come vera è un meccanismo psicologico ben noto, spesso sfruttato dai media tradizionali (giornali, TV, radio) e dalla pubblicità per influenzare l'opinione pubblica (*“Ripetete una bugia cento, mille, un milione di volte e diventerà una verità”* è una famosa frase attribuita a Joseph Goebbels, ministro della propaganda nella Germania nazista degli anni '30).
 
@@ -132,7 +132,7 @@ Spesso associata alla propaganda o a strategie di marketing delle aziende, quest
 
 Internet ha rivoluzionato il nostro modo di comunicare ed ha fornito un numero enorme di nuove possibilità che hanno avuto impatto sia sulla nostra vita privata che sul mondo degli affari.
 
-Internet ha però anche un enorme potenziale di diffusione della disinformazione, per cui le notizie che fornisce devono essere valutate con ancora maggiore cautela rispetto alle informazioni provenienti dalla stampa, dalla radio o dalla televisione.
+Internet ha però anche un enorme potenziale di **diffusione della disinformazione**, per cui le notizie che fornisce devono essere valutate con ancora maggiore cautela rispetto alle informazioni provenienti dalla stampa, dalla radio o dalla televisione.
 
 Esistono fondamentalmente due tipi di fonti di informazione su Internet: la prima
 è costituita da fonti commerciali e istituzionali, la seconda è formata da siti Web, individuali e di gruppo. 
@@ -179,39 +179,39 @@ VOCE AL TELEFONO: Salve, signor Roberts, qui HSBC. Ha recentemente effettuato un
 
 SIG. ROBERTS: No, non l'ho fatto...
 
-VOCE AL TELEFONO: Lo immaginavamo, signor Roberts. Mi dispiace informarla che è molto probabile che la sua carta di credito sia stata compromessa e venga utilizzata da terzi. Tuttavia, siamo pronti a bloccare la carta e a inviarle immediatamente un'altra, senza alcun costo aggiuntivo.
+VOCE AL TELEFONO: Lo immaginavamo, signor Roberts. Mi dispiace informarla che è molto probabile che la sua carta di credito sia stata compromessa e venga utilizzata da terzi. Tuttavia, siamo pronti a bloccare la carta e ad inviargliene immediatamente un'altra, senza alcun costo aggiuntivo.
 
 SIG. ROBERTS: Va bene, immagino.
 
 VOCE AL TELEFONO: Vorrei sottolineare che subirà un disagio minimo e non dovrà sostenere alcuna spesa. Ora, per l'autorizzazione, solo per essere certi di chiamare la persona giusta, signor Roberts, la prego di indicare il numero della sua carta di credito e la data di scadenza.
 
-Cosa dovrebbe fare il signor Roberts, in quanto pensatore critico?
+Cosa dovrebbe fare il signor Roberts, in quanto soggetto consapevole?
 
 
 
-b) ANCHORAGE, Alaska (AP) – Legata ai suoi figli gemelli per sicurezza, Joni Phelps ha raggiunto la cima del Monte McKinley. Il National Park Service afferma che Phelps, 54 anni, è apparentemente la prima donna non vedente ad aver scalato la vetta di 6.192 metri.
+b) ANCHORAGE, Alaska (AP) – Legata, per sicurezza, ai suoi figli gemelli, Joni Phelps ha raggiunto la cima del Monte McKinley. Il National Park Service afferma che Phelps, 54 anni, è apparentemente la prima donna non vedente ad aver scalato la vetta di 6.192 metri.
 
 Questa notizia è:
 
 1. probabilmente vera;
 2. probabilmente falsa;
-3. troppo vaga; sono necessarie ulteriori informazioni prima di poter esprimere un giudizio.
+3. troppo vaga; sono necessarie ulteriori informazioni prima di poter esprimere un giudizio?
 
 
 
-c) Hai letto recensioni entusiastiche di "The Life Plan", un libro che promette di rallentare l'invecchiamento, aumentare la forza, migliorare la vita sessuale e così via attraverso la dieta, l'esercizio fisico e la terapia ormonale. Un lettore del libro può aspettarsi di ottenere i risultati descritti? Ci sono delle precauzioni da prendere prima di iniziare un programma del genere?
+c) Hai letto recensioni entusiastiche di "The Life Plan", un libro che promette di rallentare l'invecchiamento, aumentare la forza, migliorare la vita sessuale e così via attraverso la dieta, l'esercizio fisico e la terapia ormonale. Un lettore del libro può aspettarsi di ottenere i risultati descritti? Ci sono, secondo te, delle precauzioni da prendere prima di iniziare un programma del genere?
 
 
 
 ## UNITA' 3: La credibilità delle informazioni
 
-In questo capitolo ci porremo il problema della credibilità di una informazione, ossia cercheremo di rispondere al problema della **credibilità delle informazioni**, che ci si può porre in diversi modi, tutti equivalenti:
+In questo capitolo affronteremo il problema della **credibilità delle informazioni**, che ci si può porre in diversi modi, tutti equivalenti:
 
 1. come possiamo sapere se una informazione in cui ci imbattiamo è vera?
 2. di cosa abbiamo bisogno per credere che una informazione sia vera?
 3. cosa possiamo fare per assicurarci della verità di una informazione? 
 
-Premesso che non ci sono metodi che <u>garantiscono</u> di scoprire le notizie false ed isolarle dalle altre con certezza, si possono adottare degli accorgimenti per ridurre il rischio di essere manipolati o ingannati e tutti questi accorgimenti possono essere ripartiti in due gruppi, quelli che riguardano la <u>credibilità del contenuto</u> e quelli che riguardano la <u>credibilità della fonte</u>.
+Premesso che non ci sono metodi che diano la  <u>garanzia</u> di identificare le notizie false per isolarle dalle altre con certezza, si possono adottare degli accorgimenti per ridurre il rischio di essere manipolati o ingannati e tutti questi accorgimenti possono essere ripartiti in due gruppi, quelli che riguardano la <u>credibilità del contenuto</u> e quelli che riguardano la <u>credibilità della fonte</u>.
 
 
 
@@ -238,10 +238,10 @@ Questo criterio presenta due criticità:
 - possibilità che la nuova informazione sia vera nonostante il conflitto con le nostre conoscenze pregresse.
 
 >
-> Qualche tempo fa, un giornale aveva un articolo sul furto di una casa a in Texas: una casa in mattoni. È certamente inverosimile: come si può rubare una casa? Eppure esistono <u>prove credibili</u> che l'evento sia realmente accaduto, ed a volte anche cose più strane si rivelano vere.
+> Qualche tempo fa, un giornale aveva un articolo sul furto di una edificio in Texas: un edificio in mattoni. È certamente inverosimile: come si può rubare una casa? Eppure esistono <u>prove credibili</u> che l'evento sia realmente accaduto, ed a volte anche cose più strane si rivelano vere.
 >
 
-Il nostro compito, in quanto pensatori critici, è quindi quello di utilizzare le conoscenze pregresse per valutare la plausibilità di una nuova affermazione, ma allo stesso tempo mantenere una mente aperta e renderci conto che ulteriori informazioni potrebbero portarci ad abbandonare una convinzione pregressa che credevamo vera ed rivalutare la nuova affermazione che aveva una bassa plausibilità iniziale.
+Il nostro compito, in quanto soggetti critici, è quindi quello di utilizzare le conoscenze pregresse per valutare la plausibilità di una nuova affermazione, ma allo stesso tempo mantenere una mente aperta e renderci conto che ulteriori informazioni potrebbero portarci ad abbandonare una convinzione che credevamo vera ed rivalutare la nuova affermazione che aveva una bassa plausibilità iniziale.
 
 
 

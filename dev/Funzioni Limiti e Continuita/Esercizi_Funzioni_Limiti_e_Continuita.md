@@ -20,7 +20,7 @@ La stessa cosa accade per tante altre funzioni, ad esempio $f(x)=2^x$.
 
 <img src="img/infty-e^x-per-x-infty.png" alt="infty-e^x-per-x-infty" style="zoom:20%;" />
 
-    $\bullet$
+     $\bullet$
 
 Quando accade questo, si dice che la funzione "tende all'infinito per $x$ che tende all'infinito" e si scrive
 $$
