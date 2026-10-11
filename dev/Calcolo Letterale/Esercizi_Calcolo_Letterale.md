@@ -154,8 +154,6 @@ Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo vi
 
 In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Tutti i monomi hanno una parte letterale ed una parte numerica, anche se non è immediato vederle: una sola lettera, ad esempio $s$ è un monomio (di grado $1$ e con parte numerica $1$), $-x$ è un monomio con parte numerica $-1$.
 
-In una espressione letterale, anche un singolo numero, come $-\dfrac{3}{2}$ o $1$, può essere considerato un monomio con la parte numerica che corrisponde al numero, e zero lettere, cioè un monomio di **grado zero**. 
-
 In un monomio il simbolo di prodotto si può anche non scrivere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo **sempre usare il segno di prodotto**.
 
 #### ESEMPIO 2
@@ -170,9 +168,21 @@ $2$: monomio di grado $0$.   $\bullet$
 
 
 
+#### Numeri come monomi
+
+In una espressione letterale, anche un singolo numero, come $-\dfrac{3}{2}$ o $1$, può essere considerato un monomio con la parte numerica che corrisponde al numero, e zero lettere, cioè un monomio di **grado zero**. 
+
+Poiché ogni numero elevato a zero è uguale ad $1$, un numero può essere pensato come un monomio che ha la parte letterale formata da una o più lettere tutte elevate a zero, cioè $1 = 1a^0$ oppure $-10 = -10x^0$ o addirittura con più lettere:
+$$
+-\dfrac{3}{2} = -\dfrac{3}{2}a^0x^0y^0
+$$
+
+
 Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
 Il monomio è il "**mattone**" con cui costruiamo le espressioni letterali, che saranno quindi fatte di somme (algebriche), prodotti, e rapporti di monomi come $a + \dfrac{1}{2}ab^2$,  $2s + 3s^2 + 1$ etc. 
+
+
 
 ### ESERCIZIO 2.1 - Forma normale dei monomi
 
@@ -223,21 +233,21 @@ a) Scrivi una espressione letterale che risolve i seguenti problemi:
 2. Una piscina viene suddivisa in $8$ corsie della stessa larghezza con dei galleggianti. Se la piscina è larga $l$ metri, quanto è larga ogni corsia?
 3. Quale è il valore, in euro, di $x$ monete da $20$ centesimi ciascuna? e se aggiungiamo $10$ monete da $5$ centesimi?
 
-b) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il $\text{150 \%}$ in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
+b)^*^  L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il $\text{150 \%}$ in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
 
-c) Uno studente deve scrivere un documento che contiene $x$ parole al PC. Se lo studente scrive $60$ parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
+c)^*^  Uno studente deve scrivere un documento che contiene $x$ parole al PC. Se lo studente scrive $60$ parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
 
 d) Un corteo di $b$ automobili, ciascuna con $5$ persone a bordo, sta viaggiando verso la capitale per una manifestazione politica. Scrivi quante persone stanno andando alla manifestazione in corteo.  
 
-e) Una barca di $12$ metri deve essere divisa in due parti. Indica con una lettera la lunghezza di una delle parti e scrivi l'espressione che calcola la lunghezza dell'altra parte.  
+e)^*^  Una barca di $12$ metri deve essere divisa in due parti. Indica con una lettera la lunghezza di una delle parti e scrivi l'espressione che calcola la lunghezza dell'altra parte.  
 
 f) Il numero dei partecipanti ad una maratona quest'anno è superiore di $25$ unità al doppio di quello dell'ultimo anno. Scrivi una espressione che indica il numero dei partecipanti di quest'anno.   
 
-g) L'IBM è stata fondata $80$ anni prima della Apple. La Dell è stata fondata $9$ anni prima della Apple. 
+g)^*^  L'IBM è stata fondata $80$ anni prima della Apple. La Dell è stata fondata $9$ anni prima della Apple. 
 1. Indica con una lettera gli anni d'età di una delle aziende e scrivi le espressioni che indicano l'età delle altre.
 2. Il primo Aprile $2008$ la Apple ha compiuto $32$ anni. Quanti anni avevano le altre due?  
 
-h) Lincoln è stato eletto presidente degli USA $60$ anni dopo Jefferson. Trump è stato eletto $215$ anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno $n$.
+h)^*^  Lincoln è stato eletto presidente degli USA $60$ anni dopo Jefferson. Trump è stato eletto $215$ anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno $n$.
 
 i) Una persona deposita in banca un capitale $C$ su un conto che rende il $\text{5 \%}$ di interesse annuo il primo anno, il $\text{7 \%}$ il secondo ed il $\text{10 \%}$ il terzo. Quanto avrà reso il deposito se sul conto per tutti e tre gli anni c'è sempre la stessa cifra iniziale?
 
@@ -253,7 +263,7 @@ a) Scrivi le espressioni numeriche che forniscono le soluzioni dei seguenti prob
 
 3. Un idraulico ha un costo fisso a chiamata di $40$ euro ed un ulteriore costo di $35$ euro l'ora. Se fa un intervento che dura $4$ ore, quanto pagherà il cliente?
 
-b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si ottiene sostituendo ai numeri le lettere di volta in volta indicate.
+b)^*^  Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si ottiene sostituendo ai numeri le lettere di volta in volta indicate.
 
 1.  $n= 600$;   $C = 76$;   $P=99$;
 2. $T=26.304$;   $l=32$;
@@ -280,19 +290,19 @@ La somma di due monomi **non** simili **non** è un singolo monomi ma rimane una
 
 #### ESEMPIO 1
 
-a) Sommiamo i monomi $-3x$ e $2x$:
+a) Sommiamo i monomi $-3x$ e $2x$:
 
 1. $-3x + 2x$;
 2. $(-3 + 2)x$;
 3. $-x$.
 
-b) Sommiamo i monomi $5ax^2$, $2ax^2$ e $-10ax^2$: 
+b) Sommiamo i monomi $5ax^2$, $2ax^2$ e $-10ax^2$: 
 
 1. $5ax^2 + 2ax^2 -10ax^2$;
 2. $(5 +2-10)x^2$;
 3. $-3ax^2$.
 
-c) Sommiamo $-3x$ e $2x^2$:
+c) Sommiamo $-3x$ e $2x^2$:
 
 1. $-3x + 2x^2$;
 2. $-3x + 2x^2$.   I monomi non sono simili, non si sommano e la somma **non è un monomio!** .    $\bullet$
@@ -349,7 +359,9 @@ b) $-100a^3x^6$.     $\bullet$
 
 #### Operazioni nelle espressioni letterali
 
-Nelle unità precedenti spesso ci siamo chiesti quante operazioni ci fossero in una espressione. Anche in questa unità ce lo chiediamo, ma facendo una differenza tra **operazioni tra numeri/lettere** ed **operazioni tra monomi**.
+Nelle unità precedenti spesso ci siamo chiesti quante operazioni ci fossero in una espressione. Anche in questa unità ce lo chiediamo, ma stavolta cerchiamo le **operazioni tra monomi**. 
+
+Per contarle dobbiamo capire la differenza che c'è tra le operazioni tra numeri e quelle tra monomi.
 
 Consideriamo l'espressione $2abx -cx +1$. Le operazioni tra singoli numeri o lettere sono $7$ e precisamente le seguenti:
 $$
@@ -359,7 +371,17 @@ Se invece consideriamo le operazioni tra monomi, abbiamo due somme algebriche se
 $$
 2abx \overset{\overset{+/-}\downarrow}\ -cx \overset{\overset{+/-}\downarrow}\ +1
 $$
-Poiché i "building block", ossia i mattoni che costituiscono le espressioni in questa unità sono i monomi, spesso sono proprio le operazioni tra monomi quelle che andremo a considerare.
+Per capire quante operazioni sono presenti, la prima cosa è contare quanti monomi ci sono in una espressione.
+
+#### ESEMPIO 5
+
+Quante operazioni tra monomi sono presenti nell'espressione $-\dfrac{3}{4}abx^2(2 + a) - (x + a)x^2$?
+
+I monomi sono sette (compresi i numeri $-1$ e $2$). Le operazioni sono quindi $6$ e sono indicate di sotto:
+$$
+-\dfrac{3}{4}abx^2 \overset{\overset{\cdot}\downarrow}\cdot (2 \overset{\overset{+/-}\downarrow}\ + a)\overset{\overset{+/-}\downarrow}\ -1\overset{\overset{\cdot}\downarrow}\cdot (x \overset{\overset{+/-}\downarrow}\ + a) \overset{\overset{\cdot}\downarrow}\cdot x^2
+$$
+$\bullet$
 
 
 
@@ -399,18 +421,18 @@ c) Tra i monomi seguenti, quali sono uguali? quali sono simili?
 
 ### ESERCIZIO 3.3 - Somme e prodotti di monomi
 
-a) Individua **quanti e quali** monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
+a) Individua **quanti e quali** monomi in forma normale ed operazioni tra di loro contiene ciascuna delle espressioni letterali seguenti e, se possibile, scrivi i monomi in forma normale e semplificale.
 
 1. $a^{2}x\,\cdotp\left(\dfrac{1}{2}x\right)+\left(\dfrac{1}{2}ax\right)\,\cdotp\left(\dfrac{3}{2}a\right)-\dfrac{2}{3}a^{2}x^{2}$; 
 2. $\left(-2x\right)\left(-\dfrac{1}{2}y\right)+\left(-2y\right)x+xy+y\left(-x\right)+2xy+y\left(-x\right)$;
 3. $x^{2}+7x^{2}-2\left(-x^{2}\right)+2\left(-4\right)x^{2}+2x^{2}-2x^{2}+x^{2}-x\left(2x\right)+4x^{2}-2\left(2x^{2}\right)$.
 
-b) Individua **quanti e quali** monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, semplificale.
+b) Individua **quanti e quali** monomi in forma normale ed operazioni contiene ciascuna delle espressioni letterali seguenti e, se possibile, scrivi i monomi in forma normale e semplificale.
 
 1.  $ab\left(-\dfrac{1}{2}\right)a^{2}$;
 2.  $abcde \cdot \dfrac{5}{2 \cdot 3}$;
-3.  $\dfrac{5}{3}b\left(-4\right)a : \dfrac{ab^2x}{3}$;
-4.  $a + 2a^2 \cdot \dfrac{2}{-3}$.
+3.  $\dfrac{5}{3}b\left(-4\right)a + \dfrac{ab^2x}{3}$;
+4.  ^*^  $a + 2a^2 \cdot \dfrac{2}{-3}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -457,14 +479,14 @@ Anche un singolo monomio può essere considerato una frazione algebrica (con al 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
 
 1. $ax:a$;     $-\dfrac{1}{4}ax:a$;     $a:\dfrac{1}{4}$;
-2. $\dfrac{-\dfrac{1}{4}ax}{a}$;     $\dfrac{1}{7a^2b}\cdot ab^2$;      $\dfrac{5}{2}a^4x:a^3x^2$;
+2. ^*^  $\dfrac{-\dfrac{1}{4}ax}{a}$;     $\dfrac{1}{7a^2b}\cdot ab^2$;      $\dfrac{5}{2}a^4x:a^3x^2$;
 3. $4a^5b^3 : (-ab^3)$;     $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;     $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$;
-4. $\dfrac{5x^2y}{10x^3y}$;     $\dfrac{7a^2x}{a^2x^2}$;     $-\dfrac{4bx^2}{6b}$.
+4. ^*^  $\dfrac{5x^2y}{10x^3y}$;     $\dfrac{7a^2x}{a^2x^2}$;     $-\dfrac{4bx^2}{6b}$.
 
 b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti. 
 
 1. $\dfrac{5}{2}a^4x$;     $a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
-2. $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
+2. ^*^  $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
 
 
 
@@ -597,7 +619,7 @@ a) $(1 - b)(-3)$
 
 b) $1 \cdot (-3) -b \cdot (-3)$
 
-c) $ -3 + 3b$.     $\bullet$
+c) $-3 + 3b$.     $\bullet$
 
 #### ESEMPIO 4
 
@@ -607,7 +629,7 @@ b) $c +(-a \cdot 1 -a \cdot (-b))(-3)$   compare il segno $+$ davanti alla paren
 
 c) $c +( -a + ab)(-3)$
 
-d) $c +(+3a - 3ab)$  il segno $+$ scompare con la moltiplicazione per $+1$;
+d) $c +(+3a - 3ab)$               il segno $+$ scompare con la moltiplicazione per $+1$;
 
 e) $c +3a - 3ab$      $\bullet$
 
@@ -617,7 +639,7 @@ Provare ad eseguire ciascuno degli esempi in GEOGEBRA con il comando $Semplifica
 
 $Semplifica(c -a\cdot(1 - b)\cdot(-3))$  &#9166;
 
-$\Longrightarrow -3ab + 3a + c$
+$\longrightarrow -3ab + 3a + c$
 
 
 
@@ -625,13 +647,15 @@ $\Longrightarrow -3ab + 3a + c$
 
 a) Scrivi il polinomio risultato dei prodotti seguenti.
 
-1. $6(x^{2}-2y)$;     $-2 \cdot (-3xy+2)$;
+1. $6(x^{2}-2y)$;
 
-2. $(x+a)a$;     $(by-1)b$ ;
+2. $$-2 \cdot (-3xy+2)$;
 
-3. $-4x^{2}y \cdot (-x^{3}+2xy-y)$ ;
+3. $(x+a)a$;     $(by-1)b$ ;
 
-4. $(2x+3y)(-4x) -3y(-4x+y) + (4x^{2}+3y^{2})(-2)$ .
+4. $-4x^{2}y \cdot (-x^{3}+2xy-y)$ ;
+
+5. ^*^  $(2x+3y)(-4x) -3y(-4x+y) + (4x^{2}+3y^{2})(-2)$ .
 
 
 
@@ -641,7 +665,7 @@ La somma di due polinomi si ottiene sommando (algebricamente) tra di loro tutti 
 
 ### ESERCIZIO 6.2 - Somma di polinomi
 
-Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
+a) Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
 
 
 a) $4x^{3}-5x^{2}+2$;     $-3x^{3}+2x^{2}-2$  
@@ -650,7 +674,7 @@ b) $3a^{3}+5a^{2}-2a+1$;     $3a^{3}-2a^{2}+5a-7$
 
 
 
-### ESERCIZIO 6.3 - Dalle parole alle espressioni III
+### ESERCIZIO 6.3^*^ - Dalle parole alle espressioni III
 
 Dati i polinomi seguenti:
 
@@ -673,7 +697,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-## UNITA' 6: Prodotti di polinomi^*^
+## UNITA' 6^*^: Prodotti di polinomi
 
 Il prodotto di due polinomi è un polinomio che si calcola moltiplicando ogni monomio del primo polinomio per il secondo polinomio e sommando questi prodotti.
 
@@ -709,13 +733,16 @@ Provare ad eseguire i prodotti negli esempi con il comando GEOGEBRA $Sviluppa((a
 
 ### ESERCIZIO 6.4 - Prodotto di polinomi
 
-Scrivi i risultati dei prodotti seguenti in forma normale.  
+a) Scrivi i risultati dei prodotti seguenti in forma normale.  
 
-a) $\left(2a-3b\right)\left(5a+4b\right)$;     $\left(x-3y\right)\left(5x+y\right)$  
+1. $\left(2a-3b\right)\left(5a+4b\right)$;
+2. $\left(x-3y\right)\left(5x+y\right)$.
 
-b) $\left(2x+y\right)\left(4x^{2}+2xy+y^{2}\right)$;     $\left(a^{3}-3a+2\right)\left(\dfrac{1}{2}a+1\right)$
+b)^*^   Scrivi i risultati dei prodotti seguenti in forma normale. 
 
-c) $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right)$
+1. $\left(2x+y\right)\left(4x^{2}+2xy+y^{2}\right)$;
+2. $\left(a^{3}-3a+2\right)\left(\dfrac{1}{2}a+1\right)$
+3. $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right)$
 
 #### Laboratorio GEOGEBRA
 
@@ -727,7 +754,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 7: Scomposizione in fattori di polinomi 
+## UNITA' 7^*^: Scomposizione in fattori di polinomi 
 
 Nelle unità precedenti abbiamo visto come si calcola il prodotto di un monomio per un polinomio (ed il prodotto di due polinomi). Ora vediamo se e come si può fare l'operazione inversa, ossia riconoscere se un polinomio si può anche scrivere come prodotto tra un monomio ed un polinomio. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché, come nel caso dei numeri in cui abbiamo scomposto un numero in fattori, ad esempio $15 = 3 \cdot 5$ oppure $12 = 3 \cdot 2^2$, ha l'obiettivo di scrivere un polinomio come prodotto.
 
@@ -757,7 +784,7 @@ a) Scrivi i polinomi seguenti come prodotto di un monomio per un polinomio, indi
 
 1. $6x^2-12y$;      $-4+6xy$;      $-a-b$;
 2. $a^2 +ax$;      $b^2y - b$;      $-y^2 +2xy + 3y$;
-3. $-8x^2 -12xy$;      $4abc^2-8cba^2$.
+3. ^*^  $-8x^2 -12xy$;      $4abc^2-8cba^2$.
 
 #### Laboratorio GEOGEBRA
 
@@ -835,7 +862,7 @@ b) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tr
 
 
 
-## UNITA' 9: Frazioni algebriche
+## UNITA' 9^*^: Frazioni algebriche
 
 La scomposizione in fattori di polinomi è utile nella semplificazione delle frazioni algebriche. Una **frazione algebrica** è un rapporto tra un polinomio ed un monomio o tra due polinomi. Ad esempio le seguenti sono tutte frazioni algebriche
 
@@ -889,9 +916,9 @@ b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza gli op
 1. $\dfrac{x^2+3x}{x}$;
 2. $(4x^2-2x):4x^2$;
 3. $\dfrac{x}{2x^2-x}$;
-4. $\dfrac{2a-2}{5a-5}$;
-5. $(-x-y):(x+y)$;
-6. $\dfrac{2x-y}{\dfrac{2}{3}x-\dfrac{1}{3}y}$.
+4. ^*^  $\dfrac{2a-2}{5a-5}$;
+5. ^*^  $(-x-y):(x+y)$;
+6. ^*^  $\dfrac{2x-y}{\dfrac{2}{3}x-\dfrac{1}{3}y}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -903,7 +930,7 @@ Risolvi alcuni esercizi del punto b) con la sequenza di istruzioni GEOGEBRA ripo
 
 
 
-## UNITA 10: Semplificazione di espressioni letterali
+## UNITA 10^*^: Semplificazione di espressioni letterali
 
 ### ESERCIZIO 10.1 - Espressioni con somme, prodotti e rapporti
 
