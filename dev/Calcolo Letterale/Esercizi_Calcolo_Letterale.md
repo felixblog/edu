@@ -140,7 +140,7 @@ Abbiamo già detto che una espressione letterale non può essere calcolata, cio�
 
 Ogni tanto gioco ad una lotteria, del tipo "gratta e vinci" in cui il premio cambia ogni giorno, ma è lo stesso per tutte le giocate di quel giorno. Dopo aver giocato diverse volte per alcune settimane risulta che ho vinto due volte il martedì e tre volte il venerdì. Se la vincita del martedì è pari ad $s$ euro e quella del venerdì è di $t$ euro, il totale delle vincite del martedì sarà $s + s$ e quelle del venerdì $t +t + t$ euro.
 
-Solo alla fine della settimana viene detto a quanto ammonta la singola vincita di ciascun giorno e vengono pagati i premi, per cui, prima dell'annuncio, non so quanto ho vinto il martedì ma sicuramente sarà $s + s$ cioè $2 \cdot s$ ossia il doppio della vincita del martedì e $t+t+t$ sarà $3t$ il triplo di quella del venerdì; in tutto posso dire di aver vinto $2s + 3t$.    $ \bullet$
+Solo alla fine della settimana viene detto a quanto ammonta la singola vincita di ciascun giorno e vengono pagati i premi, per cui, prima dell'annuncio, non so quanto ho vinto il martedì ma sicuramente sarà $s + s$ cioè $2 \cdot s$ ossia il doppio della vincita del martedì e $t+t+t$ sarà $3t$ il triplo di quella del venerdì; in tutto posso dire di aver vinto $2s + 3t$.    $\bullet$
 
 
 
@@ -152,7 +152,9 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono tutte lettere, scritte in ordine alfabetico e le lettere compaiono una sola volta con i loro esponenti.
 
-In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Anche una sola lettera, ad esempio $s$ è un monomio (di grado $1$ e con parte numerica $1$) ed un singolo numero, come $-\dfrac{3}{2}$ o $1$, può essere considerato un monomio con la sola parte numerica (e zero lettere, cioè un monomio di **grado zero**). 
+In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Tutti i monomi hanno una parte letterale ed una parte numerica, anche se non è immediato vederle: una sola lettera, ad esempio $s$ è un monomio (di grado $1$ e con parte numerica $1$), $-x$ è un monomio con parte numerica $-1$.
+
+In una espressione letterale, anche un singolo numero, come $-\dfrac{3}{2}$ o $1$, può essere considerato un monomio con la parte numerica che corrisponde al numero, e zero lettere, cioè un monomio di **grado zero**. 
 
 In un monomio il simbolo di prodotto si può anche non scrivere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo **sempre usare il segno di prodotto**.
 
@@ -261,7 +263,7 @@ b) Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si otti
 
 ## UNITA' 3: Somme e prodotti di monomi
 
-Come abbiamo visto, due monomi come $s$ ed $s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $2 \cdot s$, ossia l'espressione $s+ s$ sarà uguale a $2s$ per qualunque sostituzione. Questo accade per tutti i monomi che hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: ossia, si dice, sono simili, e solo per questi.
+Come abbiamo visto, due monomi come $s$ ed $s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $2 \cdot s$, ossia l'espressione $s+ s$ sarà uguale a $2s$ per qualunque sostituzione. Questo accade per tutti i monomi che hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: due monomi che hanno queste caratteristiche si dicono simili, e la sommabilità vale solo per questi.
 
 Diciamo infatti che:
 
@@ -274,15 +276,26 @@ Questa operazione di somma si dice anche **semplificazione**, perché con essa s
 
 $\underbrace{-3x \overset{\overset{+/-}\downarrow}\ +2x}$ $\longrightarrow \underline{-x}$
 
-La somma di due monomi **non** simili **non** è però un singolo monomi ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
+La somma di due monomi **non** simili **non** è un singolo monomi ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
 #### ESEMPIO 1
 
-$-3x + 2x \longrightarrow (-3 + 2)x  \longrightarrow -x$; 
+a) Sommiamo i monomi $-3x$ e $2x$:
 
-$5ax^2 + 2ax^2 -10ax^2  \longrightarrow (5 +2-10)x^2  \longrightarrow -3ax^2$;       
+1. $-3x + 2x$;
+2. $(-3 + 2)x$;
+3. $-x$.
 
-$-3x + 2x^2 \longrightarrow -3x + 2x^2$   I monomi non sono simili, non si sommano e la somma **non è un monomio!** .    $ \bullet$
+b) Sommiamo i monomi $5ax^2$, $2ax^2$ e $-10ax^2$: 
+
+1. $5ax^2 + 2ax^2 -10ax^2$;
+2. $(5 +2-10)x^2$;
+3. $-3ax^2$.
+
+c) Sommiamo $-3x$ e $2x^2$:
+
+1. $-3x + 2x^2$;
+2. $-3x + 2x^2$.   I monomi non sono simili, non si sommano e la somma **non è un monomio!** .    $\bullet$
 
 
 
@@ -316,7 +329,7 @@ a) $-3x \cdot 2x$
 
 b) $-3 \cdot 2 \cdot x \cdot x$
 
-c) $-6x^2$.    $ \bullet$
+c) $-6x^2$.    $\bullet$
 
 Anche in questo caso l'esecuzione del prodotto è una semplificazione perché l'espressione risultato è costituita da un solo monomio (senza operazioni), dove la prima aveva due monomi ed un prodotto. 
 
@@ -330,7 +343,7 @@ a) $5ax^2 \cdot 2ax^2 \cdot (-10ax^2)$
 
 b) $5 \cdot 2 \cdot (-10) \cdot aaax^2x^2x^2$
 
-b) $-100a^3x^6$.     $ \bullet$
+b) $-100a^3x^6$.     $\bullet$
 
 
 

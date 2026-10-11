@@ -120,6 +120,10 @@ Tali contrasti sono favoriti perché creano più ascolto, motivo per cui i media
 
 Come si è visto, i media tradizionali dedicano generalmente poco tempo all'esame accurato e critico delle problematiche trattate; questo atteggiamento, motivato e giustificato sia dallo scarso interesse ed attenzione degli spettatori per l'esame attento delle argomentazioni che al ciclo delle notizie 24 ore su 24, genera nel dibattito pubblico una frenetica tendenza a trarre conclusioni immediate che vengono ripetute innumerevoli volte.
 
+
+
+### La ripetizione
+
 Il fenomeno per cui <u>ripetere più volte un'informazione</u> la fa percepire come vera è un meccanismo psicologico ben noto, spesso sfruttato dai media tradizionali (giornali, TV, radio) e dalla pubblicità per influenzare l'opinione pubblica (*“Ripetete una bugia cento, mille, un milione di volte e diventerà una verità”* è una famosa frase attribuita a Joseph Goebbels, ministro della propaganda nella Germania nazista degli anni '30).
 
 Questo principio è conosciuto in psicologia come **"effetto illusorio della verità"**.  La ripetizione rende l'informazione più "familiare" ed il cervello umano tende a **confondere la familiarità con la verità**; pertanto, ciò che è stato già sentito o letto viene elaborato più facilmente e, di conseguenza, accettato più facilmente come corretto. 

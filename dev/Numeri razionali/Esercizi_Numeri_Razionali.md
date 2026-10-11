@@ -137,7 +137,6 @@ a) Rispondi alle seguenti domande scrivendo le frazioni richieste.
 Con questo esercizio vogliamo "misurare" la parte rossa della figura in riferimento al quadrato grande. La parte rossa misura $2$ quadrati piccoli ma $\dfrac{2}{9} = 0,222$ del quadrato grande. Se tutte le mattonelle pesano $18$ Kg, le rosse pesano due volte un nono di $18$; ossia $\dfrac{1}{9} \cdot 18 \longrightarrow 2$ e $2 \cdot \left( \dfrac{1}{9} \cdot 18\right) \longrightarrow 2 \cdot 2 = 4$.
 
 
-
 2. Quanti colori vedi nella figura? Per ciascun colore scrivi la frazione di figura di quel colore. Se per dipingere una parete con i quadrati colorati della figura sono servite 12 scatole di colori, quante scatole di colore turchese sono state consumate?
 
 ![Stesso-Colore](img/Stesso-Colore.png)
@@ -167,16 +166,15 @@ c) Rispondi alle seguenti domande scrivendo il numero intero, il numero decimale
 <img src="img/Classi.png" alt="Istogramma" style="zoom:25%;" />
 
 6. Franca compra in pasticceria 2 fette di una crostata tagliata in 12 fette uguali. Il peso delle due fette è di 220 grammi. Quanto pesa tutta la crostata?   
-
 7. Se parcheggio un'auto dove ogni tre quarti d'ora devo azzerare il disco orario, quante volte dovrò azzerare il disco se la macchina resta parcheggiata 3 ore? Se una "sosta" misura 45 minuti, a quante "soste" corrisponde una fermata di 4 ore?
 
-8. Scrivi in forma simbolica ognuna delle frasi seguenti (utilizza "$\longrightarrow$" per "fa" e non scrivere le unità di misura). Ad esempio scrivi "Mezzo euro più settanta centesimi fa un euro e venti (centesimi)" come $\dfrac{1}{2} + \dfrac{70}{100} \longrightarrow 1 + \dfrac{20}{100}$ .
+d)  Scrivi in forma simbolica ognuna delle frasi seguenti (utilizza "$\longrightarrow$" per "fa" e non scrivere le unità di misura). Ad esempio scrivi "Mezzo euro più settanta centesimi fa un euro e venti (centesimi)" come $\dfrac{1}{2} + \dfrac{70}{100} \longrightarrow 1 + \dfrac{20}{100}$ .
 
-   - tre quarti d'ora meno un quarto d'ora fa mezz'ora
-   - mezz'ora più tre quarti d'ora fa un'ora e un quarto
-   - venti centesimi più trenta centesimi fa mezzo euro
-   - cinque volte venti centesimi fanno un'euro
-   - tre euro meno cinquanta centesimi fanno due euro e mezzo
+1. tre quarti d'ora meno un quarto d'ora fa mezz'ora;
+2. mezz'ora più tre quarti d'ora fa un'ora e un quarto;
+3. venti centesimi più trenta centesimi fa mezzo euro;
+4. cinque volte venti centesimi fanno un'euro;
+5. tre euro meno cinquanta centesimi fanno due euro e mezzo.
 
 
 
@@ -186,11 +184,9 @@ a) La ricetta di un dolce prevede l'uso di mezza tazza di farina. Di questa, tre
 
 b) Quanti minuti dura un viaggio di tre quarti d'ora? Quale è l'espressione per ottenere il risultato?  
 
-c) La metà degli alunni di una classe sono assenti ed un terzo dei rimanenti non hanno fatto i compiti. Quale è la frazione della classe che ha svolto i compiti regolarmente?  
+c) La metà degli alunni di una classe sono assenti ed un terzo dei rimanenti non hanno fatto i compiti. Quale è la frazione della classe che ha svolto i compiti regolarmente? Se la classe è formata da $24$ alunni, quanti sono quelli che non hanno svolto i compiti?
 
-Se la classe è formata da $24$ alunni, quanti sono quelli che non hanno svolto i compiti?
-
-d) Gli ingredienti della ricetta "Pici cacio e pepe" per $4$ persone sono i seguenti:
+d)^*^  Gli ingredienti della ricetta "Pici cacio e pepe" per $4$ persone sono i seguenti:
 
 - Spaghetti $320$ g
 - Pecorino romano stagionatura media, da grattugiare $200$ g
@@ -399,7 +395,7 @@ c) Scrivi le seguenti frazioni in percentuali (approssimando):
 
 $\enspace \dfrac{1}{2}$;     $\dfrac{1}{3}$;     $\dfrac{1}{1000}$;     $\dfrac{7}{12}$;     $\dfrac{1}{99}$;     $\dfrac{1}{2}$;     $\dfrac{16}{33}$;     $\dfrac{24}{13}$;      $\dfrac{34}{11}$.
 
-d) Nell'esercizio 1, punto a.1, che percentuale di quadrati ha il colore rosso? ed il colore bianco?
+d) Nel punto a.1 dell'esercizio 1, che percentuale di quadrati ha il colore rosso? ed il colore bianco?
 
 
 
@@ -410,31 +406,31 @@ a) Calcola le percentuali richieste nei casi seguenti.
 1. In borsa una azienda vede in tre mesi il proprio titolo passare da $\text{13,5}$ a $\text{16}$ euro per azione. Di quanto è salito il titolo in percentuale? [R. $\text{18,52\%}$];
 2. Una automobile incrementa la sua velocità da $\text{80}$ a $\text{100\; Km/h}$. Di che percentuale è salita la velocità?
 3. Se durante i saldi di fine stagione spendo $\text{35 €}$ comprando una maglia che ne costava $\text{60}$, che sconto ho avuto? ed in percentuale sul prezzo?
-4. Per fare la parmigiana di melanzane per $\text{6}$ persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
+4. ^*^  Per fare la parmigiana di melanzane per $\text{6}$ persone bisogna utilizzare due bocconcini e mezzo di mozzarella. Che percentuale di bocconcino è questa dose? Che percentuale di bocconcino bisogna calcolare per ogni persona?
 
 b) Calcola le quantità assolute richieste nei casi seguenti.
 
 1. Su una maglietta si calcola il $\text{30\;\%}$ di sconto. Se il prezzo è di $\text{50 €}$, quale sarà lo sconto? Quale il prezzo scontato?
 2. Se il fatturato di una azienda, da un anno all'altro, cala del $\text{40\;\%}$, di quanto sarà calato se il primo anno era di $\text{12}$ milioni di euro? Quale sarà il nuovo valore?
-3. Quanti kilogrammi di burro si possono ricavare da $\text{125\; Kg}$ di latte, sapendo che il latte contiene panna per circa l’$\text{11\;\%}$ del suo peso e che la panna produce burro per il $\text{27\;\%}$ del suo peso .      [R. $\text{3.7125\;Kg}$] 
+3. ^*^  Quanti kilogrammi di burro si possono ricavare da $\text{125\; Kg}$ di latte, sapendo che il latte contiene panna per circa l’$\text{11\;\%}$ del suo peso e che la panna produce burro per il $\text{27\;\%}$ del suo peso .      [R. $\text{3.7125\;Kg}$] 
 
 c) Considerando che Il grafico in figura riporta il fatturato di una azienda negli anni, rispondi alle domande seguenti.
 
 1. Quale è l'incremento, in percentuale, del fatturato del 2021 sul 2020? Quale quello del 2022 sull'anno precedente? E quello del 2020 sul 2019?
-2. che percentuale di fatturato, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
-3. Nel 2023 si prevede un calo del 22% rispetto all'anno precedente. Quale sarà il fatturato del 2023?
+2. Che percentuale di fatturato, sul totale del quadriennio 2019 - 2022, è stata realizzata nel 2022? e nel 2020?
+3. ^*^  Nel 2023 si prevede un calo del 22% rispetto all'anno precedente. Quale sarà il fatturato del 2023?
 
 ![Grafico1](img\Ist-1.png)
 
 d) Comprando su Amazon si pagano, separatamente dal costo del prodotto, i costi di spedizione. Se per la spedizione di ciascun prodotto si pagano 5 euro e si fanno due acquisti distinti in cui, nel primo caso si pagano complessivamente 450 euro e nel secondo 60 euro, quanto incide il costo di spedizione sull'acquisto di ciascun prodotto? Se fossero acquistati e spediti insieme, sostenendo un costo di spedizione unico, quanto inciderebbe quest'ultimo sulla spesa totale?
 
-e) Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
+e)^*^  Una squadra perde due partite su tre. Quante partite perde in percentuale sul totale? Se gioca 27 partite, quante ne vince?
 
-f) Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
+f)^*^  Un paziente deve prendere, al giorno, una pillola di un medicinale in questo modo: deve dividerla in tre parti e prenderne una parte la mattina, una a mezzogiorno ed una la sera. Che percentuale di pillola viene assunta ogni volta? A mezzogiorno del quarto giorno quante pillole avrà preso in tutto dall'inizio? 
 
 g) Due persone ereditano 25.000 euro. Una delle due ha diritto al 25% dell’eredità. A quale percentuale ha diritto la seconda persona? Qual è la somma ricevuta da ciascuna?     [R. 75%; € 6 250 euro; € 18 750]
 
-h) Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
+h)^*^  Un supermercato applica uno sconto del 20% sul prezzo di una marca di passata di pomodori. Quanti barattoli di passata devo comperare per averne uno "gratis"? 
 
 
 
@@ -635,13 +631,13 @@ a) Calcola i seguenti quozienti di frazioni.
 2.  $-\dfrac{8}{3} : \left(-\dfrac{15}{12}\right)$;     $\dfrac{7}{10} : \left(-\dfrac{20}{21}\right)$;
 3.  $\dfrac{2}{5}:4$;    $\left(-1\right):\left(-5\right)$.
 
-b) Calcola il valore delle seguenti espressioni.
+b)^*^  Calcola il valore delle seguenti espressioni.
 
 1. $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right)$;    $[R. \dfrac{2}{9}]$  
 2. $\dfrac{2}{5}\cdot\left(-\dfrac{2 \cdot 5 + 5}{4}\right)\cdot\left(-\dfrac{2}{3}\right)$;    $[R. 1]$  
 3. $\left(\dfrac{2}{3}+1\right)\cdot\left(2-\dfrac{1}{5}\right)$.     $[R. 3]$  
 
-c) Individua quante e quali operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
+c)^*^  Individua quante e quali operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
 1. $9\left(-\dfrac{1}{10 + 5}\right)\left(-10\right)\left(-\dfrac{1 + 2 \cdot 3}{6}\right)$;     $[R. -7]$
 2. $\left(\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right):\left(-\dfrac{19}{9}\right).$     $[R.\dfrac{15}{2}]$
@@ -663,7 +659,7 @@ b) Scrivi le espressioni relative alle seguenti frasi e calcolane il risultato.
 2. Togli da $\dfrac{1}{3}$ la somma di $-\dfrac{2}{3}$ e $\dfrac{1}{3}$; 
 3. Raddoppia il prodotto fra $\dfrac{4}{7}$ e $\dfrac{7}{2}$;
 4. Scrivi il Triplo del prodotto fra $\dfrac{5}{6}$ e $\dfrac{3}{10}$;
-5. Aggiungi $\dfrac{1}{4}$ a tre volte il quoziente di $\dfrac{3}{2}$ e $\dfrac{9}{4}$.  
+5. ^*^  Aggiungi $\dfrac{1}{4}$ a tre volte il quoziente di $\dfrac{3}{2}$ e $\dfrac{9}{4}$.  
 
  
 
@@ -675,7 +671,7 @@ a) Il doppio di $x$; il quadruplo di $x$; tre quarti di $x$; un terzo di $x$;
 
 b) La terza parte di $x$; il cubo di $x$; il reciproco di $x$; il triplo di $x$;  
 
-c) La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del reciproco (o l’antireciproco) di $x$.  
+c)^*^  La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del reciproco (o l’antireciproco) di $x$.  
 
 
 
@@ -703,7 +699,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-3.    
+3.    ^*^
 
    
 
@@ -717,7 +713,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando
 
 2) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right);$
 
-3) $\:\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$
+3) ^*^  $\:\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$
 
 
 
@@ -731,15 +727,15 @@ Per ciascuno dei seguenti problemi:
 
 a) Paolo deve acquistare uno scooter che costa $\text{\euro\;}2760$, ma possiede solo i $\dfrac{2}{3}$ della somma. Quanto manca per effettuare la spesa?     [R. $\text{\euro\;}920$]  
 
-b) Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di $20 \text{\;Km}$?     [R. $50$]  
+b)^*^  Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di $20 \text{\;Km}$?     [R. $50$]  
 
-c) Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di $\dfrac{9}{16}$ di $\text{\;Kg}$. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
+c)^*^  Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di $\dfrac{9}{16}$ di $\text{\;Kg}$. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
 
 d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia $\text{\euro\;}123$ e lo sconto è uguale ai $\dfrac{5}{90}$ del prezzo iniziale, quanto costavano le valigie?     [R. $\text{\euro\;}2.214$]  
 
 e) Un camion può trasportare con sicurezza carichi fino ad una tonnellata. Sarebbe in grado di trasportare mezza tonnellata di sabbia, un terzo di ghiaia, ed un quinto di cemento in un solo viaggio?      [R. No]  
 
-f) Su un cartone di latte da $500 \text{\;ml}$ c’è scritto: «Latte parzialmente scremato. Grasso max $1,8\%$». Quanti ml di grasso contiene il cartone di latte? Se un bicchiere medio contiene $200 \text{\;ml}$ di latte, quanti ml di grasso contiene?     [R. $9 \text{\;ml}$; $3,6 \text{\;Km}$]  
+f)^*^  Su un cartone di latte da $500 \text{\;ml}$ c’è scritto: «Latte parzialmente scremato. Grasso max $1,8\%$». Quanti ml di grasso contiene il cartone di latte? Se un bicchiere medio contiene $200 \text{\;ml}$ di latte, quanti ml di grasso contiene?     [R. $9 \text{\;ml}$; $3,6 \text{\;Km}$]  
 
 g) Un libro oggi costa $\text{\euro\;}12,50$. Se il suo prezzo viene aumentato del $3\%$, quanto costerà dopo l’aumento?     [R. $\text{\euro\;}12,88$]
 
@@ -827,13 +823,13 @@ b) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per due. [ S
 
 c) Somma il quadruplo del quadrato di $a$ con il doppio di $b$. [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
 
-d) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$.  `[` Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$. Risultato $\dfrac{15}{4}$]
+d)^*^  Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$.  `[` Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$. Risultato $\dfrac{15}{4}$]
 
-e) Sottrai $\dfrac{1}{8}$ di $a$ ai $\dfrac{4}{5}$ di $c$, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di $b$. [Sostituzione con $\{a=3, b=-\dfrac{1}{5}, c=\dfrac{1}{16}\}$. Risultato $-\dfrac{65}{3}$ ].  
+e)^*^  Sottrai $\dfrac{1}{8}$ di $a$ ai $\dfrac{4}{5}$ di $c$, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di $b$. [Sostituzione con $\{a=3, b=-\dfrac{1}{5}, c=\dfrac{1}{16}\}$. Risultato $-\dfrac{65}{3}$ ].  
 
-f) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$, sottrai poi al risultato la somma del quadruplo del quadrato di $a$ e del doppio di $c$. `[`Sostituzione con $\{a=1, b=\dfrac{2}{3}, c=-2 \}$. Risultato $\dfrac{15}{4}$ ].
+f)^*^  Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$, sottrai poi al risultato la somma del quadruplo del quadrato di $a$ e del doppio di $c$. `[`Sostituzione con $\{a=1, b=\dfrac{2}{3}, c=-2 \}$. Risultato $\dfrac{15}{4}$ ].
 
-g) Moltiplica la differenza tra i $\dfrac{2}{5}$ di $a$ e la metà di $b$ per il doppio di $c$, somma poi al risultato il quoziente tra $\dfrac{1}{4}$ di $a$ e la differenza tra il doppio di $b$ e $1$. [Sostituzione con $\{a=\dfrac{5}{3}, b=2, c=\dfrac{3}{4}\}$ ]. Risultato $-\dfrac{15}{36}$.
+g)^*^  Moltiplica la differenza tra i $\dfrac{2}{5}$ di $a$ e la metà di $b$ per il doppio di $c$, somma poi al risultato il quoziente tra $\dfrac{1}{4}$ di $a$ e la differenza tra il doppio di $b$ e $1$. [Sostituzione con $\{a=\dfrac{5}{3}, b=2, c=\dfrac{3}{4}\}$ ]. Risultato $-\dfrac{15}{36}$.
 
 
 
@@ -844,7 +840,7 @@ a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 1. $a-\left(b+c\right),\left\{a=\dfrac{1}{2},b=\dfrac{2}{3},c=\dfrac{1}{4}\right\}$;
 2. $a+\left(-b\right)-c^2,\left\{a=\dfrac{5}{9},b=\dfrac{1}{18},c=-\dfrac{2}{3}\right\}$;
 3. $\left(\dfrac{1}{a}\cdot b\right):\left(-c\right),\left\{a=2,b=\dfrac{4}{5},c=\dfrac{1}{5}\right\}$;
-4. $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$.
+4. ^*^  $\dfrac{x+y}{x-y}+\left(\dfrac{x-y}{x+y}\right)^{2},\left\{x=-\dfrac{1}{2},y=-\dfrac{1}{2}\right\}$.
 
 b) Organizza le sequenze di sostituzioni seguenti in tabelle, mettendo nella prima colonna i numeri da sostituire e nella seconda il valore dell'espressione sostituita.
 
@@ -909,8 +905,8 @@ a) Calcola il valore delle seguenti potenze.
 b) Calcola il valore delle seguenti espressioni applicando le proprietà delle potenze
 
 1. $\left[\left(-\dfrac{1}{4}\right)^3:\left(-\dfrac{1}{4}\right)\right]^2$;
-1. $\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6$;
-1. $\left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$.
+1. ^*^  $\left[\left(\dfrac{2}{15}\right)^3\cdot\left(\dfrac{3}{2}\right)^3\right]^2\cdot5^6$;
+1. ^*^  $\left[\left(-\dfrac{1}{2}\right)^3\cdot\left(-\dfrac{2}{7}\right)^3\right]:\left(\dfrac{5}{7}\right)^3$.
 
 
 
@@ -921,7 +917,7 @@ a)  Individua quante e quali frazioni ed operazioni contiene ciascuna delle espr
 1. $\left(\dfrac{1}{2}+\dfrac{2}{3}+\dfrac{3}{4}\right)^{2}:\left(1-\dfrac{2}{3}+\dfrac{1}{4}-\dfrac{1}{6}\right)^{2};$     $[R. \dfrac{529}{25} = \left(\dfrac{23}{5}\right)^2]$
 2. $\left[\dfrac{9}{2}+\dfrac{3}{8}-\left(\dfrac{3}{2}\right)^{2}\right]:\left(1+\dfrac{1}{2}\right)^{3}$;     $[R. \dfrac{7}{9}]$
 
-b)  Calcola il valore delle seguenti espressioni contenenti potenze.
+b)^*^   Calcola il valore delle seguenti espressioni contenenti potenze.
 
 1. $\dfrac{29}{25}:\left\{ \left[\dfrac{1}{2}+\left(1+\dfrac{1}{5}\right)^{2}\left(1-\dfrac{1}{6}\right)-\left(\dfrac{1}{2}\right)^{2}\right]^{2}\left(1+\dfrac{3}{5}\right)^{2}\right\};$     $[R.  \dfrac{25}{116}]$
 2. $\left\{ \left[\dfrac{23}{12}:\left(\dfrac{5}{4}-\dfrac{2}{3}\right)\right]:\left(\dfrac{11}{20}+\dfrac{7}{4}\right)\right\} ^{2}\text{·}\left[\left(\dfrac{10}{7}\right)^{2}\text{·}\left(\dfrac{10}{7}\right)\right]^{0}:\left(\dfrac{10}{7}\right)^{2};$    $ [R. 1]$
@@ -930,15 +926,15 @@ b)  Calcola il valore delle seguenti espressioni contenenti potenze.
 
 ### ESERCIZIO 7.3 - Proprietà delle potenze
 
-Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
+a) Calcola, applicando le proprietà delle potenze, il valore delle seguenti espressioni.
 
 a) $\left[\left(-\dfrac{1}{4}\right)^{3}:\left(-\dfrac{1}{4}\right)\right]^{2};$   $[R. \dfrac{1}{256}]$
 
 b) $\left(-\dfrac{1}{5}\right)^{10}:\left(-\dfrac{1}{5}\right)^{6}\text{·}10^{4};$     $[R. 16]$
 
-c) $\left[-\left(\dfrac{1}{25}\right)^{2}\cdot\left(\dfrac{1}{25}\right)^{3}\right]\text{·}\left(\dfrac{25}{3}\right)^{5};$   $[R. \dfrac{1}{243}]$
+c)^*^  $\left[-\left(\dfrac{1}{25}\right)^{2}\cdot\left(\dfrac{1}{25}\right)^{3}\right]\text{·}\left(\dfrac{25}{3}\right)^{5};$   $[R. \dfrac{1}{243}]$
 
-d) $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\right)^{6}\text{·}\left(-\dfrac{1}{2}\right)^{6};$     $[R. 1]$
+d)^*^  $\left[\left(\dfrac{4}{3}\right)^{2}\right]^{3}\text{·}\left(\dfrac{3}{2}\right)^{6}\text{·}\left(-\dfrac{1}{2}\right)^{6};$     $[R. 1]$
 
 
 
@@ -948,7 +944,7 @@ a) Semplifica le seguenti espressioni usando la definizione di esponente negativ
 
 1. $12^{-2}$;     $11^{-2}$;     $(-4)^{-1}$;     $(-8)^{-2}$;     $3\cdot 4^{-1} + 2\cdot 4^{-2}$
 
-2. $\dfrac{1}{5^{-3}}$;     $\dfrac{1}{3^{-3}}$;     $\dfrac{2^{-4}}{3^{-1}}$;     $\dfrac{7^{-2}}{2^{-3}}$ .
+2. ^*^  $\dfrac{1}{5^{-3}}$;     $\dfrac{1}{3^{-3}}$;     $\dfrac{2^{-4}}{3^{-1}}$;     $\dfrac{7^{-2}}{2^{-3}}$ .
 
 b) Scrivi i numeri seguenti in notazione decimale
 
@@ -1090,7 +1086,7 @@ a) Rispondi alle domande seguenti considerando che al cambio valute un euro equi
 
 4. Quanto costerebbe in Italia una Tesla Model S che negli USA costa $70.000$ dollari? 
 
-b) I pellerossa americani non usavano monete ma barattavano tra di loro gli oggetti che producevano. Una pelle di bisonte valeva 7 coltelli da caccia, una collana valeva $2$ coperte ed una coperta $2$ coltelli.
+b)^*^  I pellerossa americani non usavano monete ma barattavano tra di loro gli oggetti che producevano. Una pelle di bisonte valeva 7 coltelli da caccia, una collana valeva $2$ coperte ed una coperta $2$ coltelli.
 
 1. Quanti coltelli da caccia sono necessari per comprare due coperte?
 2. Quante coperte posso comprare con due pelli di bisonte?

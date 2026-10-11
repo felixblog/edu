@@ -366,7 +366,9 @@ a) Calcola il valore delle espressioni seguenti.
 
 1.  $(-15):3-6+18:(-6)-(+7 \cdot 3-10)+7\cdot2$		[$R. -11$];
 
-2.  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$		[$R. +20$].  
+2.  $[3 \cdot (2-4)-5] \cdot (-2)$;
+
+3.  ^*^  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$		[$R. +20$].  
 
 b) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
@@ -384,7 +386,7 @@ c) Calcola il valore delle seguenti espressioni.
 4. $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\}$; 
 5. ^*^  $\left\{ [(10-6)^{2}+3\text{·}10]:(6:3)\right\} +4+3^{2}-(2^{4}-1)$      $[R. 21]$;
 6. $-\left\{ [-(+5)]-[-(-7)]\right\}$;
-7. ^*^  $-\left\{ -[-(-3)]-[-(-6)]\right\}$
+7. ^*^  $-\left\{ -[-(-3)]-[-(-6)]\right\}$
 8. ^*^  $\left\{ -(+5)-[-(-1)]\right\} -\left\{ [-(+5)]-[-(-7)]\right\} -\left\{ -[-(-3)]-[-(-6)]\right\}$     $[R. 15].$  
 
 d) Alcune delle espressioni seguenti hanno delle coppie di parentesi "inutili". Riscrivi le espressioni senza le parentesi "inutili" e di tutte calcola il valore.
