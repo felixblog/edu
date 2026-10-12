@@ -28,15 +28,15 @@ c) $10= 10  \longrightarrow Vero$     $\bullet$
 
 
 
-In generale una ***equazione*** (numerica di I grado ad una incognita) è una uguaglianza tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***, come ad esempio $2x = 1 + x$.
+In generale una ***equazione*** (numerica di I grado ad una incognita) è una <u>uguaglianza</u> tra due espressioni letterali in cui sia presente una sola lettera detta ***incognita***, come ad esempio $2x = 1 + x$.
 
 Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza vera, come ad esempio il numero $1$. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza, cioè $2x$, è il ***membro sinistro*** mentre l'altro, $1+ x$, è il ***membro destro***.
 
-Noi utilizzeremo le equazioni in tre attività:
+Noi utilizzeremo le equazioni per fare tre cose:
 
-1. ***Verifica di una Soluzione***: abbiamo una equazione ed un numero e controlliamo se il numero è una soluzione dell'equazione;
-2. ***Ricerca di una soluzione***: abbiamo una equazione e vogliamo trovare un numero che sia una sua soluzione;
-3. **Scrittura di una equazione**: abbiamo un problema e vogliamo scrivere una equazione la cui soluzione risolve il nostro problema.
+1. ***Verificare una Soluzione***: abbiamo una equazione ed un numero e controlliamo se il numero è una soluzione dell'equazione;
+2. ***Risolvere una equazione***: abbiamo una equazione e vogliamo trovare un numero che sia una sua soluzione;
+3. ***Scrivere una equazione***: abbiamo un problema e vogliamo scrivere una equazione che ha la stessa soluzione del problema in modo che risolviamo l'equazione e risolviamo anche il problema.
 
 
 
@@ -220,7 +220,7 @@ d) $17 = 5x$	Regola della moltiplicazione/divisione per $\dfrac{1}{5}$;
 
 e) $\dfrac{1}{5} \cdot 17 = \dfrac{1}{5} \cdot 5x$	Regola della semplificazione
 
-f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.     $ \bullet$
+f) $\dfrac{17}{5} = x$	L'equazione è elementare e la soluzione è $\dfrac{17}{5}$.     $\bullet$
 
 #### ESEMPIO 6
 
@@ -242,7 +242,7 @@ f) $\dfrac{7}{12}x = \dfrac{35}{12}$;
 
 g) $\dfrac{12}{7} \cdot \dfrac{7}{12}x = \dfrac{12}{7} \cdot \dfrac{35}{12}$;
 
-h) $x = 5$.     $ \bullet$
+h) $x = 5$.     $\bullet$
 
 
 
@@ -473,7 +473,7 @@ Dividendo $400$ per $20$ abbiamo che ogni maglietta dovrà avere un prezzo di $2
 
 a) $q = \dfrac{U}{C}, \{C=300, U = 100\}$;
 
-b) $q = \dfrac{100}{300} \approx 33.3 \%$  $ \;\; \bullet$
+b) $q = \dfrac{100}{300} \approx 33.3 \%$     $\bullet$
 
 
 
@@ -673,7 +673,7 @@ e) $1-b=(a+ab)x$;   Dividiamo per il coefficiente di $x$
 
 f) $\dfrac{1-b}{a+ab} = \dfrac{(a+ab)x}{a+ab}$;    Semplifichiamo dove possibile
 
-g) $\dfrac{1-b}{a+ab}=x$
+g) $\dfrac{1-b}{a+ab}=x$      $\bullet$
 
 
 
@@ -717,12 +717,14 @@ Questa operazione si chiama anche **esplicitazione della formula rispetto alla l
 
 #### ESEMPIO 1
 
-A partire dalla formula dell'IVA $P = C + I$, trovare quanto vale il costo $C$ di un articolo IVA esclusa, ossia esplicita la formula dell'IVA rispetto alla lettera C.
+A partire dalla formula dell'IVA $P = C + I$, trovare quanto vale il costo $C$ di un articolo IVA esclusa, ossia esplicita la formula dell'IVA rispetto alla lettera $C$.
 
 Risolvendo la formula come se fosse una equazione con l'unica incognita $C$ abbiamo $P - I = C$, per cui la formula inversa è:
 $$
-C = P - I \;\;\;\;\bullet
+C = P - I
 $$
+
+$\bullet$
 
 #### ESEMPIO 2
 
@@ -780,19 +782,24 @@ Abbiamo visto come le formule ci propongano delle espressioni per calcolare cart
 
 In alcuni casi, come ad esempio quello dello sconto, abbiamo visto che le quantità importanti (sconto, prezzo di listino, prezzo scontato etc.) fanno parte di due formule distinte e correlate, la prima che calcola lo sconto e la seconda il prezzo scontato:
 $$
-\begin{array}{l} 
-S = s \cdot P_l \\  
-P_s = P_l - S\\   
-\end{array}
+\begin{flalign*}
+\text{a)} && S\; &= s \cdot P_l & \\
+\\
+\text{b)} && P_s &= P_l - S & 
+\end{flalign*}
 $$
 Qualunque sia il caso specifico che stiamo esaminando, lo sconto $S$ è lo stesso in entrambe le formule, per cui è possibile "comporre" le due formule sostituendo $S$ nella seconda con $sP_l$ della prima e produrre una nuova formula, la c):
 $$
-\begin{array}{l} 
-\text{a)}\, P_s = P_l - S, \{S = s \cdot P_l\}\\
-\text{b)}\, P_s = P_l - sP_l\\
-\text{c)}\, P_s = P_l(1-s)
-\end{array}
+\begin{flalign*}
+\text{a)} && P_s\; &= P_l - S, \{S = s \cdot P_l\} & \\
+\\
+\text{b)} && P_s\; &= P_l - sP_l & \\
+\\
+\text{c)} &&  P_s\; &= P_l(1-s) & 
+\end{flalign*}
 $$
+
+
 La formula del punto c) ci dice come possiamo calcolare il prezzo scontato senza calcolare lo sconto ma solo conoscendo il prezzo di listino dell'articolo e la percentuale di sconto ad esso applicata.
 
 #### ESEMPIO 1
@@ -878,15 +885,16 @@ c) L’Iva sugli assorbenti ha subito una serie di ribassi e rialzi: era al $22\
 
 ### ESERCIZIO 8.2
 
-a) Date le due formule
+a) Date le due formule seguenti:
 $$
-\begin{array}{l} 
-\text{a)}\, \dfrac{a}{b}N = M\\
-\text{b)}\, 1 + N = 2M\\
-\end{array}
+\begin{flalign*}
+\text{a)} && \dfrac{a}{b}N &= M \\
+\\
+\text{b)} && 1 + N &= 2M & 
+\end{flalign*}
 $$
 
-risolvi la prima formula considerando come incognita la lettera $M$ e componila con la seconda;
 
-b) Esplicita la formula risultante rispetto alla lettera $N$. 
+risolvi la prima considerando come incognita la lettera $M$ e componila con la seconda;
 
+b) Esplicita la formula risultante rispetto alla lettera $N$.
