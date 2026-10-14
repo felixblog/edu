@@ -18,17 +18,17 @@ $$
 \hline
 \mathbf{(x, y)} & \mathbf{y = 3x} \\
 \hline 
-(0, 0) & 0 = 3 \cdot 0 \longrightarrow True \\
+(0, 0) & 0 = 3 \cdot 0 \longrightarrow Vero \\
 \hline 
-(1, -3) & -3 = 3 \cdot 1 \longrightarrow False \\
+(1, -3) & -3 = 3 \cdot 1 \longrightarrow Falso \\
 \hline 
-(-1, -3) & -3 = 3 \cdot (-1) \longrightarrow True \\
+(-1, -3) & -3 = 3 \cdot (-1) \longrightarrow Vero \\
 \hline 
-(2, 6) & 6 = 3 \cdot 2 \longrightarrow True \\
+(2, 6) & 6 = 3 \cdot 2 \longrightarrow Vero \\
 \hline 
-(-2, 0) & 0 = 3 \cdot (-2) \longrightarrow False \\
+(-2, 0) & 0 = 3 \cdot (-2) \longrightarrow Falso \\
 \hline 
-(3, 6) & 6 = 3 \cdot 3 \longrightarrow False \\
+(3, 6) & 6 = 3 \cdot 3 \longrightarrow Falso \\
 \hline\end{array}
 $$
 
@@ -72,7 +72,7 @@ a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della ri
 
 3. $C = \{(x, y): x + y = 1\}$.
 
-b)^*^  Trova tre punti di ciascuno degli insiemi seguenti.
+b)^*^  Trova tre punti di ciascuno degli insiemi seguenti.
 
 1. $A = \{(x, y): y = -1 + 0 \cdot x\};$
 2. $B = \{(x, y): x = -1 + 0 \cdot y\}$.
@@ -416,9 +416,9 @@ a) Date le cinque equazioni delle rette seguenti, stabilisci quali sono parallel
 b) Scrivi le equazioni di due rette parallele alla retta di equazione $2y +  5 =  0$ e di due parallele alla retta di
 equazione $4x  - 3 = 0$.
 
-c)^*^  Stabilisci se la retta che passa per i punti $A(2;  7)$ e $B( 1; 5)$ è parallela alla retta di equazione $y = -4x$.
+c)^*^  Stabilisci se la retta che passa per i punti $A(2;  7)$ e $B( 1; 5)$ è parallela alla retta di equazione $y = -4x$.
 
-d)^*^  Per ciascuna retta, scrivi l’equazione della parallela e della perpendicolare a essa e passanti per il punto $A$.
+d)^*^  Per ciascuna retta, scrivi l’equazione della parallela e della perpendicolare a essa e passanti per il punto $A$.
 
 1. $y = \dfrac{1}{3}x;$   $A(1; 1)$.
 2. $y + 3x + 2 = 0;$   $A(0; -2)$.
