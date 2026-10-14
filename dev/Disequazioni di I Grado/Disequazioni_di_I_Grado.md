@@ -8,7 +8,7 @@ La scrittura $x < -2$ è invece una **disequazione**. Come per le equazioni, scr
 
 I numeri che rendono vera la disequazione $x < -2$ si chiamano "**soluzioni**" della disequazione. Come si vede facendo qualche prova, le soluzioni della disequazione sono tutti i numeri minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione insiemistica $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
 
-Per indicare questo insieme si utilizza anche un'altra notazione, detta "**intervallo**": $(-\infty, -2)$; in questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo includere anche il numero $-2$ scriviamo $(-\infty, -2]$ (il simbolo $-\infin$ indica che non c'è limite ai numeri negativi per appartenere all'insieme).
+Per indicare questo insieme si utilizza anche un'altra notazione, detta "**intervallo**": $(-\infty, -2)$; in questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo includere anche il numero $-2$ scriviamo $(-\infty, -2]$ (il simbolo $-\infin$ indica che non c'è limite ai numeri negativi per appartenere all'insieme).
 
 Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via.
 
@@ -36,8 +36,10 @@ a) Indicare quali delle seguenti disuguaglianze sono vere e quali false.
 
 b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
 
-1.  $x + 1 \gt 0; x + 3 \le 4$;
-2.  $2x-1 \lt 6; x^2 + 2x -1 \ge 0$; 
+1.  $x + 1 \gt 0$;
+2.  $x + 3 \le 4$;
+3.  $2x-1 \lt 6$;
+4.  ^*^  $x^2 + 2x -1 \ge 0$. 
 
 ### ESERCIZIO 1.2 - Soluzione di Disequazioni I
 
@@ -75,16 +77,22 @@ b) Rappresenta graficamente su una retta gli intervalli riportati di seguito.
 
 1. $(0;1)$;   $[-1;1]$;   $(1;+\infty)$;   $(-\infty;5)$;   $(0;1)$;   
 2. $[-1;0)$;   $[-3;+\infty)$;   $(-\infty; +\infty)$;   $(2;\dfrac{33}{5}])$;   $[\dfrac{1}{2};3)$.
-3. $(-1;3) \cap (-2;0)$;   $(-1;3) \cup (-2;0)$;
-4. $(1;5) \cap (5;7)$;   $(1;5) \cup (5;7)$;
-5. $(3;+\infty) \cap [3;7]$;   $(3;+\infty) \cup [3;7]$;
-6. $[0;\dfrac{3}{2}) \cap (-\dfrac{4}{5};0]$;   $[0;\dfrac{3}{2}) \cup (-\dfrac{4}{5};0]$.
+3. $(-1;3) \cap (-2;0)$;
+4. $(-1;3) \cup (-2;0)$;
+5. $(1;5) \cap (5;7)$;
+6. $(1;5) \cup (5;7)$;
+7. $(3;+\infty) \cap [3;7]$;
+8. $(3;+\infty) \cup [3;7]$;
+9. $[0;\dfrac{3}{2}) \cap (-\dfrac{4}{5};0]$;
+10. $[0;\dfrac{3}{2}) \cup (-\dfrac{4}{5};0]$.
 
 c) Per ciascuno dei casi seguenti, scrivi la disequazione (elementare) o il sistema di disequazioni che ha come soluzioni l'intervallo indicato.
 
-1.  $(-\infty;-5)$;   $[1;+\infty)$;   $(1;+\infty)$;   $(-\infty;-\dfrac{50}{11})$;   $(-3;+\infty)$;
-2.  $[0; 3]$;   $(-2; 2]$;   $(2; \dfrac{33}{5}]$;   $(\dfrac{2}{5}; 1)$;
-3.  Gli intervalli dei punti b.3) e b.4).
+1.  $(-\infty;-5)$;     $[1;+\infty)$;
+2.  $(1;+\infty)$;      $(-\infty;-\dfrac{50}{11})$;
+3.  $[0; 3]$;      $(-2; 2]$;
+4.  $(2; \dfrac{33}{5}]$;     $(\dfrac{2}{5}; 1)$;
+5.  ^*^  Gli intervalli dei punti b.3) e b.4).
 
 #### Laboratorio GEOGEBRA
 
@@ -143,13 +151,13 @@ a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequ
 3. $-x-1\le 2$;
 4. $\dfrac{x}{5}-1\ge 2$;
 5. $4x - 3 > 5x + 1$;
-6. $4[2(1 - x) -3] > 5x + 1$;
+6. ^*^  $4[2(1 - x) -3] > 5x + 1$;
 
 b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
 
 1. $5(x-1) < 2(x-3)$;
-2. $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;
-3. $3(x-1)-1 < \dfrac{x-2}{3} - \left(x-\dfrac{x-1}{3}\right)$;
-4. $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;
+2. ^*^  $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;
+3. ^*^  $3(x-1)-1 < \dfrac{x-2}{3} - \left(x-\dfrac{x-1}{3}\right)$;
+4. ^*^  $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;
 5.    $2x-5\lt 3+2x$;
 6. $2(x+1) - 5x\ge 3x + 4(x+1)$.

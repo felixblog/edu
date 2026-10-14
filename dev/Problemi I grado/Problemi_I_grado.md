@@ -23,7 +23,7 @@ La traduzione in simboli della condizione è:
 $$
 50 = 2 \cdot x
 $$
-Questa è l'"equazione risolutiva del problema", che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$. $\bullet$
+Questa è l'"equazione risolutiva del problema", che sarà vera quando $x=\dfrac{50}{2} \longrightarrow 25$.    $\bullet$
 
 
 
@@ -56,7 +56,7 @@ Alle quantità deve essere dato un nome preciso ed appropriato.
 - In "**Trova le dimensioni** del rettangolo", si parla di due quantità, la "Lunghezza della Base" e la "Lunghezza dell'Altezza";
 - In "**Quanto tempo** impiegherà Franco a **risparmiare 200 euro**?", si parla di due quantità: "Durata Periodo del Risparmio" e "Importo Risparmiato". Dell'Importo Risparmiato conosciamo anche la misura, $200$ euro, della durata no.
 - Nella frase "**Solo i due terzi** della strada erano asfaltati ..." la quantità, che vale "due terzi" e che può essere definita "misura del tratto asfaltato in rapporto a tutta la strada", è un numero che non ha una unità di misura: è un fattore moltiplicativo di una lunghezza (tutta la strada) per avere la misura di un'altra lunghezza (tratto asfaltato). I valori che non hanno unità di misura si dicono "**puri**".
-- In "**Trova il numero** che diviso per due da 115" si parla di tre quantità che potremmo indicare come il numero richiesto, il numero divisore ed il numero risultato. Nessuno dei tre numeri citati misura una grandezza fisica (come una lunghezza, un peso, una durata o altro), oppure di una grandezza economica (importo monetario, giorni di lavoro etc.), nè una numerosità, ma sono rappresentativi solo di se stessi in quanto numeri interi o razionali. Come nel caso precedente non c'è una unità di misura ed i tre numeri si dicono puri. $\bullet$
+- In "**Trova il numero** che diviso per due da 115" si parla di tre quantità che potremmo indicare come il numero richiesto, il numero divisore ed il numero risultato. Nessuno dei tre numeri citati misura una grandezza fisica (come una lunghezza, un peso, una durata o altro), oppure di una grandezza economica (importo monetario, giorni di lavoro etc.), nè una numerosità, ma sono rappresentativi solo di se stessi in quanto numeri interi o razionali. Come nel caso precedente non c'è una unità di misura ed i tre numeri si dicono puri.    $\bullet$
 
 Nella scelta del nome delle quantità, è opportuno utilizzare termini che precisano la loro natura, ossia indicare le somme di denaro come "importi", i periodi di tempo come "durate", le lunghezze come "distanze" o "lunghezze" etc. I pesi, le lunghezze, gli importi, si chiamano **grandezze** (fisiche, economiche etc.), mentre nelle situazioni specifiche indicate nei problemi le chiamiamo **quantità**. 
 
@@ -66,15 +66,15 @@ Nella scelta del nome delle quantità, è opportuno utilizzare termini che preci
 
 - Quali quantità sono presenti nella frase seguente? 
 
-​	"Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio"
+​	"Nel suo testamento, una donna ha lasciato $\text{20\;000}$ euro a suo marito e $\text{12\;000}$ euro a suo figlio"
 
-La prima è "Importo Eredità del Marito"; è una quantità monetaria e la sua misura è 20.000 euro. La seconda è "Importo Eredità Figlio" che misura 12.000 euro. Entrambe sono note.
+La prima è "Importo Eredità del Marito"; è una quantità monetaria e la sua misura è $\text{20\;000}$ euro. La seconda è "Importo Eredità Figlio" che misura $\text{12\;000}$ euro. Entrambe sono note.
 
 - Di quali quantità si parla nella frase seguente?
 
   "Una trave di cemento è i due terzi del camion che la trasporta"
 
-Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lunghezza del Camion", "Misura Lunghezza Trave in rapporto al Camion"; di queste conosciamo solo della terza, e le quantità non sono indipendenti l'una dall'altra, ma la Lunghezza della Trave è uguale alla Lunghezza del Camion per due terzi. $\bullet$
+Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lunghezza del Camion", "Misura Lunghezza Trave in rapporto al Camion"; di queste conosciamo solo della terza, e le quantità non sono indipendenti l'una dall'altra, ma la Lunghezza della Trave è uguale alla Lunghezza del Camion per due terzi.    $\bullet$
 
 
 
@@ -83,7 +83,7 @@ Si parla di tre quantità, che potremmo definire: "Lunghezza della Trave", "Lung
 a) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle quantità un nome appropriato.
 
 1. Un palo è conficcato nel terreno per un terzo della sua lunghezza e per un quarto è immerso nell’acqua di un fiume. Il fiume è profondo $3 \; m$.
-2. Una cassa contiene 140 palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
+2. Una cassa contiene $140$ palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
 3. Tre sorelle hanno una età complessiva pari a $75$​ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre.
 4. Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \; \dfrac{Km}{h}$ superiore a quella del più lento.
 
@@ -94,10 +94,10 @@ b) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un 
 
 c) Quante quantità riesci ad individuare nelle descrizioni seguenti? Scrivi un elenco e dai alle quantità un nome appropriato.
 
-1. Maria ed Antonio, se mettono insieme i loro risparmi, possiedono 64 euro.
-2. Antonio ha 12 euro in più di Maria. 
+1. Maria ed Antonio, se mettono insieme i loro risparmi, possiedono $64$ euro.
+2. Antonio ha $12$ euro in più di Maria. 
 3. Un padre ha il doppio dell'età del figlio.
-4. Abbiamo quattro numeri; il secondo supera di 13 il primo, il terzo supera di 14 il secondo, il quarto supera di 15 il terzo.
+4. Abbiamo quattro numeri; il secondo supera di $13$ il primo, il terzo supera di $14$ il secondo, il quarto supera di $15$ il terzo.
 
 
 
@@ -111,8 +111,6 @@ Anche l'età della figlia dipende da quella di Maria, perché se Maria ha $54$ a
 
 Vediamo altri esempi.
 
-
-
 #### ESEMPIO 1
 
 "Una trave di cemento è i due terzi del camion che la trasporta. E' più lunga la trave o il camion? E se il camion è lungo $15 \; m$​ quanto è lunga la trave?"
@@ -123,7 +121,7 @@ Possiamo rappresentare graficamente questo con un diagramma:
 
 <img src="img/camion-trave-1.png" alt="camion-trave-1" style="zoom:80%;" />
 
-Si vede chiaramente che la lunghezza della trave dipende da quella del camion e che se il camion, ad esempio è lungo $15 \;m$ la trave è lunga $10 \;m$ e quindi il camion è più lungo della trave. $\bullet$
+Si vede chiaramente che la lunghezza della trave dipende da quella del camion e che se il camion, ad esempio è lungo $15 \;m$ la trave è lunga $10 \;m$ e quindi il camion è più lungo della trave.     $\bullet$
 
 
 
@@ -131,7 +129,7 @@ Si vede chiaramente che la lunghezza della trave dipende da quella del camion e 
 
 In una industria ci sono operai ed impiegati; gli operai superano di $1000$ unità il numero degli impiegati. Quali sono le quantità e le loro relazioni?
 
-Le quantità sono "Numero di Impiegati" e "Numero di Operai". Il testo ci dice che il numero di operai dipende dal numero di impiegati perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. Osserviamo che nessuna delle due quantità è nota. $\bullet$
+Le quantità sono "Numero di Impiegati" e "Numero di Operai". Il testo ci dice che il numero di operai dipende dal numero di impiegati perché se gli impiegati sono $100$, gli operai sono $1.000 + 100 = 1.100$,  se gli impiegati sono $600$ gli operai sono $1.000 + 600 = 1.600$ e così via, per cui se gli impiegati sono $x$, gli operai sono $x + 1.000$. Osserviamo che nessuna delle due quantità è nota.    $\bullet$
 
 <img src="img/Impiegati-Operai-1.png" alt="Impiegati-Operai-1" style="zoom:80%;" />
 
@@ -145,7 +143,7 @@ Indicando con la lettera $f$ il numero degli anni della figlia di Maria, abbiamo
 
 <img src="img/Maria-Figlia-1.png" alt="Maria-Figlia-1" style="zoom:80%;" />
 
-Il diagramma indica che le quantità indipendenti sono l'età della figlia di Maria mentre quelle dipendenti sono l'età di Maria. L'età di Maria risulta calcolata come una espressione che contiene l'età della figlia, ma risulta anche uguale a $50$ anni. $\bullet$
+Il diagramma indica che le quantità indipendenti sono l'età della figlia di Maria mentre quelle dipendenti sono l'età di Maria. L'età di Maria risulta calcolata come una espressione che contiene l'età della figlia, ma risulta anche uguale a $50$ anni.     $\bullet$
 
   
 
@@ -159,7 +157,7 @@ U = 20\% \cdot F
 $$
  Le quantità indipendenti sono "Fatturato" e "Percentuale di Utile", quella dipendente è l'"Utile". 
 
-Un diagramma che rappresenta le dipendenze è il seguente. $\bullet$
+Un diagramma che rappresenta le dipendenze è il seguente.     $\bullet$
 
 <img src="img/Fatturato-Utile-1.png" alt="Fatturato-Utile-1" style="zoom:80%;" />
 
@@ -193,13 +191,13 @@ In particolare, l'area è il triplo della lunghezza, per cui possiamo scrivere i
 
 <img src="img/Rettangolo.png" alt="Viale-1" style="zoom:80%;" />
 
-Poiché l'area è anche uguale a $24$ abbiamo che $3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale. $\bullet$
+Poiché l'area è anche uguale a $24$ abbiamo che $3 \cdot l$ e $24$ sono uguali, in quanto entrambe misure dell'area del viale.     $\bullet$
 
 
 
 #### ESEMPIO 6
 
-Un vecchio video game è stato ribassato da $48$ a $18$ euro. Quale è il diagramma per il calcolo della percentuale di sconto?
+Un vecchio video game è stato ribassato da $48$ a $18$ euro. Quale è il diagramma per il calcolo della percentuale di sconto?
 
 Nel testo di questo problema sono citate tre quantità: prezzo Iniziale, che potremmo indicare con Prezzo di Listino o $P_l$, di cui conosciamo anche la misura, $48$ euro, il Prezzo Scontato o  $Ps$, che è $18$ euro e la percentuale di sconto, che è la quantità richiesta e che possiamo indicare con $s$.
 
@@ -212,7 +210,7 @@ La percentuale di sconto dipende da due quantità, $P_l$ e $P_s$, che nel caso d
 
 <img src="img/Sconto-1.png" alt="Sconto-1" style="zoom:80%;" />
 
-In questo problema tutte le quantità indipendenti sono date e le uniche dipendenti sono lo sconto e la percentuale di sconto, che si possono quindi facilmente calcolare. $\bullet$
+In questo problema tutte le quantità indipendenti sono date e le uniche dipendenti sono lo sconto e la percentuale di sconto, che si possono quindi facilmente calcolare.     $\bullet$
 
  
 
@@ -236,7 +234,7 @@ Dalla questa si vede come in questo problema la distanza percorsa dipenda dalla 
 
 <img src="img/Velocita2.png" alt="Velocita" style="zoom:80%;" />
 
-Dove si vede chiaramente che l'equazione che risolve il problema è $12 \cdot t = 20$. $\bullet$
+Dove si vede chiaramente che l'equazione che risolve il problema è $12 \cdot t = 20$.    $\bullet$
 
 
 
@@ -244,7 +242,7 @@ Dove si vede chiaramente che l'equazione che risolve il problema è $12 \cdot t 
 
 Un terzo di un palo è conficcato nel terreno, un quarto è immerso nell’acqua e la lunghezza del palo è completata dalla parte che emerge. Quante sono le quantità e quali sono le relazioni tra di loro?
 
-Le misure delle quantità coinvolte si possono facilmente scrivere facendole dipendere dalla lunghezza del palo, che per semplicità chiamiamo con la lettera $x$, come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra. $ \bullet$
+Le misure delle quantità coinvolte si possono facilmente scrivere facendole dipendere dalla lunghezza del palo, che per semplicità chiamiamo con la lettera $x$, come riportato nella figura. L'ultimo pezzo del palo, la parte che emerge, è uguale a tutto il palo meno la parte in acqua e la parte in terra.     $\bullet$
 
 <img src="img/Palo-1.png" alt="Palo-1" style="zoom:80%;" />
 
@@ -254,13 +252,13 @@ Le misure delle quantità coinvolte si possono facilmente scrivere facendole dip
 
 Per ciascuna delle descrizioni seguenti individua le quantità coinvolte, la loro eventuale misura e disegna il diagramma delle dipendenze.
 
-a) Nel suo testamento, una donna ha lasciato 20.000 euro a suo marito e 12.000 euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole 16.400 euro e la legge divide la proprietà in rapporto al lascito testamentario.  
+a) Nel suo testamento, una donna ha lasciato $\text{20\;000}$ euro a suo marito e $\text{12\;000}$ euro a suo figlio. Dopo la sua morte, le sue proprietà erano di sole $\text{16\;400}$ euro e la legge divide la proprietà in rapporto al lascito testamentario.  
 
-b) Una cassa contiene 140 palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
+b) Una cassa contiene $140$ palline tra nere e bianche. Togliamo $\dfrac{1}{3}$ di quelle nere e $\dfrac{2}{5}$ di quelle bianche e mettiamole in una cesta.
 
 c) Tre sorelle hanno una età complessiva pari a $75$​ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre.
 
-e)  Una somma di 1750 euro deve essere divisa tra due persone e la seconda ha i tre quarti di quanto ha la prima.
+e)  Una somma di $\text{1\;750}$ euro deve essere divisa tra due persone e la seconda ha i tre quarti di quanto ha la prima.
 
 
 
@@ -286,7 +284,7 @@ Nel diagramma seguente è indicata l'espressione letterale della dipendenza.
 
 <img src="img/camion-trave-2.png" alt="camion-trave-2" style="zoom:80%;" />
 
-Per trovare la risposta basta propagare i valori: $Sostituisci(\dfrac{2}{3} \cdot l,\{l=18\}) \longrightarrow 12$. $ \bullet$
+Per trovare la risposta basta propagare i valori: $Sostituisci(\dfrac{2}{3} \cdot l,\{l=18\}) \longrightarrow 12$.     $\bullet$
 
 
 
@@ -305,7 +303,7 @@ Il diagramma delle dipendenze con le sole quantità letterali, senza le loro mis
 
 
 
-La soluzione del problema si ottiene sostituendo i numeri alle lettere: $s = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$, oppure con GEOGEBRA $Sostituisci(s=\dfrac{P_l-P_s}{P_l},\{P_l=48, P_s=18\}) \longrightarrow s=0,62$ $ \bullet$
+La soluzione del problema si ottiene sostituendo i numeri alle lettere: $s = \dfrac{48-18}{48} \cdot 100 \cdot \% \longrightarrow 0,625 \cdot 100\% \longrightarrow 62,5\%$, oppure con GEOGEBRA $Sostituisci(s=\dfrac{P_l-P_s}{P_l},\{P_l=48, P_s=18\}) \longrightarrow s=0,62$     $\bullet$
 
 <img src="img/Sconto-2.png" alt="Sconto-2" style="zoom:80%;" />
 
@@ -331,7 +329,7 @@ Noi però sappiamo che c'è anche la relazione fondamentale tra $R$, $C$ ed $U$:
 
 
 
-A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità per la quale possiamo individuare ***due espressioni diverse per calcolare la misura***, ad esempio una letterale e l'altra numerica o entrambe letterali. Queste due espressioni dovranno essere ovviamente essere uguali e questa uguaglianza ci fornisce l'***equazione risolutiva*** del problema. La sua soluzione sarà la soluzione del problema. $\bullet$
+A questo punto l'ultimo passo da compiere è scrivere una equazione che risolve il problema. Tra tutte quelle nel diagramma, ci sarà una quantità per la quale possiamo individuare ***due espressioni diverse per calcolare la misura***, ad esempio una letterale e l'altra numerica o entrambe letterali. Queste due espressioni dovranno essere ovviamente essere uguali e questa uguaglianza ci fornisce l'***equazione risolutiva*** del problema. La sua soluzione sarà la soluzione del problema.    $\bullet$
 
 
 
@@ -343,7 +341,7 @@ Riprendendo il diagramma dell'esempio precedente, abbiamo la situazione seguente
 
 <img src="img/Maria-Figlia-2.png" alt="Maria-Figlia-2" style="zoom:80%;" />
 
-Le due espressioni che misurano gli anni di Maria devono essere uguali, cioè vale l'equazione $2 \cdot f = 50$ che implica che gli anni della figlia di Maria sono 25: $Risolvi(2f=50, \{f\}) \longrightarrow f=25$. $ \bullet$
+Le due espressioni che misurano gli anni di Maria devono essere uguali, cioè vale l'equazione $2 \cdot f = 50$ che implica che gli anni della figlia di Maria sono 25: $Risolvi(2f=50, \{f\}) \longrightarrow f=25$.     $\bullet$
 
 
 
@@ -359,7 +357,7 @@ Come si vede le due espressioni che misurano la trave devono essere uguali per c
 $$
 \dfrac{2}{3} \cdot x = 18
 $$
-La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow x = 27$ $\bullet$
+La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow x = 27$     $\bullet$
 
 
 
@@ -374,7 +372,7 @@ Possiamo dire quindi che se gli impiegati sono $x$, l'espressione (letterale) ch
 
 <img src="img/Impiegati-Operai-2.png" alt="Impiegati-Operai-2" style="zoom:80%;" />
 
-L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$, come si vede da $Risolvi(x+1000=5x,\{x\}) \longrightarrow x = 250$. $\bullet$
+L'equazione risolutiva è $x + 1000 = 5x$, che ha soluzione $250$, come si vede da $Risolvi(x+1000=5x,\{x\}) \longrightarrow x = 250$.     $\bullet$
 
 
 
@@ -391,23 +389,23 @@ e l'equazione risolutiva è:
 $$
 x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5
 $$
-La soluzione è $12$, come si vede da $Risolvi(x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5,\{x\}) \longrightarrow x = 12$. $\bullet$
+La soluzione è $12$, come si vede da $Risolvi(x - \dfrac{1}{4}x - \dfrac{1}{3}x = 5,\{x\}) \longrightarrow x = 12$.     $\bullet$
 
 
 
 ### ESERCIZIO 3.1 - Incognite ed equazioni I
 
-a) Trova due numeri sapendo che la loro somma è 18 e che la differenza tra il maggiore ed il minore è 10.
+a) Trova due numeri sapendo che la loro somma è $18$ e che la differenza tra il maggiore ed il minore è $10$.
 
-b) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 33?
+b) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da $33$?
 
-c)  Una cassa contiene 140 palline tra nere e bianche. Togliendo 1/3 di quelle nere e 2/5 di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  [R. 90 e 50]
+c)  Una cassa contiene $140$ palline tra nere e bianche. Togliendo $1/3$ di quelle nere e $2/5$ di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  $\text{[R. 90 e 50]}$
 
-d) Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \;Km/h$ superiore a quella del più lento. Dopo $5$ ore di volo i due distano $2000 \;Km$. Trova la velocità di ciascun aereo. 
+d)^*^  Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \;Km/h$ superiore a quella del più lento. Dopo $5$ ore di volo i due distano $2000 \;Km$. Trova la velocità di ciascun aereo. 
 
-e) In una fattoria vi sono tra maiali e galline 45 animali. Quanti sono i maiali e quante le galline sapendo che la somma complessiva delle zampe è 116? 		[R. 32 galline e 13 maiali]
+e) In una fattoria vi sono tra maiali e galline $45$ animali. Quanti sono i maiali e quante le galline sapendo che la somma complessiva delle zampe è $116$? 		$\text{[R. 32 galline e 13 maiali]}$
 
-f) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?
+f) Un oggetto è costato $120$ euro; poiché si era ottenuto uno sconto del 25%, qual era il costo iniziale dell’oggetto?
 
 
 
@@ -415,11 +413,11 @@ f) Un oggetto è costato 120 euro; poiché si era ottenuto uno sconto del 25%, q
 
 Risolvi i problemi seguenti.
 
-a) Un vecchio video game è stato ribassato da 48 a 18€. Quale è la percentuale di sconto? 
+a) Un vecchio video game è stato ribassato da $48$ a $18€$. Quale è la percentuale di sconto? 
 
-b) Maria vende un immobile al prezzo di € 84 000, superiore del 5% rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?
+b) Maria vende un immobile al prezzo di $\text{€ 84\;000}$, superiore del $5\%$ rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?
 
-c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del 40%, quale dei due è più conveniente?
+c)^*^  Un supermarket propone una offerta del tipo “prendi $3$ e paghi $2$” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del $40\%$, quale dei due è più conveniente?
 
 
 
@@ -427,10 +425,10 @@ c) Un supermarket propone una offerta del tipo “prendi 3 e paghi 2” su di un
 ### ESERCIZIO 3.3 - Problemi sull'età
 a) Scrivi l'espressione che calcola l’età indicata sulla base dell’età attuale nei casi seguenti.
 
-1. Tra 10 anni se adesso ha $x$ anni;  &emsp;  [R. $x + 10$]
-2. 10 anni fa se adesso ha $x$ anni;  &emsp;  [R. $x-10$]
-3. Tra $y$ anni se l’età attuale è 40 anni;  &emsp; [R. $x+40$]
-4. $y$ anni fa se attualmente ha 40 anni.  &emsp;  [R. $40-y$]
+1. Tra $10$ anni se adesso ha $x$ anni;     $\text{[R. }x \text{ + 10]}$
+2. 10 anni fa se adesso ha $x$ anni;     $\text{[R. }x \text{ - 10]}$
+3. Tra $y$ anni se l’età attuale è 40 anni;     $\text{[R. }x \text{ + 40]}$
+4. $y$ anni fa se attualmente ha 40 anni.     $\text{[R. 40 - }y \text{]}$
 
 b) Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni.
 
@@ -441,12 +439,12 @@ b) Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni
 c) Risolvi i seguenti problemi.
 
 1. Luca ha $53$ anni e sua figlia ne ha $21$. Fra quanti anni l’età di Luca sarà i $\dfrac{5}{3}$ dell’età di sua figlia?  
-2. La differenza fra l’età di Paolo e quella di Marco è di $15$ anni. Quanti anni ha Paolo, sapendo che Marco ne ha il doppio?  
-3. Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre. La sorella di mezzo ha cinque anni in meno della sorella maggiore. Quanti anni ha la sorella maggiore?
+2. ^*^  La differenza fra l’età di Paolo e quella di Marco è di $15$ anni. Quanti anni ha Paolo, sapendo che Marco ne ha il doppio?  
+3. ^*^  Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre. La sorella di mezzo ha cinque anni in meno della sorella maggiore. Quanti anni ha la sorella maggiore?
 
 
 
-## UNITA' 4: Problemi su moto e velocità
+## UNITA' 4^*^: Problemi su moto e velocità
 
 La velocità misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge.
 
@@ -509,7 +507,7 @@ d) Una cisterna viene riempita da un primo rubinetto in $5$ ore. In quante ore v
 
 
 
-## UNITA' 5: Problemi sulla produttività del lavoro
+## UNITA' 5^*^: Problemi sulla produttività del lavoro
 
 La produttività (di periodo) di una unità produttiva è data dal rapporto tra la quantità $q$ di beni o servizi prodotti e la durata $t$ del periodo di produzione: $\pi = \dfrac{q}{t}$.
 
@@ -609,11 +607,11 @@ a) Scrivi l’espressione che rappresenta l’interesse maturato in un anno da o
 ### ESERCIZIO 6.2 - Problemi su interesse ed investimenti II
 Risolvi i seguenti problemi.
 
-a) La signora Mueller ha investito una somma complessiva di $4.000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$. Sommando guadagni e perdite il suo reddito dell’anno è stato di $55$ euro. Trova l’ammontare dei due capitali. [R. $2.500$, $1.500$]  
+a) La signora Mueller ha investito una somma complessiva di $4.000$ euro. Su di una parte ha guadagnato il $4\%$ mentre sulla rimanente ha perso il $3\%$. Sommando guadagni e perdite il suo reddito dell’anno è stato di $55$ euro. Trova l’ammontare dei due capitali.     $\text{[R. 2 500, 1 500]}$  
 
 b) Il signor Black ha investito $3.000$ euro al tasso del $3\%$ e $1.000$ euro al tasso del $4\%$. Quanto deve investire al tasso del $6\%$ in modo che il suo ricavato annuo sia del $5\%$ dell’intero investimento?
 
-c) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di $5$ a $3$. La prima somma è stata investita al tasso del $4\%$ e la seconda al tasso del $2\%$. L’interesse annuale della prima eccede quello della seconda di $112$ euro. Quali sono stati i due investimenti? [R. $4.000$, $2.400$]  
+c) Il signor Wong ha investito due somme di denaro che stanno tra di loro nel rapporto di $5$ a $3$. La prima somma è stata investita al tasso del $4\%$ e la seconda al tasso del $2\%$. L’interesse annuale della prima eccede quello della seconda di $112$ euro. Quali sono stati i due investimenti?     $\text{[R. 4 000, 2 400]}$  
 
 
 
@@ -645,7 +643,7 @@ b) Scrivi l’espressione del valore totale della merce in centesimi e semplific
 3. $x$ dozzine di matite del valore di $20\;¢$  l’una;
 4. $3$ dozzine di matite a $60\;¢$ la dozzina.
 
-c) Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di $0.23$ e $1.20 €/Kg$. 
+c)^*^  Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di $0.23$ e $1.20 €/Kg$. 
 
 La miscela di $30\; Kg$ ha un valore di $1.02\; €/Kg$. Quanti $Kg$ di ciascun caffè ha utilizzato?
 
@@ -658,10 +656,10 @@ a) Un mattone pesa un chilo più mezzo mattone: quanto pesa il mattone?
 
 b) Una botte contiene $80$ litri di vino che vengono versati in $44$ bottiglie, parte da due litri e parte da un litro e mezzo. Quante sono le bottiglie da un litro e mezzo e quante quelle da due litri?		$R: \left[16\; e \; 28\right]$.  
 
-c) Un treno parte completo dalla stazione $A$; alla stazione $B$ scendono $42$ passeggeri e ne salgono $\dfrac{1}{24}$ di quelli rimasti; nella successiva stazione $C$ scendono $75$ passeggeri e ne salgono $\dfrac{3}{5}$ di quelli rimasti più altri $2$. Sapendo che alla partenza da $C$ il treno e di nuovo completo, determina quanti passeggeri stanno sul treno.		$R: \left[282\right]$.  
+c)^*^  Un treno parte completo dalla stazione $A$; alla stazione $B$ scendono $42$ passeggeri e ne salgono $\dfrac{1}{24}$ di quelli rimasti; nella successiva stazione $C$ scendono $75$ passeggeri e ne salgono $\dfrac{3}{5}$ di quelli rimasti più altri $2$. Sapendo che alla partenza da $C$ il treno e di nuovo completo, determina quanti passeggeri stanno sul treno.		$R: \left[282\right]$.  
 
 d) Per l’ingresso a uno spettacolo, ogni adulto paga $5$ euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che $20$ bambini e $30$ adulti pagano $15$ euro di meno di quello che pagano $40$ bambini e $15$ adulti.		$R: \left[18\; €\right]$.
 
-e) Una azienda ha acquistato degli omaggi per i suoi clienti, in totale $500$, spendendo in tutto $4500$ euro. Per chi è cliente da più di un anno si è speso in media $10$ euro, per chi da meno di un anno $5$ euro. Quanti sono i soggetti clienti da più di un anno?
+e)^*^  Una azienda ha acquistato degli omaggi per i suoi clienti, in totale $500$, spendendo in tutto $4500$ euro. Per chi è cliente da più di un anno si è speso in media $10$ euro, per chi da meno di un anno $5$ euro. Quanti sono i soggetti clienti da più di un anno?
 
 f) Un bambino compra una caramella ed una cioccolata spendendo un euro e dieci centesimi. Se la cioccolata costa un euro in più della caramella, quanto costa la caramella? 

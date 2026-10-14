@@ -64,7 +64,7 @@ b) Risolvi il punto c) con la sequenza di istruzioni seguente:
 
 ### ESERCIZIO 1.2 - Campione di punti
 
-a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione (una retta). Per ognuno, trova un campione di 3 punti che vi appartiene e riporta i punti su di un piano cartesiano.
+a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della rispettiva equazione (una retta). Per ognuno, trova un campione di $3$ punti che vi appartiene e riporta i punti su di un piano cartesiano.
 
 1. $A = \{(x, y): y = 3x\};$
 
@@ -72,7 +72,7 @@ a) Ciascuno degli insiemi riportati di seguito rappresenta le soluzioni della ri
 
 3. $C = \{(x, y): x + y = 1\}$.
 
-b) Trova tre punti di ciascuno degli insiemi seguenti.
+b)^*^  Trova tre punti di ciascuno degli insiemi seguenti.
 
 1. $A = \{(x, y): y = -1 + 0 \cdot x\};$
 2. $B = \{(x, y): x = -1 + 0 \cdot y\}$.
@@ -116,7 +116,7 @@ Sono due i primi problemi che ci si presentano quando si parla di rette ed equaz
 
 Risolviamo il primo problema. 
 
-Per disegnare in un piano cartesiano la retta geometrica corrispondente ad una equazione in forma esplicita basta trovare due soluzioni sostituendo all'incognita $x$ due numeri in successione e calcolando il corrispondente valore della $y$.    $ \bullet$
+Per disegnare in un piano cartesiano la retta geometrica corrispondente ad una equazione in forma esplicita basta trovare due soluzioni sostituendo all'incognita $x$ due numeri in successione e calcolando il corrispondente valore della $y$.    $\bullet$
 
 #### ESEMPIO 2
 
@@ -136,7 +136,7 @@ x & y \\
 1 & -3 \\
 \end{array}
 $$
-Abbiamo il risultato seguente.     $ \bullet$
+Abbiamo il risultato seguente.     $\bullet$
 
 <img src="img/Retta-per-2-punti.png" alt="Retta-per-2-punti" style="zoom:15%;" />
 
@@ -152,7 +152,7 @@ b)  $-2y = 4x - 3$;
 
 c)  $-\dfrac{1}{2} \cdot (-2y) = -\dfrac{1}{2} \cdot (4x - 3)$;
 
-d) $y = -2x + \dfrac{3}{2}$.     $ \bullet$
+d) $y = -2x + \dfrac{3}{2}$.     $\bullet$
 
 
 
@@ -177,7 +177,7 @@ b) Considerata l'equazione della retta generica in forma esplicita $y = mx+q$, s
 a) Scrivi in forma esplicita le seguenti equazioni. Determina quanto valgono $m$ e $q$ in ciascun caso.
 
 1. $y - \dfrac{1}{2}x = 5$;
-2. $ y +\dfrac{-1}{3}x - 4 = 0$.
+2. $y +\dfrac{-1}{3}x - 4 = 0$.
 
 b)  Scrivi in forma esplicita le seguenti equazioni. Determina quanto valgono $m$ e $q$ in ciascun caso.
 
@@ -271,7 +271,7 @@ q = 0 \\
 \right.
 $$
 
-Per cui l'equazione della a retta cercata è $y = \dfrac{1}{2}x$.     $ \bullet$
+Per cui l'equazione della a retta cercata è $y = \dfrac{1}{2}x$.     $\bullet$
 
 
 
@@ -416,9 +416,9 @@ a) Date le cinque equazioni delle rette seguenti, stabilisci quali sono parallel
 b) Scrivi le equazioni di due rette parallele alla retta di equazione $2y +  5 =  0$ e di due parallele alla retta di
 equazione $4x  - 3 = 0$.
 
-c) Stabilisci se la retta che passa per i punti $A(2;  7)$ e $B( 1; 5)$ è parallela alla retta di equazione $y = -4x$.
+c)^*^  Stabilisci se la retta che passa per i punti $A(2;  7)$ e $B( 1; 5)$ è parallela alla retta di equazione $y = -4x$.
 
-d) Per ciascuna retta, scrivi l’equazione della parallela e della perpendicolare a essa e passanti per il punto $A$.
+d)^*^  Per ciascuna retta, scrivi l’equazione della parallela e della perpendicolare a essa e passanti per il punto $A$.
 
 1. $y = \dfrac{1}{3}x;$   $A(1; 1)$.
 2. $y + 3x + 2 = 0;$   $A(0; -2)$.
@@ -524,13 +524,13 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
 1. $y - \dfrac{1}{2}x = 5$;
-2. $ y +\dfrac{-1}{3}x - 4 = 0$;  
+2. $y +\dfrac{-1}{3}x - 4 = 0$;  
 3. $x+3y=-1$;
 4. $x-y=7$.
 
 b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
 
-c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto (-1; -1).
+c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto $(-1; -1)$.
 
 #### Laboratorio GEOGEBRA
 
@@ -559,9 +559,9 @@ c) Nella figura seguente la salita ha una pendenza del 17%. Se in un minuto l'au
 
 ![pendenza](img/pendenza.png)
 
-d) Un auto viaggia da Napoli a Roma percorrendo circa 250 Km in 3 ore e 10 minuti con una velocità costante. Indicando con t il tempo in ore trascorso dall'inizio del viaggio e con s lo spazio in Km percorso:
+d) Un auto viaggia da Napoli a Roma percorrendo circa $250\; Km$ in $3$ ore e $10$ minuti con una velocità costante. Indicando con $t$ il tempo in ore trascorso dall'inizio del viaggio e con $s$ lo spazio in $Km$ percorso:
 
-1. scrivi la formula che calcola lo spazio s percorso dopo t ore 
+1. scrivi la formula che calcola lo spazio $s$ percorso dopo $t$ ore 
 2. riporta in un piano cartesiano con il tempo sull'asse orizzontale e lo spazio su quello verticale, il grafico dell'equazione trovata. Quale è il significato fisico del coefficiente angolare?
 
 
@@ -578,7 +578,7 @@ Consideriamo la figura seguente che riporta il grafico della retta $y = -2x -1$.
 
 Il punto della retta $(1,-3)$ non sta nel semipiano positivo, quindi $1$, l'ascissa del punto, non è nell'intervallo di positività della retta; la stessa cosa si può dire di $(0,-1)$: $0$ non è nell'intervallo di positività della retta. Invece $(-2, 3)$ è nel semipiano positivo, quindi $-2$ è nell'intervallo di positività della retta.
 
-Sempre in riferimento alla figura, poiché la retta interseca l'asse orizzontale nel punto $(-\dfrac{1}{2},0)$ possiamo dire che l'intervallo di positività della retta $y = -2x -1$ è formato da tutte le $x$ minori di $-\dfrac{1}{2}$, ossia è l'intervallo $(-\infty, -\dfrac{1}{2})$ dell'asse delle $x$ (orizzontale).     $ \bullet$
+Sempre in riferimento alla figura, poiché la retta interseca l'asse orizzontale nel punto $(-\dfrac{1}{2},0)$ possiamo dire che l'intervallo di positività della retta $y = -2x -1$ è formato da tutte le $x$ minori di $-\dfrac{1}{2}$, ossia è l'intervallo $(-\infty, -\dfrac{1}{2})$ dell'asse delle $x$ (orizzontale).     $\bullet$
 
 
 

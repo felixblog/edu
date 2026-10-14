@@ -61,9 +61,9 @@ $$
 
 b) Calcola il valore della espressione $\dfrac{1}{1-x}$ per i valori della $x$ indicati nella tabella del punto b).
 
-c) Rappresenta le coppie di numeri formate dal valore della $x$ e dal valore dell'espressione degli esercizi a), b) e c) in un grafico cartesiano. 
+c) Rappresenta le coppie di numeri formate dal valore della $x$ e dal valore dell'espressione degli esercizi a) e b) in un grafico cartesiano. 
 
-d) Una agenzia di noleggio auto fa pagare per una automobile 50 euro al giorno più 32 centesimi a Km percorso. Il costo giornaliero dell'auto, in euro, dipende quindi dal numero di Km percorsi $x$ secondo l'espressione $0,32x + 50$.
+d) Una agenzia di noleggio auto fa pagare per una automobile $50$ euro al giorno più $32$ centesimi a $Km$ percorso. Il costo giornaliero dell'auto, in euro, dipende quindi dal numero di $Km$ percorsi $x$ secondo l'espressione $0,32x + 50$.
 
 Se chiamiamo l'espressione del costo $c(x) = 0,32x + 50$, calcola $c(75)$, $c(150)$, $c(225)$ e $c(650)$.
 
@@ -176,15 +176,15 @@ a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lav
 
 b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6\; m^2$?
 
-c) La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
+c)^*^  La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
 
 
 
 ### ESERCIZIO 2.2 - Proporzionalità inversa
 
-a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Km l'ora? ed a $100$?
+a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia $4$ ore ad $80$ Kilometri l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Kilometri l'ora? ed a $100$?
 
-b) Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9,\; 11,\; 29,\; 33$.
+b)^*^  Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9,\; 11,\; 29,\; 33$.
 
 c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $10,\; 25,\; 33,\; 50 \%$ . Quale sarebbe lo sconto di una giacca da $300$ euro nei vari casi?
 
@@ -196,7 +196,7 @@ a) Esprimi con una **formula** le relazioni tra le quantità nei casi riportati 
 
 1. La retribuzione di Andrea varia proporzionalmente al numero delle ore che lavora. Se per $38$ ore viene pagato $475$ euro, quale sarà la sua retribuzione $y$ per $x$ ore di lavoro?
 2. I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Se una parete di $16$ metri quadrati richiede due litri di vernice, quanti litri $y$ di vernice sono necessari per una parete di $x$ m^2^ ?
-3. Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia $4$ ore ad $80$ Km l'ora per raggiungere la destinazione, a che velocità $v$ dovrà andare per percorrere il tragitto in $t$ ore?
+3. Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia $4$ ore ad $80$ Kioometri l'ora per raggiungere la destinazione, a che velocità $v$ dovrà andare per percorrere il tragitto in $t$ ore?
 
 b) Per ciascuno dei punti dell'esercizio a) fare una tabella ed un grafico cartesiano con $5$ valori scelti a caso.  La relazione tra la variabile dipendente e quella indipendente è crescente o decrescente?
 
@@ -301,15 +301,19 @@ Compariranno i punti sul grafico. Se i punti sono allineati la dipendenza è lin
 
 ### ESERCIZIO 3.3 - Interesse semplice
 
-Una persona prende in prestito da una finanziaria $1.000\, €$ (capitale) per pagare un corso di formazione. Dovrà restituire il capitale dopo $5$ anni in una unica soluzione ma pagare trimestralmente l'$1\%$ dell'importo ricevuto, a titolo di interesse, finché non estingue il debito.
+Rispondi alle domande seguent:
 
-a) Se $I_n$ è l'ammontare degli interessi pagati fino all'$n$-esimo trimestre e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
+Una persona prende in prestito da una finanziaria un capitale di $\text{1\;000\; €}$ per pagare un corso di formazione. Dovrà restituire il capitale dopo $5$ anni in una unica soluzione ma pagare trimestralmente l'$1\%$ dell'importo ricevuto, a titolo di interesse, finché non estingue il debito.
 
-b) Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri? Quale sarà l'importo totale degli interessi pagati dopo $5$ anni?
+a) Quale sarà l'importo totale degli interessi pagati dopo $8$ trimestri, ossia $2$ anni? ed alla fine dei $5$ anni?
+
+a)^*^  Se $I_n$ è l'ammontare degli interessi pagati dopo $n$ trimestri e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
+
+b)^*^  Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri? 
 
 
 
-### ESERCIZIO 3.4 - Prezzo delle bibite
+### ESERCIZIO 3.4^*^ - Prezzo delle bibite
 
 a) Indicando con $p$ il prezzo di una lattina e con $q$ il numero di lattine settimanali vendute, calcola le quantità vendute per i prezzi riportati in tabella.
 $$
@@ -334,11 +338,11 @@ d) Se il prezzo diminuisse, cosa ci si può aspettare dalla quantità?
 
 ### ESERCIZIO 3.5 - Consumo di carburante
 
-Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda ha osservato che il trattore consuma $25$ litri di gasolio l'ora e, all'inizio dell'attività di aratura, ha una scorta di $1500$ litri di gasolio. Considerato che ogni giorno lavorativo il trattore ara per circa $6$ ore, calcolare:
+Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda ha osservato che il trattore consuma $25$ litri di gasolio l'ora e, all'inizio dell'attività di aratura, ha una scorta di $\text{1\;500}$ litri di gasolio. Considerato che ogni giorno lavorativo il trattore ara per circa $6$ ore, calcolare:
 
 a) il consumo giornaliero di gasolio;
 
-b) il livello della scorta di gasolio a fine di ogni giornata per i primi 5 giorni (fare una tabella);
+b)^*^  il livello della scorta di gasolio a fine di ogni giornata per i primi 5 giorni (fare una tabella);
 
 c) il numero di giorni necessari per l'esaurimento completo della scorta.
 
@@ -350,11 +354,11 @@ Uno scienziato studia la diffusione di una epidemia in una piccola città con un
 
 a) Calcola il numero dei casi dopo $5, 10, 15$ ed $x$ giorni. Organizza i risultati in una tabella.
 
-b) Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la malattia richiede un trattamento con un farmaco ospedaliero. All'inizio dello studio, l'ospedale cittadino aveva $500$ dosi del farmaco. Secondo il modello dal punto precedente, quanti giorni possono passare prima che il farmaco finisca?
+b)^*^  Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la malattia richiede un trattamento con un farmaco ospedaliero. All'inizio dello studio, l'ospedale cittadino aveva $500$ dosi del farmaco. Secondo il modello dal punto precedente, quanti giorni possono passare prima che il farmaco finisca?
 
 
 
-### ESERCIZIO 3.7 - La dipendenza quadratica
+### ESERCIZIO 3.7^*^ - La dipendenza quadratica
 
 a) L'area di un quadrato dipende dalla lunghezza del suo lato. Scrivi la funzione che calcola l'area $y$ di due quadrati uguali, ciascuno con un lato lungo $x$ metri.
 

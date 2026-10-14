@@ -32,7 +32,7 @@ Parlando di equazioni con due incognite, i problemi che ci si pongono, come nel 
 
 1. ***Verifica di Soluzioni***: Data una coppia di numeri, controllare se la coppia è una soluzione dell'equazione;
 2. ***Ricerca di soluzioni***: Data una equazione, trovare qualche soluzione dell'equazione (almeno due);
-3. **Scrittura di Equazioni**: Dato un problema, scrivere una o più equazioni le cui soluzioni risolvono il problema
+3. **Scrittura di Equazioni**: Dato un problema, scrivere una o più equazioni le cui soluzioni risolvono il problema.
 
 Per rispondere alla prima domanda basta sostituire alle incognite ordinatamente i numeri della coppia e controllare che l'uguaglianza risulti vera.
 
@@ -42,7 +42,7 @@ Controlliamo se la coppia $(1,4)$ è soluzione di $x + y = 5$.
 
 a) $x + y = 5, \; \{x = 1, y = 4\}$;
 
-b) $1 + 4 = 5 \longrightarrow True$.
+b) $1 + 4 = 5 \longrightarrow Vero$.
 
 La coppia è soluzione. La tabella seguente riporta alcuni esempi di sostituzioni di coppie di numeri nell'equazione $x + y = 5$.
 $$
@@ -51,17 +51,17 @@ $$
 \hline
 \mathbf{(x, y)} & \mathbf{x + y = 5} \\
 \hline 
-(0, 5) & 0 + 5 = 5 \longrightarrow True \\
+(0, 5) & 0 + 5 = 5 \longrightarrow Vero \\
 \hline 
-(1, 4) & 1 + 4 = 5 \longrightarrow True \\
+(1, 4) & 1 + 4 = 5 \longrightarrow Vero \\
 \hline 
-(-1, 6) & (-1) + 6 = 5 \longrightarrow True \\
+(-1, 6) & (-1) + 6 = 5 \longrightarrow Vero \\
 \hline 
-(2, 6) & 2 + 6 = 5 \longrightarrow False \\
+(2, 6) & 2 + 6 = 5 \longrightarrow Falso \\
 \hline 
-(-2, 7) & (-2) + 7 = 5 \longrightarrow True \\
+(-2, 7) & (-2) + 7 = 5 \longrightarrow Vero \\
 \hline 
-(3, 3) & 3 + 3 = 5 \longrightarrow False \\
+(3, 3) & 3 + 3 = 5 \longrightarrow Falso \\
 \hline\end{array}
 $$
 Come si può notare a differenza delle equazioni con una sola incognita, dove c'è di norma una sola soluzione, le soluzioni alle equazioni con due incognite sono più di una, di norma sono ***infinite***.     $\bullet$
@@ -239,7 +239,7 @@ a) Risolvi i sistemi seguenti con il metodo di sostituzione.
    \end{array} 
    \right.$$
 
-3. $$ \left\{  
+3. ^*^  $$ \left\{  
    \begin{array}{l} 
    x-2=\dfrac{y}{3}-1+\dfrac{x}{2} \\  
    \dfrac{5x+3y}{6}-3=\dfrac{2x-y}{4}+\dfrac{7}{12} \\  
@@ -284,14 +284,14 @@ Quanti anni ha ciascuna?
 d) $10$ sacchi di frumento ed $8$ di mais pesano $1\ 646 \ Kg$; $30$ sacchi di frumento e $12$ di mais, rispettivamente uguali ai precedenti, pesano $3\ 894\ Kg$.
 Quanto pesa ciascun sacco di frumento e ciascun sacco di mais?  
 
-e) In una fabbrica ci sono $2$ macchine, la prima produce $10$ pezzi all’ora, la seconda $7$ pezzi all’ora.
+e)^*^  In una fabbrica ci sono $2$ macchine, la prima produce $10$ pezzi all’ora, la seconda $7$ pezzi all’ora.
 Le due macchine hanno prodotto in tutto $191$ pezzi, lavorando complessivamente $23$ ore. Determina il numero dei pezzi prodotti dall’una e dall’altra macchina.  
 
-f) Due serbatoi hanno capacità rispettivamente proporzionali a $7$ e $4$. Il serbatoio maggiore contiene tanto liquido quanto quello minore più i $\dfrac{3}{4}$ di quest’ultimo. Determina le capacità. 
+f)^*^  Due serbatoi hanno capacità rispettivamente proporzionali a $7$ e $4$. Il serbatoio maggiore contiene tanto liquido quanto quello minore più i $\dfrac{3}{4}$ di quest’ultimo. Determina le capacità. 
 
 
 
-### ESERCIZIO 4.2 - Sistemi con tre incognite
+### ESERCIZIO 4.2^*^ - Sistemi con tre incognite
 
 Risolvere i sistemi seguenti con il metodo di sostituzione. 
 
