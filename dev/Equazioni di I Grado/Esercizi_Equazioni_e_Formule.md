@@ -76,7 +76,7 @@ b) Controlla se il numero dato è soluzione delle seguenti equazioni.
 1. $0.5x = 2.9, \; \{x=5\}$;
 2. $33 - \dfrac{x}{2} = 30, \; \{x=6\}$;
 3. $\dfrac{2}{a + 1} + 5 = \dfrac{12}{a + 1}, \; \{a=1\}$;
-5. $-4 = a + \dfrac{5}{3}, \; \{a=\dfrac{7}{3}\}$.
+5. ^*^  $-4 = a + \dfrac{5}{3}, \; \{a=\dfrac{7}{3}\}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -315,15 +315,15 @@ b) Risolvi le equazioni del punto b) con sequenze di comandi GEOGEBRA analoghe a
 
 a) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche richieste.
 
-1. Ha come (unica) soluzione il numero -3;
-2. ha come soluzione un numero che ha il doppio uguale a 6;
-3. ha come soluzione il numero il cui doppio meno 5 è uguale al numero stesso.
+1. Ha come (unica) soluzione il numero $-3$.
+2. Ha come soluzione un numero che ha il doppio uguale a $6$.
+3. Ha come soluzione il numero il cui doppio meno $5$ è uguale al numero stesso.
 
 b) Per ciascuno dei punti seguenti, scrivi l'equazione con le caratteristiche richieste e trova la sua soluzione.
 
-1. Ha come soluzione il numero -3 e ha l'incognita in entrambi i membri;
-2. ha come soluzione il numero che sommato al suo successivo è uguale a 3;
-3. consiste nell'uguaglianza tra un numero ed il suo opposto.
+1. Ha come soluzione il numero $-3$ e ha l'incognita in entrambi i membri.
+2. ^*^  Ha come soluzione il numero che sommato al suo successivo è uguale a $3$.
+3. Consiste nell'uguaglianza tra un numero ed il suo opposto.
 
 
 
@@ -512,9 +512,9 @@ b) A Gennaio un maglione invece che $90$ euro lo puoi pagare $60$. Che percentua
 
 c) Per pavimentare un corridoio rettangolare servono $600$ mattonelle quadrate di $20 \; cm$ di lato. Quanto è lungo il corridoio se è largo $160 \; cm$?
 
-d) Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a $\text{12.95}$ euro e le rivende a $\text{47.50}$. 
+d)^*^  Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a $\text{12.95}$ euro e le rivende a $\text{47.50}$. 
 
-e) Quanto risparmia un consumatore se l'IVA sui pannolini passasse dal $10\%$ al $5\%$, ed il prezzo di listino di una confezione di pannolini è di $60$ euro?
+e)^*^  Quanto risparmia un consumatore se l'IVA sui pannolini passasse dal $10\%$ al $5\%$, ed il prezzo di listino di una confezione di pannolini è di $60$ euro?
 
 
 
@@ -603,11 +603,11 @@ b) Un aereo vola tra Chicago e S. Francisco in $\text{3.75}$ ore. Se le città d
 
 c) La stazione di Latina si trova sulla linea ferroviaria Roma - Napoli e dista $\text{55 Km}$ da Roma e $\text{155 Km}$ da Napoli. Se un treno parte da Rome alle $\text{9:30}$ ed arriva a Latina alle $\text{10:00}$, quando possiamo prevedere che arriverà a Napoli?
 
-d) Un gruppo di persone guarda dei fuochi di artificio in lontananza. Vede le luci colorate dei fuochi e dopo circa tre secondi sente il rumore. Se la velocità del suono è di circa $\text{330}$ metri al secondo, quanto è distante il gruppo dal punto di esplosione?
+d)^*^  Un gruppo di persone guarda dei fuochi di artificio in lontananza. Vede le luci colorate dei fuochi e dopo circa tre secondi sente il rumore. Se la velocità del suono è di circa $\text{330}$ metri al secondo, quanto è distante il gruppo dal punto di esplosione?
 
 e) Una famiglia beve il caffè due volte al giorno ed ogni volta che fa il caffè mette nella caffettiera $\text{4}$ cucchiaini di caffè macinato. Se un cucchiaino contiene $\text{4}$ grammi di caffè, in quanti giorni la famiglia consumerà una confezione da mezzo chilo di caffè? 
 
-f) Una persona fuma ogni giorno circa $\text{15}$ sigarette. Considerato che un pacchetto contiene $\text{20}$ sigarette ed una stecca contiene $\text{10}$ pacchetti, quanti giorni sono necessari per consumare una stecca di sigarette?
+f)^*^  Una persona fuma ogni giorno circa $\text{15}$ sigarette. Considerato che un pacchetto contiene $\text{20}$ sigarette ed una stecca contiene $\text{10}$ pacchetti, quanti giorni sono necessari per consumare una stecca di sigarette?
 
 
 
@@ -683,11 +683,12 @@ a) Risolvi le seguenti equazioni considerando la lettera $x$ come (unica) incogn
 
 1. $ax = 2a$;    $bx - 2 = 0$;    $2x = y$.
 
-2. $2a - 3x = 7a - 5x$;    $b(x - 2) + b + 1 = 0$;    $2y = -\dfrac{1}{3}x$.
+2. $2a - 3x = 7a - 5x$;
 
-3. $2bx = 2b - 1$;    $ax = ab$;    $x + y = 1$.
+3. $b(x - 2) + b + 1 = 0$;
 
-4. $6x - 3(x + 2a) = a + 4(x - 2a)$;    $b(x - 2) + b + 1 = 0$;    $\dfrac{-2}{3}(x - y) + 3y = -x + 4$.
+4. $2y = -\dfrac{1}{3}x$.
+
 
 b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata dimostrando che è la soluzione.
 
@@ -704,6 +705,24 @@ b) Risolvi la seconda equazione del punto a.1) dell'esercizio con la sequenza di
 2. $m: Risolvi(l, x)$ &#9166; 
 
 Controlla che la soluzione è corretta sostituendo all'incognita la soluzione trovata con il comando $Sostituisci(l, m)$ &#9166; . Osserva che il primo membro è uguale al secondo.
+
+
+
+### ESERCIZIO 6.2 - Equazioni letterali
+
+a) Risolvi le seguenti equazioni considerando la lettera $x$ come (unica) incognita.
+
+1. $2bx = 2b - 1$;
+
+2. $ax = ab$;
+
+3. $x + y = 1$.
+
+4. ^*^  $6x - 3(x + 2a) = a + 4(x - 2a)$;
+
+5. $b(x - 2) + b + 1 = 0$;
+
+6. ^*^  $\dfrac{-2}{3}(x - y) + 3y = -x + 4$.
 
 
 
@@ -740,7 +759,8 @@ a) Risolvi le equazioni letterali proposte considerando di volta in volta ciascu
 
 1. $M = C + I$,  incognita $C$;
 2. $A = b \cdot h$,  incognita $b$;
-3. $A = \dfrac{b \cdot h}{2}$, incognita $b$;    $A = \dfrac{b \cdot h}{2}$,  incognita $h$;
+3. $A = \dfrac{b \cdot h}{2}$, incognita $b$;
+4. $A = \dfrac{b \cdot h}{2}$,  incognita $h$;
 
 b) Esplicita la formula proposta rispetto alla lettera indicata.
 
@@ -756,10 +776,10 @@ b) Esplicita la formula proposta rispetto alla lettera indicata.
 a) Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
 
 1. $v = \dfrac{s}{t}$,  incognita $t$;
-2. $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_s$;
-3. $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_l$;
+2. ^*^  $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_s$;
+3. ^*^  $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_l$;
 4. $P_v = C \cdotp (1 + q)$, incognita $C$;
-5. $P_v = C \cdotp (1 + q)$; incognita $q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_v - C}{C}$). 
+5. ^*^  $P_v = C \cdotp (1 + q)$; incognita $q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_v - C}{C}$). 
 
 b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
@@ -876,14 +896,14 @@ a) Un articolo ha un prezzo di listino di $42$ euro e l'IVA è al $4\%$. Quale �
 
 b) Nelle spedizioni dei prodotti di elettronica di consumo di piccole dimensioni il costo dell'imballo è mediamente di $5$ euro. Quanto incide questa somma in percentuale sul costo totale di un prodotto che il consumatore paga $45$ euro? E sul costo al netto dell'imballo?
 
-c) L’Iva sugli assorbenti ha subito una serie di ribassi e rialzi: era al $22\%$, poi è stata ridotta al $10\%$ dal governo Draghi, poi tagliata ancora al $5\%$ nel 2023 e lo stesso governo che aveva ridotto l’Iva ha deciso di riportarla al $10\%$.
+c)^*^   L’Iva sugli assorbenti ha subito una serie di ribassi e rialzi: era al $22\%$, poi è stata ridotta al $10\%$ dal governo Draghi, poi tagliata ancora al $5\%$ nel 2023 e lo stesso governo che aveva ridotto l’Iva ha deciso di riportarla al $10\%$.
 
 1. Scrivi una formula che calcola il prezzo al consumatore di una scatola di assorbenti che costa $3$ euro al netto dell'IVA se l'aliquota è dell'$i\%$.
 2. Calcola IVA e prezzo finale nei vari casi di aliquota.
 
 
 
-### ESERCIZIO 8.2
+### ESERCIZIO^*^ 8.2
 
 a) Date le due formule seguenti:
 $$

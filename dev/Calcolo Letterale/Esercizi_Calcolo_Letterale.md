@@ -134,9 +134,15 @@ d) Scegli la descrizione corretta dell'espressione $\left[a-\left(-\dfrac{1}{a}\
 
 ## UNITA' 2: I Monomi
 
-Abbiamo già detto che una espressione letterale non può essere calcolata, cioè non da come risultato un numero, finché a tutte le lettere non sostituiamo dei numeri. Però vediamo, con un esempio, che anche con le sole lettere alcune informazioni le posso dedurre.
+Abbiamo già detto che una espressione letterale non può essere calcolata, cioè non da come risultato un numero, finché a tutte le lettere non sostituiamo dei numeri. Vediamo però con alcuni esempi che anche senza sostituire i numeri posso arrivare a certe conclusioni.
 
 #### ESEMPIO 1
+
+Abbiamo visto che l'area di un triangolo cha ha una base lunga $b$ ed una altezza lunga $h$ è pari a $\dfrac{bh}{2}$. Allora l'area di due triangoli uguali sarà pari a $\dfrac{bh}{2} + \dfrac{bh}{2}$ cioè $bh$, perché qualunque siano i valori di base ed altezza la somma di due aree uguali annulla la divisione per due.    $\bullet$
+
+
+
+#### ESEMPIO 2
 
 Ogni tanto gioco ad una lotteria, del tipo "gratta e vinci" in cui il premio cambia ogni giorno, ma è lo stesso per tutte le giocate di quel giorno. Dopo aver giocato diverse volte per alcune settimane risulta che ho vinto due volte il martedì e tre volte il venerdì. Se la vincita del martedì è pari ad $s$ euro e quella del venerdì è di $t$ euro, il totale delle vincite del martedì sarà $s + s$ e quelle del venerdì $t +t + t$ euro.
 
@@ -156,7 +162,7 @@ In un monomio in forma normale, il numero è detto ***parte numerica*** ed il pr
 
 In un monomio il simbolo di prodotto si può anche non scrivere per cui $2 \cdot s$ si può scrivere $2s$ ed $\dfrac{2}{3} \cdot a \cdot b^2$ si può scrivere $\dfrac{2}{3} a b^2$. Quando inseriamo un monomio In GEOGEBRA invece dobbiamo **sempre usare il segno di prodotto**.
 
-#### ESEMPIO 2
+#### ESEMPIO 3
 
 $\dfrac{ab}{2}$ : grado 2, **Forma non normale**;
 
@@ -172,7 +178,7 @@ $2$: monomio di grado $0$.   $\bullet$
 
 In una espressione letterale, anche un singolo numero, come $-\dfrac{3}{2}$ o $1$, può essere considerato un monomio con la parte numerica che corrisponde al numero, e zero lettere, cioè un monomio di **grado zero**. 
 
-Poiché ogni numero elevato a zero è uguale ad $1$, un numero può essere pensato come un monomio che ha la parte letterale formata da una o più lettere tutte elevate a zero, cioè $1 = 1a^0$ oppure $-10 = -10x^0$ o addirittura con più lettere:
+Poiché ogni numero elevato a zero è uguale ad $1$, un numero può essere pensato come un monomio che ha la parte letterale formata da una o più lettere tutte elevate a zero, cioè $1 = 1a^0$ oppure $-10 = -10x^0$ o addirittura con più lettere:
 $$
 -\dfrac{3}{2} = -\dfrac{3}{2}a^0x^0y^0
 $$
@@ -235,19 +241,19 @@ a) Scrivi una espressione letterale che risolve i seguenti problemi:
 
 b)^*^  L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il $\text{150 \%}$ in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
 
-c)^*^  Uno studente deve scrivere un documento che contiene $x$ parole al PC. Se lo studente scrive $60$ parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
+c)^*^  Uno studente deve scrivere un documento che contiene $x$ parole al PC. Se lo studente scrive $60$ parole al minuto, scrivi un'espressione che indica il numero di minuti necessari a scrivere il documento.
 
 d) Un corteo di $b$ automobili, ciascuna con $5$ persone a bordo, sta viaggiando verso la capitale per una manifestazione politica. Scrivi quante persone stanno andando alla manifestazione in corteo.  
 
-e)^*^  Una barca di $12$ metri deve essere divisa in due parti. Indica con una lettera la lunghezza di una delle parti e scrivi l'espressione che calcola la lunghezza dell'altra parte.  
+e)^*^  Una barca di $12$ metri deve essere divisa in due parti. Indica con una lettera la lunghezza di una delle parti e scrivi l'espressione che calcola la lunghezza dell'altra parte.  
 
 f) Il numero dei partecipanti ad una maratona quest'anno è superiore di $25$ unità al doppio di quello dell'ultimo anno. Scrivi una espressione che indica il numero dei partecipanti di quest'anno.   
 
-g)^*^  L'IBM è stata fondata $80$ anni prima della Apple. La Dell è stata fondata $9$ anni prima della Apple. 
+g)^*^  L'IBM è stata fondata $80$ anni prima della Apple. La Dell è stata fondata $9$ anni prima della Apple. 
 1. Indica con una lettera gli anni d'età di una delle aziende e scrivi le espressioni che indicano l'età delle altre.
 2. Il primo Aprile $2008$ la Apple ha compiuto $32$ anni. Quanti anni avevano le altre due?  
 
-h)^*^  Lincoln è stato eletto presidente degli USA $60$ anni dopo Jefferson. Trump è stato eletto $215$ anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno $n$.
+h)^*^  Lincoln è stato eletto presidente degli USA $60$ anni dopo Jefferson. Trump è stato eletto $215$ anni dopo Jefferson. Scrivi le espressioni letterali che indicano l'anno di elezione di ciascun presidente, se Trump è stato eletto nell'anno $n$.
 
 i) Una persona deposita in banca un capitale $C$ su un conto che rende il $\text{5 \%}$ di interesse annuo il primo anno, il $\text{7 \%}$ il secondo ed il $\text{10 \%}$ il terzo. Quanto avrà reso il deposito se sul conto per tutti e tre gli anni c'è sempre la stessa cifra iniziale?
 
@@ -263,7 +269,7 @@ a) Scrivi le espressioni numeriche che forniscono le soluzioni dei seguenti prob
 
 3. Un idraulico ha un costo fisso a chiamata di $40$ euro ed un ulteriore costo di $35$ euro l'ora. Se fa un intervento che dura $4$ ore, quanto pagherà il cliente?
 
-b)^*^  Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si ottiene sostituendo ai numeri le lettere di volta in volta indicate.
+b)^*^  Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si ottiene sostituendo ai numeri le lettere di volta in volta indicate.
 
 1.  $n= 600$;   $C = 76$;   $P=99$;
 2. $T=26.304$;   $l=32$;
@@ -377,7 +383,7 @@ Per capire quante operazioni sono presenti, la prima cosa è contare quanti mono
 
 Quante operazioni tra monomi sono presenti nell'espressione $-\dfrac{3}{4}abx^2(2 + a) - (x + a)x^2$?
 
-I monomi sono sette (compresi i numeri $-1$ e $2$). Le operazioni sono quindi $6$ e sono indicate di sotto:
+I monomi sono sette (compresi i numeri $-1$ e $2$). Le operazioni sono quindi $6$ e sono indicate di sotto:
 $$
 -\dfrac{3}{4}abx^2 \overset{\overset{\cdot}\downarrow}\cdot (2 \overset{\overset{+/-}\downarrow}\ + a)\overset{\overset{+/-}\downarrow}\ -1\overset{\overset{\cdot}\downarrow}\cdot (x \overset{\overset{+/-}\downarrow}\ + a) \overset{\overset{\cdot}\downarrow}\cdot x^2
 $$
@@ -432,7 +438,7 @@ b) Individua **quanti e quali** monomi in forma normale ed operazioni contiene c
 1.  $ab\left(-\dfrac{1}{2}\right)a^{2}$;
 2.  $abcde \cdot \dfrac{5}{2 \cdot 3}$;
 3.  $\dfrac{5}{3}b\left(-4\right)a + \dfrac{ab^2x}{3}$;
-4.  ^*^  $a + 2a^2 \cdot \dfrac{2}{-3}$.
+4.  ^*^  $a + 2a^2 \cdot \dfrac{2}{-3}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -479,14 +485,14 @@ Anche un singolo monomio può essere considerato una frazione algebrica (con al 
 a) Calcola, se esiste, il monomio risultato dei rapporti seguenti. Nel caso non esista, semplifica, riducendo ai minimi termini, la frazione algebrica risultante.
 
 1. $ax:a$;     $-\dfrac{1}{4}ax:a$;     $a:\dfrac{1}{4}$;
-2. ^*^  $\dfrac{-\dfrac{1}{4}ax}{a}$;     $\dfrac{1}{7a^2b}\cdot ab^2$;      $\dfrac{5}{2}a^4x:a^3x^2$;
+2. ^*^  $\dfrac{-\dfrac{1}{4}ax}{a}$;     $\dfrac{1}{7a^2b}\cdot ab^2$;      $\dfrac{5}{2}a^4x:a^3x^2$;
 3. $4a^5b^3 : (-ab^3)$;     $-\dfrac{3}{4}a^2b^5:(-\dfrac{1}{4}a^2b^3)$;     $\dfrac{\dfrac{1}{2}ab^3}{-2^2b^3}$;
-4. ^*^  $\dfrac{5x^2y}{10x^3y}$;     $\dfrac{7a^2x}{a^2x^2}$;     $-\dfrac{4bx^2}{6b}$.
+4. ^*^  $\dfrac{5x^2y}{10x^3y}$;     $\dfrac{7a^2x}{a^2x^2}$;     $-\dfrac{4bx^2}{6b}$.
 
 b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti. 
 
 1. $\dfrac{5}{2}a^4x$;     $a^3x^2$;     $-ax^3a^2$;     $-\dfrac{a^2x^2}{3}$;
-2. ^*^  $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
+2. ^*^  $-2ax \cdot (-3)abx$;    $ax\left(-\dfrac{1}{2}\right)a^{2}$.
 
 
 
@@ -655,7 +661,7 @@ a) Scrivi il polinomio risultato dei prodotti seguenti.
 
 4. $-4x^{2}y \cdot (-x^{3}+2xy-y)$ ;
 
-5. ^*^  $(2x+3y)(-4x) -3y(-4x+y) + (4x^{2}+3y^{2})(-2)$ .
+5. ^*^  $(2x+3y)(-4x) -3y(-4x+y) + (4x^{2}+3y^{2})(-2)$ .
 
 
 
@@ -738,7 +744,7 @@ a) Scrivi i risultati dei prodotti seguenti in forma normale.
 1. $\left(2a-3b\right)\left(5a+4b\right)$;
 2. $\left(x-3y\right)\left(5x+y\right)$.
 
-b)^*^   Scrivi i risultati dei prodotti seguenti in forma normale. 
+b)^*^   Scrivi i risultati dei prodotti seguenti in forma normale. 
 
 1. $\left(2x+y\right)\left(4x^{2}+2xy+y^{2}\right)$;
 2. $\left(a^{3}-3a+2\right)\left(\dfrac{1}{2}a+1\right)$
@@ -784,7 +790,7 @@ a) Scrivi i polinomi seguenti come prodotto di un monomio per un polinomio, indi
 
 1. $6x^2-12y$;      $-4+6xy$;      $-a-b$;
 2. $a^2 +ax$;      $b^2y - b$;      $-y^2 +2xy + 3y$;
-3. ^*^  $-8x^2 -12xy$;      $4abc^2-8cba^2$.
+3. ^*^  $-8x^2 -12xy$;      $4abc^2-8cba^2$.
 
 #### Laboratorio GEOGEBRA
 
@@ -916,9 +922,9 @@ b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza gli op
 1. $\dfrac{x^2+3x}{x}$;
 2. $(4x^2-2x):4x^2$;
 3. $\dfrac{x}{2x^2-x}$;
-4. ^*^  $\dfrac{2a-2}{5a-5}$;
-5. ^*^  $(-x-y):(x+y)$;
-6. ^*^  $\dfrac{2x-y}{\dfrac{2}{3}x-\dfrac{1}{3}y}$.
+4. ^*^  $\dfrac{2a-2}{5a-5}$;
+5. ^*^  $(-x-y):(x+y)$;
+6. ^*^  $\dfrac{2x-y}{\dfrac{2}{3}x-\dfrac{1}{3}y}$.
 
 #### Laboratorio GEOGEBRA
 
