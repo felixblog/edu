@@ -1,8 +1,8 @@
 ## UNITA' 1: Diseguaglianze ed intervalli
 
-La scrittura $3 \gt 5$ è una **diseguaglianza** ed afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5, ed è chiaramente una affermazione falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False.$  Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero 5; è chiaramente una affermazione vera, e simbolicamente scriviamo che $1+2 \lt 5 \longrightarrow True.$ Osserviamo che $1+2 \lt 3 \longrightarrow False.$
+La scrittura $3 \gt 5$ è una **diseguaglianza** ed afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5, ed è chiaramente una affermazione falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} Falso.$  Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow Vero$. Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero $5$; è chiaramente una affermazione vera, e simbolicamente scriviamo che $1+2 \lt 5 \longrightarrow Vero.$ Osserviamo che $1+2 \lt 3 \longrightarrow Falso.$
 
-I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow True$  e  $3 \le 3 \longrightarrow True$​ .
+I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow Vero$  e  $3 \le 3 \longrightarrow Vero$ .
 
 La scrittura $x < -2$ è invece una **disequazione**. Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per se non è ne vera ne falsa in quanto non contiene numeri che possono essere confrontati tra di loro, ma le disequazioni sono comunque importanti perché con esse possiamo porci un problema , che è quello di trovare i numeri che sostituiti alla lettera $x$​ rendono le relazioni vere.
 
@@ -39,7 +39,7 @@ b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
 1.  $x + 1 \gt 0$;
 2.  $x + 3 \le 4$;
 3.  $2x-1 \lt 6$;
-4.  ^*^  $x^2 + 2x -1 \ge 0$. 
+4.  ^*^  $x^2 + 2x -1 \ge 0$. 
 
 ### ESERCIZIO 1.2 - Soluzione di Disequazioni I
 
@@ -92,7 +92,7 @@ c) Per ciascuno dei casi seguenti, scrivi la disequazione (elementare) o il sist
 2.  $(1;+\infty)$;      $(-\infty;-\dfrac{50}{11})$;
 3.  $[0; 3]$;      $(-2; 2]$;
 4.  $(2; \dfrac{33}{5}]$;     $(\dfrac{2}{5}; 1)$;
-5.  ^*^  Gli intervalli dei punti b.3) e b.4).
+5.  ^*^  Gli intervalli dei punti b.3) e b.4).
 
 #### Laboratorio GEOGEBRA
 
@@ -108,7 +108,7 @@ Per rappresentare graficamente l'intervallo:
 1. Dal "Menu Principale" seleziona "Cambia Calcolatrice" / "Grafici";
 2. Dal menu della casella di input, seleziona "Impostazioni" e quindi dalla scheda "Stile" seleziona "Mostra sull'asse X".
 
-<img src="img/diseq-0-3.png" alt="diseq-0-3" style="zoom:25%;" />
+<img src="img/diseq-0-3.png" alt="diseq-0-3" style="zoom:80%;" />
 
 b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($b, c$, ecc.).
 
@@ -151,13 +151,13 @@ a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequ
 3. $-x-1\le 2$;
 4. $\dfrac{x}{5}-1\ge 2$;
 5. $4x - 3 > 5x + 1$;
-6. ^*^  $4[2(1 - x) -3] > 5x + 1$;
+6. ^*^  $4[2(1 - x) -3] > 5x + 1$;
 
 b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
 
 1. $5(x-1) < 2(x-3)$;
-2. ^*^  $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;
-3. ^*^  $3(x-1)-1 < \dfrac{x-2}{3} - \left(x-\dfrac{x-1}{3}\right)$;
-4. ^*^  $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;
+2. ^*^  $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;
+3. ^*^  $3(x-1)-1 < \dfrac{x-2}{3} - \left(x-\dfrac{x-1}{3}\right)$;
+4. ^*^  $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;
 5.    $2x-5\lt 3+2x$;
 6. $2(x+1) - 5x\ge 3x + 4(x+1)$.

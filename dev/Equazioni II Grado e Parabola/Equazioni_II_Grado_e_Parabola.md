@@ -38,6 +38,10 @@ E' importante dire che se l'indice del radicale è pari ed il numero sotto la ra
 
 Poiché i radicali sono potenze, in alcuni casi è possibile effettuare delle semplificazioni del radicale scomponendo in fattori la base della radice e poi applicando le regole delle potenze. Vediamo qualche esempio.
 
+#### ESEMPIO 1
+
+Vediamo se si può semplificare $\sqrt[2]16$.
+
 a) $\sqrt[2]16$;
 
 b) $16^\frac{1}{2}$;  scomponendo in fattori la base abbiamo:
@@ -48,11 +52,13 @@ d) $2^{4\cdot\frac{1}{2}}$;
 
 e) $2^2$;
 
-f) $4$.
+f) $4$.    $\bullet$
 
-Un altro esempio è:
+#### ESEMPIO 2
 
-a) $\sqrt{108}$; Scomponendo in fattori la base abbiamo:. 
+Vediamo se si può semplificare $\sqrt{108}$.
+
+a) $\sqrt{108}$;   Scomponendo in fattori la base abbiamo:
 
 b) $(2^2\cdot 3^3)^\frac{1}{2}$; Applicando le regole delle potenze abbiamo:
 
@@ -62,7 +68,7 @@ d) $2 \cdot 3^{1 + \frac{1}{2}}$;
 
 e) $2 \cdot 3 \cdot 3^\frac{1}{2}$;
 
-f) $6\sqrt3$.
+f) $6\sqrt3$.    $\bullet$
 
 
 
@@ -78,9 +84,14 @@ b) Calcola $\sqrt[n]{x}$ in ciascuno dei casi seguenti:  $n=2, x=1;$   $n=3, x=8
 
 c) Stabilisci quali delle relazioni seguenti sono vere.
 
-1. $\sqrt[2]{4}+2=0;$     $\sqrt[2]{4}-5=0;$     $\sqrt[4]{2}-\sqrt[2]{-4}=0;$ 
-2. $\sqrt[2]{25}=\sqrt[2]{36}-1;$     $\sqrt[5]{1}-1=0$;
-3. $\sqrt[2]{-4}=-2$;    $\sqrt[2]{4} = -2$;     $2 - \sqrt[2]{4}=0$.
+1. $\sqrt[2]{4}+2=0$;
+2. $\sqrt[2]{4}-5=0$;
+3. $\sqrt[4]{2}-\sqrt[2]{4}=0$; 
+4. $\sqrt[2]{25}=\sqrt[2]{36}-1$;
+5. $\sqrt[5]{1}-1=0$;
+6. $\sqrt[2]{-4}=-2$;
+7. $\sqrt[2]{4} = -2$;
+8. $2 - \sqrt[2]{4}=0$.
 
 #### Laboratorio GEOGEBRA
 
@@ -92,7 +103,7 @@ a) Risolvi il quinto esercizio del punto a.1) con la sequenza di operazioni GEOG
 
 b) Risolvi il quarto esercizio del punto a.1) con una sequenza di operazioni GEOGEBRA analoga a quella del punto precedente ma inserendo in input la radice in forma di esponenziale:  $2^\frac{1}{2}$ &#9166; 
 
-c) Risolvi il punto c.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
+c) Risolvi i punti c.1), c.2), c.3) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
 1. $\sqrt4 + 2==0$&#9166;    $4^\frac{1}{5}-5==0$&#9166;    $2^\frac{1}{4}-4^\frac{1}{2}==0$&#9166; 
 
@@ -103,12 +114,12 @@ c) Risolvi il punto c.1) dell'esercizio con la sequenza di operazioni GEOGEBRA r
 a) Scrivi ciascuno dei radicali seguenti in forma di potenza e semplifica, dopo aver eventualmente scomposto la base in fattori primi. 
 
 1. $\sqrt[2]{4};$   $\sqrt[2]{81};$   $\sqrt[3]{15};$   $\sqrt[2]{7};$   $\sqrt[4]{64};$
-2. $\sqrt[6]{\dfrac{1}{8}};$   $\sqrt[4]{2187};$   $\sqrt[3]{\dfrac{4}{9}};$
+2. ^*^  $\sqrt[6]{\dfrac{1}{8}};$   $\sqrt[4]{2187};$   $\sqrt[3]{\dfrac{4}{9}};$
 
 b) Calcola il valore delle seguenti potenze
 
 1. $9^{\frac{3}{2}};$    $27^{\frac{2}{3}};$    $1^{\frac{2}{3}};$    
-2. $\left(\dfrac{1}{4}\right)^{\frac{3}{2}};$    $\left(\dfrac{25}{9}\right)^{\frac{3}{2}};$    $8^{-\frac{2}{3}};$    $25^{-\frac{1}{2}};$
+2. ^*^  $\left(\dfrac{1}{4}\right)^{\frac{3}{2}};$    $\left(\dfrac{25}{9}\right)^{\frac{3}{2}};$    $8^{-\frac{2}{3}};$    $25^{-\frac{1}{2}};$
 
 #### Laboratorio GEOGEBRA
 
@@ -169,7 +180,9 @@ d) $\dfrac{5+\sqrt{1}}{2}$
 
 e) $\dfrac{5+ 1}{2}$
 
-f) $\dfrac{6}{2} \longrightarrow 3$.
+f) $\dfrac{6}{2}$;
+
+g) $3$.
 
 Per $x_2$ analogamente:
 
@@ -183,7 +196,9 @@ d) $\dfrac{5-\sqrt{1}}{2}$
 
 e) $\dfrac{5 - 1}{2}$
 
-f) $\dfrac{4}{2} \longrightarrow 2$.
+f) $\dfrac{4}{2}$;
+
+g) $2$.
 
 Abbiamo ottenuto quindi $x_1=3$, $x_2 = 2$.
 
@@ -200,7 +215,7 @@ a) Per ciascuna delle equazioni seguenti, individua, nel caso sia di secondo gra
 1. $3x^2-2 = x;$  
 2. $4-x^2 = 2;$  
 3. $1-x=x;$
-4. $(x-3)(x-3)=0;$
+4. ^*^  $(x-3)(x-3)=0;$
 5. $x(x-6)=0$.
 
 #### Laboratorio GEOGEBRA
@@ -221,12 +236,16 @@ a) Trova, se esistono, le soluzioni delle equazioni seguenti.
 
 2. $3x^2 - 12x + 9 = 0;$   $4x^2 + 12x + 9 = 0;$   $x^2 + x + 1 = 0;$
 3. Equazioni dei punti a.3, a.4 e a.5 dell'esercizio 2.1.
-4. $3(x-x^2)-\dfrac{4}{3} = \dfrac{1}{2}x - 1;$   $\dfrac{x+4}{5}+\dfrac{33}{10}=(2+x)(2-x);$   $\dfrac{4}{3}x(12-x)=45$.
+4. $3(x-x^2)-\dfrac{4}{3} = \dfrac{1}{2}x - 1$;
+5. $\dfrac{x+4}{5}+\dfrac{33}{10}=(2+x)(2-x)$;
+6. $\dfrac{4}{3}x(12-x)=45$.
 
 b) Scrivi l'equazione e trova le soluzioni, nei casi in cui i coefficienti della forma normale $a$, $b$, $c$ abbiano i valori riportati di seguito:
 
-1. $a=2, b=8, c=1;$   $a=3, b=-1, c=2;$
-2. $a=2, b=8, c=10;$   $a=0, b=-1, c=2$.
+1. $a=2, b=8, c=1$;
+2. $a=3, b=-1, c=2$;
+3. $a=2, b=8, c=10$;
+4. $a=0, b=-1, c=2$.
 
 #### Laboratorio GEOGEBRA
 
@@ -234,30 +253,21 @@ a) Risolvi il secondo esercizio del punto a.1) con la sequenza di operazioni GEO
 
 1. $Risolvi(\dfrac{x^2}{4} - 81 = 0, {x})$ &#9166; 
 
-b) Risolvi il secondo e terzo esercizio del punto b.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $d : b^2-4ac$  &#9166;
-2. $e1: ax^2 +bx +c = 0$  &#9166;
-3. $l1: \{a=3, b=-1, c=2\}$  &#9166;
-4. $Sostituisci(d, l1)$  &#9166;						  // Si ottiene il discriminante
-5. $e1: Sostituisci(e1,l1)$  &#9166;					// Si ottiene l'equazione con i coefficienti numerici
-6. $Risolvi(e1)$  &#9166;							      // Si ottengono le soluzioni dell'equazione
-7. $l2: \{a=2, b=8, c=1\}$  &#9166;
-8. $Sostituisci(d, l2)$  &#9166;
-9. $e_2: Sostituisci(e,l2)$  &#9166;	
-10. $Risolvi(e2)$  &#9166;	
 
 ### ESERCIZIO 2.3 - Radici di polinomi
 
 a) Trova, se esistono, le radici dei polinomi seguenti.
 
-1. $2 + x;$   $\dfrac{x^2}{4} - 9;$   $4x^2 - \dfrac{25}{4}$.
+1. $2 + x$;
+1. $\dfrac{x^2}{4} - 9$;
+1. ^*^  $4x^2 - \dfrac{25}{4}$.
 
 
 
 ## UNITA' 3: La parabola
 
-In questa unità vogliamo studiare le proprietà di una figura geometrica che, nel piano cartesiano, è definita dalle soluzioni di un particolare tipo di equazione con due incognite. Come per le rette, i cui punti hanno le coordinate che sono soluzioni di una equazione di I grado della forma, ad esempio $x + y = 5$, le parabole sono figure i cui punti hanno le coordinate che sono soluzioni di equazioni quali $y = 2x^2 + 1$, $y=x^2 -5x +6$ oppure $y = -x^2-3$, cioè della forma generale:
+In questa unità vogliamo studiare le proprietà di una figura geometrica che, nel piano cartesiano, corrisponde alle soluzioni di un particolare tipo di equazione con due incognite. Come per le rette, i cui punti hanno le coordinate che sono soluzioni di una equazione di I grado della forma, ad esempio $x + y = 5$, le parabole sono figure i cui punti hanno le coordinate che sono soluzioni di equazioni quali $y = 2x^2 + 1$, $y=x^2 -5x +6$ oppure $y = -x^2-3$, cioè della forma generale:
 $$
 y = ax^2 + bx + c
 $$
@@ -271,7 +281,7 @@ Questa forma è chiamata **parabola** ed il sottoinsieme dei punti del piano le 
 
 Prendendo in esame le equazioni che hanno la $a > 0$, osserviamo che i grafici hanno una parte a sinistra che "scende" fino ad un minimo, detto "vertice" e poi risale proseguendo verso destra. In alcuni casi, come quello della prima figura, una parte della parabola è nel semipiano delle $y$ negative, e la parabola incrocia l'asse orizzontale, mentre in altri casi la parabola è tutta nel semipiano delle $y$ positive.
 
-Come si vede dalle figure, una parabola può incrociare ino solo o entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse verticale e con il secondo troviamo l'intersezione con l'asse orizzontale:
+Come si vede dalle figure, una parabola può incrociare uno solo o entrambi gli assi coordinati. Per trovare le coordinate dei punti di intersezione della parabola con gli assi, si devono risolvere due sistemi. Con la soluzione del primo troviamo l'intersezione con l'asse verticale e con il secondo troviamo l'intersezione con l'asse orizzontale:
 
 $$
 \left\{  
@@ -311,7 +321,7 @@ Se consideriamo le parabole che hanno il coefficiente di $x^2$ negativo, come ad
 
 <img src="img/Parabola-5.png" alt="Parabola-5" style="zoom:30%;" />
 
-A differenza delle figure precedenti, dove la parabola era rivolta verso l'alto, questa è rivolta verso il basso. Il vertice, che in questo caso ha coordinate $(0,10)$ corrisponde al punto più alto dell parabola. La parabola ha un ramo ascendente (crescente) ed un altro discendente (decrescente).
+A differenza delle figure precedenti, dove la parabola era rivolta verso l'alto, questa è rivolta verso il basso. Il vertice, che in questo caso ha coordinate $(0,10)$ corrisponde al punto più alto della parabola. La parabola ha un ramo ascendente (crescente) ed un altro discendente (decrescente).
 
  
 
@@ -319,23 +329,29 @@ A differenza delle figure precedenti, dove la parabola era rivolta verso l'alto,
 
 a) Determina tre punti delle parabole seguenti:
 
-1. $y=25x^2;$   $y=-10x^2;$   $y=-\dfrac{1}{8}x^2;$
-2. $y = x^2;$   $y = -x^2;$   $y = 2x^2;$   $y = -2x^2;$   $y = 4x^2;$   $y = -4x^2;$ 
-3. $y=\dfrac{1}{4}x^2-9;$   $y=-\dfrac{5}{2}x^2-5x;$   $y=x^2+x+1;$
+1. $y=25x^2$
+2. $y=-10x^2$;
+3. $y=-\dfrac{1}{8}x^2;$
+4. $y = x^2$;
+5. $y = -x^2$;
+6. $y = 2x^2$;
+7. $y = -2x^2$; 
+8. $y=\dfrac{1}{4}x^2-9$;
+9. $y=-\dfrac{5}{2}x^2-5x$;
+10. $y=x^2+x+1$.
 
 b) Determina l'intersezione con gli assi delle parabole seguenti.
 
-1. Parabole del punto a.2) dell'esercizio;
-2. Parabole del punto a.3) dell'esercizio.
+1. Parabole dei punti a.2) e a.5) dell'esercizio;
+2. Parabole dei punto a.9) e a.10) dell'esercizio.
 
-c) Determina il vertice delle parabole seguenti.
-
-1. Parabole del punto a.2) dell'esercizio;
-2. Parabole del punto a.3) dell'esercizio.
+c) Determina il vertice delle parabole del punto b.2).
 
 d) Fai un grafico approssimativo delle parabole seguenti.
 
-1. $y = x^2$​;   $y = -x^2$​;   $y=\dfrac{1}{4}x^2-9;$   $y=-\dfrac{5}{2}x^2-5x;$   $y=x^2+x+1;$
+1. $y=\dfrac{1}{4}x^2-9$;
+1. $y=-\dfrac{5}{2}x^2-5x$;
+1. $y=x^2+x+1$.
 
 #### Laboratorio GEOGEBRA
 
@@ -386,7 +402,7 @@ Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA ripo
 
 Come per l'equazione della retta, anche per la parabola si definisce ***intervallo di positività*** un intervallo sull'asse delle $x$ per ogni numero del quale il valore della $y$, ossia il valore del polinomio associato, è positivo.
 
-Come nel caso della retta, l'intervallo (o gli intervalli) di positività si individua disegnando il grafico della parabola, individuando con precisione le coordinate dei punti di intersezione del grafico con l'asse orizzontale e deducendo la posizione dell'intervallo dalla positività del grafico. 
+Come nel caso della retta, l'intervallo (o gli intervalli) di positività si individuano disegnando il grafico della parabola, individuando con precisione le coordinate dei punti di intersezione del grafico con l'asse orizzontale e deducendo la posizione dell'intervallo dalla positività del grafico. 
 
 ####  ESEMPIO 1
 
@@ -410,14 +426,21 @@ a) Discuti la presenza di una, due o nessuna soluzione delle equazioni seguenti 
 
 b) Individua per quali intervalli i polinomi seguenti sono positivi o negativi
 
-1. $x^2-x;$   $-x^2-x;$   $x^2-4;$ 
-2. $\dfrac{1}{4}x^2-9;$   $-\dfrac{5}{2}x^2-5x;$   $x^2+x+1;$ (polinomi delle parabole dell'esercizio 5, punto a.3)).
+1. $x^2-x$;
+2. $-x^2-x$; 
+3. $x^2-4$; 
+
+c) Individua per quali intervalli i polinomi seguenti sono positivi o negativi.
+
+1. $\dfrac{1}{4}x^2-9$;
+2. $-\dfrac{5}{2}x^2-5x$;
+3. $x^2+x+1$.
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il primo punto dell'esercizio b.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $x^2-x \ge 0 $   &#9166; 
+1. $x^2-x \ge 0$   &#9166; 
 
 <img src="img\Disequazione-1.png" alt="Disequazione-1" style="zoom:20%;" />
 
@@ -444,6 +467,8 @@ a) Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA r
 3. $g: 1 = a(1)^2+b(1)+c$   &#9166;
 4. $s: Singola(Risolvi(\{e1,f,g\},\{a,b,c\}))$ &#9166;  
 5. $Sostituisci(y= ax^2 + bx+c,s)$ &#9166;  
+
+
 
 ### ESERCIZIO 5.2 - Parabola passante il vertice ed un altro punto
 

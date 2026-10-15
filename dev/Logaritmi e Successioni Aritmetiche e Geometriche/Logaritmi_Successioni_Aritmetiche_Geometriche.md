@@ -11,9 +11,19 @@ Questi sono casi molto semplici in cui la soluzione si trova facendo qualche ten
 
 Le radici sono potenze con esponente frazionario. Abbiamo già visto che la radice di $4$ è $2$, cioè $\sqrt{4} = 4$, ma anche che $4^\frac{1}{2} = 2$, per cui possiamo dedurre che la soluzione dell'equazione $4^x=2$ è proprio $\dfrac{1}{2}$. Come altro esempio vediamo che poichè $\sqrt[3]{125} \longrightarrow 125^\frac{1}{3}= 5$ abbiamo che la soluzione di $125^x=5$ è $3$.
 
-Le soluzioni di queste equazioni, in cui una potenza con esponente incognito è uguale ad un numero, le indichiamo in un modo particolare, e le chiamiamo logaritmi, per cui la soluzione di $5^x=125$ si scrive $log_5{125} = 3$, la soluzione di $2^x=32$ è $log_2{32} = 5$ e la soluzione di $4^x=2$ è $log_4{2} = \dfrac{1}{2}$.
+Le soluzioni di queste equazioni, in cui una potenza con esponente incognito è uguale ad un numero, le indichiamo in un modo particolare, e le chiamiamo **logaritmi**, per cui la soluzione di $5^x=125$ si scrive $log_5{125}$ ed è uguale a $3$, per cui possiamo scrivere:
+$$
+log_5{125} = 3
+$$
 
-$log_2{32}$ si legge "logaritmo in base 2 di 32" ed è il numero che dato per esponente a $2$ rende la potenza uguale a $4$.
+
+La soluzione dell'equazione $2^x=32$ è $5$ e la indichiamo con $log_2{32}$ per cui
+$$
+log_2{32} = 5
+$$
+ La soluzione di $4^x=2$ è $log_4{2} = \dfrac{1}{2}$.
+
+L'espressione $log_2{32}$ si legge "logaritmo in base $2$ di $32$" ed è il numero che dato per esponente a $2$ rende la potenza uguale a $32$.
 
 
 
@@ -49,23 +59,25 @@ a) Calcola le seguenti espressioni con GEOGEBRA.
 
 Risolvi le seguenti equazioni esponenziali applicando le proprietà delle potenze.
 
-a) $2^x=32$;   $3^x=\dfrac{1}{9}$;   $2^{-x}=\sqrt{2}$;   $8^x=\dfrac{1}{16}$;   
+a) $2^x=32$;   $3^x=\dfrac{1}{9}$;
 
-b) $3^{2x-1}=1$;   $3^{x+3}=\left(\dfrac{1}{9}\right)^x$;   $0,4^{x-1}=0,16^{2x}$;   $3^{2x-1}=27$;
+b)^*^  $2^{-x}=\sqrt{2}$;   $8^x=\dfrac{1}{16}$;   
+
+c)^*^  $3^{2x-1}=1$;   $3^{x+3}=\left(\dfrac{1}{9}\right)^x$;   $0,4^{x-1}=0,16^{2x}$;   $3^{2x-1}=27$;
 
 
 
 ### ESERCIZIO 2.2 - Proprietà dei logaritmi
 
-a) Applica le proprietà dei logaritmi per scrivere le seguenti espressioni come una espressione dove compare un unico logaritmo.
+a) Applica le proprietà dei logaritmi per scrivere le seguenti come espressioni dove compare un solo logaritmo.
 
-1. $ \log2 − \log4 + \log12$;
+1. $\log2 − \log4 + \log12$;
 2. $\log3 + \log 7 − \log 6$.
 
-b) Applica le proprietà dei logaritmi per scrivere le seguenti espressioni sotto forma di un unico logaritmo.
+b)^*^  Applica le proprietà dei logaritmi per scrivere le seguenti come espressioni dove compare un solo logaritmo.
 
-1. $ \log_3(x^2 + 1) − \log_3(x − 3)$;
-2. $ \log_3a + \log_3b − \log_35$;
+1. $\log_3(x^2 + 1) − \log_3(x − 3)$;
+2. $\log_3a + \log_3b − \log_35$;
 3. $4\log_{\frac{2}{5}}a + \log_{\frac{2}{5}}b$.
 
 
@@ -89,9 +101,9 @@ b) Utilizzando GEOGEBRA risolvi le seguenti equazioni logaritmiche.
 
 a) Risolvi il punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
-$Risolvi(log(2x+3)=log(x+6)$&#9166;
+$Risolvi(log(2x+3)=log(x+6))$&#9166;
 
-$\Longrightarrow \{x = 3\}$
+$\longrightarrow \{x = 3\}$
 
 
 
@@ -99,8 +111,12 @@ $\Longrightarrow \{x = 3\}$
 
 a) Utilizzando GEOGEBRA, trova un valore approssimato della soluzione delle equazioni esponenziali riportate di seguito.
 
-1. $5^x=8$;   $6^{2x}=12$;   $(1,12)^x=2,3745$;       $(1,086)^{-x}=0,82478$;
-2. $3^{2x}=5 \cdot 2^{x+1}$;   $3^{x+1} \cdot 5^{2x-1}=15$;   $(1,065)^{2x}=3$;   $(1,086)^{-x}=0,82478$;
+1. $5^x=8$;      $6^{2x}=12$;
+2. $(1,12)^x=2,3745$;       $(1,086)^{-x}=0,82478$;
+3. $3^{2x}=5 \cdot 2^{x+1}$;
+4. $3^{x+1} \cdot 5^{2x-1}=15$;
+5. $(1,065)^{2x}=3$;
+6. $(1,086)^{-x}=0,82478$.
 
 
 
@@ -108,10 +124,10 @@ a) Utilizzando GEOGEBRA, trova un valore approssimato della soluzione delle equa
 
 ### ESERCIZIO 3.1 - Successioni Aritmetiche
 
-a) Scrivi i primi 5 termini delle successioni indicate di seguito e calcolane la somma.
+a) Scrivi i primi $5$ termini delle successioni indicate di seguito e calcolane la somma.
 
-1. I multipli di 3 partendo da 9
-2. $a_0 = 2, a_1 = 6, a_2 = 10, a_3 = 14, ...$
+1. I multipli di $3$ partendo da $9$;
+2. $a_0 = 2, a_1 = 6, a_2 = 10, a_3 = 14, ...$;
 3. $a_0 = 5, a_1 = 2, a_2 = -1, a_3 = -4, ...$​​
 
 b) Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
@@ -127,34 +143,34 @@ a) Risolvi il punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 1. $s1=Successione(2+4 \cdot n,n,0,9)$​ &#9166;
 
-   $\Longrightarrow \{2, 6, 10, 14, 18, 22, 26, 30, 34, 38\}$
+   $\longrightarrow \{2, 6, 10, 14, 18, 22, 26, 30, 34, 38\}$
 
 2. $Somma(s1)$​&#9166;
 
-   $\Longrightarrow 200$
+   $\longrightarrow 200$
 
    b) Risolvi il punto a.3) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 1. $s2=Successione(3 + 2 \cdot n,n,0,9)$​ &#9166;
 
-   $\Longrightarrow \{3, 5, 7, 9, 11, 13, 15, 17, 19, 21\}$
+   $\longrightarrow \{3, 5, 7, 9, 11, 13, 15, 17, 19, 21\}$
 
 2. $Somma(s2)$​&#9166;
 
-   $\Longrightarrow 120$
+   $\longrightarrow 120$
 
 
 
 ### ESERCIZIO 3.2 - Successioni Geometriche
 
-a) Scrivi i primi 5 termini delle successioni indicate di seguito e calcolane la somma.
+a) Scrivi i primi $5$ termini delle successioni indicate di seguito e calcolane la somma.
 
-1. Le potenze di due partendo da 1; Le potenze di 3 partendo da 9;
+1. Le potenze di due partendo da $1$; Le potenze di $3$ partendo da $9$;
 2. $a_1 = 2, a_2 = 6, a_3 = 18 ...$;
 3. $a_1 = 5, a_2 = \dfrac{5}{2}, a_3 = \dfrac{5}{4}, ...$;
 4. $a_1 = \log2, a_2 = \log4, a_3 = \log16, ...$​;
 
-b) Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
+b)^*^  Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
 
 1. $a_1 = 5, a_2 = \dfrac{5}{2}, a_3 = \dfrac{5}{4}, ...$;
 2. $a_1 = \dfrac{1}{16}, a_2 = \dfrac{1}{4}, a_3 = 1, ...$;
