@@ -369,11 +369,11 @@ Come si vede dall'esempio precedente, usare la formula generale per risolvere un
 
 #### Lo sconto ai saldi
 
-Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato) lo **sconto** è la differenza dei prezzi: $P_l - P_s = S$. Il prezzo scontato si calcola sottraendo dal prezzo di listino lo sconto: 
+Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato), lo **sconto** $S$ è la differenza dei prezzi: $P_l - P_s = S$. Il prezzo scontato si calcola sottraendo dal prezzo di listino lo sconto: 
 $$
-P_l - S = P_s
+P_s = P_l - S
 $$
-Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, ad esempio il $30\%$, che <u>è la stessa per tanti prodotti in saldo</u> e ci permette di calcolare lo sconto su ciascun prodotto della categoria, moltiplicando per il prezzo di listino ossia $s \cdot P_l = S$.
+Lo sconto si misura in euro ed ogni articolo in saldo avrà il suo sconto ed il suo prezzo scontato; quello che invece si vede sui cartelli pubblicitari è la **percentuale di sconto**, ad esempio il $30\%$, che <u>è la stessa per tanti prodotti in saldo</u> e ci permette di calcolare lo sconto su ciascun prodotto della categoria, moltiplicando per il prezzo di listino ossia $S = s \cdot P_l$.
 
 #### ESEMPIO 2
 
@@ -383,43 +383,33 @@ Per calcolare il prezzo scontato troviamo prima lo sconto e poi dalla definizion
 
 Sostituendo alle lettere i numeri nella formula della percentuale di sconto abbiamo
 
-a) $s \cdot P_l = S, \{s = 40\%, P_l=35\}$
+a) $S = s \cdot P_l, \{s = 40\%, P_l=35\}$
 
-b) $0.40 \cdot 35 = S$
+b) $S = 0.40 \cdot 35$
 
-c) $14 = S$
+c) $S = 14$
 
-Dalla formula che definisce lo sconto abbiamo quindi:
+Dalla formula che definisce lo sconto $S$ abbiamo quindi:
 
-a) $P_s = P_l(1 - s), \{P_l= 35, s = 0.4\}$
+a) $P_l - P_s = S, \{P_l=35, S=14\}$
 
-b) $P_l - P_s = S, \{P_l=35, S=14\}$
+b) $35 - P_s = 14$
 
-c) $35 - P_s = 14$
+c) $35 - 14 = P_s$
 
-d) $35 - 14 = P_s$
-
-e) $21 = P_s$. 
-
-
-
-Con GEOGEBRA avremmo, dall'ultima formula ricavata:
-
-$Sostituisci(P_s = P_l \cdot (1-s), \{P_l = 35, s = 0.4\})$
-
-​	$\longrightarrow \{P_s = 21\}$
-
-In questo caso non è necessario risolvere l'equazione in quanto è già in forma elementare.      $\bullet$ 
+d) $21 = P_s$. 
 
 
 
 #### Peso lordo, tara e peso netto
 
-Tutte le volte che abbiamo un oggetto in un contenitore, ad esempio un imballaggio di carta, cartone o altro, diciamo che il peso totale è la somma del peso dell'oggetto stesso e di quello del contenitore. Questo peso totale è detto **peso lordo**, mentre il peso dell'oggetto SENZA contenitore è detto **peso netto**. Il peso del contenitore è detto **tara**, per cui, se indichiamo con $L$ il peso lordo, $N$, il peso netto e $T$ la tara abbiamo:
+Tutte le volte che abbiamo un oggetto in un contenitore, ad esempio un imballaggio di carta, cartone o altro, diciamo che il peso totale è la somma del peso dell'oggetto stesso più quello del contenitore. Questo peso totale è detto **peso lordo**, mentre il peso dell'oggetto SENZA contenitore è detto **peso netto**. Il peso del contenitore è detto **tara**, per cui, se indichiamo con $L$ il peso lordo, $N$, il peso netto e $T$ la tara abbiamo:
 $$
 L = N + T
 $$
-Questa schematizzazione è così comune che anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"), diciamo "al lordo" dell'accessorio per indicare la quantità totale, e "al netto" per indicare l'assenza dell'accessorio. Ad esempio con l'espressione "retribuzione netta" intendiamo l'importo della retribuzione senza gli oneri fiscali e contributivi mentre con "retribuzione lorda" la retribuzione comprensiva di tali somme; con costo di un articolo "al lordo dell'IVA" intendiamo il costo IVA compresa, con prestito "al netto degli interessi" o "al lordo degli interessi" intendiamo l'ammontare del prestito senza e con gli interessi e così via. 
+Questa schematizzazione è così comune che viene metaforicamente utilizzata anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"); in questi casi diciamo "al lordo" dell'accessorio per indicare la quantità totale, e "al netto" per indicare l'assenza dell'accessorio. 
+
+Ad esempio con l'espressione "retribuzione netta" intendiamo l'importo di una retribuzione senza gli oneri fiscali e contributivi mentre con "retribuzione lorda" intendiamo la retribuzione comprensiva di tali somme; con costo di un articolo "al lordo dell'IVA" intendiamo il costo del prodotto IVA compresa, con prestito "al netto degli interessi" intendiamo l'ammontare del prestito senza interessi e con "al lordo degli interessi" quello comprensivo di interessi e così via. 
 
 #### ESEMPIO 3
 
@@ -514,7 +504,7 @@ c) Per pavimentare un corridoio rettangolare servono $600$ mattonelle quadrate d
 
 d)^*^  Trova il margine (mark-up assoluto e percentuale) di un fioraio che nel giorno di San Valentino compra una dozzina di rose a $\text{12.95}$ euro e le rivende a $\text{47.50}$. 
 
-e)^*^  Quanto risparmia un consumatore se l'IVA sui pannolini passasse dal $10\%$ al $5\%$, ed il prezzo di listino di una confezione di pannolini è di $60$ euro?
+e)^*^  Quanto risparmia un consumatore se l'IVA sui pannolini passasse dal $10\%$ al $5\%$, ed il prezzo di listino di una confezione di pannolini è di $60$ euro?
 
 
 
@@ -603,7 +593,7 @@ b) Un aereo vola tra Chicago e S. Francisco in $\text{3.75}$ ore. Se le città d
 
 c) La stazione di Latina si trova sulla linea ferroviaria Roma - Napoli e dista $\text{55 Km}$ da Roma e $\text{155 Km}$ da Napoli. Se un treno parte da Rome alle $\text{9:30}$ ed arriva a Latina alle $\text{10:00}$, quando possiamo prevedere che arriverà a Napoli?
 
-d)^*^  Un gruppo di persone guarda dei fuochi di artificio in lontananza. Vede le luci colorate dei fuochi e dopo circa tre secondi sente il rumore. Se la velocità del suono è di circa $\text{330}$ metri al secondo, quanto è distante il gruppo dal punto di esplosione?
+d)^*^  Un gruppo di persone guarda dei fuochi di artificio in lontananza. Vede le luci colorate dei fuochi e dopo circa tre secondi sente il rumore. Se la velocità del suono è di circa $\text{330}$ metri al secondo, quanto è distante il gruppo dal punto di esplosione?
 
 e) Una famiglia beve il caffè due volte al giorno ed ogni volta che fa il caffè mette nella caffettiera $\text{4}$ cucchiaini di caffè macinato. Se un cucchiaino contiene $\text{4}$ grammi di caffè, in quanti giorni la famiglia consumerà una confezione da mezzo chilo di caffè? 
 
@@ -635,7 +625,7 @@ Per risolvere con GEOGEBRA l'istruzione è:
 
 $Risolvi(1+ax=b, x)$ &#9166;
 
-$= \bigg\{ x = \dfrac{b+1}{a}\bigg\}$   $\bullet$
+$\longrightarrow \bigg\{ x = \dfrac{b+1}{a}\bigg\}$     $\bullet$
 
 
 
@@ -718,11 +708,11 @@ a) Risolvi le seguenti equazioni considerando la lettera $x$ come (unica) incogn
 
 3. $x + y = 1$.
 
-4. ^*^  $6x - 3(x + 2a) = a + 4(x - 2a)$;
+4. ^*^  $6x - 3(x + 2a) = a + 4(x - 2a)$;
 
 5. $b(x - 2) + b + 1 = 0$;
 
-6. ^*^  $\dfrac{-2}{3}(x - y) + 3y = -x + 4$.
+6. ^*^  $\dfrac{-2}{3}(x - y) + 3y = -x + 4$.
 
 
 
@@ -732,7 +722,7 @@ Nell'unità precedente abbiamo presentato diverse formule di uso comune per il c
 
 Ci sono situazioni in cui è conveniente risolvere le stesse formule come equazioni letterali, in cui una delle lettere è l'incognita. L'equazione elementare risultante dalla soluzione dell'equazione letterale è detta **formula inversa**.
 
-Questa operazione si chiama anche **esplicitazione della formula rispetto alla lettera**.
+Questa operazione si chiama anche **esplicitazione della formula rispetto alla lettera** (che fa da incognita).
 
 #### ESEMPIO 1
 
@@ -776,10 +766,10 @@ b) Esplicita la formula proposta rispetto alla lettera indicata.
 a) Risolvi le equazioni letterali proposte considerando di volta in volta ciascuna formula come una equazione, con l'incognita indicata.
 
 1. $v = \dfrac{s}{t}$,  incognita $t$;
-2. ^*^  $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_s$;
-3. ^*^  $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_l$;
+2. ^*^  $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_s$;
+3. ^*^  $\dfrac{P_l - P_s}{P_l}= s$, incognita $P_l$;
 4. $P_v = C \cdotp (1 + q)$, incognita $C$;
-5. ^*^  $P_v = C \cdotp (1 + q)$; incognita $q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_v - C}{C}$). 
+5. ^*^  $P_v = C \cdotp (1 + q)$; incognita $q$, (dimostrando così che la formula del mark-up si può scrivere $q =\dfrac{P_v - C}{C}$). 
 
 b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 
@@ -792,129 +782,11 @@ b) Risolvi ciascuna equazione considerando la lettera indicata come l'incognita.
 a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
 1. $eq1: (P_{l} - P_{s})/P_{l}= s$ &#9166; 
+
 2. $Risolvi(eq1, P_{l})$ &#9166; 
 
+   $\longrightarrow \bigg\{P_l = \dfrac{-P_s}{s - 1}\bigg\}$
+
+   
 
 
-## UNITA' 8: Composizione di Formule e Sostituzioni
-
-Abbiamo visto come le formule ci propongano delle espressioni per calcolare carte quantità conoscendone altre, ad esempio l'area di un rettangolo se conosciamo i lati o lo sconto su un prodotto conoscendo il prezzo di listino e la percentuale di sconto applicata.
-
-In alcuni casi, come ad esempio quello dello sconto, abbiamo visto che le quantità importanti (sconto, prezzo di listino, prezzo scontato etc.) fanno parte di due formule distinte e correlate, la prima che calcola lo sconto e la seconda il prezzo scontato:
-$$
-\begin{flalign*}
-\text{a)} && S\; &= s \cdot P_l & \\
-\\
-\text{b)} && P_s &= P_l - S & 
-\end{flalign*}
-$$
-Qualunque sia il caso specifico che stiamo esaminando, lo sconto $S$ è lo stesso in entrambe le formule, per cui è possibile "comporre" le due formule sostituendo $S$ nella seconda con $sP_l$ della prima e produrre una nuova formula, la c):
-$$
-\begin{flalign*}
-\text{a)} && P_s\; &= P_l - S, \{S = s \cdot P_l\} & \\
-\\
-\text{b)} && P_s\; &= P_l - sP_l & \\
-\\
-\text{c)} &&  P_s\; &= P_l(1-s) & 
-\end{flalign*}
-$$
-
-
-La formula del punto c) ci dice come possiamo calcolare il prezzo scontato senza calcolare lo sconto ma solo conoscendo il prezzo di listino dell'articolo e la percentuale di sconto ad esso applicata.
-
-#### ESEMPIO 1
-
-Una maglietta è in saldo al $40 \%$. Se costava $\text{35}$ euro, quanto costa scontata?
-
-Questo problema lo abbiamo già risolto, ma applicando la nuova formula trovata possiamo scrivere:
-
-a) $P_s=P_l(1 - s), \{s=40\%, P_l=35\}$;
-
-b) $P_s=35(1-40\%)$;
-
-c) $P_s=35(0.60)$
-
-d) $P_s=21$.     $\bullet$
-
-
-
-
-#### ESEMPIO 2
-
-Se indichiamo con $C$ il prezzo, IVA esclusa, di un prodotto e con $a$ l'aliquota IVA da applicare, l'importo dell'IVA $I$ sarà dato da $a \cdot C$ e la formula è $I = a \cdot C$.
-
-Il prezzo finale $P$ del prodotto al consumatore, IVA inclusa, sarà allora $P = C + I$.
-
-Componendo le due formula abbiamo $P = C + I, \{I = aC\}$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, possiamo scrivere:
-$$
-P = C(1 + a)
-$$
-
-Qual è il prezzo, iva esclusa, di un articolo che ha un prezzo di listino di $170$ euro e sul quale si applica una aliquota IVA del $22 \%$?
-
-Sostituendo $P = 170$ ed $a = 0.22$ nella formula e risolvendo l'equazione che ha incognita $C$ si ha:
-
-a) $P = C(1 + a), \{a = 0.22, P = 170\}$;
-
-b) $170 = C(1+0.22)$;
-
-c) $170 = 1.22 \cdot C$;
-
-d) $C = \dfrac{170}{1.22} \approx 139.34$.    $\bullet$ 
-
-
-
-Lo stesso calcolo con GEOGEBRA diventa:
-
-$e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$
-
-​	$\longrightarrow 170 = \dfrac{61}{50} \cdot C$
-
-$RisolviN(e,C)$ 
-
-​	$\longrightarrow \{C = 139.34426...\}$    $\bullet$ 
-
-
-
-#### ESEMPIO 3
-
-L'interesse (nel regime dell'interesse semplice) si calcola a partire dalla durata dell'operazione, dall'importo del capitale e dal tasso di interesse. Possiamo allora comporre le due formule del montante e dell'interesse semplice per avere la formula del montante nel regime dell'interesse semplice:
-
-$I = C \cdot i \cdot t$ e $M = C + I$.
-
-a) $M = C + I, \{I = Cit\}$;
-
-b) $M = C + Cit$;
-
-c) $M = C(1 + it)$.     $\bullet$
-
-
-
-### ESERCIZIO 8.1
-
-a) Un articolo ha un prezzo di listino di $42$ euro e l'IVA è al $4\%$. Quale è il costo senz'IVA?
-
-b) Nelle spedizioni dei prodotti di elettronica di consumo di piccole dimensioni il costo dell'imballo è mediamente di $5$ euro. Quanto incide questa somma in percentuale sul costo totale di un prodotto che il consumatore paga $45$ euro? E sul costo al netto dell'imballo?
-
-c)^*^   L’Iva sugli assorbenti ha subito una serie di ribassi e rialzi: era al $22\%$, poi è stata ridotta al $10\%$ dal governo Draghi, poi tagliata ancora al $5\%$ nel 2023 e lo stesso governo che aveva ridotto l’Iva ha deciso di riportarla al $10\%$.
-
-1. Scrivi una formula che calcola il prezzo al consumatore di una scatola di assorbenti che costa $3$ euro al netto dell'IVA se l'aliquota è dell'$i\%$.
-2. Calcola IVA e prezzo finale nei vari casi di aliquota.
-
-
-
-### ESERCIZIO^*^ 8.2
-
-a) Date le due formule seguenti:
-$$
-\begin{flalign*}
-\text{a)} && \dfrac{a}{b}N &= M \\
-\\
-\text{b)} && 1 + N &= 2M & 
-\end{flalign*}
-$$
-
-
-risolvi la prima considerando come incognita la lettera $M$ e componila con la seconda;
-
-b) Esplicita la formula risultante rispetto alla lettera $N$.

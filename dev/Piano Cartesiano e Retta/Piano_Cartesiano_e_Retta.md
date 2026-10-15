@@ -34,7 +34,7 @@ $$
 
 <img src="img/Soluzioni-e-no.png" alt="Soluzioni-e-no" style="zoom:15%;" />
 
-Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.     $ \bullet$
+Se posizioniamo tutti e sei punti sul piano, verifichiamo che le soluzioni di ogni equazione di I grado con due incognite corrispondono a punti allineati (retta) e viceversa che ogni retta è un sottoinsieme di punti del piano cartesiano individuato da una equazione di I grado con due incognite.     $\bullet$
 
 Il sottoinsieme dei punti del piano le cui coordinate sono soluzioni dell'equazione di I grado si chiama "grafico dell'equazione" e poiché il grafico è geometricamente una retta, si chiama **grafico della retta**.
 
