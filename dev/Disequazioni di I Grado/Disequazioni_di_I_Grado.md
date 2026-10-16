@@ -1,22 +1,24 @@
 ## UNITA' 1: Diseguaglianze ed intervalli
 
-La scrittura $3 \gt 5$ è una **diseguaglianza** ed afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5, ed è chiaramente una affermazione falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} Falso.$  Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow Vero$. Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero $5$; è chiaramente una affermazione vera, e simbolicamente scriviamo che $1+2 \lt 5 \longrightarrow Vero.$ Osserviamo che $1+2 \lt 3 \longrightarrow Falso.$
+La scrittura $3 \gt 5$ è una **diseguaglianza** ed afferma una **relazione** tra due numeri, precisamente che il numero $3$ è maggiore del numero $5$: è chiaramente una affermazione falsa e si dice che il suo "***valore di verità***" è "Falso".
+
+Analogamente "$\lt$" è il simbolo di "minore"; $1+2 \lt 5$ afferma che il risultato dell'espressione $1+2$ è minore del numero $5$: questa è chiaramente una affermazione vera Osserviamo che $1+2 \lt 3 \longrightarrow Falso.$
 
 I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow Vero$  e  $3 \le 3 \longrightarrow Vero$ .
 
-La scrittura $x < -2$ è invece una **disequazione**. Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per se non è ne vera ne falsa in quanto non contiene numeri che possono essere confrontati tra di loro, ma le disequazioni sono comunque importanti perché con esse possiamo porci un problema , che è quello di trovare i numeri che sostituiti alla lettera $x$​ rendono le relazioni vere.
+La scrittura $x < -2$ è invece una **disequazione**. Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per sè non è ne vera ne falsa in quanto non contiene numeri che possono essere confrontati tra di loro, ma le disequazioni sono comunque importanti perché con esse possiamo porci un problema , che è quello di trovare i numeri che sostituiti alla lettera $x$​ rendono le relazioni vere.
 
-I numeri che rendono vera la disequazione $x < -2$ si chiamano "**soluzioni**" della disequazione. Come si vede facendo qualche prova, le soluzioni della disequazione sono tutti i numeri minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione insiemistica $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa non si legge.
+Come per le equazioni, i numeri che rendono vera la disequazione $x < -2$ si chiamano "**soluzioni**" della disequazione. Come si vede facendo qualche prova, le soluzioni della disequazione sono tutti i numeri minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione insiemistica $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa finale non si legge.
 
-Per indicare questo insieme si utilizza anche un'altra notazione, detta "**intervallo**": $(-\infty, -2)$; in questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo includere anche il numero $-2$ scriviamo $(-\infty, -2]$ (il simbolo $-\infin$ indica che non c'è limite ai numeri negativi per appartenere all'insieme).
+Per indicare questo insieme si utilizza anche un'altra notazione, detta ad "**intervallo**": $(-\infty, -2)$. In questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo includere anche il numero $-2$ scriviamo $(-\infty, -2]$, mentre il simbolo $-\infin$ sta ad indicare che non c'è un limite (inferiore) ai numeri negativi per appartenere all'insieme.
 
-Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via.
+Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via. Il numero $-4$ si chiama anche **estremo inferiore** dell'intervallo ed il $-2$ **estremo superiore**.
 
-Gli intervalli si possono rappresentare anche graficamente su una retta. Il grafico dell'intervallo $(0,3)$ è:
+Gli intervalli si possono rappresentare anche graficamente, su una retta. Il grafico dell'intervallo $(0,3)$ è:
 
 <img src="img/diseq-0-3.png" alt="diseq-0-3" style="zoom:75%;" />
 
-Nella simbologia grafica usata da GEOGEBRA, se il numero non fa parte dell'intervallo l'estremo del segmento è un puntino vuoto; se il numero invece fa parte dell'intervallo l'estremo è un puntino pieno: l'intervallo $(3, 5]$ ha la figura riportata di seguito.
+Nella simbologia grafica usata da GEOGEBRA, se il numero non fa parte dell'intervallo l'estremo del segmento è un puntino vuoto; se il numero invece fa parte dell'intervallo, l'estremo è un puntino pieno: l'intervallo $(3, 5]$ ha la figura riportata di seguito.
 
 <img src="img/diseq-3-5.png" alt="diseq-3-5" style="zoom:75%;" />
 
@@ -34,7 +36,7 @@ a) Indicare quali delle seguenti disuguaglianze sono vere e quali false.
 6. $x + 1 \gt 0$;
 7. $6 + 4 \le 10$
 
-b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
+b) Trovare almeno due numeri che rendono vera ciascuna disequazione.
 
 1.  $x + 1 \gt 0$;
 2.  $x + 3 \le 4$;
@@ -45,16 +47,16 @@ b) Trovare almeno due numeri che rendono vere le seguenti disequazioni.
 
 a) Nei casi riportati di seguito, determina quali tra i valori indicati nell'insieme è soluzione della disequazione associata.
 
-1. $\{0, 1, -1\}: x-2<6$;
-2. $\{0, 3\}: 2x-1<3$;
-3. $\{0, 5, 7\}: 3(x-5) - 6 < 0$;
-4. $\{0, 5, 7\}: 5x - (6-x) \ge 0$.
+1. $\{0, 1, -1\}$,   $x-2<6$;
+2. $\{0, 3\}$,   $2x-1<3$;
+3. $\{0, 5, 7\}$,   $3(x-5) - 6 < 0$;
+4. $\{0, 5, 7\}$,   $5x - (6-x) \ge 0$.
 
 b) Scrivi la disequazione corrispondente alle frasi riportate di seguito.
 
 1. Insieme dei numeri minori o uguali ad $1$;
 2. Insieme dei numeri non maggiori di $2$;
-3. Insieme dei numeri il cui doppio è minore di $3$;
+3. ^*^  Insieme dei numeri il cui doppio è minore di $3$;
 4. Insieme dei numeri non maggiori di $-\dfrac{4}{13}$.
 
 #### Laboratorio GEOGEBRA
@@ -68,23 +70,20 @@ a) Risolvi la prima parte del punto a.1) dell'esercizio con la sequenza di coman
 
 ### ESERCIZIO 1.3 - Intervalli e disequazioni elementari
 
-a) In ciascuno dei casi riportati di seguito determina se il numero indicato appartiene all'intervallo associato.
+a) In ciascuno dei casi riportati di seguito, determina se il numero appartiene all'intervallo.
 
-1. $2\in [0; 3]$;   $\dfrac{1}{3} \in (-2; 2]$;   $2, \in [0; 3]$;   $\dfrac{2}{5}, \in (\dfrac{2}{5}; 1)$;   
-2. $-1, \in [-3; -2]$;   $-4, \in [-4; 0)$;   $0, \in (0; 1]$.
+1. $2\in [0; 3]$;      $\dfrac{1}{3} \in (-2; 2]$;
+2. $2 \in [0; 3]$;      $\dfrac{2}{5} \in (\dfrac{2}{5}; 1)$;   
+3. $-1 \in [-3; -2]$;
+4. $-4 \in [-4; 0)$;
+5. $0 \in (0; 1]$.
 
 b) Rappresenta graficamente su una retta gli intervalli riportati di seguito.
 
-1. $(0;1)$;   $[-1;1]$;   $(1;+\infty)$;   $(-\infty;5)$;   $(0;1)$;   
-2. $[-1;0)$;   $[-3;+\infty)$;   $(-\infty; +\infty)$;   $(2;\dfrac{33}{5}])$;   $[\dfrac{1}{2};3)$.
-3. $(-1;3) \cap (-2;0)$;
-4. $(-1;3) \cup (-2;0)$;
-5. $(1;5) \cap (5;7)$;
-6. $(1;5) \cup (5;7)$;
-7. $(3;+\infty) \cap [3;7]$;
-8. $(3;+\infty) \cup [3;7]$;
-9. $[0;\dfrac{3}{2}) \cap (-\dfrac{4}{5};0]$;
-10. $[0;\dfrac{3}{2}) \cup (-\dfrac{4}{5};0]$.
+1. $(0;1)$;   $[-1;1]$;
+2. $(1;+\infty)$;   $(-\infty;5)$;
+3. $[-1;0)$;   $[-3;+\infty)$;
+4. $(-\infty; +\infty)$;   $(2;\dfrac{33}{5}])$.
 
 c) Per ciascuno dei casi seguenti, scrivi la disequazione (elementare) o il sistema di disequazioni che ha come soluzioni l'intervallo indicato.
 
@@ -110,7 +109,7 @@ Per rappresentare graficamente l'intervallo:
 
 <img src="img/diseq-0-3.png" alt="diseq-0-3" style="zoom:80%;" />
 
-b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($b, c$, ecc.).
+b) Risolvi la restante parte del punto a.1) con sequenze di comandi GEOGEBRA analoghi a quelli precedenti. Ricorda di utilizzare altre etichette per indicare gli intervalli ($b, c$, etc.).
 
 
 
@@ -144,7 +143,7 @@ c) $x \lt -2$.
 
 ### ESERCIZIO 2.1 - Soluzione di Disequazioni II
 
-a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
+a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come disequazione elementare e come intervallo.
 
 1. $x-1\ge 2$;
 2. $7x-1\ge 2$;
@@ -153,7 +152,7 @@ a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequ
 5. $4x - 3 > 5x + 1$;
 6. ^*^  $4[2(1 - x) -3] > 5x + 1$;
 
-b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come intervalli.
+b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come disequazione elementare e come intervallo.
 
 1. $5(x-1) < 2(x-3)$;
 2. ^*^  $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;
@@ -161,3 +160,4 @@ b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequ
 4. ^*^  $\dfrac{2+x}{3} \ge x + \dfrac{1}{2}$;
 5.    $2x-5\lt 3+2x$;
 6. $2(x+1) - 5x\ge 3x + 4(x+1)$.
+
