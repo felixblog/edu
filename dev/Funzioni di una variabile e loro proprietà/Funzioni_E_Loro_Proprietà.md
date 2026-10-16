@@ -286,7 +286,7 @@ Le funzioni che utilizzano più di una espressione per la loro definizione (su i
 
 ### Funzioni Esponenziali
 
-Si chiamano esponenziali le funzioni la cui espressione che le definisce è una potenza e la variabile indipendente compare all'esponente, come ad esempio $x \rightarrow y = 2^x$ oppure $x \rightarrow y = 5^x$.
+Si chiamano esponenziali le funzioni la cui espressione che le definisce è una potenza e **la variabile indipendente compare all'esponente**, come ad esempio $x \rightarrow y = 2^x$ oppure $x \rightarrow y = 5^x$.
 
 Negli esempi precedenti, si possono calcolare facilmente solo i valori che corrispondono a punti interi del dominio; se l'argomento è decimale serve la calcolatrice. Il grafico ha la forma seguente.
 
@@ -296,11 +296,56 @@ I valori della funzione diventano subito molto grandi per $x = 5$, $x = 10$, men
 
 
 
-### Funzioni Logaritmiche
+### Logaritmi e Funzioni Logaritmiche
+
+Il logaritmo di un numero, ad esempio $8$, in base $2$, è quel numero che dato per esponente a $2$ da $8$. Come si vede dal fatto che $2^3 = 8$, il logaritmo di $8$ è $3$ ed in simboli matematici lo scriviamo:
+$$
+log_2{8} = 3\text{ perchè } 2^3 = 8
+$$
 
 
+Facciamo un altro esempio. Il logaritmo di $4$, sempre in base $2$, è il numero $2$ perché $2^2 = 4$:
+$$
+log_2{4} = 2\text{ perchè } 2^2 = 4
+$$
+Quanto vale il logaritmo di $32$?
+$$
+log_2{32} = 5\text{ perchè } 2^5 = 32
+$$
+Il numero piccolo in basso vicino alla $g$ di $log$ si chiama **base** e $8$, $4$ e $32$ si chiamano **argomento** del logaritmo. Il risultato è il **valore**. 
 
- 
+Il **valore** del logaritmo è il numero che **dato per esponente alla base è uguale all'argomento**. Abbiamo quindi la seguente tabella:
+$$
+\begin{array}{r|c}
+x & log_2x\\
+\hline
+1 & 0 \\
+2 & 1 \\
+4 & 2 \\
+8 & 3 \\
+16 & 4 \\
+... & ... \\
+\end{array}
+$$
+E' possibile calcolare facilmente il valore del logaritmo solo per argomenti che sono potenze della base. Anche per numeri minori di $1$ ma sempre positivi, come $\dfrac{1}{2} = 0.5$ oppure $\dfrac{1}{4} = 0.25$ ed abbiamo:
+$$
+log_2{\dfrac{1}{2}} = -1\text{ perchè } 2^{-1} = \dfrac{1}{2}
+$$
+e
+$$
+log_2{\dfrac{1}{4}} = -2\text{ perchè } 2^{-2} = \dfrac{1}{4}
+$$
+ ma per tutti gli altri numeri bisogna usare la calcolatrice. Dalle tabelle precedenti si ricava la funzione $y = \log_2x$, che ha il grafico seguente:
+
+<img src="img/grafico-di-logaritmo.png" alt="grafico-di-logaritmo" style="zoom:20%;" />
+
+ La funzione ha come dominio naturale tutti i numeri maggiori di zero.
+
+Analogamente a $\log_2{x}$ esistono le funzioni $log_5{x}$, $log_{10}{x}$ e così via; in generale per ogni numero positivo $a$ abbiamo una funzione $y = log_a{x}$ ed i tre numeri $y$, $x$ ed $a$ sono legati dal fatto che:
+$$
+log_a{x} = y\text{ perchè } 2^y = x
+$$
+  
 
 ### ESERCIZIO 3.1 - Funzioni lineari
 

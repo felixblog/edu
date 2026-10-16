@@ -3,13 +3,13 @@
 
 ## UNITA' 1: I logaritmi
 
-In questo capitolo vogliamo affrontare il problema di risolvere delle equazioni in cui l'incognita è all'esponente di una potenza, come nei casi seguenti: $2^x = 32$, $5^x=125$, $3^x = \dfrac{1}{9}$.
+In questo capitolo vogliamo affrontare il problema di **risolvere delle equazioni in cui l'incognita è all'esponente di una potenza,** come nei casi seguenti: $2^x = 32$, $5^x=125$, $3^x = \dfrac{1}{9}$.
 
 Nel primo caso la soluzione è $5$, perché $2^5 = 32$, nel secondo è $3$ perché $5^3=125$​, nel terzo lo vedremo più avanti.
 
 Questi sono casi molto semplici in cui la soluzione si trova facendo qualche tentativo. Vediamo qualche altro caso meno semplice.
 
-Le radici sono potenze con esponente frazionario. Abbiamo già visto che la radice di $4$ è $2$, cioè $\sqrt{4} = 4$, ma anche che $4^\frac{1}{2} = 2$, per cui possiamo dedurre che la soluzione dell'equazione $4^x=2$ è proprio $\dfrac{1}{2}$. Come altro esempio vediamo che poichè $\sqrt[3]{125} \longrightarrow 125^\frac{1}{3}= 5$ abbiamo che la soluzione di $125^x=5$ è $3$.
+Le radici sono potenze con esponente frazionario. Abbiamo già visto che la radice di $4$ è $2$, cioè $\sqrt{4} = 4$, ma anche che $4^\frac{1}{2} = 2$, per cui possiamo dedurre che la soluzione dell'equazione $4^x=2$ è proprio $\dfrac{1}{2}$. Come altro esempio vediamo che poichè $\sqrt[3]{125}$ è uguale a $125^\frac{1}{3}$ e che $\sqrt[3]{125} = 5$ abbiamo che la soluzione di $125^x=5$ è $\dfrac{1}{3}$.
 
 Le soluzioni di queste equazioni, in cui una potenza con esponente incognito è uguale ad un numero, le indichiamo in un modo particolare, e le chiamiamo **logaritmi**, per cui la soluzione di $5^x=125$ si scrive $log_5{125}$ ed è uguale a $3$, per cui possiamo scrivere:
 $$
@@ -31,13 +31,21 @@ L'espressione $log_2{32}$ si legge "logaritmo in base $2$ di $32$" ed è il nume
 
 a) Calcola i logaritmi riportati di seguito utilizzando la definizione.
 
-1. $\log_2 32$;  $\log_2 \dfrac{1}{8}$;  $log_2 32$;  $\log_2 1$;  $\log_2 1024$;
-2. $\log_8 2$;  $\log_4 8$;  $\log_2 \sqrt{\dfrac{1}{2}}$;  $\log_{10} 1000$;
+1. $\log_2 32$;
+2. $\log_2 \dfrac{1}{8}$;
+3. $log_2 32$;
+4. $\log_2 1$;
+5.   $\log_2 1024$;
+6. ^*^  $\log_2 \sqrt{\dfrac{1}{2}}$;
+7. $\log_{10} 1000$;
 
 b) Determina il valore di $x$ essendo noti il logaritmo e la base.
 
-1. $\log_2 x = 4$;  $\log_2 x = -2$;
-1. $\log_2 32$;  $\log_2 x= 0$;  $\log_3 x = \dfrac{1}{2}$.
+1. $\log_2 x = 4$;
+1. $\log_2 x = -2$;
+1. $\log_2 32$;
+1. $\log_2 x= 0$;
+1. $\log_3 x = \dfrac{1}{2}$.
 
 
 
@@ -45,11 +53,13 @@ b) Determina il valore di $x$ essendo noti il logaritmo e la base.
 
 a) Calcola le seguenti espressioni con GEOGEBRA.
 
-1. $3^{\frac{1}{4}} \cdot 3^{\frac{3}{4}}$;    $10^{\frac{3}{2}} \cdot 10^{\frac{2}{3}} \cdot 10^{-\frac{1}{6}}$;
-2. $\left(\dfrac{2}{3}\right)^{\frac{1}{2}}\cdot \left(\dfrac{2}{3}\right)^{\frac{3}{2}}$;    $\left(\dfrac{3}{4}\right)^{\frac{1}{3}} \cdot \left(\dfrac{3}{4}\right)^{-1}$;
-3. $\left(2^{-2} \cdot 2 \cdot 2^{\frac{1}{3}}\right)^{-\frac{3}{2}}$;
-4. $4^{\frac{3}{4}} \cdot \left( 4^{\frac{1}{2}} \cdot 4^{\frac{1}{2}}\right)^{-3}$;
-5. $\left(9^{\frac{1}{3}} \cdot 9^{-1} : 9^{-2}\right)^{\frac{1}{2}}$.
+1. $3^{\frac{1}{4}} \cdot 3^{\frac{3}{4}}$;
+2. $10^{\frac{3}{2}} \cdot 10^{\frac{2}{3}} \cdot 10^{-\frac{1}{6}}$;
+3. $\left(\dfrac{2}{3}\right)^{\frac{1}{2}}\cdot \left(\dfrac{2}{3}\right)^{\frac{3}{2}}$;
+4. $\left(\dfrac{3}{4}\right)^{\frac{1}{3}} \cdot \left(\dfrac{3}{4}\right)^{-1}$;
+5. ^*^  $\left(2^{-2} \cdot 2 \cdot 2^{\frac{1}{3}}\right)^{-\frac{3}{2}}$;
+6. ^*^  $4^{\frac{3}{4}} \cdot \left( 4^{\frac{1}{2}} \cdot 4^{\frac{1}{2}}\right)^{-3}$;
+7. ^*^  $\left(9^{\frac{1}{3}} \cdot 9^{-1} : 9^{-2}\right)^{\frac{1}{2}}$.
 
 
 
@@ -57,13 +67,19 @@ a) Calcola le seguenti espressioni con GEOGEBRA.
 
 ### ESERCIZIO 2.1 - Equazioni esponenziali I
 
-Risolvi le seguenti equazioni esponenziali applicando le proprietà delle potenze.
+a) Risolvi le seguenti equazioni esponenziali applicando le proprietà delle potenze.
 
-a) $2^x=32$;   $3^x=\dfrac{1}{9}$;
+1. $2^x=32$;
+2. $3^x=\dfrac{1}{9}$;
+3. ^*^  $2^{-x}=\sqrt{2}$;
+4. $8^x=\dfrac{1}{16}$;
 
-b)^*^  $2^{-x}=\sqrt{2}$;   $8^x=\dfrac{1}{16}$;   
+b) Risolvi le seguenti equazioni esponenziali applicando le proprietà delle potenze.
 
-c)^*^  $3^{2x-1}=1$;   $3^{x+3}=\left(\dfrac{1}{9}\right)^x$;   $0,4^{x-1}=0,16^{2x}$;   $3^{2x-1}=27$;
+1. ^*^  $3^{2x-1}=1$;
+2. $3^{x+3}=\left(\dfrac{1}{9}\right)^x$;
+3. $0,4^{x-1}=0,16^{2x}$;
+4. $3^{2x-1}=27$;
 
 
 
@@ -74,7 +90,7 @@ a) Applica le proprietà dei logaritmi per scrivere le seguenti come espressioni
 1. $\log2 − \log4 + \log12$;
 2. $\log3 + \log 7 − \log 6$.
 
-b)^*^  Applica le proprietà dei logaritmi per scrivere le seguenti come espressioni dove compare un solo logaritmo.
+b)^*^  Applica le proprietà dei logaritmi per scrivere le seguenti come espressioni dove compare un solo logaritmo.
 
 1. $\log_3(x^2 + 1) − \log_3(x − 3)$;
 2. $\log_3a + \log_3b − \log_35$;
@@ -170,7 +186,7 @@ a) Scrivi i primi $5$ termini delle successioni indicate di seguito e calcolane 
 3. $a_1 = 5, a_2 = \dfrac{5}{2}, a_3 = \dfrac{5}{4}, ...$;
 4. $a_1 = \log2, a_2 = \log4, a_3 = \log16, ...$​;
 
-b)^*^  Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
+b)^*^  Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate di seguito e calcolane la somma.
 
 1. $a_1 = 5, a_2 = \dfrac{5}{2}, a_3 = \dfrac{5}{4}, ...$;
 2. $a_1 = \dfrac{1}{16}, a_2 = \dfrac{1}{4}, a_3 = 1, ...$;

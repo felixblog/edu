@@ -176,7 +176,7 @@ a) La retribuzione di Andrea varia proporzionalmente al numero delle ore che lav
 
 b) I litri di vernice necessari per imbiancare una stanza variano direttamente con il numero di metri quadri delle pareti. Una parete di $16$ metri quadrati richiede due litri di vernice. Quanta vernice è necessaria per una parete di $6\; m^2$?
 
-c)^*^  La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
+c)^*^  La dose (in milligrammi) raccomandata di Demerol, un medicinale preoperatorio per bambini, varia direttamente con il peso (in Kg) del paziente. Se la dose per un paziente di $30$ Kg è di $18$ mg, quale è la dose per un bambino di $45$ Kg?
 
 
 
@@ -184,7 +184,7 @@ c)^*^  La dose (in milligrammi) raccomandata di Demerol, un medicinale preopera
 
 a) Il tempo necessario ad una auto per raggiungere una destinazione varia inversamente alla velocità tenuta durante il viaggio. Se viaggia $4$ ore ad $80$ Kilometri l'ora per raggiungere la destinazione, quanto tempo impiegherà a $60$ Kilometri l'ora? ed a $100$?
 
-b)^*^  Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9,\; 11,\; 29,\; 33$.
+b)^*^  Un negozio di bricolage acquista $2.871$ chiodi e deve decidere la grandezza delle confezioni in cui inscatolarli. Indicando con $v$ il numero di chiodi che entra in ogni scatola e con $n$ il numero di scatole necessarie per confezionare tutti i chiodi, scrivi una tabella con la relazione tra $n$ e $v$ quando la capienza $v$ ha i valori $9,\; 11,\; 29,\; 33$.
 
 c) Un negozio di abiti per i saldi natalizi applica percentuali di sconto del $10,\; 25,\; 33,\; 50 \%$ . Quale sarebbe lo sconto di una giacca da $300$ euro nei vari casi?
 
@@ -307,9 +307,9 @@ Una persona prende in prestito da una finanziaria un capitale di $\text{1\;000\;
 
 a) Quale sarà l'importo totale degli interessi pagati dopo $8$ trimestri, ossia $2$ anni? ed alla fine dei $5$ anni?
 
-a)^*^  Se $I_n$ è l'ammontare degli interessi pagati dopo $n$ trimestri e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
+a)^*^  Se $I_n$ è l'ammontare degli interessi pagati dopo $n$ trimestri e $I_{n-1}$ quello fino al trimestre precedente, quale è la relazione tra i due importi?
 
-b)^*^  Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri? 
+b)^*^  Quale sarà la somma di capitale ed interessi (detta montante) dopo $n$ trimestri? 
 
 
 
@@ -342,7 +342,7 @@ Per arare i campi, una azienda agricola utilizza un trattore diesel. L'azienda h
 
 a) il consumo giornaliero di gasolio;
 
-b)^*^  il livello della scorta di gasolio a fine di ogni giornata per i primi 5 giorni (fare una tabella);
+b)^*^  il livello della scorta di gasolio a fine di ogni giornata per i primi 5 giorni (fare una tabella);
 
 c) il numero di giorni necessari per l'esaurimento completo della scorta.
 
@@ -354,7 +354,7 @@ Uno scienziato studia la diffusione di una epidemia in una piccola città con un
 
 a) Calcola il numero dei casi dopo $5, 10, 15$ ed $x$ giorni. Organizza i risultati in una tabella.
 
-b)^*^  Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la malattia richiede un trattamento con un farmaco ospedaliero. All'inizio dello studio, l'ospedale cittadino aveva $500$ dosi del farmaco. Secondo il modello dal punto precedente, quanti giorni possono passare prima che il farmaco finisca?
+b)^*^  Lo scienziato ha trovato che il $3\%$ degli individui che hanno contratto la malattia richiede un trattamento con un farmaco ospedaliero. All'inizio dello studio, l'ospedale cittadino aveva $500$ dosi del farmaco. Secondo il modello dal punto precedente, quanti giorni possono passare prima che il farmaco finisca?
 
 
 
@@ -370,7 +370,7 @@ c) Un negozio di borse annuncia uno sconto sugli acquisti: ogni borsa acquistata
 
 ## UNITA' 4: Crescenza, decrescenza ed esempi di funzioni
 
-Un concetto molto importante nell'analisi di una funzione è quello di "crescenza" e "decrescenza". Una funzione si dice **crescente** in un intervallo di numeri, ad esempio tra $-2$ e $2$,  $[-2, 2]$ se passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ aumenta; si dice decrescente se, sempre passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ diminuisce. Vediamo un esempio.
+Un concetto molto importante nello studio di una funzione è quello di "crescenza" e "decrescenza". Una funzione si dice **crescente** in un intervallo di numeri, ad esempio tra $-2$ e $2$,  $[-2, 2]$ se passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ aumenta; si dice decrescente se, sempre passando da un valore della $x$ in $[-2, 2]$ ad un altro più grande, il valore della funzione $f(x)$ diminuisce. Vediamo un esempio.
 
 #### ESEMPIO 1
 
@@ -385,6 +385,48 @@ La funzione $f(x) = x^2 + 1$:
 <img src="img/Crescenti2.png" alt="Crescenti2" style="zoom:15%;" />
 
 E' decrescente nell'intervallo $(-\infty, 0)$ e crescente in $[0, \infty)$.    $\bullet$
+
+
+
+### Funzioni definite a tratti
+
+Ci sono casi in cui per definire una funzione servono due espressioni diverse, che saranno calcolate su due insiemi di numeri diversi del dominio. Facciamo l'esempio di una funzione costante che vale $1$ su tutti i numeri negativi ed è lineare $x \rightarrow 3x + 1$ sui numeri positivi. La funzione sarà scritta così:
+
+$$
+f(x) = 
+\begin{cases} 
+1  & se\; x\; \lt 0 \\ 
+3x+1 & se\; x\; \ge 0 
+\end{cases}
+$$
+
+Il grafico è il seguente.
+
+<img src="img/funzione-definita-tratti.png" alt="funzione-definita-tratti" style="zoom:20%;" />
+
+<img src="/img/funzione-definita-tratti.png" alt="funzione-a-tratti" style="zoom:20%;" />
+
+Le funzioni che utilizzano più di una espressione per la loro definizione (su intervalli diversi di numeri reali), si dicono "definite  tratti".
+
+
+
+### Funzione valore assoluto
+
+La funzione che calcola il valore "senza il segno" di un numero si chiama "funzione valore assoluto" ed è defiinita a tratti in questo modo:
+$$
+f(x) = 
+\begin{cases} 
+x  & se\; x\; \ge 0 \\ 
+-x & se\; x\; \lt 0 
+\end{cases}
+$$
+Abbiamo che $f(1)= 1$, $f(2) = 2$ e così via, mentre
+$$
+f(-1) \longrightarrow -(-1) = 1
+$$
+$f(-2) = 2$ e così via. Il grafico è il seguente:
+
+<img src="img/valore-assoluto.png" alt="valore-assoluto" style="zoom:20%;" />
 
 
 
