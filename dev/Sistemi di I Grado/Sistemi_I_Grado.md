@@ -174,12 +174,14 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 Un ***sistema*** di equazioni è un gruppo (due) di equazioni (in due incognite) **di cui si cercano le soluzioni comuni**, ossia le coppie di numeri che siano soluzioni simultaneamente di tutte le equazioni. Mentre una equazione ha solitamente infinite soluzioni, due equazioni hanno solitamente (ossia tranne casi particolari) una sola soluzione. Per trovarla si utilizza un metodo detto di ***sostituzione*** che si articola in 4 passi. Per illustrare il metodo risolveremo il sistema seguente:
 
-$$\left\{  
+$$
+\left\{  
 \begin{array}{c} 
 2x+y=-1 \\  
 x-3y=10\\   
 \end{array} 
-\right.$$
+\right.
+$$
 
 #### PASSO 1:  Esplicitazione
 
@@ -354,7 +356,7 @@ Qualunque sia il caso specifico che stiamo esaminando, lo sconto, indicato con l
 
 In questa situazione è come se le due formule facessero parte di un sistema; è quindi possibile "risolvere" il sistema nelle incognite $S$ e $P_s$ supponendo che $s$ e $P_l$ siano dei numeri. 
 
-Poiché $S$ è già esplicitata nella formula a), basta eliminare la $S$ nella b) sostituendola con la a) e produrre una nuova formula, la c), applicando il passo di sostituzione:
+Poiché $S$ è già esplicitata nella formula a), basta eliminare la $S$ nella b) sostituendola con la a) e produrre una nuova formula, la c), applicando il passo di sostituzione:
 $$
 \begin{flalign*}
 \text{a)} && P_s\; &= P_l - S, \{S = s \cdot P_l\} & \\
@@ -367,7 +369,7 @@ $$
 
 La formula del punto c) dice come possiamo calcolare il prezzo scontato senza calcolare lo sconto ma solo conoscendo il prezzo di listino dell'articolo e la percentuale di sconto ad esso applicata.
 
-In questo modo le due formule a) e b) sono state "composte" insieme per <u>eliminare</u> la lettera $S$ e trovare una formula nuova.
+In questo modo le due formule a) e b) sono state "composte" insieme per <u>eliminare</u> la lettera $S$ e trovare una formula nuova.
 
 #### ESEMPIO 1
 
@@ -392,7 +394,7 @@ Se indichiamo con $C$ il prezzo, IVA esclusa, di un prodotto e con $a$ l'aliquot
 
 Il prezzo finale $P$ del prodotto al consumatore, IVA inclusa, sarà allora $P = C + I$.
 
-Componendo le due formule, ossia eliminando la $I$ nella seconda utilizzando la prima, abbiamo $P = C + I, \{I = aC\}$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, possiamo scrivere:
+Componendo le due formule, ossia eliminando la $I$ nella seconda utilizzando la prima, abbiamo $P = C + I, \{I = aC\}$ ossia $P = C + a \cdot C$ che, mettendo in evidenza $C$, possiamo scrivere:
 $$
 P = C(1 + a)
 $$
@@ -413,7 +415,7 @@ d) $C = \dfrac{170}{1.22} \approx 139.34$.    $\bullet$
 
 Lo stesso calcolo con GEOGEBRA diventa:
 
-$e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$ &#9166;
+$e = Sostituisci(P = C \cdot (1+a), \{P = 170, a = 0.22\})$ &#9166;
 
 $\longrightarrow 170 = \dfrac{61}{50}C$
 

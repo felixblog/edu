@@ -32,11 +32,11 @@ In generale una ***equazione*** (numerica di I grado ad una incognita) è una <u
 
 Una ***soluzione*** dell'equazione è un numero che, sostituito alla incognita, rende l'equazione una uguaglianza vera, come ad esempio il numero $1$. Le due espressioni letterali si chiamano ***membri***: quello alla sinistra del simbolo di uguaglianza, cioè $2x$, è il ***membro sinistro*** mentre l'altro, $1+ x$, è il ***membro destro***.
 
-Noi utilizzeremo le equazioni per fare tre cose:
+Noi utilizzeremo le equazioni in tre attività distinte:
 
 1. ***Verificare una Soluzione***: abbiamo una equazione ed un numero e controlliamo se il numero è una soluzione dell'equazione;
-2. ***Risolvere una equazione***: abbiamo una equazione e vogliamo trovare un numero che sia una sua soluzione;
-3. ***Scrivere una equazione***: abbiamo un problema e vogliamo scrivere una equazione che ha la stessa soluzione del problema in modo che risolviamo l'equazione e risolviamo anche il problema.
+2. ***Risolvere una equazione***: abbiamo una equazione e vogliamo trovare i numeri che siano le sue soluzioni;
+3. ***Scrivere una equazione***: abbiamo un problema e vogliamo scrivere una equazione che ha la stessa soluzione del problema in modo che risolvendo l'equazione troviamo la soluzione del problema.
 
 
 
@@ -369,7 +369,7 @@ Come si vede dall'esempio precedente, usare la formula generale per risolvere un
 
 #### Lo sconto ai saldi
 
-Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato), lo **sconto** $S$ è la differenza dei prezzi: $P_l - P_s = S$. Il prezzo scontato si calcola sottraendo dal prezzo di listino lo sconto: 
+Durante i saldi di fine stagione, o per svendite dovute ad altri motivi, i negozi abbassano il prezzo dei prodotti per vendere di più; se indichiamo con $P_l$ il **prezzo di listino** di un prodotto e con $P_s$ il suo **prezzo scontato** (ribassato), lo **sconto** $S$ è la differenza dei prezzi: $P_l - P_s = S$. Il prezzo scontato si calcola sottraendo dal prezzo di listino lo sconto: 
 $$
 P_s = P_l - S
 $$
@@ -625,7 +625,7 @@ Per risolvere con GEOGEBRA l'istruzione è:
 
 $Risolvi(1+ax=b, x)$ &#9166;
 
-$\longrightarrow \bigg\{ x = \dfrac{b+1}{a}\bigg\}$     $\bullet$
+$\longrightarrow \bigg\{ x = \dfrac{b+1}{a}\bigg\}$     $\bullet$
 
 
 
@@ -687,16 +687,26 @@ b) Nei punti 1. e 2. precedenti sostituisci all'incognita l'espressione trovata 
 a) Risolvi la prima equazione del punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
 1. $l: 2a -3x = 7a - 5x$ &#9166; 
-2. $Risolvi(l, x)$ &#9166; 
+
+2. $Risolvi(l, x)$ &#9166;
+
+   $\longrightarrow \bigg\{x = \dfrac{5}{2}a \bigg\}$ 
 
 b) Risolvi la seconda equazione del punto a.1) dell'esercizio con la sequenza di comandi GEOGEBRA riportata di seguito.
 
 1. $l: bx -2 = 0$ &#9166; 
-2. $m: Risolvi(l, x)$ &#9166; 
+
+2. $m = Risolvi(l, x)$ &#9166; 
+
+   $\longrightarrow \bigg\{x = \dfrac{b}{2} \bigg\}$ 
 
 Controlla che la soluzione è corretta sostituendo all'incognita la soluzione trovata con il comando $Sostituisci(l, m)$ &#9166; . Osserva che il primo membro è uguale al secondo.
 
+1. $Sostituisci(l, m)$
 
+   $\longrightarrow 2 - 2 = 0$
+
+   
 
 ### ESERCIZIO 6.2 - Equazioni letterali
 
@@ -722,7 +732,7 @@ Nell'unità precedente abbiamo presentato diverse formule di uso comune per il c
 
 Ci sono situazioni in cui è conveniente risolvere le stesse formule come equazioni letterali, in cui una delle lettere è l'incognita. L'equazione elementare risultante dalla soluzione dell'equazione letterale è detta **formula inversa**.
 
-Questa operazione si chiama anche **esplicitazione della formula rispetto alla lettera** (che fa da incognita).
+Questa operazione si chiama anche **esplicitazione della formula rispetto alla lettera** (che fa da incognita).
 
 #### ESEMPIO 1
 
@@ -788,5 +798,4 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
    $\longrightarrow \bigg\{P_l = \dfrac{-P_s}{s - 1}\bigg\}$
 
    
-
 

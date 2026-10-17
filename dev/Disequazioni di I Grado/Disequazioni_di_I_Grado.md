@@ -8,11 +8,13 @@ I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale",
 
 La scrittura $x < -2$ è invece una **disequazione**. Come per le equazioni, scrivere $x < -2$ significa scrivere qualcosa che di per sè non è ne vera ne falsa in quanto non contiene numeri che possono essere confrontati tra di loro, ma le disequazioni sono comunque importanti perché con esse possiamo porci un problema , che è quello di trovare i numeri che sostituiti alla lettera $x$​ rendono le relazioni vere.
 
-Come per le equazioni, i numeri che rendono vera la disequazione $x < -2$ si chiamano "**soluzioni**" della disequazione. Come si vede facendo qualche prova, le soluzioni della disequazione sono tutti i numeri minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$. Sono un insieme infinito di numeri che indichiamo con la notazione insiemistica $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa finale non si legge.
+Come per le equazioni, i numeri che rendono vera la disequazione $x < -2$ si chiamano "**soluzioni**" della disequazione. Come si vede facendo qualche prova, le soluzioni della disequazione sono tutti i numeri minori di $-2$, ad esempio $-3$, $-10$, $-100$, ma non $0$.
+
+Sono un insieme infinito di numeri che indichiamo con la notazione insiemistica $\{x: x \lt -2\}$ che si legge "***l'insieme delle x tali che x è minore di meno due*** ". In particolare "$\{$" si legge "L'insieme delle... ":" si legge "tali che" .... e la parentesi chiusa finale non si legge.
 
 Per indicare questo insieme si utilizza anche un'altra notazione, detta ad "**intervallo**": $(-\infty, -2)$. In questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo includere anche il numero $-2$ scriviamo $(-\infty, -2]$, mentre il simbolo $-\infin$ sta ad indicare che non c'è un limite (inferiore) ai numeri negativi per appartenere all'insieme.
 
-Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via. Il numero $-4$ si chiama anche **estremo inferiore** dell'intervallo ed il $-2$ **estremo superiore**.
+Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via. Il numero $-4$ si chiama anche **limite inferiore** (o estremo inferiore) dell'intervallo ed il $-2$ **limite superiore** (o estremo superiore).
 
 Gli intervalli si possono rappresentare anche graficamente, su una retta. Il grafico dell'intervallo $(0,3)$ è:
 
@@ -22,7 +24,9 @@ Nella simbologia grafica usata da GEOGEBRA, se il numero non fa parte dell'inter
 
 <img src="img/diseq-3-5.png" alt="diseq-3-5" style="zoom:75%;" />
 
+L'intervallo $[-4, 2]$ si dice **limitato inferiormente**, dal numero $-4$ e **limitato superiormente**, dal numero $2$, mentre $(-\infty, 2]$ è **illimitato inferiormente** e limitato superiormente. Analogamente $[-4, +\infty)$ è limitato inferiormente e **illimitato superiormente**.
 
+ 
 
 ### ESERCIZIO 1.1 - Disuguaglianze e disequazioni
 
@@ -143,7 +147,7 @@ c) $x \lt -2$.
 
 ### ESERCIZIO 2.1 - Soluzione di Disequazioni II
 
-a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come disequazione elementare e come intervallo.
+a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come disequazione elementare, in forma insiemistica ed in forma di intervallo.
 
 1. $x-1\ge 2$;
 2. $7x-1\ge 2$;
@@ -152,7 +156,7 @@ a) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequ
 5. $4x - 3 > 5x + 1$;
 6. ^*^  $4[2(1 - x) -3] > 5x + 1$;
 
-b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni come disequazione elementare e come intervallo.
+b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequazioni in forma insiemistica e come intervallo.
 
 1. $5(x-1) < 2(x-3)$;
 2. ^*^  $3\left[(x+3)+\dfrac{1}{3}x\right]<7x$;
@@ -161,3 +165,39 @@ b) Per ciascuno dei casi seguenti, scrivi l'insieme delle soluzioni delle disequ
 5.    $2x-5\lt 3+2x$;
 6. $2(x+1) - 5x\ge 3x + 4(x+1)$.
 
+
+
+## UNITA' 3: Sistemi di Disequazioni di I grado con una incognita
+
+Fino ad ora abbiamo visto le disequazioni che dopo la loro risoluzione, arrivavano ad una disequazione elementare del tipo, ad esempio $x \le 4$, che ha come soluzione l'intervallo illimitato inferiormente $(-\infty, 4]$.
+
+Tutti gli intervalli illimitati da una parte sono soluzioni di una disequazione elementare. Ma come esprimere con delle disequazioni gli intervalli limitati da entrambe le parti, come ad esempio $(-4, 2]$?
+
+Questi intervalli devono in primo luogo essere essere scritti come intersezioni di intervalli illimitati, ad esempio:
+$$
+\begin{flalign}
+\text{a)} &&  (-4, 2] = (-\infty, 2] \cap (-4, +\infty) &&
+\end{flalign}
+$$
+ e successivamente espressi con **due disequazioni elementari**, una per intervallo, in **congiunzione** tra di loro:
+$$
+\begin{flalign}
+\text{b)} &&  (-4, 2] = \{x: x \le 2 \and x \gt -4\} &&
+\end{flalign}
+$$
+ Il simbolo $\and$ si legge "e" ed indica che un numero è nell'intervallo se e solo se è minore di $2$ e maggiore di $-4$.
+
+ Due disequazioni che sono congiuntamente vere o "simultaneamente" vere si chiamano **sistema di disequazioni**; le due disequazioni elementari all'interno della b) sono quindi un sistema che si può scrivere 
+$$
+\left\{  
+\begin{array}{c} 
+x \le 2 \\  
+x \gt 4 \\   
+\end{array} 
+\right.
+$$
+Per trovare in modo semplice le sue soluzioni possiamo rappresentare graficamente le soluzioni di tutte le disequazioni sulla  stessa figura:
+
+<img src="img/Sistema-disequazioni.png" alt="Sistema-disequazioni" style="zoom:75%;" />
+
+Come si vede, il segmento blu in basso rappresenta i numeri che sono soluzione di entrambe le disequazioni e corrisponde alle soluzioni del sistema.

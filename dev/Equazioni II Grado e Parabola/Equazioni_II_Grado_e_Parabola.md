@@ -5,13 +5,15 @@
 
 Diverse lezioni fa abbiamo visto il significato ed il calcolo delle potenze. Abbiamo visto come calcolare il ***valore***, o risultato, della potenza $x^n$ se conosciamo $x$, la ***base*** della potenza ed $n$, l'***esponente*** (numero intero), ad esempio
 
-a) $3^2 \longrightarrow 9$;      $3^{-2} \longrightarrow \dfrac{1}{3^2} \longrightarrow \dfrac{1}{9}$;
+a) $3^2 \longrightarrow 9$;
 
-b) $(-3)^2 \longrightarrow 9$;      $(-3)^{-2} \longrightarrow \dfrac{1}{(-3)^2} \longrightarrow \dfrac{1}{9}$.
+b) $3^{-2} \longrightarrow \dfrac{1}{3^2} \longrightarrow \dfrac{1}{9}$;
 
-Adesso ci occupiamo del problema inverso, ossia trovare la ***base*** $x$ di una potenza, conoscendo l'**esponente** $n$ ed il suo ***valore***; se chiamiamo $y$ il risultato della potenza, il problema è quello di trovare un numero $x$ per cui $y = x^n$. 
+c) $(-3)^2 \longrightarrow 9$;
 
-Per fare qualche esempio, cercheremo di trovare il numero che sostituito alla $x$ rende vera l'equazione l'equazione $x^2 = 9$, oppure $x^3 = 8$.
+d) $(-3)^{-2} \longrightarrow \dfrac{1}{(-3)^2} \longrightarrow \dfrac{1}{9}$.
+
+Adesso ci occupiamo del problema inverso, ossia trovare la ***base*** $x$ di una potenza, conoscendo l'**esponente** $n$ ed il suo ***valore***, ad esempio quale è il valore di $x$ che rende vera l'equazione $x^2 = 9$, oppure $x^3 = 8$?
 
 Facendo qualche tentativo si vede che nel primo caso $x = 3$, perché $3^2 \longrightarrow 9$ e nel secondo $x = 2$ perché $2^3 \longrightarrow 8$. Facendo più attenzione notiamo che nel primo caso anche $x = -3$ risolve il problema perché anche $(-3)^2 \longrightarrow 9$.
 
@@ -40,7 +42,7 @@ Poiché i radicali sono potenze, in alcuni casi è possibile effettuare delle se
 
 #### ESEMPIO 1
 
-Vediamo se si può semplificare $\sqrt[2]16$.
+Controlliamo se si può semplificare $\sqrt[2]16$.
 
 a) $\sqrt[2]16$;
 
@@ -80,7 +82,11 @@ a) Usando la calcolatrice, trova il valore, approssimato alla quarta cifra decim
 2. $\sqrt[2]{\dfrac{1}{2}};$   $\sqrt[2]{\dfrac{3}{4}};$   $\sqrt[3]{12.345};$
 3. Nel caso di $\sqrt2$ e $\sqrt[3]{12.345}$ trova l'errore relativo percentuale tra il risultato della calcolatrice e quello approssimato alla quarta cifra decimale.
 
-b) Calcola $\sqrt[n]{x}$ in ciascuno dei casi seguenti:  $n=2, x=1;$   $n=3, x=8;$   $n=4, x=16;$ 
+b) Calcola $\sqrt[n]{x}$ in ciascuno dei casi seguenti:
+
+1. $n=2, x=1$;
+2. $n=3, x=8$;
+3. $n=4, x=16$. 
 
 c) Stabilisci quali delle relazioni seguenti sono vere.
 
@@ -103,9 +109,19 @@ a) Risolvi il quinto esercizio del punto a.1) con la sequenza di operazioni GEOG
 
 b) Risolvi il quarto esercizio del punto a.1) con una sequenza di operazioni GEOGEBRA analoga a quella del punto precedente ma inserendo in input la radice in forma di esponenziale:  $2^\frac{1}{2}$ &#9166; 
 
-c) Risolvi i punti c.1), c.2), c.3) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
+c) Risolvi i punti c.1), c.2), c.4) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $\sqrt4 + 2==0$&#9166;    $4^\frac{1}{5}-5==0$&#9166;    $2^\frac{1}{4}-4^\frac{1}{2}==0$&#9166; 
+1. $\sqrt4 + 2==0$ &#9166;
+
+   $\longrightarrow false$
+
+2. $4^\frac{1}{5}-5==0$ &#9166;
+
+   $\longrightarrow false$
+
+3. $\sqrt[2]{25}==\sqrt[2]{36}-1$ &#9166; 
+
+   $\longrightarrow true$.
 
 
 
@@ -113,13 +129,15 @@ c) Risolvi i punti c.1), c.2), c.3) dell'esercizio con la sequenza di operazioni
 
 a) Scrivi ciascuno dei radicali seguenti in forma di potenza e semplifica, dopo aver eventualmente scomposto la base in fattori primi. 
 
-1. $\sqrt[2]{4};$   $\sqrt[2]{81};$   $\sqrt[3]{15};$   $\sqrt[2]{7};$   $\sqrt[4]{64};$
-2. ^*^  $\sqrt[6]{\dfrac{1}{8}};$   $\sqrt[4]{2187};$   $\sqrt[3]{\dfrac{4}{9}};$
+1. $\sqrt[2]{4}$;   $\sqrt[2]{81}$;
+2. $\sqrt[3]{15}$;   $\sqrt[2]{7}$;
+3. ^*^  $\sqrt[6]{\dfrac{1}{8}}$;   $\sqrt[4]{2187}$.
 
-b) Calcola il valore delle seguenti potenze
+b) Calcola il valore delle seguenti potenze:
 
-1. $9^{\frac{3}{2}};$    $27^{\frac{2}{3}};$    $1^{\frac{2}{3}};$    
-2. ^*^  $\left(\dfrac{1}{4}\right)^{\frac{3}{2}};$    $\left(\dfrac{25}{9}\right)^{\frac{3}{2}};$    $8^{-\frac{2}{3}};$    $25^{-\frac{1}{2}};$
+1. $9^{\frac{3}{2}}$;    $27^{\frac{2}{3}}$;
+2. ^*^  $\left(\dfrac{1}{4}\right)^{\frac{3}{2}}$;    $\left(\dfrac{25}{9}\right)^{\frac{3}{2}}$;
+3. ^*^  $8^{-\frac{2}{3}}$;    $25^{-\frac{1}{2}}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -215,7 +233,7 @@ a) Per ciascuna delle equazioni seguenti, individua, nel caso sia di secondo gra
 1. $3x^2-2 = x;$  
 2. $4-x^2 = 2;$  
 3. $1-x=x;$
-4. ^*^  $(x-3)(x-3)=0;$
+4. ^*^  $(x-3)(x-3)=0;$
 5. $x(x-6)=0$.
 
 #### Laboratorio GEOGEBRA
@@ -261,7 +279,7 @@ a) Trova, se esistono, le radici dei polinomi seguenti.
 
 1. $2 + x$;
 1. $\dfrac{x^2}{4} - 9$;
-1. ^*^  $4x^2 - \dfrac{25}{4}$.
+1. ^*^  $4x^2 - \dfrac{25}{4}$.
 
 
 
