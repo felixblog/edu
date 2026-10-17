@@ -14,7 +14,7 @@ Sono un insieme infinito di numeri che indichiamo con la notazione insiemistica 
 
 Per indicare questo insieme si utilizza anche un'altra notazione, detta ad "**intervallo**": $(-\infty, -2)$. In questo modo si indicano tutti i numeri minori di $-2$ tranne il numero $-2$ che non fa parte dell'insieme. Se vogliamo includere anche il numero $-2$ scriviamo $(-\infty, -2]$, mentre il simbolo $-\infin$ sta ad indicare che non c'è un limite (inferiore) ai numeri negativi per appartenere all'insieme.
 
-Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via. Il numero $-4$ si chiama anche **limite inferiore** (o estremo inferiore) dell'intervallo ed il $-2$ **limite superiore** (o estremo superiore).
+Se volessimo indicare tutti numeri minori di $-2$ ma maggiori di -$4$, scriveremmo $[-4, -2]$, intendendo che sia $-4$ che $-2$ fanno parte dell'insieme. Se vogliamo escludere $-4$ scriviamo $(-4, -2]$, e così via. Il numero $-4$ si chiama anche **limite inferiore** (o estremo inferiore) dell'intervallo ed il $-2$ **limite superiore** (o estremo superiore).
 
 Gli intervalli si possono rappresentare anche graficamente, su una retta. Il grafico dell'intervallo $(0,3)$ è:
 
@@ -176,13 +176,13 @@ Tutti gli intervalli illimitati da una parte sono soluzioni di una disequazione 
 Questi intervalli devono in primo luogo essere essere scritti come intersezioni di intervalli illimitati, ad esempio:
 $$
 \begin{flalign}
-\text{a)} &&  (-4, 2] = (-\infty, 2] \cap (-4, +\infty) &&
+\text{a)} &&  (-4, 2] = (-\infty, 2] \cap (-4, +\infty) && &
 \end{flalign}
 $$
  e successivamente espressi con **due disequazioni elementari**, una per intervallo, in **congiunzione** tra di loro:
 $$
 \begin{flalign}
-\text{b)} &&  (-4, 2] = \{x: x \le 2 \and x \gt -4\} &&
+\text{b)} &&  (-4, 2] = \{x: x \le 2 \and x \gt -4\} && &
 \end{flalign}
 $$
  Il simbolo $\and$ si legge "e" ed indica che un numero è nell'intervallo se e solo se è minore di $2$ e maggiore di $-4$.
