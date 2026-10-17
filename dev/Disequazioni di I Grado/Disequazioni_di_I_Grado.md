@@ -201,3 +201,26 @@ Per trovare in modo semplice le sue soluzioni possiamo rappresentare graficament
 <img src="img/Sistema-disequazioni.png" alt="Sistema-disequazioni" style="zoom:75%;" />
 
 Come si vede, il segmento blu in basso rappresenta i numeri che sono soluzione di entrambe le disequazioni e corrisponde alle soluzioni del sistema.
+
+
+
+### ESERCIZIO 1.1 - Soluzione di Sistemi di Disequazioni
+
+a) Trova la soluzione dei seguenti sistemi di disequazioni; rappresenta la soluzione in forma insiemistica ed in forma di intervallo.
+
+1. $$\left\{  
+   \begin{array}{l} 
+   x-1\ge 2 \\ 7x-1\ge 2 \\   
+   \end{array} 
+   \right.$$
+2. $$\left\{  
+   \begin{array}{l} 
+   -x-1\le 2 \\ \dfrac{x}{5}-1\lt 2 \\   
+   \end{array} 
+   \right.$$
+3. ^*^  $$\left\{  
+   \begin{array}{l} 
+    4x - 3 \gt 5x + 1 \\ 4[2(1 - x) -3] \le 5x + 1 \\   
+   \end{array} 
+   \right.$$
+
