@@ -175,15 +175,15 @@ Tutti gli intervalli illimitati da una parte sono soluzioni di una disequazione 
 
 Questi intervalli devono in primo luogo essere essere scritti come intersezioni di intervalli illimitati, ad esempio:
 $$
-\begin{flalign}
-\text{a)} &&  (-4, 2] = (-\infty, 2] \cap (-4, +\infty) && &
-\end{flalign}
+\begin{flalign*}
+\text{a)} && (-4, 2] = (-\infty, 2] \cap (-4, +\infty) &&
+\end{flalign*}
 $$
- e successivamente espressi con **due disequazioni elementari**, una per intervallo, in **congiunzione** tra di loro:
+e successivamente espressi con **due disequazioni elementari**, una per intervallo, in **congiunzione** tra di loro:
 $$
-\begin{flalign}
+\begin{flalign*}
 \text{b)} &&  (-4, 2] = \{x: x \le 2 \and x \gt -4\} && &
-\end{flalign}
+\end{flalign*}
 $$
  Il simbolo $\and$ si legge "e" ed indica che un numero è nell'intervallo se e solo se è minore di $2$ e maggiore di $-4$.
 
