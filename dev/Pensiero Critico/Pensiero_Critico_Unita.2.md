@@ -12,15 +12,15 @@ Prima di entrare nella discussione diamo alcune definizioni dei principali termi
 
 ### Informazioni accurate, ingannevoli e persuasione
 
-Una <u>Informazione</u> è qualsiasi comunicazione che <u>corrisponda alla realtà del mondo</u>, ossia che sia vera. Se diciamo che Albany è la capitale di New York, diamo una informazione. Se leggiamo che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, ci da una informazione. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
+Una <u>Informazione</u> è qualsiasi comunicazione che <u>corrisponda alla realtà del mondo</u>, ossia che sia vera. Se diciamo che Albany è la capitale di New York, diamo una informazione (soprattutto perché molti pensano che sia New York ...). Se leggiamo che l'economia cinese era una delle più grandi al mondo nel 2025, questa è un'informazione. Se un podcaster ti dice che, in media, gli uomini sono più forti delle donne, ci da una informazione. In ogni caso, il contenuto dell'informazione corrisponde alla realtà. In altre parole, il contenuto è vero.
 
-Per comprendere la crisi dell'informazione, è però importante osservare che non tutte le cose vere sono ugualmente <u>utili</u> per la formazione di una visione del mondo reale.
+Per comprendere la crisi dell'informazione che stiamo vivendo attualmente, è però importante osservare che non tutte le cose vere sono ugualmente <u>utili</u> per la formazione di una visione del mondo reale.
 
 Dobbiamo quindi fare una distinzione tra le informazioni che rendono la nostra visione del mondo più accurata e quelle che la rendono meno accurata. Chiameremo "informazioni accurate" le informazioni che migliorano la nostra visione del mondo, ossia ci aiutano a vedere il mondo così com'è realmente. 
 
 > $\triangle$ Una **Informazione** è qualsiasi comunicazione che <u>corrisponda alla realtà del mondo</u>, ossia che sia vera. 
 > 
-> Una  **informazione accurata** è una informazione vera ed utile, che migliora la nostra visione del mondo ossia che ci aiuta a vedere il mondo così com'è.
+> Una  **informazione accurata** è una informazione <u>vera ed utile</u> per migliorare la nostra visione del mondo ossia che ci aiuta a vedere il mondo così com'è.
 
 
 
@@ -30,11 +30,11 @@ Le informazioni che peggiorano la nostra visione del mondo reale le chiameremo "
 
 I bambini a volte sono maestri nel dire cose "vere" ed ingannevoli allo stesso tempo. Se chiedete loro se hanno pulito la loro stanza potreste sentirvi rispondere: "Sì, abbiamo pulito la nostra stanza". Ma se andate a controllare, potreste trovare un disastro e quando chiedete spiegazioni potreste ricevere una risposta del tipo: "Ma non abbiamo mentito. Abbiamo pulito la nostra stanza prima. Non ci hai chiesto se l'avessimo pulita oggi!".
 
-Il problema di questa comunicazione è la distanza tra il significato attribuito alla domanda da parte delle due parti in causa, in buona o cattiva fede.     $\bullet$
+Il problema di questo scambio comunicativo è la distanza tra il significato attribuito alla domanda da parte delle due parti in causa, in buona o in cattiva fede.     $\bullet$
 
 
 
-Le informazioni possono ingannare in molti modi e di informazioni ingannevoli al giorno d'oggi siamo pieni; sono utilizzate da vari soggetti per persuadere con la retorica, con risposte ad effetto, senza argomentare e per indurre a credere di volta in volta all'una o l'altra cosa.
+Le informazioni possono ingannare in molti modi e di informazioni ingannevoli al giorno d'oggi siamo pieni; sono utilizzate da vari soggetti per fare propaganda, persuadere con la retorica, utilizzando risposte ad effetto senza argomentare e per indurre a credere di volta in volta all'una o l'altra cosa.
 
 L'obiettivo della persuasione viene perseguito con l'uso di diverse **tecniche**, di cui le informazioni ingannevoli sono strumento. Tra le tecniche generali, esamineremo l'<u>effetto selezione</u>, l'<u>effetto cornice</u> e la <u>ripetizione</u>.
 
@@ -54,17 +54,21 @@ Dal punto di vista di un giornalista, questo ha senso (c'è un vecchio detto: "U
 
 L'"effetto selezione" non è sempre innocuo: può essere usato come una lente politica per offrire ai lettori una **visione ingannevole del mondo**. Ad esempio, se si vuole dare ai lettori l'impressione che gli immigrati siano pericolosi, si possono selezionare ed evidenziare i crimini commessi dagli immigrati tralasciando le notizie sui crimini commessi da cittadini non immigrati. Poiché gli immigrati commettono effettivamente crimini, la notizia sarà vera ma fuorviante perché induce a pensare che la percentuale di questi crimini sia maggiore di quella dei crimini commessi da cittadini non immigrati. Se si vuole dare ai lettori l'impressione che la presenza delle armi tra i cittadini sia un problema, si possono selezionare e riportare le notizie sulle sparatorie di massa ed evitare accuratamente di parlare dei casi in cui le armi vengono utilizzate a scopi leciti, ad esempio solo per la difesa personale. Ciò che è vero per le notizie è vero anche per altre questioni inerenti a scontri culturali, dall'istruzione alla storia.
 
+#### ESEMPIO 3
 
+Quando ci sono manifestazioni perché il rincaro dei prezzi rende difficile la vita dei cittadini o perché il prezzo degli affitti provoca sfratti e persone senzatetto, a volte accadono violenze, vandalismi e devastazioni da parte di alcuni, solitamente una minoranza dei manifestanti. I resoconti degli organi di informazione favorevoli al governo, responsabile del fenomeno sociale, evidenzieranno solo gli scontri, dedicando volutamente titoli e maggioranza dei commenti ad aspetti irrilevanti per il fenomeno, proprio per non parlarne.     $\bullet$
+
+ 
 
 ### L'effetto cornice
 
-Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** (Framing effect). Si verifica quando una notizia di cronaca <u>enfatizza</u> alcuni aspetti della storia rispetto ad altri o induce il lettore ad assumere un certo punto di vista <u>accostando</u> l'evento ad una teoria o interpretazione per esaltarla o denigrarla.
+Un altro fenomeno che produce informazioni ingannevoli è l'**effetto cornice** (Framing effect). Si verifica quando le notizie di cronaca <u>enfatizzano</u> alcuni aspetti degli eventi e li collegano a delle credenze diffuse, delle teorie o interpretazioni della realtà, per esaltarle o denigrarle.
 
 #### ESEMPIO 3
 
-Se un articolo di cronaca su un violento temporale o un uragano menziona il fatto che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice, che aggrava la sensazione di disagio di fronte al cambiamento climatico.
+Se un articolo di cronaca su un violento temporale o un uragano afferma che il cambiamento climatico probabilmente renderà questi eventi estremi più comuni, sta generando un effetto cornice, che esalta la teoria del cambiamento climatico.
 
-Quando si cita la nazionalità degli immigrati che uccidono le proprie compagne e non si cita nessuna nazionalità nel caso di  omicidi commessi da cittadini non immigrati si sta introducendo un effetto cornice. Questo è particolarmente evidente nei casi delle nazionalità per le quali è diffuso il luogo comune che gli uomini siano violenti con le donne: l'effetto cornice così conferma la diceria.    $\bullet$
+Quando negli articoli sui femminicidi si cita la nazionalità degli immigrati che uccidono le proprie compagne e non si cita nessuna nazionalità nel caso di  omicidi commessi da cittadini non immigrati si sta introducendo un effetto cornice che esalta il luogo comune che gli immigrati siano violenti e portatori di cattivi costumi.    $\bullet$
 
 
 
@@ -77,7 +81,7 @@ La figura seguente riassume le situazioni che possono presentarsi di fronte ad u
 Un'affermazione è falsa quando non corrisponde alla realtà dei fatti. Quando si crede a qualcosa di falso, la visione del mondo è, almeno in parte, imprecisa.
 
 >
-> $\triangle$ Con **misinformazione** (in inglese "misinformation"), intendiamo una informazione, un contenuto falso, inesatto o fuorviante diffuso da qualcuno che lo crede vero, ossia diffuso in buona fede.
+> $\triangle$ Con **misinformazione** (in inglese "misinformation"), intendiamo una informazione, un contenuto falso, inesatto o fuorviante diffuso da qualcuno che lo crede vero, ossia diffuso <u>in buona fede</u>.
 > 
 
 La misinformazione deriva da un errore: chi scrive o condivide la notizia pensa che sia vera, ma in realtà non lo è.
@@ -85,7 +89,7 @@ La misinformazione può provenire da molte fonti; a volte proviene da persone se
 
 Casi analoghi sono quelli delle persone che credono davvero a ciò che essi stessi scrivono su alieni, su politici, sulle mode della medicina alternativa o sulle teorie del complotto. Quando queste affermazioni sono false, rientrano nella categoria della misinformazione.
 
-Se la misinformazione è un contenuto falso diffuso per errore, la <u>disinformazione</u> è un contenuto falso diffuso di proposito. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare. L'esempio classico è quello del politico che mente per nascondere la verità: afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
+Se la misinformazione è un contenuto falso diffuso per errore, la <u>disinformazione</u> è un contenuto falso diffuso di proposito. In altre parole, la disinformazione è una menzogna, la menzogna di chi scrive o condivide una notizia che sa che è falsa, ma lo fa comunque, o perché non gli importa della verità (come un bugiardo) o perché sta cercando di confondere o ingannare, ad esempio facendo propaganda. L'esempio classico è quello del politico che mente per nascondere la verità: afferma di non aver votato per aumentare le tasse, ma i fatti dimostrano il contrario.
 
 >
 > $\triangle$ Si ha **disinformazione** quando un contenuto falso viene diffuso intenzionalmente (chi lo diffonde sà che è falso). 
@@ -101,24 +105,30 @@ I governi sono impegnati nella disinformazione da secoli, nella forma che viene 
 
 Se la guerra non sta andando bene e il governo, consapevolmente, comunica ai cittadini il contrario: si tratta di disinformazione. Quando un troll online inventa una storia per incitare gli avversari politici, si sta impegnando in una campagna di disinformazione.
 
-Una forma particolarmente comune di disinformazione è la fake news. La fake news si verifica quando le persone pubblicano o condividono informazioni che sanno essere false, spacciandole per fonti di notizie legittime.
+Una forma particolare di disinformazione è la fake news. La fake news si verifica quando un soggetto pubblica o condivide informazioni che sa essere false, ma spacciandole per vere ingannando sulla loro fonte.
 
 >
 > $\triangle$  Una **Fake News** è una notizia falsa, mascherata da notizia vera e diffusa intenzionalmente.
 >
 
-Ad esempio, quando il Partito Comunista Cinese diffonde disinformazione sui social media attribuendola alla CNN, sta producendo fake news. Oppure, quando un attivista politico crea un sito web che sembra quello di una rispettabile testata giornalistica locale, ma nella realtà è una copertura per pubblicare disinformazione, si tratta di fake news. In breve le Fake News sono notizie false o contraffatte **mascherate** da notizie vere.
+Alcuni esempi di fake news:
+
+- il Partito Comunista Cinese riporta notizie false sui social media, attribuendo le notizie alla CNN (con finte immagini di speaker televisivi);
+- un attivista politico crea un sito web che sembra quello di una rispettabile testata giornalistica locale, ma nella realtà è una copertura per pubblicare disinformazione;
+- Un filmato generato con l'intelligenza artificiale presenta un capo di stato che fa affermazioni che non ha mai fatto. 
+
+In breve, le Fake News sono notizie false o contraffatte **mascherate** da notizie vere.
 
 
 
 
 ### Il Ruolo dei Media Tradizionali (Broadcasting) 
 
-I mass media raramente si impegnano nel separare le fonti affidabili da quelle inaffidabili, anzi, spesso, utilizzano tecniche di persuasione che tendono a fuorviare gli spettatori. Uno dei fenomeni più frequenti è quello del  <u>falso equilibrio</u> nei dibattiti, in cui viene fornita una fonte per ciascuna parte, trascurando la diversa credibilità delle fonti stesse, ad esempio si dà lo stesso peso e la stessa dignità a una tesi scientifica consolidata (basata su prove e consenso degli esperti) e ad un'opinione minoritaria, priva di fondamento o smentita dai fatti come quando si mette a confronto un climatologo e uno scettico del riscaldamento globale, oppure un medico e un oppositore dei vaccini.
+I mass media raramente si impegnano nel separare le fonti affidabili da quelle inaffidabili, anzi, spesso, utilizzano tecniche di persuasione che tendono a fuorviare gli spettatori. Uno dei fenomeni più frequenti è quello del  <u>falso equilibrio</u> nei dibattiti, in cui viene fornita una fonte per ciascuna parte, trascurando la diversa credibilità delle fonti stesse, ad esempio si dà lo stesso peso e la stessa dignità a una tesi scientifica consolidata (basata su prove e consenso degli esperti) e ad un'opinione minoritaria, priva di fondamento o smentita dai fatti, come quando si mette a confronto un climatologo e uno scettico del riscaldamento globale, oppure un medico di fama e un oppositore dei vaccini.
 
 Tali contrasti sono favoriti perché creano più ascolto, motivo per cui i media tradizionali preferiscono le posizioni estreme e lo spettacolo ad una analisi attenta per individuare la verità. Per l'utilizzo dello spettacolo durante l'informazione è stato coniato un termine specifico: **infotainment**, unione di "information" (informazione) ed "entertainment" (divertimento, intrattenimento). Si tratta di un tipo di produzione, in special modo televisiva, in cui la componente giornalistica viene alternata o fusa con lo spettacolo e il varietà: la forma è quella del salotto in cui giornalisti, politici e personaggi dello spettacolo parlano di attualità dando le loro opinioni e giudizi.
 
-Come si è visto, i media tradizionali dedicano generalmente poco tempo all'esame accurato e critico delle problematiche trattate; questo atteggiamento, motivato e giustificato sia dallo scarso interesse ed attenzione degli spettatori per l'esame attento delle argomentazioni che al ciclo delle notizie 24 ore su 24, genera nel dibattito pubblico una frenetica tendenza a trarre conclusioni immediate che vengono ripetute innumerevoli volte.
+Come si è visto, i media tradizionali dedicano generalmente poco tempo all'esame accurato e critico delle problematiche trattate; questo atteggiamento, che ha le sue motivazioni e giustificazioni (scarso interesse ed attenzione degli spettatori per l'esame attento delle argomentazioni e necessità di produrre contenuti televisivi 24 ore su 24), genera nel dibattito pubblico una frenetica tendenza ad arrivare a conclusioni immediate o soluzioni semplicistiche a problemi complessi, che vengono ripetute innumerevoli volte.
 
 
 
