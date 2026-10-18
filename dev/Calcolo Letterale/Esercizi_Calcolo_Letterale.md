@@ -138,7 +138,7 @@ Abbiamo già detto che una espressione letterale non può essere calcolata, cio�
 
 #### ESEMPIO 1
 
-Abbiamo visto che l'area di un triangolo cha ha una base lunga $b$ ed una altezza lunga $h$ è pari a $\dfrac{bh}{2}$. Allora l'area di due triangoli uguali sarà pari a $\dfrac{bh}{2} + \dfrac{bh}{2}$ cioè $bh$, perché qualunque siano i valori di base ed altezza la somma di due aree uguali annulla la divisione per due.    $\bullet$
+Abbiamo visto che l'area di un triangolo cha ha una base lunga $b$ ed una altezza lunga $h$ è pari a $\dfrac{bh}{2}$. Allora l'area di due triangoli uguali sarà pari a $\dfrac{bh}{2} + \dfrac{bh}{2}$ cioè $bh$, perché qualunque siano i valori di base ed altezza la somma di due aree uguali annulla la divisione per due.    $\bullet$
 
 
 
@@ -311,7 +311,7 @@ b) Sommiamo i monomi $5ax^2$, $2ax^2$ e $-10ax^2$:
 c) Sommiamo $-3x$ e $2x^2$:
 
 1. $-3x + 2x^2$;
-2. $-3x + 2x^2$.   I monomi non sono simili, non si sommano e la somma **non è un monomio!** .    $\bullet$
+2. $-3x + 2x^2$.   I monomi non sono simili, non si sommano e la somma **non è un monomio!**     $\bullet$
 
 
 
@@ -377,7 +377,7 @@ Se invece consideriamo le operazioni tra monomi, abbiamo due somme algebriche se
 $$
 2abx \overset{\overset{+/-}\downarrow}\ -cx \overset{\overset{+/-}\downarrow}\ +1
 $$
-Per capire quante operazioni sono presenti, la prima cosa è contare quanti monomi ci sono in una espressione.
+Per capire quante operazioni sono presenti, la prima cosa è contare **quanti monomi ci sono in una espressione**.
 
 #### ESEMPIO 5
 

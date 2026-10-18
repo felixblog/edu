@@ -13,7 +13,7 @@ c) $(-3)^2 \longrightarrow 9$;
 
 d) $(-3)^{-2} \longrightarrow \dfrac{1}{(-3)^2} \longrightarrow \dfrac{1}{9}$.
 
-Adesso ci occupiamo del problema inverso, ossia trovare la ***base*** $x$ di una potenza, conoscendo l'**esponente** $n$ ed il suo ***valore***, ad esempio quale è il valore di $x$ che rende vera l'equazione $x^2 = 9$, oppure $x^3 = 8$?
+Adesso ci occupiamo del problema inverso, ossia trovare la ***base*** $x$ di una potenza, conoscendo l'**esponente** $n$ ed il suo ***valore***, ad esempio quale è il valore di $x$ che rende vera l'equazione $x^2 = 9$, oppure $x^3 = 8$?
 
 Facendo qualche tentativo si vede che nel primo caso $x = 3$, perché $3^2 \longrightarrow 9$ e nel secondo $x = 2$ perché $2^3 \longrightarrow 8$. Facendo più attenzione notiamo che nel primo caso anche $x = -3$ risolve il problema perché anche $(-3)^2 \longrightarrow 9$.
 
@@ -62,7 +62,7 @@ Vediamo se si può semplificare $\sqrt{108}$.
 
 a) $\sqrt{108}$;   Scomponendo in fattori la base abbiamo:
 
-b) $(2^2\cdot 3^3)^\frac{1}{2}$; Applicando le regole delle potenze abbiamo:
+b) $(2^2\cdot 3^3)^\frac{1}{2}$; Applicando la regola della potenza di un prodotto abbiamo:
 
 c) $2^\frac{2}{2} \cdot 3^\frac{3}{2}$;
 
@@ -137,19 +137,45 @@ b) Calcola il valore delle seguenti potenze:
 
 1. $9^{\frac{3}{2}}$;    $27^{\frac{2}{3}}$;
 2. ^*^  $\left(\dfrac{1}{4}\right)^{\frac{3}{2}}$;    $\left(\dfrac{25}{9}\right)^{\frac{3}{2}}$;
-3. ^*^  $8^{-\frac{2}{3}}$;    $25^{-\frac{1}{2}}$.
+3. ^*^  $8^{-\frac{2}{3}}$;    $25^{-\frac{1}{2}}$.
 
 #### Laboratorio GEOGEBRA
 
 a) Risolvi il punto a) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $r: Fattorizza(4)$ &#9166;    $r^\frac{1}{2}$&#9166; 
-2. $r: Fattorizza(81)$ &#9166;    $r^\frac{1}{2}$&#9166; 
-3. $r: Fattorizza(64)$ &#9166;    $r^\frac{1}{4}$&#9166; 
+1. $r: Fattorizza(4)$ &#9166;
+
+   $\longrightarrow 2^2$
+
+2. $r^\frac{1}{2}$&#9166; 
+
+   $\longrightarrow 2$
+
+
+
+1. $r: Fattorizza(81)$ &#9166;
+
+   $\longrightarrow 3^4$
+
+2. ​    $r^\frac{1}{2}$&#9166;
+
+​	$\longrightarrow 9$ 
+
+
+
+1. $r: Fattorizza(64)$ &#9166;
+
+   $\longrightarrow 2^6$
+
+2. ​    $r^\frac{1}{4}$&#9166; 
+
+   $\longrightarrow 8$
 
 a) Risolvi il secondo esercizio del punto b.1) con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $27^{\frac{2}{3}}$  &#9166; 
+1. $27^{\frac{2}{3}}$  &#9166;
+
+   $\longrightarrow 9$ 
 
 
 
@@ -188,15 +214,15 @@ x_2 = \dfrac{-b-\sqrt{b^2 - 4ac}}{2a}
 $$
 Per calcolare le soluzioni della equazione d) basta sostituire i numeri specifici ai coefficienti generici ottenendo per $x_1$:
 
-a) $\dfrac{-b+\sqrt{b^2 - 4ac}}{2a}, \{a = 1, b=-5, c=6\}$
+a) $\dfrac{-b+\sqrt{b^2 - 4ac}}{2a}, \{a = 1, b=-5, c=6\}$;
 
 b) $\dfrac{-(-5)+\sqrt{(-5)^2 - 4\cdot 1 \cdot 6}}{2 \cdot 1}$;
 
 c) $\dfrac{5+\sqrt{25-24}}{2}$;
 
-d) $\dfrac{5+\sqrt{1}}{2}$
+d) $\dfrac{5+\sqrt{1}}{2}$;
 
-e) $\dfrac{5+ 1}{2}$
+e) $\dfrac{5+ 1}{2}$;
 
 f) $\dfrac{6}{2}$;
 
@@ -204,15 +230,15 @@ g) $3$.
 
 Per $x_2$ analogamente:
 
-a) $\dfrac{-b-\sqrt{b^2 - 4ac}}{2a}, \{a = 1, b=-5, c=6\}$
+a) $\dfrac{-b-\sqrt{b^2 - 4ac}}{2a}, \{a = 1, b=-5, c=6\}$;
 
 b) $\dfrac{-(-5)-\sqrt{(-5)^2 - 4\cdot 1 \cdot 6}}{2 \cdot 1}$;
 
 c) $\dfrac{5-\sqrt{25-24}}{2}$;
 
-d) $\dfrac{5-\sqrt{1}}{2}$
+d) $\dfrac{5-\sqrt{1}}{2}$;
 
-e) $\dfrac{5 - 1}{2}$
+e) $\dfrac{5 - 1}{2}$;
 
 f) $\dfrac{4}{2}$;
 
@@ -319,7 +345,7 @@ y =0			\\
 \right.
 $$
 
-Risolvendo il primo per sostituzione, la seconda equazione è elementare e sostituendo $0$ al posto della $x$ nella prima equazione otteniamo la soluzione $(0,c)$ che ci dà il punto di intersezione della parabola con l'asse verticale.
+Risolvendo il primo per sostituzione, osserviamo che la seconda equazione è elementare e sostituendo $0$ al posto della $x$ nella prima equazione otteniamo la soluzione $(0,c)$ che ci dà il punto di intersezione della parabola con l'asse verticale.
 
 Per risolvere il secondo sistema, sostituendo $0$ al posto della $y$ nella prima equazione abbiamo da risolvere una equazione di II grado. Le soluzioni di questa equazione sono proprio le ascisse dei punti di intersezione dell'equazione con l'asse orizzontale.
 
@@ -329,9 +355,11 @@ Troviamo i punti di intersezione della parabola $y=x^2 -5x +6$ con l'asse orizzo
 
 Le soluzioni dell'equazione $x^2 -5x +6 = 0$ esistono e sono due, corrispondenti ai numeri $2$ e $3$ per cui i punti di intersezione sono $(2,0)$ e $(3,0)$.
 
-Troviamo adesso i punti di intersezione della parabola $y = x^2+1$. L'equazione $x^2 + 1 = 0$ non ha soluzioni ed infatti dal grafico si vede la parabola non interseca l'asse orizzontale.
+Troviamo adesso i punti di intersezione della parabola $y = x^2+1$. L'equazione $x^2 + 1 = 0$ non ha soluzioni ed infatti dal grafico si vede la parabola non interseca l'asse orizzontale.    $\bullet$
 
-Il punto più "basso" delle parabole, è detto vertice, è un punto importante che ha le coordinate che si possono calcolare a partire dall'equazione della parabola mediante le formule seguenti:
+
+
+Il punto più "basso" delle parabole rivolte verso l'alto (o il più alto di quelle rivolte verso il basso), è detto vertice ed è un punto importante, che ha le coordinate che si possono calcolare a partire dall'equazione della parabola mediante le formule seguenti:
 $$
 V = (-\dfrac{b}{2a}, -\dfrac{b^2 - 4ac}{4a})
 $$
@@ -375,15 +403,17 @@ d) Fai un grafico approssimativo delle parabole seguenti.
 
 a) Disegna con GEOGEBRA il grafico della parabola $y=\dfrac{1}{4}x^2-9$ e calcola l'intersezione con gli assi, il vertice e l'asse di simmetria con le istruzioni riportate di seguito.
 
-1. $p: ax^2 +bx +c = 0$ 
-2. $V_x: -\dfrac{b}{2a}$ &#9166; 
-3. $V_y: -\dfrac{b^2-4ac}{4a}$ &#9166; 
-4. $l : \{a=\dfrac{1}{4}, b=0, c=-9\}$ &#9166; 
-5. $p_1: Sostituisci(p, l)$ &#9166; 					// Si ottiene l'equazione della parabola ed il grafico
-6. $Sostituisci(\{V_x, V_y\}, l)$ &#9166;  				 // Si ottiene il vertice della parabola
-7. $x = Sostituisci(V_x, l)$ &#9166;  				   // Si ottiene l'asse di simmetria
-8. $(0, p_1(0))$ &#9166; ;  				   			// Si ottiene l'intersezione con l'asse delle y
-9. $Risolvi(p_1)$ &#9166;  				  			// Si ottengono le ascisse dell'intersezione con l'asse delle x
+1. $f: y = \dfrac{1}{4}x^2 - 9$ &#9166;
+
+2. $\text{Intersezione}(f, y = 0)$&#9166;
+
+   $\longrightarrow \{(6,0), (-6, 0)\}$
+
+3. $\text{Sostituisci}(-\dfrac{b}{2\cdot a}, -\dfrac{b^2-4 \cdot a \cdot c}{4 \cdot a}), \{a=\dfrac{1}{4}, b=0, c=-9\}$ &#9166;
+
+   $\longrightarrow (0, -9)$ 
+
+   
 
 <img src="img\Parabola-1.png" alt="Parabola" style="zoom:20%;" />
 
@@ -408,9 +438,15 @@ a) Trova le coordinate dei punti di intersezione tra le parabole e le rette nei 
 
 Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA riportata di seguito.
 
-1. $y=x^2$&#9166;
+1. $f: y=x^2$&#9166;
 
-2. $y=x$&#9166;  
+2. $g: y=x$&#9166;
+
+3. $\text{Intersezione}(f, g)$&#9166;
+
+   $\longrightarrow \{(0,0), (1,1)\}$
+
+   
 
 <img src="img\Retta-Parabola-1.png" alt="Retta-Parabola" style="zoom:20%;" />
 
