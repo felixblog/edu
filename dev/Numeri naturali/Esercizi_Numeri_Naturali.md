@@ -228,7 +228,7 @@ b) Individua i numeri, le operazioni di ciascuna delle espressioni seguenti ed i
 5. $15 + 20 : 4 − 2;$
 6. $15 + 20 : (4 − 2)$;    $(15 − 10) · 3 + 2;$
 7. $8·(12 : 6 − 2) + 1$;    $6 − (15 : (2 + 3))$;
-8. ^*^  $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5;$        $[R. 5];$
+8. ^*^  $((2·4 + 7) + (2 + 8 : 2)·5) − (6 + 2)·5;$        $[R. 5];$
 9. ^*^  $4 + 3·(15 : (3 + 1·2) − 1);$            $[R. 10];$
 
 #### Laboratorio GEOGEBRA
@@ -535,7 +535,7 @@ Di seguito alcuni esempi di trasformazione tra le due notazioni.
 5.  $3$ ^ $2 + 1 \longleftrightarrow 3^2 + 1 \longrightarrow 10$;
 6.  $3$ ^ $(2 + 1) \longleftrightarrow 3^3 \longrightarrow 27$;
 
-Un altra situazione in cui si usa una forma non lineare è la divisione. La divisione $10 : 2$ ha una forma lineare, così come la sua variante $10 / 2$. La forma $\dfrac{10}{2}$, è una altro modo di scrivere la stessa divisione, chiamata ***frazione***, che però, come si vede, non è lineare. Il numero al di sopra della linea orizzontale, che corrisponde al dividendo della divisione, viene chiamato ***numeratore***, e quello al di sotto, corrispondente al divisore, si chiama ***denominatore***. 
+Un altra situazione in cui si usa una forma non lineare è la divisione. La divisione $10 : 2$ ha una forma lineare, così come la sua variante $10 / 2$. La forma $\dfrac{10}{2}$, è una altro modo di scrivere la stessa divisione, chiamata ***frazione***, che però, come si vede, non è lineare. Il numero al di sopra della linea orizzontale, che corrisponde al dividendo della divisione, viene chiamato ***numeratore***, e quello al di sotto, corrispondente al divisore, si chiama ***denominatore***. 
 
 GEOGEBRA scrive le divisioni in forma di frazioni per cui bisogna fare attenzione quando si inseriscono le espressioni per il loro calcolo: quando come dividendo o divisore abbiamo una espressione tra parentesi, **tutta** l'espressione che compare tra le parentesi deve essere scritta al di sopra della linea orizzontale di frazione o al di sotto, senza riportare le parentesi. Le casistiche sono riportate di seguito.
 
@@ -634,6 +634,10 @@ Per rappresentare per elencazione l'insieme delle vocali scriviamo $\{ a, e, i, 
 
 
 
+Per indicare che un elemento $a$ appartiene ad un insieme $V$, si scrive $a \in V$, per dire che non appartiene si scrive $b \notin V$. Quindi se $V$ è l'insieme delle vocali $e \notin V$ è falso mentre $o \in V$ è vero.
+
+ 
+
 ### ESERCIZIO 6.1 - Rappresentazione per Elencazione.
 
 a) Rappresenta per elencazione, e con diagramma di Eulero-Venn, gli insiemi $A$, $B$ e $C$ formati rispettivamente dalle lettere delle parole «rododendro», «giglio», «azalea».
@@ -669,6 +673,13 @@ $$
 A \setminus B = \{\text{Gli elementi che appartengono ad A ma non a B}\}
 $$
 
+Per finire, se tutti gli elementi di un insieme $A$ sono anche elementi dell'insieme $B$ si dice che $A$ è **sottoinsieme** di $B$ e si scrive
+$$
+A \sub B \; \text{se tutti gli elementi di A sono anche elementi di B}
+$$
+Ad esempio se $L = \{a, b, c, d, ..., z\}$ è l'insieme delle lettere dell'alfabeto, e $V$ è l'insieme delle vocali, $V \sub L$.
+
+
 
 ### ESERCIZIO 7.1 - Intersezione ed Unione
 
@@ -681,6 +692,14 @@ b) Per gli insiemi $A = \{\text{a, e, i, o, u}\}$ e $B = \{\text{Le prime tre le
 c) Dati gli insiemi $A = \{0, 1, a\}$, $B = \{1, 2, a, b\}$ e $C = \{0, 2, 4\}$, calcola i risultati delle seguenti espressioni:  
 1. $A \cap B \cap C$  
 2. $A \cup (B \cup C )$
+
+### ESERCIZIO 7.2 - Sottoinsiemi
+
+a) Le lettere della parola "rododendro" sono un sottoinsieme di quelle della parola "rododentro"?
+
+b) I numeri pari sono un sottoinsieme dei numeri?
+
+c) E' vero che qualunque siano gli insiemi $A$ e $B$, $A \cap B \sub A$?
 
 
 
