@@ -654,13 +654,12 @@ b) Rappresenta per elencazione i seguenti insiemi:
 
 ## UNITA' 7: Operazioni tra insiemi
 
-Con gli insiemi è possibile fare delle operazioni, come ad esempio con la moltiplicazione tra numeri: moltiplicando due numeri si produce un terzo numero, che è il prodotto dei due. Tra insiemi è possibile fare tre operazioni, l'**unione**, l'**intersezione** e la **differenza**. 
+Con gli insiemi è possibile fare delle operazioni, come, ad esempio, con la moltiplicazione tra numeri: moltiplicando due numeri si produce un terzo numero, che è il prodotto dei due. Tra insiemi è possibile fare tre operazioni importanti: l'**unione**, l'**intersezione** e la **differenza**. 
 
 L'**unione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cup B$ formato dagli elementi che appartengono ad $A$ o a $B$:
 $$
 A \cup B = \{\text{Gli elementi che appartengono ad A oppure a B}\}
 $$
-
 
 L'**intersezione** tra due insiemi $A$ e $B$ è un terzo insieme, che indichiamo con $A \cap B$ formato dagli elementi che appartengono sia ad $A$ che a $B$:
 $$
@@ -673,7 +672,18 @@ $$
 A \setminus B = \{\text{Gli elementi che appartengono ad A ma non a B}\}
 $$
 
-Per finire, se tutti gli elementi di un insieme $A$ sono anche elementi dell'insieme $B$ si dice che $A$ è **sottoinsieme** di $B$ e si scrive
+#### ESEMPIO 1
+
+Se $V$ è l'insieme delle vocali, $V = \{a, e, i, o, u\}$ e $L$ l'insieme delle prime $5$ lettere dell'alfabeto, $L = \{a, b, c, d, e\}$, abbiamo che
+$$
+V \cap L = \{a, e\} \\
+V \cup L = \{a, e, i, o, u, b, c, d\} \\
+V \setminus L = \{i, o, u\} \\
+L \setminus V = \{b, c, d\}
+$$
+       $\bullet$
+
+Da ultimo introduciamo il concetto di sottoinsieme. Se tutti gli elementi di un insieme $A$ sono anche elementi dell'insieme $B$ si dice che $A$ è **sottoinsieme** di $B$ e si scrive
 $$
 A \sub B \; \text{se tutti gli elementi di A sono anche elementi di B}
 $$
@@ -709,7 +719,7 @@ Abbiamo già visto come non sia sempre possibile dividere un (primo) numero per 
 
 Un multiplo di un numero è un altro numero che sta nella tabellina del primo numero: $8$ è multiplo di $2$ e di $4$ perché sta nella tabellina del $2$ e del $4$; $36$ è multiplo di $3$, di $6$, di $9$, di $12$ e così via. Un altro esempio è il seguente: $100 : 4 \longrightarrow 25$, per cui $4$ è un divisore di $100$ e $100$ è un multiplo di $4$. Poiché $100 : 10 \longrightarrow 10$, anche $10$ è un divisore di $100$. 
 
-Un numero che non si può dividere per nessun altro numero se non per se stesso e per uno, ossia non ha divisori, si dice **primo**. Esempi di numeri primi sono $2$, $3$, $17$, $29$ etc.
+Un numero che non si può dividere per nessun altro numero se non per se stesso e per uno, ossia non ha divisori, si dice **primo**. Esempi di numeri primi sono $2$, $3$, $17$, $29$ ecc.
 
 Se prendiamo due numeri e troviamo i loro divisori potrebbe essere che ci siano dei numeri divisori di entrambi: questi si chiamano ***divisori comuni*** e sono gli elementi dell'*<u>intersezione</u>* dell'insieme dei divisori del primo e del secondo numero.
 
@@ -861,32 +871,60 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 #### Proprietà distributiva del prodotto rispetto alla somma
 
-Fino ad ora di fronte ad una espressione come $2 \cdot (3 + 4)$, abbiamo sempre scritto $2 \cdot(7) \longrightarrow 14$. Continueremo a fare così, ma dobbiamo dire che questo non è l'unico modo per calcolare il valore dell'espressione perché alternativamente potremmo scrivere $2 \cdot (3 + 4) \longrightarrow 2 \cdot 3 + 2 \cdot 4$ $\longrightarrow 6 + 8 \longrightarrow 14$.
+Fino ad ora di fronte ad una espressione come $2 \cdot (3 + 4)$, abbiamo sempre seguito la procedura di calcolo seguente:
 
-Un altro esempio è $5 \cdot (4 + 3)$ che possiamo scrivere come $5 \cdot 4 + 5 \cdot 3$ ed in tutte e due i casi il risultato è $35$.
+a) $2 \cdot (3 + 4)$;
+
+b) $2 \cdot (7)$;
+
+c) $14$.
+
+Continueremo a fare così, ma dobbiamo dire che questo non è l'unico modo per calcolare il valore dell'espressione perché alternativamente potremmo scrivere:
+
+a) $2 \cdot (3 + 4)$;
+
+b) $2 \cdot 3 + 2 \cdot 4$$;
+
+c) $6 + 8$;
+
+d) $14$.
+
+Un altro esempio è $5 \cdot (4 + 3)$:
+
+a) $5 \cdot (4 + 3)$;     che possiamo scrivere come
+
+b) $5 \cdot 4 + 5 \cdot 3$;    ed in tutte e due i casi il risultato è
+
+c) $35$.
 
 Questa regola vale in generale, si chiama **proprietà distributiva del prodotto rispetto alla somma** e vale per tutti i numeri, per cui se $a$, $b$, e $c$ sono tre numeri naturali qualsiasi, abbiamo sempre che:
 $$
 a \cdot (b + c) = a \cdot b + a \cdot c
 $$
 
-
-
 Se leggiamo l'uguaglianza da sinistra verso destra, ossia $a \cdot (b + c) \Rightarrow  a \cdot b + a \cdot c$, questa proprietà ci fornisce un metodo alternativo di calcolare $a \cdot (b + c)$, mentre se la leggiamo da destra verso sinistra
 $$
 a \cdot b + a \cdot c = a \cdot (b + c)
 $$
-la proprietà ci dice che possiamo scrivere una somma di numeri come un prodotto mettendo in evidenza un fattore comune, se è presente.
+la proprietà ci dice che possiamo **scrivere una somma di numeri come un prodotto** mettendo in evidenza un fattore comune, se è presente.
 
 #### ESEMPIO 1
 
 I numeri $6$ ed $8$ hanno $2$ come fattore comune, per cui possiamo scrivere:
 
-$6 + 8 \longrightarrow 2 \cdot 3 + 2 \cdot 4 = 2 \cdot (3 + 4)$;
+a) $6 + 8 = 2 \cdot 3 + 2 \cdot 4$;
+
+b)  $\longrightarrow 2 \cdot (3 + 4)$;
+
+c)  $\longrightarrow 2 \cdot 7$.
 
 Per cui $6 + 8 = 2 \cdot 7$.
 
-$40 + 25 \longrightarrow 5 \cdot 8 + 5 \cdot 5 = 5 \cdot (8 + 5)$;
+a) $40 + 25 = 5 \cdot 8 + 5 \cdot 5$;
+
+b)  $\longrightarrow 5 \cdot (8 + 5)$;
+
+c)  $\longrightarrow 5 \cdot 13$.
 
 In questo caso $40 + 25 = 5 \cdot 13$.     $\bullet$
 
@@ -894,24 +932,19 @@ In questo caso $40 + 25 = 5 \cdot 13$.     $\bullet$
 
 #### Proprietà invariantiva del rapporto
 
-Una importante proprietà del rapporto è quella per cui se moltiplichiamo e poi dividiamo un numero per un altro, il numero non cambia. Se moltiplichiamo $5$ per $3$, che fa $15$ e poi dividiamo $15$ per $3$ otteniamo di nuovo $5$ che è il numero iniziale. In generale se moltiplichiamo un qualsiasi numero $a$ per il numero $b$ e poi dividiamo il risultato per $b$ abbiamo di nuovo $a$:
-$$
-a \cdot b : b = a
-$$
-Questo è un caso particolare di una regola più generale che si chiama **proprietà invariantiva del rapporto**: se abbiamo due numeri che hanno un fattore in comune (ad esempio $12$ e $4$ hanno in comune il fattore $2$ perché $12= 6 \cdot 2$ e $4 = 2 \cdot 2$) e calcoliamo $12:4$ che fa $3$, il risultato è uguale a quello che abbiamo dividendo prima i due numeri per il fattore comune $2$ e poi i risultati tra di loro ossia: prima dividiamo $12$ e $2$, che fa $6$, poi $4$ e $2$ che fa $2$ e poi dividiamo $6$ e $2$ e fa sempre $3$.
-$$
-12 : 4 = (12:2) : (4:2) \\
-3 = 6 : 2
-$$
-Questo accade perché se indichiamo con $x$ il risultato della divisione $12 : 4$, ossia $3$, abbiamo il ragionamento seguente.
+Una importante proprietà del rapporto tra due numeri è quella per cui se moltiplichiamo o dividiamo entrambi i numeri di un rapporto per uno stesso numero, il risultato della divisione non cambia. Vediamo un esempio.
 
-a) $12 = x \cdot 4$	per definizione di divisione;
+$12 : 4$ è uguale a $3$. Il numero $2$ è un divisore sia di $12$ che di $4$, e se dividiamo $12$ per $2$, ottenendo $6$ e $4$ per due, ottenendo $2$ e poi dividiamo $6:2$ abbiamo ancora $3$. In pratica:
 
-b) $6 \cdot 2 = x \cdot 2 \cdot 2$;    scomponendo in fattori;
+a) $12 : 4 = 3$;
 
-c) $6 \cdot 2 : 2 = x \cdot 2 \cdot 2 : 2$   dividendo tutto per $2$,
+b) $12 : 2 \longrightarrow 6$;      $4:2⟶2$;
 
-d) $6 = x \cdot 2$.    per annullamento di moltiplicazione e divisione.
+c) $6 : 2 = 3$.
+
+La stessa cosa accadrebbe se moltiplicassimo numeratore e denominatore della divisione per uno stesso numero: il risultato della divisione non cambierebbe.
+
+Utilizzare la proprietà invariantiva dividendo per uno stesso numero e rimpicciolendo i numeri di una divisione e quindi **semplificandola**, aiuta a fare l'operazione con numeri più piccoli. 
 
 
 
