@@ -681,7 +681,7 @@ V \cup L = \{a, e, i, o, u, b, c, d\} \\
 V \setminus L = \{i, o, u\} \\
 L \setminus V = \{b, c, d\}
 $$
-       $\bullet$
+       $\bullet$
 
 Da ultimo introduciamo il concetto di sottoinsieme. Se tutti gli elementi di un insieme $A$ sono anche elementi dell'insieme $B$ si dice che $A$ è **sottoinsieme** di $B$ e si scrive
 $$
@@ -867,7 +867,7 @@ a) Calcola MCD ed MCM del punto a) dell'esercizio con le istruzioni GEOGEBRA seg
 
 
 
-## UNITA' 10: Proprietà del prodotto e del rapporto
+## UNITA' 10^*^: Proprietà importanti del prodotto e del rapporto
 
 #### Proprietà distributiva del prodotto rispetto alla somma
 
@@ -902,23 +902,23 @@ $$
 a \cdot (b + c) = a \cdot b + a \cdot c
 $$
 
-Se leggiamo l'uguaglianza da sinistra verso destra, ossia $a \cdot (b + c) \Rightarrow  a \cdot b + a \cdot c$, questa proprietà ci fornisce un metodo alternativo di calcolare $a \cdot (b + c)$, mentre se la leggiamo da destra verso sinistra
+Se leggiamo l'uguaglianza **da sinistra verso destra**, ossia $a \cdot (b + c) \Rightarrow  a \cdot b + a \cdot c$, questa proprietà ci fornisce un metodo alternativo di calcolare $a \cdot (b + c)$. Se la leggiamo **da destra verso sinistra** abbiamo:
 $$
 a \cdot b + a \cdot c = a \cdot (b + c)
 $$
-la proprietà ci dice che possiamo **scrivere una somma di numeri come un prodotto** mettendo in evidenza un fattore comune, se è presente.
+Letta così, la proprietà ci dice che possiamo **scrivere una somma di numeri come prodotto**, dove uno dei fattori è un divisore in comune, in questo caso $a$, tra i due numeri da sommare. Questo modo di scrivere si dice **mettere in evidenza un fattore (divisore) comune**.
 
 #### ESEMPIO 1
 
-I numeri $6$ ed $8$ hanno $2$ come fattore comune, per cui possiamo scrivere:
+I numeri $6$ ed $8$ hanno il numero $2$ come divisore comune. Possiamo allora scrivere:
 
-a) $6 + 8 = 2 \cdot 3 + 2 \cdot 4$;
+a) $6 + 8 = 2 \cdot 3 + 2 \cdot 4$;      applicando la proprietà distributiva scriviamo
 
 b)  $\longrightarrow 2 \cdot (3 + 4)$;
 
 c)  $\longrightarrow 2 \cdot 7$.
 
-Per cui $6 + 8 = 2 \cdot 7$.
+Per cui $6 + 8 = 2 \cdot 7$. Come altro esempio vediamo $40$ e $25$, che hanno $5$ come divisore (fattore) in comune:
 
 a) $40 + 25 = 5 \cdot 8 + 5 \cdot 5$;
 
@@ -934,13 +934,13 @@ In questo caso $40 + 25 = 5 \cdot 13$.     $\bullet$
 
 Una importante proprietà del rapporto tra due numeri è quella per cui se moltiplichiamo o dividiamo entrambi i numeri di un rapporto per uno stesso numero, il risultato della divisione non cambia. Vediamo un esempio.
 
-$12 : 4$ è uguale a $3$. Il numero $2$ è un divisore sia di $12$ che di $4$, e se dividiamo $12$ per $2$, ottenendo $6$ e $4$ per due, ottenendo $2$ e poi dividiamo $6:2$ abbiamo ancora $3$. In pratica:
+$12 : 4$ è uguale a $3$. Il numero $2$ è un divisore sia di $12$ che di $4$, e, se dividiamo $12$ e $6$ per $2$ ottenendo $6$ e $4$ e poi dividiamo i risultati $6$ e $2$ tra di loro abbiamo ancora $3$. In pratica:
 
-a) $12 : 4 = 3$;
+a) $12 : 4 = 3$;      Divisione iniziale che da come risultato $3$.
 
-b) $12 : 2 \longrightarrow 6$;      $4:2⟶2$;
+b) $12 : 2 \longrightarrow 6$;      $4:2⟶2$;      Divido entrambi per un divisore in comune
 
-c) $6 : 2 = 3$.
+c) $6 : 2 = 3$.      Divido i risultati e riottengo $3$.
 
 La stessa cosa accadrebbe se moltiplicassimo numeratore e denominatore della divisione per uno stesso numero: il risultato della divisione non cambierebbe.
 
