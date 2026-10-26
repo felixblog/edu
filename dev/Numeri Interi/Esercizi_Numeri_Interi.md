@@ -76,9 +76,9 @@ Abbiamo già detto che il **valore assoluto** di un numero intero è il numero n
 
 L'**opposto** di un numero intero è un secondo numero intero che ha lo stesso valore assoluto del primo ma segno diverso, ad esempio $-13 \xrightarrow{\text{opposto}} 13$,    $5 \xrightarrow{\text{opposto}} -5$,    $-240 \xrightarrow{\text{opposto}} 240$.
 
-La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente che il numero 3 è maggiore del numero 5 ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow{} False $ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow True$ , dove $True$ sta per "Vero". Analogamente "$\lt$" è il simbolo di "minore", $3 \lt 5$ afferma che il numero 3 è minore del numero 5, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow True$ . Osserviamo che $3 \lt 3 \longrightarrow False$ .
+La scrittura $3 \gt 5$ afferma una **relazione** tra due numeri, precisamente che il numero $3$ è maggiore del numero $5$ ed è chiaramente falsa. Si dice che il suo "***valore di verità***" è "Falso" e si scrive che $3 \gt 5 \longrightarrow Falso$ . Invece $4 = 2 + 2$ afferma una cosa vera e si scrive che $4 = 2 + 2 \longrightarrow Vero$. Analogamente "$\lt$" è il simbolo di "minore"; $3 \lt 5$ afferma che il numero $3$ è minore del numero $5$, è chiaramente vera, e simbolicamente scriviamo che $3 \lt 5 \longrightarrow Vero$ . Osserviamo che $3 \lt 3 \longrightarrow Falso$ .
 
-I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow True$  e  $3 \le 3 \longrightarrow True$ .
+I simboli "$\le$" e "$\ge$" significano "minore o uguale" e "maggiore o uguale", per cui $3 \le 5 \longrightarrow Vero$  e  $3 \le 3 \longrightarrow Vero$ .
 
 
 
@@ -101,11 +101,13 @@ a)^*^  Controlla la verità delle seguenti relazioni:
 
 ## UNITA' 3: Somme e differenze tra numeri interi
 
-Nel "mondo" dei numeri interi, i simboli "$+$" e "$-$" che troviamo nelle espressioni non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "**somma algebrica**" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo. Vediamo un esempio
+Nel "mondo" dei numeri interi, i simboli "$+$" e "$-$" che troviamo nelle espressioni non indicano operazioni ma segni dei numeri. La somma e la sottrazione si realizzano con un'unica operazione: la "**somma algebrica**" che non si scrive ma è sempre presente, tra due numeri in sequenza, dopo l'ultima cifra di un numero ed il segno del numero successivo. Vediamo un esempio.
+
+#### ESEMPIO 1
 
 L'espressione $3-2$ nel "mondo" dei numeri naturali contiene due numeri, $3$ e $2$ ed una operazione, la sottrazione. Nel mondo dei numeri interi contiene due numeri, $3$ e $-2$ scritti uno dopo l'altro; ci si può allora chiedere: se l'espressione contiene solo due numeri, quale è l'operazione tra di loro?
 
-L'operazione presente è chiamata somma algebrica ed è collocata a destra del $3$ ed a sinistra del "$-$", nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{,}} -2$; la somma algebrica c'è anche se non è indicata (non si vede!), come negli esempi seguenti:
+L'operazione presente è chiamata somma algebrica ed è collocata a destra del $3$ ed a sinistra del "$-$", nella posizione indicata dalla freccia:  $3\overset{\downarrow}{\phantom{,}} -2$; la somma algebrica c'è anche se non è scritta (non si vede!), come negli esempi seguenti:
 
 1. $-123\overset{\downarrow}{\phantom{,}}-23$;
 
@@ -201,14 +203,14 @@ Quanti punti ho alla fine delle partite?
 Tra numeri interi si possono eseguire prodotti e quozienti. Le regole per calcolare il prodotto tra due numeri interi sono le seguenti:
 
 - Il valore assoluto del prodotto tra due numeri interi è uguale al prodotto tra i valori assoluti dei due fattori;
-- Il segno del risultato se i due fattori sono dello stesso segno è positivo; se i due fattori sono di segno diverso è negativo.
+- Il segno del risultato è positivo se i due fattori sono dello stesso segno , negativo se i due fattori sono di segno diverso.
 
 Alcuni esempi: $3 \cdot 5 \longrightarrow +15$;     $-3 \cdot 5 \longrightarrow -15$;     $3 \cdot (-5) \longrightarrow -15$;     $-3 \cdot (-5) \longrightarrow +15$. 
 
 Nel caso del rapporto abbiamo regole analoghe:
 
 - Il valore assoluto del rapporto tra due numeri interi è uguale al rapporto tra i valori assoluti dei due fattori. Il risultato sarà un numero intero solo se tale rapporto è intero...
-- Il segno del risultato se i due termini del rapporto sono dello stesso segno è positivo; altrimenti è negativo.
+- Il segno del risultato è positivo se i due termini del rapporto sono dello stesso segno; negativo altrimenti.
 
 Alcuni esempi: $15 : 5 \longrightarrow +3$;     $-15 : 5 \longrightarrow -3$;     $15 : (-5) \longrightarrow -3$;     $-15 \cdot (-5) \longrightarrow +3$. 
 
@@ -368,7 +370,7 @@ a) Calcola il valore delle espressioni seguenti.
 
 2.  $[3 \cdot (2-4)-5] \cdot (-2)$;
 
-3.  ^*^  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$		[$R. +20$].  
+3.  ^*^  $[3 \cdot (2-4)-5] \cdot (-2)-[15+3 \cdot (-4)-(-6+2)]+5$		[$R. +20$].  
 
 b) Individua quanti e quali numeri interi ed operazioni contiene ciascuna delle espressioni seguenti e calcola il valore di ciascuna dei esse.
 
