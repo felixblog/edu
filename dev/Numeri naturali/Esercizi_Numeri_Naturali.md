@@ -952,7 +952,7 @@ Utilizzare la proprietà invariantiva dividendo per uno stesso numero e rimpicci
 
 a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono vere le uguaglianze di ogni esercizio.
 
-1. $40 = 5 \cdot(? + !) = 5 \cdot ? + 5 \cdot !$;
-2. $14 = 6 + 8 = 2 \cdot (? + !)$ 
-3. ^*^  $350 + 252 = ?(!+126) = 602$.
+1. $40 = 5 \cdot(? + !)$ e $40 = 5 \cdot ? + 5 \cdot !$;
+2. $6 + 8 = 2 \cdot (? + !)$ 
+3. ^*^  $350 + 252 = ?(!+126)$.
 

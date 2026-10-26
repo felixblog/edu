@@ -9,7 +9,12 @@ I numeri interi non bastano per indicare tutte le quantità che ci si presentano
 
 Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale **cardinale** "Tre" CHE STA SOPRA la linea di frazione, ed il numerale **ordinale** "quarti" CHE STA SOTTO, chiamati rispettivamente "***numeratore***" (numero superiore) e "***denominatore***" (numero inferiore).
 
-Nella pratica quotidiana le frazioni vengono o **utilizzate** (per calcolare delle quantità) o **generate**, per misurare delle quantità. Vediamo quindi i loro principali contesti d'uso.
+Nella pratica quotidiana le frazioni vengono o **utilizzate**:
+
+- per calcolare delle quantità, come nel caso di "tre quarti d'ora";
+- per misurare delle quantità, come quando vogliamo esprimere $30$ minuti in ore.
+
+Vediamo i vari casi.
 
 
 
@@ -88,9 +93,9 @@ Le frazioni sono una modo di indicare delle **divisioni che non calcoliamo** e l
 
 Il passaggio dalla frazione al numero decimale ci consente facilmente di confrontare tra di loro due frazioni per sapere se sono uguali o quale è maggiore dell'altra, come negli esempi seguenti.
 
-$\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow False$;
+$\dfrac{2}{4} \gt \dfrac{3}{4} \longrightarrow 0.5 \gt 0.74 \longrightarrow Falso$;
 
-$\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow True$;
+$\dfrac{7}{2} = \dfrac{21}{6} \longrightarrow 3.5 = 3.5 \longrightarrow Vero$;
 
 Usare la frazione come divisione significa che in tutti i casi in cui la divisione è espressa con "due punti" (notazione lineare), la stessa si può anche esprimere con una linea di frazione. Vediamo alcuni esempi.
 
@@ -108,7 +113,7 @@ Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazi
 
 Il rapporto tra due numeri interi (positivi e/o negativi), può essere positivo o negativo e la forma **normale** (o canonica) di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$ e $+\dfrac{-3}{4}$.
 
-#### ESEMPIO 7
+#### ESEMPIO 8
 
 Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4} \longleftrightarrow -\dfrac{3}{4}$ mentre $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
 
@@ -438,23 +443,37 @@ h)^*^  Un supermercato applica uno sconto del 20% sul prezzo di una marca di pas
 
 ## UNITA' 4: Somma di frazioni
 
-La somma di due frazioni è una frazione. La somma di due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
+Spesso nella vita quotidiana ci capita di fare la somma di due frazioni. Alcune volte è semplice altre meno. E' semplice sommare venti centesimi e trenta centesimi: sono cinquanta centesimi, $\dfrac{20}{100} + \dfrac{30}{100} \longrightarrow \dfrac{50}{100}$.
 
-$\dfrac{1}{4} + \dfrac{1}{4} \longrightarrow \dfrac{2}{4}=\dfrac{1}{2}$,        $\dfrac{4}{7} + \dfrac{3}{7} \longrightarrow \dfrac{7}{7} = 1$.
+Una somma di utilizzo quotidiano ma meno ovvia è quella di tre confezioni da mezzo litro di latte; in tutto ho comprato un litro e mezzo di latte, ma un litro e mezzo non è una frazione, è una somma di $1 + \dfrac{1}{2}$ litri di latte. Stessa cosa per mezz'ora più tre quarti d'ora. Si potrebbe rispondere un'ora e mezza, ma questa risposta, pur corretta, è a sua volta una somma e non è una frazione sola: $\dfrac{1}{2} + \dfrac{3}{4} \longrightarrow 1 + \dfrac{1}{2}$.
+
+Per scrivere la risposta come una sola frazione dobbiamo per forza confrontare i denominatori $2$ e $4$ e farli diventare lo stesso perché il risultato dovrà essere una frazione con un denominatore solo. Nel caso del latte $\dfrac{1}{2} + \dfrac{1}{2} + \dfrac{1}{2} \longrightarrow \dfrac{3}{2}$ litri di latte, nel caso delle ore, scrivendo mezz'ora come due quarti d'ora la somma diventa facile: $\dfrac{2}{4} + \dfrac{3}{4} \longrightarrow \dfrac{5}{4}$ d'ora.
+
+Lo stesso risultato si sarebbe ottenuto da $1 + \dfrac{1}{4}$ scrivendo un'ora come quattro quarti d'ora, $1 \longrightarrow \dfrac{4}{4}$, e quindi:
+
+a) $1 + \dfrac{1}{4}$;
+
+b) $\dfrac{4}{4} + \dfrac{1}{4}$;
+
+c) $\dfrac{5}{4}$ d'ora.
+
+In generale, la somma di due frazioni è una frazione (una sola frazione). Calcolare la somma di due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
+
+ $\dfrac{20}{100} + \dfrac{30}{100} \longrightarrow \dfrac{50}{100}$,      $\dfrac{1}{4} + \dfrac{1}{4} \longrightarrow \dfrac{2}{4}=\dfrac{1}{2}$,        $\dfrac{4}{7} + \dfrac{3}{7} \longrightarrow \dfrac{7}{7} = 1$.
 
 Ma come sommare due frazioni con denominatore diverso come $\dfrac{1}{4} + \dfrac{1}{6}$  ?
 
 Possiamo operare in due passi. Cerchiamo due frazioni equivalenti a quelle da sommare ma con denominatore uguale (comune) e poi sommiamo queste, sicuri che la quantità risultato sarà la stessa della somma originaria. Resta da trovare quale debba essere il denominatore uguale.
 
-In prima battuta possiamo utilizzare come denominatore comune il ***prodotto dei due denominatori***, per cui al posto delle frazioni originali sommiamo due nuove frazioni ottenute moltiplicando tutta la prima frazione per il denominatore della seconda (cioè $4$) e tutta la seconda frazione per il denominatore della prima (cioè 6) come nell'esempio seguente.
+Il denominatore deve essere un multiplo di entrambi i denominatori, cioè di $4$ e di $6$. In prima battuta possiamo utilizzare come denominatore comune il ***prodotto dei due denominatori***, per cui al posto delle frazioni originali sommiamo due nuove frazioni ottenute <u>moltiplicando tutta la prima frazione per il denominatore della seconda (cioè $4$) e tutta la seconda frazione per il denominatore della prima (cioè 6)</u> come nell'esempio seguente.
 
 #### ESEMPIO 1
 
-a) $\dfrac{1}{4} + \dfrac{1}{6}$
+a) $\dfrac{1}{4} + \dfrac{1}{6}$;
 
-b) $\dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4}$
+b) $\dfrac{1 \cdot 6}{4 \cdot 6} + \dfrac{1 \cdot 4}{6 \cdot 4}$;   moltiplichiamo tutta la prima per $6$ e tutta la seconda per $4$.
 
-c) $\dfrac{6}{24} + \dfrac{4}{24}$
+c) $\dfrac{6}{24} + \dfrac{4}{24}$;    a questo punto è facile sommare.
 
 d) $\dfrac{10}{24} \longrightarrow \dfrac{5}{12}$     $\bullet$
 
@@ -671,7 +690,7 @@ a) Il doppio di $x$; il quadruplo di $x$; tre quarti di $x$; un terzo di $x$;
 
 b) La terza parte di $x$; il cubo di $x$; il reciproco di $x$; il triplo di $x$;  
 
-c)^*^  La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del reciproco (o l’antireciproco) di $x$.  
+c)^*^  La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del reciproco (o l’antireciproco) di $x$.  
 
 
 
@@ -713,7 +732,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando
 
 2) $9\left(-\dfrac{1}{15}\right)\left(-10\right)\left(-\dfrac{7}{6}\right);$
 
-3) ^*^  $\:\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$
+3) ^*^  $\:\left[\left(-\dfrac{7}{5}\right)\left(-\dfrac{10}{21}\right)+\dfrac{11}{3}\left(-\dfrac{9}{2}\right)\right]:\left(-\dfrac{19}{9}\right).$
 
 
 
@@ -729,7 +748,7 @@ a) Paolo deve acquistare uno scooter che costa $\text{\euro\;}2760$, ma possiede
 
 b)^*^  Ogni giro di stadio è i due quinti di un chilometro. Quanti giri di stadio deve compiere un corridore per completare un allenamento di $20 \text{\;Km}$?     [R. $50$]  
 
-c)^*^  Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di $\dfrac{9}{16}$ di $\text{\;Kg}$. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
+c)^*^  Un negozio di bricolage acquista un grande quantitativo di chiodi da vendere in confezioni di $\dfrac{9}{16}$ di $\text{\;Kg}$. Quante confezioni di chiodi si otterranno da $2.871 \text{\;Kg}$ di chiodi?     [R. $5.104$]  
 
 d) In un centro commerciale Andrea acquista un set di valigie che sono in sconto. Se risparmia $\text{\euro\;}123$ e lo sconto è uguale ai $\dfrac{5}{90}$ del prezzo iniziale, quanto costavano le valigie?     [R. $\text{\euro\;}2.214$]  
 
@@ -823,7 +842,7 @@ b) Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per due. [ S
 
 c) Somma il quadruplo del quadrato di $a$ con il doppio di $b$. [ Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$ ].  
 
-d)^*^  Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$.  `[` Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$. Risultato $\dfrac{15}{4}$]
+d)^*^  Moltiplica la somma del doppio di $a$ e della terza parte di $b$ per la differenza tra il doppio di $a$ e la terza parte di $b$.  `[` Sostituzione con $\{a=1, b=\dfrac{2}{3}\}$. Risultato $\dfrac{15}{4}$]
 
 e)^*^  Sottrai $\dfrac{1}{8}$ di $a$ ai $\dfrac{4}{5}$ di $c$, dividi poi il risultato per i $\dfrac{3}{8}$ del quadrato di $b$. [Sostituzione con $\{a=3, b=-\dfrac{1}{5}, c=\dfrac{1}{16}\}$. Risultato $-\dfrac{65}{3}$ ].  
 
