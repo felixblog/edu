@@ -50,10 +50,8 @@ y \overset{\overset{\cdot}{\downarrow}}\cdot (1 \overset{\overset{+/-}{\downarro
 $$
 ed in $\dfrac{ab^2}{2} -3a$ ci sono sei numeri ( in ordine $a, b, 2, 2, -3, a$) e cinque operazioni:
 $$
-\dfrac{a \overset{\overset{\cdot}{\downarrow}}\; b^{\overset{\overset{\hat{}}{\downarrow}}\;2} \overset{:}{\downarrow} }{2} \overset{\overset{+/-}{\downarrow}}{\phantom{,}} -3 \overset{\overset{\cdot}{\downarrow}}\; a
+\dfrac{a \overset{\overset{\cdot}{\downarrow}}\; b^{\overset{\overset{\hat{}}{\downarrow}}\;2} \overset{:}{\downarrow} }{2} \overset{\overset{+/-}{\downarrow}}{\phantom{,}} -3 \overset{\overset{\cdot}{\downarrow}}\; a  \qquad \bullet
 $$
-$\bullet$
-
 
 
 ### ESERCIZIO 1.1 - Dalle parole alle espressioni (I)
@@ -385,10 +383,8 @@ Quante operazioni tra monomi sono presenti nell'espressione $-\dfrac{3}{4}abx^2(
 
 I monomi sono sette (compresi i numeri $-1$ e $2$). Le operazioni sono quindi $6$ e sono indicate di sotto:
 $$
--\dfrac{3}{4}abx^2 \overset{\overset{\cdot}\downarrow}\cdot (2 \overset{\overset{+/-}\downarrow}\ + a)\overset{\overset{+/-}\downarrow}\ -1\overset{\overset{\cdot}\downarrow}\cdot (x \overset{\overset{+/-}\downarrow}\ + a) \overset{\overset{\cdot}\downarrow}\cdot x^2
+-\dfrac{3}{4}abx^2 \overset{\overset{\cdot}\downarrow}\cdot (2 \overset{\overset{+/-}\downarrow}\ + a)\overset{\overset{+/-}\downarrow}\ -1\overset{\overset{\cdot}\downarrow}\cdot (x \overset{\overset{+/-}\downarrow}\ + a) \overset{\overset{\cdot}\downarrow}\cdot x^2 \qquad \bullet
 $$
-$\bullet$
-
 
 
 ### ESERCIZIO 3.1 - Somme di monomi
@@ -848,7 +844,7 @@ c) $\dfrac{a(a+1)-1(a+1)}{2}$
 
 d) $\dfrac{a^2+a-a-1}{2}$
 
-e) $\dfrac{a^2-1}{2}$    $ \bullet$
+e) $\dfrac{a^2-1}{2}$    $\bullet$
 
  
 

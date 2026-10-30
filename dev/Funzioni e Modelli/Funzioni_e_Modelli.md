@@ -224,7 +224,7 @@ dove $m$ e $q$ sono due numeri.
 
 Una palestra applica i prezzi seguenti: per entrare bisogna iscriversi e l'iscrizione costa $40$ euro a semestre; ogni ingresso poi costa $12$ euro. Scrivi la formula che calcola il costo semestrale al variare del numero di ingressi $x$.
 
-Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori riportati nella tabella seguente.    $\bullet$
+Il calcolo del costo è dato dalla funzione $f(x) = 40 + 12x$, che ha i valori riportati nella tabella seguente.
 $$
 \begin{array}{c|c|c}
 \hline
@@ -239,7 +239,7 @@ $$
 \end{array}
 $$
 
-
+$\bullet$
 
 Le funzioni lineari hanno la caratteristica che la differenza tra due valori della $y$ è direttamente proporzionale alla differenza tra i corrispondenti valori della $x$, ed è pari ad $m$​. Vediamolo con un esempio.
 
@@ -404,8 +404,6 @@ Il grafico è il seguente.
 
 <img src="img/funzione-definita-tratti.png" alt="funzione-definita-tratti" style="zoom:20%;" />
 
-<img src="/img/funzione-definita-tratti.png" alt="funzione-a-tratti" style="zoom:20%;" />
-
 Le funzioni che utilizzano più di una espressione per la loro definizione (su intervalli diversi di numeri reali), si dicono "definite  tratti".
 
 
@@ -552,33 +550,33 @@ dove $m$ e $q$ devono essere di volta in volta stimati. "$mx$" è una parte dei 
 
 ### ESERCIZIO 5.1 - Applicazioni varie
 
-a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano 40 euro a semestre di iscrizione e poi 10 euro l'ora per il campo, mentre gli esterni pagano 15 euro l'ora. 
+a) Un circolo di tennis affitta i campi sia a membri del circolo che ad esterni (non membri). I membri pagano $40$ euro a semestre di iscrizione e poi $10$ euro l'ora per il campo, mentre gli esterni pagano $15$ euro l'ora. 
 
 1. Scrivere le formule che, al variare di $x$, numero di ore di affitto a semestre, esprime i costi nel caso dei membri e degli esterni.
 2. Individuare quale è il numero semestrale minimo di ore di campo da affittare perché convenga l'iscrizione al circolo. (*Suggerimento*: si scrivano i costi mensili in entrambi i casi e si confrontino i grafici dei costi.)  
 
-b) Una sala chirurgica ambulatoriale prevede, da parte del paziente, il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato 250 euro per un intervento di 30 minuti ed un altro 450 euro per uno di 90 minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di 45 minuti.
+b) Una sala chirurgica ambulatoriale prevede, da parte del paziente, il pagamento di un ticket composto da una quota fissa più una variabile per ogni minuto di durata dell'operazione. Un paziente ha pagato $250$ euro per un intervento di $30$ minuti ed un altro $450$ euro per uno di $90$ minuti. Scrivi la formula per calcolare il costo del ticket a partire dalla durata dell'intervento ed utilizzala per calcolare il costo di una operazione di $45$ minuti.
 
-c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezionate da 200 grammi l'una. Per la produzione dei cioccolatini, l'azienda sostiene una spesa fissa mensile di 4.000 euro ed un costo al Kg di 4 euro; ci sono da considerare poi altri 60 centesimi di costo di confezionamento per ogni scatola. Determinare:
+c) Una industria dolciaria produce dei cioccolatini che vende in scatole confezionate da $200$ grammi l'una. Per la produzione dei cioccolatini, l'azienda sostiene una spesa fissa mensile di $4\;000$ euro ed un costo al Kg di $4$ euro; ci sono da considerare poi altri $60$ centesimi di costo di confezionamento per ogni scatola. Determinare:
 
 1. la formula che esprime il costo mensile per la produzione di $x$ scatole di cioccolatini;
-2. la formula che esprime i ricavi della vendita di $x$ scatole di cioccolatini al mese, considerato che il prezzo di ogni scatola è di 5 euro;
+2. la formula che esprime i ricavi della vendita di $x$ scatole di cioccolatini al mese, considerato che il prezzo di ogni scatola è di $5$ euro;
 3. la formula per il calcolo dell'utile come differenza tra i ricavi ed i costi.
 
 
 
 ### ESERCIZIO 5.2 - Esercizio Riassuntivo   
 
-a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Le auto che l'agenzia propone alla sua clientela sono di un'unica tipologia ed Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e 100 Km percorsi, un totale di 70 euro e la seconda, sempre per un giorno e 350 Km percorsi, 120 euro.
+a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il noleggio, prevedono una quota fissa al giorno più una quota variabile secondo il numero di chilometri percorsi. Le auto che l'agenzia propone alla sua clientela sono di un'unica tipologia ed Antonio ha noleggiato due auto in due occasioni diverse. La prima volta ha pagato, per un giorno e $100\; Km$ percorsi, un totale di $70$ euro e la seconda, sempre per un giorno e $350\; Km$ percorsi, $120$ euro.
 
 1. Scrivi la formula che calcola il costo di noleggio per la clientela.
-2. Antonio potrebbe noleggiare un'auto anche dall'agenzia A-OK che costa 25 euro al giorno più 0,30 euro al Km. Ad Antonio conviene di più servirsi di EZ oppure di A-OK? 
+2. Antonio potrebbe noleggiare un'auto anche dall'agenzia A-OK che costa $25$ euro al giorno più $0,30$ euro al Km. Ad Antonio conviene di più servirsi di EZ oppure di A-OK? 
 
 b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e di uno variabile, che dipende dai Km percorsi, di manutenzione.
 
-I costi annui si possono calcolare considerando che, dopo 10 anni di utilizzo, il valore di un'automobile acquistata nuova per 30.000 euro ha un valore nullo e per la manutenzione, se si percorrono mediamente 60 Km/giorno per 150 giorni l'anno, si spendono 1.000 euro/anno (ossia 0,111 euro al giorno al Km).
+I costi annui si possono calcolare considerando che, dopo $10$ anni di utilizzo, il valore di un'automobile acquistata nuova per $30\; 000$ euro ha un valore nullo e per la manutenzione, se si percorrono mediamente $60\; Km/giorno$ per $150$ giorni l'anno, si spendono $1\; 000$  euro l'anno (ossia $0,111$ euro al giorno al Km).
 
-1.  Considerando $x$ giorni di utilizzo l'anno, calcola i costi totali per la gestione di un'auto da 30.000 euro dell'agenzia EZ come somma di costi fissi e costi variabili (in dipendenza del numero dei giorni) annui; fai l'ipotesi di una percorrenza media giornaliera di 60 Km;
+1.  Considerando $x$ giorni di utilizzo l'anno, calcola i costi totali per la gestione di un'auto da $30\; 000$ euro dell'agenzia EZ come somma di costi fissi e costi variabili (in dipendenza del numero dei giorni) annui; fai l'ipotesi di una percorrenza media giornaliera di $60 \; Km$;
 2.  Nelle ipotesi del punto 1 e ricavando dalla risposta dell'esercizio a.1) i ricavi giornalieri del noleggio, scrivi la formula del ricavo annuo, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
 3.  Scrivi la formula dell'utile annuo come differenza tra i ricavi ed i costi. Disegna la curva dell'utile in un piano cartesiano ed individua il numero minimo di giorni che in un anno l'auto deve essere noleggiata perché non ci sia una perdita ("Punto di Pareggio"), ossia l'intervallo dei giorni $x$ in cui l'utile è positivo ("Regione dei Profitti") e quello dei giorni in cui è negativo ("Regione delle Perdite").
 
@@ -592,8 +590,8 @@ b) Disegna le curve dei Ricavi-Costi-Utile del punto d) ed individua graficament
 
 ### ESERCIZIO 5.3 - Analisi dei prezzi
 
-a) Una società di film a noleggio ha 1000 abbonati ognuno dei quali paga 15 euro al mese. Sulla base di un indagine, il management ritiene che per ogni 25 centesimi di riduzione del costo mensile di abbonamento si avrebbero 20 tesserati in più. 
+a) Una società di film a noleggio ha $1\; 000$$ abbonati ognuno dei quali paga $15$ euro al mese. Sulla base di un indagine, il management ritiene che per ogni $25$ centesimi di riduzione del costo mensile di abbonamento si avrebbero $20$ tesserati in più. 
 
 Quale è la curva di domanda, ossia la formula che esprime il numero $d$ di abbonati in dipendenza del prezzo $p$?
 
-b) 50 studenti, contribuendo ciascuno con 5 euro, riescono a raccogliere 250 euro per un regalo. Da questo punto in poi però, decidono che per ogni studente in più che aderisce, la somma da versare diminuirà di 5 centesimi per tutti. Quanti studenti dovranno contribuire per ottenere la somma massima possibile?
+b) $50$ studenti, contribuendo ciascuno con $5$ euro, riescono a raccogliere $250$ euro per un regalo. Da questo punto in poi però, decidono che per ogni studente in più che aderisce, la somma da versare diminuirà di $5$ centesimi per tutti. Quanti studenti dovranno contribuire per ottenere la somma massima possibile?
