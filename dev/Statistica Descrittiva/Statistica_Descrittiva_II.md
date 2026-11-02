@@ -1,4 +1,4 @@
-# Statistica Descrittiva: Parte Seconda
+# Statistica Descrittiva Parte Seconda
 
 
 
@@ -58,7 +58,7 @@ Relativamente all'esercizio 1.1, che riguardava un'indagine statistica sulla qua
 
 
 
-## UNITA' 1: Tabelle e Serie Statistiche
+## UNITA' 2: Tabelle e Serie Statistiche
 
 È possibile trarre vantaggio dai risultati statistici solo se le informazioni sono interpretate facilmente e comunicate in modo efficace. Le tabelle ed i grafici sono strumenti usati comunemente per riepilogare e presentare risultati statistici: una tabella o un grafico possono infatti comunicare informazioni in modo molto più rapido e vivido di un rapporto scritto se il lettore è in grado di interpretarle. Per i grafici in particolare c'è molta verità nell'adagio "un'immagine vale più di mille parole".
 
@@ -384,7 +384,7 @@ $$
 
 
 
-### ESERCIZIO 1.1 - Serie e Tabelle Statistiche
+### ESERCIZIO 2.1 - Serie e Tabelle Statistiche
 
 a) La tabella seguente riporta tre anni di dati mensili delle vendite di un produttore di birra, in barili.
 
@@ -426,7 +426,7 @@ $$
 
 
 
-## UNITA' 2: Grafici dei Dati Statistici
+## UNITA' 3: Grafici dei Dati Statistici
 
 Le rappresentazioni graﬁche hanno lo scopo di illustrare, mediante linee, segmenti, simboli convenzionali ecc., le RELAZIONI tra due insiemi di dati presenti in una tabella con almeno due colonne: la prima che diremo delle **etichette** e le altre che diremo **serie**.
 
@@ -711,7 +711,7 @@ $\bullet$
 
 
 
-### ESERCIZIO 2.1 - Grafici a Linee
+### ESERCIZIO 3.1 - Grafici a Linee
 
 a) Considerata la seguente tabella delle rilevazioni delle quantità vendute di una ditta (in quintali) negli anni indicati.
 
@@ -864,7 +864,7 @@ Punto c)
 
 
 
-### ESERCIZIO 2.3 - Grafici a Torta
+### ESERCIZIO 3.3 - Grafici a Torta
 
 a) Rappresenta con un diagramma a torta le tabelle delle frequenze percentuali richieste nei punti 1., 2., 3., dell'esercizio 2.a). 
 
@@ -878,7 +878,7 @@ Punto b)
 
 
 
-### ESERCIZIO 2.4 - Grafici a Dispersione
+### ESERCIZIO 3.4 - Grafici a Dispersione
 
 a) Considera i seguenti dati relativi agli investimenti e al fatturato complessivo di un collettivo di aziende (in milioni di euro) :
 
@@ -988,7 +988,7 @@ Punto a)
 
 
 
-## UNITA 3: I Rapporti Statistici: Composizione e Coesistenza
+## UNITA 4: I Rapporti Statistici: Composizione e Coesistenza
 
 I rapporti statistici sono misure statistiche che hanno lo scopo di ***confrontare*** i dati tra di loro. In un rapporto statistico si mettono a confronto due termini, frequenze o quantità, di cui uno almeno è di natura statistica e tale che tra i due termini sussiste un qualche legame logico.
 
@@ -1044,7 +1044,7 @@ E' utilizzato su **variabili binarie** ed è un rapporto fra le intensità o fre
 
 
 
-### ESERCIZIO 3.1 - Rapporti di Composizione
+### ESERCIZIO 4.1 - Rapporti di Composizione
 
 a) Considera i dati della tabella dell'esercizio 3.b). Calcola i rapporti di composizione:
 
@@ -1055,7 +1055,7 @@ a) Considera i dati della tabella dell'esercizio 3.b). Calcola i rapporti di com
 
 
 
-### ESERCIZIO 3.2 - Rapporti di Coesistenza
+### ESERCIZIO 4.2 - Rapporti di Coesistenza
 
 A partire dalla descrizione riportata di seguito tratta dal Rapporto ISTAT "Popolazione residente e dinamica demografica, Anno 2021" rispondi alle domande
 
@@ -1071,7 +1071,7 @@ c) ......
 
 
 
-## UNITA 4: I Rapporti di Derivazione e Densità
+## UNITA 5: I Rapporti di Derivazione e Densità
 
 Un **rapporto di derivazione** è ottenuto dividendo la modalità di un fenomeno per quella corrispondente di un altro che, sul piano logico o temporale, ne costituisce l’antecedente o il presupposto, ossia quello da cui deriva o è causato.
 
@@ -1123,7 +1123,7 @@ $\bullet$
 
 
 
-### ESERCIZIO 4.1 - Rapporti di Densità
+### ESERCIZIO 5.1 - Rapporti di Densità
 
 È ottenuto dividendo l'ammontare di un aggregato per una quantità che rappresenta la dimensione spaziale, temporale o caratterizzante del campo di osservazione cui esso fa riferimento. Le quantità al numeratore e al denominatore sono grandezze eterogenee.
 
@@ -1131,13 +1131,13 @@ a) ...
 
 
 
-### ESERCIZIO 4.2 - Rapporti di Derivazione
+### ESERCIZIO 5.2 - Rapporti di Derivazione
 
 a) ... 
 
 
 
-## UNITA 5: Lo Studio dei Flussi: Rapporti di Durata e Ripetizione
+## UNITA 6: Lo Studio dei Flussi: Rapporti di Durata e Ripetizione
 
 I rapporti di durata mettono in relazione la consistenza media di un fenomeno con l’ammontare del suo rinnovamento in un dato intervallo di tempo per trovare la durata media di permanenza di una unità in un processo, ossia in una coda. Il ragionamento è il seguente.
 
@@ -1188,7 +1188,7 @@ Si definisce rapporto di durata il rapporto fra il dato statico e quello dinamic
 
 
 
-### ESERCIZIO 5.1 - Rapporti di Durata e Ripetizione (Studio dei Flussi)
+### ESERCIZIO 6.1 - Rapporti di Durata e Ripetizione (Studio dei Flussi)
 
 <da completare>
 

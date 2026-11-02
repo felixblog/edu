@@ -1,4 +1,4 @@
-# Statistica Descrittiva: Parte Prima
+# Statistica Descrittiva Parte Prima
 
 Al giorno d'oggi ciascuno di noi ha a disposizione una grande quantità di informazioni che riguardano la realtà che lo circonda. Internet ci fornisce continuamente dati su prodotti in vendita, informazioni economiche sui titoli in borsa, notizie su altri paesi etc.
 
@@ -671,7 +671,7 @@ Se l'insieme fosse stato  $21, 35, 22, 26, 28, 24$:
 
 
 
-### ESERCIZIO 3.1 - Indici di Posizione Centrale - Media, Moda, Mediana
+### ESERCIZIO 3.1 - Calcolo di Media, Moda e Mediana I
 
 a) Calcola minimo, massimo e media delle vendite sui dati dell'esercizio 7.b).
 
@@ -738,7 +738,7 @@ d) Considera il grafico riportato di seguito (relativo al 2013, in cui erano pre
 
 
 
-### ESERCIZIO 3.2
+### ESERCIZIO 3.2 - Calcolo di Media, Moda e Mediana II
 
 a) Le autovetture di un salone per la vendita di auto usate sono classificate secondo l’età dell’usato.
 
@@ -774,5 +774,4 @@ b) In un campionato una squadra di calcio ha giocato 36 partite, realizzando 52 
 
 1. la media dei punti a partita;
 2. la media dei goal segnati per partita e quella dei goal subiti. 
-
 
