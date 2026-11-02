@@ -314,11 +314,11 @@ Esempi di caratteri non ttrasferibili sono:
 - il numero di figli partoriti da una donna;
 - la situazione fallimentare di una azienda.
 
-La **Distribuzione di quantità o intensità** è l'associazione alle modalità di un <u>carattere qualitativo</u>, o alle classi se il carattere è quantitativo, del valore di un carattere <u>quantitativo trasferibile</u> calcolato (come somma, media o altro) su tutte le unità che hanno quel carattere (o ricadono nella classe considerata).
+Raggruppare le osservazioni in base ai valori di un <u>carattere qualitativo</u> e sommare i valori di un altro carattere quantitativo trasferibile significa costruire una **Distribuzione di intensità** . Vediamo qualche esempio.
 
 #### ESEMPIO 3
 
-Riprendiamo l’esempio del questionario proposto nell'industria dal direttore del personale. La distribuzione delle retribuzioni per qualifica è riportata di seguito.
+Riprendiamo l’esempio del questionario proposto nell'industria dal direttore del personale. La distribuzione delle retribuzioni (intensità quantitativa) per qualifica (carattere qualitativo) è riportata di seguito.
 
 $$
 \textbf{RETRIBUZIONE PER QUALIFICA} \\
@@ -345,7 +345,7 @@ Per ogni qualifica la colonna "Retrib." è ottenuta come somma delle retribuzion
 
 #### ESEMPIO 4
 
-In una azienda che vende in tutta Italia, il riepilogo delle vendite in un determinato mese per area geografica è una distribuzione di intensità. L'unità statistica è la vendita, la variabile qualitativo è l'area di vendita (Nord, Centro, Sud, Isole) e quello quantitativo è l'importo della vendita. La distribuzione è la seguente.
+In una azienda che vende in tutta Italia, il riepilogo delle vendite (carattere quantitativo, intensità) in un determinato mese per area geografica (carattere qualitativo) è una distribuzione di intensità. L'unità statistica è la vendita, la variabile qualitativa è l'area di vendita (Nord, Centro, Sud, Isole) e quella quantitativa è l'importo della vendita. La distribuzione è la seguente.
 
 $$
 \textbf{VENDITE PER AREA} \\
@@ -367,7 +367,7 @@ $$
 \end{array}
 $$
 
-L'area che vende di più è il Nord, quella  he vende di meno è l'area commerciale delle Isole.  $\bullet$
+L'area che vende di più è il Nord, quella che vende di meno è l'area commerciale delle Isole.  $\bullet$
 
 
 

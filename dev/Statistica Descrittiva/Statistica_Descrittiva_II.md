@@ -32,7 +32,7 @@ Le variabili si possono inoltre analizzare per livello di misura, ossia per il *
 - **Livello Nominale**, se date due modalità è possibile solo affermare se queste sono uguali o diverse, e non è significativa alcuna relazione d'ordine, ad esempio la variabile "Sesso" con le modalità 'M' e 'F' o "Religione", con i valori 'Cattolica', 'Islamica' ecc., oppure i nomi e cognomi di persone o gli indirizzi;
 - **Livello Ordinale**, ossia qualitativi o quantitativi ove sia significativo un qualche ordinamento naturale (ad esempio, il carattere titolo di studio, o grado nella gerarchia militare, via via più elevato). Per questi dati, anche quando sono quantitativi, non è confrontabile tra di loro una differenza di livello: ad esempio non si può dire quale salto tra i livelli diploma/laurea e licenza elementare/media sia il maggiore;
 - **Livello di Intervallo**, ossia quantitativi che non hanno un minimo o massimo assoluto per i quali è necessario stabilire un valore iniziale e gli altri sono misurati come **differenza** con il valore iniziale, come ad esempio per le <u>date</u> o per la <u>temperatura</u>, con lo zero (valore iniziale). Questi caratteri non si possono sommare tra di loro: si possono sommare solo le loro differenze, ossia i loro <u>intervalli</u>;
-- **Livello di Rapporto**, queste sono misure a tutti gli effetti: dati quantitativi per i quali ha significato una misura rispetto ad una unità di misura omogenea, il rapporto tra di loro, e quindi la percentuale, o le loro frazioni ed i loro decimali. Lo zero, a differenza del caso precedente, significa assenza della misura, come ad esempio nel caso di Reddito, Peso ed Età.
+- **Livello di Rapporto**, è il livello dei dati quantitativi che sono misure a tutti gli effetti: per questi dati ha significato il rapporto tra di loro, e quindi la percentuale, o i loro decimali. Lo zero, a differenza del caso precedente, significa assenza della misura, come ad esempio nel caso di Reddito, Peso ed Età.
 
 I livelli sono riportati nella figura seguente.
 
@@ -85,7 +85,7 @@ In rapporto alle rilevazioni, le tabelle generalmente contengono dati derivati o
 
 Le tabelle **univariate** (o monovariate o semplici) sono le più semplici e presentano i dati di una sola variabile (carattere) per ciascuna unità statistica. La tabella si riduce così ad un elenco e fornisce supporto all’analisi statistica monovariata che consiste nell’analizzare le variabili singolarmente prese, cioè a una a una senza metterle in relazione fra di loro.
 
-Sono tabelle univariate le distribuzioni di frequenza di una variabile in quanto riportano i dati di un solo carattere. 
+Sono tabelle univariate le <u>distribuzioni di frequenza di una variabile</u> in quanto riportano i dati di un solo carattere. 
 
 #### ESEMPIO 1
 
@@ -166,7 +166,7 @@ $\bullet$
 
 Sono **multivariate** (o complesse) le tabelle formate da due o più colonne che riportano le modalità di più di un carattere o che si riferiscono a varie caratteristiche di uno stesso fenomeno, anche senza legame tra esse e con eventuali attributi calcolati.
 
-Sono tabelle multivariate le distribuzioni di intensità in quanto coinvolgono dati di un carattere qualitativo e di uno quantitativo.
+Sono tabelle multivariate le <u>distribuzioni di intensità</u> in quanto coinvolgono dati di un carattere qualitativo e di uno quantitativo.
 
 #### ESEMPIO 3
 
