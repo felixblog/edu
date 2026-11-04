@@ -9,10 +9,11 @@ I numeri interi non bastano per indicare tutte le quantità che ci si presentano
 
 Quando diciamo "<u>tre</u> <u>quarti</u>", che si scrive $\dfrac{3}{4}$ stiamo usando l'aggettivo numerale **cardinale** "Tre" CHE STA SOPRA la linea di frazione, ed il numerale **ordinale** "quarti" CHE STA SOTTO, chiamati rispettivamente "***numeratore***" (numero superiore) e "***denominatore***" (numero inferiore).
 
-Nella pratica quotidiana le frazioni vengono o **utilizzate**:
+Nella pratica quotidiana le frazioni vengono **utilizzate**:
 
 - per calcolare delle quantità, come nel caso di "tre quarti d'ora";
-- per misurare delle quantità, come quando vogliamo esprimere $30$ minuti in ore.
+- per misurare delle quantità, come quando vogliamo esprimere $30$ minuti in ore;
+- al posto delle divisioni.
 
 Vediamo i vari casi.
 
@@ -109,13 +110,27 @@ Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazi
 
 
 
+#### Frazioni proprie ed improprie
+
+Il termine "frazione" significa "parte" di qualcosa e quando diciamo "tre quarti d'ora" intendiamo una frazione di un'ora, un periodo di tempo **inferiore** ad un ora. Analogamente quando diciamo "un quarto", "due terzi" ecc. intendiamo parti minori di una unità.
+
+Se diciamo invece "un'ora e mezza" intendiamo una durata **superiore** ad un'ora. In simboli "un'ora e mezza" si scrive $1 + \dfrac{1}{2}$, che non è però una frazione sola, ma la somma di due numeri. Se vogliamo scrivere $1 + \dfrac{1}{2}$ come una sola frazione dobbiamo dire "tre mezze ore", ossia $3 \cdot \dfrac{1}{2}$ cioè $\dfrac{3}{2}$ di ora. 
+
+Le frazioni che indicano delle quantità **minori** di uno si dicono **frazioni proprie**, mentre quelle come $\dfrac{3}{2} \longrightarrow 1.5$, che indicano quantità **superiori** ad $1$, si dicono **frazioni improprie**, perché la quantità contrasta con il significato "proprio" di frazione.
+
+Ci sono poi frazioni come $\dfrac{2}{2}$, $\dfrac{3}{3}$, $\dfrac{4}{2}$, $\dfrac{15}{3}$, $-\dfrac{15}{3}$ che, se eseguiamo la divisione decimale, ci accorgiamo essere uguali a numeri interi, e proprio per questo vengono dette **frazioni apparenti**.
+
+
+
 #### Forma normale delle frazioni
 
-Il rapporto tra due numeri interi (positivi e/o negativi), può essere positivo o negativo e la forma **normale** (o canonica) di una frazione prevede il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. Il segno davanti alla frazione, se il numeratore è positivo, è sempre **il segno del numeratore**: $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$ e $+\dfrac{-3}{4}$.
+Il rapporto tra due numeri interi (positivi e/o negativi), come $\dfrac{-3}{4}$, $\dfrac{3}{-4}$ o $\dfrac{-3}{-4}$, può essere positivo o negativo. Per evitare confusioni sulla posizione del segno, la forma **normale** (o canonica) di una frazione prevede una frazione di due numeri senza segno (naturali) ed il segno davanti all'intera frazione: $\pm \dfrac{m}{n}$ con $n$ ed $m$ numeri naturali ed $m$ diverso da zero. 
+
+Le regole per il calcolo del segno del numero sono le stesse di quelle della divisione: se i due numeri hanno lo stesso segno la frazione è positiva altrimenti è negativa. 
 
 #### ESEMPIO 8
 
-Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4} \longleftrightarrow -\dfrac{3}{4}$ mentre $\dfrac{3}{-4} \longrightarrow -\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
+Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4}$ si scrive $-\dfrac{3}{4}$ mentre $\dfrac{3}{-4}$ si scrive $-\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
 
 Se il numeratore è dentro una parentesi senza operazioni, il segno meno viene riportato davanti a tutta la frazione, come da forma canonica: $\dfrac{-(3)}{4} \longrightarrow \dfrac{-3}{4}$ $\longleftrightarrow -\dfrac{3}{4}$.
 
@@ -126,6 +141,8 @@ a)  $-\dfrac{(3)}{4} \longleftrightarrow -\dfrac{3}{4}$;
 b) $-\dfrac{(-3)}{4} \longleftrightarrow +\dfrac{3}{4}$; Qui abbiamo il prodotto di $-1$ per la frazione $\dfrac{-3}{4}$.
 
 c) $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$    $\bullet$
+
+Il segno davanti alla frazione, se il numeratore è positivo, si considera sempre **segno del numeratore**, ossia $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$ oppure $+\dfrac{-3}{4}$.
 
 
 
