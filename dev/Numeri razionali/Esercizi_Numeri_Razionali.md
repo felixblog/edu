@@ -114,11 +114,11 @@ Quella più complessa $\dfrac{\dfrac{2}{3}}{ \dfrac{1- 2 \cdot 3}{5}}$ in notazi
 
 Il termine "frazione" significa "parte" di qualcosa e quando diciamo "tre quarti d'ora" intendiamo una frazione di un'ora, un periodo di tempo **inferiore** ad un ora. Analogamente quando diciamo "un quarto", "due terzi" ecc. intendiamo parti minori di una unità.
 
-Se diciamo invece "un'ora e mezza" intendiamo una durata **superiore** ad un'ora. In simboli "un'ora e mezza" si scrive $1 + \dfrac{1}{2}$, che non è però una frazione sola, ma la somma di due numeri. Se vogliamo scrivere $1 + \dfrac{1}{2}$ come una sola frazione dobbiamo dire "tre mezze ore", ossia $3 \cdot \dfrac{1}{2}$ cioè $\dfrac{3}{2}$ di ora. 
+Se diciamo invece "un'ora e mezza" intendiamo una durata **superiore** ad un'ora. In simboli "un'ora e mezza" si scrive $1 + \dfrac{1}{2}$, che non è però una frazione sola, ma la somma di due numeri. Se vogliamo scrivere $1 + \dfrac{1}{2}$ come una sola frazione dobbiamo dire "tre mezze ore", ossia $3 \cdot \dfrac{1}{2}$ cioè $\dfrac{3}{2}$ di ora. 
 
 Le frazioni che indicano delle quantità **minori** di uno si dicono **frazioni proprie**, mentre quelle come $\dfrac{3}{2} \longrightarrow 1.5$, che indicano quantità **superiori** ad $1$, si dicono **frazioni improprie**, perché la quantità contrasta con il significato "proprio" di frazione.
 
-Ci sono poi frazioni come $\dfrac{2}{2}$, $\dfrac{3}{3}$, $\dfrac{4}{2}$, $\dfrac{15}{3}$, $-\dfrac{15}{3}$ che, se eseguiamo la divisione decimale, ci accorgiamo essere uguali a numeri interi, e proprio per questo vengono dette **frazioni apparenti**.
+Ci sono poi frazioni come $\dfrac{2}{2}$, $\dfrac{3}{3}$, $\dfrac{4}{2}$, $\dfrac{15}{3}$, $-\dfrac{15}{3}$ che, se eseguiamo la divisione decimale, ci accorgiamo essere uguali a numeri interi, e proprio per questo vengono dette **frazioni apparenti**.
 
 
 
@@ -130,7 +130,7 @@ Le regole per il calcolo del segno del numero sono le stesse di quelle della div
 
 #### ESEMPIO 8
 
-Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4}$ si scrive $-\dfrac{3}{4}$ mentre $\dfrac{3}{-4}$ si scrive $-\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
+Esempi di frazioni con numeratore e denominatore di segno diverso e con parentesi da scrivere in forma canonica sono i seguenti: $\dfrac{-3}{4}$ si scrive $-\dfrac{3}{4}$ mentre $\dfrac{3}{-4}$ si scrive $-\dfrac{3}{4}$; inoltre $\dfrac{3}{+4} \longleftrightarrow \dfrac{3}{4}$ e $\dfrac{-3}{-4} \longrightarrow \dfrac{3}{4}$.
 
 Se il numeratore è dentro una parentesi senza operazioni, il segno meno viene riportato davanti a tutta la frazione, come da forma canonica: $\dfrac{-(3)}{4} \longrightarrow \dfrac{-3}{4}$ $\longleftrightarrow -\dfrac{3}{4}$.
 
@@ -295,13 +295,15 @@ Nel prodotto $\dfrac{3}{4} \cdot \left(-\dfrac{2}{3}\right)$ Dividiamo numerator
 
 
 
-#### Forma decimale delle frazioni
+#### Dai numeri decimali alle frazioni
 
-Una frazione è una divisione che può quindi essere eseguita e dare come risultato un numero decimale, che è detto forma decimale della frazione. Ad esempio $\dfrac{2}{10}$ è uguale a $0,2$ mentre $\dfrac{2}{3}$ è $0,6666...$.
+Abbiamo già visto che una frazione è una divisione che può quindi essere eseguita e dare come risultato un numero decimale, che è detto forma decimale della frazione. Ad esempio $\dfrac{2}{10}$ è uguale a $0,2$ mentre $\dfrac{2}{3}$ è $0,6666...$.
 
-Può capitare di dover trasformare un numero decimale (con due o tre cifre dopo la virgola) in frazione, ad esempio $230,45$ in frazione. Per fare questo si moltiplica il numero per $10$, $100$, o $1000$, a seconda se ci sono una, due o tre cifre dopo la virgola ed allo stesso tempo si divide il prodotto per $10$, $100$, o $1000$: il risultato è la frazione che stiamo cercando. 
+Può capitare anche di dover trasformare un numero decimale (con due o tre cifre dopo la virgola) in frazione, ad esempio $230,45$ in frazione. Per fare questo si moltiplica il numero per $10$, $100$, o $1000$, a seconda se ci sono una, due o tre cifre dopo la virgola ed allo stesso tempo si divide il prodotto per $10$, $100$, o $1000$: il risultato è la frazione che stiamo cercando. 
 
 Ad esempio $230,45$ è uguale a $\dfrac{230,45 \cdot 100}{100}$ cioè $\dfrac{2345}{100}$. 
+
+
 
 
 ### ESERCIZIO 2.1 - Frazioni equivalenti e riduzione ai minimi termini
@@ -343,7 +345,7 @@ a) Calcola i seguenti prodotti di frazioni.
 
 
 
-### ESERCIZIO 2.4 - Forma decimale delle frazioni
+### ESERCIZIO 2.4 - Forma decimale delle frazioni e viceversa
 
 a) Trasforma le seguenti frazioni in forma decimale scrivendo il risultato con tre cifre decimali dopo la virgola
 
@@ -466,6 +468,14 @@ Una somma di utilizzo quotidiano ma meno ovvia è quella di tre confezioni da me
 
 Per scrivere la risposta come una sola frazione dobbiamo per forza confrontare i denominatori $2$ e $4$ e farli diventare lo stesso perché il risultato dovrà essere una frazione con un denominatore solo. Nel caso del latte $\dfrac{1}{2} + \dfrac{1}{2} + \dfrac{1}{2} \longrightarrow \dfrac{3}{2}$ litri di latte, nel caso delle ore, scrivendo mezz'ora come due quarti d'ora la somma diventa facile: $\dfrac{2}{4} + \dfrac{3}{4} \longrightarrow \dfrac{5}{4}$ d'ora.
 
+Che il calcolo sia giusto lo vediamo confrontando la somma delle due frazioni con la somma dei corrispondenti numeri decimali, come da diagramma seguente.
+$$
+\xymatrix{
+ 1 + \dfrac{1}{2} \ar[d] \ar[r] & 1 + 0.5 \ar[dd]\\
+ \dfrac{2}{2}+\dfrac{1}{2}  \ar[d]  \\
+\dfrac{3}{2} \ar[r] & 1.5
+}
+$$
 Lo stesso risultato si sarebbe ottenuto da $1 + \dfrac{1}{4}$ scrivendo un'ora come quattro quarti d'ora, $1 \longrightarrow \dfrac{4}{4}$, e quindi:
 
 a) $1 + \dfrac{1}{4}$;
@@ -474,7 +484,7 @@ b) $\dfrac{4}{4} + \dfrac{1}{4}$;
 
 c) $\dfrac{5}{4}$ d'ora.
 
-In generale, la somma di due frazioni è una frazione (una sola frazione). Calcolare la somma di due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
+In generale, la somma di due frazioni è una frazione (una sola frazione!). Calcolare la somma di due frazioni che hanno lo stesso denominatore è facile. Alcuni esempi:
 
  $\dfrac{20}{100} + \dfrac{30}{100} \longrightarrow \dfrac{50}{100}$,      $\dfrac{1}{4} + \dfrac{1}{4} \longrightarrow \dfrac{2}{4}=\dfrac{1}{2}$,        $\dfrac{4}{7} + \dfrac{3}{7} \longrightarrow \dfrac{7}{7} = 1$.
 
