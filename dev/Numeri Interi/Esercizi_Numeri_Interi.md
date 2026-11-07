@@ -1004,3 +1004,17 @@ b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 
 1. $3-a^{3}-2 \cdot b^{2}+a^{2}\text{·}(a-b),\ \{a=2 + 3,\ b=-2 - 3\}$  
 2. ^*^  $3 \cdot a \cdot b-5 \cdot a^{2}+3 \cdot a-1,\ \{a=2-4,\ b= 1-9\}$.
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'4: 4.1 a.2, a.4
+
+#### UNITA'5: 5.1 a.2, b.1, b.3, c.4, c.6
+
+#### UNITA'7: 7.1 a.2, b.2
+
+#### UNITA'8: 8.1 b.2, b.3, 8.3 b.3
+
+#### UNITA'9: 9.1 a.2

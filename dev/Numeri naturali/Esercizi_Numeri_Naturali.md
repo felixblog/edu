@@ -676,12 +676,14 @@ $$
 
 Se $V$ è l'insieme delle vocali, $V = \{a, e, i, o, u\}$ e $L$ l'insieme delle prime $5$ lettere dell'alfabeto, $L = \{a, b, c, d, e\}$, abbiamo che
 $$
-V \cap L = \{a, e\} \\
-V \cup L = \{a, e, i, o, u, b, c, d\} \\
-V \setminus L = \{i, o, u\} \\
-L \setminus V = \{b, c, d\}
+\begin{flalign*}
+ V \cap L &= \{a, e\} \\
+ V \cup L &= \{a, e, i, o, u, b, c, d\} \\
+ V \setminus L &= \{i, o, u\} \\
+ L \setminus V &= \{b, c, d\} \\
+\end{flalign*}
 $$
-       $\bullet$
+     $\bullet$
 
 Da ultimo introduciamo il concetto di sottoinsieme. Se tutti gli elementi di un insieme $A$ sono anche elementi dell'insieme $B$ si dice che $A$ è **sottoinsieme** di $B$ e si scrive
 $$
@@ -883,7 +885,7 @@ Continueremo a fare così, ma dobbiamo dire che questo non è l'unico modo per c
 
 a) $2 \cdot (3 + 4)$;
 
-b) $2 \cdot 3 + 2 \cdot 4$$;
+b) $2 \cdot 3 + 2 \cdot 4$;
 
 c) $6 + 8$;
 
@@ -952,7 +954,31 @@ Utilizzare la proprietà invariantiva dividendo per uno stesso numero e rimpicci
 
 a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono vere le uguaglianze di ogni esercizio.
 
-1. $40 = 5 \cdot(? + !)$ e $40 = 5 \cdot ? + 5 \cdot !$;
+1. $40 = 5 \cdot(? + !)$ e $40 = 5 \cdot ? + 5 \cdot !$;
 2. $6 + 8 = 2 \cdot (? + !)$ 
 3. ^*^  $350 + 252 = ?(!+126)$.
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1: 1.1 a.3, a.5, b.5, b.7
+
+#### UNITA'2: 2.1 b, d
+
+#### UNITA'4: 4.1 c, e
+
+#### UNITA'5: 5.1 a.2, 5.3 a.2, a.3
+
+#### UNITA'6: 6.1 b.5
+
+#### UNITA'7: 7.1 a.2, b
+
+#### UNITA'8: 8.1 e.2
+
+#### UNITA'9: 9.1 b.2
+
+
+
+
 

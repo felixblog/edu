@@ -605,9 +605,9 @@ f)^*^  Una persona fuma ogni giorno circa $\text{15}$ sigarette. Considerato che
 
 Fino ad ora si sono considerate solo equazioni numeriche, con una sola lettera, l'incognita. Oltre a queste però si usano anche equazioni in cui compaiono altre lettere, oltre a quella che ha il ruolo di incognita, come ad esempio $1-ax=b$, dove l'incognita è $x$.
 
-Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (come monomi, polinomi e frazioni algebriche) e la soluzione sarà una **espressione letterale** e non numerica.
-
 **ATTENZIONE**: anche se compaiono altre lettere, l'incognita è una sola! Queste equazioni hanno **una sola incognita** e la loro soluzione è formata da una sola espressione letterale.
+
+Queste equazioni si risolvono con lo stesso metodo di quelle numeriche; le regole di soluzione delle equazioni riguardano somme, moltiplicazioni e divisioni di espressioni letterali (come monomi, polinomi e frazioni algebriche) e la soluzione sarà una **espressione letterale** e non numerica.
 
 #### ESEMPIO 1
 
@@ -615,7 +615,7 @@ Risolviamo l'equazione $1+ax=b$ considerando la lettera $x$ come incognita.
 
 a) $1+ax=b$;   Con la regola del trasporto portiamo $1$ a destra;
 
-b) $+ax=b-1$;   Con la regola della moltiplicazione/divisione dividiamo tutto per il coefficiente di $x$;
+b) $+ax=b-1$;   Con la regola della moltiplicazione/divisione dividiamo tutto per $+a$, coefficiente di $x$;
 
 c) $\dfrac{+ax}{+a}=\dfrac{b-1}{+a}$;  Semplificando
 
@@ -730,15 +730,15 @@ a) Risolvi le seguenti equazioni considerando la lettera $x$ come (unica) incogn
 
 Nell'unità precedente abbiamo presentato diverse formule di uso comune per il calcolo dell'IVA, del margine economico di una operazione ecc. Abbiamo anche visto come queste formule possono essere utilizzate per risolvere semplici problemi numerici impostando e risolvendo una equazione.
 
-Ci sono situazioni in cui è conveniente risolvere le stesse formule come equazioni letterali, in cui una delle lettere è l'incognita. L'equazione elementare risultante dalla soluzione dell'equazione letterale è detta **formula inversa**.
+Ci sono situazioni in cui è conveniente considerare le stesse formule come equazioni letterali, in cui l'incognita è una delle lettere. L'equazione elementare risultante dalla soluzione dell'equazione letterale è detta **formula inversa**.
 
 Questa operazione si chiama anche **esplicitazione della formula rispetto alla lettera** (che fa da incognita).
 
 #### ESEMPIO 1
 
-A partire dalla formula dell'IVA $P = C + I$, trovare quanto vale il costo $C$ di un articolo IVA esclusa, ossia esplicita la formula dell'IVA rispetto alla lettera $C$.
+A partire dalla formula dell'IVA $P = C + I$, troviamo quanto vale il costo $C$ di un articolo, ossia io suo costo IVA esclusa; per far questo esplicitiamo la formula dell'IVA rispetto alla lettera $C$.
 
-Risolvendo la formula come se fosse una equazione con l'unica incognita $C$ abbiamo $P - I = C$, per cui la formula inversa è:
+Risolvendo la formula come se fosse una equazione con $C$ l'unica incognita, abbiamo $P - I = C$, per cui la formula inversa è:
 $$
 C = P - I
 $$

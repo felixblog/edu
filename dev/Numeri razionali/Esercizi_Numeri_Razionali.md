@@ -411,9 +411,9 @@ $\enspace 0.5;\enspace 0.005;\enspace 4.458;\enspace 1000.1;\enspace 10.5;\enspa
 
 ### ESERCIZIO 3.2 - Le percentuali
 
-a) Trasforma in percentuale i numeri seguenti: $2$;   $0,02$;   $-1,465$;   $5$;   $0$.
+a) Trasforma in percentuale ed in frazione i numeri seguenti: $2$;   $0,02$;   $-1,465$;   $5$;   $0$.
 
-b) Trasforma in numeri decimali le percentuali seguenti: $2\%$;   $0,02\%$;   $-30\%$;   $350\%$;   $1000\%$;   $0,0002\%$.
+b) Trasforma in numeri decimali ed in frazioni le percentuali seguenti: $2\%$;   $0,02\%$;   $-30\%$;   $350\%$;   $1000\%$;   $0,0002\%$.
 
 c) Scrivi le seguenti frazioni in percentuali (approssimando):
 
@@ -677,7 +677,7 @@ a) Calcola i seguenti quozienti di frazioni.
 2.  $-\dfrac{8}{3} : \left(-\dfrac{15}{12}\right)$;     $\dfrac{7}{10} : \left(-\dfrac{20}{21}\right)$;
 3.  $\dfrac{2}{5}:4$;    $\left(-1\right):\left(-5\right)$.
 
-b)^*^  Calcola il valore delle seguenti espressioni.
+b) Calcola il valore delle seguenti espressioni.
 
 1. $\left(\dfrac{2}{5}-\dfrac{2}{3}\right)\cdot\left(\dfrac{1}{2}-\dfrac{4}{3}\right)$;    $[R. \dfrac{2}{9}]$  
 2. $\dfrac{2}{5}\cdot\left(-\dfrac{2 \cdot 5 + 5}{4}\right)\cdot\left(-\dfrac{2}{3}\right)$;    $[R. 1]$  
@@ -841,7 +841,7 @@ g) $\dfrac{34}{25}$.    $\bullet$
 
 ### ESERCIZIO 6.1 - Sostituzioni (I)
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri indicati tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri o le espressioni indicat3 tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
 
 1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
 2. $-2 \cdot x + x^2 + 1,\ \{x=-\dfrac{2}{5}\}$;
@@ -1137,3 +1137,24 @@ b)^*^  I pellerossa americani non usavano monete ma barattavano tra di loro gli 
 1. Quanti coltelli da caccia sono necessari per comprare due coperte?
 2. Quante coperte posso comprare con due pelli di bisonte?
 3. Una pelle di bisonte tagliata a metà vale il $30\%$ in meno che se la pelle è intera. Mezza pelle di bisonte vale almeno mezza collana?  
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1: 1.1 a.1, a.6
+
+#### UNITA'2: 2.2 a
+
+#### UNITA'3: 3.3 b.1, b.2
+
+#### UNITA'4: 4.3 a.2 
+
+#### UNITA'5: 5.1 b.2, b.3
+
+#### UNITA'6: 6.1 a.2, a.3
+
+#### UNITA'7: 7.2 a.2, 7.4 a.1
+
+#### UNITA'8: 8.1 a.4, 8.2 b.2
+

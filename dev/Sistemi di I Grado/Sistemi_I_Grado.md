@@ -193,7 +193,9 @@ La nostra equazione con due incognite avrà quindi una **soluzione letterale** d
 
 #### PASSO 2: Sostituzione
 
-Si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare) perché la soluzione deve rendere vera anche la seconda equazione. Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
+Si sostituisce la soluzione trovata, $(x,-1-2x)$, nell'altra equazione perché la soluzione deve rendere vera anche la seconda equazione (il secondo elemento della coppia deve sostituire la $y$ tutte le volte che compare).
+
+Si ottiene così una equazione con una sola incognita, che deve essere verificata dalla soluzione del sistema:
 
 b) $x - 3y = 10, \{x = x, y = -1-2x\}$;
 

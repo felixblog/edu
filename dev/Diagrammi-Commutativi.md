@@ -1,3 +1,8 @@
+
+
+https://www.jmilne.org/not/CDGuide.html
+
+
 $$
 \begin{CD}
   \dfrac{1}{2}+\dfrac{3}{4} @>\text{div.}>> 0.5 + 0.75 \\
