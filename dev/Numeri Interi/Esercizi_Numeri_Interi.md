@@ -1009,12 +1009,12 @@ b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'4: 4.1 a2, a4
+#### UNITA'4 - Prodotto e quoziente tra numeri interi: 4.1 a2, a4
 
-#### UNITA'5: 5.1 a2, b1, b3, c4, c6
+#### UNITA'5 - Espressioni tra numeri interi: 5.1 a2, b1, b3, c4, c6
 
-#### UNITA'7: 7.1 a2, b2
+#### UNITA'7 - Sostituzioni con i numeri interi: 7.1 a2, b2
 
-#### UNITA'8: 8.1 b2, b3, 8.3 b3
+#### UNITA'8 - Potenze e loro proprietà: 8.1 b2, b3, 8.3 b3
 
-#### UNITA'9: 9.1 a2
+#### UNITA'9 - Sostituzioni con espressioni intere: 9.1 a2

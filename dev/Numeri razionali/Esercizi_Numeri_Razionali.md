@@ -571,7 +571,7 @@ b) Calcola il valore delle seguenti espressioni.
 
 
 
-## UNITA' 5: Divisione tra frazioni ed espressioni con le frazioni
+## UNITA' 5: Divisione ed espressioni con le frazioni
 
 Le frazioni si possono dividere tra di loro e il risultato è una frazione. Un esempio di divisione è il seguente: $\dfrac{2}{1} : \dfrac{1}{2}$. 
 
@@ -1142,19 +1142,19 @@ b)^*^  I pellerossa americani non usavano monete ma barattavano tra di loro gli 
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1: 1.1 a1, a6
+#### UNITA'1 - Concetto ed uso delle Frazioni: 1.1 a1, a6
 
-#### UNITA'2: 2.2 a
+#### UNITA'2 - Frazioni equivalenti e prodotti di frazioni: 2.2 a
 
-#### UNITA'3: 3.3 b1, b2
+#### UNITA'3 - Le Percentuali: 3.3 b1, b2
 
-#### UNITA'4: 4.3 a2 
+#### UNITA'4 - Somma di frazioni: 4.3 a2 
 
-#### UNITA'5: 5.1 b2, b3
+#### UNITA'5 - Divisione ed espressioni con le frazioni: 5.1 b2, b3
 
-#### UNITA'6: 6.1 a2, a3
+#### UNITA'6 - Sostituzioni: 6.1 a2, a3
 
-#### UNITA'7: 7.2 a2, 7.4 a1
+#### UNITA'7 - Potenze con le frazioni: 7.2 a2, 7.4 a1
 
-#### UNITA'8: 8.1 a4, 8.2 b2
+#### UNITA'8 - Equivalenze: 8.1 a4, 8.2 b2
 

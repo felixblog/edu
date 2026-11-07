@@ -407,9 +407,11 @@ Tutte le volte che abbiamo un oggetto in un contenitore, ad esempio un imballagg
 $$
 L = N + T
 $$
-Questa schematizzazione è così comune che viene metaforicamente utilizzata anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"); in questi casi diciamo "al lordo" dell'accessorio per indicare la quantità totale, e "al netto" per indicare l'assenza dell'accessorio. 
+Questa schematizzazione è così comune che viene metaforicamente utilizzata anche in altri contesti, quando vogliamo parlare di una quantità che è la somma di  qualcosa di essenziale (il "netto") e qualcosa di accessorio (la "tara"); in questi casi diciamo "al lordo" dell'accessorio per indicare la quantità totale, e "al netto" per indicare l'assenza dell'accessorio. Alcuni esempi:
 
-Ad esempio con l'espressione "retribuzione netta" intendiamo l'importo di una retribuzione senza gli oneri fiscali e contributivi mentre con "retribuzione lorda" intendiamo la retribuzione comprensiva di tali somme; con costo di un articolo "al lordo dell'IVA" intendiamo il costo del prodotto IVA compresa, con prestito "al netto degli interessi" intendiamo l'ammontare del prestito senza interessi e con "al lordo degli interessi" quello comprensivo di interessi e così via. 
+- con l'espressione "retribuzione netta" intendiamo l'importo di una retribuzione senza gli oneri fiscali e contributivi mentre con "retribuzione lorda" intendiamo la retribuzione comprensiva di tali somme;
+- con costo di un articolo "al lordo dell'IVA" intendiamo il costo del prodotto IVA compresa;
+- con prestito "al netto degli interessi" intendiamo l'ammontare di un prestito senza interessi e con "al lordo degli interessi" quello comprensivo di interessi e così via. 
 
 #### ESEMPIO 3
 
@@ -441,13 +443,13 @@ Quando un soggetto rivende ad un prezzo di $R$ euro un prodotto che precedenteme
 $$
 U = R - C
 $$
-Con $R$ abbiamo indicato il **ricavo** e con $C$ il **costo** di questa operazione; il margine è anche detto **mark-up** dell'operazione.
+Con $R$ abbiamo indicato il **ricavo** di questa operazione e con $C$ il suo **costo**; il margine è anche detto **mark-up** dell'operazione.
 
-Spesso è conveniente anche calcolare il margine di una operazione in percentuale sul costo $C$ dell'operazione stessa; in questo caso $R - C$ è detto **mark-up assoluto** e $q = \dfrac{R - C}{C}$ è detto **mark-up percentuale**.
+Spesso è conveniente anche calcolare il margine di una operazione in percentuale sul suo costo $C$; in questo caso $R - C$ è detto **mark-up assoluto** e $q = \dfrac{R - C}{C}$ è detto **mark-up percentuale**.
 
 #### ESEMPIO 4
 
-Un commerciante pensa di acquistare un lotto di $20$ magliette del costo a lui di $15$ euro l'una. Che ricavo dovrà avere dalla loro vendita perché questa operazione abbia un utile dl almeno $100$ euro? Quale dovrà essere il prezzo di ogni maglietta? Quale sarà il mark-up in percentuale?
+Un commerciante pensa di acquistare un lotto di $20$ magliette del costo a lui di $15$ euro l'una. Che ricavo dovrà avere dalla loro vendita perché questa operazione abbia un utile dl almeno $100$ euro? Quale dovrà essere il prezzo di ogni maglietta? Quale sarà il mark-up in percentuale sul costo?
 
 Per calcolare il ricavo $R$ risolviamo l'equazione che ha incognita $R$ dopo aver sostituito i numeri alle lettere nella prima formula.
 
@@ -512,9 +514,9 @@ e)^*^  Quanto risparmia un consumatore se l'IVA sui pannolini passasse dal $10\%
 
 ####  La velocità
 
-La velocità misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge. Il primo fenomeno che esaminiamo è il movimento di un oggetto e la sua **velocità**.
+La **velocità** misura la rapidità con la quale un fenomeno si manifesta o un processo si svolge. Il primo fenomeno che esaminiamo è il movimento di un oggetto.
 
-Se osserviamo il movimento di una automobile su una strada e vediamo che per percorrere, ad esempio, $100 \; Km$, impiega un certo tempo, ad esempio $2$ ore, possiamo dire che l'automobile ha una velocità di $\dfrac{100}{2} = 50 \; Km/h$. 
+Se osserviamo una automobile muoversi su una strada e vediamo che per percorrere, ad esempio, $100 \; Km$, impiega un certo tempo, ad esempio $2$ ore, possiamo dire che l'automobile ha una velocità di $\dfrac{100}{2} = 50 \; Km/h$. 
 
 La velocità (di movimento) di un oggetto è quindi misurata dal rapporto tra la distanza che percorre ed il tempo impiegato a percorrerla. Se indichiamo con $s$ la distanza che percorre e con $t$ la durata del moto, la $v$ velocità è:
 
@@ -552,7 +554,7 @@ b) $v = \dfrac{0.1}{0.0026} \approx 38.46 \ \dfrac{Km}{h}$.   $\bullet$
 
 
 
-La velocità non riguarda solo il movimento ma molti altri fenomeni, ad esempio la stampa di documento, ed allora abbiamo la **velocità di stampa** che misuriamo in pagine al minuto, o la produzione, ed allora abbiamo la **velocità di produzione**, e così via.   
+La velocità non riguarda solo il movimento di un oggetto ma molti altri fenomeni, ad esempio la stampa di documento, ed allora abbiamo la **velocità di stampa** che misuriamo in pagine al minuto, o la produzione, ed allora abbiamo la **velocità di produzione**, e così via.   
 
 #### ESEMPIO 3
 
@@ -801,15 +803,17 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1: 1.1 a3, b3
+#### UNITA'1 - Concetto di equazione e sue soluzioni: 1.1 a3, b3
 
-#### UNITA'2: 2.2 a2, b3, b5
+#### UNITA'2 - Metodo risolutivo delle equazioni: 2.2 a2, b3, b5
 
-#### UNITA'4: 4.1 c
+#### UNITA'4 - Equazioni e Formule I: 4.1 c
 
-#### UNITA'6: 6.1 a2, b1
+#### UNITA'5 - Equazioni e Formule II: 5.1 b, c
 
-#### UNITA'7: 7.1 a2, a3, b2, b3
+#### UNITA'6 - Equazioni letterali: 6.1 a2, b1
+
+#### UNITA'7 - Le Formule Inverse: 7.1 a2, a3, b2, b3
 
 
 

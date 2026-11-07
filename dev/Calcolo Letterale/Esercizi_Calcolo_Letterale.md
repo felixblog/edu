@@ -514,7 +514,7 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 
 
-## UNITA' 5: Polinomi 
+## UNITA' 5: I Polinomi 
 
 La somma algebrica di più monomi (solo somma algebrica, senza alcuna parentesi) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***.
 
@@ -980,17 +980,15 @@ b) Semplifica le seguenti espressioni.
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'2: 2.1 a2, a3, 2.2 a2
+#### UNITA'2 - I Monomi: 2.1 a2, a3, 2.2 a2
 
-#### UNITA'3: 3.1 a4, 3.2 a1
+#### UNITA'3 - Somme e prodotti di monomi: 3.1 a4, 3.2 a1
 
-#### UNITA'4: 4.1 a3 
+#### UNITA'4 - Rapporti di monomi e frazioni algebriche: 4.1 a3 
 
-#### UNITA'5: 5.1 b, d
+#### UNITA'5 - I Polinomi: 5.1 b, d
 
-#### UNITA'6: 6.1 a3, a5
+#### UNITA'8 - Sostituzioni in espressioni letterali: 8.1 a1, b2
 
-#### UNITA'8: 8.1 a1, b2
-
-#### UNITA'9: 9.1 b1, b3
+#### UNITA'9 - Frazioni algebriche: 9.1 b1, b3
 

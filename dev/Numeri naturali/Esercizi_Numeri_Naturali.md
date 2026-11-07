@@ -962,21 +962,21 @@ a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono v
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1: 1.1 a3, a5, b5, b7
+#### UNITA'1 - Numeri naturali, operazioni ed espressioni: 1.1 a3, a5, b5, b7
 
-#### UNITA'2: 2.1 b, d
+#### UNITA'2 - Dalle parole ai numeri: 2.1 b, d
 
-#### UNITA'4: 4.1 c, e
+#### UNITA'4 - Numeri, lettere e sostituzioni: 4.1 c, e
 
-#### UNITA'5: 5.1 a2, 5.3 a2, a3
+#### UNITA'5 - Potenze ed altre notazioni non lineari: 5.1 a2, 5.3 a2, a3
 
-#### UNITA'6: 6.1 b5
+#### UNITA'6 - Insiemi e loro rappresentazioni: 6.1 b5
 
-#### UNITA'7: 7.1 a2, b
+#### UNITA'7 - Operazioni tra insiemi: 7.1 a2, b
 
-#### UNITA'8: 8.1 e2
+#### UNITA'8 - Divisori, multipli, MCM e MCD: 8.1 e2
 
-#### UNITA'9: 9.1 b2
+#### UNITA'9 - MCM e MCD mediante scomposizione: 9.1 b2
 
 
 
