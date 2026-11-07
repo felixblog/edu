@@ -799,3 +799,19 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 
    
 
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1: 1.1 a3, b.3
+
+#### UNITA'3: 
+
+#### UNITA'4: 
+
+#### UNITA'5: 
+
+#### UNITA'6: 
+
+#### UNITA'8: 
+
+#### UNITA'9: 
+

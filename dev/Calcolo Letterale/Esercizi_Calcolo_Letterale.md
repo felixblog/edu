@@ -88,9 +88,11 @@ a) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e c
 
 b) Scrivi le espressioni ottenute sostituendo alle lettere i valori elencati e calcola il risultato.
 
-1. $a^{2} − b^{2}, \{\enspace a = 1, b = +1\}; \enspace \{a = -3, b = -2\}; \enspace \{a = -6, b = \dfrac{5}{3}\}$;
-2. $2a \cdot (b + 1) - 6 \cdot a \cdot b , \enspace \{a = -3, b = 0\}$;
-3. $((2 \cdot a) \cdot b)^{3}, \enspace \{a = 2, b = -\dfrac{3}{2}\}$.
+1. $a^{2} − b^{2}, \{\enspace a = 1, b = +1\}$;
+2. $a^{2} − b^{2}, \enspace \{a = -3, b = -2\};$;
+3. $a^{2} − b^{2}, \enspace \{a = -6, b = \dfrac{5}{3}\}$
+4. $2a \cdot (b + 1) - 6 \cdot a \cdot b , \enspace \{a = -3, b = 0\}$;
+5. $((2 \cdot a) \cdot b)^{3}, \enspace \{a = 2, b = -\dfrac{3}{2}\}$.
 
 
 
@@ -524,9 +526,11 @@ Riduci i seguenti polinomi in forma normale.
 
 a) $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2};$  
 
-b) $5ab - 2a^{2} + ab -a^{2}; xy - 3x^{2}y +2xy + x^{2}y;$  
+b) $5ab - 2a^{2} + ab -a^{2}$;
 
-c) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$  
+c) $xy - 3x^{2}y +2xy + x^{2}y;$  
+
+d) $\dfrac{1}{5}ab -2a +1 + \dfrac{1}{3}a -5 +\dfrac{4}{5}ab;$  
 
 #### Laboratorio GEOGEBRA
 
@@ -653,11 +657,13 @@ a) Scrivi il polinomio risultato dei prodotti seguenti.
 
 2. $$-2 \cdot (-3xy+2)$;
 
-3. $(x+a)a$;     $(by-1)b$ ;
+3. $(x+a)a$;
 
-4. $-4x^{2}y \cdot (-x^{3}+2xy-y)$ ;
+4. $(by-1)b$ ;
 
-5. ^*^  $(2x+3y)(-4x) -3y(-4x+y) + (4x^{2}+3y^{2})(-2)$ .
+5. $-4x^{2}y \cdot (-x^{3}+2xy-y)$ ;
+
+6. ^*^  $(2x+3y)(-4x) -3y(-4x+y) + (4x^{2}+3y^{2})(-2)$ .
 
 
 
@@ -910,8 +916,10 @@ Nella frazione $\dfrac{2x(2x-1)}{2x +1}$, non è possibile semplificare $2x$ sop
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.
 
-1. $\dfrac{1}{x}$;      $\dfrac{a}{b}$;      $2a^2$;      $-\dfrac{1}{2a^2x}$;
-2. $\dfrac{1}{x-1}$;      $\dfrac{a+1}{b-1}$;      $2a^2+a$;      $-\dfrac{1+x^2}{2a^2x}$.
+1. $\dfrac{1}{x}$;      $\dfrac{a}{b}$;
+2. $2a^2$;      $-\dfrac{1}{2a^2x}$;
+3. $\dfrac{1}{x-1}$;      $\dfrac{a+1}{b-1}$;
+4. $2a^2+a$;      $-\dfrac{1+x^2}{2a^2x}$.
 
 b) Semplifica le seguenti frazioni algebriche dopo aver messo in evidenza gli opportuni fattori nei polinomi a numeratore o a denominatore.
 
@@ -949,4 +957,20 @@ b) Semplifica le seguenti espressioni.
 3. $\left(\dfrac{1}{3}a^2b+\dfrac{2}{3}a^2b\right)-\left(\dfrac{2}{5}xy\right)^2:\left(\dfrac{2}{5}xy\right)-\left(ab\right)^2:b$.
 
 
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'2: 2.1 a.2, a3, 2.2 a.2
+
+#### UNITA'3: 3.1 a.4, 3.2 a.1
+
+#### UNITA'4: 4.1 a.3 
+
+#### UNITA'5: 5.1 b, d
+
+#### UNITA'6: 6.1 a.3, a.5
+
+#### UNITA'8: 8.1 a.1, b.2
+
+#### UNITA'9: 9.1 b.1, b.3
 
