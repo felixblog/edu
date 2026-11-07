@@ -84,17 +84,17 @@ a) In ciascuno dei casi riportati di seguito, determina se il numero appartiene 
 
 b) Rappresenta graficamente su una retta gli intervalli riportati di seguito.
 
-1. $(0;1)$;   $[-1;1]$;
-2. $(1;+\infty)$;   $(-\infty;5)$;
-3. $[-1;0)$;   $[-3;+\infty)$;
-4. $(-\infty; +\infty)$;   $(2;\dfrac{33}{5}])$.
+1. $(0;1)$;        $[-1;1]$;
+2. $(1;+\infty)$;        $(-\infty;5)$;
+3. $[-1;0)$;        $[-3;+\infty)$;
+4. $(-\infty; +\infty)$;       $(2;\dfrac{33}{5}])$.
 
 c) Per ciascuno dei casi seguenti, scrivi la disequazione (elementare) o il sistema di disequazioni che ha come soluzioni l'intervallo indicato.
 
-1.  $(-\infty;-5)$;     $[1;+\infty)$;
-2.  $(1;+\infty)$;      $(-\infty;-\dfrac{50}{11})$;
-3.  $[0; 3]$;      $(-2; 2]$;
-4.  $(2; \dfrac{33}{5}]$;     $(\dfrac{2}{5}; 1)$;
+1.  $(-\infty;-5)$;       $[1;+\infty)$;
+2.  $(1;+\infty)$;       $(-\infty;-\dfrac{50}{11})$;
+3.  $[0; 3]$;        $(-2; 2]$;
+4.  $(2; \dfrac{33}{5}]$;       $(\dfrac{2}{5}; 1)$;
 5.  ^*^  Gli intervalli dei punti b.3) e b.4).
 
 #### Laboratorio GEOGEBRA
@@ -204,7 +204,7 @@ Come si vede, il segmento blu in basso rappresenta i numeri che sono soluzione d
 
 
 
-### ESERCIZIO 1.1 - Soluzione di Sistemi di Disequazioni
+### ESERCIZIO 3.1 - Soluzione di Sistemi di Disequazioni
 
 a) Trova la soluzione dei seguenti sistemi di disequazioni; rappresenta la soluzione in forma insiemistica ed in forma di intervallo.
 
@@ -223,4 +223,14 @@ a) Trova la soluzione dei seguenti sistemi di disequazioni; rappresenta la soluz
     4x - 3 \gt 5x + 1 \\ 4[2(1 - x) -3] \le 5x + 1 \\   
    \end{array} 
    \right.$$
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - Diseguaglianze ed intervalli: 1.1 a1, a3, b1, b2, 1.3 b2, c2
+
+#### UNITA'2 - Disequazioni di I grado con una incognita: 2.1 a1, a3, b1, b5
+
+#### UNITA'3 - Sistemi di Disequazioni di I grado con una incognita: 3.1 a1
 

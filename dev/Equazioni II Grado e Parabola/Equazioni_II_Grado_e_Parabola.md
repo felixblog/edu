@@ -78,8 +78,8 @@ f) $6\sqrt3$.    $\bullet$
 
 a) Usando la calcolatrice, trova il valore, approssimato alla quarta cifra decimale, dei radicali riportati di seguito. Fai una prova della correttezza del calcolo dopo aver trovato il numero.
 
-1. $\sqrt[2]{4};$   $\sqrt[2]{81};$   $\sqrt[3]{125};$   $\sqrt{2};$   $\sqrt[3]{2};$
-2. $\sqrt[2]{\dfrac{1}{2}};$   $\sqrt[2]{\dfrac{3}{4}};$   $\sqrt[3]{12.345};$
+1. $\sqrt[2]{4};$      $\sqrt[2]{81};$      $\sqrt[3]{125};$      $\sqrt{2};$      $\sqrt[3]{2};$
+2. $\sqrt[2]{\dfrac{1}{2}};$      $\sqrt[2]{\dfrac{3}{4}};$      $\sqrt[3]{12.345};$
 3. Nel caso di $\sqrt2$ e $\sqrt[3]{12.345}$ trova l'errore relativo percentuale tra il risultato della calcolatrice e quello approssimato alla quarta cifra decimale.
 
 b) Calcola $\sqrt[n]{x}$ in ciascuno dei casi seguenti:
@@ -276,13 +276,19 @@ a) Scrivi le equazioni dei punti a.1), a.2), a.3) dell'esercizio in forma normal
 
 a) Trova, se esistono, le soluzioni delle equazioni seguenti.
 
-1. $2x^2 + x = 0;$   $\dfrac{x^2}{4} - 81 = 0;$   $x^2 -5 = 0;$
+1. $2x^2 + x = 0$;
 
-2. $3x^2 - 12x + 9 = 0;$   $4x^2 + 12x + 9 = 0;$   $x^2 + x + 1 = 0;$
-3. Equazioni dei punti a.3, a.4 e a.5 dell'esercizio 2.1.
-4. $3(x-x^2)-\dfrac{4}{3} = \dfrac{1}{2}x - 1$;
-5. $\dfrac{x+4}{5}+\dfrac{33}{10}=(2+x)(2-x)$;
-6. $\dfrac{4}{3}x(12-x)=45$.
+2. $\dfrac{x^2}{4} - 81 = 0$;
+
+3. $x^2 -5 = 0$;
+
+4. $3x^2 - 12x + 9 = 0$;
+5. $4x^2 + 12x + 9 = 0$;
+6. $x^2 + x + 1 = 0$.
+7. Equazioni dei punti a.3, a.4 e a.5 dell'esercizio 2.1.
+8. $3(x-x^2)-\dfrac{4}{3} = \dfrac{1}{2}x - 1$;
+9. $\dfrac{x+4}{5}+\dfrac{33}{10}=(2+x)(2-x)$;
+10. $\dfrac{4}{3}x(12-x)=45$.
 
 b) Scrivi l'equazione e trova le soluzioni, nei casi in cui i coefficienti della forma normale $a$, $b$, $c$ abbiano i valori riportati di seguito:
 
@@ -375,13 +381,12 @@ A differenza delle figure precedenti, dove la parabola era rivolta verso l'alto,
 
 a) Determina tre punti delle parabole seguenti:
 
-1. $y=25x^2$
-2. $y=-10x^2$;
+1. $y=5x^2$
+2. $y=-2x^2$;
 3. $y=-\dfrac{1}{8}x^2;$
 4. $y = x^2$;
 5. $y = -x^2$;
 6. $y = 2x^2$;
-7. $y = -2x^2$; 
 8. $y=\dfrac{1}{4}x^2-9$;
 9. $y=-\dfrac{5}{2}x^2-5x$;
 10. $y=x^2+x+1$.
@@ -452,7 +457,7 @@ Risolvi il punto a.1) dell'esercizio con la sequenza di operazioni GEOGEBRA ripo
 
 
 
-## UNITA' 4: Intervalli di positività e relazione con le equazioni di II grado
+## UNITA' 4: Intervalli di positività e polinomi di II grado
 
 Come per l'equazione della retta, anche per la parabola si definisce ***intervallo di positività*** un intervallo sull'asse delle $x$ per ogni numero del quale il valore della $y$, ossia il valore del polinomio associato, è positivo.
 
@@ -530,3 +535,18 @@ a) Scrivi l'equazione della parabola che passa per il vertice ed un altro punto 
 
 1. $V(0;1), P(1;0)$
 2. $V(0;2), P(1,6)$
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - I radicali: 1.1 a1, c2, c3
+
+#### UNITA'2 - Le equazioni di II grado: 2.2 a2, a4, a6, b2
+
+#### UNITA'3 - La parabola: 3.1 a2, a5, a9, b1
+
+#### UNITA'4 - Intervalli di positività e polinomi di II grado: 4.1 a1, a4, b1, b3
+
+
+

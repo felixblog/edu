@@ -357,7 +357,7 @@ Come si vede le due espressioni che misurano la trave devono essere uguali per c
 $$
 \dfrac{2}{3} \cdot x = 18
 $$
-La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow x = 27$     $\bullet$
+La cui soluzione è data da $Risolvi(\dfrac{2}{3} \cdot x = 18, \{x\}) \longrightarrow x = 27$     $\bullet$
 
 
 
@@ -401,7 +401,7 @@ b) Quale è il numero che addizionato alla sua metà ed alla sua terza parte da 
 
 c)  Una cassa contiene $140$ palline tra nere e bianche. Togliendo $1/3$ di quelle nere e $2/5$ di quelle bianche si porta il numero delle palline nere ad essere doppio di quello delle palline bianche. Quante erano inizialmente le palline dei due colori? &emsp;  $\text{[R. 90 e 50]}$
 
-d)^*^  Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \;Km/h$ superiore a quella del più lento. Dopo $5$ ore di volo i due distano $2000 \;Km$. Trova la velocità di ciascun aereo. 
+d)^*^  Due aerei decollano dallo stesso aeroporto nello stesso istante e volano in direzioni opposte. La velocità dell’aereo più veloce è di $100 \;Km/h$ superiore a quella del più lento. Dopo $5$ ore di volo i due distano $2000 \;Km$. Trova la velocità di ciascun aereo. 
 
 e) In una fattoria vi sono tra maiali e galline $45$ animali. Quanti sono i maiali e quante le galline sapendo che la somma complessiva delle zampe è $116$? 		$\text{[R. 32 galline e 13 maiali]}$
 
@@ -417,7 +417,7 @@ a) Un vecchio video game è stato ribassato da $48$ a $18€$. Quale è la perce
 
 b) Maria vende un immobile al prezzo di $\text{€ 84\;000}$, superiore del $5\%$ rispetto al prezzo che aveva pagato per acquistarlo. Quanto era costato l’immobile?
 
-c)^*^  Un supermarket propone una offerta del tipo “prendi $3$ e paghi $2$” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del $40\%$, quale dei due è più conveniente?
+c)^*^  Un supermarket propone una offerta del tipo “prendi $3$ e paghi $2$” su di un certo tipo di pasta, così che ogni tre pacchi acquistati di pasta ne paga due. Quale è la percentuale di sconto per i clienti che usufruiscono di questa promozione?  Se un altro supermarket fa uno sconto del $40\%$, quale dei due è più conveniente?
 
 
 
@@ -439,8 +439,8 @@ b) Trova l’età di una persona (in anni) in ciascuna delle seguenti situazioni
 c) Risolvi i seguenti problemi.
 
 1. Luca ha $53$ anni e sua figlia ne ha $21$. Fra quanti anni l’età di Luca sarà i $\dfrac{5}{3}$ dell’età di sua figlia?  
-2. ^*^  La differenza fra l’età di Paolo e quella di Marco è di $15$ anni. Quanti anni ha Paolo, sapendo che Marco ne ha il doppio?  
-3. ^*^  Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre. La sorella di mezzo ha cinque anni in meno della sorella maggiore. Quanti anni ha la sorella maggiore?
+2. ^*^  La differenza fra l’età di Paolo e quella di Marco è di $15$ anni. Quanti anni ha Paolo, sapendo che Marco ne ha il doppio?  
+3. ^*^  Tre sorelle hanno una età complessiva pari a $75$ anni. La maggiore delle tre ha una età pari ai tre mezzi dell’età della minore delle tre. La sorella di mezzo ha cinque anni in meno della sorella maggiore. Quanti anni ha la sorella maggiore?
 
 
 
@@ -629,21 +629,21 @@ c) $q$ monete da $25$ centesimi $7$ centesimi (in centesimi).
 
 
 ### ESERCIZIO 7.2 - Problemi sulle miscele
-a) Scrivi l’espressione del valore totale della merce in euro al chilo e semplifica (ricorda di trasformare tutte le quantità nella stessa unità di misura).
+a) Scrivi l’espressione letterale del valore totale della merce in euro al chilo e semplifica (ricorda di trasformare tutte le quantità nella stessa unità di misura).
 
 1. $3\; Kg$ di te al costo di un euro e cinquanta l’etto;
 2. $n\; Kg$ di caffè del costo di $90\;¢$ l’etto;
 3. $n + 3\; Kg$ di caffè del costo di $1.05€$ al $Kg$;
 4. $n\; Kg$ al costo di $1.75€$ al $Kg$;  
 
-b) Scrivi l’espressione del valore totale della merce in centesimi e semplifica
+b) Scrivi l’espressione letterale del valore totale della merce in centesimi e semplifica
 
 1. $n$ francobolli del costo di $35\; ¢$  ciascuno;
 2. $20 \:–\; n$ francobolli del costo di $50\; ¢$ l’uno;
 3. $x$ dozzine di matite del valore di $20\;¢$  l’una;
 4. $3$ dozzine di matite a $60\;¢$ la dozzina.
 
-c)^*^  Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di $0.23$ e $1.20 €/Kg$. 
+c)^*^  Un venditore di caffè ha creato una miscela di due caffè del valore rispettivamente di $0.23$ e $1.20 €/Kg$. 
 
 La miscela di $30\; Kg$ ha un valore di $1.02\; €/Kg$. Quanti $Kg$ di ciascun caffè ha utilizzato?
 
@@ -656,10 +656,25 @@ a) Un mattone pesa un chilo più mezzo mattone: quanto pesa il mattone?
 
 b) Una botte contiene $80$ litri di vino che vengono versati in $44$ bottiglie, parte da due litri e parte da un litro e mezzo. Quante sono le bottiglie da un litro e mezzo e quante quelle da due litri?		$R: \left[16\; e \; 28\right]$.  
 
-c)^*^  Un treno parte completo dalla stazione $A$; alla stazione $B$ scendono $42$ passeggeri e ne salgono $\dfrac{1}{24}$ di quelli rimasti; nella successiva stazione $C$ scendono $75$ passeggeri e ne salgono $\dfrac{3}{5}$ di quelli rimasti più altri $2$. Sapendo che alla partenza da $C$ il treno e di nuovo completo, determina quanti passeggeri stanno sul treno.		$R: \left[282\right]$.  
+c)^*^  Un treno parte completo dalla stazione $A$; alla stazione $B$ scendono $42$ passeggeri e ne salgono $\dfrac{1}{24}$ di quelli rimasti; nella successiva stazione $C$ scendono $75$ passeggeri e ne salgono $\dfrac{3}{5}$ di quelli rimasti più altri $2$. Sapendo che alla partenza da $C$ il treno e di nuovo completo, determina quanti passeggeri stanno sul treno.		$R: \left[282\right]$.  
 
 d) Per l’ingresso a uno spettacolo, ogni adulto paga $5$ euro in più rispetto a un bambino. Determina il prezzo del biglietto ridotto sapendo che $20$ bambini e $30$ adulti pagano $15$ euro di meno di quello che pagano $40$ bambini e $15$ adulti.		$R: \left[18\; €\right]$.
 
-e)^*^  Una azienda ha acquistato degli omaggi per i suoi clienti, in totale $500$, spendendo in tutto $4500$ euro. Per chi è cliente da più di un anno si è speso in media $10$ euro, per chi da meno di un anno $5$ euro. Quanti sono i soggetti clienti da più di un anno?
+e)^*^  Una azienda ha acquistato degli omaggi per i suoi clienti, in totale $500$, spendendo in tutto $4500$ euro. Per chi è cliente da più di un anno si è speso in media $10$ euro, per chi da meno di un anno $5$ euro. Quanti sono i soggetti clienti da più di un anno?
 
 f) Un bambino compra una caramella ed una cioccolata spendendo un euro e dieci centesimi. Se la cioccolata costa un euro in più della caramella, quanto costa la caramella? 
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - Problemi ed equazioni: quantità e misure: 1.1 a1. a2, b1, c1, c3
+
+#### UNITA'2 - Relazioni tra quantità e dipendenze: 2.1 a
+
+#### UNITA'3 - Incognite ed equazioni risolutive: 3.1 b, e
+
+#### UNITA'6 - Problemi su interesse ed investimenti: 6.2 a
+
+#### UNITA'7 - Problemi su monete e miscele: 7.1 b, 7.2 b1, 7.3 d
+

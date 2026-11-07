@@ -775,3 +775,25 @@ b) In un campionato una squadra di calcio ha giocato 36 partite, realizzando 52 
 1. la media dei punti a partita;
 2. la media dei goal segnati per partita e quella dei goal subiti. 
 
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - 
+
+#### UNITA'2 - 
+
+#### UNITA'3 - 
+
+#### UNITA'4 - 
+
+#### UNITA'5 - 
+
+#### UNITA'6 - 
+
+#### UNITA'7 - 
+
+#### UNITA'8 - 
+
+
+

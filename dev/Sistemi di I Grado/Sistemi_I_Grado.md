@@ -96,7 +96,7 @@ Le due soluzioni trovate sono $(0,5)$ e $(1, 4)$.     $\bullet$
 
 ### ESERCIZIO 1.1 - Verifica di soluzioni di equazioni con due incognite
 
-a) Verifica di quale equazione è soluzione la coppia di numeri proposta nei punti seguenti.    
+a) Verifica di quale delle due equazioni è soluzione la coppia di numeri proposta nei punti seguenti.    
 
 1. $(3;1)$     $eq1: 5x-3y=12$;    $eq2: x-2y=1$;
 
@@ -170,7 +170,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 
 
-## UNITA' 3: Sistema di equazioni e metodo di soluzione
+## UNITA' 3: Sistema di equazioni e metodo risolutivo
 
 Un ***sistema*** di equazioni è un gruppo (due) di equazioni (in due incognite) **di cui si cercano le soluzioni comuni**, ossia le coppie di numeri che siano soluzioni simultaneamente di tutte le equazioni. Mentre una equazione ha solitamente infinite soluzioni, due equazioni hanno solitamente (ossia tranne casi particolari) una sola soluzione. Per trovarla si utilizza un metodo detto di ***sostituzione*** che si articola in 4 passi. Per illustrare il metodo risolveremo il sistema seguente:
 
@@ -469,3 +469,20 @@ $$
 risolvi la prima considerando come incognita la lettera $M$ e componila con la seconda;
 
 b) Esplicita la formula risultante rispetto alla lettera $N$.
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - Equazioni con due incognite e loro soluzioni: 1.1 a1, a2, 1.2 a
+
+#### UNITA'2 - Equazioni in forma esplicita: 2.1 a2, b1, b2
+
+#### UNITA'3 - Sistema di equazioni e metodo risolutivo: 3.1 a1, a2
+
+#### UNITA'4 - Problemi di I grado risolubili con un sistema: 4.1 a, c
+
+#### UNITA'5 - Eliminazione di Lettere e Sostituzioni: 5.1 a, b
+
+
+

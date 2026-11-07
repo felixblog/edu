@@ -229,7 +229,7 @@ b) Risolvi il punto b) dell'esercizio con l'istruzione GEOGEBRA: $\{y = \dfrac{1
 
 
 
-## UNITA' 4: Dalla retta all'equazione
+## UNITA' 3: Dalla retta all'equazione
 
 Le lettere $m$ e $q$ nell'equazione della retta generica indicano due numeri molto importanti che si chiamano rispettivamente ***coefficiente angolare*** ed ***intercetta all'asse delle $\mathbf{y}$***. Ricorda che per poter parlare di coefficiente angolare ed intercetta all'asse delle $y$, l'equazione deve essere nella forma $y = \text{numero} \cdot x + \text{numero}$.
 
@@ -275,7 +275,7 @@ Per cui l'equazione della a retta cercata è $y = \dfrac{1}{2}x$.     $\bullet$
 
 
 
-### ESERCIZIO 4.1 - Coefficiente angolare di una retta
+### ESERCIZIO 3.1 - Coefficiente angolare di una retta
 
 Calcola il coefficiente angolare delle rette passanti per ciascuna delle seguenti coppie di punti  
 a) $\{(4, -5), (2, 3)\};$ 
@@ -288,7 +288,7 @@ c) $\{(4, \dfrac{1}{2}), (\dfrac{2}{3}, -2)\}$.
 
 a) Risolvi il punto a.1) dell'esercizio con l'istruzione GEOGEBRA: $m = \dfrac{-2 - 1}{-1 - \dfrac{1}{2}}$ &#9166; .
 
-### ESERCIZIO 4.2 - Equazione della retta passante per due punti
+### ESERCIZIO 3.2 - Equazione della retta passante per due punti
 
 a) Scrivi l'equazione della retta passante per i punti A e B dati nei casi seguenti.  
 
@@ -314,7 +314,7 @@ b) Scrivi la sequenza di istruzioni GEOGEBRA per disegnare le rette rappresentat
 
 
 
-## UNITA' 5: Significato geometrico di m e q
+## UNITA' 4: Significato geometrico di m e q
 
 Per parlare di significato geometrico di $m$ e $q$ come prima cosa dobbiamo assicurarci che l'equazione della retta sia in forma esplicita. Se non lo è, il primo passo per individuare $m$ e $q$ è quello di metterla in ***forma esplicita***. Per fare questo bisogna risolvere l'equazione della retta data rispetto alla $y$, come se $y$ fosse l'unica incognita. Bisogna poi scrivere la soluzione come "$\text{monomio in x} + \text{numero}$" e prendere come $m$ la parte numerica del monomio e come $q$ il numero rimanente.
 
@@ -406,7 +406,7 @@ Due rette sono perpendicolari se sono incidenti e "dividono il piano in quattro 
 
 
 
-### ESERCIZIO 5.1 - Rette parallele e perpendicolari
+### ESERCIZIO 4.1 - Rette parallele e perpendicolari
 
 a) Date le cinque equazioni delle rette seguenti, stabilisci quali sono parallele e quali perpendicolari
 
@@ -433,7 +433,7 @@ a) Risolvi il punto d.1 dell'esercizio dell'esercizio con la sequenza di istruzi
 
 
 
-## UNITA' 6: Intersezione di due rette
+## UNITA' 5: Intersezione di due rette
 
 Due rette in un piano cartesiano, normalmente, non sono ne parallele ne coincidenti, cioè geometricamente si intersecano in un solo punto. Dal punto di vista delle equazioni, la coppia di coordinate del punto di intersezione è soluzione di entrambe le equazioni delle rette, ossia è soluzione del loro sistema. Se ne deduce che, avendo due equazioni di due rette, per trovare le coordinate del punto di intersezione delle rette bisogna risolvere il sistema di due equazioni in due incognite. 
 
@@ -483,7 +483,7 @@ che hanno come soluzione rispettivamente $(-\dfrac{1}{3}, 0)$ e $(0, 1)$.
 
 
 
-### ESERCIZIO 6.1 - Sistemi di equazioni lineari e piano cartesiano
+### ESERCIZIO 5.1 - Sistemi di equazioni lineari e piano cartesiano
 
 Dati i sistemi seguenti, per ciascuno di essi disegna le due rette, controlla se la coppia fornita è il loro punto di intersezione e, nel caso non lo fosse, trovalo. 
 
@@ -519,7 +519,7 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-### ESERCIZIO 6.2 - Intersezione con gli assi e parallelismo
+### ESERCIZIO 5.2 - Intersezione con gli assi e parallelismo
 
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
@@ -549,7 +549,7 @@ c) Risolvi il punto c) dell'esercizio con l'istruzione GEOGEBRA: $Retta((-1,-1),
 
 
 
-### ESERCIZIO 6.3 - Pendenza di una linea
+### ESERCIZIO 5.3 - Pendenza di una linea
 
 a) Trova, in assoluto ed in percentuale, la pendenza della linea di equazione $3x + 4y = 12$.
 
@@ -566,7 +566,7 @@ d) Un auto viaggia da Napoli a Roma percorrendo circa $250\; Km$ in $3$ ore e $1
 
 
 
-## UNITA' 7: Intervalli di positività e negatività
+## UNITA' 6: Intervalli di positività e negatività
 
 Un problema importante che ci si pone quando abbiamo l'equazione di una retta è quello di individuare tutte le ascisse (la $x$) dei punti della retta che stanno nel semipiano positivo. Questo insieme è un intervallo detto **intervallo di positività**; determinarlo significa individuarne gli estremi.
 
@@ -588,7 +588,7 @@ Se la retta non interseca l'asse delle $x$, il suo grafico sarà o tutto nel sem
 
 
 
-### ESERCIZIO 7.1 - Intervallo di Positività
+### ESERCIZIO 6.1 - Intervallo di Positività
 
 a) Per ciascuna delle rette seguenti, disegna il grafico e trova l'intervallo di positività.
 
@@ -604,3 +604,22 @@ b) Individua per quali intervalli dell'asse delle $x$ i polinomi seguenti sono p
 3. $11;$
 4. $\dfrac{11}{8}(x-16)$;
 5. $-2x + 11$.
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - Piano cartesiano ed equazioni con due incognite: 
+
+#### UNITA'2 - Dall'equazione alla retta: 
+
+#### UNITA'3 - Dalla retta all'equazione: 
+
+#### UNITA'4 - Significato geometrico di m e q: 
+
+#### UNITA'5 - Intersezione di due rette: 
+
+#### UNITA'6 - Intervalli di positività e negatività: 
+
+
+

@@ -574,7 +574,7 @@ a) L'agenzia di noleggio auto EZ ha dei prezzi alla clientela che, per il nolegg
 
 b) Sempre l'agenzia di noleggio EZ, per la gestione del suo parco automezzi, sostiene dei costi che, per ogni auto, sono la somma di un costo fisso di ammortamento e di uno variabile, che dipende dai Km percorsi, di manutenzione.
 
-I costi annui si possono calcolare considerando che, dopo $10$ anni di utilizzo, il valore di un'automobile acquistata nuova per $30\; 000$ euro ha un valore nullo e per la manutenzione, se si percorrono mediamente $60\; Km/giorno$ per $150$ giorni l'anno, si spendono $1\; 000$  euro l'anno (ossia $0,111$ euro al giorno al Km).
+I costi annui si possono calcolare considerando che, dopo $10$ anni di utilizzo, il valore di un'automobile acquistata nuova per $30\; 000$ euro ha un valore nullo e per la manutenzione, se si percorrono mediamente $60\; Km/giorno$ per $150$ giorni l'anno, si spendono $1\; 000$  euro l'anno (ossia $0,111$ euro al giorno al Km).
 
 1.  Considerando $x$ giorni di utilizzo l'anno, calcola i costi totali per la gestione di un'auto da $30\; 000$ euro dell'agenzia EZ come somma di costi fissi e costi variabili (in dipendenza del numero dei giorni) annui; fai l'ipotesi di una percorrenza media giornaliera di $60 \; Km$;
 2.  Nelle ipotesi del punto 1 e ricavando dalla risposta dell'esercizio a.1) i ricavi giornalieri del noleggio, scrivi la formula del ricavo annuo, supponendo che l'auto sia utilizzata $x$ giorni l'anno;
@@ -595,3 +595,20 @@ a) Una società di film a noleggio ha $1\; 000$$ abbonati ognuno dei quali paga 
 Quale è la curva di domanda, ossia la formula che esprime il numero $d$ di abbonati in dipendenza del prezzo $p$?
 
 b) $50$ studenti, contribuendo ciascuno con $5$ euro, riescono a raccogliere $250$ euro per un regalo. Da questo punto in poi però, decidono che per ogni studente in più che aderisce, la somma da versare diminuirà di $5$ centesimi per tutti. Quanti studenti dovranno contribuire per ottenere la somma massima possibile?
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - Modelli matematici e funzioni: 
+
+#### UNITA'2 - Proporzionalità diretta ed inversa: 
+
+#### UNITA'3 - Relazioni lineari tra grandezze: 
+
+#### UNITA'4 - Crescenza, decrescenza ed esempi di funzioni: 
+
+#### UNITA'5 - Applicazioni dei modelli lineari: modelli decisionali: 
+
+
+

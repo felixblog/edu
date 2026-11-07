@@ -196,7 +196,7 @@ b) Calcola il valore attuale con interesse composto dei seguenti capitali alle c
 ### ESERCIZIO 3.4 - Interesse composto: valore attuale II
 a) Scontiamo una cambiale del valore di $20\,000$ euro scadente fra $5$ anni con sconto composto al tasso del $12\%$. Investiamo subito la somma riscossa al lasso del $16\%$. Quale guadagno realizzeremo fra $5$ anni?
 
-b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: $60\,000$ euro alla stipulazione del contralto e tre somme di euro $30\,000$ ciascuna scadenti fra $2$, $4$ e $6$ anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del $9\%$. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? 
+b) Per l’acquisto di un alloggio sono richiesti i seguenti pagamenti: $60\,000$ euro alla stipulazione del contralto e tre somme di euro $30\,000$ ciascuna scadenti fra $2$, $4$ e $6$ anni. Se si vuole pagare tutto subito si applica lo sconto composto al tasso annuo del $9\%$. Quale somma complessivamente si deve pagare alla stipulazione del contratto per acquistare l’alloggio in contanti? 
 
 
 
@@ -230,6 +230,18 @@ b) Determinare il tasso annuo di interesse $i$ di un investimento sapendo che il
 ### ESERCIZIO 4.2 - Tassi nominali convertibili
 
 a)  Determinare il tasso nominale annuo di interesse convertibile $3$ volte all’anno associato al tasso annuo di interesse del $3.7\%$.
+
+
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - Concetti fondamentali e capitalizzazione: 
+
+#### UNITA'2 - Operazioni di Attualizzazione e Sconto: 
+
+#### UNITA'3 - Regime dell'interesse composto: 
+
+#### UNITA'4 - Tassi equivalenti e tassi nominali
 
 
 

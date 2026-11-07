@@ -298,7 +298,7 @@ I valori della funzione diventano subito molto grandi per $x = 5$, $x = 10$, men
 
 ### Logaritmi e Funzioni Logaritmiche
 
-Il logaritmo di un numero, ad esempio $8$, in base $2$, è quel numero che dato per esponente a $2$ da $8$. Come si vede dal fatto che $2^3 = 8$, il logaritmo di $8$ è $3$ ed in simboli matematici lo scriviamo:
+Il logaritmo di un numero, ad esempio $8$, in base $2$, è quel numero che dato per esponente a $2$ da $8$. Come si vede dal fatto che $2^3 = 8$, il logaritmo di $8$ è $3$ ed in simboli matematici lo scriviamo:
 $$
 log_2{8} = 3\text{ perchè } 2^3 = 8
 $$
@@ -345,7 +345,7 @@ Analogamente a $\log_2{x}$ esistono le funzioni $log_5{x}$, $log_{10}{x}$ e cos�
 $$
 log_a{x} = y\text{ perchè } 2^y = x
 $$
-  
+
 
 ### ESERCIZIO 3.1 - Funzioni lineari
 
@@ -600,5 +600,21 @@ a) Calcolo dell'inversa della funzione $f(x) = \dfrac{1}{1 + x}$;
 
 
 
+## ESERCIZI DA RICORDARE
 
+#### UNITA'1 - 
+
+#### UNITA'2 - 
+
+#### UNITA'3 - 
+
+#### UNITA'4 - 
+
+#### UNITA'5 - 
+
+#### UNITA'6 - 
+
+#### UNITA'7 - 
+
+#### UNITA'8 - 
 
