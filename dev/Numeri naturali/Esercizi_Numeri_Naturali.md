@@ -683,7 +683,7 @@ $$
  L \setminus V &= \{b, c, d\} \\
 \end{flalign*}
 $$
-     $\bullet$
+     $\bullet$
 
 Da ultimo introduciamo il concetto di sottoinsieme. Se tutti gli elementi di un insieme $A$ sono anche elementi dell'insieme $B$ si dice che $A$ è **sottoinsieme** di $B$ e si scrive
 $$
@@ -962,21 +962,21 @@ a) Trova i numeri che sostituiti ai punti interrogativo ed esclamativo rendono v
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1: 1.1 a.3, a.5, b.5, b.7
+#### UNITA'1: 1.1 a3, a5, b5, b7
 
 #### UNITA'2: 2.1 b, d
 
 #### UNITA'4: 4.1 c, e
 
-#### UNITA'5: 5.1 a.2, 5.3 a.2, a.3
+#### UNITA'5: 5.1 a2, 5.3 a2, a3
 
-#### UNITA'6: 6.1 b.5
+#### UNITA'6: 6.1 b5
 
-#### UNITA'7: 7.1 a.2, b
+#### UNITA'7: 7.1 a2, b
 
-#### UNITA'8: 8.1 e.2
+#### UNITA'8: 8.1 e2
 
-#### UNITA'9: 9.1 b.2
+#### UNITA'9: 9.1 b2
 
 
 

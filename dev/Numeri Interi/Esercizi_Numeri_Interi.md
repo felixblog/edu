@@ -1009,12 +1009,12 @@ b) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri in
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'4: 4.1 a.2, a.4
+#### UNITA'4: 4.1 a2, a4
 
-#### UNITA'5: 5.1 a.2, b.1, b.3, c.4, c.6
+#### UNITA'5: 5.1 a2, b1, b3, c4, c6
 
-#### UNITA'7: 7.1 a.2, b.2
+#### UNITA'7: 7.1 a2, b2
 
-#### UNITA'8: 8.1 b.2, b.3, 8.3 b.3
+#### UNITA'8: 8.1 b2, b3, 8.3 b3
 
-#### UNITA'9: 9.1 a.2
+#### UNITA'9: 9.1 a2

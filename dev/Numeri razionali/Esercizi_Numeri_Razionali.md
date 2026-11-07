@@ -1142,19 +1142,19 @@ b)^*^  I pellerossa americani non usavano monete ma barattavano tra di loro gli 
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1: 1.1 a.1, a.6
+#### UNITA'1: 1.1 a1, a6
 
 #### UNITA'2: 2.2 a
 
-#### UNITA'3: 3.3 b.1, b.2
+#### UNITA'3: 3.3 b1, b2
 
-#### UNITA'4: 4.3 a.2 
+#### UNITA'4: 4.3 a2 
 
-#### UNITA'5: 5.1 b.2, b.3
+#### UNITA'5: 5.1 b2, b3
 
-#### UNITA'6: 6.1 a.2, a.3
+#### UNITA'6: 6.1 a2, a3
 
-#### UNITA'7: 7.2 a.2, 7.4 a.1
+#### UNITA'7: 7.2 a2, 7.4 a1
 
-#### UNITA'8: 8.1 a.4, 8.2 b.2
+#### UNITA'8: 8.1 a4, 8.2 b2
 

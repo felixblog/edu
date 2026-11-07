@@ -801,17 +801,15 @@ a) Risolvi l'equazione a.6) dell'esercizio con la sequenza di comandi GEOGEBRA r
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1: 1.1 a3, b.3
+#### UNITA'1: 1.1 a3, b3
 
-#### UNITA'3: 
+#### UNITA'2: 2.2 a2, b3, b5
 
-#### UNITA'4: 
+#### UNITA'4: 4.1 c
 
-#### UNITA'5: 
+#### UNITA'6: 6.1 a2, b1
 
-#### UNITA'6: 
+#### UNITA'7: 7.1 a2, a3, b2, b3
 
-#### UNITA'8: 
 
-#### UNITA'9: 
 

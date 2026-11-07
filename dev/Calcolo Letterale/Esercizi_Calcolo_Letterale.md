@@ -184,7 +184,7 @@ $$
 $$
 
 
-Particolarmente importanti sono i monomi con una sola lettera, ad esempio la $x$ che vengono chiamati "monomi in $x$", ad esempio $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
+I monomi più comuni sono quelli con una sola lettera, ad esempio la $x$, come $x$, $-2x$, $-\dfrac{2}{3}x^3$. In questi monomi il grado coincide con l'esponente della $x$.
 
 Il monomio è il "**mattone**" con cui costruiamo le espressioni letterali, che saranno quindi fatte di somme (algebriche), prodotti, e rapporti di monomi come $a + \dfrac{1}{2}ab^2$,  $2s + 3s^2 + 1$ etc. 
 
@@ -208,10 +208,13 @@ b) Individua quali tra le seguenti espressioni letterali sono monomi e scrivili 
 5.  $a + 2a^2$;
 6.  $\dfrac{ab^2x}{3}$.
 
-c) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti dopo averli scritti in forma normale (ad esempio per il monomio $2ax$ il coefficiente di $x$ è $2a$).
+c) Scrivi il coefficiente del monomio considerando la $x$ come unica lettera, dopo averli scritti in forma normale (ad esempio per il monomio $2ax$ il coefficiente di $x$ è $2a$).
 
-1. $axb$;      $-axa^2$;      $-\dfrac{a^2x}{3}$;
-2. $-2ax \cdot (-3)abx$;      $ax\left(-\dfrac{1}{2}\right)a^{2}$.
+1. $axb$;
+2. $-axa^2$;
+3. $-\dfrac{a^2x}{3}$;
+4. $-2ax \cdot (-3)abx$;
+5. $ax\left(-\dfrac{1}{2}\right)a^{2}$.
 
 #### Laboratorio GEOGEBRA
 
@@ -290,28 +293,45 @@ Diciamo infatti che:
 
 Questa operazione di somma si dice anche **semplificazione**, perché con essa sostituiamo, ad una espressione che ha due monomi ed una somma algebrica, una espressione costituita da un solo monomio, e quindi più semplice.
 
-$\underbrace{-3x \overset{\overset{+/-}\downarrow}\ +2x}$ $\longrightarrow \underline{-x}$
-
+$$
+\xymatrix{
+\underbrace{-3x \overset{\overset{+/-}\downarrow}\ +2x} \ar[d] \\
+-x
+}
+$$
 La somma di due monomi **non** simili **non** è un singolo monomi ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
 
 #### ESEMPIO 1
 
-a) Sommiamo i monomi $-3x$ e $2x$:
+Sommiamo i monomi $-3x$ e $2x$:
 
-1. $-3x + 2x$;
-2. $(-3 + 2)x$;
-3. $-x$.
+a) $-3x + 2x$;
 
-b) Sommiamo i monomi $5ax^2$, $2ax^2$ e $-10ax^2$: 
+b) $(-3 + 2)x$;
 
-1. $5ax^2 + 2ax^2 -10ax^2$;
-2. $(5 +2-10)x^2$;
-3. $-3ax^2$.
+c) $-x$.    $\bullet$
 
-c) Sommiamo $-3x$ e $2x^2$:
 
-1. $-3x + 2x^2$;
-2. $-3x + 2x^2$.   I monomi non sono simili, non si sommano e la somma **non è un monomio!**     $\bullet$
+
+#### ESEMPIO 2
+
+Sommiamo i monomi $5ax^2$, $2ax^2$ e $-10ax^2$: 
+
+a) $5ax^2 + 2ax^2 -10ax^2$;
+
+b) $(5 +2-10)x^2$;
+
+c) $-3ax^2$.    $\bullet$
+
+
+
+#### ESEMPIO 3
+
+Sommiamo $-3x$ e $2x^2$:
+
+a) $-3x + 2x^2$;
+
+b) $-3x + 2x^2$.   I monomi non sono simili, non si sommano e la somma **non è un monomio!**     $\bullet$
 
 
 
@@ -960,17 +980,17 @@ b) Semplifica le seguenti espressioni.
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'2: 2.1 a.2, a3, 2.2 a.2
+#### UNITA'2: 2.1 a2, a3, 2.2 a2
 
-#### UNITA'3: 3.1 a.4, 3.2 a.1
+#### UNITA'3: 3.1 a4, 3.2 a1
 
-#### UNITA'4: 4.1 a.3 
+#### UNITA'4: 4.1 a3 
 
 #### UNITA'5: 5.1 b, d
 
-#### UNITA'6: 6.1 a.3, a.5
+#### UNITA'6: 6.1 a3, a5
 
-#### UNITA'8: 8.1 a.1, b.2
+#### UNITA'8: 8.1 a1, b2
 
-#### UNITA'9: 9.1 b.1, b.3
+#### UNITA'9: 9.1 b1, b3
 
