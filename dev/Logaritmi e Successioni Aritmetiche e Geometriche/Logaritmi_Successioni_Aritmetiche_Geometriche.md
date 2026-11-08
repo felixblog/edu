@@ -9,7 +9,7 @@ Nel primo caso la soluzione è $5$, perché $2^5 = 32$, nel secondo è $3$ perch
 
 Questi sono casi molto semplici in cui la soluzione si trova facendo qualche tentativo. Vediamo qualche altro caso meno semplice.
 
-Le radici sono potenze con esponente frazionario. Abbiamo già visto che la radice di $4$ è $2$, cioè $\sqrt{4} = 4$, ma anche che $4^\frac{1}{2} = 2$, per cui possiamo dedurre che la soluzione dell'equazione $4^x=2$ è proprio $\dfrac{1}{2}$. Come altro esempio vediamo che poichè $\sqrt[3]{125}$ è uguale a $125^\frac{1}{3}$ e che $\sqrt[3]{125} = 5$ abbiamo che la soluzione di $125^x=5$ è $\dfrac{1}{3}$.
+Le radici sono potenze con esponente frazionario. Abbiamo già visto che la radice di $4$ è $2$, cioè $\sqrt{4} = 4$, ma anche che $4^\frac{1}{2} = 2$, per cui possiamo dedurre che la soluzione dell'equazione $4^x=2$ è proprio $\dfrac{1}{2}$. Come altro esempio vediamo che poichè $\sqrt[3]{125}$ è uguale a $125^\frac{1}{3}$ e che $\sqrt[3]{125} = 5$ abbiamo che la soluzione di $125^x=5$ è $\dfrac{1}{3}$.
 
 Le soluzioni di queste equazioni, in cui una potenza con esponente incognito è uguale ad un numero, le indichiamo in un modo particolare, e le chiamiamo **logaritmi**, per cui la soluzione di $5^x=125$ si scrive $log_5{125}$ ed è uguale a $3$, per cui possiamo scrivere:
 $$
@@ -51,15 +51,18 @@ b) Determina il valore di $x$ essendo noti il logaritmo e la base.
 
 ### ESERCIZIO 1.2 - Le potenze
 
-a) Calcola le seguenti espressioni con GEOGEBRA.
+a) Calcola le seguenti espressioni con la calcolatrice o con GEOGEBRA.
 
 1. $3^{\frac{1}{4}} \cdot 3^{\frac{3}{4}}$;
 2. $10^{\frac{3}{2}} \cdot 10^{\frac{2}{3}} \cdot 10^{-\frac{1}{6}}$;
 3. $\left(\dfrac{2}{3}\right)^{\frac{1}{2}}\cdot \left(\dfrac{2}{3}\right)^{\frac{3}{2}}$;
 4. $\left(\dfrac{3}{4}\right)^{\frac{1}{3}} \cdot \left(\dfrac{3}{4}\right)^{-1}$;
-5. ^*^  $\left(2^{-2} \cdot 2 \cdot 2^{\frac{1}{3}}\right)^{-\frac{3}{2}}$;
-6. ^*^  $4^{\frac{3}{4}} \cdot \left( 4^{\frac{1}{2}} \cdot 4^{\frac{1}{2}}\right)^{-3}$;
-7. ^*^  $\left(9^{\frac{1}{3}} \cdot 9^{-1} : 9^{-2}\right)^{\frac{1}{2}}$.
+
+b^*^) Calcola le seguenti espressioni con la calcolatrice o con GEOGEBRA.
+
+1. ^*^  $\left(2^{-2} \cdot 2 \cdot 2^{\frac{1}{3}}\right)^{-\frac{3}{2}}$;
+2. ^*^  $4^{\frac{3}{4}} \cdot \left( 4^{\frac{1}{2}} \cdot 4^{\frac{1}{2}}\right)^{-3}$;
+3. ^*^  $\left(9^{\frac{1}{3}} \cdot 9^{-1} : 9^{-2}\right)^{\frac{1}{2}}$.
 
 
 
@@ -100,7 +103,7 @@ b)^*^  Applica le proprietà dei logaritmi per scrivere le seguenti come espress
 
 ## UNITA' 3: Equazioni logaritmiche ed esponenziali
 
-### ESERCIZIO 2.3 - Equazioni logaritmiche
+### ESERCIZIO 3.1 - Equazioni logaritmiche
 
 a) Utilizzando GEOGEBRA risolvi le seguenti equazioni logaritmiche.
 
@@ -123,22 +126,27 @@ $\longrightarrow \{x = 3\}$
 
 
 
-### ESERCIZIO 2.4 - Equazioni esponenziali II
+### ESERCIZIO 3.2 - Equazioni esponenziali II
 
 a) Utilizzando GEOGEBRA, trova un valore approssimato della soluzione delle equazioni esponenziali riportate di seguito.
 
-1. $5^x=8$;      $6^{2x}=12$;
-2. $(1,12)^x=2,3745$;       $(1,086)^{-x}=0,82478$;
-3. $3^{2x}=5 \cdot 2^{x+1}$;
-4. $3^{x+1} \cdot 5^{2x-1}=15$;
-5. $(1,065)^{2x}=3$;
-6. $(1,086)^{-x}=0,82478$.
+1. $5^x=8$;
+2. $6^{2x}=12$;
+3. $(1,12)^x=2,3745$;
+4. $(1,086)^{-x}=0,82478$.
+
+b) Utilizzando GEOGEBRA, trova un valore approssimato della soluzione delle equazioni esponenziali riportate di seguito.
+
+1. $3^{2x}=5 \cdot 2^{x+1}$;
+2. $3^{x+1} \cdot 5^{2x-1}=15$;
+3. $(1,065)^{2x}=3$;
+4. $(1,086)^{-x}=0,82478$.
 
 
 
-## UNITA' 3: Successioni aritmetiche e geometriche
+## UNITA' 4: Successioni aritmetiche e geometriche
 
-### ESERCIZIO 3.1 - Successioni Aritmetiche
+### ESERCIZIO 4.1 - Successioni Aritmetiche
 
 a) Scrivi i primi $5$ termini delle successioni indicate di seguito e calcolane la somma.
 
@@ -177,7 +185,7 @@ a) Risolvi il punto a.2) dell'esercizio con la sequenza di comandi GEOGEBRA:
 
 
 
-### ESERCIZIO 3.2 - Successioni Geometriche
+### ESERCIZIO 4.2 - Successioni Geometriche
 
 a) Scrivi i primi $5$ termini delle successioni indicate di seguito e calcolane la somma.
 
@@ -193,4 +201,14 @@ b)^*^  Utilizzando GEOGEBRA scrivi i primi 10 termini delle successioni indicate
 3. $a_1 = \sqrt{3}, a_2 = 3, a_3 = 3\sqrt{3}, ...$;
 
 
+
+## ESERCIZI DA RICORDARE
+
+#### UNITA'1 - I logaritmi: 1.1 a1, a3, a5, b2
+
+#### UNITA'2 - Proprietà delle potenze e dei logaritmi: 2.1 a1, a2
+
+#### UNITA'3 - Equazioni logaritmiche ed esponenziali: 3.2 a1, a2
+
+#### UNITA'4 - Successioni aritmetiche e geometriche: 4.1 a1, a2, b1
 

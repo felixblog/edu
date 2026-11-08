@@ -841,12 +841,20 @@ g) $\dfrac{34}{25}$.    $\bullet$
 
 ### ESERCIZIO 6.1 - Sostituzioni (I)
 
-a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri o le espressioni indicat3 tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
+a) Scrivi le espressioni numeriche ottenute sostituendo alle lettere i numeri o le espressioni indicate tra parentesi graffe e poi calcola il loro valore (ricorda che la frazione deve essere sostituita tra parentesi tonda).
 
-1. $x^2,\ \{x=\dfrac{1}{2}\}$;     $x^2,\ \{x=-\dfrac{1}{2}\}$;     $-x^2,\ \{x=\dfrac{1}{2}\}$;     $-x^2,\ \{x=-\dfrac{1}{2}\}$;
-2. $-2 \cdot x + x^2 + 1,\ \{x=-\dfrac{2}{5}\}$;
-3. $(1 - y) \cdot y + 3,\ \{y=-\dfrac{5}{2} -1\}$;
-4. $(1 - y) \cdot y + 3,\ \{y=\dfrac{1}{2} + 1\}$;     $(1 - y) \cdot y + 3,\ \{y=-\dfrac{1}{2}\}$;     $(1 - y) \cdot y + 3,\ [y=\dfrac{0}{2}]$.
+1. $x^2,\ \{x=\dfrac{1}{2}\}$;
+2. $x^2,\ \{x=-\dfrac{1}{2}\}$;
+3. $-x^2,\ \{x=\dfrac{1}{2}\}$;
+4. $-x^2,\ \{x=-\dfrac{1}{2}\}$;
+
+b) Effettua le sostituzioni indicate e calcola il valore dell'espressione numerica ottenuta.
+
+1. $-2 \cdot x + x^2 + 1,\ \{x=-\dfrac{2}{5}\}$;
+2. $(1 - y) \cdot y + 3,\ \{y=-\dfrac{5}{2} -1\}$;
+3. $(1 - y) \cdot y + 3,\ \{y=\dfrac{1}{2} + 1\}$;
+4. $(1 - y) \cdot y + 3,\ \{y=-\dfrac{1}{2}\}$;
+5. $(1 - y) \cdot y + 3,\ [y=\dfrac{0}{2}]$.
 
 
 
@@ -1152,7 +1160,7 @@ b)^*^  I pellerossa americani non usavano monete ma barattavano tra di loro gli 
 
 #### UNITA'5 - Divisione ed espressioni con le frazioni: 5.1 b2, b3
 
-#### UNITA'6 - Sostituzioni: 6.1 a2, a3
+#### UNITA'6 - Sostituzioni: 6.1 a2, a3, b2
 
 #### UNITA'7 - Potenze con le frazioni: 7.2 a2, 7.4 a1
 

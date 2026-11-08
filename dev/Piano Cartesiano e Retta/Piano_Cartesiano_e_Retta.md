@@ -524,13 +524,16 @@ a) Risolvi il punto b) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 a) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
 1. $y - \dfrac{1}{2}x = 5$;
-2. $y +\dfrac{-1}{3}x - 4 = 0$;  
-3. $x+3y=-1$;
-4. $x-y=7$.
+2. $y +\dfrac{-1}{3}x - 4 = 0$;
 
-b) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
+b) Trova i punti di intersezione con gli assi delle rette riportate di seguito
 
-c) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto $(-1; -1)$.
+1. $x+3y=-1$;
+2. $x-y=7$.
+
+c) Scrivi l'equazione di una retta di coefficiente $-1$ e passante per il punto $(0; 3)$.
+
+d^*^) Scrivi l'equazione di una retta parallela a quella di equazione $y - \dfrac{1}{2}x = 5$ e passante per il punto $(-1; -1)$.
 
 #### Laboratorio GEOGEBRA
 
@@ -609,17 +612,17 @@ b) Individua per quali intervalli dell'asse delle $x$ i polinomi seguenti sono p
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1 - Piano cartesiano ed equazioni con due incognite: 
+#### UNITA'1 - Piano cartesiano ed equazioni con due incognite: 1.1 a, b
 
-#### UNITA'2 - Dall'equazione alla retta: 
+#### UNITA'2 - Dall'equazione alla retta: 2.1 a2, a3, b1
 
-#### UNITA'3 - Dalla retta all'equazione: 
+#### UNITA'3 - Dalla retta all'equazione: 3.1 a, b, 3.2 a, b
 
-#### UNITA'4 - Significato geometrico di m e q: 
+#### UNITA'4 - Significato geometrico di m e q: 4.1 a2
 
-#### UNITA'5 - Intersezione di due rette: 
+#### UNITA'5 - Intersezione di due rette: 5.2 b, c
 
-#### UNITA'6 - Intervalli di positività e negatività: 
+#### UNITA'6 - Intervalli di positività e negatività: 6.1 a2, a3, b2
 
 
 
