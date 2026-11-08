@@ -235,13 +235,13 @@ a)  Determinare il tasso nominale annuo di interesse convertibile $3$ volte allâ
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1 - Concetti fondamentali e capitalizzazione: 
+#### UNITA'1 - Concetti fondamentali e capitalizzazione: 1.1 a, c, 1.2 b, c
 
-#### UNITA'2 - Operazioni di Attualizzazione e Sconto: 
+#### UNITA'2 - Operazioni di Attualizzazione e Sconto: 2.1 a, b
 
-#### UNITA'3 - Regime dell'interesse composto: 
+#### UNITA'3 - Regime dell'interesse composto: 3.1 a1, b1, 3.3 a1, b1, 3.4 a
 
-#### UNITA'4 - Tassi equivalenti e tassi nominali
+#### UNITA'4 - Tassi equivalenti e tassi nominali: 4.1 a
 
 
 

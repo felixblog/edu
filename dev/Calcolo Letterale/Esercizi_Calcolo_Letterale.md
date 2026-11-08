@@ -561,13 +561,13 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO 5.2 - Rappresentazione delle espressioni letterali
+### ESERCIZIO 5.2^*^ - Rappresentazione ad albero delle espressioni letterali
 
 a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero. Esegui le operazioni e scrivi i risultati in forma normale.
 
 1.    
 
-   ![Albero](img\expr1p.png)
+   <img src="img\expr1p.png" alt="Albero" style="zoom:80%;" />
 
    
 
@@ -577,7 +577,7 @@ a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero. Ese
 
    
 
-   ![Albero](img\expr2p.png)
+   <img src="img\expr2p.png" alt="Albero" style="zoom:80%;" />
 
    
 
@@ -587,7 +587,7 @@ a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero. Ese
 
    
 
-   ![Albero](img\expr3p.png)
+   <img src="img\expr3p.png" alt="Albero" style="zoom:80%;" />
 
    
 
@@ -782,7 +782,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 7^*^: Scomposizione in fattori di polinomi 
+## UNITA' 7^*^: Scomposizione di polinomi in fattori 
 
 Nelle unità precedenti abbiamo visto come si calcola il prodotto di un monomio per un polinomio (ed il prodotto di due polinomi). Ora vediamo se e come si può fare l'operazione inversa, ossia riconoscere se un polinomio si può anche scrivere come prodotto tra un monomio ed un polinomio. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché, come nel caso dei numeri in cui abbiamo scomposto un numero in fattori, ad esempio $15 = 3 \cdot 5$ oppure $12 = 3 \cdot 2^2$, ha l'obiettivo di scrivere un polinomio come prodotto.
 

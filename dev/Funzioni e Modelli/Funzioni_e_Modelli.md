@@ -4,7 +4,7 @@
 
 Nei capitoli precedenti abbiamo incontrato problemi come quelli riportati di seguito:
 
-a) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il $150\%$ in più. Scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere.
+a) L'ultimo anno un organizzazione caritatevole ha venduto un certo numero di torte per una raccolta fondi. Quest'anno spera di venderne il $150\%$ in più. Indicando con $x$ il numero di torte vendute l'ultimo anno, scrivi l'espressione che indica il numero di torte che ci si aspetta di vendere quest'anno.
 
 b) In $4$ giorni $16$ operai costruiscono un prefabbricato; in quanti giorni farebbero lo stesso lavoro $x$ operai?
 
@@ -439,7 +439,7 @@ a) Nelle seguenti figure indica gli intervalli in cui le funzioni rappresentate 
 
 ### ESERCIZIO 4.2 - La funzione valore assoluto
 
-a) Per ogni funzione costruisci una tabella con cinque valori di $x$ (positivi, negativi o nulli) e rappresenta il grafico
+a) Per ogni funzione costruisci una tabella con cinque valori di $x$ (sia positivi che negativi o nulli) e rappresenta il grafico
 
 1. $y = 2|x|$;
 2. $y = 1 + |x|$;
@@ -600,15 +600,15 @@ b) $50$ studenti, contribuendo ciascuno con $5$ euro, riescono a raccogliere $25
 
 ## ESERCIZI DA RICORDARE
 
-#### UNITA'1 - Modelli matematici e funzioni: 
+#### UNITA'1 - Modelli matematici e funzioni: 1.1 a, b
 
-#### UNITA'2 - Proporzionalità diretta ed inversa: 
+#### UNITA'2 - Proporzionalità diretta ed inversa: 2.1 a, 2.2 a
 
-#### UNITA'3 - Relazioni lineari tra grandezze: 
+#### UNITA'3 - Relazioni lineari tra grandezze: 3.1 a3, a4, 3.5 a
 
-#### UNITA'4 - Crescenza, decrescenza ed esempi di funzioni: 
+#### UNITA'4 - Crescenza, decrescenza ed esempi di funzioni: 4.2 a2, 4.3 a
 
-#### UNITA'5 - Applicazioni dei modelli lineari: modelli decisionali: 
+#### UNITA'5 - Applicazioni dei modelli lineari: modelli decisionali: 5.1 a
 
 
 
