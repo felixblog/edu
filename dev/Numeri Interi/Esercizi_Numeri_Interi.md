@@ -352,6 +352,36 @@ e) $+120$
 
 
 
+#### Struttura ad albero delle espressioni
+
+Come nel caso delle espressioni coi numeri naturali, anche quelle coi numeri interi si possono rappresentare graficamente con i diagrammi ad albero. Vediamo alcuni esempi.
+
+<img src="img/Alberi-1.png" alt="Alberi-1" style="zoom:80%;" />
+
+Il simbolo $+/-$ indica l'operazione di somma algebrica, mentre il solo simbolo $-$ indica il numero $-1$ che moltiplica una parentesi. Per il resto il calcolo procede come nel caso dei numeri naturali.
+
+#### Dall'albero all'espressione
+
+Per costruire l'espressione a partire dall'albero, bisogna scrivere vicino ad ogni operazione l'espressione senza fare il calcolo come nell'esempio seguente.
+
+<img src="img/Alberi-2.png" alt="Alberi-2" style="zoom:80%;" />
+
+
+
+#### Dall'espressione all'albero
+
+L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo come costruire l'albero dell'espressione $15 -2(4-2)^2$. 
+
+La prima cosa da fare è scrivere l'espressione in forma lineare rendendo esplicite tutte le operazioni ed i numeri sottointesi.
+$$
+15 -2 \cdot (-4+2) \;\widehat{}\; 3
+$$
+Individuiamo poi l'operazione da eseguire per prima e costruiamo un nodo nel livello immediatamente superiore a quello delle foglie. Passiamo poi alla operazione da eseguire per seconda e così via. Se in una operazione si utilizza il risultato di una operazione precedente, l'ultima viene posta ad un livello superiore.
+
+<img src="img/Alberi-3.png" alt="Alberi-3" style="zoom:80%;" />
+
+
+
 ### ESERCIZIO 5.1 - Espressioni con tutte le operazioni
 
 a) Calcola il valore delle espressioni seguenti. 
