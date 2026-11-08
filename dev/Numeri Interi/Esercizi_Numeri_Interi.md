@@ -411,7 +411,7 @@ a) Per risolvere l'esercizio applica il metodo seguente.
 
 
 
-### ESERCIZIO 5.3 - Rappresentazione delle espressioni
+### ESERCIZIO 5.3^*^ - Rappresentazione delle espressioni
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
@@ -419,7 +419,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-   ![Albero](img\expint1a.png)
+   <img src="img\expint1a.png" alt="Albero" style="zoom:80%;" />
 
    
 
@@ -429,7 +429,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-   ![Albero](img\expint2a.png)
+   <img src="img\expint2a.png" alt="Albero" style="zoom:80%;" />
 
    
 
@@ -439,7 +439,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-   ![Albero](img\expint3a.png)
+   <img src="img\expint3a.png" alt="Albero" style="zoom:80%;" />
 
    
 

@@ -346,7 +346,7 @@ h)^*^  Un corridore amatoriale percorre 18 Km in un'ora. Quanti Km percorre in 1
 
 
 
-## UNITA' 3: La struttura delle espressioni
+## UNITA' 3^*^: La struttura delle espressioni
 
 Le espressioni si possono rappresentare anche graficamente con dei diagrammi, detti "diagrammi ad albero" dell'espressione. Vediamo alcuni esempi.
 
@@ -364,32 +364,47 @@ Gli alberi indicano come calcolare una espressione. Il calcolo comincia dal bass
 
 Alla fine, la radice contiene il risultato dell'espressione.
 
+#### Dall'albero all'espressione
+
 Per costruire l'espressione a partire dall'albero, scrivi vicino ad ogni operazione l'espressione senza fare il calcolo come nell'esempio seguente.
 
 <img src="img/Alberi-5.1.png" alt="Alberi-5.1" style="zoom:80%;" /><img src="img/Alberi-5.2.png" alt="Alberi-5.2" style="zoom:80%;" /><img src="img/Alberi-5.3.png" alt="Alberi-5.3" style="zoom:80%;" />
 
 
 
-Alla fine, vicino alla radice ci sarà scritta l'espressione completa.
+Alla fine, vicino alla radice ci sarà scritta l'espressione completa. Attenzione, come si vede dall'espressione $C$, se c'è una moltiplicazione o divisione che riguarda una intera espressione nella ricostruzione dell'espressione si deve introdurre una parentesi.
+
+ 
+
+#### Dall'espressione all'albero
+
+L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo come costruire l'albero dell'espressione $15 + 20:(4-2)$. 
+
+L'espressione viene scritta al posto delle foglie dell'albero. Facendo l'analisi dell'espressione, individuiamo nella sottrazione l'operazione da eseguire per prima. Costruiamo quindi un nodo nel livello immediatamente superiore a quello delle foglie. Passiamo poi alla seconda operazione e così via. Se in una operazione si utilizza il risultato di una operazione precedente, l'ultima viene posta ad un livello superiore.
+
+Al termine l'albero può essere ridisegnato cancellando l'espressione originaria, come nella seconda figura.
+
+![Albero](img\Albero4.png)
 
 
 
 ### ESERCIZIO 3.1 - Dai diagrammi ad albero alle espressioni
+
 a) Calcola il valore delle espressioni rappresentate dagli alberi riportati di seguito;
 
 b) Scrivi le espressioni che corrispondono ai diagrammi.
 
 1. 
 
-![Albero](img\Albero1.png)
+<img src="img\Albero1.png" alt="Albero" style="zoom: 80%;" />
 
 2. 
 
-![Albero](img\Albero2.png)
+<img src="img\Albero2.png" alt="Albero" style="zoom:80%;" />
 
 3. 
 
-![Albero](img\Albero3.png)
+<img src="img\Albero3.png" alt="Albero" style="zoom:80%;" />
 
 
 
@@ -409,11 +424,7 @@ e)^*^  $((27 + 2) - 4 : (3 + 1)) - 20 ;$
 
 f)^*^  $4 + 3 \cdot (15 : (3 + 1 \cdot 2) - 1)$.
 
-#### Esempio di SOLUZIONE
 
-L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo l'esempio d). 
-
-![Albero](img\Albero4.png)
 
 
 

@@ -721,7 +721,7 @@ c)^*^  La metà di $x$; il quadrato di $x$; l’opposto di $x$; l’opposto del 
 
 
 
-### ESERCIZIO 5.4 - Rappresentazione delle espressioni
+### ESERCIZIO 5.4^*^ - Rappresentazione delle espressioni
 
 a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
@@ -729,7 +729,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-   ![Albero](img\expr1.png)
+   <img src="img\expr1.png" alt="Albero" style="zoom: 67%;" />
 
    
 
@@ -739,7 +739,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-   ![Albero](img\expr2.png)
+   <img src="img\expr2.png" alt="Albero" style="zoom:67%;" />
 
    
 
@@ -749,7 +749,7 @@ a) Scrivi le espressioni relative ai seguenti diagrammi ad albero:
 
    
 
-   ![Albero](img\expr3.png)
+   <img src="img\expr3.png" alt="Albero" style="zoom:67%;" />
 
    
 
