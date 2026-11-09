@@ -358,7 +358,7 @@ Come nel caso delle espressioni coi numeri naturali, anche quelle coi numeri int
 
 <img src="img/Alberi-1.png" alt="Alberi-1" style="zoom:80%;" />
 
-Il simbolo $+/-$ indica l'operazione di somma algebrica, mentre il solo simbolo $-$ indica il numero $-1$ che moltiplica una parentesi. Per il resto il calcolo procede come nel caso dei numeri naturali.
+Il simbolo $+/-$ indica l'operazione di somma algebrica, mentre il solo simbolo $-$ indica il numero $-1$ che moltiplica una parentesi. Per il resto il calcolo procede come nel caso dei numeri naturali.
 
 #### Dall'albero all'espressione
 
@@ -370,7 +370,7 @@ Per costruire l'espressione a partire dall'albero, bisogna scrivere vicino ad og
 
 #### Dall'espressione all'albero
 
-L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo come costruire l'albero dell'espressione $15 -2(4-2)^2$. 
+L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo come costruire l'albero dell'espressione $15 -2(-4+2)^3$. 
 
 La prima cosa da fare è scrivere l'espressione in forma lineare rendendo esplicite tutte le operazioni ed i numeri sottointesi.
 $$
