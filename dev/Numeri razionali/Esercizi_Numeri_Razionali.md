@@ -134,15 +134,9 @@ Esempi di frazioni con numeratore e denominatore di segno diverso e con parentes
 
 Se il numeratore è dentro una parentesi senza operazioni, il segno meno viene riportato davanti a tutta la frazione, come da forma canonica: $\dfrac{-(3)}{4} \longrightarrow \dfrac{-3}{4}$ $\longleftrightarrow -\dfrac{3}{4}$.
 
-Abbiamo poi i casi seguenti:
+Abbiamo poi il caso di $-\dfrac{(-3)}{4}$ che in notazione lineare è $-(-3): 4$; qui abbiamo il prodotto di $-1$ per $(-3)$ che diventa $\dfrac{-3}{4}$ e quindi $-\dfrac{3}{4}$. Da ultimo $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$      $\bullet$
 
-a)  $-\dfrac{(3)}{4} \longleftrightarrow -\dfrac{3}{4}$;
-
-b) $-\dfrac{(-3)}{4} \longleftrightarrow +\dfrac{3}{4}$; Qui abbiamo il prodotto di $-1$ per la frazione $\dfrac{-3}{4}$.
-
-c) $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$    $\bullet$
-
-Il segno davanti alla frazione, se il numeratore è positivo, si considera sempre **segno del numeratore**, ossia $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$ oppure $+\dfrac{-3}{4}$.
+Come si vede dall'esempio, se il segno davanti alla frazione dovesse essere portato su uno dei due numeri della stessa, si porterebbe sempre sul **numeratore**, ossia $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$ oppure $+\dfrac{-3}{4}$.
 
 
 
@@ -603,9 +597,9 @@ Nelle espressioni è possibile trovare forme come $\dfrac{1-2 \cdot 3}{5-1}$ che
 $$
 \dfrac{\dfrac{1}{1}-\dfrac{2}{1} \cdot \dfrac{3}{1}}{\dfrac{5}{1}-\dfrac{1}{1}}
 $$
-Adottando la convenzione che le frazioni siano scritte in forma normale e le divisioni tra espressioni in notazione lineare l'espressione è equivalente a $\left(\dfrac{1}{1}-\dfrac{2}{1} \cdot \dfrac{3}{1} \right): \left(\dfrac{5}{1}-\dfrac{1}{1}\right)$.
+In notazione lineare l'espressione è equivalente a $\left(\dfrac{1}{1}-\dfrac{2}{1} \cdot \dfrac{3}{1} \right): \left(\dfrac{5}{1}-\dfrac{1}{1}\right)$.
 
-Per calcolare l'espressione, il primo passo è quello di calcolare le espressioni al numeratore ed al denominatore in modo da ottenere delle singole frazioni e poi proseguire fino all'ultima divisione.
+Per calcolare l'espressione, il primo passo è quello di calcolare le espressioni al numeratore, il secondo di calcolare il denominatore e poi proseguire fino all'ultima divisione.
 
 #### ESEMPIO 1
 
@@ -693,13 +687,25 @@ Per costruire l'espressione a partire dall'albero, bisogna scrivere vicino ad og
 
 #### Dall'espressione all'albero
 
-L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo come costruire l'albero dell'espressione $15 -2(-4+2)^3$. 
+L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo come costruire l'albero dell'espressione $\dfrac{15}{4} - \dfrac{2}{3}(-1 + \dfrac{2}{5})^3$. 
 
 La prima cosa da fare è scrivere l'espressione in forma lineare rendendo esplicite tutte le operazioni ed i numeri sottointesi.
 $$
-15 -2 \cdot (-4+2) \;\widehat{}\; 3
+\dfrac{15}{4} - \dfrac{2}{3} \cdot (-1 + \dfrac{2}{5}) \;\widehat{}\; 3
 $$
-Individuiamo poi l'operazione da eseguire per prima e costruiamo un nodo nel livello immediatamente superiore a quello delle foglie. Passiamo poi alla operazione da eseguire per seconda e così via. Se in una operazione si utilizza il risultato di una operazione precedente, l'ultima viene posta ad un livello superiore.
+In questo caso abbiamo $5$ numeri e $4$ operazioni. Il passo successivo è quello di calcolare l'espressione Individuando l'ordine delle operazioni da eseguire.
+
+a) $\dfrac{15}{4} - \dfrac{2}{3} \cdot (-1 \overset{\overset{(1)}{\downarrow}}{\phantom{,}} + \dfrac{2}{5}) \; \widehat{}\; 3$;
+
+b) $\dfrac{15}{4} -\dfrac{2}{3}  \cdot (-\dfrac{3}{5}) \overset{\overset{(2)}{\downarrow}}{ \; \widehat{}\;} 3$;
+
+c) $\dfrac{15}{4} -\dfrac{2}{3} \overset{\overset{(3)}{\downarrow}}{\cdot} (-\dfrac{27}{125})$;
+
+d) $\dfrac{15}{4} \overset{\overset{(4)}{\downarrow}}{\phantom{,}}+ \dfrac{18}{125}$;
+
+e) $\dfrac{1947}{500}$
+
+Costruiamo ora un nodo nel livello immediatamente superiore a quello delle foglie per la prima operazione. Passiamo poi alla operazione da eseguire per seconda e così via. Se in una operazione si utilizza il risultato di una operazione precedente, l'ultima viene posta ad un livello superiore.
 
 <img src="img/Alberi-3q.png" alt="Alberi-3" style="zoom:100%;" />
 

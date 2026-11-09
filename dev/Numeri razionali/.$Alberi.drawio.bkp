@@ -426,7 +426,7 @@
           <mxGeometry height="50" width="60" x="314" y="160" as="geometry" />
         </mxCell>
         <mxCell id="DJlmNfGJ_iYP6V40neru-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="\(+/-\)" vertex="1">
-          <mxGeometry height="50" width="60" x="388" y="320" as="geometry" />
+          <mxGeometry height="50" width="60" x="388" y="304" as="geometry" />
         </mxCell>
         <mxCell id="DJlmNfGJ_iYP6V40neru-4" edge="1" parent="1" source="DJlmNfGJ_iYP6V40neru-2" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.7;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" target="DJlmNfGJ_iYP6V40neru-18" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -461,11 +461,11 @@
             <mxPoint x="480" y="406" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DJlmNfGJ_iYP6V40neru-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="$$(-4+2)^3$$" vertex="1">
+        <mxCell id="DJlmNfGJ_iYP6V40neru-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="$$(-4+\dfrac{2}{5})^3$$" vertex="1">
           <mxGeometry height="30" width="93.5" x="500" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="DJlmNfGJ_iYP6V40neru-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="$$-2(-4+2)^3$$" vertex="1">
-          <mxGeometry height="30" width="115" x="360.5" y="160" as="geometry" />
+        <mxCell id="DJlmNfGJ_iYP6V40neru-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="$$-\dfrac{2}{3}(-4+\dfrac{2}{5})^3$$" vertex="1">
+          <mxGeometry height="30" width="105.5" x="376" y="160" as="geometry" />
         </mxCell>
         <mxCell id="DJlmNfGJ_iYP6V40neru-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="\(+/-\)" vertex="1">
           <mxGeometry height="50" width="60" x="240" y="110" as="geometry" />
@@ -482,29 +482,29 @@
             <mxPoint x="166.67863399999987" y="73.56629999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DJlmNfGJ_iYP6V40neru-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="$$15-2(-4+2)^3$$" vertex="1">
-          <mxGeometry height="30" width="115" x="300" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="DJlmNfGJ_iYP6V40neru-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="$$15\;\;\;\;-2\;\;\cdot\;\;(\;\;-4\;\;\;\;+2\;\;)\;\;\widehat{\;}\;\;3$$" vertex="1">
+        <mxCell id="DJlmNfGJ_iYP6V40neru-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="$$\dfrac{15}{4}\;\;\;\;-\dfrac{2}{3}\;\;\cdot\;\;(\;\;-4\;\;\;\;+\dfrac{2}{5}\;\;)\;\;\widehat{\;}\;\;\dfrac{3}{5}$$" vertex="1">
           <mxGeometry height="30" width="400" x="170" y="410" as="geometry" />
         </mxCell>
         <mxCell id="DJlmNfGJ_iYP6V40neru-17" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#330000;textShadow=0;opacity=0;opacityGroup=1;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="235" y="393" as="geometry" />
+          <mxGeometry height="20" width="20" x="231" y="386" as="geometry" />
         </mxCell>
         <mxCell id="DJlmNfGJ_iYP6V40neru-18" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=0;opacityGroup=1;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="294" y="394" as="geometry" />
+          <mxGeometry height="20" width="20" x="300" y="385" as="geometry" />
         </mxCell>
         <mxCell id="DJlmNfGJ_iYP6V40neru-19" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=0;opacityGroup=1;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="370.5" y="396" as="geometry" />
+          <mxGeometry height="20" width="20" x="383.5" y="400" as="geometry" />
         </mxCell>
         <mxCell id="DJlmNfGJ_iYP6V40neru-20" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=0;opacityGroup=1;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="428" y="396" as="geometry" />
+          <mxGeometry height="20" width="20" x="439" y="388" as="geometry" />
         </mxCell>
         <mxCell id="DJlmNfGJ_iYP6V40neru-21" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=0;opacityGroup=1;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="488" y="396" as="geometry" />
+          <mxGeometry height="20" width="20" x="503" y="386" as="geometry" />
         </mxCell>
-        <mxCell id="DJlmNfGJ_iYP6V40neru-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="$$-4+2$$" vertex="1">
-          <mxGeometry height="30" width="83.5" x="314" y="330" as="geometry" />
+        <mxCell id="DJlmNfGJ_iYP6V40neru-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="$$-4+\dfrac{2}{5}$$" vertex="1">
+          <mxGeometry height="30" width="83.5" x="314" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="KpZmyYq0L-KJB6bNDxpS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="$$\dfrac{15}{4}-\dfrac{2}{3}(-4+\dfrac{2}{5})^3$$" vertex="1">
+          <mxGeometry height="30" width="105.5" x="316.25" y="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
