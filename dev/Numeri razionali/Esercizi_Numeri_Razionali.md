@@ -669,6 +669,42 @@ e) $\dfrac{1}{25}$     $\bullet$
 
 
 
+#### Struttura ad albero delle espressioni
+
+Come nel caso delle espressioni coi numeri naturali ed interi, anche quelle coi numeri razionali si possono rappresentare graficamente con i diagrammi ad albero. Vediamo alcuni esempi.
+
+<img src="img/Alberi-1q.png" alt="Alberi-1" style="zoom:80%;" />
+
+Per comprendere il diagramma diciamo che:
+
+- il simbolo $+/-$ indica l'operazione di somma algebrica;
+- il simbolo $-$ indica il numero $-1$ che moltiplica una parentesi;
+- consideriamo le frazioni nelle foglie dell'albero in forma normale.
+
+
+
+#### Dall'albero all'espressione
+
+Per costruire l'espressione a partire dall'albero, bisogna scrivere vicino ad ogni operazione l'espressione senza fare il calcolo come nell'esempio seguente.
+
+<img src="img/Alberi-2q.png" alt="Alberi-1" style="zoom:80%;" />
+
+
+
+#### Dall'espressione all'albero
+
+L'albero viene costruito a partire dall'operazione eseguita per prima. Vediamo come costruire l'albero dell'espressione $15 -2(-4+2)^3$. 
+
+La prima cosa da fare è scrivere l'espressione in forma lineare rendendo esplicite tutte le operazioni ed i numeri sottointesi.
+$$
+15 -2 \cdot (-4+2) \;\widehat{}\; 3
+$$
+Individuiamo poi l'operazione da eseguire per prima e costruiamo un nodo nel livello immediatamente superiore a quello delle foglie. Passiamo poi alla operazione da eseguire per seconda e così via. Se in una operazione si utilizza il risultato di una operazione precedente, l'ultima viene posta ad un livello superiore.
+
+<img src="img/Alberi-3q.png" alt="Alberi-3" style="zoom:100%;" />
+
+
+
 ### ESERCIZIO 5.1 - Espressioni con le quattro operazioni tra frazioni
 
 a) Calcola i seguenti quozienti di frazioni.
