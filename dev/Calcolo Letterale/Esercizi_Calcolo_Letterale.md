@@ -563,7 +563,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 6: Prodotti di monomi per polinomi e somme di polinomi
+## UNITA' 6: Prodotti di monomi per polinomi ed espressioni
 
 Il prodotto di un monomio per un polinomio, come ad esempio $\dfrac{3}{2}ab^2 \cdot (-x + 3xy)$, è una espressione che ha come risultato il polinomio ottenuto sommando (algebricamente) tra di loro i prodotti del monomio a fattore per tutti i monomi del polinomio.
 
@@ -571,7 +571,7 @@ Il polinomio è scritto tra parentesi, perché il monomio a fattore deve moltipl
 
 #### ESEMPIO 1
 
-Nel prodotto $-2(x^2 - x)$ Il monomio che moltiplica è il solo numero $-2$; il risultato della moltiplicazione è l'espressione del punto b).
+Nel prodotto $-2(x^2 - x)$ Il monomio che moltiplica è il solo numero $-2$; il prodotto è calcolato di seguito.
 
 a) $-2(x^2 - x)$
 
@@ -583,7 +583,13 @@ c) $-2x^2+ 2x$    $\bullet$
 
 #### ESEMPIO 2
 
-Il prodotto $-3(1 + b)$ equivale a $-3 \cdot (1) -3 \cdot (+b) \longrightarrow -3 -3b$.    $\bullet$
+Il prodotto $-3(1 + b)$ è il polinomio ottenuto con il procedimento seguente.
+
+a) $-3(1 + b)$;
+
+b) $-3 \cdot (1) -3 \cdot (+b)$;
+
+c) $-3 -3b$.    $\bullet$
 
 
 
@@ -610,6 +616,8 @@ a) $(1 - b)(-3)$
 b) $1 \cdot (-3) -b \cdot (-3)$
 
 c) $-3 + 3b$.     $\bullet$
+
+
 
 #### ESEMPIO 4
 
@@ -651,18 +659,14 @@ a) Scrivi il polinomio risultato dei prodotti seguenti.
 
 
 
-### Somme di polinomi
+### ESERCIZIO 6.2 - Espressioni algebriche
 
-La somma di due polinomi si ottiene sommando (algebricamente) tra di loro tutti i monomi di entrambi i polinomi.
-
-### ESERCIZIO 6.2 - Somma di polinomi
-
-a) Somma tra di loro i seguenti polinomi e scrivi il risultato in forma normale.
+Semplifica le espressioni algebriche seguenti.
 
 
-a) $4x^{3}-5x^{2}+2$;     $-3x^{3}+2x^{2}-2$  
+a) $4x^{3}-5x^{2}(-3x^{3}+2x^{2}-2)+2$;  
 
-b) $3a^{3}+5a^{2}-2a+1$;     $3a^{3}-2a^{2}+5a-7$  
+b) $(+5a -\dfrac{1}{3}a^{2} -7)3a^{3}+\dfrac{5}{3}a^{2}(-2a+1)$.  
 
 
 
@@ -780,7 +784,7 @@ b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando
 
 1. $6\left(x^{2}-2y\right);$
 2. $\left(-2\right)\cdotp\left(-3xy+2\right);$ 
-3. $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right).$
+3. ^*^ $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right).$
 
 
 
