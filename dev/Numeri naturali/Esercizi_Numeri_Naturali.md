@@ -43,11 +43,9 @@ Le **espressioni** sono sequenze di operazioni, come $12 \cdot 3 + 4$, in cui il
 
 In una espressione ci sono alternativamente numeri ed operazioni in modo che tra due numeri c'è sempre una operazione e tra due operazioni sempre un numero. L'esecuzione nell'ordine corretto delle operazioni di una espressione produce un unico numero detto "risultato" o "valore" dell'espressione. 
 
-> 
 > $\triangle$  Tra due numeri c'è sempre una operazione e tra due operazioni sempre un numero!
+>
 > 
-
-
 
 Le operazioni si eseguono man mano che si trovano, leggendo da sinistra verso destra. Una operazione si può eseguire solo se i due numeri sono a lei disponibili, ossia non fanno parte di una operazione successiva che ha priorità maggiore, nel qual caso si passa a quest'ultima. Vediamo un esempio.
 
@@ -133,7 +131,11 @@ e) $\underline{45} + (10) \overset{\downarrow}: 2$;
 
 f) $45 + \underline{5}$;
 
-g) $\underline{50}$.
+g) $\underline{50}$.     $\bullet$
+
+
+
+Dopo l'esecuzione di una operazione bisogna scrivere, nella riga successiva, una nuova espressione che al posto dei soli due numeri e dell'operazione eseguita riporti il suo valore, facendo attenzione a lasciare inalterati tutti gli altri numeri e **tutte le altre operazioni**.
 
 
 
@@ -161,7 +163,7 @@ b) $\underbrace{8 \overset{(b)}- \underline{4}} \overset{(c)}+ 2$
 
 c) $\underline{4} \overset{(c)}+ 2$
 
-d) $\underline{6}$
+d) $\underline{6}$     $\bullet$
 
 E' quindi possibile fare più operazioni in un solo passaggio senza riutilizzare i risultati di una operazione per altre operazioni (nel medesimo passaggio), **evitando di eseguire operazioni contigue**, come nell'esempio seguente (dove le operazioni fatte nello stesso passaggio sono indicate con a freccia $\downarrow$).
 
@@ -183,7 +185,7 @@ g) $(\underbrace{(15) \overset{\downarrow}+} 30) - 40$
 
 h) $(\underline{45}) - 40$
 
-i) $\underline{5}$
+i) $\underline{5}$     $\bullet$
 
 
 
@@ -637,6 +639,8 @@ L'insieme delle vocali, che chiameremo $V$, è rappresentato graficamente dalla 
 
 ​     $\bullet$
 
+
+
 Rappresentare un insieme per elencazione significa scrivere la sequenza degli elementi identificati dai loro nomi univoci (in un insieme ***non ci possono essere due elementi uguali***) separati da virgola e racchiusi tra parentesi graffe.
 
 #### ESEMPIO 2
@@ -694,7 +698,9 @@ $$
  L \setminus V &= \{b, c, d\} \\
 \end{flalign*}
 $$
-     $\bullet$
+$\bullet$
+
+
 
 Da ultimo introduciamo il concetto di sottoinsieme. Se tutti gli elementi di un insieme $A$ sono anche elementi dell'insieme $B$ si dice che $A$ è **sottoinsieme** di $B$ e si scrive
 $$

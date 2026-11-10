@@ -352,6 +352,24 @@ e) $+120$
 
 
 
+#### Organizzazione del calcolo
+
+Dopo l'esecuzione di una operazione bisogna scrivere, nella riga successiva, una nuova espressione che al posto dei soli due numeri e dell'operazione eseguita riporti il suo valore, facendo attenzione a lasciare inalterati tutti gli altri numeri e **tutte le altre operazioni**. Nella maggioranza dei casi questo equivale a ricopiare tutto il resto dell'espressione a sinistra ed a destra dell'operazione, ma in ogni caso è necessario riportare **tutte le altre operazioni** dell'espressione ed i loro numeri.
+
+#### ESEMPIO 2
+
+L'espressione $3(-2)5$ ha tre numeri e due moltiplicazioni. L'esecuzione del primo prodotto fornisce $-6$ ed il passaggio è:
+
+a) $\underbrace{3(-2)}5$;
+
+b) $\underline{-6} \cdot 5$;
+
+c) $-30$.
+
+Nel passaggio b) è necessario <u>esplicitare</u> il segno della moltiplicazione perché l'espressione $\underline{-6}\; 5$ non è corretta.     $\bullet$
+
+
+
 #### Struttura ad albero delle espressioni
 
 Come nel caso delle espressioni coi numeri naturali, anche quelle coi numeri interi si possono rappresentare graficamente con i diagrammi ad albero. Vediamo alcuni esempi.
