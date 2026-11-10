@@ -397,7 +397,7 @@ Se invece consideriamo le operazioni tra monomi, abbiamo due somme algebriche se
 $$
 2abx \overset{\overset{+/-}\downarrow}\ -cx \overset{\overset{+/-}\downarrow}\ +1
 $$
-Per capire quante operazioni sono presenti, la prima cosa è contare **quanti monomi ci sono in una espressione**.
+Per capire quante operazioni sono presenti, la prima cosa è contare **quanti monomi ci sono in una espressione**: come negli altri casi, le operazioni saranno una in meno dei monomi.
 
 #### ESEMPIO 5
 
@@ -407,6 +407,7 @@ I monomi sono sette (compresi i numeri $-1$ e $2$). Le operazioni sono quindi $6
 $$
 -\dfrac{3}{4}abx^2 \overset{\overset{\cdot}\downarrow}\cdot (2 \overset{\overset{+/-}\downarrow}\ + a)\overset{\overset{+/-}\downarrow}\ -1\overset{\overset{\cdot}\downarrow}\cdot (x \overset{\overset{+/-}\downarrow}\ + a) \overset{\overset{\cdot}\downarrow}\cdot x^2 \qquad \bullet
 $$
+
 
 
 ### ESERCIZIO 3.1 - Somme di monomi
@@ -561,43 +562,6 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-### ESERCIZIO 5.2^*^ - Rappresentazione ad albero delle espressioni letterali
-
-a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero. Esegui le operazioni e scrivi i risultati in forma normale.
-
-1.    
-
-   <img src="img\expr1p.png" alt="Albero" style="zoom:80%;" />
-
-   
-
-   
-
-2.    
-
-   
-
-   <img src="img\expr2p.png" alt="Albero" style="zoom:80%;" />
-
-   
-
-   
-
-3.    
-
-   
-
-   <img src="img\expr3p.png" alt="Albero" style="zoom:80%;" />
-
-   
-
-b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando i monomi come espressioni elementari (non ulteriormente scomponibili).
-
-1. $6\left(x^{2}-2y\right);$
-2. $\left(-2\right)\cdotp\left(-3xy+2\right);$ 
-4. $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right).$
-
-
 
 ## UNITA' 6: Prodotti di monomi per polinomi e somme di polinomi
 
@@ -725,7 +689,7 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 
 
-## UNITA' 6^*^: Prodotti di polinomi
+## UNITA' 7^*^: Prodotti di polinomi
 
 Il prodotto di due polinomi è un polinomio che si calcola moltiplicando ogni monomio del primo polinomio per il secondo polinomio e sommando questi prodotti.
 
@@ -759,7 +723,7 @@ Provare ad eseguire i prodotti negli esempi con il comando GEOGEBRA $Sviluppa((a
 
 
 
-### ESERCIZIO 6.4 - Prodotto di polinomi
+### ESERCIZIO 7.1 - Prodotto di polinomi
 
 a) Scrivi i risultati dei prodotti seguenti in forma normale.  
 
@@ -782,7 +746,47 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 
 
-## UNITA' 7^*^: Scomposizione di polinomi in fattori 
+### ESERCIZIO 7.2^*^ - Rappresentazione ad albero delle espressioni letterali
+
+a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero. Esegui le operazioni e scrivi i risultati in forma normale.
+
+1. 
+
+   <img src="img\expr1p.png" alt="Albero" style="zoom:80%;" />
+
+   
+
+   
+
+2. 
+
+   
+
+   <img src="img\expr2p.png" alt="Albero" style="zoom:80%;" />
+
+   
+
+   
+
+3.    
+
+   
+
+   <img src="img\expr3p.png" alt="Albero" style="zoom:80%;" />
+
+   
+
+b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando i monomi come espressioni elementari (non ulteriormente scomponibili).
+
+1. $6\left(x^{2}-2y\right);$
+2. $\left(-2\right)\cdotp\left(-3xy+2\right);$ 
+3. $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right).$
+
+
+
+
+
+## UNITA' 8^*^: Scomposizione di polinomi in fattori 
 
 Nelle unità precedenti abbiamo visto come si calcola il prodotto di un monomio per un polinomio (ed il prodotto di due polinomi). Ora vediamo se e come si può fare l'operazione inversa, ossia riconoscere se un polinomio si può anche scrivere come prodotto tra un monomio ed un polinomio. Questa operazione si chiama anche **scomposizione in fattori** o  ***fattorizzazione di un polinomio***, perché, come nel caso dei numeri in cui abbiamo scomposto un numero in fattori, ad esempio $15 = 3 \cdot 5$ oppure $12 = 3 \cdot 2^2$, ha l'obiettivo di scrivere un polinomio come prodotto.
 
@@ -806,7 +810,7 @@ $Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $\longrightarrow$ $\dfrac{3}{4
 
 
 
-### ESERCIZIO 7.1 - Evidenza di fattori
+### ESERCIZIO 8.1 - Evidenza di fattori
 
 a) Scrivi i polinomi seguenti come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
 
@@ -826,7 +830,7 @@ Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di ist
 
 
 
-## UNITA' 8: Sostituzioni in espressioni letterali
+## UNITA' 9: Sostituzioni in espressioni letterali
 
 Come abbiamo visto nelle espressioni numeriche, anche nelle espressioni letterali è possibile fare delle sostituzioni, ma a differenza dei casi precedenti dove a lettere sostituivamo dei numeri, nel calcolo letterale possiamo **sostituire ad una lettera una espressione letterale**, ossia altre lettere. Le sostituzioni vanno sempre fatte tra parentesi. Dopo la sostituzione possiamo effettuare le operazioni di somma e prodotto tra monomi e polinomi finché il risultato non sia in forma normale. Vediamo degli esempi.
 
@@ -874,7 +878,7 @@ e) $\dfrac{a^2-1}{2}$    $\bullet$
 
  
 
-### ESERCIZIO 8.1 - Sostituzioni
+### ESERCIZIO 9.1 - Sostituzioni
 
 a) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tra parentesi graffe le rispettive espressioni e semplifica il risultato.
 
@@ -890,7 +894,7 @@ b) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tr
 
 
 
-## UNITA' 9^*^: Frazioni algebriche
+## UNITA' 10^*^: Frazioni algebriche
 
 La scomposizione in fattori di polinomi è utile nella semplificazione delle frazioni algebriche. Una **frazione algebrica** è un rapporto tra un polinomio ed un monomio o tra due polinomi. Ad esempio le seguenti sono tutte frazioni algebriche
 
@@ -928,11 +932,11 @@ Come per le frazioni numeriche, non si può semplificare $\dfrac{5+7}{4}$ a meno
 
 #### ESEMPIO 3
 
-Nella frazione $\dfrac{2x(2x-1)}{2x +1}$, non è possibile semplificare $2x$ sopra e sotto perché sotto non c'è un prodotto ma una somma algebrica di monomi!    $\bullet$
+Nella frazione $\dfrac{2x(2x-1)}{2x +1}$, non è possibile semplificare $2x$ sopra e sotto perché sotto non c'è un prodotto ma una somma algebrica di monomi!      $\bullet$
 
  
 
-### ESERCIZIO 9.1 - Frazioni Algebriche
+### ESERCIZIO 10.1 - Frazioni Algebriche
 
 a) Scrivi il reciproco delle seguenti frazioni algebriche.
 
@@ -960,9 +964,9 @@ Risolvi alcuni esercizi del punto b) con la sequenza di istruzioni GEOGEBRA ripo
 
 
 
-## UNITA 10^*^: Semplificazione di espressioni letterali
+## UNITA 11^*^: Semplificazione di espressioni letterali
 
-### ESERCIZIO 10.1 - Espressioni con somme, prodotti e rapporti
+### ESERCIZIO 11.1 - Espressioni con somme, prodotti e rapporti
 
 a) Semplifica le seguenti espressioni.
 
@@ -988,7 +992,7 @@ b) Semplifica le seguenti espressioni.
 
 #### UNITA'5 - I Polinomi: 5.1 b, d
 
-#### UNITA'8 - Sostituzioni in espressioni letterali: 8.1 a1, b2
+#### UNITA'9 - Sostituzioni in espressioni letterali: 9.1 a1, b2
 
-#### UNITA'9 - Frazioni algebriche: 9.1 b1, b3
+#### UNITA'10 - Frazioni algebriche: 10.1 b1, b3
 

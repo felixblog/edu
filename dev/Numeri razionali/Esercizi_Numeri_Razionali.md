@@ -134,7 +134,7 @@ Esempi di frazioni con numeratore e denominatore di segno diverso e con parentes
 
 Se il numeratore è dentro una parentesi senza operazioni, il segno meno viene riportato davanti a tutta la frazione, come da forma canonica: $\dfrac{-(3)}{4} \longrightarrow \dfrac{-3}{4}$ $\longleftrightarrow -\dfrac{3}{4}$.
 
-Abbiamo poi il caso di $-\dfrac{(-3)}{4}$ che in notazione lineare è $-(-3): 4$; qui abbiamo il prodotto di $-1$ per $(-3)$ che diventa $\dfrac{-3}{4}$ e quindi $-\dfrac{3}{4}$. Da ultimo $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$      $\bullet$
+Abbiamo poi il caso di $-\dfrac{(-3)}{4}$ che in notazione lineare è $-(-3): 4$; qui abbiamo il prodotto di $-1$ per $(-3)$ che diventa $\dfrac{-3}{4}$ e quindi $-\dfrac{3}{4}$. Da ultimo $\dfrac{-3}{(4)} \longrightarrow -\dfrac{3}{4}$      $\bullet$
 
 Come si vede dall'esempio, se il segno davanti alla frazione dovesse essere portato su uno dei due numeri della stessa, si porterebbe sempre sul **numeratore**, ossia $-\dfrac{3}{4}$ è equivalente a $\dfrac{-3}{4}$ oppure $+\dfrac{-3}{4}$.
 
@@ -693,7 +693,7 @@ La prima cosa da fare è scrivere l'espressione in forma lineare rendendo esplic
 $$
 \dfrac{15}{4} - \dfrac{2}{3} \cdot (-1 + \dfrac{2}{5}) \;\widehat{}\; 3
 $$
-In questo caso abbiamo $5$ numeri e $4$ operazioni. Il passo successivo è quello di calcolare l'espressione Individuando l'ordine delle operazioni da eseguire.
+In questo caso abbiamo $5$ numeri e $4$ operazioni. Il passo successivo è quello di calcolare l'espressione Individuando l'ordine delle operazioni da eseguire.
 
 a) $\dfrac{15}{4} - \dfrac{2}{3} \cdot (-1 \overset{\overset{(1)}{\downarrow}}{\phantom{,}} + \dfrac{2}{5}) \; \widehat{}\; 3$;
 
