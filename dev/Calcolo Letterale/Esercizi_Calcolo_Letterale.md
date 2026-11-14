@@ -27,11 +27,11 @@ Quando si scrive il prodotto di una lettera con un numero, un'altra lettera o co
 
 #### ESEMPIO 2
 
-a) $\dfrac{a \cdot b}{2} \longleftrightarrow \dfrac{ab}{2}$;
+a) $\dfrac{a \cdot b}{2}$ equivale a $\dfrac{ab}{2}$;
 
-b) $-3 \cdot b^2 +1 \longleftrightarrow -3b^2+1$;
+b) $-3 \cdot b^2 +1$ equivale a $-3b^2+1$;
 
-c) $(a + b) \cdot c \longleftrightarrow (a + b)c$.     $\bullet$
+c) $(a + b) \cdot c$ equivale a $(a + b)c$.     $\bullet$
 
 
 
@@ -156,7 +156,7 @@ Questo esempio ci mostra come sia possibile fare dei conti, delle deduzioni, con
 
 #### Componenti e forme di un monomio
 
-Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono tutte lettere, scritte in ordine alfabetico e le lettere compaiono una sola volta con i loro esponenti.
+Un monomio è un prodotto di numeri e lettere: le somme di denaro che abbiamo visto $s$,  $2 \cdot s$,  $3 \cdot s$, sono tutti monomi. Un monomio è ***in forma normale*** (o **canonica**) se il primo fattore è un numero e gli altri fattori sono tutte lettere, scritte in ordine alfabetico e le lettere compaiono una sola volta, eventualmente con esponente.
 
 In un monomio in forma normale, il numero è detto ***parte numerica*** ed il prodotto delle lettere *** parte letterale***. Si dice ***grado*** di un monomio il numero delle lettere del monomio. Tutti i monomi hanno una parte letterale ed una parte numerica, anche se non è immediato vederle: una sola lettera, ad esempio $s$ è un monomio (di grado $1$ e con parte numerica $1$), $-x$ è un monomio con parte numerica $-1$.
 
@@ -291,7 +291,7 @@ Diciamo infatti che:
 - Le somme di monomi sono *somme algebriche*: $-3x + 2x$ è la somma del monomio $-3x$ e del monomio $+2x$ (se i due monomi sono $3x$ e $2x$ la loro somma si scrive $3x + 2x$): il risultato della somma di due monomi simili **è un monomio solo**, che ha come parte numerica la somma delle parti numeriche e come parte letterale quella dei monomi (la stessa per tutti).
 
 
-Questa operazione di somma si dice anche **semplificazione**, perché con essa sostituiamo, ad una espressione che ha due monomi ed una somma algebrica, una espressione costituita da un solo monomio, e quindi più semplice.
+Questa operazione di somma si dice anche **semplificazione**, perché con essa sostituiamo, ad una espressione che ha due monomi ed una somma algebrica, una espressione costituita da un solo monomio, che è quindi più semplice.
 
 $$
 \xymatrix{
@@ -367,11 +367,11 @@ b) $-3 \cdot 2 \cdot x \cdot x$
 
 c) $-6x^2$.    $\bullet$
 
+
+
 Anche in questo caso l'esecuzione del prodotto è una semplificazione perché l'espressione risultato è costituita da un solo monomio (senza operazioni), dove la prima aveva due monomi ed un prodotto. 
 
 I concetti di monomio e di prodotto di monomi si confondono perché un monomio è un prodotto di lettere e numeri e può sempre essere visto come il prodotto delle lettere e dei numeri che lo compongono, considerate esse stesse dei monomi: $\dfrac{1}{2}ab^2$ è un monomio ma è anche il prodotto dei monomi $\dfrac{1}{2}$, $a$, $b$ e $b$.
-
-
 
 #### ESEMPIO 4
 
@@ -387,7 +387,7 @@ b) $-100a^3x^6$.     $\bullet$
 
 Nelle unità precedenti spesso ci siamo chiesti quante operazioni ci fossero in una espressione. Anche in questa unità ce lo chiediamo, ma stavolta cerchiamo le **operazioni tra monomi**. 
 
-Per contarle dobbiamo capire la differenza che c'è tra le operazioni tra numeri e quelle tra monomi.
+Per contarle, dobbiamo capire la differenza che c'è tra le operazioni tra numeri e quelle tra monomi.
 
 Consideriamo l'espressione $2abx -cx +1$. Le operazioni tra singoli numeri o lettere sono $7$ e precisamente le seguenti:
 $$
@@ -397,7 +397,7 @@ Se invece consideriamo le operazioni tra monomi, abbiamo due somme algebriche se
 $$
 2abx \overset{\overset{+/-}\downarrow}\ -cx \overset{\overset{+/-}\downarrow}\ +1
 $$
-Per capire quante operazioni sono presenti, la prima cosa è contare **quanti monomi ci sono in una espressione**: come negli altri casi, le operazioni saranno una in meno dei monomi.
+Per capire quante operazioni sono presenti, la prima cosa è contare **quanti monomi (in forma normale) ci sono in una espressione**: come negli altri casi, le operazioni saranno una in meno dei monomi.
 
 #### ESEMPIO 5
 
@@ -480,6 +480,8 @@ a) $\dfrac{-3xy^\cancel2}{2\cancel{y}}$
 b) $\dfrac{-3xy}{2}$
 
 c) $-\dfrac{3}{2}xy$  che è il risultato della divisione ed è un monomio.    $\bullet$
+
+
 
 #### ESEMPIO 2
 
@@ -782,9 +784,10 @@ a) Scrivi le espressioni letterali relative ai seguenti diagrammi ad albero. Ese
 
 b) Scrivi i diagrammi ad albero relativi alle espressioni seguenti, considerando i monomi come espressioni elementari (non ulteriormente scomponibili).
 
-1. $6\left(x^{2}-2y\right);$
-2. $\left(-2\right)\cdotp\left(-3xy+2\right);$ 
-3. ^*^ $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right).$
+1. $6\left(x^{2}-2y\right)$;
+2. $6\left(x^{2}-2y\right)(\dfrac{1}{2}xy)$;
+3. $\dfrac{\left(-2\right)\cdotp\left(-3xy+2\right)}{x + y};$ 
+4. ^*^ $\dfrac{\left(a^{3}+2b\right)}{\left(a^{3}-2b\right)}-\dfrac{\left(a^{5}+a\right)}{\left(a-1\right)}$.
 
 
 

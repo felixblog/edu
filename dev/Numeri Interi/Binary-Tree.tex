@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{forest}
+
+\begin{document}
+	
+	\begin{forest}
+		for tree={
+			circle
+			,draw
+			,minimum size=2em
+		    ,inner sep=1pt
+			%,l distance=1.5cm   % Vertical spacing between levels
+			%,s distance=1.5cm    % Horizontal spacing between siblings
+		}	
+  		[10                   % Root
+			[5                  % Left Child
+				[3]               % Left-Left
+				[7]               % Left-Right
+			]
+			[15                 % Right Child
+				[,phantom]        % Missing Left Child (keeps structure balanced)
+				[18]              % Right-Right
+			]
+		]
+	\end{forest}
+\end{document}
