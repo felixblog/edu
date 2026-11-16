@@ -27,7 +27,7 @@ Quando si scrive il prodotto di una lettera con un numero, un'altra lettera o co
 
 #### ESEMPIO 2
 
-a) $\dfrac{a \cdot b}{2}$ equivale a $\dfrac{ab}{2}$;
+a) $\dfrac{a \cdot b}{2}$ equivale a $\dfrac{ab}{2}$;
 
 b) $-3 \cdot b^2 +1$ equivale a $-3b^2+1$;
 
@@ -335,7 +335,7 @@ b) $-3x + 2x^2$.   I monomi non sono simili, non si sommano e la somma **non è 
 
 
 
-#### Somme di più monomi
+#### Somme (algebriche) di più monomi
 
 In una espressione letterale possono comparire dei monomi simili non vicini tra di loro, eventualmente insieme a dei numeri come ad esempio $2x^2 + x +5 -x^2 +7$. Poiché cambiando l'ordine degli addendi in una somma il risultato non cambia, i monomi di una somma si possono scambiare di posto, e la prima cosa da fare è ordinare i monomi per grado ed in ordine alfabetico:  $2x^2 -x^2 + x +5 +7$. Si vede così che i primi due monomi sono simili e si possono sommare tra di loro (ma non con gli altri!!!) e gli ultimi due numeri si possono sommare tra di loro, per cui, eseguendo le somme possibili, la somma di monomi diventa diventa $x^2 +x + 12$ dove non ci sono più operazioni da fare.
 
@@ -519,13 +519,13 @@ b) Scrivi il coefficiente della potenza di $x$ per ciascuno dei monomi seguenti.
 
 ## UNITA' 5: I Polinomi 
 
-La somma algebrica di più monomi (solo somma algebrica, senza alcuna parentesi) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***.
+La <u>somma algebrica</u> di più monomi (solo somma algebrica, senza alcuna parentesi) si dice ***polinomio***, ed i monomi che ne fanno parte si dicono ***termini***.
 
 Un polinomio è in ***forma normale*** (o **canonica**) se tutti i monomi sono in forma normale, non ci sono monomi simili ed i monomi sono ordinati per grado decrescente ed in ordine alfabetico tra quelli dello stesso grado.
 
 #### ESEMPIO 1
 
-L'espressione letterale $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2}$ è una somma algebrica di 5 monomi tutti in forma normale. Il polinomio non lo è perché sia il primo ed il quarto che il secondo ed il quinto monomio sono simili: se i monomi vengono riordinati e vengono sommati i monomi simili, otteniamo $-a^{2}b^{2}+2a^{2}-b^{2}$ che è i forma normale.     $\bullet$ 
+L'espressione letterale $a^{2}b^{2}+a^{2}-b^{2}-2a^{2}b^{2}+a^{2}$ è una somma algebrica di 5 monomi tutti in forma normale. Il polinomio non lo è perché sia il primo ed il quarto monomio che il secondo ed il quinto sono simili: se i monomi vengono riordinati e vengono sommati i monomi simili, otteniamo $-a^{2}b^{2}+2a^{2}-b^{2}$, che è in forma normale.     $\bullet$ 
 
 
 
@@ -539,7 +539,7 @@ c) $6x^5 -\dfrac{2}{3}x^3 + 2x$.
 
 In questi polinomi il grado coincide con l'esponente della potenza di $x$ con il grado maggiore; nel caso precedente il primo ed il secondo sono di **primo grado** (hanno grado 1), il terzo è di quinto grado (ha grado 5).
 
-Da ultimo osserviamo che anche un singolo monomio si considera un caso particolare di polinomio con un solo termine.
+Un caso particolare è quello di un polinomio che ha un solo monomio, ma che è comunque un polinomio.
 
 
 
@@ -567,7 +567,7 @@ a) Risolvi i punti a) e c) dell'esercizio con la sequenza di istruzioni GEOGEBRA
 
 ## UNITA' 6: Prodotti di monomi per polinomi ed espressioni
 
-Il prodotto di un monomio per un polinomio, come ad esempio $\dfrac{3}{2}ab^2 \cdot (-x + 3xy)$, è una espressione che ha come risultato il polinomio ottenuto sommando (algebricamente) tra di loro i prodotti del monomio a fattore per tutti i monomi del polinomio.
+Il prodotto di un monomio per un polinomio, come ad esempio $\dfrac{3}{2}ab^2 \cdot (-x + 3xy)$, è un polinomio che ha come risultato la somma algebrica dei prodotti del monomio a fattore per tutti i monomi del polinomio.
 
 Il polinomio è scritto tra parentesi, perché il monomio a fattore deve moltiplicare tutti i monomi del polinomio e non solo quello più vicino.
 
@@ -575,11 +575,11 @@ Il polinomio è scritto tra parentesi, perché il monomio a fattore deve moltipl
 
 Nel prodotto $-2(x^2 - x)$ Il monomio che moltiplica è il solo numero $-2$; il prodotto è calcolato di seguito.
 
-a) $-2(x^2 - x)$
+a) $-2(x^2 - x)$;
 
-b) $-2 \cdot (x^2) -2 \cdot (-x)$ 
+b) $-2 \cdot (x^2) -2 \cdot (-x)$;    Somma algebrica dei prodotti dei monomi
 
-c) $-2x^2+ 2x$    $\bullet$
+c) $-2x^2+ 2x$.    $\bullet$
 
 
 
@@ -589,7 +589,7 @@ Il prodotto $-3(1 + b)$ è il polinomio ottenuto con il procedimento seguente.
 
 a) $-3(1 + b)$;
 
-b) $-3 \cdot (1) -3 \cdot (+b)$;
+b) $-3 \cdot (1) -3 \cdot (+b)$;    Somma algebrica dei prodotti dei monomi
 
 c) $-3 -3b$.    $\bullet$
 
@@ -597,9 +597,9 @@ c) $-3 -3b$.    $\bullet$
 
 #### ESEMPIO 3
 
-a) $\dfrac{3}{2}ab^2 \cdot (-x + 3xy)$
+a) $\dfrac{3}{2}ab^2 \cdot (-x + 3xy)$;
 
-b) $\dfrac{3}{2}ab^2 \cdot (-x) + \dfrac{3}{2}ab^2 \cdot (3xy)$
+b) $\dfrac{3}{2}ab^2 \cdot (-x) + \dfrac{3}{2}ab^2 \cdot (3xy)$;    Somma algebrica dei prodotti dei monomi
 
 c) $-\dfrac{3}{2}ab^2x + \dfrac{9}{2}ab^2xy$.       $\bullet$
 
@@ -611,11 +611,13 @@ Nel prodotto di un monomio per un polinomio, il polinomio è sempre racchiuso tr
 
 Se quindi ci sono due monomi che moltiplicano, uno a sinistra ed uno a destra del polinomio, la parentesi si elimina dopo la moltiplicazione con il prodotto a destra. Dopo il primo prodotto a sinistra, davanti alla parentesi si mette il segno "$+$", che scomparirà alla fine insieme alla parentesi.
 
+Un procedimento alternativo è quello di moltiplicare tra di loro i monomi e poi moltiplicare il risultato per i polinomio.
+
 #### ESEMPIO 3
 
-a) $(1 - b)(-3)$
+a) $(1 - b)(-3)$;
 
-b) $1 \cdot (-3) -b \cdot (-3)$
+b) $1 \cdot (-3) -b \cdot (-3)$;
 
 c) $-3 + 3b$.     $\bullet$
 
@@ -623,15 +625,15 @@ c) $-3 + 3b$.     $\bullet$
 
 #### ESEMPIO 4
 
-a) $c -a(1 - b)(-3)$
+a) $c -a(1 - b)(-3)$;
 
-b) $c +(-a \cdot 1 -a \cdot (-b))(-3)$   compare il segno $+$ davanti alla parentesi del polinomio;
+b) $c +(-a \cdot 1 -a \cdot (-b))(-3)$;   compare il segno $+$ davanti alla parentesi del polinomio;
 
-c) $c +( -a + ab)(-3)$
+c) $c +( -a + ab)(-3)$;
 
-d) $c +(+3a - 3ab)$               il segno $+$ scompare con la moltiplicazione per $+1$;
+d) $c +(+3a - 3ab)$;       il segno $+$ scompare con la moltiplicazione per $+1$;
 
-e) $c +3a - 3ab$      $\bullet$
+e) $c +3a - 3ab$.      $\bullet$
 
 
 
@@ -697,31 +699,31 @@ a) Risolvi il punto a) dell'esercizio con la sequenza di istruzioni GEOGEBRA rip
 
 ## UNITA' 7^*^: Prodotti di polinomi
 
-Il prodotto di due polinomi è un polinomio che si calcola moltiplicando ogni monomio del primo polinomio per il secondo polinomio e sommando questi prodotti.
+Il prodotto di due polinomi è un polinomio che si calcola moltiplicando ogni monomio del primo polinomio per il secondo polinomio e sommando algebricamente questi prodotti.
 
 #### ESEMPIO 1
 
 Nell'esempio seguente il primo polinomio è formato dai monomi $+a$ e $+b$ per cui moltiplichiamo ognuno per il secondo polinomio e poi sommiamo:
 
-a) $(a + b)(c - d)$
+a) $(a + b)(c - d)$;
 
-b) $a(c - d) + b(c - d)$
+b) $a(c - d) + b(c - d)$;
 
-c) $a \cdot (c) + a \cdot (-d) + b \cdot (c) +b \cdot (-d)$
+c) $a \cdot (c) + a \cdot (-d) + b \cdot (c) +b \cdot (-d)$;
 
-d) $ac - a + bc -bd$     $\bullet$
+d) $ac - a + bc -bd$.     $\bullet$
 
 
 
 #### ESEMPIO 2
 
-a) $(1 - x)(1+x)$
+a) $(1 - x)(1+x)$;
 
-b) $1(1+x)-x(1+x)$
+b) $1(1+x)-x(1+x)$;
 
-c) $1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x$
+c) $1 \cdot 1 + 1 \cdot x -x \cdot 1 -x \cdot x$;
 
-d) $1 + x - x -x^2$
+d) $1 + x - x -x^2$;
 
 e) $1 - x^2$.    $\bullet$
 
@@ -739,8 +741,8 @@ a) Scrivi i risultati dei prodotti seguenti in forma normale.
 b)^*^   Scrivi i risultati dei prodotti seguenti in forma normale. 
 
 1. $\left(2x+y\right)\left(4x^{2}+2xy+y^{2}\right)$;
-2. $\left(a^{3}-3a+2\right)\left(\dfrac{1}{2}a+1\right)$
-3. $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right)$
+2. $\left(a^{3}-3a+2\right)\left(\dfrac{1}{2}a+1\right)$;
+3. $\left(a^{3}+2b\right)\left(a^{3}-2b\right)-\left(a^{5}+a\right)\left(a-1\right)$.
 
 #### Laboratorio GEOGEBRA
 
@@ -821,9 +823,14 @@ $Fattorizza(\dfrac{3}{4}a^2x^2 - 12ax^2 + 6a^3x)$ $\longrightarrow$ $\dfrac{3}{4
 
 a) Scrivi i polinomi seguenti come prodotto di un monomio per un polinomio, individuando il fattore comune ai termini del polinomio (messa in evidenza di un fattore comune).
 
-1. $6x^2-12y$;      $-4+6xy$;      $-a-b$;
-2. $a^2 +ax$;      $b^2y - b$;      $-y^2 +2xy + 3y$;
-3. ^*^  $-8x^2 -12xy$;      $4abc^2-8cba^2$.
+1. $6x^2-12y$;
+2. $-4+6xy$;
+3. $-a-b$;
+4. $a^2 +ax$;
+5. $b^2y - b$;
+6. $-y^2 +2xy + 3y$;
+7. ^*^ $-8x^2 -12xy$;
+8. ^*^ $4abc^2-8cba^2$.
 
 #### Laboratorio GEOGEBRA
 
@@ -839,49 +846,49 @@ Risolvi alcuni degli esercizi del punto a) dell'esercizio con la sequenza di ist
 
 ## UNITA' 9: Sostituzioni in espressioni letterali
 
-Come abbiamo visto nelle espressioni numeriche, anche nelle espressioni letterali è possibile fare delle sostituzioni, ma a differenza dei casi precedenti dove a lettere sostituivamo dei numeri, nel calcolo letterale possiamo **sostituire ad una lettera una espressione letterale**, ossia altre lettere. Le sostituzioni vanno sempre fatte tra parentesi. Dopo la sostituzione possiamo effettuare le operazioni di somma e prodotto tra monomi e polinomi finché il risultato non sia in forma normale. Vediamo degli esempi.
+Come abbiamo visto nelle espressioni numeriche, anche nelle espressioni letterali è possibile fare delle sostituzioni, ma a differenza dei casi precedenti dove a lettere sostituivamo dei numeri, nel calcolo letterale possiamo **sostituire ad una lettera una espressione letterale**. Le sostituzioni vanno sempre fatte tra parentesi. Dopo la sostituzione possiamo effettuare le operazioni di somma e prodotto tra monomi e polinomi finché il risultato non sia in forma normale. Vediamo degli esempi.
 
 #### ESEMPIO 1
 
 Consideriamo l'espressione $2 \cdot x + 1$ e sostituiamo alla lettera $x$ l'espressione $y - 1$. In simboli abbiamo
 
-a) $2 \cdot x + 1, \{x = y - 1\}$
+a) $2 \cdot x + 1, \{x = y - 1\}$;
 
-b) $2(y-1) + 1$     Moltiplicando e facendo le somme abbiamo 
+b) $2(y-1) + 1$;     Moltiplicando e facendo le somme abbiamo 
 
-c) $2(y-1) + 1$
+c) $2(y-1) + 1$;
 
-d) $2y- 2 + 1$
+d) $2y- 2 + 1$;
 
-e) $2y -1$     $\bullet$
+e) $2y -1$.     $\bullet$
 
 
 
 #### ESEMPIO 2
 
-$2 a(1 + x), \{x = a^2 - 1\}$  $\longrightarrow 2a(1 + (a^2 - 1))$. Moltiplicando e sommando otteniamo la forma normale del risultato.
+$2 a(1 + x), \; \{x = a^2 - 1\}$  $\longrightarrow 2a(1 + (a^2 - 1))$. Moltiplicando e sommando otteniamo la forma normale del risultato.
 
-a) $2a(1 + (a^2 - 1))$
+a) $2a(1 + (a^2 - 1))$;
 
-b) $2a(1 + a^2 -1)$
+b) $2a(1 + a^2 -1)$;
 
-c) $2a(a^2)$
+c) $2a(a^2)$;
 
-d) $2a^3$    $\bullet$
+d) $2a^3$.    $\bullet$
 
 
 
 #### ESEMPIO 3
 
-a) $\dfrac{b \cdot h}{2}, \{b = a - 1, h = a + 1\}$
+a) $\dfrac{b \cdot h}{2}, \; \{b = a - 1, h = a + 1\}$;
 
-b) $\dfrac{(a-1)(a+1)}{2}$
+b) $\dfrac{(a-1)(a+1)}{2}$;
 
-c) $\dfrac{a(a+1)-1(a+1)}{2}$
+c) $\dfrac{a(a+1)-1(a+1)}{2}$;
 
-d) $\dfrac{a^2+a-a-1}{2}$
+d) $\dfrac{a^2+a-a-1}{2}$;
 
-e) $\dfrac{a^2-1}{2}$    $\bullet$
+e) $\dfrac{a^2-1}{2}$.      $\bullet$
 
  
 
@@ -889,7 +896,7 @@ e) $\dfrac{a^2-1}{2}$    $\bullet$
 
 a) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tra parentesi graffe le rispettive espressioni e semplifica il risultato.
 
-1. $x-3y, \;\; \{x = -a, y = -ab\}$  
+1. $x-3y, \; \{x = -a, y = -ab\}$  
 2. $5x+y, \{y = -\dfrac{2}{3}x\}$ 
 
 b) Scrivi le espressioni letterali ottenute sostituendo alle lettere indicate tra parentesi graffe le rispettive espressioni e semplifica il risultato.
