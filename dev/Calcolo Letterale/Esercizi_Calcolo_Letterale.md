@@ -280,9 +280,9 @@ b)^*^  Per ciascuno dei punti precedenti, scrivi l'espressione letterale che si 
 
 
 
-## UNITA' 3: Somme e prodotti di monomi
+## UNITA' 3: Somme (algebriche) e prodotti di monomi
 
-Come abbiamo visto, due monomi come $s$ ed $s$ si possono sommare e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $2 \cdot s$, ossia l'espressione $s+ s$ sarà uguale a $2s$ per qualunque sostituzione. Questo accade per tutti i monomi che hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: due monomi che hanno queste caratteristiche si dicono simili, e la sommabilità vale solo per questi.
+Come abbiamo visto, due monomi come $s$ ed $s$ si possono sommare (algebricamente) e, qualunque numero sostituiamo ad $s$, il valore della somma sarà sempre uguale a $2 \cdot s$, ossia l'espressione $s+ s$ sarà uguale a $2s$ per qualunque sostituzione. Questo accade per tutti i monomi che hanno le stesse lettere ed ogni lettera compare lo stesso numero di volte: due monomi che hanno queste caratteristiche si dicono simili, e la sommabilità vale solo per questi.
 
 Diciamo infatti che:
 
@@ -299,7 +299,7 @@ $$
 -x
 }
 $$
-La somma di due monomi **non** simili **non** è un singolo monomi ma rimane una espressone letterale somma di due monomi che, vedremo, si dice **polinomio**.
+La somma (algebrica) di due monomi **NON SIMILI** **non** è un singolo monomio ma rimane una espressone letterale somma (algebrica) di due monomi che, come vedremo, si dice **polinomio**.
 
 #### ESEMPIO 1
 
@@ -830,7 +830,7 @@ a) Scrivi i polinomi seguenti come prodotto di un monomio per un polinomio, indi
 5. $b^2y - b$;
 6. $-y^2 +2xy + 3y$;
 7. ^*^ $-8x^2 -12xy$;
-8. ^*^ $4abc^2-8cba^2$.
+8. ^*^ $4abc^2-8cba^2$.
 
 #### Laboratorio GEOGEBRA
 
